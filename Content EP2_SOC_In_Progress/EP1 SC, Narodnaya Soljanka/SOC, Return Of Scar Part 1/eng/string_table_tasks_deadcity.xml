@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- DR edited -->
+
+<string id="cit_doctor_task">
+	<text>Stash in Pripyat.</text>
+</string>
+ 
+<string id="cit_doctor_task_0">
+	<text>Find Arrow's cache in Pripyat.</text>
+</string>
+ 
+<string id="cit_doctor_task_1">
+	<text>Get to the hotel.</text>
+</string>
+ 
+<string id="cit_doctor_task_2">
+	<text>Find a room with a cache in it.</text>
+</string>
+ 
+<string id="cit_doctor_task_3">
+	<text>Examine the cache.</text>
+</string>
+ 

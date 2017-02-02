@@ -1,0 +1,542 @@
+<!-- Ьbersetzt und angepasst durch Wlad Geschwendt aka 777-W.L.A.D. am 27.04.2008 -->
+<!-- Update am 06.11.2008 -->
+
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<string_table>
+
+	<string id="yantar_general_ucheniy_talk_start_101">
+		<text>Danke, дh ... "Gezeichneter", richtig? Sie haben geholfen, unseren Verbьndeten Kruglow zu retten. Und um Ihnen meine Dankbarkeit auszudrьcken, mцchte ich Ihnen einen unserer Arbeitsanzьge geben. Der ist sehr nьtzlich, wenn... Sie wissen schon... Kann ich Ihnen sonst noch irgendwie helfen?</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_1011">
+		<text>Ich suche Labor X-16. Der Wirt hat mir gesagt, dass Sie Informationen ьber die Lage haben mьssten.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_1012">
+		<text>Wir waren schon immer an Labor X-16 interessiert ... oder viel mehr an dem Mechanismus, der darin die Emissionen erzeugt, die direkt auf das Bewusstsein der Leute wirken. Aber ich fьrchte, da muss ich Sie enttдuschen. Ohne eine spezielle PSI-Rьstung kommen Sie niemals dahin. Wir wissen, was sonst passiert: Selbst, wenn Sie den Horden von Zombies ausweichen kцnnen, die den Eingang des Labors besetzen, laufen Sie Gefahr, einer von ihnen zu werden. Das ist alles sehr ernst.\n \nWir haben ein Abschirmgerдt entworfen, das die Emissionen abhдlt. Wir mьssen jedoch weitere Messungen machen, um die Feinabstimmung vorzunehmen. Wenn Sie uns dabei helfen, kцnnten wir Sie vermutlich mit einem voll kalibrierten Prototypen fьr die Feldforschung  ausrьsten.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_1013">
+		<text>Was muss ich dabei tun?</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_1014">
+		<text>Nicht viel... Wenn Sie zusammen mit unserem Verbьndeten alle notwendigen Messungen durchfьhren wьrden, kцnnte ich Ihnen einen voll funktionsfдhigen Prototypen der Rьstung ьberlassen. Damit werden Sie ziemlich wahrscheinlich ins Labor hineinkommen.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_10141">
+		<text>In Ordnung, dann machen wir das so.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_101411">
+		<text>Ausgezeichnet! Sprechen Sie mit Kruglow und legen Sie los. Er hat bereits die nцtige Ausrьstung.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_101412">
+		<text>In Ordnung.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_10142">
+		<text>In Ordnung, dann machen wir das so.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_101421">
+		<text>Ausgezeichnet! Sprechen Sie mit Semenow und legen Sie los. Er hat alles, was Sie brauchen werden.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_101422">
+		<text>In Ordnung.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_10143">
+		<text>Nein. Im Moment mцchte ich mich nicht damit befassen.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_101431">
+		<text>Zu Schade, eine echte Schande ... Ich weiЯ nicht, wie oder wann wir diese Messexpedition alleine hinbekommen sollen.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_11">
+		<text>Ja? Wonach suchen Sie denn?</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_111">
+		<text>Ich suche nach Labor X-16. Der Wirt hat mir gesagt, dass Sie vielleicht Informationen ьber die Lage besitzen.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_12">
+		<text>Ich danke Ihnen fьr Kruglows Rettung, "Gezeichneter". Nehmen Sie diesen Anzug als Belohnung fьr Ihre Mьhen. Aber ich nehme an, dass Sie nicht nur wegen einer einfachen Belohnung hergekommen sind, hab ich Recht?</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_121">
+		<text>Ich suche nach Labor X-16. Der Wirt hat mir gesagt, dass Sie vielleicht Informationen ьber die Lage besitzen.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_1211">
+		<text>Wir untersuchen die Emission in Labor X-16 seit einiger Zeit, aber Sie werden nicht ohne eine spezielle Ausrьstung dort hineinkommen. Wir haben ein Gerдt entwickelt, dass Schutz vor PSI-Einwirkungen bietet. Es kцnnte Sie vor der Emission schьtzen, aber es muss noch feinjustiert werden. Wenn Sie uns dabei helfen, kцnnte ich Ihnen einen funktionsfдhigen Prototypen geben, mit dem Sie in das Labor gelangen kцnnten.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_12111">
+		<text>In Ordnung.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_121111">
+		<text>Ausgezeichnet! Sprechen Sie mit Kruglow und legen Sie los. Er hat alles, was Sie brauchen werden.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_12112">
+		<text>Nein, noch bin ich dafьr nicht bereit.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_121122">
+		<text>Das ist wirklich schade. Bis jetzt waren wir noch nicht in der Lage, selbst eine Messexpedition loszuschicken.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_21">
+		<text>Ja? Wonach suchen Sie denn?</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_211">
+		<text>Wir waren schon immer an Labor X-16 interessiert ... Aber die genauen Koordinaten des Eingangs sind uns nicht bekannt. Und da hinein zu gelangen ist sehr gefahrlich...</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_2111">
+		<text>Erzдhlen Sie weiter.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_21111">
+		<text>Wir untersuchen die Emission in Labor X-16 seit einiger Zeit, aber Sie wirst nicht ohne eine spezielle Ausrьstung dort hineinkommen. Wir haben ein Gerдt entwickelt, dass Schutz vor PSI-Einwirkungen bietet. Es kцnnte Sie vor der Emission schьtzen, aber es muss noch feinjustiert werden. Wenn Sie uns dabei helfen, kцnnte ich Ihnen einen funktionsfдhigen Prototypen geben, mit dem Sie in das Labor gelangen kцnnten.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_21112">
+		<text>In Ordnung. Ich bin dabei.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_211121">
+		<text>Ausgezeichnet! Sprechen Sie mit Kruglow und legen Sie los. Er hat bereits die nцtige Ausrьstung.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_2111211">
+		<text>In Ordnung.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_21113">
+		<text>In Ordnung. Ich bin dabei.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_211131">
+		<text>Ausgezeichnet! Sprechen Sie mit Semenow und legen Sie los. Er hat alles, was Sie brauchen werden.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_211132">
+		<text>In Ordnung.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_211141">
+		<text>Sie verstehen nicht. Dort ist ein Emitter. Niemand war bislang in der Lage, sich ihm auf weniger als einen halben Kilometer zu nдhern - er macht aus jedem einen Zombie. Ohne Anzug dorthinzugehen ist regelrechter Selbstmord.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_2111411">
+		<text>Hm... Das дndert natьrlich alles.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_211142">
+		<text>Ach, was soll's. Sagen Sie mir einfach alles, was Sie wissen.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_211143">
+		<text>In Ordnung, aber sagen Sie hinterher nicht, ich hдtte Sie nicht gewarnt. Wasiliew hat an dem Laborproblem gearbeitet. Vor etwa einer Woche versuchten er und ein Stalker namens "Ghost" ins Labor einzudringen. Nach mehreren Stunden spьrten wir ein Beben und die Emissionen hцrten auf. Nach einer weiteren Stunde bekamen wir ein Signal von Wasiliew - es kam aus dem Sumpf, verschwand dann aber. So, wie es aussieht, ist Wasiliew von uns gegangen. Versuchen Sie, seinen Leichnam zu finden. Er hatte sehr genaue Informationen ьber das Labor - wo es liegt und wie man hineinkommt. Er wusste vielleicht auch, wie man die Emissionen abstellt. Der Eingang des Labors ist sehr wahrscheinlich in einem der Gebдude um den Reaktor versteckt.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_211144">
+		<text>Na dann gehe ich mal auf die Suche. Sumpf also... Klasse.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_21115">
+		<text>Nein... Im Moment mцchte ich mich nicht damit beschдftigen.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_211151">
+		<text>Zu Schade, eine echte Schande ... Ich weiЯ nicht, wie oder wann wir diese Messexpedition alleine hinbekommen sollen.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_221">
+		<text>Danke, дh... "Gezeichneter", richtig? Sie haben geholfen, unseren Verbьndeten Kruglow zu retten. Und um Ihnen meine Dankbarkeit auszudrьcken, mцchte ich Ihnen einen unserer Arbeitsanzьge geben. Der ist sehr nьtzlich, wenn... Sie wissen schon...</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_231">
+		<text>Sie haben hervorragende Arbeit geleistet, "Gezeichneter"! Jetzt, da die Emissionen abgeschaltet sind, werden wir in der Lage sein, neue Expeditionen durchzufьhren und zuvor unbegehbare Bereiche zu erkunden. Ihr Einsatz ist bewundernswert, und ich danke Ihnen persцnlich mit einer Information ьber einen Artefakt-Mesomodifikation. Lesen Sie sich das in Ruhe mal durch, Sie werden nicht enttдuscht sein... Und auЯerdem... werden wir Ihnen von jetzt an ganz besondere Preise machen.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_2311">
+		<text>Vielen Dank.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_241">
+		<text>Ja, "Gezeichneter"? Wonach suchen Sie?</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_31">
+		<text>Sie haben hervorragende Arbeit geleistet. Wenn die Messungen korrekt sind, sollte Ihnen der Prototyp maximalen Schutz vor der Emission gewдhren.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_311">
+		<text>Freut mich, das zu hцren.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_3111">
+		<text>Jetzt sollte der Weg zum Labor klar sein. Nur dass Sie vielleicht nicht genug Zeit haben zurьckzugelangen, wenn die Quelle der Emissionen nicht rechtzeitig zerstцrt wird und sie ihre Kraft verliert. Also, dies ist unsere Abmachung: Unsere Berechnungen haben eine geschдtzte Position der Quelle und die Tatsache hervorgebracht, dass diese Quelle unterirdisch ist. Ihr Einverstдndnis vorausgesetzt, habe ich die Stelle auf Ihrer Karte bereits markiert.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_31111">
+		<text>Wie genau kommt man denn nun ins Labor X-16 hinein? Wo ist der Eingang?</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_311111">
+		<text>Wasiliew hat an der Sache mit dem Labor gearbeitet. Vor einer Woche haben er und ein Stalker namens "Ghost" versucht, dort einzudringen. Ein paar Stunden spдter haben wir ein starkes Beben gespьrt, und eine weitere Stunde spдter haben wir ein Signal von Wasiliew empfangen. Es kam aus dem Sumpf, doch das Signal brach ab. Anscheinend ist Wasiliew gestorben. Versuchen Sie, seine Leiche zu finden. Er hatte die genauen Informationen ьber das Labor bei sich und wie man dort hinein gelangt. Vielleicht hat er sogar Informationen darьber, wie man die Quelle der Emission deaktiviert. Ich habe Ihnen alle Daten hochgeladen, die wir darьber haben.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_311112">
+		<text>Дhm... Es wдre sehr interessant, einen Blick auf diese Dokumente zu werfen. Sie meinen also, dass Wasiliew sie hat?</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_311113">
+		<text>Vielleicht. Auf jeden Fall mьssen Sie zunдchst Wasiliews Leiche finden. Das ist die einzige Chance, genaue Informationen ьber die Position des Labors zu bekommen. Wissen Sie, es scheint mir, dass er viel mehr ьber X-16 wusste, als er zugeben wollte. Wenn er irgendwie ьberlebt haben sollte ... Na ja, das fьhrt natьrlich zu nichts, an dieser Hoffnung festzuhalten.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_311114">
+		<text>In Ordnung, ich werde es versuchen.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_41">
+		<text>Warum ist er gestorben? Sie sollten ihn doch beschьtzen!</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_411">
+		<text>Kruglow ist von den Zombies umgebracht worden... Ich konnte nichts dagegen unternehmen. Es waren einfach zu viele.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_4111">
+		<text>Oh Mann, wie konnte das passieren? Wie konnte das nur passieren? Verdammt, es lдuft mal wieder alles falsch. Jetzt brauchen wir mehr Mдnner. Dabei haben wir schon genug Probleme... Verdammt...</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_41111">
+		<text>Hцren Sie mal ... Kruglow ist erledigt, aber ich lebe noch. Geben Sie mir den Prototyp. Ich werde mich ins X-16 durchkдmpfen.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_411111">
+		<text>Hier ist ein Prototyp. Seien Sie vorsichtig, er ist nicht richtig justiert, aber das ist Ihre Schuld, schlieЯlich konnten Sie unseren Kollegen nicht beschьtzen. Das Gerдt bietet Ihnen nicht den maximalen Schutz, aber es wird die Emission abschwдchen. Sie mьssen sich also mit der Suche nach der Quelle beeilen, Stalker.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_4111111">
+		<text>Wie kommt man ins Labor X-16 hinein? Wo genau befindet sich der Eingang?</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_41111111">
+		<text>Wasiliew hat an der Sache mit dem Labor gearbeitet. Vor einer Woche haben er und ein Stalker namens "Ghost" versucht, dort einzudringen. Ein paar Stunden spдter haben wir ein starkes Beben gespьrt, und eine weitere Stunde spдter haben wir ein Signal von Wasiliew empfangen. Es kam aus dem Sumpf, doch das Signal brach ab. Anscheinend ist Wasiliew gestorben. Versuchen Sie, seine Leiche zu finden. Er hatte die genauen Informationen ьber das Labor bei sich und wie man dort hinein gelangt. Vielleicht hat er sogar Informationen darьber, wie man die Quelle der Emission deaktiviert. Ich habe Ihnen alle Daten hochgeladen, die wir darьber haben.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_41112">
+		<text>Sonst noch irgendwas?</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_41113">
+		<text>Sie mьssen zunдchst Wasiliews Leiche finden. Das ist die einzige Chance, genaue Informationen ьber die Position des Labors zu bekommen. Wissen Sie, es scheint mir, dass er viel mehr ьber X-16 wusste, als er zugeben wollte. Wenn er irgendwie ьberlebt haben sollte ... Na ja, das fьhrt natьrlich zu nichts, an dieser Hoffnung festzuhalten.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_41114">
+		<text>In Ordnung, ich werde es versuchen.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_51">
+		<text>Warum ist er gestorben? Sie sollten ihn doch beschьtzen!</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_511">
+		<text>Semenow ist von den Zombies erschossen worden... Ich konnte nichts dagegen unternehmen. Es waren einfach zu viele.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_5111">
+		<text>Oh Mann, wie konnte das passieren? Wie konnte das nur passieren? Verdammt, es lдuft mal wieder alles falsch. Jetzt brauchen wir mehr Mдnner. Dabei haben wir schon genug Probleme... Verdammt...</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_51111">
+		<text>Hцren Sie... Semenow ist erledigt, aber ich lebe noch. Geben Sie mir den Prototyp. Ich werde mich ins X-16 durchkдmpfen.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_511111">
+		<text>Hier ist ein Prototyp. Seien Sie vorsichtig, er ist nicht richtig justiert, aber das ist Ihre Schuld, schlieЯlich konnten Sie unseren Kollegen nicht beschьtzen. Das Gerдt bietet Ihnen nicht den maximalen Schutz, aber es wird die Emission abschwдchen. Sie mьssen sich also mit der Suche nach der Quelle beeilen, Stalker.</text>
+	</string>
+	<string id="yantar_general_ucheniy_talk_start_5111111">
+		<text>Wie kommt man ins Labor X-16 hinein? Wo genau befindet sich der Eingang?</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_511111111">
+		<text>Wasiliew hat an der Sache mit dem Labor gearbeitet. Vor einer Woche haben er und ein Stalker namens "Ghost" versucht, dort einzudringen. Ein paar Stunden spдter haben wir ein starkes Beben gespьrt, und eine weitere Stunde spдter haben wir ein Signal von Wasiliew empfangen. Es kam aus dem Sumpf, doch das Signal brach ab. Anscheinend ist Wasiliew gestorben. Versuchen Sie, seine Leiche zu finden. Er hatte die genauen Informationen ьber das Labor bei sich und wie man dort hinein gelangt. Vielleicht hat er sogar Informationen darьber, wie man die Quelle der Emission deaktiviert. Ich habe Ihnen alle Daten hochgeladen, die wir darьber haben.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_51112">
+		<text>Дhm ... Es wдre sehr interessant, einen Blick auf diese Dokumente zu werfen. Sie meinen also, dass Wasiliew sie hat?</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_51113">
+		<text>Vielleicht. Auf jeden Fall mьssen Sie zunдchst Wasiliews Leiche finden. Das ist die einzige Chance, genaue Informationen ьber die Position des Labors zu bekommen. Wissen Sie, es scheint mir, dass er viel mehr ьber X-16 wusste, als er zugeben wollte. Wenn er irgendwie ьberlebt haben sollte... Na ja, das fьhrt natьrlich zu nichts, an dieser Hoffnung festzuhalten.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_51114">
+		<text>In Ordnung, ich werde es versuchen.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_61">
+		<text>Ja, "Gezeichneter"?</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_71">
+		<text>Ja, "Gezeichneter"?</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_81">
+		<text>Zu schade, dass Kruglow tot ist... Leider kann ihn nichts zurьckbringen. Es ist дuЯerst wichtig, dass Sie uns die Messdaten bringen. haben Sie sie?</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_811">
+		<text>Ja. Hier.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_8111">
+		<text>In Ordnung, ich werde eben den Prototyp justieren. Warten Sie hier.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_81111">
+		<text>Verstanden.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_812">
+		<text>Nein.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_8121">
+		<text>Dann holen Sie sie, und zwar schnell! Ich kann den Prototypen ohne die Daten nicht richtig kalibrieren.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_91">
+		<text>Sie haben hervorragende Arbeit geleistet. Wenn die Messungen korrekt sind, sollte Ihnen der Prototyp maximalen Schutz vor der Emission gewдhren.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_911">
+		<text>Kцnnen Sie sich etwas klarer ausdrьcken?</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_9111">
+		<text>Stalker, jetzt werden Sie in der Lage sein, in das Labor einzudringen, aber wenn Sie den Emitter nicht ausschalten, werden Sie nicht lange durchhalten, auch nicht mit dem Schutz vor der PSI-Einwirkung. Wir haben den ungefдhren Ort des Emitters ermittelt, irgendwo in der unterirdischen Einrichtung. Ich habe eine Markierung auf Ihrer Karte gesetzt.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_9112">
+		<text>Wie kommt man ins Labor X-16 hinein? Wo genau befindet sich der Eingang?</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_9113">
+		<text>Wasiliew hat an der Sache mit dem Labor gearbeitet. Vor einer Woche haben er und ein Stalker namens "Ghost" versucht, dort einzudringen. Ein paar Stunden spдter haben wir ein starkes Beben gespьrt, und eine weitere Stunde spдter haben wir ein Signal von Wasiliew empfangen. Es kam aus dem Sumpf, doch das Signal brach ab. Anscheinend ist Wasiliew gestorben. Versuchen Sie, seine Leiche zu finden. Er hatte die genauen Informationen ьber das Labor bei sich und wie man dort hinein gelangt. Vielleicht hat er sogar Informationen darьber, wie man die Quelle der Emission deaktiviert. Ich habe Ihnen alle Daten hochgeladen, die wir darьber haben.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_9114">
+		<text>Дhm ... Es wдre sehr interessant, einen Blick auf diese Dokumente zu werfen. Sie meinen also, dass Wasiliew sie hat?</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_9115">
+		<text>Vielleicht. Auf jeden Fall mьssen Sie zunдchst Wasiliews Leiche finden. Das ist die einzige Chance, genaue Informationen ьber die Position des Labors zu bekommen. Wissen Sie, es scheint mir, dass er viel mehr ьber X-16 wusste, als er zugeben wollte. Wenn er irgendwie ьberlebt haben sollte... Na ja, das fьhrt natьrlich zu nichts, an dieser Hoffnung festzuhalten.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_talk_start_9116">
+		<text>In Ordnung, ich werde es versuchen.</text>
+	</string>
+	
+	<string id="yantar_help_scientist_101">
+		<text>Wir haben keine Zeit mehr ...</text>
+	</string>
+	
+	<string id="yantar_help_scientist_11">
+		<text>Ja, "Gezeichneter"?</text>
+	</string>
+	
+	<string id="yantar_help_scientist_111">
+		<text>Der Professor hat mich gebeten, einen kleinen Ausflug zum Messpunkt zu machen.</text>
+	</string>
+	
+	<string id="yantar_help_scientist_1111">
+		<text>Jetzt kommen wir zur Sache! Wir sollten sofort aufbrechen. Es wдre nutzlos, alleine dorthin zu gehen, aber mit Ihnen ist das etwas anderes... Ich denke, wir werden das schnell erledigen kцnnen - Achten Sie nur darauf, den wandernden Leichen nicht zu nahe zu kommen. Sind Sie bereit?</text>
+	</string>
+	
+	<string id="yantar_help_scientist_11111">
+		<text>Ja, bin ich.</text>
+	</string>
+	
+	<string id="yantar_help_scientist_111111">
+		<text>Ich sag Ihnen was: Warum gehen Sie nicht vor? Im Gegensatz zu mir haben Sie jede Menge Erfahrung. Und diese Kadaver da drauЯen sind schon wieder sehr aktiv...</text>
+	</string>
+	
+	<string id="yantar_help_scientist_1111111">
+		<text>In Ordnung.</text>
+	</string>
+	
+	<string id="yantar_help_scientist_21">
+		<text>Mann, der "Gezeichneter" hцchstpersцnlich! Endlich schaffen Sie's mal in unsere Gegend. Reden Sie doch mal mit dem Professor. Er wollte Ihnen noch fьr meine Rettung danken.</text>
+	</string>
+	
+	<string id="yantar_help_scientist_31">
+		<text>Spдter, spдter!</text>
+	</string>
+	
+	<string id="yantar_help_scientist_41">
+		<text>Hey, "Gezeichneter"! Wie lдuft es?</text>
+	</string>
+	
+	<string id="yantar_help_scientist_51">
+		<text>Ja, "Gezeichneter"?</text>
+	</string>
+	
+	<string id="yantar_help_scientist_511">
+		<text>Der Professor hat mich gebeten, einen kleinen Ausflug zum Messpunkt zu machen.</text>
+	</string>
+	
+	<string id="yantar_help_scientist_512">
+		<text>Jetzt kommen wir zur Sache! Wir sollten sofort aufbrechen. Es wдre nutzlos, alleine dorthin zu gehen, aber mit Ihnen ist das etwas anderes... Ich denke, wir werden das schnell erledigen kцnnen - Achten Sie nur darauf, den wandernden Leichen nicht zu nahe zu kommen. Sind Sie bereit?</text>
+	</string>
+	
+	<string id="yantar_help_scientist_513">
+		<text>Ja, das bin ich.</text>
+	</string>
+	
+	<string id="yantar_help_scientist_514">
+		<text>Wissen Sie was? Warum gehen Sie nicht vor? Sie haben viel Erfahrung, ich nicht. Und diese Kadaver da drauЯen sind wieder sehr aktiv...</text>
+	</string>
+	
+	<string id="yantar_help_scientist_515">
+		<text>In Ordnung.</text>
+	</string>
+	
+	<string id="yantar_help_scientist_61">
+		<text>Tut mir Leid, im Moment habe ich dafьr keine Zeit.</text>
+	</string>
+	
+	<string id="yantar_help_scientist_71">
+		<text>Hey, "Gezeichneter"! Wie lдuft es denn so?</text>
+	</string>
+	
+	<string id="yantar_help_scientist_81">
+		<text>Warte einen Moment... Wir mьssen uns erst noch zu Ende unterhalten.</text>
+	</string>
+	
+	<string id="yantar_help_scientist_91">
+		<text>Moment! Ich bin mit den Messungen noch nicht fertig!</text>
+	</string>
+	
+	<string id="yantar_wounded_scientist_11">
+		<text>Uah! Autsch ... Aaah!</text>
+	</string>
+	
+	<string id="yantar_wounded_scientist_111">
+		<text>Du lebst? Komm, steh auf... Steh langsam auf. Es ist vorbei. Wir haben das jetzt hinter uns.</text>
+	</string>
+	
+	<string id="yantar_wounded_scientist_21">
+		<text>Hey, "Gezeichneter". Wie geht es Ihnen?</text>
+	</string>
+	
+	<string id="yantar_wounded_scientist_211">
+		<text>Fertig! Pack die Kamera ein, es wird Zeit, dass wir gehen!</text>
+	</string>
+	
+	<string id="yantar_wounded_scientist_31">
+		<text>Hey, "Gezeichneter"! Wie lдuft es denn so?</text>
+	</string>
+
+	<string id="yantar_general_ucheniy_story_0">
+		<text>Ich habe ьber eine auslдndische Expedition gehцrt, die hier in der Zone verunglьckt ist...</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_story_1">
+		<text>Darьber, mein Guter, haben schon alle gehцrt. Hat Ihnen Sidorowitsch das erzдhlt?</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_story_2">
+		<text>Ja, das hat er.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_story_22">
+		<text>Und was wollen Sie darьber wissen?</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_story_23">
+		<text>Haben Sie auch damals an der Expedition teilgenommen?</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_story_24">
+		<text>Ich sollte das auch, aber ich war nicht dabei... Es ist sehr schwer fьr mich, ьber diese schreckliche Tragцdie zu sprechen. Damals sind sehr viele meine Freunde und Kollegen gestorben... Andererseits, es ist schon zwei Jahre her... Aber wenn es Sie so interessiert, dann erzдhle ich Ihnen was darьber. Wie gesagt, es war vor zwei Jahren. Alles fing mit einer wissenschaftlicher Kongresstagung im Berlin, als Hauptthema wurde die Zone und ihre Auswirkungen auf die Umwelt behandelt. Es wurde beschlossen eine Expedition in die Zone zu organisieren, mit fьhrenden Wissenschaftlern als Mitglieder, um die Umwelt der Zone zu erforschen und Informationen zu sammeln. Sponsoren wurden gefunden, die ukrainische Regierung hat zugestimmt und drei Monate spдter hat man mit Vorbereitungen auf einer Militдrbasis, in der Nдhe von Tschernobyl, angefangen. Da kamen die besten Gelehrten an, sozusagen die Leuchtfeuer der Wissenschaft, unsere und auslдndische Spezialisten auf den Gebieten der Physik, Chemie, Biologie und Цkologie.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_story_25">
+		<text>Die allgemeinen Fakten kenne ich schon. Weiter.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_story_26">
+		<text>Es wurde massenweise Ausrьstung gekauft: Schutzanzьge, Messgerдte, ein Mobillabor usw. Die Regierung hat uns zwei Speznaz-Einheiten als Schutz und spezielle Transporter zu Verfьgung gestellt. Auch Stalker und Dolmetscher sollten teilnehmen, sogar die Presse war mit dabei. Nach zwei Wochen Vorbereitungen und speziellen Lehrgдngen brach die Gruppe in die Zone auf, nach Gorky-32. Und dann ist es passiert! Einen Tag vor dem Start wurde ich krank und musste vier Tage im Hospital verbringen, was mir, eigentlich, das Leben rettete. Und ich war damals so niedergeschlagen, und war auf meine Kollegen neidisch... Man versprach mir, das ich nach der Genesung mit einem Hubschrauber in den Lager eingeflogen werde. Die Expedition kam dann in Gorky-32 an. Ein Hubschraber hat genau so ein Mobillabor, wie das unsere hier, dahin transportiert. Alles lief erst bestens. Jeden Tag gab es Nachrichten aus dem Lager ьber neue Erkenntnisse und Entdeckungen - keiner zweifelte an dem Erfolg der Expedition. Und ich lag im Lazarett und дrgerte mich schwarz...</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_story_27">
+		<text>Weiter.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_story_28">
+		<text>Aber in Kьrze gingen dann seltsame Dinge im Lager vor. Erst haben wir grundlose Gereiztheit und Aggressivitдt der Kollegen bei Funkgesprдchen bemerkt. Aber wir dachten uns nicht dabei, nicht jeder hat Nerven aus Stahl. Das sind zwei Speznaz-Leute verschwunden. Drei Tage nach Beginn der Expedition bekamen wir eine Meldung darьber, das Prof. Rosenberg im Affektzustand Selbstmord begangen hat. Er hat sich erschossen. diese Nachricht hat uns schockiert! Noch zwei Tage spдter brach die Verbindung mit dem Lager ab. Wir waren verzweifelt, ein Hubschrauber sollte die Lage prьfen, konnte aber wegen eines Sturms nicht starten. Wir konnten nur warten. Am nдchsten Tag berichteten zwei Stalker, das sie nachts sahen, wie ein Transporter, mit mehreren Leuten am Bord, bei dem Faulen Wald in den Hinterhalt der Banditen geraten ist. Das Militдr hat sofort einen Rettungstrupp hingeschickt. Was da vorgefallen ist, hat Ihnen wohl schon Sidorowitsch erzдhlt, es haben nur drei Leute ьberlebt, in dem sie sich im Wald versteckten. Als man sie fand, sahen sie eher wie Tiere aus, und nicht wie Menschen. Verdreckt, wild und verдngstigt. Sie kamen einen vor wie Patienten eines Psychiatrie-Klinik vor, kaum zu glauben das diese Menschen noch vor einer Woche normal waren. Man musste sie ьber einen Monat intensiv behandeln, um ihre Psyche wenigstens teilweise wieder herzustellen.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_story_29">
+		<text>Und wie endete das alles?</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_story_291">
+		<text>Eine Untersuchungskommission hat die Fakten und die Berichte der Ьberlebenden analysiert und kam zum folgendem Schluss: Die Ursache diesen unvorstellbaren Unglьcks war eine gewaltig starke PSI-Strahlung, die in der Zone als "Hirnschmelzer" bekannt ist. Lдngere Zeit dieser Strahlung ausgesetzt, fing die Psyche der Menschen sich zu verдndern an: Es kam zu Aggressivitдt, Wutausbrьchen und tollwutдnlichen Anfдllen. Manche kamen mit der Belastung nicht zurecht und tцteten sich selbst, wie der arme Rosenberg. Andere fielen Kollegen an, wie wilde Tiere. Es kam zum Blutbad. Die Mutanten nutzten die Tatsache, daЯ das Lager unbewacht blieb, auch noch aus und fielen da ein. Die, die noch ein wenig bei Verstand waren, haben versucht zurьckzukehren. Den Rest kennen Sie ja schon... So endete die Expedition nach Gorky-32... Ich habe mir damals geschworen, das ich die Zone erst dann verlasse, wenn ich die Strahlung voll erforscht habe und ein Schutz dagegen entwickle...\n \nSo, "Gezeichneter", jetzt habe ich schon zu lange mit Ihnen geplaudert, jetzt muss ich wieder an die Arbeit.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_story_292">
+		<text>Ja-ja, ich werde Sie nicht weiter stцren, Proffessor...</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_story_3">
+		<text>Nein, er nicht.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_story_33">
+		<text>Dann befragen Sie besser ihn, ich hab jetzt keine Zeit fьr Erzдhlungen.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_story2_0">
+		<text>Professor, haben Sie auch irgendwelche nьtzliche Informationen ьber Monster?</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_story2_1">
+		<text>Ja, natьrlich - hier ist der letzte Bericht von Kruglow ьber Poltergeiste.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_story2_2">
+		<text>Wдre interessant darьber zu hцren, man hat mir schon verschiedenste Sachen ьber die erzдhlt.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_story2_3">
+		<text>Also. Was wissen wir ьber Poltergeiste:\n \n1. Wahrscheinlich sind das Menschen, die einer sehr starken Eruption ausgesetzt wurden. Sie wurden zu extrasensitiven Wesen mit hцchsten Krдften und kцnnen Tiere, Menschen, Mutanten und, begrenzt, auch Telepathen kontrollieren.\n \n2. Kцnnen wohl nicht als materielle Gestalt gesehen werde. Berichten der Stalker zufolge, die ihr Verstand verloren hatten - sind das Kugelblitz- oder Feuerball-дhnliche Objekte. Wir wissen nicht, was nach der Vernichtung dieser passiert, und ob man diese ьberhaupt tцten kann.\n \n3. Telekinetische Eigenschaften variieren. Kцnnen Objekte bewegen und schleudern, kleinere als auch so grosse wie Eisentьren.\n \n4. Es wurde ein reproduktives Zusammenhang zwischen allen Telepathen festgestellt. Erst erscheint der Poltergeist. Von ihm stammte vermutlich der Telepath ab. Es ist unbekannt, wie es dazu kommt, wahrscheinlich ist der Telepath ein Mensch, der sehr lange unter dem Einfluss des Poltergeistes stand. Irgendwann befreit sich wohl das Bewusstsein des Telepathen als Poltergeist's Fдngen. Dann regressiert der Telepath zum Bьrer. Zu diesen Erkenntnissen kamen die Wissenschaftler, die vor 2 Jahren im Zentrum der Zone verschollen sind.\n \n5. Wohnen vermutlich in Katakomben und Kellern, wobei ihr Einfluss auch in der ganzen Zone zu spьren ist.\n \n6. Analyse der Energetik des Telepathen hat eine Energieverbindung mit hцheren Bewusstsein ergeben. Vermutlich des Poltergeistes. Also, man kann wohl Poltergeist tцten, in dem man seine Energiebalance stцrt...</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_story2_4">
+		<text>Geht es auch verstдndlicher, Professor?</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_story2_5">
+		<text>SchieЯen mьssen Sie auf die, "Gezeichneter", viel schieЯen.</text>
+	</string>
+	
+	<string id="yantar_general_ucheniy_story2_6">
+		<text>Alles klar, vielen Dank fьr die Information!</text>
+	</string>
+	
+</string_table>

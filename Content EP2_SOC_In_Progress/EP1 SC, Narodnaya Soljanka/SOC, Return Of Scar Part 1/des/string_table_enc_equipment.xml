@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+	<string_table>
+#include "text\rus\string_table_amk_matras.xml"
+#include "text\rus\string_table_amk_metka.xml"
+#include "text\rus\string_table_vergas.xml"
+		<string id="Antirad">
+			<text>Strahlenschutzmittel</text>
+		</string>
+		<string id="Arm-heavy">
+			<text>Schwere Stalkerausrьstung</text>
+		</string>
+		<string id="Arm-light">
+			<text>Leichte Stalkerausrьstung</text>
+		</string>
+		<string id="Arm-medium">
+			<text>Mittlere Stalkerausrьstung</text>
+		</string>
+		<string id="bandage">
+			<text>Verbandspдckchen</text>
+		</string>
+		<string id="Binocul">
+			<text>Fernglas</text>
+		</string>
+		<string id="Bread">
+			<text>Brot</text>
+		</string>
+		<string id="cit_deadcity_maps_desc">
+			<text>Eine genaue Karte der "Totenstadt" mit Sцldnerpositionen.</text>
+		</string>
+		<string id="cit_deadcity_maps_name">
+			<text>Karte der "Totenstadt"</text>
+		</string>
+		<string id="cit_doctors_key_desc">
+			<text>Schlьssel des Doktors zum geheimen Versteck bei Prypjat</text>
+		</string>
+		<string id="cit_doctors_key_short_desc">
+			<text>Schlьssel des Doktors</text>
+		</string>
+		<string id="Conserva">
+			<text>Touristenfreude</text>
+		</string>
+		<string id="Detect1">
+			<text>Anomaliedetektor</text>
+		</string>
+		<string id="Detect2">
+			<text>Geiger-Zдhler</text>
+		</string>
+		<string id="Detect3">
+			<text>Anomaliedetektor</text>
+		</string>
+		<string id="Detect4">
+			<text>Gepatchter Anomaliedetektor</text>
+		</string>
+		<string id="Devic">
+			<text>Instrumente und Gerдte</text>
+		</string>
+		<string id="device-PDA">
+			<text>PDA</text>
+		</string>
+		<string id="device-torch">
+			<text>Taschenlampe</text>
+		</string>
+		<string id="enc_equipment_armors_arm-heavy">
+			<text>Schutzanzug. Gewicht: 18 kg. Details: Schьtzt vor Schleim, Brennflaum, den meisten Anomalien und physischem Schaden. Torso und Rьcken haben eingebaute biometallische Platten. Zum Anzug gehцren ein luftdichter verstдrkter Plastikhelm und zwei Sauerstoffflaschen. Hinweis: Bei extensivem Gebrauch reiЯt der Anzug und wird allmдhlich unbrauchbar.</text>
+		</string>
+		<string id="enc_equipment_armors_arm-light">
+			<text>Schutzanzug. Gewicht: 8 kg. Details: Schьtzt vor schwachen Anomalien und physischem Schaden. Zum Anzug gehцrt eine Sauerstoffmaske. Hinweis: Bei extensivem Gebrauch reiЯt der Anzug und wird allmдhlich unbrauchbar.</text>
+		</string>
+		<string id="enc_equipment_armors_arm-medium">
+			<text>Schutzanzug: Gewicht:12 kg. Details: Schьtzt den Trдger vor Schleim, Brennflaum, vielen Anomalien und physischem Schaden. Zum Anzug gehцren ein luftdichter Helm und eine Sauerstoffflasche. Hinweis: Bei extensivem Gebrauch reiЯt der Anzug und wird allmдhlich unbrauchbar.</text>
+		</string>
+		<string id="enc_equipment_armors_sci2">
+			<text>Ein roter S.C.A.P.E.-Anzug mit luftdichtem Helm. Gewicht: 11 kg. Beschreibung: Schьtzt vor Feuer, Sдure, Giftgas, verschiedenen Anomalien, Brennflaum und physischem Schaden. Mit zwei Sauerstoffflaschen. Hinweis: Bei extensivem Gebrauch reiЯt der Anzug und wird allmдhlich unbrauchbar.</text>
+		</string>
+		<string id="enc_equipment_devic_binocul1">
+			<text>Militдrisches Kompakt-Fernglas</text>
+		</string>
+		<string id="enc_equipment_devic_detect1">
+			<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten%c[default].\n \nGeiger-Zдhler. Ein Gerдt zur Messung der Stдrke radioaktiver Strahlung und der Kontaminierung des Kцrper damit. Muss am Gьrtel befestigt und aktiviert werden, damit es funktioniert.</text>
+		</string>
+		<string id="enc_equipment_devic_detect2">
+			<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten%c[default].\n \nEin Gerдt zur Ortung von Anomalien und Stцrungen. Zeigt deren Nдhe akkustisch an. Muss am Gьrtel befestigt und aktiviert werden, damit es funktioniert.</text>
+		</string>
+		<string id="enc_equipment_devic_detect3">
+			<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten%c[default].\n \nEin durch die Wissenschaftler des Sacharow-Labors gepatchter Detektor zur Ortung von Anomalien und Stцrungen. Warnt in deren Nдhe nicht nur akkustisch, sondern synchronisiert sich mit dem PDA des Besitzers und zeigt deren Lage auf der Karte an. Muss am Gьrtel befestigt und aktiviert werden, damit es funktioniert</text>
+		</string>
+		<string id="enc_equipment_devic_device-PDA1">
+			<text>Persцnlicher Digitaler Assistent (PDA) - unverzichtbar in der Zone.</text>
+		</string>
+		<string id="enc_equipment_devic_device-torch1">
+			<text>Eine starke Taschenlampe. Sehr nьtzlich in dunklen Bereichen.</text>
+		</string>
+		<string id="enc_equipment_devic_device-torch1_m1">
+			<text>Eine starke Taschenlampe. Dank eines modernen Transformators wurde die Aufladezeit der Akkus verkьrzt.</text>
+		</string>
+		<string id="enc_equipment_energydrink">
+			<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten%c[default].\n \nHervorragender Energiedrink "S.T.A.L.K.E.R." aus Koffein, Taurin und Vitaminen-Komplex. Genau das Richtige, wenn man im Stehen einschlдft!</text>
+		</string>
+		<string id="enc_equipment_energydrinka">
+			<text>Unknown object. The label says that the beer.</text>
+		</string>
+		<string id="enc_equipment_food_bread1">
+			<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten.\n%c[255,1,255,255]Kaloriengehalt:%c[255,1,255,1] Stufe 1%c[default].\n \nSchwer zu sagen, wer es schafft, in der Zone Brot zu backen, aber das Brot ist unverseucht und schmackhaft. Jedenfalls hat sich noch kein Stalker darьber beschwert. Leider vertrocknet und verschimmelt es ziemlich schnell.</text>
+		</string>
+		<string id="enc_equipment_food_conserva1">
+			<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten.\n%c[255,1,255,255]Kaloriengehalt:%c[255,1,255,1] Stufe 3%c[default].\n \nKonserviertes Rindfleisch, aus einem durch Stalker geplьnderten Militдrlagerhaus. Das Mindesthaltbarkeitsdatum auf der Dose ist zwar lдngst ьberschritten, aber so lange die Dose nicht aufgeblдht ist, wird der Inhalt wohl noch in Ordnung sein.</text>
+		</string>
+		<string id="enc_equipment_food_kolbasa1">
+			<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten.\n%c[255,1,255,255]Kaloriengehalt:%c[255,1,255,1] Stufe 2%c[default].\n \nDie Wurst aus Fleisch unbekannter Herkunft und Soja ist fьr einen Stalker oft Frьhstьck-, Mittag- und Abendessen in einem.</text>
+		</string>
+		<string id="enc_equipment_food_vodka1">
+			<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 2.0 Einheiten.\n%c[255,1,255,255]Kaloriengehalt:%c[255,1,255,1] Stufe 1%c[default].\n \nWodka vom Hersteller GSC. Sьffig und schmackhaft, sollte aber aus offensichtlichen Grьnden nur in MaЯen genossen werden.</text>
+		</string>
+		<string id="enc_equipment_medi_antirad1">
+			<text>Das Preparat reduziert die Strahlungswirkung. Sagt man..
+\n%c[Standard]========================
+\n%c[255,255,215,0]Medizinische Wirkung:
+\n%c[255,1,255,255]Gesundheit:%c[default] 0%
+\n%c[255,1,255,255]Ausdauer: %c[default]0%
+\n%c[255,1,255,255]Strahlung: %c[255,1,255,1]-100%
+\n%c[255,1,255,255]Blutung:%c[default]0%
+\n%c[255,1,255,255]Alkohol: %c[default]0%
+\n%c[Standard]========================
+\n%c[255,255,215,0]Das Prдparat hдlt: %c[255,1,255,1]1 minute</text>
+		</string>
+		<string id="enc_equipment_medi_bandage1">
+			<text>Einfaches Verbandspдckchen. Stillt Blutungen.
+\n%c[default]========================
+\n%c[255,255,215,0]Medizinische Wirkung:
+\n%c[255,1,255,255]Gesundheit:%c[255,1,255,1] +2,5%
+\n%c[255,1,255,255]Ausdauer: %c[255,255,69,0]-20%
+\n%c[255,1,255,255]Strahlung: %c[default]0%
+\n%c[255,1,255,255]Blutung:%c[255,1,255,1]-30%
+\n%c[255,1,255,255]Alkohol: %c[default]0%
+\n%c[default]========================
+\n%c[255,255,215,0]Das Prдparat hдlt: %c[255,1,255,1]2 Minuten</text>
+		</string>
+		<string id="enc_equipment_medi_medkit1">
+			<text>Ein Allzweck-Medkit. Man behandelt damit verschiedene Arten von Verletzungen - Wunden, Verbrennungen, Giftunfдlle, usw.
+\n%c[default]========================
+\n%c[255,255,215,0]Medizinische Wirkung:
+\n%c[255,1,255,255]Gesundheit:%c[255,1,255,1] +30%
+\n%c[255,1,255,255]Ausdauer: %c[255,255,69,0]-30%
+\n%c[255,1,255,255]Strahlung: %c[255,1,255,1]-10%
+\n%c[255,1,255,255]Blutung: %c[255,1,255,1]-30%
+\n%c[255,1,255,255]Alkohol: %c[default]0%
+\n%c[default]========================
+\n%c[255,255,215,0]Das Prдparat hдlt: %c[255,1,255,1]3 Minuten</text>
+		</string>
+		<string id="enc_equipment_medi_medkit2">
+			<text>Ein spezielles Medkit gegen physischen Schaden und Blutverlust. Darin enthalten sind ein blutgerinnendes Mittel, Antibiotika, Immunstimulatoren und Schmerzmittel.
+\n%c[default]========================
+\n%c[255,255,215,0]Medizinische Wirkung:
+\n%c[255,1,255,255]Gesundheit:%c[255,1,255,1] +60%
+\n%c[255,1,255,255]Ausdauer: %c[255,255,69,0]-30%
+\n%c[255,1,255,255]Strahlung: %c[255,1,255,1]-10%
+\n%c[255,1,255,255]Blutung: %c[255,1,255,1]-100%
+\n%c[255,1,255,255]Alkohol: %c[default]0%
+\n%c[default]========================
+\n%c[255,255,215,0]Das Prдparat hдlt: %c[255,1,255,1]4 Minuten</text>
+		</string>
+		<string id="enc_equipment_medi_medkit3">
+			<text>nMedkit, speziell entworfen fьr die Zone. Das Kit enthдlt Mittel zur Wundheilung wie zur Eliminierung von Radionukliden im Kцrper. Verhindert das Entstehen der Strahlenkrankheit und senkt die Dosis der gesamtabsorbierten Strahlung.
+\n%c[default]========================
+\n%c[255,255,215,0]Medizinische Wirkung:
+\n%c[255,1,255,255]Gesundheit:%c[255,1,255,1] +100%
+\n%c[255,1,255,255]Ausdauer: %c[255,255,69,0]-30%
+\n%c[255,1,255,255]Strahlung: %c[255,1,255,1]-50%
+\n%c[255,1,255,255]Blutung: %c[255,1,255,1]-30%
+\n%c[255,1,255,255]Alkohol: %c[default]0%
+\n%c[default]========================
+\n%c[255,255,215,0]Das Prдparat hдlt: %c[255,1,255,1]5 Minuten</text>
+		</string>
+		<string id="energy_drink_name">
+			<text>Energiedrink "S.T.A.L.K.E.R."</text>
+		</string>
+		<string id="energy_drink_name_dbeer">
+			<text>Bier ... aus unbekannter Herkunft</text>
+		</string>
+		<string id="energy_drink_name_dbeer_short">
+			<text>Bier, Etikett nicht lesbar.</text>
+		</string>
+		<string id="amk_ballon_name">
+			<text>Kanister mit kolloidalem Gas</text>
+		</string>
+		<string id="amk_ballon_name_short">
+			<text>Kanister mit kolloidalem Gas</text>
+		</string>
+		<string id="amk_ballon_opisalovo">
+			<text>Kolloidales Gas wurde an Laboratorien fьr Experimente in der Forschung genutzt. Wie sie es benutzten, ist nicht bekannt. Es ist nur bekannt, dass der Inhalt der Behдlter mit extrem aktiver Chemikalie gefьllt ist, die hoch explosiv und giftig ist.</text>
+		</string>
+		<string id="amk_kanistra_name">
+			<text>Benzinkanister</text>
+		</string>
+		<string id="amk_kanistra_name_short">
+			<text>BenzinKanister</text>
+		</string>
+		<string id="amk_kanistra_opisalovo">
+			<text>Benzinkanister</text>
+		</string>
+		<string id="energy_drink_short_name">
+			<text>Energiedrink "S.T.A.L.K.E.R."</text>
+		</string>
+		<string id="Equipment">
+			<text>Ausrьstung und Nahrung</text>
+		</string>
+		<string id="Food">
+			<text>Nahrung</text>
+		</string>
+		<string id="Kolbasa">
+			<text>Wurst "Praktische"</text>
+		</string>
+		<string id="Medi">
+			<text>Medikamente</text>
+		</string>
+		<string id="Medkit">
+			<text>Medikit</text>
+		</string>
+		<string id="Medkit_army">
+			<text>Armee-Medikit</text>
+		</string>
+		<string id="Medkit_scientific">
+			<text>Forschungs-Medikit</text>
+		</string>
+		<string id="Sci2">
+			<text>Forscher EXP-4</text>
+		</string>
+		<string id="Vodka">
+			<text>Wodka "Kosaken"</text>
+		</string>
+		<string id="st_detector">
+			<text>Geiger-Zдhler</text>
+		</string>
+		<string id="st_detector2">
+			<text>Anomaliedetektor</text>
+		</string>
+		<string id="st_detector3">
+			<text>Gepatchter Anomaliedetektor</text>
+		</string>
+		<string id="st_detector_descr1">
+			<text>Geiger-Zдhler. Ein Gerдt zur Messung der Stдrke radioaktiver Strahlung und der Kontaminierung des Kцrper damit. Muss am Gьrtel befestigt und aktiviert werden, damit es funktioniert.</text>
+		</string>
+		<string id="st_detector_descr2">
+			<text>Ein Gerдt zur Ortung von Anomalien und Stцrungen. Zeigt deren Nдhe akkustisch an. Muss am Gьrtel befestigt und aktiviert werden, damit es funktioniert.</text>
+		</string>
+		<string id="st_detector_descr3">
+			<text>Ein durch die Wissenschaftler des Sacharow-Labors gepatchter Detektor zur Ortung von Anomalien und Stцrungen. Warnt in deren Nдhe nicht nur akkustisch, sondern synchronisiert sich mit dem PDA des Besitzers und zeigt deren Lage auf der Karte an. Muss am Gьrtel befestigt und aktiviert werden, damit es funktioniert</text>
+		</string>
+		<string id="st_grenade_gd5">
+			<text>Rauchgranate</text>
+		</string>
+	</string_table>

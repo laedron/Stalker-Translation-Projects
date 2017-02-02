@@ -1,0 +1,12 @@
+	<string id="rad_barman_spam">
+		<text>"Gezeichneter"!? Du lebst!? Toll! Du hast es also geschafft den "Hirnschmelzer" abzuschalten, was? Alle wollen jetzt durch Prypjat ins Zentrum der Zone. Keiner weiß, was sich da befindet ... ein Schatz voller Artefakte oder vielleicht soger der "Wunschgönner".\nEine Gruppe Veteranen macht sich gerade bereit, um tiefer vorzudringen. Wenn du dich beeilst, schaffst du es vielleicht gerade noch, dich ihnen anzuschließen. Ich gebe ihnen Bescheid, dass du kommst, damit sie auf dich warten.</text>
+	</string>
+	<string id="tips_bun_komand">
+		<text>Gruppe Eins und Zwei - Erdgeschoss überprüfen, Gruppe Drei - Haupthalle, Vier und Fünf - erster Stock.</text>
+	</string>
+	<string id="tips_rad_sos_suicide">
+		<text>...Hilfe, ich sterbe...</text>
+	</string>
+	<string id="tips_rad_switcher_press">
+		<text>Drücken Sie ($$ACTION_USE$$), um die Maschine abzustellen.</text>
+	</string>

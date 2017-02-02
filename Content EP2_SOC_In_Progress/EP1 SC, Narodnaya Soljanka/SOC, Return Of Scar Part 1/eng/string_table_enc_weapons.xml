@@ -1,0 +1,1588 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- DR edited-->
+<string_table>
+<!--#include "text\eng\string_table_amk_ammo_desc.xml"-->
+<string id="Ammo">
+	<text>Ammunition</text>
+</string>
+ 
+<string id="ammo-11.43x23-fmj">
+	<text>.45 ACP FMJ</text>
+</string>
+ 
+<string id="ammo-11.43x23-fmj_s">
+	<text>.45 ACP</text>
+</string>
+ 
+<string id="ammo-11.43x23-hydro">
+	<text>Cartridges .45 ACP Hydra-Shock</text>
+</string>
+ 
+<string id="ammo-11.43x23-hydro_s">
+	<text>.45 ACP Hydra-Shock</text>
+</string>
+ 
+<string id="ammo-12x70-buck">
+	<text>12x70 buckshot</text>
+</string>
+ 
+<string id="ammo-12x70-buck_s">
+	<text>12x70 shot</text>
+</string>
+ 
+<string id="ammo-12x76-dart">
+	<text>12x76 dart cartridges</text>
+</string>
+ 
+<string id="ammo-12x76-dart_s">
+	<text>12x76 dart</text>
+</string>
+ 
+<string id="ammo-12x76-zhekan">
+	<text>Cartridges 12x76 Zhakana</text>
+</string>
+ 
+<string id="ammo-12x76-zhekan_s">
+	<text>12x76 Zhakana</text>
+</string>
+ 
+<string id="ammo-5.45x39-ap">
+	<text>5.45x39 BP</text>
+</string>
+ 
+<string id="ammo-5.45x39-ap_s">
+	<text>5.45x39 PSU</text>
+</string>
+ 
+<string id="ammo-5.45x39-fmj">
+	<text>5.45x39</text>
+</string>
+ 
+<string id="ammo-5.45x39-fmj_s">
+	<text>5.45x39</text>
+</string>
+ 
+<string id="ammo-5.56x45-ap">
+	<text>5.56x45 AP</text>
+</string>
+ 
+<string id="ammo-5.56x45-ap_s">
+	<text>5.56x45 AP</text>
+</string>
+ 
+<string id="ammo-5.56x45-ss190">
+	<text>5.56x45 SS109 ammo</text>
+</string>
+ 
+<string id="ammo-5.56x45-ss190_s">
+	<text>5.56x45 SS109</text>
+</string>
+ 
+<string id="ammo-7.62x54-7h1">
+	<text>Standard 7.62x54mm ammo 7H1</text>
+</string>
+ 
+<string id="ammo-7.62x54-7h1_s">
+	<text>7.62x54R 7H1</text>
+</string>
+ 
+<string id="ammo-7.62x54-7h14">
+	<text>Sniper cartridges 7.62x54mm 7N14</text>
+</string>
+ 
+<string id="ammo-7.62x54-7h14_s">
+	<text>7.62x54R 7N14</text>
+</string>
+ 
+<string id="ammo-7.62x54-ap">
+	<text>Armor-piercing 7.62x54mm 7N13</text>
+</string>
+ 
+<string id="ammo-7.62x54-ap_s">
+	<text>7.62x54R 7N13</text>
+</string>
+ 
+<string id="ammo-9x18-fmj">
+	<text>9x18 FMJ</text>
+</string>
+ 
+<string id="ammo-9x18-fmj_s">
+	<text>9x18 FMJ-s</text>
+</string>
+ 
+<string id="ammo-9x18-pmm">
+	<text>Cartridges 9x18 'P'</text>
+</string>
+ 
+<string id="ammo-9x18-pmm_s">
+	<text>9x18 'P'</text>
+</string>
+ 
+<string id="ammo-9x19-fmj">
+	<text>9x19 FMJ</text>
+</string>
+ 
+<string id="ammo-9x19-fmj_s">
+	<text>9x19 FMJ-S</text>
+</string>
+ 
+<string id="ammo-9x19-pbp">
+	<text>Cartridges 9x19 PBP</text>
+</string>
+ 
+<string id="ammo-9x19-pbp_s">
+	<text>9x19 PBP</text>
+</string>
+ 
+<string id="ammo-9x39-ap">
+	<text>Cartridges 9x39 SP-6</text>
+</string>
+ 
+<string id="ammo-9x39-ap_s">
+	<text>9x39 SP-6</text>
+</string>
+ 
+<string id="ammo-9x39-pab9">
+	<text>Cartridges 9x39 PAB-9</text>
+</string>
+ 
+<string id="ammo-9x39-pab9_s">
+	<text>9x39 PAB-9</text>
+</string>
+ 
+<string id="ammo-9x39-sp5">
+	<text>Cartridges 9x39 SP-5</text>
+</string>
+ 
+<string id="ammo-9x39-sp5_s">
+	<text>9x39 SP-5</text>
+</string>
+ 
+<string id="ammo-gauss">
+	<text>Charges M72-M 'Gauss'</text>
+</string>
+ 
+<string id="ammo-gauss_s">
+	<text>M72-M 'Gauss'</text>
+</string>
+ 
+<string id="ammo-m209">
+	<text>Shot M-209</text>
+</string>
+ 
+<string id="ammo-m209_s">
+	<text>M-209</text>
+</string>
+ 
+<string id="ammo-og-7b">
+	<text>PG-7V</text>
+</string>
+ 
+<string id="ammo-og-7b_s">
+	<text>PG-7V</text>
+</string>
+ 
+<string id="ammo-vog-25">
+	<text>VOG-25</text>
+</string>
+ 
+<string id="ammo-vog-25_s">
+	<text>GP-25</text>
+</string>
+ 
+<string id="ammo-vog-25p">
+	<text>VOG-25P</text>
+</string>
+ 
+<string id="ammo-vog-25p_s">
+	<text>VOG-25P</text>
+</string>
+ 
+<string id="ammo-7.62x39-fmj">
+	<text>7.62x39 mm 8PO</text>
+</string>
+ 
+<string id="ammo-7.62x39-fmj_s">
+	<text>7.62x39</text>
+</string>
+ 
+<string id="ammo-7.62x39-ap">
+	<text>7.62x39 mm 57-N-231S</text>
+</string>
+ 
+<string id="ammo-7.62x39-ap_s">
+	<text>7.62x39 BP</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-7.62x39-fmj">
+	<text>The first truly mass intermediate (between pistol and rifle) cartridge was developed in the USSR in 1943 to provide troops able to fight fire with automatic small arms at ranges of 200-400 meters. This popularity gained by Kalashnikov assault rifle. Used in the AK-47, AK-104, AK-203.</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-7.62x39-ap">
+	<text>Army ammunition with a bullet to the heat-treated core (high probiaemosti) for AK-47, AK-104, AK-203.</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-11.43x23-fmj">
+	<text>Base ammunition for the pistol 'Desert Eagle', Colt 1911, SIG 220 and USP. Simple core, shell bullet.</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-11.43x23-hydro">
+	<text>Hydra-Shok - cartridge with improved characteristics for guns 'Desert Eagle', Colt 1911, SIG 220 and USP. Expansive bullet, have good stopping power.</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-12x70-buck">
+	<text>The usual round of 12 gauge, filled 6 mm fraction. At close range has a huge killer action. Designed for shotgun TOZ-34, BM-16, Winchester 1300, SPAS 12. It is most effective at ranges up to 30 meters.</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-12x76-dart">
+	<text>Feathered bullet, stabilizing in flight, which is good for accuracy. Shotgun TOZ-34, BM-16, Winchester 1300, SPAS 12. Increase the range and armor. It is effective at ranges up to 150 meters.</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-12x76-zhekan">
+	<text>Cartridge with heavy nonenveloped bullet. Typically used for hunting large animals, but is also suitable for other purposes. Its heavy bullet pierces, and actually pushes the body armor. Designed for shotgun TOZ-34, BM-16, Winchester 1300, SPAS 12. It is effective at ranges up to 100 meters.</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-5.45x39-ap">
+	<text>Armor-piercing bullets for automatic AKS-74, AKS-74U, AH-94. Improved armor-piercing bullets ability.</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-5.45x39-fmj">
+	<text>The standard cartridge for AKS-74, AKS-74U, AH-94. Simple core, shell bullet.</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-5.56x45-ap">
+	<text>Cartridge with armor-piercing bullets for assault rifles Enfield L85 A2, LR300, SIG 550, HK G36, FN F2000.</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-5.56x45-ss190">
+	<text>Standard NATO cartridge, commonly known under the Belgian index SS109. Assault rifle used in Enfield L85 A2, LR300, SIG 550, HK G36, FN F2000.</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-7.62x54-7h1">
+	<text>7.62x54 7H1 - cheap to produce modification sniper cartridge for sniper rifles SVD, SVU-C-IED AC and CB-98. \n bullet cartridges has lead core.</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-7.62x54-7h14">
+	<text>7.62x54 7H14 - Modernization of Army sniper cartridge, the bullet is lighter compared to the standard 7.62x54R patron, in this sniper cartridges offer the best accuracy of fire. \n is used in sniper rifles SVD, SVU-C-IED AC and CB-98.</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-7.62x54-ap">
+	<text>7.62x54 7H13 - chuck 7.62x54mm sample 1908. enhanced penetration. Designed to engage manpower, located behind the light armor disguises, at ranges up to 800 m \n has a steel core of high carbon steel. \n For the SVD sniper rifle, IED-C-IED AC and CB-98.</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-9x18-fmj">
+	<text>Basic cartridge for pistols PM, PB, Fort 12. Simple core, shell bullet. Weak ArmorPiercing action.</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-9x18-pmm">
+	<text>Cartridge with improved ballistic performance for pistols PM, PB, Fort 12. Due to the higher muzzle velocity is much more efficient than conventional cartridge. More pronounced piercing effect.</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-9x19-fmj">
+	<text>Basic cartridge for Walther P99 pistol and submachine gun HK MP5K-N. Bullet shell. Weak ArmorPiercing action.</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-9x19-pbp">
+	<text>Cartridge with improved characteristics for Walther P99 pistol and submachine gun HK MP5K-N. Powerful cartridge with expansive bullet and armor-piercing core.</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-9x39-ap">
+	<text>Armor-piercing bullets for automatic machines 'storm', 'Shaft' and BCC 'Vintorez'. Due to the special design poluobolochenoy bullets penetrate any body armor, even at extreme distances, but has a higher dispersion than 9x39 Sniper SP-5.</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-9x39-pab9">
+	<text>Ammo for 'Storm'. Cheaper to manufacture modified cartridge 9x39, also suitable for the AU 'Shaft' and BCC 'Vintorez', but quickly their 'scores.'</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-9x39-sp5">
+	<text>Specially designed for automatic sniper cartridge 'storm', 'Shaft' and BCC 'Vintorez'. Excellent performance on accuracy.</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-gauss">
+	<text>Energy capacity with ready-killer 9 mm elements for the Gauss rifle (10 pieces in the store). Energy source is encapsulated fragment artifact 'Flash.'</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-m209">
+	<text>Shot for a grenade launcher M-203 (rifles LR300, SIG 550, HK G36) and for integrated grenade FN F2000.</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-og-7b">
+	<text>High-explosive shot for RPG-7V. Equally effective against manpower and against advanced technology.</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-vog-25">
+	<text>Shot for the grenade launcher GP-25 'Fire', an integrated grenade launcher 'Thunderstorm' and revolving grenade RG-6.</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-vog-25p">
+	<text>Shot for the grenade launcher GP-25 'Fire', an integrated grenade launcher 'Thunderstorm' and revolving grenade RG-6. Before the explosion shot bounces to a height of about one meter, which increases its lethality.</text>
+</string>
+ 
+<string id="enc_weapons1_grenade-f1">
+	<text>Hand grenades with a large radius shrapnel. Throwing only recommended from the shelter.</text>
+</string>
+ 
+<string id="enc_weapons1_grenade-gd05">
+	<text>Hand smoke grenade. Designed for installation of flue cover. Duration - 10 seconds.</text>
+</string>
+ 
+<string id="enc_weapons1_grenade-rgd5">
+	<text>Offensive hand grenade with a small radius of shrapnel.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-abakan">
+	<text>%c[255,250,250,250]Ammunition: \n • 5.45x39 - basic \n • 5.45x39 BP - piercing \n • VOG-25 \n • VOG-25P \n • The effective range of 400m \n • Effective range 600 m \n • rate 600 V/m \n • Capacity 30 rounds \n Upgrades \n • Optical sight PSO-1 \n • Silencer M5.45-A \n • barrel grenade launcher GP-25 'Fire' \n Automatic Nikonov 'Abakan' ( AN-94) of the sample in 1994 based on the Kalashnikov. Was designed as a replacement for the outdated AK-74. In 'Abakan' mobility is not only the internal mechanisms, but the whole receiver together with the barrel, thus reducing the impact, thereby greatly increasing the accuracy of the fight. There is a firing mode cutoff in 2 rounds.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-abakan_m1">
+	<text>%c[255,250,250,250]Ammunition: \n • 5.45x39 - basic \n • 5.45x39 BP - piercing \n • The effective range of 480m \n • Effective range 680 m \n • rate of 850 V/m \n • Capacity 30 rounds \n Upgrades \n • Integrated sight PSO-3 \n • Silencer M5.45-A \n • rifle grenade --- \n AN-94 'Abakan', equipped with 8-times optical sight for the conduct of sniper fire. Encased in optics has a higher magnification than the standard sights.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-abakan_m2">
+	<text>%c[255,250,250,250]Ammunition: \n • 5.45x39 - basic \n • 5.45x39 BP - piercing \n • VOG-25 \n • VOG-25P \n • The effective range of 400m \n • Effective range 600 m \n • rate 700/m \n • Capacity 30 rounds \n Upgrades \n • Reticle 'PC-A' \n • Silencer --- \n • Integrated GP-30 grenade launcher \n This modification of the AN-94 'Abakan' equipped integrated grenade launcher GP-30, which makes this model even more versatile weapon.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-addon-grenade-launcher">
+	<text>%c[255,250,250,250]Ammunition: \n • VOG-25 \n • VOG-25P \n rifle grenade 'Bonfire' 25 mm (PG-25 'Fire') for machines used in the Warsaw Pact countries.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-addon-grenade-launcher-m203">
+	<text>%c[255,250,250,250]Ammunition: \n • Shot M-209 \n - barrel grenade launcher for rifles manufactured in NATO countries.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-addon-scope">
+	<text>Widespread PSO-1 (optical sniper scope) of Soviet manufacture. For a weapon used in the standard Warsaw Pact countries mount 'dovetail'.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-addon-scope-susat">
+	<text>Sight sniper 4x 'Susat L9A1', produced in NATO countries. For a weapon uses a standard NATO mount called Picatinny bar.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-addon-silencer">
+	<text>PBS - a device silencer, also known as 'silencer', assembled in the Zone by some craftsmen. With him in the kit is a set of perehodinikov a weapon of any caliber.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-ak74">
+	<text>%c[255,250,250,250]Ammunition: \n • 5.45x39 - basic \n • 5.45x39 BP - piercing \n • VOG-25 \n • VOG-25P \n • The effective range of 400m \n • Effective range 600 m \n • rate 600 V/m \n • Capacity 30 rounds \n Upgrades \n • Optical sight PSO-1 \n • Silencer for caliber 5.45 \n • barrel grenade launcher GP-25 'Fire' \n AK-74M has now become the most last and the main option coming into service of the Russian Army in the early 1990s. This machine differs mainly in that replaced the right AK-74, AKS-74 and AK-74N, due to the fact that it has a folding stock on the left side of the black plastic, and a universal bracket for mounting scopes (like night and day) on the left side of the receiver. In the Zone is the main weapon of the army of stalkers and many individuals.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-ak74_m1">
+	<text>%c[255,250,250,250]Ammunition: \n • 5.45x39 - basic \n • 5.45x39 BP - piercing \n • VOG-25 \n • VOG-25P \n • The effective range of 600m \n • Effective range 800 m \n • rate 900/m \n • Capacity 30 rounds \n Upgrades \n • Optical sight PSO-3 \n • Silencer for caliber 5.45 \n • barrel grenade launcher GP-25 'Fire' \n AK-74M has a modified breech mechanism, Increases speed of up to 900 V/m There is a mode of shooting with cutoff of 3 rounds. According to rumors, this gun belonged to the Spit.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-ak74u">
+	<text>%c[255,250,250,250]Ammunition: \n • 5.45x39 - main \n • 5.45x39 BP - piercing \n • The effective range of 150 m \n • Effective range 200 m \n • rate of 700 V/m \n • Capacity 30 rounds \n Upgrades \n • Telescopic sights --- \n • Silencer for caliber 5.45 \n • rifle grenade --- \n Kalashnikov folding shortened (AKS-74U) of the sample in 1974. On the dimensions and weight of the AKS-74U close to the sub-machine gun, but the principle of the mechanism of the weapon and used it to make it representative of the holder class machines. The advantages include small size, which is extremely useful in the conduct of combat in urban areas, and high enough to make the way the ability of the holder. The main Doctor wbacks - small sighting range and a tendency to overheat faster when shooting bursts.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-ak74u_m1">
+	<text>%c[255,250,250,250]Ammunition: \n • 7.62x54 7N1 - basic \n • 7.62x54 7H13 - piercing \n • 7.62x54 7N14 - sniper \n • The effective range of 350m \n • Effective range 500 m \n • rate of 550 V/m \n • Capacity 10 rounds \n Upgrades \n • Optical sight PSO-3 \n • Silencer for caliber 7.62 \n • rifle grenade --- \n Modification AKS-74U is a local craftsman 7.62x54 a rifle cartridge. Was attached to a machine handy butt of SVD, replacing the standard horn to horn of the same sniper. Also, all the details have been enumerated and carefully adjusted to each other, thereby greatly reduced recoil and increased accuracy of hits.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-beretta">
+	<text>%c[255,250,250,250]Ammunition: \n • 9x19 FMJ - basic \n • 9x19 PBP - advanced \n • Capacity: 15 rounds \n is in service with the armed forces and police to the United States, many paramilitary and police forces around the world. As popular and representatives of the criminal world with a powerful patron and a large magazine capacity.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-bm16">
+	<text>%c[255,250,250,250]Ammunition: \n • 12x70 fraction \n • 12x70 buckshot \n • 12x76 Jacques \n • 12x76 dart \n • The effective range of 40m \n • rate of 200 V/m \n • Capacity 2 rounds \n • Aperture - Optical Sight --- \n • Silencer --- \n • rifle grenade --- \n short shotgun BM-16. Considerably smaller and lighter than a full shotgun, but is only effective in close combat. One of the most common types of weapons for beginners.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-colt_m1">
+	<text>%c[255,250,250,250]Ammunition: \n • .45 ACP - basic \n • .45 ACP Hydra-Shok - advanced \n • Capacity: 10 rounds \n Weapons assassins. Good old, reliable Colt, equipped with not removable 'silencer' and extended clip to 10 rounds.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-colt1911">
+	<text>%c[255,250,250,250]Ammunition: \n • .45 ACP - basic \n • .45 ACP Hydra-Shok - advanced \n • Capacity: 7 rounds \n Classic Automatic Colt, passed with flying colors on all armed conflicts ofxX century and confidently entered the new century. Low capacity magazine to a certain extent by the use of a powerful patron.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-desert-eagle">
+	<text>%c[255,250,250,250]Ammunition: \n • .45 ACP - basic \n • .45 ACP Hydra-Shok - advanced \n • Capacity: 8 rounds \n 'Desert Eagle' ('Desert Eagle') - a real gun for the real heroes. Large, heavy and extremely lethal. Because of the price and size of very popular in the Zone does not use, though not every day hunting elephants.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-eagle_m1">
+	<text>%c[255,250,250,250]Ammunition: \n • 9x39 PAB-9 - the main \n • 9x39 SP-6 - piercing \n • 9x39 SP-5 - sniper \n • Capacity: 8 rounds \n 'Desert Eagle' 9x39 - modification of the already powerful pistol under a special cartridge caliber 9x39 mm. Truly deadly thing for close combat.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-fn2000">
+	<text>%c[255,250,250,250]Ammunition: \n • 5.56x45 SS109 - basic \n • 5.56x45 AP - piercing \n • Shot M-209 \n • The effective range of 400m \n • Effective range 540m \n • rate of 860 V/m \n • magazine capacity 30 rounds \n • Aperture - Reticle (h1.8) \n • Silencer --- \n • Integrated M-203 \n Fabrique Nationale Herstal F2000 --automatic grenade launcher with Belgian computerized gun-control module fire and 40 mm grenade launcher.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-fort">
+	<text>%c[255,250,250,250]Ammunition: \n • 9x18 - basic \n • 9x18 'P' - improved \n • Capacity: 12 rounds \n gun police use of Ukrainian origin, the successor to the PM. Has better than 'Makarov' bout accuracy, ergonomics and more spacious store, but less reliable.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-fort_m1">
+	<text>%c[255,250,250,250]Ammunition: \n • 9x18 - basic \n • 9x18 'P' - improved \n • Capacity: 15 rounds \n experimental prototype pistol Fort.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-g36">
+	<text>%c[255,250,250,250]Ammunition: \n • 5.56x45 SS109 - basic \n • 5.56x45 AP - piercing \n • Shot M-209 \n • The effective range of 320m \n • Effective range 450 m \n • rate of 750 V/m \n • magazine capacity 30 rounds \n • Aperture - Lens 'G36 Optics' \n • Silencer M5.56-A \n • NATO rifle grenade M-203 \n Heckler und Koch G36 - G36 assault rifle developed by the German company Heckler &amp; Koch with early 1990s under the designation intra HK 50. In 1995, the G36 was adopted by the Bundeswehr (German Army), and in 1999 - the Armed Forces of Spain. Is one of the best examples of Automatic weapons - ergonomic, accurate and reliable. There is a mode of shooting with cutoff of 3 rounds.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-gauss">
+	<text>%c[255,250,250,250]Ammunition: \n • charges M72 'Gauss' - main \n • The effective range of 1,000 m \n • Effective range 1200m \n • rate of 30 V/m \n • Capacity 10 rounds \n • Aperture - Reticle (x8) \n • Silencer --- \n • rifle grenade --- \n M72-M Gauss Rifle - cverhtochnoe weapons, which were collected and upgraded in a mobile laboratory scientists. Operates almost silently, because energy is used for firing the artifacts, not the powder gases. Despite the enormous power of the shot, the recoil from the Gauss rifle is very small. In accuracy and destructive power greater than any classical firearms. Complete disregard bronizhileta worn.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-groza">
+	<text>%c[255,250,250,250]Ammunition: \n • 9x39 PAB-9 - the main \n • 9x39 SP-6 - piercing \n • 9x39 SP-5 - sniper \n • VOG-25 \n • VOG-25P \n • The effective range of 140 m \n • Effective range 200 m \n • rate of 800 V/m \n • Capacity 20 rounds \n • Aperture - Optical sight PSO-1 \n • Silencer --- \n • Integrated GP-25 'Fire' \n -automatic grenade launcher OC-14 'storm' - a very good option in Zone assault rifle for close combat, compact, reliable, and at the same time powerful.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-groza_m1">
+	<text>%c[255,250,250,250]Ammunition: \n • 5.45x39 - basic \n • 5.45x39 BP - piercing \n • VOG-25 \n • VOG-25P \n • The effective range of 140 m \n • Effective range 200 m \n • rate of 800/m \n • Capacity 20 rounds \n • Aperture - Integrated sight PSO-1 \n • Silencer --- \n • Integrated GP-25 'Fire' \n OC 'storm' of 5.45 mm - modification one of the stalkers craftsmen who managed to alter the rifle under a common 5.45 mm.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-hpsa">
+	<text>%c[255,250,250,250]Ammunition: \n • 9x19 FMJ - basic \n • 9x19 PBP - advanced \n • Capacity: 13 rounds \n 'Browning' is deservedly considered one of the top guns of thexX century. A reliable and powerful. It has good accuracy. Magazine capacity is 13 rounds. This model - a modern modification of the Belgian pistol FN Browning HP (High Power 1935), produced from 1935.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-knife">
+	<text>Hunting Knife</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-l85">
+	<text>%c[255,250,250,250]Ammunition: \n • 5.56x45 SS109 - basic \n • 5.56x45 AP - piercing \n • Shot M-209 \n • The effective range of 300 m \n • Effective range 380m \n • rate of 650 V/m \n • magazine capacity 30 rounds \n • Aperture - Integrated Sight 'Susat L9A1' (X1.6) \n • Silencer M5.56-A \n • NATO rifle grenade M-203 \n Enfield L85 A2. After this rifle has been replaced by British army on the German HK G36, it has emerged in large numbers on the black market, and then in the zone. The main advantage of Enfield L85 A2 is the standard 4x optical sight 'Susat L9A1' and the high accuracy of the first shot. Accuracy when firing bursts combat Doctor ps, and the reliability of the basic mechanisms of the rifle is not high enough.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-l85_m1">
+	<text>%c[255,250,250,250]Ammunition: \n • 5.56x45 SS109 - basic \n • 5.56x45 AP - piercing \n • The effective range of 300 m \n • Effective range 380m \n • rate of 780 V/m \n • Capacity 30 rounds \n • Aperture - Integrated Sight 'Susat L9A1' (X1.6) \n • Silencer M5.56-A \n • rifle grenade --- \n Upgraded version of the assault rifle L85A2. This version fixes many factory flaws, such as increased reliability of the stores. Cutout in the receiver for traffic charging handle spring-closed cover to protect the automatic rifle from dust and dirt. Was reconfigured charging handle, which eliminate the reflection of spent cartridges from the handle back to the receiver, without causing delays in the shooting. Also, with the help of a few successful modifications could reduce the effect of a pop the trunk.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-l85_m2">
+	<text>%c[255,250,250,250]Ammunition: \n • 5.56x45 SS109 - basic \n • 5.56x45 AP - piercing \n • The effective range of 300 m \n • Effective range 380m \n • rate of 900 V/m \n • Capacity 30 rounds \n • Aperture - Integrated Sight 'Susat L9A1' (X1.6) \n • Integrated silencer M5.56-A \n • rifle grenade --- \n Enfield L85A2 assault rifle with integrated device noiseless and flameless fire. Many of the parts are replaced with lighter counterparts, which significantly reduces the weight of the weapon. By upgrading the receiver was increased rate of rifles to 900 V/m The main supplier of the modified Enfield L85A2 was a British firm 'Sheet Engineering', the rifle was offered for the British Special Forces, but has not been claimed.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-lr300">
+	<text>%c[255,250,250,250]Ammunition: \n • 5.56x45 SS109 - basic \n • 5.56x45 AP - piercing \n • Shot M-209 \n • The effective range of 300 m \n • Effective range 380m \n • rate of 950 V/m \n • magazine capacity 30 rounds \n • Aperture - Reticle ACOG \n • Silencer M5.56-A \n • NATO rifle grenade M-203 \n A new stage in the development of the family of the famous M-16. The name literally means 'light rifle with a range of effective fire up to 300 meters.' Due to the very smooth slope, ergonomics and low weight the weapon is highly accurate battle, although the high sensitivity to pollution makes it not always suitable for use in challenging environments.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-lr300_m1">
+	<text>%c[255,250,250,250]Ammunition: \n • 5.56x45 SS109 - basic \n • 5.56x45 AP - piercing \n modifed 'civilian' version of the LR300 SR without automatic fire mode, equipped with a 3-optics. She was supposed to be used as a cheaper counterpart sniper rifle.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-mp5">
+	<text>%c[255,250,250,250]Ammunition: \n • 9x19 FMJ - basic \n • 9x19 PBP - advanced \n • The effective range of 140 m \n • Effective range 200 m \n • rate of 800 V/m \n • Capacity 30 rounds \n • Aperture - Optical Sight ACOG \n • Silencer PBS \n • rifle grenade --- \n Heckler und Koch MP5N-K - one of the best in the class SMG gun. In the last decades of thexX century was adopted by special forces of the army and police in many countries. Since the beginning of its gradual replacement by more modern models began to appear frequently in the black market, where the mass came to the Zone.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-mp5_m1">
+	<text>%c[255,250,250,250]Ammunition: \n • 9x18 - basic \n • 9x18 'P' - improved \n • The effective range of 140 m \n • Effective range 200 m \n • rate of 800 V/m \n • Capacity 30 rounds \n • Aperture - Optical sight --- \n • Silencer PBS \n • rifle grenade --- \n Heckler und Koch MP5K-N - lightweight, compact, and now converted for common caliber 9x18mm, this submachine gun is a real boon for beginners stalkers. This model is equipped with a pistol grip of a modified form, as well as dot sight ACOG.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-mp5_m2">
+	<text>%c[255,250,250,250]Ammunition: \n • 9x19 FMJ - basic \n • 9x19 PBP - advanced \n • The effective range of 140 m \n • Effective range 200 m \n • rate of 800 V/m \n • Capacity 30 rounds \n • Aperture - Optical Sight ACOG \n • Integrated silencer PBS \n • rifle grenade --- \n Heckler und Koch MP5K-N. Modification of the basic model. Added not removable 'silencer'.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-pb">
+	<text>%c[255,250,250,250]Ammunition: \n • 9x18 - basic \n • 9x18 'P' - improved \n • Capacity: 20 rounds \n APS pistol was developed in the late 1940s - early 1950s designer Ya Stechkin and adopted by the Soviet Army in 1951, along with the Makarov PM pistol. Compared with the PM APS provides substantially more fire power and combat effectiveness through increased magazine capacity and a longer barrel. If necessary, from the MTA can fire bursts, and thanks to the moderator, the rate of fire, the gun is more or less manageable. In the early 80s was removed from service the SA, and in its place came a pistol APB (automatic pistol silent).</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-pm">
+	<text>%c[255,250,250,250]Ammunition: \n • 9x18 - basic \n • 9x18 'P' - improved \n • Capacity: 8 rounds \n Pistol Makarova (PM), the most common in the area of the gun - a legacy of the Soviet era. Fairly reliable and cheap, are low magazine capacity with insufficient capacity and poor accuracy of the cartridge. Primary weapon stalker beginner.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-rg-6">
+	<text>%c[255,250,250,250]Ammunition: \n • VOG-25 \n • VOG-25P \n Hand grenade (RPG) revolver. Sometimes simply indispensable, especially when cleaning large areas of mutants attacking protected stationary objects, in a battle with a particularly tenacious creatures.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-rg6_m1">
+	<text>%c[255,250,250,250]Ammunition: \n • Shot M-209 \n Hand grenade (RPG) revolver. Modified to fire shots Western model M-209.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-rpg7">
+	<text>%c[255,250,250,250]Ammunition: \n • PG-7V \n grenade (RPG-7V) sample of the 1960s, in large numbers remained in army warehouses, from the affected areas. Rare for stalkers weapon: the impressive dimensions and weight make it not too popular, but for some tasks it is simply irreplaceable.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-sig_m1">
+	<text>%c[255,250,250,250]Ammunition: \n • 5.56x45 SS109 - basic \n • 5.56x45 AP - piercing \n • The effective range of 300 m \n • Effective range 360m \n • rate of 750 V/m \n • Capacity 20 rounds \n Upgrades \n • Reticle ACOG \n • Silencer M5.56-A \n • rifle grenade --- \n Compact Machine (assault rifle) SIG SG 552 SWAT. Developed based on the SG-550. Rail Kit type Picatinny rail on top of the receiver, has a special attachment to the forearm for accessories. In USM installed separate independent module, can fire a cutoff of 3 shots. Tool is one of the best in its class, distinguished by high reliability, accuracy and ease of use.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-sig_m2">
+	<text>%c[255,250,250,250]Ammunition: \n • 7.62x51mm NATO - the main \n • 7.62x51mm NATO AP - piercing \n • The effective range of 800m \n • Effective range 1100m \n • rate of 650 V/m \n • Capacity 25 rounds \n • Aperture - Integrated sight \n • Silencer M7.62-A \n • rifle grenade NATO M-203 \n SIG SG 550 'Sniper' - sniper variant assault rifles SG 550, launched in 1989. The rifle is designed as a sniper weapon for police spets.podrazdeleny. SG 550 Sniper is equipped with a heavy barrel length of 650 mm, plastic butt. This copy is altered by special order a mercenary, he asked the master - gunsmith add automatic rifle fire and a cut-off in 3 rounds, as well as some parts have been replaced on the rifle parts lighter and stronger alloys, thereby to reduce the weight and wear weapons. I changed the rifle caliber cartridge, it is now a rifle caliber 7.62h51mm NATO capacity horn because of this decreased to 25 rounds.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-sig220">
+	<text>%c[255,250,250,250]Ammunition: \n • .45 ACP - basic \n • .45 ACP Hydra-Shok - advanced \n • Capacity: 7 rounds \n model of the new army pistol for the Swiss Army SIG-SAUER P220, developed in 1975, replaced very expensive and obsolete SIG P210. SIG-SAUER P220 meets all requirements of the army - has a traditional Swiss weapons reliability and accuracy of fire, light weight, self-cocking trigger mechanism, and, not least, reasonable price. Store not capacious, but the mechanism is reliable as a Swiss watch. The second advantage is the use of a powerful patron koltovskogo.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-sig550">
+	<text>%c[255,250,250,250]Ammunition: \n • 5.56x45 SS109 - basic \n • 5.56x45 AP - piercing \n • Shot M-209 \n • The effective range of 400m \n • Effective range 600 m \n • rate of 700 V/m \n • magazine capacity 30 rounds \n Upgrades \n • Reticle ACOG \n • Silencer M5.56-A \n • rifle grenade NATO M-203 \n One of the relatively new Swiss assault rifle chambered for 5.56x45 SS109. Accuracy, mild recoil and high reliability of the weapon quickly won him the most popular.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-spas12">
+	<text>%c[255,250,250,250]Ammunition: \n • 12x70 fraction \n • 12x70 buckshot \n • 12x76 Jacques \n • 12x76 dart \n • The effective range of 50m \n • rate of 60 V/m \n • a magazine capacity of 8 rounds \n • Aperture - Optical Sight --- \n • Silencer --- \n • rifle grenade --- \n SPAS 12 shotgun was developed in the late 1970s as a universal military weapons for the police and army assault ulouse. The weapon, high reliability and flexibility on the other hand, it's pretty massive, difficult and expensive in the device. Perhaps the best barrel for close combat there is not found.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-spas12_m1">
+	<text>%c[255,250,250,250]Ammunition: \n • 12x76 bullet/dart \n • 12x70 shot/buckshot \n • eff. range with a bullet to 75m \n • a fraction/buckshot 45-50m \n • rate of 150 V/m \n • Capacity 10 rounds \n • Aperture - Reticle --- \n • Silencer --- \n • rifle grenade --- \n Franchi SPAS-12 rifled modified to reduce the variance. Equipped with a folding stock, thereby significantly reduced recoil. This gun is universal, suitable for shooting shot and buckshot, and is ideal for shooting a bullet or dart.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-svd">
+	<text>%c[255,250,250,250]Ammunition: \n • 7.62x54 7N1 - basic \n • 7.62x54 7H13 - piercing \n • 7.62x54 7N14 - sniper \n • The effective range of 850 m \n • Effective range 1000m \n • rate of 160 V/m \n • 10-round magazine capacity \n • Aperture - Integrated sight PSO-1 \n • Silencer M7.62-A \n • rifle grenade --- \n Doctor gunov sniper rifle (SVD). Widely used in all military operations conducted by the Soviet and Russian armies from the 1960's. Has proven to be an extremely reliable in handling weapons.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-svu">
+	<text>%c[255,250,250,250]Ammunition: \n • 7.62x54 7N1 - basic \n • 7.62x54 7H13 - piercing \n • 7.62x54 7N14 - sniper \n • The effective range of 650m \n • Effective range 800 m \n • rate of 140 V/m \n • 10-round magazine capacity \n • Aperture - Integrated sight PSO-1 \n • Integrated silencer \n • rifle grenade --- \n Sniper Rifle shortened down (APC-C). Modern compact version of the IRS, made under the scheme 'bull-pup' (a scheme in which shop and mechanisms are behind the operating handle, the value of this scheme is that a relatively large length of the barrel is compact). Very good in the long-distance travel in the Zone, but compared to the IRS, is still 'suffering' increase in the average dispersion, which limits the effective range of fire up to medium ranges.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-toz34">
+	<text>%c[255,250,250,250]Ammunition: \n • 12x70 fraction \n • 12x70 buckshot \n • 12x76 Jacques \n • 12x76 dart \n • The effective range of 70m \n • rate of 200 V/m \n • Capacity 2 rounds \n • Aperture - Optical Sight --- \n • Silencer --- \n • rifle grenade --- \n Widespread and nothing special, except the power battle, not remarkable shotgun TOZ-34 'vertikalkoy'.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-usp">
+	<text>%c[255,250,250,250]Ammunition: \n • .45 ACP - basic \n • .45 ACP Hydra-Shok - advanced \n • Capacity: 12 rounds \n Compact version of the USP-45 gun of German design. In general, the USP series pistols are of the highest reliability and survivability, high accuracy shooting. Of the minor shortcomings can be noted considerable size weapons, even in a compact form, a rather high center of gravity and a massive gate, several complicating concealed carry.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-val">
+	<text>%c[255,250,250,250]Ammunition: \n • 9x39mm PAB9 \n • 9x39 SP-6 - piercing \n • 9x39 SP-5 - sniper \n • The effective range of 200m \n • Effective range 320 m \n • rate of 650 V/m \n • Capacity 20 rounds \n • Aperture - Optical sight PSO-1 \n • Integrated silencer \n • Collimator rifle grenade 'Cobra' \n Automatic special 'Shaft' (AS 'Val') is based on a special silent sniper rifle 'Vintorez' , which is different from a folding stock, the ability to fire bursts, and more capacious store. Originally designed for use in special forces attack requiring noiseless and flameless fire. For this model may establish 'a choice' - collimator sight 'Cobra' or optics PSO.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-val_m1">
+	<text>%c[255,250,250,250]Ammunition: \n • 9x39 SP-6 - piercing \n • 9x39 SP-5 - sniper \n • The effective range of 300 m \n • Effective range 450 m \n • rate of 650 V/m \n • Capacity 20 rounds \n • Aperture - Integrated sight PSO-3 \n • Integrated silencer \n • rifle grenade --- \n AS 'Shaft' with an integrated 4-optics. From the base model has a higher accuracy of fire, low wear, less recoil and the inability to use the cartridges 9x39mm PAB9.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-vintorez">
+	<text>%c[255,250,250,250]Ammunition: \n • 9x39 PAB9 \n • 9x39 SP-6 - piercing \n • 9x39 SP-5 - sniper \n • The effective range of 300 m \n • Effective range 450 m \n • rate of 800 V/m \n • Capacity 20 rounds \n • Aperture - Integrated sight PSO-3 \n • Integrated silencer \n • rifle grenade --- \n sniper rifle special 'Vintorez' (BCC 'Vintorez') is designed for noiseless and flameless sniper fire, is equipped with integrated 'silenced'. For self-defense provided for automatic fire, but when it is the involvement of the trunk fairly quickly 'score' soot. Many novice stalkers used as ammunition cartridges of the same caliber PAB-9. When using this type of rifle ammo very quickly breaks down. Despite this, for compactness, accuracy, efficiency and ability to deliver fire 'overhang' is very much appreciated stalkers any level.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-walther">
+	<text>%c[255,250,250,250]Ammunition: \n • 9x19 FMJ - basic \n • 9x19 PBP - advanced \n • Capacity: 16 rounds \n Great pistol made in Germany, high reliability, capacious store and good accuracy battle, especially in this version - a 9 - millimeter cartridge PHP.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-walther_m1">
+	<text>%c[255,250,250,250]Ammunition: \n • 9x18 - basic \n • 9x18 'P' - improved \n • Capacity: 16 rounds \n Modifying the gun to fire ammunition caliber 9x18 mm.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-wincheaster1300">
+	<text>%c[255,250,250,250]Ammunition: \n • 12x70 fraction \n • 12x70 buckshot \n • 12x76 Jacques \n • 12x76 dart \n • The effective range of 50m \n • rate of 70 V/m \n • a magazine capacity of 6 rounds \n • Aperture - Optical Sight --- \n • Silencer --- \n • rifle grenade --- \n Smoothbore shotgun Winchester 1300 U.S. production, designed for use in the most-term adverse conditions and is highly reliable. All parts are provided with anti-corrosion coating.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-winchester_m1">
+	<text>%c[255,250,250,250]Ammunition: \n • 12x76 bullet/dart \n • 12x70 shot/buckshot \n • eff. range with a bullet to 80m \n • a fraction/buckshot 50-55m \n • rate of 120 V/m \n • a magazine capacity of 8 rounds \n • Aperture - The optical sight 'hunting scope' \n • Silencer --- \n • rifle grenade --- \n Author modification semiautomatic shotgun Winchester 1300. In the under-barrel capacity cartridge was inserted a small piece of the artifact, 'gravel', oriented so that gravity flow increases the speed of a bullet and stabilize it in flight, due to which the range of ammunition and accuracy.</text>
+</string>
+ 
+<string id="wpn-winchester_m1">
+	<text>Combat Winchester</text>
+</string>
+ 
+<string id="grenade-f1">
+	<text>F-1 grenade</text>
+</string>
+ 
+<string id="grenade-gd05">
+	<text>DG-5</text>
+</string>
+ 
+<string id="grenade-rgd5">
+	<text>RGD-5</text>
+</string>
+ 
+<string id="Weapons1">
+	<text>Weapon</text>
+</string>
+ 
+<string id="wp_desert_eagle">
+	<text>Desert Eagle</text>
+</string>
+ 
+<string id="wpn_hpsa">
+	<text>FN Browning M1935 High-Powered</text>
+</string>
+ 
+<string id="wpn_usp">
+	<text>USP-45 'Expert'</text>
+</string>
+ 
+<string id="wpn-abakan">
+	<text>AN-94 'Abakan'</text>
+</string>
+ 
+<string id="wpn-abakan_m1">
+	<text>AN-94 Abakan 'Sniper'</text>
+</string>
+ 
+<string id="wpn-abakan_m2">
+	<text>AN-94 Abakan 'Assault'</text>
+</string>
+ 
+<string id="wpn-addon-grenade-launcher">
+	<text>GP-25 'Bonfire'</text>
+</string>
+ 
+<string id="wpn-addon-grenade-launcher-m203">
+	<text>M-203</text>
+</string>
+ 
+<string id="wpn-addon-scope">
+	<text>Rifle scope 2-X 4-Dot</text>
+</string>
+ 
+<string id="wpn-addon-scope-susat">
+	<text>Optical sight 'Susat L9A1'</text>
+</string>
+ 
+<string id="wpn-addon-silencer">
+	<text>'Silencer' (PBS)</text>
+</string>
+ 
+<string id="wpn-ak74">
+	<text>AK-74M</text>
+</string>
+ 
+<string id="ars-aks74m">
+	<text>AKC-74 'Cobra'</text>
+</string>
+ 
+<string id="wpn-ak74_m1">
+	<text>AK-74M 'Rapid Fire'</text>
+</string>
+ 
+<string id="wpn-ak74u">
+	<text>AKS-74U</text>
+</string>
+ 
+<string id="wpn-ak74u_m1">
+	<text>AKS-u SVD</text>
+</string>
+ 
+<string id="wpn-beretta">
+	<text>Beretta 92</text>
+</string>
+ 
+<string id="wpn-bm16">
+	<text>BM-16 'Edge'</text>
+</string>
+ 
+<string id="wpn-colt_m1">
+	<text>Colt M1 'Silenced'</text>
+</string>
+ 
+<string id="wpn-colt1911">
+	<text>Colt 1911</text>
+</string>
+ 
+<string id="wpn-eagle_m1">
+	<text>'Desert Eagle' 9x39</text>
+</string>
+ 
+<string id="wpn-fn2000">
+	<text>FN F2000</text>
+</string>
+ 
+<string id="wpn-fort">
+	<text>Fort 12</text>
+</string>
+ 
+<string id="wpn-fort_m">
+	<text>Fort 15</text>
+</string>
+ 
+<string id="wpn-g36">
+	<text>HK G36</text>
+</string>
+ 
+<string id="wpn-gauss">
+	<text>M72-M Gauss Rifle</text>
+</string>
+ 
+<string id="wpn-groza">
+	<text>Groza OC-14 'Storm'</text>
+</string>
+ 
+<string id="wpn-groza_m1">
+	<text>Groza OC-14 'Storm' 5.45 mm</text>
+</string>
+ 
+<string id="wpn-l85">
+	<text>Enfield L85 A2</text>
+</string>
+ 
+<string id="wpn-l85_m1">
+	<text>Enfield L85 A2 'Balanced'</text>
+</string>
+ 
+<string id="wpn-l85_m2">
+	<text>Enfield L85 A2 'Lite Weight'</text>
+</string>
+ 
+<string id="wpn-lr300">
+	<text>LR300</text>
+</string>
+ 
+<string id="wpn-lr300_m1">
+	<text>LR300 SR</text>
+</string>
+ 
+<string id="wpn-mp5">
+	<text>HK MP5N-K</text>
+</string>
+ 
+<string id="wpn-mp5_m1">
+	<text>HK-K MP5N 9x18</text>
+</string>
+ 
+<string id="wpn-mp5_m2">
+	<text>HK MP5 'Silenced'</text>
+</string>
+ 
+<string id="wpn-pb">
+	<text>APS</text>
+</string>
+ 
+<string id="wpn-pm">
+	<text>PM</text>
+</string>
+ 
+<string id="wpn-rg-6">
+	<text>RG-6</text>
+</string>
+ 
+<string id="wpn-rg6_m1">
+	<text>RG-6 M-209</text>
+</string>
+ 
+<string id="wpn-rpg7">
+	<text>RPG-7V</text>
+</string>
+ 
+<string id="wpn-sig_m1">
+	<text>SIG-552 SWAT</text>
+</string>
+ 
+<string id="wpn-sig_m2">
+	<text>SIG SG-550 'Sniper'</text>
+</string>
+ 
+<string id="wpn-sig220">
+	<text>SIG-SAUER P220</text>
+</string>
+ 
+<string id="wpn-sig550">
+	<text>SIG 550</text>
+</string>
+ 
+<string id="wpn-spas12">
+	<text>SPAS 12</text>
+</string>
+ 
+<string id="wpn-spas12_m1">
+	<text>SPAS 12 M1 'Hunter'</text>
+</string>
+ 
+<string id="wpn-svd">
+	<text>SVD</text>
+</string>
+ 
+<string id="wpn-svu">
+	<text>SVU-C</text>
+</string>
+ 
+<string id="wpn-toz34">
+	<text>TOZ-34 'Vertikalka'</text>
+</string>
+ 
+<string id="wpn-val">
+	<text>AS Val 'Shaft'</text>
+</string>
+ 
+<string id="wpn-val_m1">
+	<text>AS Val 'Shaft' with 3x Scope</text>
+</string>
+ 
+<string id="wpn-vintorez">
+	<text>BCC 'Vintorez'</text>
+</string>
+ 
+<string id="wpn-walther">
+	<text>Walther P99</text>
+</string>
+ 
+<string id="wpn-walther_m1">
+	<text>Walter P99-M 9x18</text>
+</string>
+ 
+<string id="wpn-wincheaster1300">
+	<text>Winchester 1300</text>
+</string>
+ 
+<string id="wpn-flame_readme">
+	<text>Homemade flamethrower designed by 'Duty' guy called Screw. Doctor said with a two-component mixture of colloidal gas 'F' and oil. Mixture ignites spontaneously in air, so the design is very simple. However, due to the high reactivity of the mixture used in the design of parts made of high-tech anti-corrosion materials, obtained under special laboratory conditions. Besides the secret production mix has only the screw. For these reasons, the flamethrower does not become a mass product, despite the very significant advantages over conventional firearms at a meeting with some of the inhabitants of the zone.</text>
+</string>
+ 
+<string id="wpn-flame_name">
+	<text>Flamethrower</text>
+</string>
+ 
+<string id="wpn-flame_name_s">
+	<text>Flamethrower</text>
+</string>
+ 
+<string id="ammo_flame_name">
+	<text>Flammable mixture</text>
+</string>
+ 
+<string id="ars-mp40">
+	<text>MP-40</text>
+</string>
+ 
+<string id="enc_mp40">
+	<text>%c[255,250,250,250]Ammunition: \n • 9x19 FMJ - basic \n • 9x19 PBP - advanced \n • The effective range of 150 m \n • Effective range 180 m \n • rate of 650 V/m \n • Capacity 32 rounds \n • Aperture - Optical Sight --- \n • Silencer PBS \n • rifle grenade --- \n guns Pistols MP-38 and MP-40, is often mistakenly referred to as the Schmeisser, were designed by German designer at the company Erma Volmer (Erfurter Maschinenfabrik), and entered the Wehrmacht in 1938 and 1940, respectively. Originally, they were intended for paratroopers and crews of combat vehicles, but later came into service in the infantry ulouse of Wehrmacht and SS. In all there were about 1.2 million ulouse of MP-38 and MP-40. MP-40 is a modification of the MP-38, in which the milled receiver was replaced pressed.</text>
+</string>
+ 
+<string id="wpn-ppsh41">
+	<text>PPSH-41</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-ppsh41">
+	<text>%c[255,250,250,250]Ammunition: \n • 7.62x25mm conventional CT \n • 7.62x25mm with steel bullet PS \n • The effective range of 200m \n • Effective range 280 m \n • rate of 900 V/m \n • 71 round magazine capacity \n Upgrades \n • Reticle 'SUSAT' \n • Silencer --- \n • rifle grenade --- \n SMG Shpagina Model 1941 (PCA-41) chambered in 7.62x25 mm. Simple and reliable, but it has a very good performance. In the Zone is almost never.</text>
+</string>
+ 
+<string id="wpn-m_134">
+	<text>Minigun M-134 SM</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-m_134">
+	<text>%c[255,250,250,250]Ammunition: \n • Container for minigun ammo caliber 5.56x45 \n • The effective range of 180 m \n • Effective range 250 m \n • rate of 1000 V/m \n • Capacity 250 rounds \n • Aperture - Reticle - - \n • Silencer --- \n • rifle grenade --- \n six-modified version of the M-134 machine gun under caliber 5.56x45. Along with the M72-M, created as part of a pilot project on the use of microwaves to replace the battery standards for promotion trunks. To use these weapons require special batteries charged energy of certain anomalies. In the Zone is not common because of the weight, the huge flow of ammunition and impractical in field use.</text>
+</string>
+ 
+<string id="ars-ak9">
+	<text>AK-9</text>
+</string>
+ 
+<string id="enc_arsenal_ak9">
+	<text>%c[255,250,250,250]Ammunition: \n • 9x39mm PAB9 \n • 9x39 SP-6 - piercing \n • 9x39 SP-5 - sniper \n • The effective range of 280 m \n • Effective range 320 m \n • rate of 750 V/m \n • Capacity 30 rounds \n • Aperture - Reticle 'PC-A' \n • Integrated silencer \n • rifle grenade --- \n AK-9 is an individual weapon personnel of the army and security forces. The design using modern materials. Stock, store, forearm, hand guards and pistol grip are made of high-strength plastic. Butt may be cumulative. There is a possibility of shooting, with butt folded. Provides side rail for mounting optical and night sights, a seat for the bayonet-knife. Muzzle brake for high accuracy automatic fire by reducing the disposal machine from the aiming point and lower energy recoil.</text>
+</string>
+ 
+<string id="wpn_ak47_sk1">
+	<text>AK-47 'Scout'</text>
+</string>
+ 
+<string id="enc_weapons1_wpn_ak47_sk1">
+	<text>%c[255,250,250,250]Ammunition: \n • 7.62x39mm - basic \n • 7.62x39mm BP - piercing \n • grenade VOG-25 and VOG-25P \n • The effective range of 400m \n • Effective range 600 m \n • rate of 750 V/m \n • 30-round magazine capacity \n Upgrades \n • Reticle JI-3 \n • Silencer for caliber 7.62 \n • barrel grenade launcher GP-25 'Fire' \n Auto-classic known the world over. Valued in the Zone for reliability even in the most adverse conditions and at the same time for ease of use. This copy of the limited party, created for special forces military intelligence. To improve the accuracy of the battle in the model introduced a special retarder intermenstrual time. He has provided a significant improvement in accuracy of the fight with the stop. Shooting with it improved by the introduction of a muzzle compensator. Also introduced a firing mode cutoff of 3 rounds.</text>
+</string>
+ 
+<string id="wpn_ak104">
+	<text>AK-104</text>
+</string>
+ 
+<string id="enc_wpn_ak104">
+	<text>%c[255,250,250,250]Ammunition: \n • 7.62x39mm - basic \n • 7.62x39mm BP - piercing \n • grenade VOG-25 and VOG-25P \n • The effective range of 400m \n • Effective range 600 m \n • rate of 650 V/m \n • 30-round magazine capacity \n Upgrades \n • Reticle PSO-1 \n • Silencer for caliber 7.62 \n • barrel grenade launcher GP-25 'Fire' \n Kalashnikov one hundredth series chambered 7.62h39mm. This model upgrades introduce to him the AK-74M with a short barrel for the specified type of cartridge. Small batch of these weapons has been imported into the zone a couple of years ago on the order of one group. It took a few copies of 'left.' Dovlno rare weapons in the zone. Also is in service with military ulouse.</text>
+</string>
+ 
+<string id="wpn_ak203">
+	<text>Rifle AR-F</text>
+</string>
+ 
+<string id="enc_arsenal_wpn_ak203">
+	<text>%c[255,250,250,250]Ammunition: \n • 7.62x39mm - basic \n • 7.62x39mm BP - piercing \n • Shot M-209 \n • The effective range of 400m \n • Effective range 600 m \n • rate of 800 V/m \n • Capacity 30 rounds \n Upgrades \n • Reticle PSO-1 \n • Silencer --- \n • Integrated grenade UBGL-M6 \n Assault rifle AR-F 7.62mm, equipped with a grenade launcher UBGL-M6. Made in Bulgaria 'Arsenal' plant. Machine, made by the scheme that balances the recoil momentum. The high rate of fire, accuracy, accuracy of automatic fire, convenient fixed grenade launcher, make this an indispensable weapon in distant raids.</text>
+</string>
+ 
+<string id="wpn_akm203_pso">
+	<text>Rifle AR-F 'Sniper'</text>
+</string>
+ 
+<string id="enc_arsenal_wpn_akm203_pso">
+	<text>%c[255,250,250,250]Ammunition: \n • 7.62x39mm - basic \n • 7.62x39mm BP - piercing \n • Shot M-209 \n • The effective range of 550m \n • Effective range 700 m \n • rate of 800 V/m \n • Capacity 30 rounds \n Upgrades \n • Reticle Leupold \n • Silencer --- \n • Integrated grenade UBGL-M6 \n Sniper modification assault rifle AR-F 7.62-mm. Equipped with a grenade launcher UBGL-M6. Machine, made by the scheme that balances the recoil momentum. The high rate of fire, accuracy, accuracy of automatic fire, convenient fixed grenade launcher, make this an indispensable weapon in distant raids. All internal mechanisms and barrel coated diamond deposition, respectively minimal wear the rifle.</text>
+</string>
+ 
+<string id="wpn-scope_lepoid">
+	<text>Leupold optical sight</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-scope_lepoid">
+	<text>Rifle scope Leupold - 8x scope of the highest quality from the U.S.. Installed on the Bulgarian rifle AR-F 'Sniper'.</text>
+</string>
+ 
+<string id="enc_wpn-aks74m">
+	<text>%c[255,250,250,250]Ammunition: \n • 5.45x39 - basic \n • 5.45x39 BP - piercing \n • grenade VOG-25 and VOG-25P \n • The effective range of 180 m \n • Effective range 250 m \n • rate of 600 V/m \n • Capacity 30 rounds \n Upgrades: \n • Reticle collimator 'Cobra' \n • Silencer M5.45-A \n • barrel grenade launcher GP-25 'Fire' \n Modification AKS-74 for airborne troops, was created with a lightweight metal butt triangular folding left more comfortable than AKMS. The triangular shape allows the butt of more rigidity. Wooden furniture is replaced by a light, made of polyamide. To have a built-in reflex sight 'Cobra'.</text>
+</string>
+ 
+<string id="ars_ognemet">
+	<text>Flamethrower 'Poltergeist'</text>
+</string>
+ 
+<string id="enc_weapons1_ognemet">
+	<text>%c[255,250,250,250]Ammunition: \n • Spec. balloons with ognesmesi \n • Shot M-209 \n • The effective range of up to 60m \n • Effective range 100 m \n • rate of 1000 V/m \n • Capacity 50 charges ognesmesi \n Upgrades \n • Integrated optical sight (x4 ) \n • Silencer --- \n • Integrated launcher \n Powerful weapon for protection from the crowd. The newly developed on the basis of an unknown craftsman FN2000 (rumor has it that the name of the craftsman stalker Dimak). Is also unique in that it has an integrated grenade launcher.</text>
+</string>
+ 
+<string id="ars_ballon">
+	<text>Canister with flammable  mixture</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-balon">
+	<text>Special Canister with flammable mixture for the 'Poltergeist' flamethrower.</text>
+</string>
+ 
+<string id="wpn_rem870_magnum">
+	<text>Remington 870 'Marine Magnum'</text>
+</string>
+ 
+<string id="enc_wpn_rem870_magnum">
+	<text>%c[255,250,250,250]Ammunition: \n • 12x70 fraction \n • 12x70 buckshot \n • 12x76 Jacques \n • 12x76 dart \n • The effective range of 60m \n • rate of 70 V/m \n • Capacity 7 rounds \n • Aperture - Optical Sight --- \n • Silencer --- \n • rifle grenade --- \n Shotgun Remington 870 'Marine Magnum' was introduced by Remington in 1950, and since then has been the best-selling in the U.S. pump action shotgun. Initially designed as a versatile hunting rifles, Remington 870 manufactured and produced in dozens of versions and in different calibers.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-linza">
+	<text>%c[255,250,250,250]Ammunition: \n • 5.56x45 SS109 - basic \n • 5.56x45 AP - piercing \n • Shot M-209 \n • The effective range of 520m \n • Effective range 650 m \n • rate of 950 V/m \n • magazine capacity 30 rounds \n • Aperture - Reticle (h12.8) \n • Integrated silencer M5.56-A \n • Integrated M-203 grenade launcher \n - automatic grenade launcher nicknamed the 'Ghost'. In addition to sight-computerized fire control module and a 40-mm grenade launcher, it offers advanced tactical characteristics. Each time you press the descent Kursk triggered gravitational acceleration ejection of ammunition. Made stalker nicknamed 'Losers'. Creates a false location of the enemy, carrying an optical Ghost, giving otherworldly cloud of smoke.</text>
+</string>
+ 
+<string id="wpn-linza">
+	<text>FN 'Ghost'</text>
+</string>
+ 
+<string id="ammo-arbolt">
+	<text>Crossbow bolt</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-arbolt">
+	<text>Used: \n • For shooting sports and hunting crossbows \n • Material: Aluminum \n • Top speed: 440 \n Aluminum boom with a plastic-tipped tail and hunting with 3 blades of strong high-carbon steel. The high penetration ability in the target unprotected by armor.</text>
+</string>
+ 
+<string id="wpn-arb">
+	<text>Crossbow</text>
+</string>
+ 
+<string id="enc_weapons_wpn-arb">
+	<text>TTH: \n • The initial rate boom, m/s: 95 \n • Tensile force, kg: 79,5 \n • The kinetic energy, J: 140 \n • Recommended screw: 440mm \n • The effective range of 50-75m \n Lightweight hunting crossbow equipped with an optical sight and night vision high multiplicity. Silent weapon has a good destructive power and accuracy when, unfortunately, a very low rate of fire. This specimen was imported into the Zone, one of the hunters foreigners pogibschego later under mysterious circumstances ... Adapted exclusively for night hunting. During the day - night-sight gives a strong distinctive flare. When used at night is recommended to disable bronizheleta PNV.</text>
+</string>
+ 
+<string id="ars-f1_double">
+	<text>Twin F-1</text>
+</string>
+ 
+<string id="enc_ars-f1_double">
+	<text>Twin F-1 grenades, almost twice as powerful causing a significantly increased radius of shrapnel damage. Throw only from shelters!</text>
+</string>
+ 
+<string id="ammo-minigun">
+	<text>FMJ Box (250x3)</text>
+</string>
+ 
+<string id="ammo-minigun_s">
+	<text>FMJ (x3)</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-minigun">
+	<text>Duct tape for 250 rounds 5.56x45 for M-134. Cheap cartridges are not designed for target shooting, also contribute to the rapid deterioration. \n one patron in the three models are in fact.</text>
+</string>
+ 
+<string id="wpn-pkm">
+	<text>PKM (6P6)</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-pkm">
+	<text>%c[255,250,250,250]Ammunition: \n • 7.62x53R \n • The effective range of 800m \n • Effective range 1200m \n • rate of 650 V/m \n • Capacity Box 100 rounds \n • Aperture - Reticle --- \n • Silencer - - \n • rifle grenade --- \n Upgraded one PKM machine gun, put into service in 1969. \n Guns Series PC/PCM are highly reliable and are popular among the troops, despite several pereuslozhnennuyu two-stage delivery system of the tape cartridge in the barrel. Quick-change barrel, has a handle for carrying. Cartridges - from nerassypnoy metal strip with a closed link. The nominal capacity of the tape is 100 (in manual form) rounds. These weapons are usually fitted with heavily armed troops military stalkers.</text>
+</string>
+ 
+<string id="ars-aks74">
+	<text>AKS-74</text>
+</string>
+ 
+<string id="enc_ars-aks74">
+	<text>%c[255,250,250,250]Ammunition: \n • 5.45x39 - basic \n • 5.45x39 BP - piercing \n • The effective range of 400m \n • Effective range 600 m \n • rate of 650 V/m \n • Capacity 30 rounds \n Upgrades: \n • The sight PSO-1 \n • Silencer M5.45-A \n • barrel grenade launcher GP-25 'Fire' \n 5.45-mm Kalashnikov assault rifle with a folding stock (GRAU index 6P21) - version AK74 with folding side metal butt pentagonal shape. Designed for use in airborne troops.</text>
+</string>
+ 
+<string id="wpn-hostel">
+	<text>Hostel</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-hostel">
+	<text>%c[255,250,250,250]Ammunition: \n • 5.56x45 SS109 - basic \n • 5.56x45 AP - piercing \n • The effective range of 400m \n • Effective range 540m \n • rate of 950 V/m \n • Capacity 30 rounds \n • Aperture - Reticle (x8) \n • Silencer --- \n • rifle grenade --- \n - automatic grenade launcher nicknamed the 'Hostel', lives up to its name. This complex offers advanced tactical characteristics. Each time you press the descent Kursk triggered gravitational acceleration ejection of ammunition. For the shooting needs a special vest.</text>
+</string>
+ 
+<!-- New grenade -->
+<string id="ars-dinamit_atomn">
+	<text>Grenade 'Termoatom'</text>
+</string>
+ 
+<string id="enc_weapons1_grenade-dinamit_atomn">
+	<text>Grenade huge force of destruction. Some call it the thermo-nuclear grenade. We do not advise to go long after the explosion in the affected area. Not die from the explosion, die from its effects.</text>
+</string>
+ 
+<string id="enc_weapons1_grenade-anomal">
+	<text>Abnormal grenades long range shrapnel. Throwing only recommended from the shelter. Abnormal effects of the explosion of a grenade was visiting in the anomalous zone.</text>
+</string>
+ 
+<string id="enc_weapons1_grenade-fuelcan">
+	<text>Hand grenades with a large radius of destruction by fire and burning debris. Throwing only recommended from the shelter.</text>
+</string>
+ 
+<string id="enc_weapons1_grenade-barrel">
+	<text>Hand grenades with a large radius of destruction by fire and large fragments. Throwing only recommended from the shelter.</text>
+</string>
+ 
+<string id="enc_weapons1_grenade-molotov">
+	<text>Molotov cocktail - is a simple bottles of vodka filled with flammable zhizkostyu. Invented during V.O.V the Soviet troops.</text>
+</string>
+ 
+<string id="enc_weapons1_grenade-mina">
+	<text>Mina, and throw a leg out to get out of the kill zone, you have 70 seconds.</text>
+</string>
+ 
+<string id="enc_weapons1_grenade-dinamit40">
+	<text>Shocker grenade inflicts electricity. Having been in a grenade anomalies Electra.</text>
+</string>
+ 
+<string id="enc_weapons1_grenade-dinamit70">
+	<text>Grenade surnamed Moleoboy for what after throwing it buries itself in the ground and damages not only those who are on the ground, but underground inhabitants. With the explosion of the earth escapes the fountain of blood.</text>
+</string>
+ 
+<string id="st_grenade_gaz">
+	<text>Chemical grenade</text>
+</string>
+ 
+<string id="enc_weapons1_grenade-gd05">
+	<text>Hand smoke grenade. Designed for installation of flue cover. Duration - 10 seconds.</text>
+</string>
+ 
+<string id="enc_weapons1_grenade-rgd5">
+	<text>Offensive hand grenade with a small radius of shrapnel.</text>
+</string>
+ 
+<string id="enc_weapons1_grenade-rgd5-anomal">
+	<text>Abnormal hand grenade with a small radius of shrapnel. Abnormal effects of the explosion of a grenade was visiting in the anomalous zone.</text>
+</string>
+ 
+<!--Weap_addon_rus_text-->
+<string id="ars-m4_a1">
+	<text>Colt M4A1</text>
+</string>
+ 
+<string id="enc_wpn-m4_a1">
+	<text>%c[255,250,250,250]Ammunition: \n • 5.56x45 SS109 - basic \n • 5.56x45 AP - piercing \n • The effective range of 450 meters \n • Effective range 600 m \n • rate of 900 V/m \n • Capacity 30 rounds \n Upgrades \n • Reticle ACOG \n • Silencer M5.56-A \n • rifle grenade --- \n Colt M4A1 variant in Close Quarter Battle Weapon (CQBW), with tactical grip and removable sight Acog. In addition, the kit includes a quick-Silencer, worn directly on a regular rifle flash suppressor. There is a mode of shooting with a cutoff in the three rounds.</text>
+</string>
+ 
+<string id="ars-ak47_sh">
+	<text>AK-47 'Assault'</text>
+</string>
+ 
+<string id="enc_arsenal_ak47_sh">
+	<text>%c[255,250,250,250]Ammunition: \n • 7.62x39 - normal \n • 7.62x39 BP - piercing \n • grenade VOG-25 and VOG-25P \n • The effective range of 320m \n • Effective range 400 m \n • rate of 750 V/m \n • Capacity 45 rounds \n Upgrades \n • Reticle collimator 'Cobra' \n • Silencer for caliber 7.62 \n • barrel grenade launcher GP-25 'Fire' \n Modification of Kalashnikov rifles - AK-47 'Assault' with integrated collimator 'Cobra' and the horn for 45 rounds.</text>
+</string>
+ 
+<string id="ammo-12x70-kart">
+	<text>12x70 'Buckshot'</text>
+</string>
+ 
+<string id="enc_weapons1_ammo-12x70-kart">
+	<text>The usual round of 12 gauge, gear 'related' buckshot. At close range has a huge killer action. Increased contact with the shooting accuracy. Is most effective at ranges up to 50 meters. Designed for smooth bore shotguns like Remington 'Marine Magnum' 870 and Saiga 12k.</text>
+</string>
+ 
+<string id="ars-acog">
+	<text>ACOG sight</text>
+</string>
+ 
+<string id="enc_arsenal_acog">
+	<text>4x optical sight for NATO rifles.</text>
+</string>
+ 
+<string id="ars-sks_s">
+	<text>SKS</text>
+</string>
+ 
+<string id="enc_arsenal_sks_s">
+	<text>%c[255,250,250,250]Ammunition: \n • 7.62x39 - normal \n • 7.62x39 BP - piercing \n • The effective range of 600m \n • Effective range 750 m \n • rate of 120 V/m \n • Capacity 10 rounds \n Upgrades \n • Optical sight 'ZF-4' \n • Silencer --- \n • rifle grenade --- \n 7.62-mm carbine Simonov (SKS) - self-loading rifle designed by Sergei Simonov arr. 1945. SCS passed military tests in WWII victory in the 45th and was accepted by the army in 1949, almost simultaneously with the Kalashnikov. The reliability and simplicity of the device is quite comparable to the AK.</text>
+</string>
+ 
+<string id="ars-7.62x51_fmj">
+	<text>7.62x51mm NATO</text>
+</string>
+ 
+<string id="ars-7.62x51_fmj_s">
+	<text>7.62x51</text>
+</string>
+ 
+<string id="ars-7.62x51_ap">
+	<text>7.62x51mm NATO AP</text>
+</string>
+ 
+<string id="ars-7.62x51_ap_s">
+	<text>7.62x51 AP</text>
+</string>
+ 
+<string id="enc_arsenal_7.62x51_fmj">
+	<text>NATO standard rifle ammo. Caliber 7.62mm. Easy-metal bullet.</text>
+</string>
+ 
+<string id="enc_arsenal_7.62x51_ap">
+	<text>NATO standard rifle ammo. Caliber 7.62mm. A bullet with a steel core, enhanced armor-piercing.</text>
+</string>
+ 
+<string id="ars-ak105">
+	<text>AK-105</text>
+</string>
+ 
+<string id="enc_arsenal_ak105">
+	<text>%c[255,250,250,250]Ammunition: \n • 5.45x39mm - basic \n • 5.45x39mm BP - piercing \n • VOG-25 \n • VOG-25P \n • The effective range of 230m \n • Effective range 350 m \n • rate of 650/m \n • Capacity 30 rounds \n Upgrades: \n • Reticle 'PC-A' \n • Silencer M5.45-A \n • barrel grenade launcher GP-25 'Fire' \n new weapons' one hundredth 'series are old, well-established constructive scheme of well-known Kalashnikov rifles. Operation and activities of the basic components and mechanisms Machines 100 series are practically no different from the previous model - AK-74M. Based on the AK-102 and AK-104 to the Russian armed forces and law enforcement agencies has been developed compact 5.45mm AK-105, which has all the advantages of export models Kalashnikov, but at the same time, many times superior in combat characteristics AKS- 74U, to replace which it was intended.</text>
+</string>
+ 
+<string id="ars_tt33">
+	<text>TT-33</text>
+</string>
+ 
+<string id="enc_ars_tt33">
+	<text>%c[255,250,250,250]Ammunition: \n • 7.62x25mm conventional CT \n • 7.62x25mm with steel bullet PS \n • Capacity: 9 rounds \n About TT pistol today often speak in criminal news, but a creation of Russian arms Fedor Tokarev not nothing has earned its fame. Creation Tokarev received impersonal name '7 ,62-mm automatic pistol arr. 1930 ', but in preparation for the mass production of this model has undergone a number of changes to simplify the technology of production. As a result, in 1934 at the Tula arms factory began mass production model '7 ,62-mm pistol TT arr. 1933 ', and in a few years other than' TT '(Tula, Tokarev) it did not name. This model was exported to the German Democratic Republic, Poland, Romania, Bulgaria, North Vietnam, Afghanistan and Yugoslavia, Hungary, China and North Korea have even purchased a license for the production of CT and ammunition. In Yugoslavia, producing the highest quality to date modified CT with the store for 9 rounds (M-57).</text>
+</string>
+ 
+<string id="wpn_aug_a1">
+	<text>Steyr AUG 'Coulter'</text>
+</string>
+ 
+<string id="enc_wpn_aug_a1">
+	<text>%c[255,250,250,250]Ammunition: \n • 5.56x45mm SS109 \n • 5.56x45mm AP \n • The under-barrel shotgun - \n caliber 12x70 - shot/buckshot \n • The effective range of 400m \n • Effective range 550 m \n • rate of 850 V/m \n • Capacity: 42 rounds \n Upgrades: \n • Reticle 'EOTech 8X.FTS Magnifier' \n • Silencer M5.56-A \n • Weapon Mounted Shotgun \n Steyr AUG (Armee Universal Gewehr - Universal Army Rifle) - a set of small arms, issued in 1977 by the Austrian company Steyr-Daimler-Puch. This rifle used a layout 'bull-pup' in which the bolt assembly shop located behind the operating handle and trigger. VMK - modification of the standard AUG A3. According to rumors, this rifle belonged stalker nicknamed Coulter. Recently, she was found in the Red Forest, about what that pile of rusty junk. The distinguishing feature of this unique rifle - practicality. Increased store up to 42 rounds of ammunition and grenade shotgun mount, make one of the best WMC rifles at medium and short distances.</text>
+</string>
+ 
+<string id="wpn_addon_shotgun">
+	<text>Underbarrel shotgun</text>
+</string>
+ 
+<string id="enc_wpn_addon_shotgun">
+	<text>Underbarrel shotgun \n • Supported caliber: 12x70 'Fraction/Grapeshot' \n Weapon Mounted shotgun for Steyr AUG assault rifle Coulter.</text>
+</string>
+ 
+<string id="ars-fn_fal">
+	<text>FN FAL</text>
+</string>
+ 
+<string id="enc_ars-fn_fal">
+	<text>%c[255,250,250,250]Ammunition: \n • 7.62x51mm NATO - the main \n • 7.62x51mm NATO AP - piercing \n • The effective range of 560m \n • Effective range 700 m \n • rate of 650 V/m \n • Capacity 20 rounds \n Upgrades \n • Reticle ACOG \n • Silencer M7.62-A \n • rifle grenade --- \n Rifle FN FAL (Fusil Autamatique Leger - Light Automatic Rifle), developed by Fabrique Nationale in Erstale, Belgium. In general, a series of FAL rifles are among the best examples of his time. They were easy to use and maintain, are quite reliable, and has good performance in semi-automatic mode. The disadvantages of these rifles include a fairly large overall length, low effectiveness of automatic fire and sensitivity to clogging of fine sand and dust, revealed in Israel during the Arab - Israeli war of 1973.</text>
+</string>
+ 
+<string id="ars-sil_556_ar">
+	<text>Silencer M5.56-A</text>
+</string>
+ 
+<string id="ars-sil_762_ar">
+	<text>Silencer M7.62-A</text>
+</string>
+ 
+<string id="enc_arsenal_sil_556_ar">
+	<text>The device silencers for submachine guns and rifles 5.56mm.</text>
+</string>
+ 
+<string id="enc_arsenal_sil_762_ar">
+	<text>The device silencers for submachine guns and rifles chambered for 7.62mm.</text>
+</string>
+ 
+<string id="ars-sil_545_ar">
+	<text>Silencer M5.45-A</text>
+</string>
+ 
+<string id="enc_arsenal_sil_545_ar">
+	<text>Silencer for submachine guns - 5.45mm caliber.</text>
+</string>
+ 
+<string id="ars-oc33">
+	<text>OC-33 'Mace'</text>
+</string>
+ 
+<string id="enc_arsenal_oc33">
+	<text>%c[255,250,250,250]Ammunition: \n • 9x18 - basic \n • 9x18 'P' - improved \n • Capacity: 27 rounds \n Gun OTs-33 was developed in the mid 1990s in TsKIB SOO (Central Bureau of Sporting and Hunting Weapons) under the direction I.Ya.Stechkina to replace obsolete and out of production gun APS design by the same author. OC-33 pistol - automatic weapon, built-automatic blowback. To reduce the perceived recoil pistol made mobile. At the end of the cycle the bolt recoil catches massive trunk, and because of its inertia braking occurs Charon to shutter its collision with the frame in its rearmost position.</text>
+</string>
+ 
+<string id="ars-addon_optik">
+	<text>EOTech 8X FTS Optics</text>
+</string>
+ 
+<string id="enc_ars-addon_optik">
+	<text>Optical sight high multiplicity EOTech 8X.FTS Magnifier \n • The model with fast tilting towards \n • Mounting bracket for Picatinny. \n • Lenses Leica \n • Operating temperature range of -30 to 60C. \n • water resistant to 10 meters mounted on the rifle 'Steyr AUG Coulter.'</text>
+</string>
+ 
+<string id="ars-ump45">
+	<text>HK UMP-45</text>
+</string>
+ 
+<string id="enc_arsenal_ump45">
+	<text>%c[255,250,250,250]Ammunition: \n • 11.43x23mm \n • 11.43x23mm Gidroshok \n • The effective range of 140 m \n • Effective range 180 m \n • rate of 700 V/m \n • Capacity 25 rounds \n • Aperture - Reticle ACOG \n • Silencer PBS \n • rifle grenade --- \n SMG H</text>
+</string>
+ 
+<string id="ars-sayga12_sk1">
+	<text>Saiga 12K 'Sniper'</text>
+</string>
+ 
+<string id="enc_arsenal_sayga12_sk1">
+	<text>%c[255,250,250,250]Ammunition: \n • 12x76 bullet/dart \n • 12x70 shot/buckshot \n • eff. Range up to 100m with a bullet \n • a fraction/60 buckshot 65m \n • rate of 450 V/m \n • Capacity 10 rounds \n • Aperture - The optical sight 'hunting scope' \n • Silencer --- \n • Reflex Sight EOTeth \n shotgun (shotgun) Saiga 'Sniper' with folding stock and short barrel. 2 modes of fire - single and automatic.</text>
+</string>
+ 
+<string id="ars-addon_scope_hanter">
+	<text>Hunting scope</text>
+</string>
+ 
+<string id="ars-wpn_kollim">
+	<text>EOTeth</text>
+</string>
+ 
+<string id="enc_ars-addon_scope_hanter">
+	<text>Saiga hunting scope for 'Sniper' and Battle of Winchester.</text>
+</string>
+ 
+<string id="enc_ars-kollim">
+	<text>Collimator sight EOTeth for Saiga 'Sniper'.</text>
+</string>
+ 
+<string id="ars-wpn_g3">
+	<text>HK G3-A3</text>
+</string>
+ 
+<string id="enc_arsenal_g3">
+	<text>%c[255,250,250,250]Ammunition: \n • 7.62x51mm NATO - the main \n • 7.62x51mm NATO AP - piercing \n • Shot M-209 \n • The effective range of 480m \n • Effective range 600 m \n • rate of 600 V/m \n • Capacity store 20 rounds \n • Aperture - Reticle 'Hensoldt Fero-Z24' \n • Silencer M7.62-A \n • NATO rifle grenade M-203 \n In 1959, the German Armed Forces (Bundeswehr) is adopting a new rifle under the designation G3 (Gewehr 3 - Rifle model 3), developed by 'Heckler</text>
+</string>
+ 
+<string id="ars-wpn_g41">
+	<text>HK G41</text>
+</string>
+ 
+<string id="enc_arsenal_g41">
+	<text>%c[255,250,250,250]Ammunition: \n • 5.56x45 SS109 - basic \n • 5.56x45 AP - piercing \n • Shot M-209 \n • The effective range of 380m \n • Effective range 500 m \n • rate of 750 V/m \n • magazine capacity 30 rounds \n • Aperture - Reticle 'Hensoldt Fero-Z24' \n • Silencer M5.56-A \n • NATO rifle grenade M-203 \n This rifle is created based on a 7.62-mm rifle G3 but developed under the new staff cartridge 5.56x45 NATO. The differences from the prototype: the forced locking gate accompanied by the noise reduced slide catch holds the valve in the open position on the expenditure of ammunition in the store, on the window to eject spent cartridges installed dust cover. Can be fixed to fire bursts of three shots. Provides anchorage bipod new bracket for all day and night sights taken in NATO. Rugged construction designed for 20,000 rifle rounds.</text>
+</string>
+ 
+<string id="enc_arsenal_hensoldt">
+	<text>4x optical sight 'Hensoldt Fero-Z24' on the bracket HK STANAG, designed for mounting on assault rifles, G3 and G41.</text>
+</string>
+ 
+<string id="enc_ars-rem870short">
+	<text>%c[255,250,250,250]Ammunition: \n • 12x70 fraction \n • 12x70 buckshot \n • 12x76 Jacques \n • 12x76 dart \n • The effective range of 45m \n • rate of 60 V/m \n • a magazine capacity of 5 rounds \n • Aperture - Optical Sight --- \n • Silencer --- \n • rifle grenade --- \n short Remington 870 shotgun made handicraft. Someone did not spare precious good gun ... Obviously the customer either a fool or a master of close combat, where small dimensions and light weight are critical.</text>
+</string>
+ 
+<string id="ars-rem870short">
+	<text>Remington 870 'Edge'</text>
+</string>
+ 
+<string id="ars-aa12_m1">
+	<text>AA12 'Camo'</text>
+</string>
+ 
+<string id="enc_ars-aa12_m1">
+	<text>%c[255,250,250,250]Ammunition: \n • 12x70 fraction \n • 12x70 buckshot \n • 12x76 Jacques \n • 12x76 dart \n • The effective range of 80m \n • rate of 600 V/m \n • Doctor m capacity 32 rounds \n • Aperture - Optical Sight --- \n • Integrated silencer \n • rifle grenade --- \n AA-12 (Auto Assault-12) - automatic rifle created Maksellom Atchissonom based on an earlier design Atchisson Assault Shotgun. At this modification installed collimator sight and integrated silencer.</text>
+</string>
+ 
+<string id="ars-hk417">
+	<text>HK417</text>
+</string>
+ 
+<string id="enc_ars-hk417">
+	<text>%c[255,250,250,250]Ammunition: \n • 7.62x51mm NATO - the main \n • 7.62x51mm NATO AP - piercing \n • The effective range of 800m \n • Effective range 1000m \n • rate of 600 V/m \n • Capacity 20 rounds \n • Aperture - Integrated sight \n • Silencer M7.62-A \n • rifle grenade --- \n sniper version of the rifle Heckler-Koch HK417 7.62mm NATO, an optical sight Mueller 4x16, pads on the forearm, set vertical sniper pistol grip uderzhananiya for convenience. 2 modes of fire - single and automatic.</text>
+</string>
+ 
+<string id="ars-sv98">
+	<text>SV-98</text>
+</string>
+ 
+<string id="enc_ars-sv98">
+	<text>%c[255,250,250,250]Ammunition: \n • 7.62x54 7N1 - basic \n • 7.62x54 7H13 - piercing \n • 7.62x54 7N14 - sniper \n • The effective range of 800m \n • Effective range 1000m \n • rate of 20 V/m \n • 10-round magazine capacity \n • Aperture - Reticle 'Optics M16' \n • Silencer M7.62-A \n • rifle grenade --- \n SV-98 rifle designed by Izhmash based sports 7.62mm rifle Record-CISM. The rifle is equipped with an adjustable wooden lodge (adjustable polozheniezatylnika butt, abutment cheek.) At the front of the box has a mount for a folding bipod. This rifle is in service and is used by the Interior Ministry, including in Chechnya.</text>
+</string>
+ 
+<string id="ars-val_voron">
+	<text>General Voronin Vintorez</text>
+</string>
+ 
+<string id="enc_ars_val_voron">
+	<text>%c[255,250,250,250]Ammunition: \n • 9x39 SP-6 - piercing \n • 9x39 SP-5 - sniper \n • The effective range of 350m \n • Effective range 500 m \n • rate of 850 V/m \n • Capacity 20 rounds \n • Aperture - Integrated 10n-fold aim \n • Integrated silencer \n • rifle grenade --- \n Author Vintorez General Voronin, assembled at the request of one of the master gunsmiths. A truly unique trunk. Not typical for this type of weapon, a high initial velocity (due to improvements receiver). Enumerated and carefully adjusted to each other all moving parts and mechanisms, thereby achieved unparalleled accuracy. The ergonomic handle with a soft slope, barely visible return, silence and reliability - these are the distinctive features of the stem. A regime of shooting with a cut-off of 3 rounds. Set individual telescope high multiplicity. A real find for the experienced stalker.</text>
+</string>
+ 
+<string id="ars-m14">
+	<text>M14</text>
+</string>
+ 
+<string id="enc_arsenal_m14">
+	<text>%c[255,250,250,250]Ammunition: \n • 7.62x51mm NATO - the main \n • 7.62x51mm NATO AP - piercing \n • The effective range of 800m \n • Effective range 960m \n • rate of 550 V/m \n • Capacity 20 rounds \n • Aperture - Reticle 'Optics M16' \n • Silencer M7.62-A \n • rifle grenade --- \n Automatic Sniper Rifle M-14 7.62mm. The rifle was designed for snipers level offices USMC M14 Designated Marksman Rifle (DMR). The main features of the rifle are a new barrel with five grooves, to improve the accuracy and consistency of fire, removable silencer modern design with compensator recoil receiver is made of fiberglass.</text>
+</string>
+ 
+<string id="ars-vepr12">
+	<text>VEPR-12 'Wild Boar'</text>
+</string>
+ 
+<string id="enc_arsenal_vepr12">
+	<text>%c[255,250,250,250]Ammunition: \n • 12x70 fraction \n • 12x70 buckshot \n • 12x76 Jacques \n • 12x76 dart \n • eff. Range up to 100m with a bullet \n • a fraction/60 buckshot 65m \n • rate of 300 V/m \n • Doctor m capacity 20 rounds \n • Aperture - Integrated optical sight \n • Silencer --- \n • Weapon Mounted Grenade --- \n shotgun (shotgun) Vepr-12 is a relatively new development plant 'Hammer' (Vyatka Polyana) and is designed as a direct competitor is very popular in Russia Sayga-12S/12K series rifles. The basis of the Boar-12 rifles laid proven design Kalashnikov RPK machine gun, but the gun introduced additional design elements that make his treatment more comfortable. Vepr-12 is a good weapon to support the police and other security agencies.</text>
+</string>
+ 
+<string id="ars-zf4">
+	<text>ZF-4</text>
+</string>
+ 
+<string id="enc_arsenal_zf4">
+	<text>Sniper Scope high multiplicity ZF-4. Used for the German STG-44 rifles 'Sturmgewehr' and the Mauser K98, and can also be mounted on the carbine SKS.</text>
+</string>
+ 
+<string id="ars-scope1">
+	<text>Optics M16</text>
+</string>
+ 
+<string id="enc_arsenal_scope1">
+	<text>4x optical sight for the old-style M-16 rifles and M-14.</text>
+</string>
+ 
+<string id="ars-scope_m2">
+	<text>PSO-3 scope</text>
+</string>
+ 
+<string id="enc_arsenal_scope_m2">
+	<text>PSO Optical 3x sight.</text>
+</string>
+ 
+<string id="wpn_fn2000_paratrooper">
+	<text>FN2000 'Trooper'</text>
+</string>
+ 
+<string id="enc_weapons1_wpn_fn2000_paratrooper">
+	<text>%c[255,250,250,250]Ammunition: \n • 9x39 PAB9 \n • 9x39 SP-6 - piercing \n • 9x39 SP-5 - sniper \n • rifle grenades M209 \n • The effective range of 600m \n • Effective range 800 m \n • rate of 950/m \n • Capacity 30 rounds \n • Integrated optical sight (h8.0) \n • Integrated silencer under caliber 9x39mm \n • Integrated NATO grenade M-203 \n weapons on the base-automatic grenade launcher Belgian Fabrique Nationale Herstal F2000 on special order for a faction of officers of the Navy SPN. Were used in the manufacture of various artifacts, which greatly increased the performance characteristics of weapons. Small batch of these complexes was found at the crash of a military helicopter on the radar. Where are the rest of the trunks of the party is not clear, but in the zone for them is a real game.</text>
+</string>
+ 
+<string id="ars-akms">
+	<text>AKMS</text>
+</string>
+ 
+<string id="enc_ars-akms">
+	<text>%c[255,250,250,250]Ammunition: \n • 7.62x39 - normal \n • 7.62x39 BP - piercing \n • grenade VOG-25 and VOG-25P \n • The effective range of 320m \n • Effective range 400 m \n • rate of 600 V/m \n • 30-round magazine capacity \n Upgrades \n • Reticle PSO-1 \n • Silencer for caliber 7.62 \n • barrel grenade launcher GP-25 'Fire' \n Kalashnikov Modernized Folding is smaller compared to the AKM in connection with that that has a folding stock, and takes up less space in your rucksack. Exceptionally high reputation Kalashnikov provided its reliability and the ability to fire even when clogged with sand and mud. Equally important is the ease of disassembly of the machine and maintain it. In the Zone AKMS least popular weapon, despite the lack of patterning, but thanks to the simplicity of weapons, low price, and the damaging effect of high heavy bullets of 7.62 mm.</text>
+</string>
+ 
+<string id="ammo-7.92x33-fmj">
+	<text>7.92x33</text>
+</string>
+ 
+<string id="ammo-7.92x33-ap">
+	<text>7.92x33 AP</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-7.92x33-fmj">
+	<text>Standard 7.92x33mm cartridge caliber rifles for the German STG-44 'Sturmgewehr' and Mauser K-98.</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-7.92x33-ap">
+	<text>7.92x33mm caliber armor-piercing bullets for German rifles STG-44 'Sturmgewehr' and Mauser K-98.</text>
+</string>
+ 
+<string id="ars-stg44">
+	<text>Sturmgewehr 44</text>
+</string>
+ 
+<string id="arsenal_mod-stg44">
+	<text>%c[255,250,250,250]Ammunition: \n • 7.92x33mm ordinary \n • piercing 7.92x33mm AP \n • The effective range of 400m \n • Effective range 600 m \n • rate of 500 V/m \n • Capacity 30 rounds \n Upgrades \n • Reticle 'ZF-4' \n • Silencer for caliber 7.62 \n • rifle grenade --- \n Sturmgewehr-44 - German assault rifle model 1943/44, he worked on the principle of removal of powder gases through a transverse hole in the lid of the trunk. The barrel is locked is skewed (rotated) gate in the vertical plane. Distortion (rotation) at shutter lock and unlock by reacting the corresponding inclined planes at the gate and the slide frame.</text>
+</string>
+ 
+<string id="ars-k98">
+	<text>Mauser K98</text>
+</string>
+ 
+<string id="enc_arsenal_k98">
+	<text>%c[255,250,250,250]Ammunition: \n • 7.92x33mm ordinary \n • piercing 7.92x33mm AP \n • The effective range of 760m \n • Effective range 850 m \n • rate of 25 V/m \n • a magazine capacity of 5 rounds \n Upgrades \n • Integrated Optical Scope \n • Silencer --- \n • rifle grenade --- \n Mauser K98 'Karkusha' - a German rifle, set up in 1898 by 'Mauser'. Rifle Mauser 98 was in service with the German army until the end of the Second World War and gained a reputation for simple, reliable weapon.</text>
+</string>
+ 
+<string id="ars-usas12">
+	<text>USAS 12</text>
+</string>
+ 
+<string id="enc_arsenal_usas12">
+	<text>%c[255,250,250,250]Ammunition: \n • 12x70 fraction \n • 12x70 buckshot \n • 12x76 Jacques \n • 12x76 dart \n • eff. range with a bullet to 90m \n • a fraction/buckshot 55-60m \n • rate of 360 V/m \n • Capacity 10 rounds \n • Aperture - Reticle ACOG \n • Silencer PBS \n • rifle grenade - - \n Smooth combat shotgun USAS-12 is designed in the U.S. in the late 1980s designer John Trevor, who worked for a small company Gilbert Equipment Co. The basis of the new automatic shotgun lay Maxwell Atchissona American ideas, implemented them in a series of experimental guns AA-12. \n Weight: 5.5 kg \n Rate of fire: 360 rounds per minute in automatic mode.</text>
+</string>
+ 
+<string id="wpn-pmm">
+	<text>PMM</text>
+</string>
+ 
+<string id="enc_arsenal_wpn_pmm">
+	<text>%c[255,250,250,250]Ammunition: \n • 9x18 - basic \n • 9x18 'P' - improved \n • Capacity: 12 rounds \n modernized Makarov pistol - magazine holds over 12 rounds. Pistol has become more comfortable, ergonomic grip. In the chamber made two grooves designed to reduce the recoil speed of moving parts mechanics gun, which had a positive impact on reducing and improving the accuracy of the fight.</text>
+</string>
+ 
+<string id="ars-c96">
+	<text>Mauser C-96</text>
+</string>
+ 
+<string id="arsenal_mod-c96">
+	<text>%c[255,250,250,250]Ammunition: \n • 7.62x25mm conventional CT \n • 7.62x25mm with steel bullet PS \n • Capacity: 20 rounds \n Mauser C96 - choice stalker who wants to maximize invest their cheapest ammo in case ... Rather, in the body. Someone's. Modified pistol chambered for 7.62x25mm TT. Automatic weapons with clip for twenty rounds, developed in the latexIX century. Gun belongs to the most powerful examples of automatic pistols, automatic action is based on the use of energy efficiency in the trunk of his short course. The advantages of the gun is attributed power, accuracy and range of the fight, a good survival weapon in combat. Disadvantages - the complexity of reloading, great weight and size.</text>
+</string>
+ 
+<string id="ars-c96_priklad">
+	<text>Stock for Mauser C-96</text>
+</string>
+ 
+<string id="enc_ars-c96">
+	<text>Removable stock for Mauser C96. Butt significantly reduces impact and increases accuracy.</text>
+</string>
+ 
+<string id="ars-apb">
+	<text>APB</text>
+</string>
+ 
+<string id="enc_ars-apb">
+	<text>%c[255,250,250,250]Ammunition: \n • 9x18 - basic \n • 9x18 'P' - improved \n • Capacity: 20 rounds \n APB silenced automatic pistol was developed in the early 1970s and adopted in 1972 for weapons intelligence and special forces Soviet Army, and the staff professional. the Interior Ministry and the KGB. From a technical point of view, is a modification of guns APB auto Stechkin APS. Thus, the APB has retained all the mechanisms APS, including translator fire mode and the rate of fire retardant in the handle. APB gun used widely and successfully used by the Soviet troops in Afghanistan, it is used to this day.</text>
+</string>
+ 
+<string id="ammo-7.62x25-p">
+	<text>7.62x25mm ammo P</text>
+</string>
+ 
+<string id="ammo-7.62x25-p_s">
+	<text>7.62x25mm R</text>
+</string>
+ 
+<string id="ammo-7.62x25-ps">
+	<text>7.62x25mm ammo PS</text>
+</string>
+ 
+<string id="ammo-7.62x25-ps_s">
+	<text>7.62x25mm PS</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-7.62x25-p">
+	<text>Standard 7.62mm pistol cartridge for TT-33 pistol and submachine gun PPSh-41. Simple core, shell bullet.</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-7.62x25-ps">
+	<text>Cartridge, equipped with bullet with steel core for TT-33 pistol and submachine gun PPSh-41. Improved armor-piercing bullets ability.</text>
+</string>
+ 
+<string id="ammo-7.62x54r">
+	<text>7.62x54mm ammo</text>
+</string>
+ 
+<string id="ammo-7.62x54r_s">
+	<text>7.62x54R</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-7.62x54r">
+	<text>H54mm cartridge 7.62 (7.62 h54, 7.62x54R, 7.62x54R Russian) appeared in 1891. Was adopted as a weapon to trilinear Mosin rifle. Russian rifle cartridge, with sleeve dimensions of 7.62x53, 72mm, the maximum total length of the pattern in 77.16 mm and diameter 7.92 mm bullets and energy of 4416 joules. This is one of the oldest modern rifle cartridges, and probably the oldest of the still widely used cartridges. Still used in the military, but not to fire the latest rifles, but as ammunition for machine guns PC, right click.</text>
+</string>
+ 
+<string id="wpn-beretta_m1">
+	<text>Beretta 7.62x25</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-beretta_m1">
+	<text>%c[255,250,250,250]Ammunition: \n • 7.62x25mm conventional CT \n • 7.62x25mm with steel bullet PS \n • Capacity: 15 rounds \n latest modified M9 - the American version of this weapon. Different manufactured using the most advanced technologies barrel, resulting in significantly improved accuracy and lethal of the weapons. Revised local craftsmen pistol caliber weapon was transferred to a more powerful caliber pistols TT 7.62x25mm significantly increased rate of fire and reduced recoil. It is very rare in the zone.</text>
+</string>
+ 
+<string id="ars-toz34_short">
+	<text>TOZ-34 'Short'</text>
+</string>
+ 
+<string id="enc_weapons1_toz34_short">
+	<text>%c[255,250,250,250]Ammunition: \n • 12x70 fraction \n • 12x70 buckshot \n • 12x76 Jacques \n • 12x76 dart \n • The effective range of 40m \n • rate of 200 V/m \n • Capacity 2 rounds \n • Aperture - Optical Sight --- \n • Silencer --- \n • rifle grenade --- \n short shotgun TOZ-34, now you can forget about hunting ... But in the melee, Effectiveness things just do not.</text>
+</string>
+ 
+<string id="ars-saiga12c">
+	<text>Saiga-12K 'Tactical'</text>
+</string>
+ 
+<string id="enc_ars-saiga12c">
+	<text>%c[255,250,250,250]Ammunition: \n • 12x70 fraction \n • 12x70 buckshot \n • 12x76 Jacques \n • 12x76 dart \n • The effective range of 75m \n • rate of 240 V/m \n • Capacity 7 rounds \n • Aperture - Optical Sight 'PC-A' \n • Silencer --- \n • rifle grenade --- \n Option semiautomatic shotgun rifle Saiga 12K 'Tactical' - gun has wooden forearm and pistol grip, folding stock on the left tube 'type of SIDS' . Established sights include front and rear sights on the AK type. Stock is made from the special detachable box stores of different sizes (in this embodiment shop for 7 rounds).</text>
+</string>
+ 
+<string id="ars-pk-a_scope">
+	<text>PK-A scope</text>
+</string>
+ 
+<string id="enc_ars-pk-a">
+	<text>Optical sight PK-A - a modern lightweight, watertight, easy to use sights for hunting rifles 'Tiger', a lateral strip for mounting optical sights. The sight is designed for accurate targeting of such weapons as AH 'Abakan' assault, Saiga 'Tactical', AK-105, AK-9, with the shooting in different lighting conditions - during the day, at dusk, when visibility is poor and rapidly changing light conditions . Design combined with the housing bracket to quickly remove and install the sight on the weapon without losing alignment. The sight is hermetically sealed and filled with Doctor  nitrogen to prevent condensation on the internal optical surfaces.</text>
+</string>
+ 
+<string id="ars-akms_m1">
+	<text>AKMS 'Huron'</text>
+</string>
+ 
+<string id="enc_ars-akms_m1">
+	<text>%c[255,250,250,250]Ammunition: \n • 7.62x39 - normal \n • 7.62x39 BP - piercing \n • grenade VOG-25 and VOG-25P \n • The effective range of 400m \n • Effective range 500 m \n • rate of 750 V/m \n • Capacity 40 rounds \n Upgrades \n • Reticle 'PC-A' \n • Silencer for caliber 7.62 \n • barrel grenade launcher GP-25 'Fire' \n modified in AKMS stalker nicknamed Huron. He did not trust expensive and fashionable NATO trunks, but the convenience in handling weapons valued, and as his hands grew out of 'the right place', he took his old favorite AKMS and imprisoned him 'for themselves', replacing the native uncomfortable folding stock on magnetic pulovsky instead JI adjusted the 'PC-A', put the pistol grip and replace the horn on a bigger machine from the PKK. Huron himself perished in the zone a few months ago, the new long raid, but it 'brought to mind' AKMS and reliable for a long time and will serve as the new owner will save his Pellicle more than once.</text>
+</string>
+ 
+<string id="ars-famas">
+	<text>Famas G2</text>
+</string>
+ 
+<string id="enc_arsenal_famas">
+	<text>%c[255,250,250,250]Ammunition: \n • 5.56x45 SS109 - basic \n • 5.56x45 AP - piercing \n • The effective range of 320m \n • Effective range 380m \n • rate of 1000 V/m \n • Capacity 30 rounds \n Upgrades \n • Reticle ACOG \n • Silencer M5.56-A \n • rifle grenade --- \n Modification machine FA MAS G2 standard NATO magazine of M16 30 rounds. The high rate of fire and the scheme 'bullpup' made him quite popular pattern of small arms. A rare weapon in the Zone.</text>
+</string>
+ 
+<string id="ars-g36c">
+	<text>HK G36C 'Commando'</text>
+</string>
+ 
+<string id="enc_ars-g36c">
+	<text>%c[255,250,250,250]Ammunition: \n • 5.56x45 SS109 - basic \n • 5.56x45 AP - piercing \n • The effective range of 320m \n • Effective range 430 m \n • rate of 800 V/m \n • Capacity 30 rounds \n Upgrades \n • Reticle ACOG \n • Silencer M5.56-A \n • rifle grenade --- \n shortened assault rifle Heckler-Koch HK G36C ('Compact' or 'Commando') modification of the German assault rifle G36, with universal guide plate and a short barrel Picatinny \ forearm. HK G36C 'Compact' is a convenient shorthand assault rifle, just suitable for the urban environment and in different areas.</text>
+</string>
+ 
+<string id="ars-obrez">
+	<text>Mosin-Nagant 'Edge'</text>
+</string>
+ 
+<string id="enc_ars-obrez">
+	<text>%c[255,250,250,250]Ammunition: \n • 7.62x54 7N1 - basic \n • 7.62x54 7H13 - piercing \n • 7.62x54 7N14 - sniper \n • The effective range of 130m \n • Effective range 160 m \n • rate of 25 V/m \n • a magazine capacity of 5 rounds \n • Aperture - Reticle --- \n • Silencer --- \n • rifle grenade --- \n short the famous 'Edge' Mosin-Nagant model years 1891-1910. A number of such trunks still lie in the old caches during the Civil War. In several instances the zone brought a stalker.</text>
+</string>
+ 
+<string id="ars_ak108">
+	<text>AK-108</text>
+</string>
+ 
+<string id="enc_arsenal_ak108">
+	<text>%c[255,250,250,250]Ammunition: \n • 5.56x45 SS109 - basic \n • 5.56x45 AP - piercing \n • The effective range of 360m \n • Effective range 470m \n • rate of 750 V/m \n • Capacity 30 rounds \n Upgrades \n • Reticle ACOG \n • Silencer M5.56-A \n • barrel grenade launcher GP-25 'Fire' \n At the end of the 1990s, the plant was designed Izhmash machine - the AK-108. The main and the main difference from the AK-108 Kalashnikov is a mechanism of the so-called 'balanced' automation. Compared to the AK-74M AK-108 has a high 1.5/2 times the accuracy of fire bursts. At the same time, it maintained, common to all models of Kalashnikov weapons, simple design and extremely high reliability. There is a firing mode cutoff in three rounds, uses a more qualitative NATO cartridge 5.56x45mm, because, mainly exported to the West.</text>
+</string>
+ 
+<string id="ars-addon_kobra">
+	<text>Cobra</text>
+</string>
+ 
+<string id="enc_wpn_addon_kobra">
+	<text>Reflex Sight 'Cobra' Speaker Val.</text>
+</string>
+ 
+<!--Bonus_rus_text-->
+<string id="wpn-svd_m1">
+	<text>SVD 'Tiger'</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-svd_m1">
+	<text>%c[255,250,250,250]Ammunition: \n • 7.62x54 7N1 - basic \n • 7.62x54 7H13 - piercing \n • 7.62x54 7N14 - sniper \n • The effective range of 1,000 m \n • Effective range 1200m \n • rate of 140 V/m \n • 10-round magazine capacity \n • Aperture - Integrated Sight 'Capture-8' \n • Silencer M7.62-A \n • rifle grenade --- \n Modified SVD, equipped with a special barrel. Improved weapon balance, resulting in reduced efficiency. At this modification installed digital optical sight with autoguider function and purpose recognizers 'Capture-8'.</text>
+</string>
+ 
+<string id="ars-gsh18">
+	<text>GSH-18</text>
+</string>
+ 
+<string id="enc_arsenal_gsh18">
+	<text>%c[255,250,250,250]Ammunition: \n • 9x19 FMJ - basic \n • 9x19 PBP - advanced \n • Capacity: 18 rounds \n Gun GS-18 was developed in the late 1990s in the Tula Instrument Design Bureau under the guidance of well-known designers of weapons (mostly - aviapushek ) mud and Shipunova. Number 18 in the title refers to a magazine capacity. The advantages of the GS-18 can be attributed to a very small weight in its class, a large magazine capacity, low position of the barrel relative to the hands of the arrow, good accuracy.</text>
+</string>
+ 
+<string id="ars-g36_scope">
+	<text>Lens 'G36 Optics'</text>
+</string>
+ 
+<string id="enc_arsenal_g36_scope">
+	<text>Lens scope G36.</text>
+</string>
+ 
+<string id="ars-aks47">
+	<text>AKS-47</text>
+</string>
+ 
+<string id="enc_arsenal_aks47">
+	<text>%c[255,250,250,250]Ammunition: \n • 7.62x39 - normal \n • 7.62x39 BP - piercing \n • grenade VOG-25 and VOG-25P \n • The effective range of 320m \n • Effective range 400 m \n • rate of 600 V/m \n • 30-round magazine capacity \n Upgrades \n • Reticle PSO-1 \n • Silencer for caliber 7.62 \n • barrel grenade launcher GP-25 'Fire' \n Kalashnikov folding model 1947, chambered in 7.62x39mm (AKS- 47 or ACC), with folding (forward and down) with metallic butt. ACN delivered on arms airborne and special forces. Valued in the Zone for reliability even in the most adverse conditions and at the same time for its ease of use, especially because of its compact folded. Can be seen as a recently arrived in the area of stalkers, and veterans.</text>
+</string>
+ 
+<string id="ars-akm">
+	<text>AKM</text>
+</string>
+ 
+<string id="enc_arsenal_akm">
+	<text>%c[255,250,250,250]Ammunition: \n • 7.62x39 - normal \n • 7.62x39 BP - piercing \n • grenade VOG-25 and VOG-25P \n • The effective range of 400m \n • Effective range 620m \n • rate of 650 V/m \n • 30-round magazine capacity \n Upgrades \n • Reticle PSO-1 \n • Silencer for caliber 7.62 \n • barrel grenade launcher GP-25 'Fire' \n Kalashnikov modernized (AQM) is an automatic weapon with a gas engine automation, magazine-fed, air-cooled barrel. In 1959, the AK was modified and adopted for under the symbol AQM - receiver was made by stamping, decreased by 700g weight, was a new bayonet, modified stamping receiver cover, entered Slow action trigger. The trunk was mounted a special compensator reduces withdrawal trunk up and left with automatic fire.</text>
+</string>
+ 
+<string id="ars-mp444-9x18">
+	<text>MP-444 'Bagira'</text>
+</string>
+ 
+<string id="enc_arsenal_mp444-9x18">
+	<text>%c[255,250,250,250]Ammunition: \n • 9x18 - basic \n • 9x18 'P' - improved \n • Capacity: 15 rounds \n Self-loading pistol MP-444 'Bagira', is the original work of Izhevsk Mechanical Plant to replace the Makarov pistol. The pistol has a contemporary exterior design, its construction using new materials, and manufacturing is on the high-technology equipment. MP-444 'Bagira' easy to maintain and use, reliable and has the lowest possible weight, has a high accuracy of fire and very soft impact. Equipped with a trunk, calculated under domestic 9x18mm cartridge.</text>
+</string>
+ 
+<string id="ars-mp445-40sw">
+	<text>MP-445 'Varangian'</text>
+</string>
+ 
+<string id="enc_arsenal_mp445-40sw">
+	<text>%c[255,250,250,250]Ammunition: \n • 11,43x23mm \n • 11,43x23mm Gidroshok \n • Capacity: 15 rounds \n Experimental modification pistol MP-444 - MP-445 'Varangian'. Equipped with a trunk, calculated under 45y caliber (.45 ACP).</text>
+</string>
+ 
+<string id="ars-hk417_m1">
+	<text>HK417 'Night Sniper'</text>
+</string>
+ 
+<string id="enc_ars-hk417_m1">
+	<text>%c[255,250,250,250]Ammunition: \n • 7.62x51mm NATO - the main \n • 7.62x51mm NATO AP - piercing \n • The effective range of 1,000 m \n • Effective range 1200m \n • rate of 600 V/m \n • Capacity 20 rounds \n • Aperture - Integrated sight \n • Silencer M7.62-A \n • rifle grenade --- \n Modification sniper rifle Heckler-Koch HK417, an optical sight 'Mueller 8x16' with Autolock function and recognizing targets and adjustable zoom, pads on the forearm, set vertical sniper pistol grip for easy uderzhananiya. Firing mode, only one - isolated.</text>
+</string>
+ 
+</string_table>

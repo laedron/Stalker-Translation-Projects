@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="ansi" ?>
+<!--SCAR mod version Fr 15/02/2013-->
+<string_table>
+<!--****************************-->
+<!-- Sleeping Bag -->
+<!--****************************-->
+<!--<string id="enc_equipment_abc_bag">
+	<text>Comprimés de somnifère indispensable lors des grandes randonnées.</text>
+</string>
+<string id="abc_bag">
+	<text>Boite de somnifères</text>
+</string>
+<string id="unlimited_time_id">
+	<text>Temps</text>
+</string>
+<string id="one_hour_id">
+	<text>1/4 comprimé</text>
+</string>
+<string id="tree_hours_id">
+	<text>1/2 comprimé</text>
+</string>
+<string id="nine_hours_id">
+	<text>1 comprimé</text>
+</string>
+<string id="sleep_cap_id">
+	<text>Dormir:</text>
+</string>
+<string id="ui_invs_leep_exit">
+	<text>Je ne veux pas.</text>
+</string>-->
+
+<!--****************************-->
+<!-- ABC Repair Tools -->
+<!--****************************-->
+<string id="enc_equipment_abc_kit">
+<text>Kit d'outils de réparation de fabrication ABC.</text>
+</string>
+<string id="abc_kit">
+<text>Outils de réparation</text>
+</string>
+<string id="weapon_repair">
+<text>Réparer l'arme:</text>
+</string>
+<string id="automatic_slot">
+<text>Automatique</text>
+</string>
+<string id="suit_control">
+<text>Réparation de l'armure:</text>
+</string>
+<string id="repair_cap_id">
+<text>Outils de réparation:</text>
+</string>
+<string id="remove_hemelt_id">
+<text>Enlever le casque</text>
+</string>
+<string id="add_hemelt_id">
+<text>Mettre le casque</text>
+</string>
+<string id="repair_suit_id">
+<text>Réparation</text>
+</string>
+<string id="helmet_removed_id">
+<text>Réparer le casque.</text>
+</string>
+<string id="helmet_added_id">
+<text>Casque ajouté.</text>
+</string>
+<string id="suit_noneedrepair_id">
+<text>Pas besoin de réparation. Etat:</text>
+</string>
+<string id="suit_repaired_id">
+<text>Costume réparé:</text>
+</string>
+<string id="suit_cantrepair_id">
+<text>Votre habileté dans la compétences réparation n'est pas suffisante.</text>
+</string>
+<string id="weapon_noneedrepair_id">
+<text>Pas besoin de réparation.Etat:</text>
+</string>
+<string id="weapon_repaired_id">
+<text>Arme réparé:</text>
+</string>
+<string id="weapon_cantrepair_id">
+<text>Votre habileté dans la compétences réparation n'est pas suffisante.</text>
+</string>
+<string id="abc_portal_id">
+<text>Téléport</text>
+</string>
+<string id="abc_yes_id">
+<text>Non</text>
+</string>
+<string id="abc_no_id">
+<text>Non</text>
+</string>
+
+<!--****************************-->
+<!-- Money looting -->
+<!--****************************-->
+
+<!--**********************************************************-->
+<!-- Enc. Story - BLOW, Portals, Inferno, Chernobyl, Weather  -->
+<!--**********************************************************-->
+<string id="Blowout-waves">
+<text>Ondes du Cataclysme</text>
+</string>
+<string id="enc_blowout_waves-story">
+<text>Les "Ondes du Cataclysme" produisent à intervalles réguliers une immense vague d'énergie et un champ gravitationnel psychotrope à travers une vaste zone, causant le phénomène de "l'émission". En résulte de puissantes anomalies qui se propagent sous la forme de 5 vagues et change complètement l'environnement entier autour du coeur de la zone.
+\n\n Ces vagues d'ondes peuvent inclure tout d'abord des grandes doses de radiation,la Terre commence à trembler,des flashs apparaissent dans le ciel qui devient d'abord rouge, puis noir, blanc et plusieurs autres effets, qui peuvent causer: des mutations humaines, des perte de connaissance, de mémoire, des hallucinations et encore pleins d'autres effets mortels inconnus. 
+\n\n Il n'y a pas véritablement de places en sécurité contre le souffle d'une émission,quelques Stalkers préférant parler de "une charge de BLOOM"(Grande émission de Mutants de toute sorte), car le monde commence à être bouleverser et tous les mutant sortent de leur caches dissimulées. 
+\n\n seuls les sots penseraient être en sécurité,on ne pourrait l'être réellement que dans les bunkers ou dans les souterrains. Quand l'émission est sur le point d'arriver, soyez au moins sûr d'avoir en votre possessionune dose d'anti-radiation, de la vodka, assez de munitions et surtout votre arme... prête! Et ne regarder surtout pas le ciel, vous deviendriez non seulement aveugle mais certainement fou, et seul un idiot le ferait.</text>
+</string>
+<string id="Portals">
+<text>Portail</text>
+</string>
+<string id="enc_portals-story">
+<text>Puissante anomalie qui peut ouvrir un passage vers différents lieux. Les Stalkers pensent que ces portails sont comme une fenêtre de différente taille, la faction du Monolith croie que c'est sans doute leur chemin vers l'Enfer et d'autres disent qu'il s'agit de l'Inferno, un enfer stroboscopique. 
+\n nombre 
+\n Les Stalkers expérimentés rapportent des cas stupéfiants après la création du portail et disent avoir aperçu d'incroyables créatures provenant du portail mais en fait personne n'a pu rapporté réellement quoi que ce soit du mythe Inferno, certainement parce que ceux qui l'ont vu...ne sont jamais revenus... 
+\n\n En bref, soyez informé que n'importe quoi peut arriver d'un portail.</text>
+</string>
+<string id="Inferno">
+<text>Inferno</text>
+</string>
+<string id="enc_inferno-story">
+<text>Ce mythe est né en 1986, juste aprés le premier désastre nucléaire de Tchernobyl. Dans le langage Ukrainien, Tchernobyl est le nom d'une plante, wormwood (absinthe) et Artemisia Pominov révélation du livre de la Bible - qui prévoit la fin du monde... 
+\n rev 8:10 
+\n Et le troisième ange sonna, et il tomba une grande étoile du ciel, brûlant comme un flambeau, et elle tomba sur le tiers des fleuves et sur les fontaines des eaux. 
+\n rev 8:11 
+\n Et le nom de l'étoile Absinthe et la troisième partie des eaux fut changé en absinthe, et beaucoup d'hommes moururent par les eaux, parce qu'elles étaient devenues amères. 
+\n\n Par conséquent, le fait qu'un Stalker religieux croit que "Inferno enfer aka fait homme" en 1986 et, depuis lors, de nombreuses personnes ont vu des choses bizarre, des fantômes et des mutations "marcheurs morts" et les gens croient que c'est un enfer absolu, Inferno Kotor ici.</text>
+</string>
+<string id="Story-1986">
+<text>Année 1986</text>
+</string>
+<string id="enc_disaster-story">
+<text>Le vendredi soir 25 Avril 1986, l'équipe en charge du réacteur de Tchernobyl-4, s'apprête à tester le comportement du réacteur pour voir combien de temps les turbines pourraient continuer de tourner et produire de l'énergie si le réacteur estt déconnecté. C'était un test dangereux, mais il avait été déjà effectuer auparavant. Dans le cadre de la préparation, ils ont pris éteint une partie du système de contrôle des systèmes critiques - y compris les mécanismes automatiques de sécurité d'arrêt. 
+\n\n A 1:23 heures du matin, l'opérateur se prépare à arrêter le réacteur dans un mode de faible puissance, et l'effet domino des erreurs précédentes provoque de sévère surtensions, provoquant une énorme explosion de vapeur qui fait sauter le couvercle de 1000 tonnes de la cuve de confinement nucléaire. 
+\n\n Certains des 211 barres de contrôle sont fondus, puis une seconde explosion, dont la cause est encore un sujet de désaccord entre les experts,jette sur les parties du noyau combustible radioactif de l'air ce qui provoque l'allumage de plusieurs tonnes de graphite des blocs isolants. 
+\n\n C'est ce feu de graphite qui a libéré la plupart du rayonnement dans l'atmosphère et les pointes de rayonnement atmosphérique ont été mesurée à des milliers de km de là. 
+\n\n La radiation restera dans la zone de Tchernobyl pour les 48 000 prochaines années, mais les gens peuvent commencer à repeupler le domaine dans environ 600 ans - à plus ou moins trois siècles. Les experts prédisent que, d'ici là, les éléments les plus dangereux auront disparu ou plutôt -après avoir été dilué dans le reste de l'air, du sol et de l'eau du monde.</text>
+</string>
+<string id="Chaotic">
+<text>Météo Chaotique</text>
+</string>
+<string id="enc_weather-story">
+<text>doit souffler et une vague massive de radiations dans l'atmosphère, les conditions météorologiques dans la région ont été assez chaotique, une heure cela pourrait être un ciel parfaitement clair et dans l'heure qui suit cela pourrait être tout à fait une tempête, vous pouvez éprouver un peu de bruit en noir et blanc lors de ces changements.</text>
+</string>
+
+<!--****************************-->
+<!-- Cabrobro NPC 				-->
+<!--****************************-->
+<string id="esc_speed_bio">
+<text>Dimon venu dans la Zone pour retrouver son père.</text>
+</string>
+<string id="esc_speed_name">
+<text>Dimon</text>
+</string>
+
+<!--****************************-->
+<!-- Wish Granter				-->
+<!--****************************-->
+<string id="abc_wish_desire_1">
+<text>Je veux que la Zone disparaisse.</text>
+</string>
+<string id="abc_wish_desire_2">
+<text>Je veux être riche.</text>
+</string>
+<string id="abc_wish_desire_3">
+<text>Je veux être le maître du monde.</text>
+</string>
+<string id="abc_wish_desire_4">
+<text>L'humanité doit être controlée.</text>
+</string>
+<string id="abc_wish_desire_5">
+<text>Je veux être immortel.</text>
+</string>
+<string id="abc_wish_desire_6">
+<text>Je veux un équipement parfait.</text>
+</string>
+<string id="abc_wish_desire_7">
+<text>Je veux un artéfact parfait.</text>
+</string>
+<string id="abc_wish_granter">
+<text>Excauceur de Voeux</text>
+</string>
+<string id="abc_wish_speak">
+<text>You ne pouvez faire qu'un voeu par jour.</text>
+</string>
+<string id="abc_no_desire">
+<text>Ok, je reviendrais.</text>
+</string>
+<string id="abc_wish_granter">
+<text>Excauceur de Voeux</text>
+</string>
+<string id="abc_wish_granted">
+<text>Danger niveau 1</text>
+</string>
+<string id="abc_wish_remember">
+<text>Téléportail fonctionnel - 'Y'</text>
+</string>
+<string id="abc_wish_vendetta_1">
+<text>Non, vous êtes le premeier à disparaître.</text>
+</string>
+<string id="abc_wish_vendetta_3">
+<text>Non, nous sommes nombreux et nous allons vous contrôler.</text>
+</string>
+<string id="abc_wish_vendetta_4">
+<text>L'espèce humaine est commandée et que vous vouliez.</text>
+</string>
+<string id="abc_wish_vendetta_5">
+<text>La capture est la vôtre, je vous donne l'armée immortelle.</text>
+</string>
+
+<!--****************************-->
+<!-- Nano Artifact Upgrade -->
+<!--****************************-->
+<string id="suit-power-upgrade">
+<text>Force gravité</text>
+</string>
+<string id="suit-power-upgrade_desc">
+<text>Artéfact High-tech Nano:augmentation de la puissance de la combinaison.</text>
+</string>
+<string id="suit-health-upgrade">
+<text>Augmentation de la santé</text>
+</string>
+<string id="des-health-upgrade">
+<text>Artéfact High-tech Nano: augmentation de la batterie.</text>
+</string>
+<string id="suit-kev1-upgrade">
+<text>Augmentation 10% Kevlar</text>
+</string>
+<string id="des-kev1-upgrade">
+<text>Artéfact High-tech Nano: 10% protection kevlar.</text>
+</string>
+<string id="suit-kev2-upgrade">
+<text>Augmentation 20% Kevlar</text>
+</string>
+<string id="des-kev2-upgrade">
+<text>Artéfact High-tech Nano: 20% protection kevlar.</text>
+</string>
+<string id="suit-kev3-upgrade">
+<text>Augmentation 30% Kevlar</text>
+</string>
+<string id="des-kev3-upgrade">
+<text>Artéfact High-tech Nano: 30% protection kevlar.</text>
+</string>
+
+<!--****************************-->
+<!-- 	Artéfacts				-->
+<!--****************************-->
+<string id="af-electra-teleport">
+<text>Trou noir</text>
+</string>
+<string id="enc_zone_artifact_af-electra-teleport">
+<text>Artéfact Portail inconnu, crée une anomalie, "Trou noir" et deux de ces anomalies sur un niveau ont une chance de vous téléporter de l'une à l'autre.</text>
+</string>
+<string id="af-repair-battery">
+<text>Réparation de la Batterie</text>
+</string>
+<string id="enc_zone_artifact_af-repair-battery">
+<text>Le commencement de l'étude de ce sujet a plongé dans le mystère et l'incrédulité tous les scientifiques. C'est clair qu'il est composé d'éléments diélectriques, mais la science actuelle ne sait pas les expliquer,ni les conditions physiques dans lesquelles il a été formé. Ce qui est certain par contre c'est une de ses propriétés de pouvoir réparer des armes et des costumes.</text>
+</string>
+<string id="af_wish-granter">
+<text>Excauceur de Voeux</text>
+</string>
+<string id="des_wish-granter">
+<text>Parfait Artéfact Excauceur de Voeux.</text>
+</string>
+
+<!--****************************-->
+<!-- 	ABC News and Zombied    -->
+<!--****************************-->
+<!--OK fR-->
+<string id="abc_bar_news">
+	<text>AU RETOUR DE LEURS RAIDS! LES STALKERS SONT INVITÉS A VENIR SE DÉTENDRE DANS RAD100. SPÉCIALEMENT POUR VOUS, LES PRIX SONT DIMINUÉS DE 30%.</text>
+</string>
+<string id="abc_gar_news">
+	<text>ATTENTION A TOUS! PRÉSENCE D'HOSTILES INCONNUS DANS LA DÉCHARGE!</text>
+</string>
+<string id="abc_agr_news">
+	<text>ATTENTION A TOUS LES STALKERS SOLITAIRE§ PRÉSENCE D'HOSTILES INCONNUS DANS AGROPROM!</text>
+</string>
+<string id="abc_dar_news">
+	<text>ATTENTION LE BALAFRÉ! DANS LA VALLÉE, IL Y A UN AUTRE CLAN DE GANGSTER!!</text>
+</string>
+<!--/OK fR/-->
+
+<string id="abc_ros_news">
+<text>STALKER! FACTORY 'Sprout' will be a new sexually transmitted infections? 'Sorcières' .. ATTENTION!</text>
+</string>
+
+<string id="abc_brain_news">
+<text>STALKER LE BALAFRÉ!Dans le laboratoire il y a d'autres forces ennemies!Des gens de notre équipe ne sont pas nets on hand to sell what that groups not END mood PROTOTYPE VIP PROTECTION!</text>
+</string>
+<string id="abc_rad_news">
+<text>ATTENTION à TOUS!Sur le radar est apparu un trés des troupes ennemies en très grand nombre!</text>
+</string>
+<string id="abc_bun_news">
+<text>LE BALAFRÉ! DANS le X-10 IL y A QUELQU'UN d'AUTRE en plus du MONOLITH! ATTENTION!</text>
+</string>
+<string id="abc_pri_news">
+<text>ATTENTION! MORT INJUSTE! GLOIRE au MONOLITHS!</text>
+</string>
+<string id="abc_pry_news">
+<text>ATTENTION! MORT INJUSTE!Les SORCIERES au feu!</text>
+</string>
+<string id="abc_sar_news">
+<text>ATTENTION! MORT INJUSTE! GLOIRE au MONOLITHS!</text>
+</string>
+<string id="abc_mil_news">
+<text>AIDEZ pour tuer le monstre! Pour un long moment!</text>
+</string>
+
+<!--OK Fr-->
+<string id="fre_abc_reply">
+<text>MERCI POUR L'HOSPITALITÉ, LE BARMAN. IL EST TEMPS DE PARTIR.</text>
+</string>
+<string id="dol_abc_reply">
+<text>GLOIRE AU DEVOIR! GRÂCE AU BARMAN. IL EST TEMPS DE RENTRER.</text>
+</string>
+<string id="ban_abc_reply_2">
+<text>DEVOIR, ON VAS DÉGAGER VOS CULS DE LA DÉCHARGE.</text>
+</string>
+<string id="ban_abc_reply_3">
+<text>LA TAUPE, EST MIEUX ENTERRÉE.</text>
+</string>
+<!--/OK Fr/-->
+
+<string id="ved_abc_reply_11">
+<text>GOATS! Scary! We hang ..</text>
+</string>
+<string id="mon_abc_reply_11">
+<text>Mort d'une sorcière!</text>
+</string>
+<string id="mil_abc_reply_11">
+<text>DAMNED! Ces putains de SORCIERES! VALLE them ....</text>
+</string>
+<string id="kil_abc_reply_11">
+<text>Mort d'un Stalker ....</text>
+</string>
+<string id="dol_abc_reply_11">
+<text>Bring down SAMI freak!</text>
+</string>
+<string id="ban_abc_reply_11">
+<text>Bring down SAMI freak!</text>
+</string>
+<string id="ved_abc_reply_3">
+<text>GOATS! Scary! We hang ..</text>
+</string>
+<string id="kil_abc_reply_3">
+<text>Supprimer les combattants ....</text>
+</string>
+
+<string id="ban_abc_reply_5">
+<text>You cho CROW Snuffles! Arriving at the bar, and stuffed the horn YOU HDDs, clé USB et ton PDA personnel!</text>
+</string>
+<string id="ban_abc_reply_8">
+<text>Hé,le suceur MONOLITIH? Ta pression va exploser! Bring down!</text>
+</string>
+<string id="ban_abc_reply_6">
+<text>Uh, PROFESSOR! WE PROTECT YOU PAN prepare? IF NOT, THEN WE OWN YOU FOR CONDUCTING TESTS WILL!</text>
+</string>
+<string id="ban_abc_reply_7">
+<text>Uh, PROFESSOR! You cho U.S. soared that IFP no defense? And at your goblin why that is! Why not the mood?Si quelqu'un d'entre nous ce change en Zombie, WE FROM YOU AND MAKE YOUR FUFLYZHNIKOV zombie but without hands and feet!VOUS COMPRENEZ PROFESSEUR?</text>
+</string>
+
+<string id="abc_zat_news">
+<text>Méfie toi,le Balafré</text>
+</string>
+
+<string id="ved_abc_reply_55">
+<text>QUELQU'UN est ENTRE dans le territoire!Trouver l'ennemi!</text>
+</string>
+
+<string id="mon_abc_reply_3">
+<text>Désastre! MONOLIIIIIIIIIIIIITHE!</text>
+</string>
+
+<string id="ved_abc_reply_5">
+<text>BARMAN! BIENTÔT TU VAS ENTRER DANS LA NUIT, la NUIT VARFALAMEEVSKAYA ...</text>
+</string>
+<string id="mil_abc_reply_5">
+<text>BARMAN T'ES MORT! BIENTÔT ON T'A!</text>
+</string>
+
+<string id="ved_abc_reply_7">
+<text>Vous êtes mort .. SCIENTIFIQUE VOUS ZOMBIE ...</text>
+</string>
+<string id="ved_abc_reply_8">
+<text>WITCH WAY .. KHAN monoliths! ..</text>
+</string>
+<string id="mil_abc_reply_8">
+<text>VALLE QMS MONOLITOVSKIH!</text>
+</string>
+
+<string id="dol_abc_reply_8">
+<text>Monoliths PI ... dec!</text>
+</string>
+
+<string id="dol_abc_reply_1">
+<text>SIDOROVICH! JE NE SUIS PAS TON ESCLAVE!</text>
+</string>
+<string id="abc_news_zombied">
+<text>Bon Dieu, le Balafré! T'es devenu un zombie!</text>
+</string>
+<string id="abc_need_anti">
+<text>J'ai l'antidote!!</text>
+</string>
+<string id="abc_need_anti_money">
+<text>Je donnerai l'Antizombin, pour 15 000 roubles.</text>
+</string>
+<string id="abc_give_anti">
+<text>Je paierai.</text>
+</string>
+<string id="abc_give_anti_nope">
+<text>Remerciements, mais plus tard.</text>
+</string>
+
+
+<!-- <string id="yantar_general_ucheniy_story_0">
+<text>Je me suis occupé des "Maîtres", ne vous en faite plus. Il y a eu comme mini explosion atomaique, mais heureusement que le bunker a résisté. Connaissez vous Strelok?</text>
+</string>
+<string id="yantar_general_ucheniy_story_1">
+<text>Oui, c'est de la bonne fabrication Russe post guerre froide. J'ai rencontré cet homme l'année passé, tout le monde est au courant, Sidorovich ne vous en a pas parlé?</text>
+</string>
+<string id="yantar_general_ucheniy_story_2">
+<text>Non. A part vomir des insultes, rien de plus.</text>
+</string>
+<string id="yantar_general_ucheniy_story_22">
+<text>Donc que vous voulez savoir?</text>
+</string>
+<string id="yantar_general_ucheniy_story_23">
+<text>C'est bien lui qui a désactivé le lobotomisateur?</text>
+</string>
+<string id="yantar_general_ucheniy_story_24">
+<text>Oui, et pas seulement le "brûleur de cerveaux", mais surtout toute l'installation, qui était située dans laboratoire X-16, mais ça n'a pas duré longtemps.</text>
+</string>
+<string id="yantar_general_ucheniy_story_25">
+<text>Comment ça?</text>
+</string>
+<string id="yantar_general_ucheniy_story_26">
+<text>Strelok, a désactivé l'installation du X-16 et par la même occasion a découvert le cadavre de son ami "Spectre", des enregistrements laissé par d'autres lui on permis de retrouver la mémoire et de pénétrer dans le centre de la zone. C'est grace à lui, que le lobotomisateur du labo X-10 au Radar a été désactivé. Il jouit d'un grand estime des autres clans de Stalkers et des militaires aussi.</text>
+</string>
+<string id="yantar_general_ucheniy_story_27">
+<text>Et ensuite?</text>
+</string>
+<string id="yantar_general_ucheniy_story_28">
+<text>Ensuite, son destin n'est pas cellé. Il y a six mois, tout le monde parlait d'un nouveau clan violent avec lequel vous avez déjà eu à faire. Sur le moment, nous pensions tous que ce n'était que des rumeurs, surtout Jan Markovna. Je lui ai dit - "Ne vas pas à Zaton.", mais en vain. J'ai peur pour elle. Qu'est-ce qu'elle devient maintenant?</text>
+</string>
+<string id="yantar_general_ucheniy_story_29">
+<text>Elle n'est plus ici?</text>
+</string>
+<string id="yantar_general_ucheniy_story_291">
+<text>Non, pas ici. Jan a travaillée à Zaton ces six derniers mois et un jour j'ai reçu un message qu'elle avait été capturée. On me dit de faire ce qu'ils demandent, sinon ils m'enverront Jan en puzzle. Je devais leur transmettres toutes les formules et données sur les protections psi. Néanmoins, ils ont réussi à relancer l'installation et je crains qu'ils sont sur le point de relancer le lobotomisateur du Radar. Vous l'avez rencontré Strelok?</text>
+</string>
+<string id="yantar_general_ucheniy_story_292">
+<text>Oui et non. Quand je pense que je vais devoir refaire les mêmes choses que lui, j'ai comme un sentiment de culpabilité envers ce gars. Il y a deux ans, je le pourchassais jusque dans la central de Tchernobyl, là j'ai détruit sa protection et...plus rien depuis. Dans l'immédait, je suis dans l'incapacité de vous aider à sauver votre femme, mais garder espoir, rien n'est perdu, je vous l'assure.</text>
+</string>
+<string id="yantar_general_ucheniy_story_33">
+<text>Je veux croire. Oh, j'ai presque oublié. Regardez dans votre PDA, j'ai mis quelque chose à lire, une recette.</text>
+</string> -->
+
+
+
+
+<!-- <string id="yantar_general_ucheniy_story2_0">
+<text>Professeur, je dois savoir s'il existe une possibilité de traiter des cancers du sang,que savez-vous sur ce sujet?</text>
+</string>
+<string id="yantar_general_ucheniy_story2_1">
+<text>Pourquoi est-ce que vous avez besoin de ceci? Quelque chose de nouveau - un intérêt mercenaire dans le traitement de maladies...</text>
+</string>
+<string id="yantar_general_ucheniy_story2_2">
+<text>La fille est malade! Comprenez Professeur c'est très important. J'ai essayé toutes les méthodes mais rien ne fonctionne, et comment long la Zone - qui peut dire... À moi, et donc la chasse a été ouverte, et une fille, sans mon aide va mourir. Elle est maintenant en Allemagne, mais a beaucoup d'argent. Je Lebedev a fait allusion à une réunion du Fileur qui s'est débarrassé de la maladie fâcheuse comme ma fille, droit dans la région.</text>
+</string>
+<string id="yantar_general_ucheniy_story2_3">
+<text>Bon, bon! Ne soyez pas nerveux. Il y avait un cas, mais je suis avec le fileur n'a pas communiqué, et ce qui est le nom, malheureusement ne peut pas se souvenir. Je lui ai dit au sujet de l'Avare - svobodovets. Est-ce qu'ils disent que le fileur avait conduit à la région de??un paquet d'anomalies des sangliers sauvages. Il revenait d'une attaque, et les objets étaient avec lui. Courez hors de balles, bien, qu'il a paniqué, s'est accroché à tous les arts et pousse mon chemin à travers les anomalies, dites untel mourir, mais après que l'anomalie ait une chance de passer. Et le croit ou pas, Marquez d'une cicatrice, mais il est passé!!</text>
+</string>
+<string id="yantar_general_ucheniy_story2_4">
+<text>Professeur, c'est certainement intéressant, mais je me renseignais sur l'autre!...</text>
+</string>
+<string id="yantar_general_ucheniy_story2_5">
+<text>Oui, oui,le Balafré! Je reviens à ce que vous avez demandé. C'était aussi un cancer du sang du fileur, mais après cet incident, il est allé sur le mend.</text>
+</string>
+<string id="yantar_general_ucheniy_story2_6">
+<text>It is clear just yet bad idea how do I use it?</text>
+</string>
+<string id="yantar_general_ucheniy_story2_7">
+<text>Scar, then, and find that you are a stalker, rasprosy it in detail: what arts, what he proshel.V anomalies Ideally, of course, it would be better for me to talk to him myself, and carry out a survey, but if they can not persuade him to come to me, then at least ask ... Get information, Scar, and right up to me, and I will try to simulate a similar situation.</text>
+</string>
+<string id="yantar_general_ucheniy_story2_8">
+<text>D'accord, Professeur, merci, et sur ce,je demande - rouspéteur à la réunion ...</text>
+</string> -->
+</string_table>
+

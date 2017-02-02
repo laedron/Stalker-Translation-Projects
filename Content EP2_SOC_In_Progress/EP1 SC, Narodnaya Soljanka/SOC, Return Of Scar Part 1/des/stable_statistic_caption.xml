@@ -1,0 +1,183 @@
+<string id="chimera_weak">
+	<text>Chimera</text>
+</string>
+<string id="fracture_weak">
+	<text>Brecher</text>
+</string>
+<string id="cat_weak">
+	<text>Katze</text>
+</string>
+<string id="bandit_experienced">
+	<text>Bandit, Erfahren</text>
+</string>
+<string id="bandit_master">
+	<text>Bandit, Meister</text>
+</string>
+<string id="bandit_novice">
+	<text>Bandit, Neuling</text>
+</string>
+<string id="bandit_veteran">
+	<text>Bandit, Veteran</text>
+</string>
+<string id="bloodsucker_normal">
+	<text>Katakomben-Blutsauger</text>
+</string>
+<string id="bloodsucker_strong">
+	<text>Schwarzer Blutsauger</text>
+</string>
+<string id="bloodsucker_weak">
+	<text>Blutsauger</text>
+</string>
+<string id="boar_normal">
+	<text>Wildschwein-Jungtier</text>
+</string>
+<string id="boar_strong">
+	<text>Wildschwein-Keiler</text>
+</string>
+<string id="boar_weak">
+	<text>Wildschwein-Frischling</text>
+</string>
+<string id="burer_weak">
+	<text>Bürer</text>
+</string>
+<string id="controller_weak">
+	<text>Telepath</text>
+</string>
+<string id="dog_normal">
+	<text>Rattenjäger-Hund</text>
+</string>
+<string id="dog_strong">
+	<text>Albino-Hund</text>
+</string>
+<string id="dog_weak">
+	<text>Wilder Hund</text>
+</string>
+<string id="dolg_experienced">
+	<text>Wächter, Erfahren</text>
+</string>
+<string id="dolg_master">
+	<text>Wächter, Meister</text>
+</string>
+<string id="dolg_veteran">
+	<text>Wächter, Veteran</text>
+</string>
+<string id="ecolog_experienced">
+	<text>Wissenschaftler, Erfahren</text>
+</string>
+<string id="ecolog_novice">
+	<text>Wissenschaftler, Neuling</text>
+</string>
+<string id="flesh_normal">
+	<text>Wald-Fleisch</text>
+</string>
+<string id="flesh_strong">
+	<text>Sumpf-Fleisch</text>
+</string>
+<string id="flesh_weak">
+	<text>Steppen-Fleisch</text>
+</string>
+<string id="freedom_experienced">
+	<text>Freiheitler, Erfahren</text>
+</string>
+<string id="freedom_master">
+	<text>Freiheitler, Meister</text>
+</string>
+<string id="freedom_veteran">
+	<text>Freiheitler, Veteran</text>
+</string>
+<string id="killer_experienced">
+	<text>Söldner, Erfahren</text>
+</string>
+<string id="killer_master">
+	<text>Söldner, Meister</text>
+</string>
+<string id="killer_veteran">
+	<text>Söldner, Veteran</text>
+</string>
+<string id="military_experienced">
+	<text>Soldat, Feldwebel</text>
+</string>
+<string id="military_master">
+	<text>Soldat, Hauptmann</text>
+</string>
+<string id="military_novice">
+	<text>Soldat, Schütze</text>
+</string>
+<string id="military_veteran">
+	<text>Soldat, Leutnant</text>
+</string>
+<string id="monolith_experienced">
+	<text>Monolither, Erfahren</text>
+</string>
+<string id="monolith_master">
+	<text>Monolither, Meister</text>
+</string>
+<string id="monolith_novice">
+	<text>Monolither, Anfänger</text>
+</string>
+<string id="monolith_veteran">
+	<text>Monolither, Veteran</text>
+</string>
+<string id="neutral_experienced">
+	<text>Stalker, Erfahren</text>
+</string>
+<string id="neutral_master">
+	<text>Stalker, Meister</text>
+</string>
+<string id="neutral_novice">
+	<text>Stalker, Neuling</text>
+</string>
+<string id="neutral_veteran">
+	<text>Stalker, Veteran</text>
+</string>
+<string id="poltergeist_weak">
+	<text>Poltergeist</text>
+</string>
+<string id="pseudo_gigant_weak">
+	<text>Pseudoriese</text>
+</string>
+<string id="pseudodog_normal">
+	<text>Zäher Pseudohund</text>
+</string>
+<string id="pseudodog_strong">
+	<text>Grauer Pseudohund</text>
+</string>
+<string id="pseudodog_weak">
+	<text>Pseudohund</text>
+</string>
+<string id="psy_dog">
+	<text>PSI-Hund</text>
+</string>
+<string id="snork_normal">
+	<text>Schnork-Aasfresser</text>
+</string>
+<string id="snork_strong">
+	<text>Schnork-Menschenfresser</text>
+</string>
+<string id="snork_weak">
+	<text>Schnork</text>
+</string>
+<string id="tushkano_weak">
+	<text>Tuschkano</text>
+</string>
+<string id="zombie_normal">
+	<text>Untoter</text>
+</string>
+<string id="zombie_strong">
+	<text>Untoter, alt</text>
+</string>
+<string id="zombie_weak">
+	<text>Untoter, frisch</text>
+</string>
+<string id="zombied_experienced">
+	<text>Zombie, Erfahren</text>
+</string>
+<string id="zombied_master">
+	<text>Zombie, Meister</text>
+</string>
+<string id="zombied_novice">
+	<text>Zombie, Neuling</text>
+</string>
+<string id="zombied_veteran">
+	<text>Zombie, Veteran</text>
+</string>

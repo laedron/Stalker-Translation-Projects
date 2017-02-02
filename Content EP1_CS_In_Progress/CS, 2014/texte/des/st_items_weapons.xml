@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+	<string_table>
+		<string id="ammo-9x18-fmj">
+			<text>9x18mm 57-N-181S</text>
+		</string>
+		<string id="ammo-9x18-fmj_s">
+			<text>9x18mm 57-N-181S</text>
+		</string>
+		<string id="ammo-9x18-fmj_descr">
+			<text>Gewцhnliche Projektile. Verfьgen ьber eine gute Durchschlagskraft gegen weiche Ziele. Geeignet fьr die Pistolen PMm, PB1s und Fora-12.</text>
+		</string>
+		<string id="ammo-9x18-pmm">
+			<text>9x18mm RG028</text>
+		</string>
+		<string id="ammo-9x18-pmm_s">
+			<text>9x18mm RG028</text>
+		</string>
+		<string id="ammo-9x18-pmm_descr">
+			<text>Hierbei handelt es sich um Geschosse mit erhцhter Durchschlagskraft. Nicht wirkungsvoll gegen gepanzerte Ziele. Geeignet fьr die Pistolen PMm, PB1s und Fora-12.</text>
+		</string>
+		<string id="ammo-9x19-fmj">
+			<text>9x19mm 7N31</text>
+		</string>
+		<string id="ammo-9x19-fmj_s">
+			<text>9x19mm 7N31</text>
+		</string>
+		<string id="ammo-9x19-fmj_descr">
+			<text>Gewцhnliche 9x19mm Geschosse die etwas leichter in iher Bauart sind um eine hцhre Mьdungsgeschwindgkeit zu erzielen.</text>
+		</string>
+		<string id="ammo-9x19-pbp">
+			<text>9x19mm 7N21</text>
+		</string>
+		<string id="ammo-9x19-pbp_s">
+			<text>9x19 7N21</text>
+		</string>
+		<string id="ammo-9x19-pbp_descr">
+			<text>Gewцhnliche 9x19mm Panzer Brechende Geschosse die etwas leichter in iher Bauart aber sind um eine hцhre Mьdungsgeschwindgkeit zu erzielen.</text>
+		</string>
+		<string id="ammo-11.43x23-fmj">
+			<text>.45ACP Patronen</text>
+		</string>
+		<string id="ammo-11.43x23-fmj_s">
+			<text>.45ACP</text>
+		</string>
+		<string id="ammo-11.43x23-fmj_descr">
+			<text>11.43x23mm Pistolen Geschosse. Entwickelt im frьhen 20ten Jahrhundert.</text>
+		</string>
+		<string id="ammo-11.43x23-hydro">
+			<text>.45Hydra Patronen</text>
+		</string>
+		<string id="ammo-11.43x23-hydro_s">
+			<text>.45Hydra</text>
+		</string>
+		<string id="ammo-11.43x23-hydro_descr">
+			<text>Eine der jьngsten Entwicklungen von der alten 11.43x23 ACP Patrone, hat bessere Durchschlagskraft und eine gute Stoppwirkung.</text>
+		</string>
+		<string id="ammo-5.45x39-fmj">
+			<text>5.45x39mm 7N6</text>
+		</string>
+		<string id="ammo-5.45x39-fmj_s">
+			<text>5.45x39mm 7N6</text>
+		</string>
+		<string id="ammo-5.45x39-fmj_descr">
+			<text>Standardmunition fьr die automatischen Gewehre des Warschauer Paktes.</text>
+		</string>
+		<string id="ammo-5.45x39-ap">
+			<text>5.45x39mm 7N22</text>
+		</string>
+		<string id="ammo-5.45x39-ap_s">
+			<text>5.45x39 7N22</text>
+		</string>
+		<string id="ammo-5.45x39-ap_descr">
+			<text>Panzerbrechende Munition fьr die automatischen Gewehre des Sovietischen  Paktes.</text>
+		</string>
+		<string id="ammo-5.56x45-ss190">
+			<text>5.56x45mm SS109</text>
+		</string>
+		<string id="ammo-5.56x45-ss190_s">
+			<text>5.56x45mm SS109</text>
+		</string>
+		<string id="ammo-5.56x45-ss190_descr">
+			<text>NATO-Standardmunition, allgemein bekannt in der belgischen SS109-Variante. Geeignet fьr die Sturmgewehre IL 86, TRs 301, SGI 5k, GP 37 und FT 200M.</text>
+		</string>
+		<string id="ammo-5.56x45-ap">
+			<text>5.56mm M995</text>
+		</string>
+		<string id="ammo-5.56x45-ap_s">
+			<text>5.56mm M995</text>
+		</string>
+		<string id="ammo-5.56x45-ap_descr">
+			<text>Panzerbrechende Munition fьr NATO Sturmgewehre.</text>
+		</string>
+		<string id="ammo-9x39-pab9">
+			<text>9x39 mm PAB-9 Patronen</text>
+		</string>
+		<string id="ammo-9x39-pab9_s">
+			<text>9x39 PAB9</text>
+		</string>
+		<string id="ammo-9x39-pab9_descr">
+			<text>Gьnstige, gewцhnliche Munition. Trotz der Unterschallgeschwindigkeit ist sie ziemlich durchschlagskrдftig.</text>
+		</string>
+		<string id="ammo-9x39-ap">
+			<text>9x39mm SP-6</text>
+		</string>
+		<string id="ammo-9x39-ap_s">
+			<text>9x39mm SP-6</text>
+		</string>
+		<string id="ammo-9x39-ap_descr">
+			<text>Panzerbrechende 9x39-mm-Kugel. Trotz Unterschallgeschwindigkeit bietet sie dank ihres Kalibers eine betrдchtliche Mannstoppwirkung. Durch ihre Form durchdringt diese Spezialkugel fast jeden Kцrperschutz.</text>
+		</string>
+		<string id="ammo-7.62x39_ap">
+			<text>7.62x39mm M67</text>
+		</string>
+		<string id="ammo-7.62x39_ap_s">
+			<text>7.62x39mm M67</text>
+		</string>
+		<string id="ammo-7.62x39_ap_descr">
+			<text>Die 7.62x39 mm Gewehr Patrone wurde wдhrend des zweiten Weltkrieges und erstmals in der SKS-Karabiner durch die Sowjetunion eingesetzt. Die Verwendung der Patrone ist weit verbreitet sowohl vom Militдr und Zivilisten.</text>
+		</string>
+		<string id="ammo-7.62x39_fmj">
+			<text>7.62x39 M43</text>
+		</string>
+		<string id="ammo-7.62x39_fmj_s">
+			<text>7.62x39 M43</text>
+		</string>
+		<string id="ammo-7.62x39_fmj_descr">
+			<text>Die 7.62x39 mm Gewehr Patrone wurde wдhrend des zweiten Weltkrieges und erstmals in der SKS-Karabiner durch die Sowjetunion eingesetzt. Die Verwendung der Patrone ist weit verbreitet vom Militдr.</text>
+		</string>
+		<string id="ammo-7.62x54-7h1">
+			<text>7.62x54mm 7N1</text>
+		</string>
+		<string id="ammo-7.62x54-7h1_s">
+			<text>7.62x54mm 7N1</text>
+		</string>
+		<string id="ammo-7.62x54-7h1_descr">
+			<text>Prдzisionsgeschosse fьr sowjetische Scharfschьtzengewehre die in den 60er Jahren entwickelt wurden.</text>
+		</string>
+		<string id="ammo-7.62x54-7h14">
+			<text>7.62x54mm 7N13</text>
+		</string>
+		<string id="ammo-7.62x54-7h14_s">
+			<text>7.62x54mm 7N13</text>
+		</string>
+		<string id="ammo-7.62x54-7h14_descr">
+			<text>Panzebrechende Prдzisionsgeschosse fьr sowjetische Scharfschьtzengewehre die in den 60er Jahren entwickelt wurden.</text>
+		</string>
+		<string id="ammo-7.62x54-ap">
+			<text>7.62x54mm 57-N-323S</text>
+		</string>
+		<string id="ammo-7.62x54-ap_s">
+			<text>7.62x54 57-N-323S</text>
+		</string>
+		<string id="ammo-7.62x54-ap_descr">
+			<text>Gьnstige MG-Munition Kaliber 7.62. Wegen der nicht passenden Form kann diese Munition nicht in Scharfschьtzengewehren verwendet werden und wird ausschlieЯlich im MG RP-74 eingesetzt.</text>
+		</string>
+		<string id="ammo_7.62x51_ap">
+			<text>7.62x51mm M61</text>
+		</string>
+		<string id="ammo_7.62x51_ap_s">
+			<text>7.62x51mm M61</text>
+		</string>
+		<string id="ammo_7.62x51_ap_descr">
+			<text>Die 7.62x51mm NATO Gewehrpatrone wurde in den 50ern fьr kleine Waffen in den  NATO-Lдnder entwickelt. Nicht zu vewechseln mit der Russichen 7.62x54mmR Patrone.</text>
+		</string>
+		<string id="ammo_7.62x51_fmj">
+			<text>7.62x51mm M59</text>
+		</string>
+		<string id="ammo_7.62x51_fmj_s">
+			<text>7.62x51mm M59</text>
+		</string>
+		<string id="ammo_7.62x51_fmj_descr">
+			<text>Die 7.62x51mm NATO Gewehrpatrone wurde in den 50ern fьr kleine Waffen in den  NATO-Lдnder entwickelt. Nicht zu vewechseln mit der Russichen 7.62x54mmR Patrone.</text>
+		</string>
+		<string id="ammo_23x75_shrapnel">
+			<text>23x75mm Schrapnel-10</text>
+		</string>
+		<string id="ammo_23x75_shrapnel_s">
+			<text>23x75mm Schrapnel-10</text>
+		</string>
+		<string id="ammo-23x75_shrapnel_descr">
+			<text>Ein 23x75mm Schrot Patrone mit einer effektive Reichweite von 10 meter.</text>
+		</string>
+		<string id="ammo_23x75_barricade">
+			<text>23x75mm Barrikade</text>
+		</string>
+		<string id="ammo_23x75_barricade_s">
+			<text>23x75mm Barrikade</text>
+		</string>
+		<string id="ammo-23x75_barricade_descr">
+			<text>Die 23x75mm Stahl Patron Projektile sind In der Lage massiven Schaden auf Gepanzerte Ziele anzuzrichten.</text>
+		</string>
+		<string id="ammo-12x70-buck">
+			<text>12x70 Schrotladung</text>
+		</string>
+		<string id="ammo-12x70-buck_s">
+			<text>12x70 Schrot</text>
+		</string>
+		<string id="ammo-12x70-buck_descr">
+			<text>Standardgeschosse Kaliber 12 gefьllt mit 6mm-Schrot. Tцdlich auf kurze Distanz. Geeignet fьr Jagdgewehre und Schrotflinten sowie fьr die halbautomatischen Schrotflinten SPSA14 und Chaser 13.</text>
+		</string>
+		<string id="ammo-12x76-zhekan">
+			<text>12x76 Gewehrladung</text>
+		</string>
+		<string id="ammo-12x76-zhekan_s">
+			<text>12x76 Massiv</text>
+		</string>
+		<string id="ammo-12x76-zhekan_descr">
+			<text>Diese schweren Massivgeschosse werden normalerweise auf der Jagd nach ganz groЯer Beute eingesetzt, kцnnen aber auch in anderen Bereichen sinnvoll sein. Die schwere Munition bohrt sich nicht wie ьblich durch die Panzerung, sondern durchschlдgt sie einfach mit einer immensen Wucht. Geeignet fьr Jagdgewehre und Schrotflinten sowie fьr die halbautomatischen Schrotflinten SPSA14 und Chaser 13.</text>
+		</string>
+		<string id="ammo-12x76-dart">
+			<text>12x76 Spitzgeschosse</text>
+		</string>
+		<string id="ammo-12x76-dart_s">
+			<text>12x76 Spitz</text>
+		</string>
+		<string id="ammo-12x76-dart_descr">
+			<text>Spitzgeschosse. Die Lamellen erhцhen die Stabilitдt und damit die Schussgenauigkeit. Der massive Stahlkern der Munition kann jede Panzerung durchdringen. Geeignet fьr Jagdgewehre und Schrotflinten sowie fьr die halbautomatischen Schrotflinten SPSA14 und Chaser 13.</text>
+		</string>
+		<string id="ammo-gauss">
+			<text>Akkumulator</text>
+		</string>
+		<string id="ammo-gauss_descr">
+			<text>Hochleistungsenergiezellen. Sie werden verwendet, um den Prototyp des elektromagnetischen EM1-Gewehrs anzutreiben.</text>
+		</string>
+		<string id="ammo-m209">
+			<text>M406 grenade</text>
+		</string>
+		<string id="ammo-m209_s">
+			<text>M406</text>
+		</string>
+		<string id="ammo-m209_descr">
+			<text>Standard-Ausgabe der Goch Explosiven Granate fьr den Einsatz in 40-mm-NATO-Granatwerfer.</text>
+		</string>
+		<string id="ammo-vog-25">
+			<text>VOG-25 Granate</text>
+		</string>
+		<string id="ammo-vog-25_s">
+			<text>VOG-25</text>
+		</string>
+		<string id="ammo-vog-25_descr">
+			<text>Standard-Version der 40mm Granate fьr den Einsatz in sowjetischen Granatwerfern. Die VOG-25 besteht aus einem einer  Stahl-Umantelung und ist Hьlsenlos.</text>
+		</string>
+		<string id="ammo-og-7b">
+			<text>OG-7V Granate</text>
+		</string>
+		<string id="ammo-og-7b_s">
+			<text>OG-7V</text>
+		</string>
+		<string id="ammo-og-7b_descr">
+			<text>Splittergranate fьr den RPG-7u. Wirkungsvoll gegen weiche Ziele und leicht gepanzerte Fahrzeuge.</text>
+		</string>
+		<string id="st_grenade_f1">
+			<text>F1 Granate</text>
+		</string>
+		<string id="st_grenade_f1_descr">
+			<text>Defensive Handgranate mit Splitterwirkung, die gewцhnliche Kцrperpanzerung durchdringen kann. Die Druckwelle hat einen Radius von 10 Metern.</text>
+		</string>
+		<string id="st_grenade_rgd5">
+			<text>RGD-5 Granate</text>
+		</string>
+		<string id="st_grenade_rgd5_descr">
+			<text>Offensive Handgranate mit einem kleinen Radius fьr Schaden durch Splitterwirkung. Die Druckwelle hat einen Radius von 8 Metern.</text>
+		</string>
+		<string id="st_grenade_smoke">
+			<text>Rauchgranate</text>
+		</string>
+		<string id="st_grenade_smoke_descr">
+			<text>Eine Handgranate, um eine Rauchwolke zu erzeugen. Die Wirkungsdauer betrдgt 10 Sekunden.</text>
+		</string>
+		<string id="st_grenade_launcher">
+			<text>GP-25 "Koster"</text>
+		</string>
+		<string id="st_grenade_launcher_descr">
+			<text>Ein Unterlaufgranatwerfer fьr Sturmgewehre aus den Lдndern des Warschauer Paktes. Benцtigt VOG-25-Munition.</text>
+		</string>
+		<string id="st_grenade_launcher_m203">
+			<text>M203</text>
+		</string>
+		<string id="st_grenade_launcher_m203_descr">
+			<text>Ein Unterlaufgranatwerfer fьr NATO-Gewehre. Benцtigt M406-Munition.</text>
+		</string>
+		<string id="st_addon_scope">
+			<text>PSO-1 Zielfernrohr</text>
+		</string>
+		<string id="st_addon_scope_descr">
+			<text>Ein weit verbreitetes optisches Zielfernrohr aus sowjetischer Produktion. Wie ьblich in den Lдndern des Warschauer Paktes wird es mit einer Prismenschiene auf Waffen montiert.</text>
+		</string>
+		<string id="st_addon_scope_tulpan">
+			<text>1p29 "Tulpan" Zielfernrohr </text>
+		</string>
+		<string id="st_addon_scope_tulpan_descr">
+			<text>Das 1P29 ist ein Zielfernrohr aus der Sovietischen Era. Ene direkte  Kopie des Britischen Trilux/SUIT Zielfernrohr. Es wurde dahin geцndert das man es nun seitlich an der Schiene installiert.</text>
+		</string>
+		<string id="st_addon_scope_susat">
+			<text>ACOG 4x Zielfernrohr</text>
+		</string>
+		<string id="st_addon_scope_susat_custom_descr">
+			<text>Justierbarer Entfernungsmesser mit einer дnderbaren  VergrцЯerung von 1.6x zu 4x Zoom Optik. Dem NATO-Standard wird es mittels einer sog. Picatinny-Schiene auf Waffen montiert.</text>
+		</string>
+		<string id="st_addon_scope_susat_descr">
+			<text>Ein optisches 4fach-Zielfernrohr aus NATO-Lдndern. GemдЯ dem NATO-Standard wird es mittels einer sog. Picatinny-Schiene auf Waffen montiert.</text>
+		</string>
+		<string id="st_addon_scope_pu">
+			<text>PU Zielfernrohr</text>
+		</string>
+		<string id="st_addon_scope_pu_descr">
+			<text>Das PU ist ein Scharfschьtzen Zielfernrohr das aus einer Sowjetischen Herstellung stammt. Seine verbreitung hat man dem Mosin-Nagant and SVT-40 zu verdanken. Der Zoom wurde bei 3,5-facher VergrцЯerung fixiert.</text>
+		</string>
+		<string id="st_addon_silencer">
+			<text>Schalldдmpfer</text>
+		</string>
+		<string id="st_addon_silencer_descr">
+			<text>Ein wirkungsvoller Schalldдmpfer, der von einigen Handwerkern aus der Zone zusammengebaut wurde. Verfьgt ьber mehrere Adapter fьr den Einsatz mit Waffen aller Kaliber.</text>
+		</string>
+		<string id="st_addon_silencer_9x18">
+			<text>Schalldдmpfer (9x18)</text>
+		</string>
+		<string id="st_addon_silencer_9x18_descr">
+			<text>Ein wirksamer Schalldдmpfer fьr Waffen mit einem Kaliber von 9x18. Der Kцrper des Schalldдmpfers um den Lauf herum enthдlt ein  aufgerolltes gitter aus feinem Messing, wдhrend die  Vorderseite einen ein Satz aus Metall Lцchern aufweist. Wird oft  eingesetzt um Feinde still und leise zu Eliminieren und ohne die Aufmerksamkeit auf sich zu ziehen.</text>
+		</string>
+		<string id="st_addon_silencer_9x19">
+			<text>Schalldдmpfer (9x19)</text>
+		</string>
+		<string id="st_addon_silencer_9x19_descr">
+			<text>Ein wirksamer Schalldдmpfer fьr Waffen mit einem Kaliber von 9x19. Der Kцrper des Schalldдmpfers um den Lauf herum enthдlt ein  aufgerolltes gitter aus feinem Messing, wдhrend die  Vorderseite einen ein Satz aus Metall Lцchern aufweist. Wird oft  eingesetzt um Feinde still und leise zu Eliminieren und ohne die Aufmerksamkeit auf sich zu ziehen.</text>
+		</string>
+		<string id="st_addon_silencer_9x39">
+			<text>Schalldдmpfer (9x39)</text>
+		</string>
+		<string id="st_addon_silencer_9x39_descr">
+			<text>Ein wirksamer Schalldдmpfer fьr Waffen mit einem Kaliber von 9x39. Der Kцrper des Schalldдmpfers um den Lauf herum enthдlt ein  aufgerolltes gitter aus feinem Messing, wдhrend die  Vorderseite einen ein Satz aus Metall Lцchern aufweist. Wird oft  eingesetzt um Feinde still und leise zu Eliminieren und ohne die Aufmerksamkeit auf sich zu ziehen.</text>
+		</string>
+		<string id="st_addon_silencer_545x39">
+			<text>Schalldдmpfer (5.45x39)</text>
+		</string>
+		<string id="st_addon_silencer_545x39_descr">
+			<text>Ein wirksamer Schalldдmpfer fьr Waffen mit einem Kaliber von 5.45x39. Der Kцrper des Schalldдmpfers um den Lauf herum enthдlt ein  aufgerolltes gitter aus feinem Messing, wдhrend die  Vorderseite einen ein Satz aus Metall Lцchern aufweist. Wird oft  eingesetzt um Feinde still und leise zu Eliminieren und ohne die Aufmerksamkeit auf sich zu ziehen.</text>
+		</string>
+		<string id="st_addon_silencer_556x45">
+			<text>Schalldдmpfer (5.56x45)</text>
+		</string>
+		<string id="st_addon_silencer_556x45_descr">
+			<text>Ein wirksamer Schalldдmpfer fьr Waffen mit einem Kaliber von 5.56x45. Der Kцrper des Schalldдmpfers um den Lauf herum enthдlt ein  aufgerolltes gitter aus feinem Messing, wдhrend die  Vorderseite einen ein Satz aus Metall Lцchern aufweist. Wird oft  eingesetzt um Feinde still und leise zu Eliminieren und ohne die Aufmerksamkeit auf sich zu ziehen.</text>
+		</string>
+		<string id="st_addon_silencer_762x39">
+			<text>Schalldдmpfer (7.62x39)</text>
+		</string>
+		<string id="st_addon_silencer_762x39_descr">
+			<text>Ein wirksamer Schalldдmpfer fьr Waffen mit einem Kaliber von 7.62x39. Der Kцrper des Schalldдmpfers um den Lauf herum enthдlt ein  aufgerolltes gitter aus feinem Messing, wдhrend die  Vorderseite einen ein Satz aus Metall Lцchern aufweist. Wird oft  eingesetzt um Feinde still und leise zu Eliminieren und ohne die Aufmerksamkeit auf sich zu ziehen.</text>
+		</string>
+		<string id="st_addon_silencer_762x51">
+			<text>Schalldдmpfer (7.62x51)</text>
+		</string>
+		<string id="st_addon_silencer_762x51_descr">
+			<text>Ein wirksamer Schalldдmpfer fьr Waffen mit einem Kaliber von 7.62x51. Der Kцrper des Schalldдmpfers um den Lauf herum enthдlt ein  aufgerolltes gitter aus feinem Messing, wдhrend die  Vorderseite einen ein Satz aus Metall Lцchern aufweist. Wird oft  eingesetzt um Feinde still und leise zu Eliminieren und ohne die Aufmerksamkeit auf sich zu ziehen.</text>
+		</string>
+		<string id="st_addon_silencer_762x54">
+			<text>Schalldдmpfer (7.62x54)</text>
+		</string>
+		<string id="st_addon_silencer_762x54_descr">
+			<text>Ein wirksamer Schalldдmpfer fьr Waffen mit einem Kaliber von 7.62x54. Der Kцrper des Schalldдmpfers um den Lauf herum enthдlt ein  aufgerolltes gitter aus feinem Messing, wдhrend die  Vorderseite einen ein Satz aus Metall Lцchern aufweist. Wird oft  eingesetzt um Feinde still und leise zu Eliminieren und ohne die Aufmerksamkeit auf sich zu ziehen.</text>
+		</string>
+		<string id="st_addon_silencer_1143x23">
+			<text>Schalldдmpfer (1143x23)</text>
+		</string>
+		<string id="st_addon_silencer_1143x23_descr">
+			<text>Ein wirksamer Schalldдmpfer fьr Waffen mit einem Kaliber von 1143x23. Der Kцrper des Schalldдmpfers um den Lauf herum enthдlt ein  aufgerolltes gitter aus feinem Messing, wдhrend die  Vorderseite einen ein Satz aus Metall Lцchern aufweist. Wird oft  eingesetzt um Feinde still und leise zu Eliminieren und ohne die Aufmerksamkeit auf sich zu ziehen.</text>
+		</string>
+		<string id="st_wpn_pm">
+			<text>PMm</text>
+		</string>
+		<string id="st_wpn_pm_descr">
+			<text>Dieses Sowjeterbe ist die am weitesten verbreitete Pistole in der Zone. Sie ist zwar zuverlдssig und gьnstig, weist jedoch ein kleines Magazin und eine geringe Prдzision auf. Sie wird von vielen Anfдngern als Hauptwaffe eingesetzt und benцtigt 9x18mm-57-N-181S und RG028 Munition.</text>
+		</string>
+		<string id="st_wpn_pb">
+			<text>PB1s</text>
+		</string>
+		<string id="st_wpn_pb_descr">
+			<text>Eine Pistole mit integriertem Schalldдmpfer, die frьher von den sowjetischen Spetsnaz-Einheiten verwendet wurde. Sie ist zwar mittlerweile moralisch fragwьrdig, aber in den richtigen Hдnden kann sie sehr wirkungsvoll sein. Benцtigt 9x18mm- 57-N-181S und RG028 Munition.</text>
+		</string>
+		<string id="st_wpn_fort">
+			<text>Fora-12</text>
+		</string>
+		<string id="st_wpn_fort_descr">
+			<text>Eine Polizeipistole aus der Ukraine. Sie weist eine hцhere Prдzision, bessere Ergonomie und ein grцЯeres Magazin als die Makarov auf, dies geht allerdings zu Lasten der Zuverlдssigkeit. Benцtigt 9x18mm 57-N-181S und RG028 Munition.</text>
+		</string>
+		<string id="st_wpn_beretta">
+			<text>Beretta M9 "Martha"</text>
+		</string>
+		<string id="st_wpn_beretta_descr">
+			<text>Die Martha wird von der US-Armee und -Polizei sowie verschiedenen militдrischen Organisationen auf der ganzen Welt eingesetzt. Die Pistole genieЯt zudem dank ihrer Durchschlagskraft und des groЯen Magazins ebenfalls groЯes Ansehen in der kriminellen Halbwelt. Benцtigt 9x19mm 7N31 und m/39 Munition.</text>
+		</string>
+		<string id="st_wpn_walther">
+			<text>Walther P99</text>
+		</string>
+		<string id="st_wpn_walther_descr">
+			<text>Eine hervorragende Pistole aus deutscher Produktion mit hoher Zuverlдssigkeit, guter Prдzision und einem groЯen Magazin - ganz besonders in dieser Variante, die 9mm-Parabellum-Geschosse verschieЯt. Benцtigt 9x19mm 7N31 und m/39 Munition.</text>
+		</string>
+		<string id="st_wpn_hpsa">
+			<text>Browning Hi-Power</text>
+		</string>
+		<string id="st_wpn_hpsa_descr">
+			<text>Die Browning hat zurecht den Ruf, eine der besten Handfeuerwaffen des 20. Jahrhunderts zu sein. Zuverlдssig, durchschlagskrдftig und zielgenau sowie mit einer Kapazitдt von 13 9x19mm-Patronen. Benцtigt 9x19mm 7N31 und m/39 Munition.</text>
+		</string>
+		<string id="st_wpn_colt1911">
+			<text>Colt M1911</text>
+		</string>
+		<string id="st_wpn_colt1911_descr">
+			<text>Dieser klassische Halb-Automatische Colt, der alle groЯen bewaffneten Konflikte des 20. Jahrhunderts mit Bravour gemeistert hat, gehцrt auch im neuen Jahrtausend noch lange nicht zum alten Eisen. Die durchschnittliche MagazingrцЯe wird durch die mдchtige .45-Munition mehr als wettgemacht. Benцtigt 11.43x23mm .45 ACP und .45 HydraShok Munition.</text>
+		</string>
+		<string id="st_wpn_sig220">
+			<text>SIG P220</text>
+		</string>
+		<string id="st_wpn_sig220_descr">
+			<text>Dieses Modell wurde zwar schon 1975 entwickelt, ist aber immer noch auf der ganzen Welt beliebt. Die Waffe hat zwar ein recht kleines Magazin, funktioniert aber dafьr wie ein Schweizer Uhrwerk. Ein weiterer Vorteil ist die durchschlagskrдftige Colt-Munition Kaliber .45. Benцtigt 11.43x23mm .45 ACP und .45 HydraShok Munition.</text>
+		</string>
+		<string id="st_wpn_usp">
+			<text>H&k USP Kompakt</text>
+		</string>
+		<string id="st_wpn_usp_descr">
+			<text>Diese zuverlдssige Waffe bietet deutsche Qualitдt und Verlдsslichkeit. Die kompakte Waffe mit geringer Reichweite ist besonders bei Zonenveteranen beliebt. Benцtigt 11.43x23mm .45 ACP und .45 HydraShok Munition.</text>
+		</string>
+		<string id="st_wpn_eagle">
+			<text>Desert Eagle</text>
+		</string>
+		<string id="st_wpn_eagle_descr">
+			<text>Die Waffe fьr wahre Helden - groЯ, schwer und tцdlich. Ihre geringe Verbreitung in der Zone ist zurьckzufьhren auf den Preis, die GrцЯe und die Tatsache, dass es so wenige Elefanten gibt, die man mit der Waffe jagen kцnnte. Benцtigt 11.43x23mm .45 ACP und .45 HydraShok Munition.</text>
+		</string>
+		<string id="st_wpn_mp5">
+			<text>Heckler und Koch Mp5</text>
+		</string>
+		<string id="st_wpn_mp5_descr">
+			<text>In den letzten Jahrzehnten des 20. Jahrhunderts galt die Viper 5 als eine der besten MPs ьberhaupt und wurde auf der ganzen Welt in Polizeiverbдnden und Spezialeinsatztruppen eingesetzt. Nachdem sie schrittweise durch neuere Modelle ersetzt wurde, konnte man sie hдufig auf dem Schwarzmarkt finden, von wo sie in groЯen Mengen in die Zone gelangt ist. Benцtigt 9x19mm 7N31 and m/39 Munition.</text>
+		</string>
+		<string id="st_wpn_ak74u">
+			<text>Automat Kalashnikov Ak74u</text>
+		</string>
+		<string id="st_wpn_ak74u_descr">
+			<text>Obwohl diese Waffe vom Gewicht und der GrцЯe her einer MP entspricht, wird sie auf Grund ihrer Funktionsweise und Munition als Sturmgewehr eingestuft. Ihrer geringen GrцЯe (sehr nьtzlich fьr den StraЯenkampf) und starken panzerbrechenden Wirkung stehen ihre kurze Feuerreichweite und vergleichsweise schnelle Ьberhitzung bei Salven entgegen. Benцtigt 5.45x39mm 7N6 und 7N22 Munition.</text>
+		</string>
+		<string id="st_wpn_ak74">
+			<text>Automat Kalashnikov Ak-74</text>
+		</string>
+		<string id="st_wpn_ak74_descr">
+			<text>Die 1974 entwickelte AK benцtigt 5.45x39mm-Munition. Es handelt sich um eine einfache und zuverlдssige Waffe, auch wenn man wegen der geringen Herstellungskosten kleinere Abstriche bei der Handhabung und Schussgenauigkeit machen muss. In der Zone stellt sie die Hauptwaffe des Militдrs und vieler einsamer Stalker dar. Benцtigt wie erwдhnt 5.45x39mm 7N6 und 7N22 Munition.</text>
+		</string>
+		<string id="st_wpn_abakan">
+			<text>Automat Nikonova AN-94 Abakan</text>
+		</string>
+		<string id="st_wpn_abakan_descr">
+			<text>Ein auf der AK47 basierendes Modell aus dem Jahr 1996. Die Waffe wurde fьr prдzise und kurze Salven entwickelt. Benцtigt 5.45x39mm 7N6 und 7N22 Munition.</text>
+		</string>
+		<string id="st_wpn_l85">
+			<text>SA80</text>
+		</string>
+		<string id="st_wpn_l85_descr">
+			<text>Nachdem die britische Armee dieses Gewehr durch ein neueres Modell ersetzt hatte, tauchten groЯen Mengen davon auf dem Schwarzmarkt und kurz darauf auch in der Zone auf. Die Vorteile der Waffe sind das eingebaute 1.8fach-Zielfernrohr und die hohe Prдzision beim ersten Schuss. Allerdings lдsst die Schussgenauigkeit bei Salvenfeuer erheblich nach, was dem relativ unzuverlдssigen Mechanismus des Gewehrs geschuldet ist. Benцtigt 5.56x45mm SS109 und M995 Munition.</text>
+		</string>
+		<string id="st_wpn_lr300">
+			<text>Colt M4A1</text>
+		</string>
+		<string id="st_wpn_lr300_descr">
+			<text>Der M4-Karabiner ist eine Familie von Schusswaffen, die von frьheren Karabinerversionen des M16-Gewehrs abgeleitet wurden, was wiederum von dem ursprьnglichen AR-15-Gewehr abgeleitet wurde, das Eugene Stoner entwarf und ArmaLite herstellte. Die M4 ist eine kьrzere und leichtere Variante des Sturmgewehrs M16A2. Verwendet 5.56x45mm SS109 und M995 Munition.</text>
+		</string>
+		<string id="st_wpn_sig550">
+			<text>SIG SG-550</text>
+		</string>
+		<string id="st_wpn_sig550_descr">
+			<text>Ein relativ neues Sturmgewehr aus der Schweiz, das NATO-Munition verschieЯt. Die Prдzision, die sanfte Feuertechnik und die hohe Zuverlдssigkeit der Waffe sind die Grьnde dafьr, dass sie auf der ganzen Welt beliebt ist. Benцtigt 5.56x45mm SS109 und M995 Munition.</text>
+		</string>
+		<string id="st_wpn_g36">
+			<text>Heckler & Koch G36</text>
+		</string>
+		<string id="st_wpn_g36_descr">
+			<text>Dieses deutsche Sturmgewehr ist ein perfektes Beispiel fьr eine moderne Waffe - sehr leicht, zuverlдssig und ergonomisch. Benцtigt 5.56x45mm SS109 und M995 Munition.</text>
+		</string>
+		<string id="st_wpn_fn2000">
+			<text>FN2000</text>
+		</string>
+		<string id="st_wpn_fn2000_descr">
+			<text>Dieses Sturmgewehr bietet ein computergestьtztes Feuerleitsystem und einen 40mm-Granatwerfer. Benцtigt 5.56x45mm SS109, M995 Munition und M209-Granaten.</text>
+		</string>
+		<string id="st_wpn_groza">
+			<text>OTs-14 "Groza"</text>
+		</string>
+		<string id="st_wpn_groza_descr">
+			<text>Diese Kombination aus Sturmgewehr und Granatwerfer stellt eine hervorragende Lцsung fьr die alltдglichen Probleme in der Zone dar: eine kompakte, zuverlдssige und durchschlagskrдftige Waffe, die besonders bei militдrischen Stalkern beliebt ist. Benцtigt 9x39mm PAB9, SP-6 Munition und VOG-25-Granaten.</text>
+		</string>
+		<string id="st_wpn_val">
+			<text>AS Val</text>
+		</string>
+		<string id="st_wpn_val_descr">
+			<text>Das SA Avalanche ist eine modifizierte Version des schallgedдmpften Vintar BC Scharfschьtzengewehrs. Es kann Salven feuern und weist ein grцЯeres Magazin auf. Ursprьnglich war die Waffe fьr den Einsatz durch Spezialkrдfte bei Angriffsoperationen gedacht, die leise Schьsse ohne Mьndungsfeuer erforderten. Benцtigt 9x39mm PAB9 und  Munition.</text>
+		</string>
+		<string id="st_wpn_vintorez">
+			<text>Vintorez</text>
+		</string>
+		<string id="st_wpn_vintorez_descr">
+			<text>Ein Scharfschьtzengewehr mit integriertem Schalldдmpfer fьr den leisen Einsatz ohne Mьndungsfeuer. Trotz des kleinen Magazins wird diese Waffe von vielen Stalkern sehr geschдtzt. Benцtigt 9x39mm PAB9 und Munition.</text>
+		</string>
+		<string id="st_wpn_svd">
+			<text>SVDm 2</text>
+		</string>
+		<string id="st_wpn_svd_descr">
+			<text>Eine Waffe, die seit den 60er-Jahren in so gut wie allen sowjetischen und russischen Operationen zum Einsatz gekommen ist. Sie verdankt ihren guten Ruf der hervorragenden Zuverlдssigkeit und der einfachen Handhabung. Kommt mit einem 1p59 Zielfernrohr. Benцtigt 7.62x54mm 7N1 and 7N13-Munition.</text>
+		</string>
+		<string id="st_wpn_svu">
+			<text>SVUmk2</text>
+		</string>
+		<string id="st_wpn_svu_descr">
+			<text>Ein modernes Scharfschьtzengewehr in der kompakten Bullpup-Bauform. Sein geringes Gewicht und die Mцglichkeit, damit schnell und prдzise zu feuern, hat zahlreiche Stalker von dem Gewehr ьberzeugt. Benцtigt  7.62x54mm 7N1 und 7N13-Munition.</text>
+		</string>
+		<string id="st_wpn_rp">
+			<text>PKM-74</text>
+		</string>
+		<string id="st_wpn_rp_descr">
+			<text>Trotz des Gewichts und der geringen Schussgenauigkeit ist dieses leichte MG in der Zone recht beliebt. Es wird vornehmlich gegen zahlenmдЯig ьberlegene Gegner oder zum Sдubern von Mutantenschlupflцchern benutzt. Benцtigt 7.62x54 57-N-323S-Munition.</text>
+		</string>
+		<string id="st_wpn_bm16">
+			<text>Abgesдgte Schrotflinte BM16</text>
+		</string>
+		<string id="st_wpn_bm16_descr">
+			<text>Eine abgesдgte Jagdschrotflinte mit Doppellauf. Sie ist zwar deutlich leichter und kompakter als eine normale Schrotflinte, kann aber ihre verheerende Wirkung nur auf kurze Distanz entfalten. Dennoch oder gerade deswegen gehцrt sie zu den beliebtesten Waffen bei Anfдngern. Benцtigt 12x70mm Gewehr-, Schrot- oder Spitzgeschoss Munition.</text>
+		</string>
+		<string id="st_wpn_toz34">
+			<text>Toz34</text>
+		</string>
+		<string id="st_wpn_toz34_descr">
+			<text>Ein stinknormales und absolut durchschnittliches Jagdgewehr mit zwei untereinander liegenden Lдufen. Wird meist von Anfдngern in den AuЯenbezirken der Zone eingesetzt. Benцtigt 12x70mm Gewehr-, Schrot- oder Spitzgeschoss Munition.</text>
+		</string>
+		<string id="st_wpn_spas12">
+			<text>SPAS 12</text>
+		</string>
+		<string id="st_wpn_spas12_descr">
+			<text>Die halbautomatische SPSA-Schrotflinte mit glattem Lauf wurde in den spдten 70er-Jahren als Allzweckwaffe fьr die Sturmtruppen der Polizei und Armee entwickelt. Sie ist zwar sehr zuverlдssig und flexibel einsetzbar, aber ziemlich klobig, kompliziert zu handhaben und teuer. Wahrscheinlich eine der besten Waffen in der Zone fьr kurze Distanzen. Benцtigt 12x70mm-Gewehr Munition.</text>
+		</string>
+		<string id="st_wpn_wincheaster1300">
+			<text>TOZ-194</text>
+		</string>
+		<string id="st_wpn_wincheaster1300_descr">
+			<text>Eine geschmeidige russische Pump-Shotgun fьr den Einsatz in  feindlichten Umgebung. Sehr zuverlдssig und mit Korrosionsschutzbeschichtung versehen. Verwendet 12x70mm Schrotmunition</text>
+		</string>
+		<string id="st_wpn_rpg7">
+			<text>RPG-7u</text>
+		</string>
+		<string id="st_wpn_rpg7_descr">
+			<text>Dieser Granatwerfer aus den 60er-Jahren ist aus Lagerbestдnden der Armee in die Zone gelangt. Seine enorme GrцЯe und das hohe Gewicht prдdestinieren ihn nicht gerade fьr den Alltagsgebrauch, aber in manchen Situationen ist die Waffe unverzichtbar. Benцtigt OG-7V-Granaten.</text>
+		</string>
+		<string id="st_wpn_rg6">
+			<text>Bulldog 6</text>
+		</string>
+		<string id="st_wpn_rg6_descr">
+			<text>Dieser Revolver-Granatwerfer ist unersetzlich, wenn man groЯe Mutantenhorden ausschalten, stark verteidigte Stellungen einnehmen oder besonders hartnдckige Monster bekдmpfen muss. Benцtigt VOG-25-Granaten.</text>
+		</string>
+		<string id="st_wpn_gauss">
+			<text>EM1 Gewehr</text>
+		</string>
+		<string id="st_wpn_gauss_descr">
+			<text>Ein experimentelles elektromagnetisches Gewehr, mit dem man elektronische Gerдte aus der Distanz auЯer Gefecht setzen kann. Gegen lebendige Ziele ist es wirkungslos. Benцtigt Akkumulatorbatterien.</text>
+		</string>
+		<string id="st_wpn_mp5_m1">
+			<text>Viper 5m</text>
+		</string>
+		<string id="st_wpn_mp5_m1_descr">
+			<text>Eine modifizierte Version der Viper-MP. Dank der besseren Anordnung der Bauteile erreicht dieses Modell eine hцhere Mьndungsgeschwindigkeit. Benцtigt 9x19mm 7N31 und m/39 Munition.</text>
+		</string>
+		<string id="st_wpn_hpsa_m1">
+			<text>HPCS-1</text>
+		</string>
+		<string id="st_wpn_hpsa_m1_descr">
+			<text>Diese Waffe ist eine modifizierte Version der HPSS-1m-Pistole fьr den Einsatz unter harten klimatischen Bedingungen. Die absolut idiotensichere Handfeuerwaffe benцtigt 9x19mm 7N31 und m/39 Munition.</text>
+		</string>
+		<string id="st_wpn_fort_m1">
+			<text>Fora-14</text>
+		</string>
+		<string id="st_wpn_fort_m1_descr">
+			<text>Die Fora-14 hat ein grцЯeres Magazin als das Basismodell. Benцtigt 9x18mm 57-N-181S und RG028-Munition.</text>
+		</string>
+		<string id="st_wpn_ak74_m1">
+			<text>AKV 74</text>
+		</string>
+		<string id="st_wpn_ak74_m1_descr">
+			<text>Hierbei handelt es sich um eine weiterentwickelte Version des AKM 74/2 Sturmgewehrs. Eine fortschrittlichere Bauform sorgt fьr eine Erhцhung der Feuerrate um 100 Schuss pro Minute. Um das Gewicht des Laufs zu verringern, sind einige Elemente weggefallen, wodurch z.B. optische Zielfernrohre nicht mehr angebracht werden kцnnen. Benцtigt 5.45x39mm 7N6 und 7N22-Munition.</text>
+		</string>
+		<string id="st_wpn_eagle_m1">
+			<text>Big Ben</text>
+		</string>
+		<string id="st_wpn_eagle_m1_descr">
+			<text>Ein wahrer Riese unter den Pistolen. Der an sich schon lange Lauf wurde durch eine spezielle Erweiterung noch verlдngert. Weist eine ьberragende Durchschlagskraft auf und benцtigt 11.43x23mm .45 ACP und .45 HydraShok Munition.</text>
+		</string>
+		<string id="st_wpn_sig550_m1">
+			<text>SIG SG-550 Special</text>
+		</string>
+		<string id="st_wpn_sig550_m1_descr">
+			<text>Einige findige Handwerker haben das SGI 5k so modifiziert, dass es sowjetische Munition aufnehmen kann, die in der Zone gebrдuchlicher ist. Die Modifikationen des Basismodells kцnnen weiterhin benutzt werden. Benцtigt 5.45x39mm 7N6 und 7N22-Munition.</text>
+		</string>
+		<string id="st_wpn_abakan_m1">
+			<text>AC96sl</text>
+		</string>
+		<string id="st_wpn_abakan_m1_descr">
+			<text>Schallgedдmpfte Version des AC96/2. Der Lauf der Waffe wurde handwerklich gekonnt um einen Schalldдmpfer erweitert. Dadurch wird die Prдzision erhцht und man kann dennoch alle Vorteile eines Sturmgewehrs nutzen. Benцtigt 5.45x39mm 7N6 und 7N22-Munition.</text>
+		</string>
+		<string id="st_wpn_wincheaster1300_m1">
+			<text>"Freiheit"-Chaser</text>
+		</string>
+		<string id="st_wpn_wincheaster1300_m1_descr">
+			<text>Im Gegensatz zu den meisten anderen Schrotflinten hat diese Waffe einen gezogenen Lauf. Dies macht es zwar unmцglich, Schrot- oder Spitzgeschosse einzusetzen, aber dafьr wird die Schussgenauigkeit mit Massivgeschossen enorm verbessert. Benцtigt 12x70-Gewehrmunition.</text>
+		</string>
+		<string id="st_wpn_vintorez_m1">
+			<text>"Avalanche" Vintar</text>
+		</string>
+		<string id="st_wpn_vintorez_m1_descr">
+			<text>Eine Hybrid-Version, die die Vorteile beider Modelle vereint. Das Ergebnis ist ein 20-Schuss-Magazin und eine hohe Prдzision bei Automatikfeuer. Das 2fach-Zielfernrohr des Gewehrs ist auf kurze Distanzen zugeschnitten. Benцtigt 9x39mm PAB9 und SP-6 -Munition.</text>
+		</string>
+		<string id="st_wpn_spas12_m2">
+			<text>SPSA-AUT</text>
+		</string>
+		<string id="st_wpn_spas12_m2_descr">
+			<text>Die halbautomatische SPSA-AUT-Schrotflinte wird ausschlieЯlich von Wдchtern hergestellt und dient hauptsдchlich dem Kampf gegen Monsterschwдrme. Ein verbessertes Patronensystem sorgt fьr eine hцhere Feuerrate und beeindruckende Streuwirkung mit Schrotgeschossen. Das erweiterte Magazin fasst bis zu zehn 12x70mm-Patronen.</text>
+		</string>
+		<string id="st_wpn_protecta">
+			<text>Armsel Striker</text>
+		</string>
+		<string id="st_wpn_protecta_descr">
+			<text>Eine Seltende Pump-Shotgun mit hohe Feuerkraft fьr Soldaten entwickelt. Die Vorteile dieser Wafffe sind die grosse Magazinkapazitдt und die gute Feuerrate. Die Nachteile dieser Waffe ist GrцЯe und Schwerfдlligkeit, so wie das langsame Nachladen. In der Zone eine Rares Stьck. Wird sehr gern in geschlossenen Rдumen gegen Mutanten verwendet. Benцtigt 12x70mm Schrotmunition.</text>
+		</string>
+		<string id="st_wpn_lr300_m1">
+			<text>TPs "Linkshдnder"</text>
+		</string>
+		<string id="st_wpn_lr300_m1_descr">
+			<text>Diese Waffe ist das Ergebnis hervorragender Handwerkskunst und ist an ihren Besitzer angepasst. Dabei wird besonders auf die Prдzision Wert gelegt, auch wenn das auf Kosten der Feuerrate geht. Wenn Sie also in zehn Sekunden zehn Mal exakt dieselbe Stelle treffen mцchten, ist das hier die perfekte Waffe fьr Sie. Benцtigt 5.56x45mm SS109 und M995-Munition.</text>
+		</string>
+		<string id="st_wpn_l85_m1">
+			<text>SA80 Scharfschьtzen Gewehr</text>
+		</string>
+		<string id="st_wpn_l85_m1_descr">
+			<text>Scharfschьtzenversion des IL 86 Gewehrs. Der lдngere Lauf erhцht die Mьndungsgeschwindigkeit, was fьr eine flachere Flugbahn der Kugel sorgt und damit prдzisere Schьsse auf grцЯere Distanzen ermцglicht. Benцtigt 5.56x45mm SS109 und M995-Munition.</text>
+		</string>
+		<string id="st_wpn_fn2000_m1">
+			<text>FN2000 Special</text>
+		</string>
+		<string id="st_wpn_fn2000_m1_descr">
+			<text>Erneuerte Version des FT 200M Sturmgewehrs mit besonderem Augenmerk auf prдzises Salvenfeuer. Der Unterlaufgranatwerfer ist mit einem Gravitationsstabilisator ausgestattet, der die Streuung erheblich verringert. Der Nachteil dieser Modifikation besteht darin, dass der Granatwerfer nicht mehr eingesetzt werden kann. Benutzt 5.56x45mm SS109 und M995-Munition.</text>
+		</string>
+		<string id="st_wpn_svu_m1">
+			<text>SVU</text>
+		</string>
+		<string id="st_wpn_svu_m1_descr">
+			<text>Diese Automatikversion des SVUmk2 hat einen viel geringeren RьckstoЯ, wodurch man schneller und prдziser schieЯen kann. Benцtigt 7.62x54mm 7N1 und 7N13-Munition.</text>
+		</string>
+		<string id="st_wpn_groza_m1">
+			<text>Tunder S14sn</text>
+		</string>
+		<string id="st_wpn_groza_m1_descr">
+			<text>Scharfschьtzenprototyp des Tunder S14 Sturmgewehrs. Diese ausgeglichene Waffe eignet sich fьr prдzises und automatisches Feuer. Auch der Unterlaufgranatwerfer kann nьtzlich sein. Benцtigt 9x39mm PAB9, SP-6 -Munition und VOG-25-Granaten.</text>
+		</string>
+		<string id="st_knife">
+			<text>Messer</text>
+		</string>
+		<string id="ammo_minigame_descr">
+			<text>Munition mit Markierungen speziell fьr die SchieЯanlage</text>
+		</string>
+		<string id="ammo_minigame_name">
+			<text>Munition fьr die SchieЯanlage</text>
+		</string>
+		<string id="st_wpn_akm">
+			<text>Awtomat Kalaschnikowa AKM</text>
+		</string>
+		<string id="st_wpn_akm_descr">
+			<text>1959 wurde das AK ьberarbeitet und erhielt die Bezeichnung AKM, Awtomat Kalaschnikowa Modernisirowanny (deutsch modernisiert). Das Verschlussgehдuse wurde nun im Blechprдgeverfahren hergestellt, was die Waffe noch robuster machte und eine Gewichtsreduzierung um 1,16 kg zur Folge hatte. Das AKM erhielt statt der einfachen Mьndungsmutter einen Kompensator; dabei ist die Mьndungsmutter (vom Schьtzen aus gesehen) links unten etwas lдnger, damit die aus dem Lauf strцmenden Pulvergase die schieЯende Waffe nach links unten drьcken und so das Auswandern bei Dauerfeuer verringern. Entgegen der frьher im Westen vertretenen Auffassung besaЯ das AK niemals eine Mьndungsbremse. Die Mьndungsmutter ist durch ein Linksgewinde mit der Laufmьndung verbunden und wird bei Bedarf gegen ein Manцverpatronengerдt ausgetauscht.\n \nFerner bekam das AKM eine Vorrichtung zur Verzцgerung der Vorwдrtsbewegung des Schlagstьcks (um 2 Millisekunden). Diese bewirkt, dass die Schwingung der Waffe bei Dauerfeuer besser im Einklang mit der Feuergeschwindigkeit ist und fьhrt zu einer spьrbaren Erhцhung der Trefferdichte. Die Annahme, es handele sich um einen Feuerratenbegrenzer, ist falsch.\n \nDie Gasentlastungsbohrungen wurden vom Gaskolbenfьhrungsrohr in das am Lauf befindliche Zwischenstьck verlegt und radial angeordnet, ihre Anzahl verringerte sich von acht auf vier.\n \nObwohl das Visier des AKM bis auf 1000 Meter (800 beim AK) einstellbar ist, liegt die effektive Reichweite bei etwa 300 Metern, was durch die offene Visierung, die mдЯige Prдzision sowie die (stдrker als bei klassischen Gewehrpatronen) gekrьmmte Flugbahn des M43-Geschosses bedingt ist.\n \nDas AKM war die erste sowjetische Waffe, die mit dem neuen Mehrzweckbajonett ausgestattet werden konnte. Dieses basiert auf dem von Oberstleutnant Todorow entwickelten Messer fьr Kampfschwimmer. Das Bajonett kann nicht nur bestimmungsgemдЯ als Stichwaffe, sondern auch als Sдge und, zusammen mit der Scheide, als Drahtschneider verwendet werden. Benцtigt 7.62x39mm M67 und M43 Munition.</text>
+		</string>
+		<string id="st_wpn_akms">
+			<text>Avtomat Kalashnikova AKMs</text>
+		</string>
+		<string id="st_wpn_akms_descr">
+			<text>Die Variante mit nach unten abklappbarer Schulterstьtze aus Metall, fьr das AKMS, wurde 1960 eingefьhrt. Die Waffe ist etwa 0,2 kg leichter als das AKM.\n\n1959 wurde das AK ьberarbeitet und erhielt die Bezeichnung AKM, Awtomat Kalaschnikowa Modernisirowanny (deutsch modernisiert). Das Verschlussgehдuse wurde nun im Blechprдgeverfahren hergestellt, was die Waffe noch robuster machte und eine Gewichtsreduzierung um 1,16 kg zur Folge hatte. Das AKM erhielt statt der einfachen Mьndungsmutter einen Kompensator; dabei ist die Mьndungsmutter (vom Schьtzen aus gesehen) links unten etwas lдnger, damit die aus dem Lauf strцmenden Pulvergase die schieЯende Waffe nach links unten drьcken und so das Auswandern bei Dauerfeuer verringern. Entgegen der frьher im Westen vertretenen Auffassung besaЯ das AK niemals eine Mьndungsbremse. Die Mьndungsmutter ist durch ein Linksgewinde mit der Laufmьndung verbunden und wird bei Bedarf gegen ein Manцverpatronengerдt ausgetauscht.\n \nFerner bekam das AKM eine Vorrichtung zur Verzцgerung der Vorwдrtsbewegung des Schlagstьcks (um 2 Millisekunden). Diese bewirkt, dass die Schwingung der Waffe bei Dauerfeuer besser im Einklang mit der Feuergeschwindigkeit ist und fьhrt zu einer spьrbaren Erhцhung der Trefferdichte. Die Annahme, es handele sich um einen Feuerratenbegrenzer, ist falsch.\n \nDie Gasentlastungsbohrungen wurden vom Gaskolbenfьhrungsrohr in das am Lauf befindliche Zwischenstьck verlegt und radial angeordnet, ihre Anzahl verringerte sich von acht auf vier.\n  \nObwohl das Visier des AKM bis auf 1000 Meter (800 beim AK) einstellbar ist, liegt die effektive Reichweite bei etwa 300 Metern, was durch die offene Visierung, die mдЯige Prдzision sowie die (stдrker als bei klassischen Gewehrpatronen) gekrьmmte Flugbahn des M43-Geschosses bedingt ist.\n\nDas AKM war die erste sowjetische Waffe, die mit dem neuen Mehrzweckbajonett ausgestattet werden konnte. Dieses basiert auf dem von Oberstleutnant Todorow entwickelten Messer fьr Kampfschwimmer. Das Bajonett kann nicht nur bestimmungsgemдЯ als Stichwaffe, sondern auch als Sдge und, zusammen mit der Scheide, als Drahtschneider verwendet werden. Benцtigt 7.62x39mm M67 and M43 Munition.</text>
+		</string>
+		<string id="st_wpn_aks74">
+			<text>Avtomat Kalashnikova AKs-74</text>
+		</string>
+		<string id="st_wpn_aks74_descr">
+			<text>Die AKs-74 ist eine Variante des AK-74 mit einem seitlich zusammenklappbaren Metall-Schulterstock, der vor allem fьr den Einsatz von Luftangriffs-Infanterie entwickelt wurde. Die AKs-74 ist bis auf diese Ausnahme identisch mit der Standard AK-74.</text>
+		</string>
+		<string id="st_wpn_fnfal">
+			<text>FN FAL</text>
+		</string>
+		<string id="st_wpn_fnfal_descr">
+			<text>Das FAL wurde aus dem SAFN-49-/FN-49-Gewehr entwickelt und 1950 erstmals unter dem heutigen Namen vorgestellt. Es existieren vier Hauptversionen, die sich hauptsдchlich in Lauflдnge und Schaftart unterscheiden. Das FN FAL war von 1956 bis 1959 unter der Bezeichnung G1 Ordonnanzwaffe der Bundeswehr, bis es durch das Gewehr G3 abgelцst wurde. AuЯerdem war es in Westdeutschland bei Einheiten der Bereitschaftspolizei und dem Bundesgrenzschutz in Gebrauch.\n\nDas FN FAL zдhlt zusammen mit der Kalaschnikow-Baureihe und dem G3 zu den am weitest verbreiteten Sturmgewehren der Welt und wurde in ьber 90 Staaten eingesetzt.\n\nDa aufgrund des starken RьckstoЯes FeuerstцЯe schwer beherrschbar sind, wurden spдtere Versionen des FAL vornehmlich als Selbstladegewehr gebaut.\n\nIn den USA verlor das Gewehr 1954 beim Auswahlverfahren fьr ein neues Infanteriegewehr gegen das T44, das spдtere M14. Fьr den zivilen Markt werden seit den 1990er-Jahren wieder FAL-Systeme (Unter- und Oberteile) in den USA gefertigt. Benцtigt 7.62x51mm M61 and M59 Munition</text>
+		</string>
+		<string id="st_wpn_svt40">
+			<text>SVT-40</text>
+		</string>
+		<string id="st_wpn_svt40_descr">
+			<text>Selbstladendes Gewehr des Typ Tokarew Modell 1940. Ein sowjetisches Gewehr, das wдhrend des Zweiten Weltkrieges entwickelt und produziert wurde. Das SWT-40 wurde von Fjodor Tokarew als Nachfolger des Tokarew SWT-38 entwickelt und von 1940 bis 1945 produziert. Insgesamt wurden in diesem Zeitraum etwa 1,6 Millionen Gewehre dieses Typs produziert, etwa 50.000 davon wurden als Scharfschьtzengewehr mit Zielfernrohr ausgefьhrt. Das SWT-40 diente nur kurze Zeit als Standardgewehr der Roten Armee. Die Gewehre wurden schon bald nach dem Ende des Zweiten Weltkrieges nicht mehr im aktiven Dienst verwendet, sondern verschwanden in den Reservelagern. Von dort gelangten einige dieser Waffen auf den zivilen Waffenmarkt, wo das Gewehr vor allem an Jдger verkauft oder das es auch in die Zone ьber Waffenhдndler des Kalten Krieges eingefьhrt wurde. Benцtigt  7N1 und 7N13 Munition.</text>
+		</string>
+		<string id="st_wpn_mosin">
+			<text>Mosin Nagant</text>
+		</string>
+		<string id="st_wpn_mosin_descr">
+			<text>Seit 1883 gab es in zaristischen Russland Ьberlegungen, welches Gewehr in der Kaiserlich Russischen Armee eingefьhrt werden sollte. 1890 standen zwei Modelle zur Auswahl: eines vom russischen Konstrukteur Sergei Mossin und ein Modell des Belgiers Leon Nagant. Nach Tests von 1891 entschied man sich fьr das Mossin-Gewehr, das nach dem Vorbild Nagants leicht modifiziert wurde. Zusammen mit dem Mosin-Nagant-Gewehr wurde die neue 7,62-mm-Randpatrone mit Rundkopfgeschoss eingefьhrt. Das Gewehr wurde auch unter der Bezeichnung „Dreiliniengewehr“ bekannt (russisch Трёхлинейная винтовка). Der Name bezieht sich auf die Kaliberangabe in der alten Einheit Linie, wobei drei Linien genau 7,62 mm entsprechen.\n \nUrsprьnglich gab es die Waffe in drei Versionen:\nInfanteriegewehr mit 800 mm Lauflдnge und Bajonett\nDragonergewehr mit 730 mm Lauflдnge und Bajonett\nKosakengewehr mit 730 mm Lauflдnge ohne Bajonett\n \nDer Nachteil der ersten beiden Versionen bestand darin, dass das Bajonett permanent angebracht sein musste, da die Waffen in dieser Konfiguration eingeschossen wurden. Ein Abnehmen des Bajonetts hatte eine Verschlechterung des Schussbildes zur Folge. Erst 1938 wurde dieses Problem beseitigt. Ab 1894 bekam der Lauf einen Handschutz, um Verbrennungen zu vermeiden. Ein Karabiner wurde im Jahr 1907 eingefьhrt; er unterschied sich durch die Gestaltung des Visiers von den lдngeren Versionen. Er wurde in niedrigen Stьckzahlen gebaut und gilt mittlerweile als sehr selten. Eine weitere Modifikation fand 1908–1910 statt, als eine neue Patrone mit Spitzgeschoss eingefьhrt wurde, deren ballistische Eigenschaften deutlich besser waren; daher erhielt die Waffe ein neues Visier. 1938 wurde erneut eine Karabinerversion mit 1020 mm Gesamt- und 510 mm Lauflдnge (M1938) eingefьhrt, die 1944 ein abklappbares Dreikantbajonett erhielt (M1944), wobei der Lauf auf 518 mm verlдngert wurde.\n \nEine bekannte Version war die Scharfschьtzenausfьhrung, die von der damaligen Standardvariante M1891/30 durch einen nach unten abgebogenen, verlдngerten Kammerstдngel und ein Zielfernrohr vom Typ PE bzw. PU zu unterscheiden war.\Wдhrend des Ersten Weltkrieges wurden die Gewehre teils in den USA von den Firmen Westinghouse und Remington Arms fьr die russische Armee gebaut; im Deutschen Reich wurden erbeutete Waffen fьr die 8?57-IS- und in Цsterreich-Ungarn fьr die 8?50-mm-Patrone umgebaut. Es wurde auch ein „Gerдt Bramit“ genannter Schalldдmpfer entwickelt.\nDas Gewehr blieb bis nach dem Zweiten Weltkrieg Standardwaffe der sowjetischen Infanterie und wurde in verschiedenen Versionen (M 91/30 und M 44) auch von vielen Verbьndeten der UdSSR gebaut und eingefьhrt.\nIn China wurde die Karabinerversion M1938 bzw. deren Variation M1944 als Typ 53 in Lizenz produziert.\nAuch in der Tschechoslowakei (Scharfschьtzengewehr Modell 54), in Polen, Ungarn und Rumдnien wurden nach dem Zweiten Weltkrieg Lizenzversionen insbesondere des Karabiners M1944 produziert.\n \nDie zum Gewehr entwickelte Randpatrone 7,62x54 mm R ist die inzwischen dienstдlteste Gewehrpatrone der Welt und wird auch noch in modernen Waffen wie dem Dragunow-Scharfschьtzengewehr oder Maschinengewehren, vor allem russischer und chinesischer Bauart, benutzt.Benцtigt 7.62x54mm 7N1 und 7N13 Munition.</text>
+		</string>
+		<string id="st_wpn_type63">
+			<text>Type 63</text>
+		</string>
+		<string id="st_wpn_type63_descr">
+			<text>Das Sturmgewehr Typ 63 war eine Infanteriewaffe, die zur Ausrьstung der chinesischen Volksbefreiungsarmee gehцrte. Das Gewehr wurde, im Gegensatz zu vielen anderen chinesischen Waffen, in China selbst entworfen und war keine direkte Kopie eines russischen Modells. Es entstand im Bestreben der Volksrepublik China, aufgrund des Zerwьrfnisses mit der Sowjetunion von dessen Militдrhilfe unabhдngig zu werden. Die Bewaffnung Chinas basierte nahezu vollstдndig auf russischen Entwicklungen, die auch die Grundlage fьr diese Waffe darstellten. Es war eine eigentьmliche Mischung aus dem Karabiner Simonow SKS-45 und dem Sturmgewehr Kalaschnikow AK-47. Auch die Munition war identisch zu den russischen Vorbildern.\n \nVon der SKS stammte:\ndie Schдftung\nder Verschlussfang und die Mцglichkeit, Ladestreifen einzusetzen\ndas fest \ninstallierte Nadel-Bajonett\n \nVor der AK wurde folgendes entlehnt:\nder Gasdrucklader-Mechanismus\nder Drehkopfverschluss\ndie Wechselmagazinhalterung.\nBenцtigt 7.62x39mm M67 und M43 Munition.</text>
+		</string>
+		<string id="st_wpn_rpk">
+			<text>Kalashnikov RPK-74</text>
+		</string>
+		<string id="st_wpn_rpk_descr">
+			<text>Das RPK (russisch РПК, ручной пулемёт Калашникова, rutschnoi pulemjot Kalaschnikowa, auf Deutsch: leichtes/tragbares Maschinengewehr Kalaschnikow) ist eine Infanteriewaffe, die in der Sowjetunion entwickelt wurde. Nach dem Zweiten Weltkrieg wurde bei den sowjetischen Streitkrдften die Kurzpatrone M43 eingefьhrt. Sie kam zum Einsatz in Selbstlade-, Sturm- sowie leichten Maschinengewehren. Um die Standardisierung vollstдndig zu machen, sollte nicht nur die Munition, sondern auch die Bewaffnung einheitlich sein. Zu diesem Zweck wurde die AK-47 als Grundlage fьr weitere Neuentwicklungen festgelegt. Das bis dahin verwendete MG RPD-44 ging technisch von anderen Entwьrfen aus und sollte durch ein neues Modell ersetzt werden. Benцtigt 5.45x39mm 7N6 und  7N22 Munition.</text>
+		</string>
+		<string id="st_wpn_g3">
+			<text>Heckler und Koch G3A3</text>
+		</string>
+		<string id="st_wpn_g3_descr">
+			<text>Das G3 (Gewehr 3) ist ein Sturmgewehr des deutschen Waffenherstellers Heckler & Koch (HK). Im Jahr 1959 als Standardgewehr in der Bundeswehr eingefьhrt, fand und findet es weiterhin Verwendung in vielen anderen Armeen. Es verwendet die Patrone 7.62x51 mm NATO. Die Waffe wurde im Laufe der Jahre in viele Lдnder exportiert (so auch in die Zone) und in mindestens 15 Lдndern in Lizenz gefertigt, wodurch die gebaute Gesamtstьckzahl rund 7 Millionen Stьck betrдgt.\n \nNach fast 40-jдhriger Nutzung des G3 wurde im Dezember 1997 die Ablцsung durch das neue G36 beschlossen. Im Zuge der Umrьstung wird ein GroЯteil der Waffen, zumeist дltere Jahrgдnge, seit 2002 vernichtet, um eine ungewollte Verbreitung in Krisenregionen durch nicht mehr nachvollziehbare Folgeverkдufe zu verhindern. Trotzdem befinden sich in den Depots der Bundeswehr auch weiterhin mehrere hunderttausend G3-Gewehre fьr den Fall der Landesverteidigung, die auch weiterhin gewartet werden, zum Beispiel durch das Nachrьsten des oben genannten Hьlsenabweisers. AuЯerdem sind auch in den Waffenkammern vieler Bundeswehreinheiten immer noch G3-Gewehre vorhanden und einsatzbereit.\nBenцtigt 7.62x51mm M61 und M59 Munition.</text>
+		</string>
+		<string id="st_wpn_m16">
+			<text>Colt M16</text>
+		</string>
+		<string id="st_wpn_m16_descr">
+			<text>Das M16-Gewehr, Bezeichnung des US-Department of Defense (DOD) RIFLE 5.56-MM, M16, wurde 1967 als Ordonnanzwaffe der US-Streitkrдfte eingefьhrt, wo es bis heute in weiter verbesserten Versionen im Einsatz ist.\n \nMit dem von Eugene Stoner und der Firma ArmaLite entwickelten Modell AR-15 wurde den Anforderungen der US-Streitkrдfte an eine neue Art der individuellen Bewaffnung des Soldaten Rechnung getragen. Als Konsequenz aus dem Zweiten Weltkrieg, dem Koreakrieg sowie aus einem entsprechenden Forschungsprogramm (SALVO) kam man zu der Auffassung, dass eine hohe Kadenz (Feuergeschwindigkeit) und groЯer Munitionsvorrat fьr den Soldaten wichtiger seien als Prдzision und Reichweite. Die Infanteriebewaffnung der Zukunft sollte ein Format zwischen Gewehr und Maschinenpistole sein, ohne dabei wesentlich an Waffenwirkung einzubьЯen. Дhnliche Ьberlegungen hatten auf deutscher Seite bereits im Zweiten Weltkrieg zur Entwicklung einer Mittelpatrone und des Sturmgewehrs 44 gefьhrt.\n \nAls die US-Regierung 1957 die Firma ArmaLite mit der Entwicklung einer Reihe von Testmodellen beauftragte, griff diese auf das bereits 1955 von Eugene Stoner entwickelte AR-10 im Kaliber 7,62 ? 51 mm NATO zurьck. Als Ergebnis konnte 1958 das Modell AR-15 im Kaliber .223 Remington (5,56 ? 45 mm NATO) zu Erprobungszwecken an die United States Army geliefert werden. Das Waffengehдuse besteht aus einer Leichtmetalllegierung und der gerade Schaft aus Kunststoff. Mangels eines erhofften GroЯauftrages musste die Firma ArmaLite die Rechte an die Firma Colt weiterverkaufen. Diese nahm weitere Testserien und Verbesserungen vor. Im Sommer 1961, nach erfolgreicher Truppenerprobung, wurde das erste Kontingent von 8.500 Sturmgewehren von der US Air Force angeschafft, die es als M16 in Dienst stellte. Ende 1964 folgte ein weiteres von etwa 85.000 AR-15 fьr die US Army sowie weitere 19.000 Stьck fьr die US Air Force. Bis 1966 befanden sich etwa 350.000 Waffen bei amerikanischen Streitkrдften. Bei der US Army erhielt die Waffe die vorlдufige Bezeichnung XM16E1 und unterschied sich von der USAF-Version M16 durch die rechts am Gehдuse befindliche SchlieЯhilfe (Bolt Forward Assist) und die dafьr erforderliche Zahnreihe am Verschlusstrдger. Die SchlieЯhilfe war eine Forderung der Army; diese verlangte, eine Mцglichkeit zu schaffen, den Verschluss zwangsweise zu schlieЯen, wenn er dies nicht unter Druck der SchlieЯfeder selbsttдtig tat.\n\nTrotz der anfдnglich erfolgreichen Tests bestand das neuartige Waffenkonzept die erste Praxisprьfung nicht. Da es Probleme beim Nachschub und mit den geforderten Spezifikationen fьr die 5,56 ? 45-mm-Munition gab, wurde die Zusammensetzung des Treibladungspulvers geдndert, ohne die daraus resultierenden Abweichungen genau zu testen. Das neue Pulver fьhrte zu einer hцheren Schussfolge und dadurch zu einer hцheren Materialbelastung. AuЯerdem verschmutzte die Waffe stдrker. Anders als beim M14 waren beim M16 Patronenlager und Lauf nicht verchromt, wodurch die Waffe anfдlliger fьr Korrosion wurde. Reinigungszubehцr war zunдchst nicht vorhanden, also wurde den Soldaten erzдhlt, das M16 sei eine selbstreinigende Waffe. Dreck und Schmauchspuren im Waffenmechanismus fьhrten jedoch hдufig zu teilweise irreparablen Ladehemmungen, was in Gefechtssituationen schwere Nachteile brachte. Es gab mehrfach Berichte ьber Soldaten, die getцtet wurden, da sie ihr M16 wegen durch Verschmutzung verursachter Ladehemmung im Feld zum Reinigen zerlegen mussten, was schlieЯlich eine Untersuchung der Vorfдlle durch den Kongress nach sich zog.\nBenцtigt 5.56x45mm SS109 und M995 Munition.</text>
+		</string>
+		<string id="st_wpn_kedr">
+			<text>PP-91 Kedr</text>
+		</string>
+		<string id="st_wpn_kedr_descr">
+			<text>Die Russsiche 9mm Maschinene Pistole wurde ursprьnglich von Evgenij Dragunov, der auch das Legendдre Dragunov SWD Scharfschьtzengewehr entwickelt hat, in den frьhene 70er'n hergestellt. . Kedr wird von wenigen Russichen Polizisten und Sicherheits Leute sowie Personenschьtzer benutzt. Es die Liebling's Waffe der Banditen in der Zone. Benцtigt 9x18mm 57-N-181S and RG028 Munition.</text>
+		</string>
+		<string id="st_wpn_vz61">
+			<text>Skorpion vz. 82</text>
+		</string>
+		<string id="st_wpn_vz61_descr">
+			<text>Bei der Skorpion-Maschinenpistole (tschechische Schreibweise: Skorpion) handelt es sich um eine Klein-Maschinenpistole, die mit den Modellbezeichnungen vz. 61, 64, 65 und 68 hergestellt wurde. vz. steht dabei fьr vzor, auf deutsch Entwurfsmuster oder Modell. Sie wurde in der CSSR von Ceska zbrojovka in Uhersky Brod ab 1963 gefertigt und an Polizei sowie Streitkrдfte ausgeliefert. In geringem Umfang wurde die Waffe auch an Lдnder des Warschauer Pakts und Afrika geliefert. In Jugoslawien wurde das Erstmodell unter der Bezeichnung Klein-MPi Modell 61 in Lizenz produziert.\n\nMaschinenpistolen dieser Modellreihe sind aufschieЯende RьckstoЯlader mit feststehendem Lauf und unverriegeltem Masseverschluss. Um die Schusskadenz herabzusetzen, wird der Verschluss am Ende des Rьcklaufes durch einen von ihm betдtigten Verzцgerungsmechanismus kurzzeitig zurьckgehalten. Die Munition im Kaliber 7,65 wurde ursprьnglich aus leicht gebogenen Kurvenmagazinen zugefьhrt. Bei Varianten fьr 9-mm-Munition wurden Stangenmagazine verwendet. Der Magazinschacht befindet sich vor dem Abzugsbьgel. Linksseitig – ьber dem Griffstьck – befindet sich der Kombinationsschalter, mit dem die Waffe gesichert und entsichert wird und an dem zwischen Einzel- und Dauerfeuer umgeschaltet werden kann. Mit dem Verschlussknopf an beiden Seiten des Gehдuses wird die Waffe gespannt. Die fьr die unterschiedlichen Patronentypen eingerichteten Modelle unterscheiden sich in ihren Leistungsparametern und einigen konstruktiven Merkmalen.\nDie Waffen wurden wegen ihres geringen Gewichts und der kompakten Bauweise in den 1970er- und 1980er-Jahren in kriminellen Kreisen geschдtzt und galten dort als Statussymbol.\nDie Skorpion verschieЯt folgende Munition:\nModell 61: 7,65 ? 17 mm HR Browning\nModell 64: 9 ? 17 mm Browning\nModell 65: 9 ? 18 mm Makarow\nModell 68: 9 mm Parabellum\n\nDaraus resultieren unterschiedliche Leistungskennwerte bei Mьndungsgeschwindigkeit, Mьndungsenergie, theoretischer Feuergeschwindigkeit und der Masse im geladenen oder ungeladenen Zustand. Fьr das Modell 68 steht neben den Magazinen mit 10 oder 20 Schuss Kapazitдt auch ein Magazin fьr 30 Patronen zur Verfьgung. Beim SchieЯen im Einzelfeuermodus wird die Waffe wie eine Selbstladepistole gehandhabt. Dauerfeuer wird mit abgeklappter Schulterstьtze oder angesetzten Holzkolben geschossen. Im Griffstьck befindet sich ein Verzцgerer, der den RьckstoЯ dдmpft und die Waffe stabilisiert. Hierdurch erhцht sich die Treffgenauigkeit bei kurzen FeuerstцЯen. Da sich somit die Feuergeschwindigkeit verringert, bleibt der Munitionsverbrauch im vertretbaren Rahmen.[2] Durch unterschiedlich starke Druckfedern im Verzцgerungsmechanismus (hinter der groЯen Schraube in der Griffschale unten) lдsst sich die Feuergeschwindigkeit in gewissen Grenzen variieren. Eine hдrtere Feder ergibt eine niedrigere, eine weichere Feder dagegen eine hцhere Feuergeschwindigkeit.\n\nDie Visiereinrichtung besteht aus festem Korn und Klappkimme, die sich auf 75 m und 150 m, beim Modell 68 sogar auf 250 m einstellen lдsst. Fьr Dunkelheit gibt es ein Zusatzvisier. Die Skorpion kann mit einem Schalldдmpfer ausgerьstet werden. Wird die Waffe als Selbstladepistole benutzt, betrдgt die gьnstigste Einsatzschussweite 50 m, als Maschinenpistole bis zu 250 m.\n\ne Skorpion lдsst sich ohne Werkzeug zerlegen. Nach dem Entfernen des Magazins, der Schulterstьtze und der beiden Knдufe zum Spannen des Verschlusses schwenkt das Gehдuse samt Lauf ьber einen Bolzen nach unten und der Verschluss kann herausgenommen werden. Unter den verschiedensten Bedingungen gilt die Maschinenpistole Skorpion als eine zuverlдssig funktionierende Waffe. Benцtigt 9x18mm 57-N-181S and RG028 Munition.</text>
+		</string>
+		<string id="st_wpn_pp2000">
+			<text>PP-2000</text>
+		</string>
+		<string id="st_wpn_pp2000_descr">
+			<text>Die PP-2000 (russisch ПП-2000) ist eine russische Maschinenpistole. Sie wurde im Konstruktionsbьro fьr Gerдtebau (KBP) in Tula entwickelt. Die 2001 patentierte Konstruktion wurde erstmals auf der Interpolytech-2004 in Moskau der Цffentlichkeit vorgestellt. Seit 2003 wird die PP-2000 in Serie produziert und ausgeliefert. Die PP-2000 wurde als Nahbereichsgefechtswaffe fьr russische Polizei- und Spezialeinsatzkrдfte und als Personal Defence Weapon fьr Nicht-Infanterieeinheiten entwickelt. Benцtigt 9x19mm 7N31 und m/39 Muniton.</text>
+		</string>
+		<string id="st_wpn_mp412">
+			<text>MP-412 Revolver</text>
+		</string>
+		<string id="st_wpn_mp412_descr">
+			<text>Der MP-412 Revolver wurde von dem Entwickler IZHMECH entworfen, einer groЯen Fabrik, die unter anderem als Hauptentwickler von Makarov PM Pistolen bekannt ist. Fьr den Export wurde der Zusatz "REX" angehдngt (Revolver fьr EXport). Der Revolver wurde ging nie vollstдndig in die Poroduktion. Das Interresse am Markt war sehr gering. Da der Pistolenbesitz im Allgemeinen fьr die Zivile Bevцlkerung in Russland verboten ist, wurden mehrere Kopien dieser Waffe in die Zone geschmuggelt. Benцtigt 11.43x23mm .45 ACP und .45 HydraShok.</text>
+		</string>
+		<string id="st_wpn_aek">
+			<text>Avtomat Koksharov AEK-971</text>
+		</string>
+		<string id="st_wpn_aek_descr">
+			<text>Das AEK-971 (Awtomat Eksperimentalny Kokscharowa) ist ein sowjetisches Sturmgewehr im Kaliber 5.45?39 mm. Es wurde in der Kowrower Waffenfabrik „W. A. Degtjarjow“ entwickelt und produziert, um den von der sowjetischen Regierung im Rahmen des Projekts Abakan gestellten Ansprьchen zu genьgen; wobei besonders eine hohe Feuerrate und stabiles Trefferbild auch bei instabiler Position betont worden waren.\n\nDas Gewehr wurde von Stanislaw Iwanowitsch Kokscharow in den spдten 1980er-Jahren entworfen. Obwohl es die im Rahmen des Projekts Abakan gestellten Anforderungen nicht erfьllte, wurde mit der Entwicklung und Produktion fortgefahren, in der Hoffnung, Kдufer zu finden.In den frьhen 2000er-Jahren beschaffte das MWD einige AEK-971 im Kaliber 5.45 x39mm, doch die Produktion wurde im Jahr 2006 eingestellt. Benцtigt  5.45x39mm 7N6 und 7N22 Munition.</text>
+		</string>
+		<string id="st_wpn_remington870">
+			<text>Remington 870</text>
+		</string>
+		<string id="st_wpn_remington870_descr">
+			<text>Die Remington 870 ist eine Vorderschaftrepetierflinte des US-amerikanischen Waffenherstellers Remington Arms. Es handelt sich um eine weit verbreitete Waffe, die, besonders in den USA, zum SportschieЯen, Jagen und zur Selbstverteidigung verwendet wird.\n \nDas Remington 870 stellt das vierte Hauptdesign in der Entwicklungsreihe der Remington Vorderschaftrepetierflinten dar. Das Wingmaster genannte Ursprungsmodell wurde 1949 als Ersatz fьr die Remington Model 31 entwickelt. Das Remington 31 war recht beliebt, verkaufte sich jedoch deutlich schlechter als das Winchester Model 1912. Dies wollte Remington durch die Einfьhrung einer modernen, stromlinienfцrmigen, robusten, zuverlдssigen und relativ gьnstigen Vorderschaftrepetierflinte дndern. Die Remington 870 stellt eine Adaption des Remington Model 11-48 dar, was wiederum eine Adaption des von John Browning gemachten Remington 11 ist.\n \n1966 wurde sie beim United States Marine Corps als Ersatz fьr die veralteten Flinten aus dem Zweiten Weltkrieg eingefьhrt. Obwohl sowohl bei den Marines als auch bei der US-Luftwaffe als Basisverteidigungswaffe in groЯen Zahlen genutzt, wurden die meisten Modelle an Sportschьtzen und Jдger verkauft. Aber auch Polizei und FBI setzen die Remington in groЯem Umfang ein. Die Verkaufszahlen des Remington 870 sind stabil. Bis 1973 wurde die Waffe bereits 2 Millionen Mal verkauft, 1996 wurde das 7-millionste Exemplar gefertigt. Am 13. April 2009 wurde das 10-millionste Exemplar hergestellt, womit das 870 die meistverkaufte Vorderschaftrepetierflinte der Geschichte ist. Benцtigt 12x70mm Gewehr-, Schrot- oder Spitzgeschoss Munition.</text>
+		</string>
+		<string id="st_wpn_saiga12k">
+			<text>Saiga 12</text>
+		</string>
+		<string id="st_wpn_saiga12k_descr">
+			<text>Die Saiga-12 ist eine russische Selbstladeflinte. Die Saiga-12 ist ein Gasdrucklader mit langem Gaskolben und Drehkopfverschluss, sie basiert auf dem Mechanismus des Kalaschnikow-Waffensystems. Der Verschluss wurde an die sehr viel voluminцsere Flintenmunition angepasst. Zusдtzlich wurde ein Druckregler eingebaut, um die Waffe an unterschiedliche Munitionssorten anpassen zu kцnnen. Patronen mit Flintenlaufgeschossen erzeugen einen hцheren Druck als Schrotmunition. Dies muss berьcksichtigt werden, um eine zuverlдssige Funktion des Lademechanismus zu gewдhrleisten. Das Abzugsgewicht betrдgt etwa 1,5–3,7 kg.\nBenцtigt 12x70mm Schrot-Munition.</text>
+		</string>
+		<string id="st_wpn_ks23">
+			<text>KS-23 Riot Shotgun</text>
+		</string>
+		<string id="st_wpn_ks23_descr">
+			<text>Die KS-23 wurde in den 1970er Jahren fьr die Unterdrьckung von Gefдngnisaufstдnden konzipiert. Es wurde von TsNII-Tochmash, einem der wichtigsten russischen Waffenentwickler, fьr das russische Innenministerium (MVD) Hergestellt. Uses 23x75mm Barricade und Schrapnel-10 Munition.</text>
+		</string>
+	</string_table>

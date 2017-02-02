@@ -1,0 +1,171 @@
+<!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;	 ,,,,,      ,,,,,,,    ,,,,,,_  ,,,,,,,,  ,,,,,,;       MMMMM1     M0MMMM&    MMMMM@'  MMMMMM0"  MMMM0!;       4MMMM#      ^MMMMMr   MMMMMf    #MMMM&    B0';      &]MMMMMc      #MMMM# ] MMMMMf    #MMMM&   j#;      M 0MMMM&       MMMMML# MMMMMf    #MMMM&  pM&;     pY 4MMMMM     ] #MMMMM# MMMMMf    #MMMM& pMMMt;     M   MMMMMc    ]& MMMMMf MMMMMf    #MMMM&]MMMM0;    ]#   0MMMM&    ]M #MMMM  MMMMMf    #MMMM& MMMMM&;    QfjMMMMMMMM    ]M  MMMf  MMMMMf    #MMMM& 4MMMMM;   _M    "MMMMMf   ]M  BMM   MMMMMf    #MMMM&  MMMMM&;  _Q#     MMMMM&   jMg  M8  _MMMMMf    BMMMM&  jMMMMM,; 4MMMM   #MMMMMM# 0MMM& B  ]MMMMMMM&  0MMMMMM&]MMMMMMMt;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; -->
+<string id="af_buliz">
+	<text>"Pflasterstein"</text>
+</string>
+<string id="enc_zone_artifact_buliz">
+	<text>%c[255,1,255,255]Volumen:%c[255,1,255,1]1.5 Einheiten%c[default]\n \nEin Artefakt, welches durch den Energie-Kollaps alle seine Fähigkeiten verloren hat, nennt man "Pflasterstein". Diese Artefakte sind trotzdem für die Wissenschaft wertvoll, da sie noch Licht ausstrahlen und Anti-Schwerkraft-Effekte zeigen. Darum zahlen die Gelehrten gutes Geld dafür.</text>
+</string>
+<string id="af_spirit_1">
+	<text>"Tropfen der Seele"</text>
+</string>
+<string id="enc_zone_artifact_spirit_1">
+	<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten%c[default]\n \nModifikation hat ausgezeichnete Werte der Gesundheit-Regeneration und der Verringerung der Strahlungsdosis. Die Ausdauer des Menschen leidet ein wenig.</text>
+</string>
+<string id="af_spirit_2">
+	<text>"Seele des Feuers"</text>
+</string>
+<string id="enc_zone_artifact_spirit_2">
+	<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten%c[default]\n \nDiese Mesomodifikation hat die selben Werte der Gesundheitsregeneration wie auch "Tropfen der Seele", führt die Strahlung aber doppelt so schnell aus dem Körper ab. Die Ausdauer des Besitzer leidet dabei ein wenig.</text>
+</string>
+<string id="af_spirit_3">
+	<text>"Kristall-Seele"</text>
+</string>
+<string id="enc_zone_artifact_spirit_3">
+	<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten%c[default]\n \nFührt die Strahlung aus dem Körper sehr schnell ab, behält dabei die selben Werte der Gesundheitsregeneration. Die Verringerung der Ausdauer ist aber höher.</text>
+</string>
+<string id="af_spirit_4">
+	<text>"Bengals Kristall-Seele"</text>
+</string>
+<string id="enc_zone_artifact_spirit_4">
+	<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten%c[default]\n \nDieses Absolut führt ausgezeichnet die Strahlung aus dem Körper ab, verbessert die Gesundheit und ein wenig auch die Ausdauer. Wird auf dem Markt sehr geschätzt, sowie in der Zone als auch außerhalb.</text>
+</string>
+<string id="af_cry_1">
+	<text>"Elektras Tränen"</text>
+</string>
+<string id="enc_zone_artifact_cry_1">
+	<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten%c[default]\n \nDiese Modifikation führt die radioaktive Elemente aus dem menschlichen Körper ab, und wirkt ein wenig gegen die Müdigkeit.</text>
+</string>
+<string id="af_cry_2">
+	<text>"Tränen des Feuers"</text>
+</string>
+<string id="enc_zone_artifact_cry_2">
+	<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten%c[default]\n \n"Tränen des Feuers" führen gut die Strahlung aus dem Körper ab.</text>
+</string>
+<string id="af_cry_3">
+	<text>"Chimeras Tränen"</text>
+</string>
+<string id="enc_zone_artifact_cry_3">
+	<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten%c[default]\n \nDiese Hypermodifikation führt sehr gut die Strahlung ab, und blockiert, darüber hinaus, fast die Hälfte der PSI-Strahlung. Negativ ist jedoch, das dieses Artefakt das Wohlbefinden verschlechtert und die Wundheilung verzögert.</text>
+</string>
+<string id="af_babka_1">
+	<text>"Omas Perlen"</text>
+</string>
+<string id="enc_zone_artifact_babka_1">
+	<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten\n%c[255,1,255,255]Verstrahlung:%c[255,255,1,1] +5%c[default]\n \nDiese Modifikation verbessert die Ausdauer des Menschen und generiert ein temporales Kraftfeld, welches die Geschwindigkeit der aufprallenden Geschosse erheblich verringert und dadurch den Besitzer vor kritischen Treffern schützt. Ein wenig radioaktiv, verringert die Elektroschock-Resistenz.</text>
+</string>
+<string id="af_babka_2">
+	<text>"Ur-Omas Perlen"</text>
+</string>
+<string id="enc_zone_artifact_babka_2">
+	<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten\n%c[255,1,255,255]Verstrahlung:%c[255,255,1,1] +7%c[default]\n \n"Ur-Omas Perlen" haben ein wenig schlechtere Werte der Kugelsicherheit als "Omas Perlen", weil das temporale Feld schwächer ist. Haben aber dafür die Fähigkeit sehr schnell Blutungen zu stoppen und die Gesundheitsregeneration des Besitzers zu beschleunigen. Man sollte aber nicht vergessen, das die Modifikation radioaktiv ist.</text>
+</string>
+<string id="af_babka_3">
+	<text>"Bürers Oma Perlen"</text>
+</string>
+<string id="enc_zone_artifact_babka_3">
+	<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten\n%c[255,1,255,255]Verstrahlung:%c[255,255,1,1] +10%c[default]\n \nTemporales Feld dieser Hypermodifikation ist sehr stark und hat ein grosses Durchmesser. Der Besitzer hat dadurch, sogar beim schweren Beschuss, hohe Chancen am Leben zu bleiben. Stoppt die Blutung fast augenblicklich und verbessert insgesamt die Gesundheit. Ist aber merklich radioaktiv.</text>
+</string>
+<string id="af_pudd_1">
+	<text>"Feuermuschel"</text>
+</string>
+<string id="enc_zone_artifact_pudd_1">
+	<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten\n%c[255,1,255,255]Verstrahlung:%c[255,255,1,1] +5%c[default]\n \nDiese Modifikation neutralisiert gut die hohen Temperaturen und erhöht die Ausdauer. Der Besitzer wird aber für die Auswirkungen der Anomalie "Elektra" empfindlicher. Ein wenig radioaktiv.</text>
+</string>
+<string id="af_pudd_2">
+	<text>"Helle Muschel"</text>
+</string>
+<string id="enc_zone_artifact_pudd_2">
+	<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten\n%c[255,1,255,255]Verstrahlung:%c[255,255,1,1] +5%c[default]\n \nWeitere Evolutionsstufe der "Feuermuschel", die "Helle Muschel", verbessert noch mehr die Feuer-Resistenz. Die Ausdauer des Besitzer wird nicht so gut verbessert, wie bei "Feuermuschel" und die Empfindlichkeit für Stromschläge wird höher. Ein wenig radioaktiv.</text>
+</string>
+<string id="af_pudd_3">
+	<text>"Mondmuschel"</text>
+</string>
+<string id="enc_zone_artifact_pudd_3">
+	<text>%c[255,1,255,255]Volumen:%c[255,1,255,1]1.5 Einheiten\n%c[255,1,255,255]Verstrahlung:%c[255,255,1,1] +10%c[default]\n \nDie Modifikation neutralisiert sehr gut die hohen Temperaturen, erhöht ein wenig die Ausdauer, verschlechtert aber die Elektroschock-Resistenz spürbar. Radioaktiv.</text>
+</string>
+<string id="af_pudd_4">
+	<text>"Pudding"</text>
+</string>
+<string id="enc_zone_artifact_pudd_4">
+	<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten\n%c[255,1,255,255]Verstrahlung:%c[255,255,1,1] +10%c[default]\n \nDieses Absolut hat hohe Werte der Feuerfestigkeit und Elektroschock-Resistenz. Die Ausdauer des Besitzers leidet dabei aber spürbar. Radioaktiv.</text>
+</string>
+<string id="af_dik_1">
+	<text>"Stachelschwein"</text>
+</string>
+<string id="enc_zone_artifact_dik_1">
+	<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten%c[default]\n \nStachelschwein hat eine sehr starke Fähigkeit die Strahlung zu blockieren! Das ist auch die einzige positive Eigenschaft, weil die Modifikation die Ausdauer verringert. Was aber, für die Möglichkeit sich in stark verstrahlten Gebieten aufhalten zu können, ein akzeptabler Preis ist.</text>
+</string>
+<string id="af_dik_2">
+	<text>"Elektrisches Stachelschwein"</text>
+</string>
+<string id="enc_zone_artifact_dik_2">
+	<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten%c[default]\n \nDie Modifikation hat außergewöhnliche Werte für die Strahlungs-Blockade, hilft gegen die Müdigkeit, erhöht leider die Elektroschock-Empfindlichkeit.</text>
+</string>
+<string id="af_dik_3">
+	<text>"Verschnupftes Stachelschwein"</text>
+</string>
+<string id="enc_zone_artifact_dik_3">
+	<text>%c[255,1,255,255]Volumen:%c[255,1,255,1]1.5 Einheiten%c[default]\n \nDiese Hypermodifikation hat sehr hohe Werte für die Strahlungs-Blockade. Stoppt dabei effektiv die Blutungen und erhöht die Ausdauer. Die negativen Seiten sind die erhöhte Empfindlichkeit für Elektroschock und die ständige Schleimabsonderung. Diese Substanz ist harmlos, aber sehr unangenehm. Trotz unapetittlichen Aussehens, wird diese Hypermodifikation in der Zone sehr geschätzt.</text>
+</string>
+<string id="af_dik_4">
+	<text>"Versteinertes Stachelschwein"</text>
+</string>
+<string id="enc_zone_artifact_dik_4">
+	<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten%c[default]\n \nDieses Absolut verringert die Strahlungsdosis um die Hälfte! Außerdem hilft "Versteinertes Stachelschwein" gegen Elektroschock, stoppt effektiv die Blutung und erhöht die Ausdauer. Wird nicht nur von Wissenschaftlern, sondern auch bei Stalkern sehr geschätzt.</text>
+</string>
+<string id="af_kol_1">
+	<text>"Eisen-Kloß"</text>
+</string>
+<string id="enc_zone_artifact_kol_1">
+	<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten\n%c[255,1,255,255]Verstrahlung:%c[255,255,1,1] +5%c[default]\n \nDiese Modifikation hat eine interessante Eigenschaft - sie generiert um den Besitzer ein spezielles Feld, welches die Kugeln von ihrer Laufbahn abbringt. Zwar nicht alle, aber das ist trotzdem einzigartig und von Wissenschaft noch nicht erforscht. Auch der Wiederstand der Haut gegen Reißwunden steigt beim Tragenden. Ist leider radioaktiv.</text>
+</string>
+<string id="af_kol_2">
+	<text>"Titan-Kloß"</text>
+</string>
+<string id="enc_zone_artifact_kol_2">
+	<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten\n%c[255,1,255,255]Verstrahlung:%c[255,255,1,1] +15%c[default]\n \n"Titan-Kloß" verringert die Empfindlichkeit der Haut für Reißwunden und Verbrennungen, sowie schützt durch ein erzeugtes Schutzfeld vor manchen Kugeltreffern. Leider radioaktiv.</text>
+</string>
+<string id="af_kol_3">
+	<text>"Diamant-Kloß"</text>
+</string>
+<string id="enc_zone_artifact_kol_3">
+	<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten\n%c[255,1,255,255]Verstrahlung:%c[255,255,1,1] +10%c[default]\n \nDie Hypermodifikation schützt die menschliche Haut gegen Reißwunden, Verbrennungen und chemischen Verätzung. Erzeugt ein "kugelschützendes" Feld. Ist sehr nützlich, aber leider auch radioaktiv.</text>
+</string>
+<string id="af_kol_4">
+	<text>"Pseudoriesen kleiner Bruder"</text>
+</string>
+<string id="enc_zone_artifact_kol_4">
+	<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten\n%c[default]\n \nDieses Absolut stoppt durch sein Schutzfeld eine erhebliche Zahl der auf den Besitzer abgeschossener Projektile. Schützt die menschliche Haut gegen Reißwunden, Verbrennungen und chemischen Verätzung. Ein nützlicher Bonus des "Pseudoriesen kleinen Bruders" ist eine gute Abführung der Strahlung aus dem Körper. Leider wird Metabolismus des Trägers um ein vielfaches beschleunigt, so das man ständig Hunger hat.</text>
+</string>
+<string id="af_armor_1">
+	<text>"Lederhaut"</text>
+</string>
+<string id="enc_zone_artifact_armor_1">
+	<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten\n%c[255,1,255,255]Verstrahlung:%c[255,255,1,1] +5%c[default]\n \nDie Modifikation veringert den Schaden durch chemisch aktive Substanzen und erhöht ein wenig Wiederstand gegen Schusswunden. Radioaktiv.</text>
+</string>
+<string id="af_armor_2">
+	<text>"Schlangenhaut"</text>
+</string>
+<string id="enc_zone_artifact_armor_2">
+	<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten\n%c[255,1,255,255]Verstrahlung:%c[255,255,1,1] +5%c[default]\n \nMesomodifikation "Schlangenhaut" veringert den Schaden durch chemisch aktive Substanzen und erhöht Wiederstand der Haut gegen Schusswunden. Verbessert die Gesundheit-Regeneration. Dafür ist Schlangenhaut radioaktiv und verstärkt die Blutung der Wunden.</text>
+</string>
+<string id="af_armor_3">
+	<text>"Panzerhaut"</text>
+</string>
+<string id="enc_zone_artifact_armor_3">
+	<text>%c[255,1,255,255]Volumen:%c[255,1,255,1]1.5 Einheiten\n%c[255,1,255,255]Verstrahlung:%c[255,255,1,1] +10%c[default]\n \n"Panzerhaut" verringert die Blutungen bei Wunden, neutralisiert chemisch aktive Substanzen auf der Haut, erhöht die Schusswunden-Festigkeit und die allgemeine Gesundheit. Die einzige negative Eigenschaft - starke Radioaktivität.</text>
+</string>
+<string id="af_armor_4">
+	<text>"Skalp des Telepathen"</text>
+</string>
+<string id="enc_zone_artifact_armor_4">
+	<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten%c[default]\n \nDiese Modifikation der "Absolut"-Klasse schützt vor Verätzungen, verbessert die Gesundheit-Regeneration und schirmt sehr gut gegen PSI-Strahlung ab. Außerdem wird die Haut des Trägers, ohne die Elastizität zu verlieren, grober und dicker, dadurch auch nicht so empfindlich für Schussverletzungen. Allerdings wird Metabolismus des Trägers um ein vielfaches beschleunigt, so das man ständig Hunger hat.</text>
+</string>
+<string id="af_simbion">
+	<text>"Symbion"</text>
+</string>
+<string id="enc_zone_artifact_simbion">
+	<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten%c[default]\n \nEinzigartige Modifikation "Symbion" wird durch gleichzeitige Transmutation von vier Artefakten ind der Anomalie "Gallert": "Qualle", "Tropfen", "Steinblut" und "Dorn". Zum einem Ganzen konvertiert, schützen sie sehr gut gegen PSI-Strahlung. Dafür verstärkt "Symbion" die Blutungen, verringert die Ausdauer und Reißwunden-Resistenz. Zieht dem Träger die Energie ab, darum hat man bei Verwendung des Artefaktes sehr schnell Hunger.</text>
+</string>
+<!-- 19:06 17.06.2007 -->
+<-- Modified by Aero 13:22 25.04.2008 -->

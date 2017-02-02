@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+	<string_table>
+		<string id="dim_mod_name">
+			<text>\\Clear Sky: Return of Scar (German)//</text>
+		</string>
+		<string id="dim_mod_1">
+			<text>-Part 1-</text>
+		</string>
+		<string id="dim_autor">
+			<text>Autor der Geschichte</text>
+		</string>
+		<string id="dim_autor_2">
+			<text>Autor der Originalgeschichte und Biografie von Scar</text>
+		</string>
+		<string id="dim_real">
+			<text>Umsetzung der Handlung</text>
+		</string>
+		<string id="dim_dimak">
+			<text>Dimak</text>
+		</string>
+		<string id="dim_dimak_2">
+			<text>Avast</text>
+		</string>
+		<string id="dim_kvest">
+			<text>Grafiken</text>
+		</string>
+		<string id="dim_stvol">
+			<text>Arsenal Mod Ersteller</text>
+		</string>
+		<string id="dim_buusty">
+			<text>Buusty</text>
+		</string>
+		<string id="dim_maraf">
+			<text>Marafonec</text>
+		</string>
+		<string id="dim_test">
+			<text>Geschichte der Handlung ьber "The Return Of The Mercenary Scar", der auch der  Protagonist in S. T. A. L. K. E. R - Clear Sky war:</text>
+		</string>
+		<string id="dim_history">
+			<text>Vor der Umsetzung der globalen Mod 'Narodnaya Soljanka' aus dem Jahr 2010. Gab es einen Vorschlag von Mitgliedern des Forums ьber eine Geschichte die ьber die Rьckkehr des Protagonisten Scar in Clear Sky. Weil das Ende von CS nicht genau sagte was mit den Hauptfiguren nun passierte. Wurde er bei einer Emission getцtet oder vielleicht nicht? So entschied ich mich, ihn in einem weiteren Abenteuer zurьckzubringen. Die Haupt Handlung ist von "Narodnaya Soljanka" entnommen. Jetzt haben wir eine Reinkarnation von Scar mit einer neuen Geschichte.</text>
+		</string>
+		<string id="dim_history2">
+			<text>Am Anfang wurde ein Teil der Map fьr "Narodnaya Soljanka" verwendet, spдter wurde es durch Orte von Kostya 'B' ersetzt. Diese Mod hat viele der Dateien, Modelle, Skripts, Icons, etc. von der ursprьnglichen "Narodnaya Soljanka", eine interessante Mod von Arhara Ko. Fьr besondere Atmosphдre in der Zone kombinierten wir zwei der besten Mods: AMK 1.4.1 und ABC (Inferno 1.1) LW, Cabrobro.</text>
+		</string>
+		<string id="dim_history3">
+			<text>Sehr viele Mods sind seit "Narodnaya Soljanka" Erschienen: OGSE, NA TT2, NLC6, Simbion, ARS, ABC XYZ, Sigerous Mod 'CS', Arsenal Mod, Oblivion Lost, STCO system, Linspiro Addon, LURK, Healing Enemies v0.3 (Treatment enemies), ColClerk V 0.5.5., und Priboi Story welches Teile von der "Build 2571" verwendet. </text>
+		</string>
+		<string id="dim_blag">
+			<text>Besonderer Dank an:</text>
+		</string>
+		<string id="dim_stal">
+			<text>Company GSC Game World - fьr die Reihe, S.T.A.L.K.E.R, ohne dieses wьrde es nicht diese Mod sowie andere interessante Mods und Add-ons geben. Die Rechte von S.T.A.L.K.E.R befinden sich im Besitz der Gesellschaft sowie in S. Grigorowitsch.</text>
+		</string>
+		<string id="dim_amk">
+			<text>Team AMK - fьr die mit beste Mod, der von vielen Moddern als Basis fьr andere Mods und Addons genutzt wird.</text>
+		</string>
+		<string id="dim_amk1">
+			<text>_And_</text>
+		</string>
+		<string id="dim_amk2">
+			<text>Metatron</text>
+		</string>
+		<string id="dim_amk3">
+			<text>Kallagen</text>
+		</string>
+		<string id="dim_amk4">
+			<text>Mad_Vad</text>
+		</string>
+		<string id="dim_amk5">
+			<text>Nova</text>
+		</string>
+		<string id="dim_amk6">
+			<text>Potap</text>
+		</string>
+		<string id="dim_amk7">
+			<text>Edwin</text>
+		</string>
+		<string id="dim_amk8">
+			<text>Stalker_Zip</text>
+		</string>
+		<string id="dim_amk9">
+			<text>Yaltinets</text>
+		</string>
+		<string id="dim_amk10">
+			<text>Evening Corkscrew</text>
+		</string>
+		<string id="dim_amk11">
+			<text>Terrapack</text>
+		</string>
+		<string id="dim_amk12">
+			<text>Manul</text>
+		</string>
+		<string id="dim_amk13">
+			<text>Deep</text>
+		</string>
+		<string id="dim_amk14">
+			<text>Tambovsky</text>
+		</string>
+		<string id="dim_amk15">
+			<text>Lost Stranger</text>
+		</string>
+		<string id="dim_amk16">
+			<text>n-ice</text>
+		</string>
+		<string id="dim_amk17">
+			<text>Red75</text>
+		</string>
+		<string id="dim_amk18">
+			<text>Sergey81</text>
+		</string>
+		<string id="dim_amk19">
+			<text>wtcat</text>
+		</string>
+		<string id="dim_amk20">
+			<text>sokol_jack</text>
+		</string>
+		<string id="dim_amk21">
+			<text>Domestos</text>
+		</string>
+		<string id="dim_amk22">
+			<text>S.Desore</text>
+		</string>
+		<string id="dim_amk23">
+			<text>Refresh</text>
+		</string>
+		<string id="dim_amk24">
+			<text>Aero</text>
+		</string>
+		<string id="dim_amk25">
+			<text>Fьr die Entwickliung von intelligenten NPC</text>
+		</string>
+		<string id="dim_amk26">
+			<text>xStream</text>
+		</string>
+		<string id="dim_sol">
+			<text>Die Schцpfer der globalen Mod "Narodnaya Soljanka", und diejenigen, die mit an dieser Mod mit gearbeitet haben, die es dabei umso interessanter machten, wдhrend dem Bug Fixing von Fehlern und Mдngel.</text>
+		</string>
+		<string id="dim_sol1">
+			<text>Wawka</text>
+		</string>
+		<string id="dim_sol2">
+			<text>Arhara</text>
+		</string>
+		<string id="dim_sol3">
+			<text>Adrenalin</text>
+		</string>
+		<string id="dim_sol4">
+			<text>Shadowman</text>
+		</string>
+		<string id="dim_sol5">
+			<text>Sapsan</text>
+		</string>
+		<string id="dim_sol6">
+			<text>Stalker? (arrows)</text>
+		</string>
+		<string id="dim_sol7">
+			<text>Monnoroch</text>
+		</string>
+		<string id="dim_loc">
+			<text>Ersteller der neuen excellenten Orte, und diejenigen, die beim Aufbau der anderen Levels fьr das Spiel geholfen haben.</text>
+		</string>
+		<string id="dim_loc1">
+			<text>Kostya V and Ko.</text>
+		</string>
+		<string id="dim_model">
+			<text>Modellierer und NPC-Visuals, deren Arbeiten seperat von der Mod "Narodnaya Soljanka" verwendet wurden, wie Modelle von Frauen, GroЯmьttern sowie Modelle von Artefakten und Techniken.</text>
+		</string>
+		<string id="dim_model1">
+			<text>Aaz</text>
+		</string>
+		<string id="dim_model2">
+			<text>Artem_K</text>
+		</string>
+		<string id="dim_model3">
+			<text>Karavan</text>
+		</string>
+		<string id="dim_model4">
+			<text>D.Kruger</text>
+		</string>
+		<string id="dim_model5">
+			<text>Scarabay</text>
+		</string>
+		<string id="dim_model6">
+			<text>Habarych</text>
+		</string>
+		<string id="dim_model7">
+			<text>DanekStalker</text>
+		</string>
+		<string id="dim_models">
+			<text>Ersteller von neuen Waffen, sowie konvertierte Original-Modelle aus der primдren mod und das ьberarbeiten der Modelle damit die besser und realistischer aussehen.</text>
+		</string>
+		<string id="dim_models1">
+			<text>Real_Wolf (TT pistol, Unique Colt)</text>
+		</string>
+		<string id="dim_models2">
+			<text>'StreloK' and L@r1ng1t$ (APB)</text>
+		</string>
+		<string id="dim_models3">
+			<text>Cylz (Changes - OC-33 Mace)</text>
+		</string>
+		<string id="dim_models4">
+			<text>purke62 (B/B - Unique)</text>
+		</string>
+		<string id="dim_models5">
+			<text>PRO (PMm)</text>
+		</string>
+		<string id="dim_models6">
+			<text>Aaz (Mauser C-96)</text>
+		</string>
+		<string id="dim_models7">
+			<text>[PROTOTYPE] (Replacement o/models)</text>
+		</string>
+		<string id="dim_models8">
+			<text>Real_Wolf (Replacement o/models)</text>
+		</string>
+		<string id="dim_models9">
+			<text>D.Kruger (MP-40)</text>
+		</string>
+		<string id="dim_models10">
+			<text>CuRtiS_MX (AKMS)</text>
+		</string>
+		<string id="dim_models11">
+			<text>Alexandrovich (AKM-203)</text>
+		</string>
+		<string id="dim_models12">
+			<text>eXiu and Aahz (FN2000 'Navy')</text>
+		</string>
+		<string id="dim_models13">
+			<text>Alexandrovich (Steyr Aug 'Coulter')</text>
+		</string>
+		<string id="dim_models14">
+			<text>PRO (AKMC 'Huron')</text>
+		</string>
+		<string id="dim_models15">
+			<text>BJ Blazkowicz123 and PRO (STG-44 ARS/Mod)</text>
+		</string>
+		<string id="dim_models16">
+			<text>Ivatushnik (Machine Gun 'RMB')</text>
+		</string>
+		<string id="dim_models17">
+			<text>Deathdoor and KamikaZze (Minigun of OGSE 0.6.9.3)</text>
+		</string>
+		<string id="dim_models18">
+			<text>SanekEd ('IED' Replacing a/model)</text>
+		</string>
+		<string id="dim_models19">
+			<text>SanekEd (SVD 'Tiger' for Quest)</text>
+		</string>
+		<string id="dim_models20">
+			<text>Alexandrovich (Sawed-off shotgun Remington 870)</text>
+		</string>
+		<string id="dim_models21">
+			<text>SanekEd and Doctor (tuning) (n/SPAS-12 model)</text>
+		</string>
+		<string id="dim_models22">
+			<text>Aahz and PRO (Saiga 12K)</text>
+		</string>
+		<string id="dim_models23">
+			<text>eXiu (revision by Alexandrovich) (Saiga 'Tactics')</text>
+		</string>
+		<string id="dim_models24">
+			<text>Mongol, tuning by Aahz and 'StreloK' (Wild Boar 12)</text>
+		</string>
+		<string id="dim_models25">
+			<text>Alexandrovich (Remington 870 'Marine Magnum')</text>
+		</string>
+		<string id="dim_models26">
+			<text>eXiu (SPAS12 'Hunter' Unik)</text>
+		</string>
+		<string id="dim_models27">
+			<text>eXiu (revision Alexandrovich) (AA-12 'Camo')</text>
+		</string>
+		<string id="dim_models28">
+			<text>nafigator (N/model 'Battle of Winchester' Unique)</text>
+		</string>
+		<string id="dim_models29">
+			<text>[PROTOTYPE] (USAS-12)</text>
+		</string>
+		<string id="dim_models30">
+			<text>PSEUDO-S.T.A.L.K.E.R. (Toz34, Edge Tosa)</text>
+		</string>
+		<string id="dim_models31">
+			<text>PSEUDO-S.T.A.L.K.E.R. (BM16 rifle and spare, Winchester 1300)</text>
+		</string>
+		<string id="dim_hud">
+			<text>The mod used HUD Heroin_Zero (version 2), also adapted (version 1). As well as being the author of adapting Khudova's Seraphim-12, and the author of adaptation of Khudova.</text>
+		</string>
+		<string id="dim_hud1">
+			<text>Flickering</text>
+		</string>
+		<string id="dim_hud2">
+			<text>For the video clip with 'Shooter' and the BTR.</text>
+		</string>
+		<string id="dim_hud3">
+			<text>Rostock</text>
+		</string>
+		<string id="dim_hud4">
+			<text>Text Editieren</text>
+		</string>
+		<string id="dim_hud5">
+			<text>Semiconductor</text>
+		</string>
+		<string id="dim_hud6">
+			<text>Amba</text>
+		</string>
+		<string id="dim_hud7">
+			<text>Koshak</text>
+		</string>
+		<string id="dim_hud8">
+			<text>Die Stimme, fьr die Kopfschmerzen von Scar.</text>
+		</string>
+		<string id="dim_hud9">
+			<text>Julius</text>
+		</string>
+		<string id="dim_hud10">
+			<text>Fьr die Hilfe und Ideen.</text>
+		</string>
+		<string id="dim_hud11">
+			<text>ColR_iT</text>
+		</string>
+		<string id="dim_tvor">
+			<text>The mod has been used by masters:</text>
+		</string>
+		<string id="dim_tvor0">
+			<text>Monnoroch</text>
+		</string>
+		<string id="dim_tvor1">
+			<text>Master syak</text>
+		</string>
+		<string id="dim_tvor2">
+			<text>Dimorin</text>
+		</string>
+		<string id="dim_tvor3">
+			<text>Vergas</text>
+		</string>
+		<string id="dim_tvor4">
+			<text>Dan</text>
+		</string>
+		<string id="dim_tvor5">
+			<text>Antreg</text>
+		</string>
+		<string id="dim_tvor6">
+			<text>Dimos</text>
+		</string>
+		<string id="dim_tvor7">
+			<text>Singapur22</text>
+		</string>
+		<string id="dim_tvor8">
+			<text>Global Map</text>
+		</string>
+		<string id="dim_tvor9">
+			<text>Habarych (Salsola)</text>
+		</string>
+		<string id="dim_tvor10">
+			<text>Adjustment</text>
+		</string>
+		<string id="dim_tvor11">
+			<text>Marafonec</text>
+		</string>
+		<string id="dim_testt">
+			<text>Testing:</text>
+		</string>
+		<string id="dim_testt0">
+			<text>Julius</text>
+		</string>
+		<string id="dim_testt1">
+			<text>Kuzkinamat</text>
+		</string>
+		<string id="dim_testt2">
+			<text>Dryka</text>
+		</string>
+		<string id="dim_testt3">
+			<text>Flickering</text>
+		</string>
+		<string id="dim_testt4">
+			<text>Kostya Semen</text>
+		</string>
+		<string id="dim_testt5">
+			<text>Konstantin-69</text>
+		</string>
+		<string id="dim_testt6">
+			<text>Semiconductor</text>
+		</string>
+		<string id="dim_testt7">
+			<text>Zd68</text>
+		</string>
+		<string id="dim_testt8">
+			<text>utyyflbq</text>
+		</string>
+		<string id="dim_testt9">
+			<text>Eugene</text>
+		</string>
+		<string id="dim_testt10">
+			<text>tor62</text>
+		</string>
+		<string id="dim_testt11">
+			<text>Marafonec</text>
+		</string>
+		<string id="dim_idey">
+			<text>Fьr effektive Vorschlдge, Ideen und Hilfe bei der Entwicklung der Modification.</text>
+		</string>
+		<string id="dim_idey0">
+			<text>Dryka</text>
+		</string>
+		<string id="dim_idey1">
+			<text>tor62</text>
+		</string>
+		<string id="dim_idey2">
+			<text>vdv5549</text>
+		</string>
+		<string id="dim_idey3">
+			<text>avast</text>
+		</string>
+		<string id="dim_idey4">
+			<text>Buusty</text>
+		</string>
+		<string id="dim_idey5">
+			<text>Kalter</text>
+		</string>
+		<string id="dim_idey6">
+			<text>akva</text>
+		</string>
+		<string id="dim_mus">
+			<text>Musikalische Kompositionen:</text>
+		</string>
+		<string id="dim_mus1">
+			<text>Iron Maiden</text>
+		</string>
+		<string id="dim_mus2">
+			<text>T.Turunen (Nightwish)</text>
+		</string>
+		<string id="dim_mus3">
+			<text>Gaza</text>
+		</string>
+		<string id="dim_mus4">
+			<text>DJ_ANABIOS-METRO</text>
+		</string>
+		<string id="dim_mus5">
+			<text>Depeche Mode</text>
+		</string>
+		<string id="dim_mus6">
+			<text>Ruf des Monolith</text>
+		</string>
+		<string id="dim_mus7">
+			<text>Marianna Zakharova</text>
+		</string>
+		<string id="dim_for">
+			<text>Foren: (Ansprechpartner)</text>
+		</string>
+		<string id="dim_for1">
+			<text>Stalker-Portal.ru</text>
+		</string>
+		<string id="dim_for2">
+			<text>amk-team.ru</text>
+		</string>
+		<string id="dim_for3">
+			<text>games.cnews.ru (Combat Nation)</text>
+		</string>
+		<string id="dim_for4">
+			<text>ap-pro.ru (Fьr Videos)</text>
+		</string>
+		<string id="dim_izv">
+			<text>Many authors are not mentioned for reasons beyond my control. I can be contacted in the above forums.</text>
+		</string>
+		<string id="dim_izv1">
+			<text>I offer my</text>
+		</string>
+		<string id="dim_izv2">
+			<text>regret</text>
+		</string>
+		<string id="dim_izv3">
+			<text>dimak</text>
+		</string>
+	</string_table>

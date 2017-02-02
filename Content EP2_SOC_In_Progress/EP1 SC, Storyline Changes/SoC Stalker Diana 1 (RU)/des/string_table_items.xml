@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+	<string_table>
+		<string id="item test1">
+			<text>Dies ist ein Test-String fьr Gegenstдnde.</text>
+		</string>
+		<string id="item test2">
+			<text>Dies ist noch ein Test-String fьr Gegenstдnde.</text>
+		</string>
+		<string id="item_case_esc_desc">
+			<text>Feuerfeste Aktentasche mit Dokumenten.</text>
+		</string>
+		<string id="item_decoder_desc">
+			<text>Leistungsstarker elektronischer Dietrich. Schon seltsam, dass dies kein Allzweckinstrument von Dieben ist. Er scheint eher fьr eine bestimmte Art elektronisches Schloss entworfen zu sein und kann nicht ьberall eingesetzt werden.</text>
+		</string>
+		<string id="item_decoder_name">
+			<text>Dekoder</text>
+		</string>
+		<string id="item_detector_yantar_desc">
+			<text>Psi-Emissionsdetektor</text>
+		</string>
+		<string id="item_detector_yantar_name">
+			<text>PP-4a Sensor</text>
+		</string>
+		<string id="item_doc_x16_desc">
+			<text>Dokumentenakte. Man brдuchte einen Doktortitel in Biologie, um zu verstehen, was da drin steht.</text>
+		</string>
+		<string id="item_doc_x16_name">
+			<text>Labor-X16-Dokumente</text>
+		</string>
+		<string id="item_doc_x18_desc">
+			<text>Прыгнув в телепорт мы оказались на болоте, прошли несколько километров решили сделать привал...черт бы его побрал этот новый артефакт о котором сообщили наши с блок поста на кордоне, и где здесь среди этой жижи и монстров искать проводника?????? да еще этот ученый всю плешь проел своими умными речами о высших материях...на верху прекрасно знают что с зоной что-то нетак пропали прежние тропы, телепорты появляются и исчезают....похоже нас послали на верную погибель, но я офицер и должен выполнять приказ...видно новый арт того стоит ...мда.....черт... монстры- буду жив допишу.....в бой ребята...</text>
+		</string>
+		<string id="item_doc_x18p1_name">
+			<text>Labor-X18-Dokumente, Teil 1</text>
+		</string>
+		<string id="item_doc_x18p2_name">
+			<text>Labor-X18-Dokumente, Teil 2</text>
+		</string>
+		<string id="item_doc_x18p3_name">
+			<text>Labor-X18-Dokumente, Teil 3</text>
+		</string>
+		<string id="item_doc_x18p4_name">
+			<text>записка военного...</text>
+		</string>
+		<string id="item_doc_x18p5_name">
+			<text>Labor-X18-Dokumente, Teil 5</text>
+		</string>
+		<string id="item_docs_hiden_pri_desc">
+			<text>Abgegriffenes Manuskript mit Ledereinband. Von Strelok hцchstpersцnlich verfasst. Nach dem, was man den Ьberschriften entnehmen kann, kцnnten hier ein paar Geheimnisse der Zone erklдrt sein.</text>
+		</string>
+		<string id="item_docs_hiden_pri_name">
+			<text>Dokumente aus dem Versteck in Prypjat</text>
+		</string>
+		<string id="item_dynamite_esc_desc">
+			<text>Eine schwere Holzkiste mit dem Wort "Explosiv" in verschiedenen Sprachen.</text>
+		</string>
+		<string id="item_dynamite_esc_name">
+			<text>Sprengstoffkiste</text>
+		</string>
+		<string id="item_flash_crazy_mil_desc">
+			<text>Laufwerk - Bequeme Art, Informationen abzulegen und zu transportieren.</text>
+		</string>
+		<string id="item_flash_crazy_mil_name">
+			<text>Das Laufwerk des irren Stalkers</text>
+		</string>
+		<string id="item_flash_eco_rost_desc">
+			<text>Laufwerk - Bequeme Art, Informationen abzulegen und zu transportieren.</text>
+		</string>
+		<string id="item_flash_eco_rost_name">
+			<text>Professor Kruglows Laufwerk</text>
+		</string>
+		<string id="item_flash_esc_desc">
+			<text>Laufwerk - Bequeme Art, Informationen abzulegen und zu transportieren.</text>
+		</string>
+		<string id="item_flash_esc_name">
+			<text>Laufwerk des gefangenen Stalkers</text>
+		</string>
+		<string id="item_flash_gslinger_agro_desc">
+			<text>Laufwerk - Bequeme Art, Informationen abzulegen und zu transportieren.</text>
+		</string>
+		<string id="item_flash_gslinger_agro_name">
+			<text>Streloks Laufwerk</text>
+		</string>
+		<string id="item_key_x18_desc">
+			<text>Elektronischer Schlьssel zum Untergrundlabor X18.</text>
+		</string>
+		<string id="item_key_x18_name">
+			<text>Borows Schlьssel</text>
+		</string>
+		<string id="item_krot_flash">
+			<text>Maulwurfs Laufwerk</text>
+		</string>
+		<string id="item_PDA_lucky_desc">
+			<text>Ein Persцnlicher Digitaler Assistent. In der Zone einfach unerlдsslich.</text>
+		</string>
+		<string id="item_PDA_lucky_name">
+			<text>Glьckspilz' PDA</text>
+		</string>
+		<string id="item_PDA_tiran_desc">
+			<text>Ein Persцnlicher Digitaler Assistent. In der Zone einfach unerlдsslich.</text>
+		</string>
+		<string id="item_PDA_tiran_name">
+			<text>Tyrans PDA</text>
+		</string>
+		<string id="item_quest_case_02_desc">
+			<text>Eine feuerfeste Aktentasche mit Dokumenten.</text>
+		</string>
+		<string id="item_quest_case_02_name">
+			<text>Militдrdokumente</text>
+		</string>
+		<string id="item_case_esc_name">
+			<text>Dokumente vom AuЯenposten</text>
+		</string>
+		<string id="yan_bad_psy_helmet_desc">
+			<text>Prototyp, der von Wissenschaftlern entwickelt wurde, um Menschen vor PSI-Emissionen zu schьtzen. Nicht justiert.</text>
+		</string>
+		<string id="yan_bad_psy_helmet_name">
+			<text>PSI-Helm, nicht justiert</text>
+		</string>
+		<string id="yan_good_psy_helmet_desc">
+			<text>Funktionierender Prototyp, der von Wissenschaftlern entwickelt wurde, um Menschen vor PSI-Emissionen zu schьtzen.</text>
+		</string>
+		<string id="yan_good_psy_helmet_name">
+			<text>PSI-Helm, funktionsf.</text>
+		</string>
+	</string_table>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_repairkit">
+		<text>Repair kit</text>
+	</string>
+	<string id="st_repairkit_descr">
+		<text>A disposable repair kit. Contains gun oil and spare parts to maintain and repair a large variety of weapons. Also includes armor patching plates to mend armor-plated clothing.</text>
+	</string>
+</string_table>

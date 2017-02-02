@@ -1,0 +1,3332 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- TB3D 1.1.0.0.0.6 commented out mutant parts, changed Devil to Bes, 880 max to prapor, 1137 Tolia to Tolik, minor edits,
+several edits, moved bar_dolg_ivancov_start_41 and bar_dolg_petrenko_start_5 to stable_dialogs_bar, YURICK to Yurek, The Doctor,
+life heart 41-11, artmod_873_dialog_0, removed some hard returns, artmod_821, 841, 851, 661, 511, enc_artmod_medusa_galant_text,
+new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, removed '-' -->
+<!-- Stats rationalisation by GlowWormToo - 16 Jun 16-->
+<!-- Edited by Sword2012 up to Line 1012 (though translations still required) - 16 Jun 16 -->
+<!-- Names changed as commented below - Sword2012 - 31 Oct 16 -->
+<!-- Partial reworking of text - Sword2012 - 12 Dec 16-->
+<!-- 9 / 48 artefact descriptions from Lines 1942 to 2011 still to do - Sword2012 -->
+<!-- Dialogues from Lines 1013 to 1818, and 2012 to 3329 still to do - Sword2012 -->
+<string_table>
+	<string id="freedom_dinamit_0">
+		<text>Your guys on the Barrier say that you're looking for someone reliable...</text>
+	</string>
+	<string id="freedom_dinamit_1">
+		<text>My men have almost finished digging a tunnel to the Dark Valley, but to complete it we need a few sticks of dynamite. I saw some in the Cordon rookie camp recently. Can you get go and it for us? You'll be rewarded...</text>
+	</string>
+	<string id="freedom_dinamit_2">
+		<text>Okay, I'll have a look around when I'm at Cordon next</text>
+	</string>
+	<string id="freedom_dinamit_3">
+		<text>Sorry, I've other things to do</text>
+	</string>
+	<string id="freedom_dinamit_have_0">
+		<text>Hey! Here's your dynamite!</text>
+	</string>
+	<string id="freedom_dinamit_have_1">
+		<text>Wow! Let's see!</text>
+	</string>
+	<string id="freedom_dinamit_have_2">
+		<text>You've no idea what it's like carrying this stuff. I've been afraid to run, or drop my rucksack, or get too close to any anomaly! I'm glad to be rid of it, that's for sure. I just hope it was worth it...</text>
+	</string>
+	<string id="freedom_dinamit_have_3">
+		<text>Thank you. Here's what we're planning. It should come out near the lake in the Dark Valley. If you ever need to use it, feel free. Just keep it a secret, okay?</text>
+	</string>
+	<string id="freedom_dinamit_have_4">
+		<text>Thanks, and I promise...</text>
+	</string>
+	<string id="mil_leader_start_dialog_15001">
+		<text>Hi, Marked One. We've been waiting for you, and the dynamite...</text>
+	</string>
+	<string id="mil_leader_start_dialog_15002">
+		<text>Yes. Sorry about the delay. I needed to be careful with it...</text>
+	</string>
+	<string id="mil_leader_start_dialog_15003">
+		<text>Well, now the guys'll blow up the final part, and then Freedom will be free to travel freely. It will for your use too, friend</text>
+	</string>
+	<string id="mil_leader_start_dialog_15004">
+		<text>Wow, well done. I'm impressed</text>
+	</string>
+	<string id="find_af_dummy_glassbeads_0">
+		<text>The information on Ghost mentioned something about an unmarked road</text>
+	</string>
+	<string id="find_af_dummy_glassbeads_1">
+		<text>You've a sharp eye. But you know the old saying, you don't get anything of value for nothing? We've been experimenting with a few rare artefacts. One in particular has been impossible to aquire, the 'Glassbeads'. Have you heard of it? Bring one to me, and I'll show you the trail</text>
+	</string>
+	<string id="find_af_dummy_glassbeads_2">
+		<text>I'll try to find one for you</text>
+	</string>
+	<string id="find_af_dummy_glassbeads_3">
+		<text>I need to go to the Monolith, so I don't have time right now</text>
+	</string>
+	<string id="find_af_dummy_glassbeads_have_0">
+		<text>Here, I brought you a Glassbeads</text>
+	</string>
+	<string id="find_af_dummy_glassbeads_have_1">
+		<text>You've got to be kidding me. Let me see it!</text>
+	</string>
+	<string id="find_af_dummy_glassbeads_have_2">
+		<text>Here, it's yours...</text>
+	</string>
+	<string id="find_af_dummy_glassbeads_have_3">
+		<text>Amazing! Simply amazing! Okay, here's the trail. I'll mark it on your map, from Agroprom leading straight here. See?\nHowever, I don't know the way back. There's evidence that the Military at Agroprom have documents that show the location of the road. But the case with those documents has gone missing. Do you think you could find them for us?</text>
+	</string>
+	<string id="yan_scientist_find_case_0">
+		<text>Are these documents still around Agroprom?</text>
+	</string>
+	<string id="yan_scientist_find_case_1">
+		<text>They're definitely not in the Military Base. We've looked. But they can't be far from it, either</text>
+	</string>
+	<string id="yan_scientist_find_case_2">
+		<text>I'll find them for you, don't worry</text>
+	</string>
+	<string id="yan_scientist_find_case_3">
+		<text>No, I need to make my way to the Monolith</text>
+	</string>
+	<string id="yan_scientist_find_case_4">
+		<text>That's great news! I'll await your return</text>
+	</string>
+	<string id="yan_scientist_find_case_5">
+		<text>Well, there'll still be time. Come back as soon as you can</text>
+	</string>
+	<string id="yan_scientist_find_case_have_0">
+		<text>I brought you the documents</text>
+	</string>
+	<string id="yan_scientist_find_case_have_1">
+		<text>Let's see what you have</text>
+	</string>
+	<string id="yan_scientist_find_case_have_2">
+		<text>Here, take a look</text>
+	</string>
+	<string id="yan_scientist_find_case_have_3">
+		<text>Yes, exactly what we were looking for. They give the location of the path from here to Agroprom</text>
+	</string>
+	<string id="yan_scientist_find_case_have_4">
+		<text>Thank you, Professor!</text>
+	</string>
+	<string id="val_halfdead">
+		<text>Mongol</text>
+	</string>
+	<string id="val_bandit_trader">
+		<text>Core</text>
+	</string>
+	<string id="dolgovazyi_repair_0">
+		<text>Hi, do you do repairs?</text>
+	</string>
+	<string id="dolgovazyi_repair_1">
+		<text>Yes, but it's not cheap. It's very difficult to get decent spares here. The more wear, the more expensive it will be. What would you like done?\n.\nList of repairs possible:</text>
+	</string>
+	<string id="dolgovazyi_repair_2">
+		<text>Would you repair my sidearm, please?</text>
+	</string>
+	<string id="dolgovazyi_repair_3">
+		<text>Would you repair my primary weapon, please?</text>
+	</string>
+	<string id="dolgovazyi_repair_4">
+		<text>Would you repair my armor, please?</text>
+	</string>
+	<string id="dolgovazyi_repair_5">
+		<text>Sorry, I'm short of cash at the moment. I'll come back later</text>
+	</string>
+	<string id="dolgovazyi_repair_6">
+		<text>Just give me a moment...\n.\nThere you go. All yours!</text>
+	</string>
+	<string id="dolgovazyi_repair_7">
+		<text>Oh, Marked One... it's good you called... I have your armor around here somewhere... (Damn, where is it?) Yes, here it is! There you go! Like new!</text>
+	</string>
+	<string id="dolgovazyi_repair_8">
+		<text>Let's see. Hey, good work! I won't insult you by asking how you fixed it, but I respect your skills. Thank you...</text>
+	</string>
+	<string id="dolgovazyi_repair_9">
+		<text>Excellent work, and well worth the money!</text>
+	</string>
+	<string id="dolgovazyi_repair_10">
+		<text>Can you fix something else for me, please?</text>
+	</string>
+	<string id="dolgovazyi_repair_11">
+		<text>ure, no problem\n.\nHere's my price list:</text>
+	</string>
+	<string id="dolgovazyi_name">
+		<text>Lanky</text>
+	</string>
+	<string id="bar_docent_name">
+		<text>Associate</text>
+	</string>
+	<string id="stranger">
+		<text>Loner</text>
+	</string>
+	<!-- moved string id: "ammo-5.7x28_name" in to the string_table_enc_weapons file -aleks1970 -->
+	<string id="enc_weapons1_wpn-pkm">
+		<text>Ammunition -\n: 7.62x54mm\nCapacity -\n: 100 rounds\n.\nThis extremely rare weapon is found only in heavily armed detachments of Military Stalkers. Because of its large size and weight, it requires the use of Exoskeleton armor, to which it must be physically attached.\nThe original PK Pulemyot Kalashnikova or 'Kalashnikov's Machinegun' was a development of Kalashnikov's automatic rifle design, firing the 7.62x54mmR Eastern Bloc standard ammunition originally from the Mosin-Nagant.\nIt is equipped with a simple bipod, and designed as a squad-level support weapon. It is also suitable for fixed installation and vehicle mounting, and can be used as a light anti-aircraft weapon when fixed to an AA mount.\nMost are belt-fed, using linked 25-round belts, which can be joined together to create any length necessary. Typical of Soviet machine guns, the standard model feeds from the right, and expels its spent cases via an ejection port on the left side of the weapon, contrary to the RH side ejection port on most Western machine guns.\nThe current model is the PKM Kalashnikov's Machinegun Modernized, an improved version of the PK and weighing only 7.5kg when empty</text>
+	</string>
+	<string id="wpn-pkm_name">
+		<text>PKM Pulemyot Kalashnikova</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-7.62x54r_box">
+		<text>Regular sniper cartridge for the SVD rifle, SVU-AS rifle, and the PKM machine gun. Available in 100 or 250 round belts for the manual version of the PKM machine gun.\nDespite the fact that the 7N1 cartridge was adopted in 1967, it is 2-3 times less accurate than the 7N13 in terms of dispersion. Also, due to the cold stamped steel core, the shell does not fragment on penetration, thus causing less internal damage</text>
+	</string>
+	<string id="ammo-7.62x54r_100_s">
+		<text>7.62x54mm (100)</text>
+	</string>
+	<string id="ammo-7.62x54r_250_s">
+		<text>7.62x54mm (250)</text>
+	</string>
+	<string id="enc_weapons1_wpn-p90">
+		<text>Ammunition: 5.7x28mm FN SS190\n.\nThe FN P90 is a selective-fire personal defense weapon (PDW) designed and manufactured by FN Herstal in Belgium. The P90's name is an abbreviation of FN's Project 9.0, in response to NATO requests to replace standard 9x19mm Parabellum firearms. It was designed as a compact but powerful weapon for vehicle drivers, operators of crew-served weapons, support personnel, special forces and counter-terrorist groups. The P90 has a futuristic appearance, featuring a compact bullpup design and ambidextrous controls, and incorporates several innovations - such as the top-mounted magazine and FN's high velocity 5.7x28mm ammunition. Originally developed between 1986 and 1990, a P90 TR variant was introduced in 1999, featuring a triple rail interface system for mounting accessories. Since 2005, the P90 has been offered to civilians as the PS90, a semi-automatic sporting model with a longer barrel</text>
+	</string>
+	<string id="wpn-p90_name">
+		<text>FN P90</text>
+	</string>
+	<!--	<string id="wpn-p90_name"> - Duplicated - aleks1970
+		<text>FN P90</text>
+	</string> -->
+	<!-- moved string id: "enc_weapons1_ammo_ammo-5.7x28" in to the string_table_enc_weapons file -aleks1970 -->
+	<string id="sak_military_stalker">
+		<text>Ensign Sherstuk</text>
+	</string>
+	<string id="repair_item_outfit_desc">
+		<text>Repair-kit for field repairs of body armor and other vital equipment</text>
+	</string>
+	<string id="repair_item_outfit_name">
+		<text>Remnabor RIA</text>
+	</string>
+	<string id="repair_item_weapon_desc">
+		<text>Repair-kit for field repairs of weapons</text>
+	</string>
+	<string id="repair_item_weapon_name">
+		<text>Remnabor RIW</text>
+	</string>
+	<string id="repair_box_desc">
+		<text>Box for repair kits</text>
+	</string>
+	<string id="repair_box_name">
+		<text>Toolbox</text>
+	</string>
+	<string id="wpn-saiga12c">
+		<text>Saiga 12C</text>
+	</string>
+	<string id="enc_weapons1_saiga12c">
+		<text>Saiga-12C automatic shotgun. Reliable and accurate, it is used as an assault weapon for close combat operations. Automatic reloading is made possible by feeding combustion gases from the barrel bore through the barrel port. An optional sight leaf, adjustable for windage and elevation, makes zeroing and firing at moving targets more convenient.\nAmmunition:\n12x70 buckshot,\n12x76 slug,\n12x76 dart</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak47">
+		<text>Kalashnikov model 1947, chambered for 7.62x39mm ammunition. A simple, reliable and ubiquitous weapon, although the low cost of its production process affected its overall useability and accuracy. Not often seen in the Zone because of its lack in service in the Military.\nAmmunition:\n7.62x39mm fmj\n7.62x39mm AP</text>
+	</string>
+	<string id="device_pda1">
+		<text>PDA</text>
+	</string>
+	<string id="device_pda1_s">
+		<text>PDA</text>
+	</string>
+	<string id="device_pda_npc">
+		<text>MIL PDA</text>
+	</string>
+	<string id="device_pda_npc_s">
+		<text>MIL PDA</text>
+	</string>
+	<string id="enc_equipment_device_pda1">
+		<text>A personal digital assistant (PDA), also known as a palmtop computer, is a mobile device that functions as a personal information manager. It has an electronic visual display, enabling it to include a web browser, but newer models also have audio capabilities, enabling them to be used as mobile phones or portable media players. Many can access the Internet, intranets or extranets via Wi-Fi or Wide Area Networks</text>
+	</string>
+	<string id="enc_equipment_device_pda_npc">
+		<text>A more rugged, military specified version of a consumer personal digital assistant (PDA), also known as a palmtop computer - a mobile device that functions as a personal information manager. It has an electronic visual display, enabling it to include a web browser, but some models also have audio capabilities, enabling them to be used as mobile phones or portable media players. Many can access the Internet, intranets or extranets via Wi-Fi or Wide Area Networks. Military PDAs are sought after items amongst tech-savvy Stalkers, because they usually contain more accurate, updated and restricted info on the Zone, plus the movements of military personnel and other 'persons of interest' inside it</text>
+	</string>
+	<string id="super_gauss">
+		<text>Supergauss canister</text>
+	</string>
+	<string id="enc_weapons1_ammo_super_gauss">
+		<text>Gauss pistol, a single-handed weapon comprising a high energy capacitor feeding a series of convergence elements, creating an enormously focused destructive pulse from its energy source - an encapsulated piece of a Moonlight artefact</text>
+	</string>
+	<string id="strelok_pda_name">
+		<text>Strelok's PDA</text>
+	</string>
+	<string id="strelok_pda_desc">
+		<text>Strelok's PDA. A lot of people would like to get their hands on this. Contains a wealth of information - almost all of it heavily encrypted</text>
+	</string>
+	<string id="wpn-ak47">
+		<text>AK-47</text>
+	</string>
+	<!-- moved string id: "ammo-7.62x39-ap", "ammo-7.62x39-ap_s", "enc_weapons1_ammo_ammo-7.62x39-ap", "ammo-7.62x39-fmj", "ammo-7.62x39-fmj_s" and the "enc_weapons1_ammo_ammo-7.62x39-fmj" in to the "string_table_enc_weapons.xml" file -aleks1970 -->
+	<string id="Hello_sak">
+		<text>%c[255,255,128,128]\nBest regards from Syak!</text>
+	</string>
+	<string id="kodes">
+		<text>Code combinations for the doors</text>
+	</string>
+	<string id="ways_info_door_sak_text">
+		<text>Syak gave me the door code of a small shelter, located opposite the turning to Pripyat - 1287975</text>
+	</string>
+	<string id="dead_monolit_title">
+		<text>Information from the dead Monolithian</text>
+	</string>
+	<string id="dead_monolit_text">
+		<text>Found some mouldy documents and photos. Could make out 'laboratory' and 'Limansk' but the rest is impossible. There's a door code that looks like '886677', but nobody would be stupid enough to create a security code like that - would they?</text>
+	</string>
+	<string id="enc_ways">
+		<text>Transitions located</text>
+	</string>
+	<!-- AR -->
+	<string id="enc_info_red_battery_text">
+		<text>%c[255,255,255,255]Stamina %c[255,1,255,1]+182\n%c[255,255,255,255]Impact %c[255,1,255,1]+8 %\n%c[255,255,255,255]Electric Shock %c[255,1,255,1]+16 %\n%c[255,255,255,255]Explosion %c[255,1,255,1]+5 %\n%c[255,255,255,255]Bulletproof Cap %c[255,1,255,1]+2 %\n%c[255,255,255,255]Radiation %c[255,255,1,1]+10\n%c[default]\nUnique artefact resembling a regular 'Battery' in appearance, but red. Radioactive, and emits light. Has a positive effect on the restoration of stamina, and offers some cushioning from impact. The 'Ruby Battery' should partially nullify the effects of the 'Electro' and 'Vortex' anomalies\n \nFormed when a 'Battery' reacts with a 'Snow' anomaly\n%c[255,255,255,255]Time for transmutation %c[255,224,224,160]5 mins Zone Time\n%c[255,255,255,255]Probability of successful transmutation %c[255,1,255,1] 99%\n%c[255,255,255,255]Probability of degeneracy %c[255,255,1,1] 1% %c[default]</text>
+	</string>
+	<string id="enc_info_red_spring_text">
+		<text>%c[255,255,255,255]Impact %c[255,1,255,1]+16 %\n%c[255,255,255,255]Explosion %c[255,1,255,1]+6 %\n%c[255,255,255,255]Bulletproof Cap %c[255,1,255,1]+4 %\n%c[255,255,255,255]Radiation %c[255,255,1,1]+5\n%c[default]\nUnique artefact resembling a regular 'Spring' in appearance, but red. Slightly radioactive, and emits light. Offers cushioning from impact. The 'Ruby Spring' should partially nullify the effects of the 'Whirligig' anomaly\n \nFormed when a 'Spring' reacts with a 'Snow' anomaly\n%c[255,255,255,255]Time for transmutation %c[255,224,224,160]5 mins Zone Time\n%c[255,255,255,255]Probability of successful transmutation %c[255,1,255,1] 99%\n%c[255,255,255,255]Probability of degeneracy %c[255,255,1,1] 1% %c[default]</text>
+	</string>
+	<string id="enc_info_red_pellicle_text">
+		<text>%c[255,255,255,255]Health %c[255,1,255,1]+700 %\n%c[255,255,255,255]Bleeding %c[255,1,255,1]-33 %\n%c[255,255,255,255]Impact %c[255,1,255,1]+5 %\n%c[255,255,255,255]Bulletproof Cap %c[255,255,1,1]-50 %\n%c[255,255,255,255]Radiation %c[255,255,1,1]+5\n%c[default]\nUnique artefact resembling a regular 'Pellicle' in appearance, but red. Slightly radioactive, and emits light. Has the remarkable effect of rapidly healing open wounds, while detrimentally attracting small particles of metal in motion I.e. Bullets. The 'Ruby Pellicle' should partially nullify the effects of the 'Springboard' anomaly\n \nFormed when a 'Pellicle' reacts with a 'Snow' anomaly\n%c[255,255,255,255]Time for transmutation %c[255,224,224,160]5 mins Zone Time\n%c[255,255,255,255]Probability of successful transmutation %c[255,1,255,1] 99%\n%c[255,255,255,255]Probability of degeneracy %c[255,255,1,1] 1% %c[default]</text>
+	</string>
+	<string id="enc_enc_info_way100a_text">
+		<text>Transition discovered from Agroprom to the Cordon</text>
+	</string>
+	<string id="enc_enc_info_way101a_text">
+		<text>Transition discovered from the Cordon to Agroprom</text>
+	</string>
+	<string id="enc_enc_info_way102a_text">
+		<text>Transition discovered from Agroprom to Yantar</text>
+	</string>
+	<string id="enc_enc_info_way103a_text">
+		<text>Transition discovered from Yantar to Agroprom</text>
+	</string>
+	<string id="enc_enc_info_way104a_text">
+		<text>Transition discovered from Rosto to the Army Warehouses</text>	<!-- Changed 'Rostock' to 'Rostok' - Sword2012 - 31 Oct 16-->
+	</string>
+	<string id="enc_enc_info_way105a_text">
+		<text>Transition discovered from the Army Warehouses to the Wild Territory</text>
+	</string>
+	<string id="enc_enc_info_way106a_text">
+		<text>Transition discovered from Yantar to the Brain Scorcher</text>
+	</string>
+	<string id="enc_enc_info_way107a_text">
+		<text>Transition discovered from Radar to the Dark Valley</text>
+	</string>
+	<string id="enc_enc_info_way108a_text">
+		<text>Transition discovered from Radar to Yantar</text>
+	</string>
+	<string id="enc_enc_info_way109a_text">
+		<text>Transition discovered from the Dark Valley to the Brain Scorcher</text>
+	</string>
+	<string id="enc_enc_info_way110a_text">
+		<text>Transition discovered from the Army Warehouses to the Dark Valley</text>
+	</string>
+	<string id="enc_enc_info_way111a_text">
+		<text>Lukash reported on the presence of a passage from the Freedom Base to the Dark Valley</text>
+	</string>
+	<string id="enc_enc_info_way112a_text">
+		<text>Transition bought from Snitch, from Radar to the Army Warehouses. Does it work?</text>
+	</string>
+	<string id="enc_enc_info_way112b_text">
+		<text>Transition given by the Guide from the Swamp to the Old Village</text>	<!-- Changed 'Explorer' to 'Guide' - Sword2012 - 31 Oct 16-->
+	</string>
+	<string id="enc_enc_info_way113a_text">
+		<text>Go to the Army Warehouses</text>
+	</string>
+	<string id="enc_enc_info_way114a_text">
+		<text>Go to Rostok</text>	<!-- Changed 'Rostock' to 'Rostok' - Sword2012 - 31 Oct 16-->
+	</string>
+	<string id="enc_enc_info_way_false_text">
+		<text>Go to Chernobyl</text>
+	</string>
+	<string id="ways_info_way_false_text">
+		<text>There is a class of anomalies beyond comprehension. One is the Jumper. This anomaly will teleport matter a great distance away in an incredibly small period of time, while whatever's inside experiences no discomfort nor awareness of the passing of time or space. It's rumored that one of these can teleport you directly to the Monolithian Base at the NPP, and that's it's at the Army Warehouses</text>
+	</string>
+	<string id="ways_info_way100a_text">
+		<text>\nMilitary Troop Commander\nCordon Defense\nReport\n14 Sept 2012 - at 2200 hours in the evening, roll call revealed the absence of three soldiers entrusted to my unit, located in the area of the former Agricultural Institute. Further investigation revealed that the missing soldiers were repeatedly insubordinate to their NCOs, and regularly absconded to visit the trader known as Sidorovich, who supplied them with cigarettes and alcohol.\nAccording to their colleagues, they had discovered a hidden passage to the Cordon. The location and approach to this passage are detailed on the attached sketch-map. The searches for my missing soldiers is still ongoing</text>
+	</string>
+	<string id="ways_info_way101a_text">
+		<text>Guide: Near the vicinity of the former farm is an unregistered transition to Agroprom</text>	<!-- Changed 'Explorer' to 'Guide' - Sword2012 - 31 Oct 16-->
+	</string>
+	<string id="ways_info_way102a_text">
+		<text>In gratitude for bringing him an artefact for his experiments, the Scientist in the Bunker showed me a little known way from the Agroprom Research Institute to a research laboratory at Yantar</text>
+	</string>
+	<string id="ways_info_way103a_text">
+		<text>According to documents stolen from the military base at Agroprom, the Military planned to penetrate deep into the Zone through the newly-opened path, one section of which leads to Laboratory X-16, which is located close to the scientists' bunker at Yantar swamp</text>
+	</string>
+	<string id="ways_info_way104a_text">
+		<text>The Mercenary named Ara had a map of the secret route his group intend to take, from their base at the factory in the Wild Territory straight to the Army Warehouses</text>
+	</string>
+	<string id="ways_info_way105a_text">
+		<text>kull: The interrogation of a captured mercenary (now buried at the coordinates in the attached chart) revealed information on the existence of a hidden direct path, from the Army Warehouses to the main Mercenary base in the Wild Territory</text>
+	</string>
+	<string id="ways_info_way106a_text">
+		<text>Near the body of the zombified scientist in the Red Forest were the coordinates of a transition from the X-16 Research Facility, near the Yantar swamps, to the Radar antennae</text>
+	</string>
+	<string id="ways_info_way107a_text">
+		<text>Monolith, who zealously guarded the transition from Lab X-16, left behind a thick stack of documents which, amongst other scientific data, has a full description of the additional outlet in the Dark Valley</text>
+	</string>
+	<string id="ways_info_way108a_text">
+		<text>Decrypted data transmitted from Sidorovich to the Barkeep: The Military will soon make a huge breakthrough in the very heart of the Zone. They've discovered a transition from the Psi-emitter in Lab X-16 at Yantar, with possible direct access to the ghost town of Pripyat</text>
+	</string>
+	<string id="ways_info_way109a_text">
+		<text>During the raid of the X-18 lab, the Duty squad found a cabinet full of documents. Even with partial decoding, it's clear that the Military are preparing a massive incursion to the center of the zone. One key pathway is in the Dark Valley, which leads directly to Radar</text>
+	</string>
+	<string id="ways_info_way110a_text">
+		<text>Lukash, the leader of Freedom, revealed that they are actively using the passage from the Dark Valley right into their camp at the Army Warehouses</text>
+	</string>
+	<string id="ways_info_way111a_text">
+		<text>In gratitude for services rendered, Lukash gave me permission to use the secret passage to the Freedom camp from the Dark Valley</text>
+	</string>
+	<string id="ways_info_way112a_text">
+		<text>Transitions located</text>
+	</string>
+	<string id="ways_info_way113a_text">
+		<text>Information is available from Mojito in regards to a transition originating at the Army Warehouses</text>
+	</string>
+	<string id="ways_info_way114a_text">
+		<text>The Barkeep has provided information about the location of a transition to Rostok</text>
+	</string>
+	<string id="item_quest_case_03_desc">
+		<text>Scholar's Documents</text>
+	</string>
+	<string id="item_quest_case_03_name">
+		<text>Scholars documents</text>
+	</string>
+	<string id="playboy_desc">
+		<text>'Playboy' is an American men's magazine that features high quality glossy photographs of nude women, as well as erotic and regular journalism and fiction. It was founded in Chicago in 1953 by Hugh Hefner and his colleagues, and funded in part by a $1,000 loan from Hefner's mother. The magazine has grown into Playboy Enterprises, Inc, with a presence in nearly every medium. 'Playboy' is one of the world's best known brands and, depending on local decency laws, nation-specific versions of it are published worldwide</text>
+	</string>
+	<string id="wpn_vintorez_m1">
+		<text>Unique BCC 'Vintorez'</text>
+	</string>
+	<string id="enc_wpn_vintorez_m1">
+		<text>Ammunition -\n: 9x39mm SP-6 - armor\n: 9x39mm SP-5 - sniper\nSpecial 'Vintorez' sniper rifle. Optical (daytime) and electro-optical (night) sights enable accurate shooting at a distance, and an integrated silencer ensures noise-free, flashless shots. A peculiarity of this unique weapon is the low wear and tear of the barrel. Rumor has it that this rifle has been enhanced by placement inside an anomaly</text>
+	</string>
+	<string id="playboy_name">
+		<text>Playboy Magazine</text>
+	</string>
+	<string id="playboy_kruglov_desc">
+		<text>Since reaching its peak in the 1970s, Playboy has seen a decline in circulation and cultural relevance due to additional competition in the field it founded. Firstly from 'Penthouse', 'Oui' (published as a spin-off from Playboy) and 'Gallery' in the 1970s, then from increasingly explicit pornographic videos, more recently from 'lads' mags' such as Maxim and FHM, and finally the internet. In response, Playboy has attempted to reassert its hold on the 18-35 male demographic with slight changes to content, and focusing on issues and personalities more relevant to its target audience</text>
+	</string>
+	<string id="playboy_kruglov_name">
+		<text>'Playboy' collection (2006)</text>
+	</string>
+	<string id="outfit_soldiersak_desc">
+		<text>Flak-jacket modified with the anti-gravity Cobblestone artefact. Allows the carrying of much heavier equipment, without being hampered by the extra weight. Unfortunately, this modification makes the wearer more susceptible to harm, especially from explosive and impact damage</text>
+	</string>
+	<string id="outfit_soldiersak_name">
+		<text>'Cobblestone' Armor</text>
+	</string>
+	<string id="artmod_861_dialog_0">
+		<text>I need a better weapon. Are there any special jobs I can do to earn one?</text>
+	</string>
+	<string id="artmod_861_dialog_1">
+		<text>One Stalker is in possession of a document I really need. I won't say who, nor from where, but it was quite near here that he fell into an anomaly. He survived, but the document was lost. I'd have gone looking for it myself, but I can't leave these Rookies alone. Find this document, bring it to me, and I'll give you an AK-74U as a reward. It's in the underpass under the railroad tracks, directly to the North.\nWill you do this for me?</text>
+	</string>
+	<string id="artmod_861_dialog_2">
+		<text>Okay, if it's still there, in the underpass, I'll find it for you</text>
+	</string>
+	<string id="artmod_861_dialog_3">
+		<text>Sorry Wolf, but I'm not going near any anomaly without protection</text>
+	</string>
+	<string id="artmod_862_dialog_0">
+		<text>Hey there Wolf, anything new happening?</text>
+	</string>
+	<string id="artmod_862_dialog_1">
+		<text>Baby-sitting these Rookies, and drinking bad vodka. A typical day in the Zone!</text>
+	</string>
+	<string id="artmod_862_dialog_2">
+		<text>Here, I found that document for you. I could really use that weapon you promised...</text>
+	</string>
+	<string id="artmod_862_dialog_3">
+		<text>Yes! You're no Rookie now, are you?! Here you go. It's only got one full clip.\nSee if you can talk with Kuznetsov. He should be able to help you with more cartridges</text>
+	</string>
+	<string id="tex_escape_lager_volk_document">
+		<text>\nWolf asked me to find a lost document for him in the passageway under the railroad tracks. I should earn a decent AK-74u for this job...</text>
+	</string>
+	<string id="item_quest_case_02_desc">
+		<text>A tough, heat-resistant document case</text>
+	</string>
+	<!--	Duplicated string id from "string_table_items.xml" file - aleks1970
+	<string id="item_quest_case_02_desc">
+		<text>Slightly damaged, but secure fire-proof briefcase containing Important Documents...</text>
+	</string> -->
+	<string id="item_quest_case_02_name">
+		<text>Military documents</text>
+	</string>
+	<!--	Duplicated string id from "string_table_items.xml" file - aleks1970
+	<string id="item_quest_case_02_name">
+		<text>Military Documents XGF497ff2_339t7</text>
+	</string> -->
+	<string id="item_quest_case_06_desc">
+		<text>Locked metal briefcase, requiring a code to unlock it electronically. According to the soldier hiding in the old trailer in the swamp, it contains data sent by the Base Commander about one of the excursions deep into the Zone</text>
+	</string>
+	<string id="item_quest_case_06_name">
+		<text>Documents from the Military Base</text>
+	</string>
+	<string id="item_quest_sak_plan_name">
+		<text>Bag of 'weed'</text>
+	</string>
+	<string id="item_quest_sak_plan_desc">
+		<text>Moisture-proof bag filled with Afghan Kush marijuana</text>
+	</string>
+	<string id="val_escort_captive_name">
+		<text>Max Lubero</text>
+	</string>
+	<string id="sak_resiver_name">
+		<text>Army radio</text>
+	</string>
+	<string id="sak_resiver_desc">
+		<text>Army-issue VHF radio. An old, outdated model, but better than any other to resist most types of radiation throughout the Zone</text>
+	</string>
+	<string id="sak_resiver_yantar_name">
+		<text>Monitoring unit</text>
+	</string>
+	<string id="sak_resiver_yantar_desc">
+		<text>Modern surveillance system that monitors the frequencies of regular Army VHF radios. This design allows remote monitoring, and in some cases may provide a more precise tuning of the teleports found throughout the Zone</text>
+	</string>
+	<string id="item_case_esc_name">
+		<text>Outpost documents</text>
+	</string>
+	<!--	Duplicated string id from the "string_table_items.xml" file - aleks1970
+	<string id="item_case_esc_name">
+		<text>Documents taken from the Outpost</text>
+	</string> -->
+	<string id="sak_document_desc">
+		<text>Documents found on the bodies on the path</text>
+	</string>
+	<string id="sak_document_name">
+		<text>Secret document</text>
+	</string>
+	<string id="item_rad_document6_desc">
+		<text>Documents containing orders and notes. What could possibly be of use in this jumbled old pile of papers?</text>
+	</string>
+	<string id="item_rad_document6_name">
+		<text>File-folder containing documents</text>
+	</string>
+	<string id="item_rad_document7_desc">
+		<text>Orders of the Troop Commander from over the past six months</text>
+	</string>
+	<string id="item_rad_document7_name">
+		<text>File-folder containing documents</text>
+	</string>
+	<string id="sak_document2_desc">
+		<text>Contains important information on the current methods of transforming artefacts</text>
+	</string>
+	<string id="sak_document2_name">
+		<text>Documents plus unreadable disc</text>
+	</string>
+	<string id="garbage_pda_name">
+		<text>PDA containing important information</text>
+	</string>
+	<string id="garbage_pda_desc">
+		<text>PDA found at the dump, in a Bandit camp. Among other useful information, it contains instructions on how to transmutate an artefact</text>
+	</string>
+	<!--	<string id="garbage_pda_desc"> - Duplicated - aleks1970
+		<text>PDA found at the dump, in a camp of Bandits. Among other useful information, it contains instructions on how to transmutate an Artefact</text>
+	</string> -->
+	<string id="inventory_sakbox_01_name">
+		<text>box of cartridges</text>
+	</string>
+	<string id="inventory_sakbox_01_desc">
+		<text>heavy wooden box. Inside are boxes of cartridges</text>
+	</string>
+	<string id="inventory_sakbox_02_name">
+		<text>Metal Box</text>
+	</string>
+	<string id="inventory_sakbox_02_desc">
+		<text>Metal box containing a set of tools</text>
+	</string>
+	<string id="inventory_sakbox_03_name">
+		<text>Safe</text>
+	</string>
+	<string id="inventory_sakbox_03_desc">
+		<text>Fireproof, armored safe Locked with a magnetic key code. Inaccessible, without a blowtorch! Contents: - unknown</text>
+	</string>
+	<string id="inventory_sakbox_04_name">
+		<text>little box</text>
+	</string>
+	<string id="inventory_sakbox_04_desc">
+		<text>Metal Box</text>
+	</string>
+	<string id="inventory_sakbox_05_name">
+		<text>High Security Container</text>
+	</string>
+	<string id="inventory_sakbox_05_desc">
+		<text>Steel laboratory container designed for storage and transportation of hazardous materials. In the Zone is used for transportation of artefacts with unknown properties</text>
+	</string>
+	<string id="sak_book1_name">
+		<text>Book</text>
+	</string>
+	<string id="sak_book1_desc">
+		<text>scientific book. Very difficult to understand</text>
+	</string>
+	<string id="sak_book2_name">
+		<text>Notebook</text>
+	</string>
+	<string id="sak_book2_desc">
+		<text>Notebook filled with various scientific formulas and confusing tables</text>
+	</string>
+	<string id="sak_book3_name">
+		<text>Book</text>
+	</string>
+	<string id="sak_book3_desc">
+		<text>An unremarkable looking book with tattered pages protruding at the edges</text>
+	</string>
+	<string id="stukach_book_name">
+		<text>Diary</text>
+	</string>
+	<string id="doktor_book_desc">
+		<text>the Swamp Doctors Notebook. Judging from the contents, he was here recently!!!</text>
+	</string>
+	<string id="doktor_book_name">
+		<text>Doctors Diary</text>
+	</string>
+	<string id="item_computer_desc">
+		<text>Computer systems unit in the Pripyat bus. Contains important information necessary for the operation of the teleport</text>
+	</string>
+	<string id="item_computer_name">
+		<text>Laptop</text>
+	</string>
+	<string id="item_diplomat_desc">
+		<text>Laptop, found in Laboratory X-16. Contains detailed Seismological and Geological maps of Yantar, and surrounding areas</text>
+	</string>
+	<string id="scaintist_pda_name">
+		<text>Scientists PDA</text>
+	</string>
+	<string id="scaintist_pda_desc">
+		<text>Dead Pripyat scientists PDA. Contains information that attracts 'mojito'</text>
+	</string>
+	<string id="item_diplomat_name">
+		<text>Diplomatic documents</text>
+	</string>
+	<string id="item_notebook_desc">
+		<text>Laptop found in Laboratory X-18. Surprisingly, it is still in working condition. Contains data on the seismic survey conducted in the area surrounding the Army Warehouses</text>
+	</string>
+	<string id="item_notebook_name">
+		<text>Laptop containing important information</text>
+	</string>
+	<!-- moved string id: "stukach_book_desc" in to the dmx_mod_items file - aleks1970 -->
+	<string id="item_decoder1_name">
+		<text>Kruglovs device</text>
+	</string>
+	<string id="item_decoder1_desc">
+		<text>Complex Electronic Measuring Converter</text>
+	</string>
+	<string id="agroprom_pda_name">
+		<text>Moles PDA</text>
+	</string>
+	<string id="agroprom_pda_desc">
+		<text>PDA which belonged to the STALKER nicknamed Mole</text>
+	</string>
+	<string id="und_pda_name">
+		<text>Max Luberos PDA</text>
+	</string>
+	<string id="und_pda_desc">
+		<text>Max Lubero brags that this PDA contains many secrets regarding the 'Duty' faction</text>
+	</string>
+	<string id="volkodav_pda_name">
+		<text>Wolfhounds PDA</text>
+	</string>
+	<string id="volkodav_pda_desc">
+		<text>Among the encrypted data, there is a description concerning the transmutation of artefacts</text>
+	</string>
+	<string id="ara_pda_name">
+		<text>Mercenary's PDA</text>
+	</string>
+	<string id="ara_pda_desc">
+		<text>A Mercenary named Ara kept many secrets concerning his group, including a description of the secret passage between the Army Warehouses and the Wild Territory</text>
+	</string>
+	<string id="rad_pda_name">
+		<text>Monolith PDA (unknown)</text>
+	</string>
+	<string id="rad_pda_desc">
+		<text>Found a PDA near the Psi-Emitter. In amongst all the gibberish was an artefact transmutation recipe</text>
+	</string>
+	<string id="quest_manycase_01_desc">
+		<text>Fireproof steel case with a combination lock\nContents: Cash</text>
+	</string>
+	<string id="quest_manycase_01_name">
+		<text>Steel case</text>
+	</string>
+	<string id="tex_esc_provodnik_groza">
+		<text>\nThe Stalker named Guide asked me to find him a good weapon. A Tunder assault rifle should do the trick</text>	<!-- Changed 'Conductor' to 'Guide' - Sword2012 - 31 Oct 16-->
+	</string>
+	<string id="tex_yan_scientist_find_af_dummy_glassbeads">
+		<text>\nProfessor Sakharov from the lab in the Yantar swamplands has asked me to find him a rare artefact, a Glassbeads. In return, he'll show me a hidden pathway</text>
+	</string>
+	<string id="tex_yan_scientist_find_case">
+		<text>\nProfessor Sakharov said that the Military has stolen a metal case of documents relating to the study of pathways throughout the Zone</text>
+	</string>
+	<string id="tex_bar_dolg_leader_find_case">
+		<text>\nGeneral Voronin urgently needs to find a metal case containing important documents, which got lost in the Dark Valley. Exactly what these documents pertain to is a mystery</text>
+	</string>
+	<string id="tex_mil_lukash_find_dinamit">
+		<text>A leader within Freedom says that they need some dynamite. Maybe this'll help pave the way into the Dark Valley. According to Lukash, there should be some dynamite in the Rookie camp. Exactly where, I've no idea...</text>
+	</string>
+	<string id="tex_esc_reward_case">
+		<text>\nInside the box taken from the Military base at Agroprom was a disk containing encrypted data. I'm told that the Barkeep in the old factory at Rostok can decipher it</text>
+	</string>
+	<string id="tex_esc_tolik_five_teily">
+		<text>\nTolik asked me to bring him five blind dog's tails. He needs them to convert an artefact</text>
+	</string>
+	<string id="artmod_111_dialog_0">
+		<text>Did you want to ask me something?</text>
+	</string>
+	<string id="artmod_111_dialog_1">
+		<text>I met a seasoned Stalker recently. We shared a bottle, and he taught me how to make a Meat Chunk by combining two other artefacts plus some blind dog's tails. I was trying to get them myself but, as you can see, I barely survived. If you can bring me these tails, I'll share the secret with you, and we can make them together</text>
+	</string>
+	<string id="artmod_111_dialog_2">
+		<text>Okay, I'll try to get the tails for you</text>
+	</string>
+	<string id="artmod_111_dialog_3">
+		<text>I'm sorry, but I can't help you</text>
+	</string>
+	<string id="artmod_112_dialog_0">
+		<text>I brought you those tails you asked for</text>
+	</string>
+	<string id="artmod_112_dialog_1">
+		<text>Wow! Marked One, I can't thank you enough!</text>
+	</string>
+	<string id="artmod_112_dialog_2">
+		<text>Please take them. They stink!</text>
+	</string>
+	<string id="artmod_112_dialog_3">
+		<text>Wait here. I wrote down how to use these to make a Meat Chunk. Though I've not been able to test it yet, so cross your fingers...</text>
+	</string>
+	<string id="artmod_121_dialog_0">
+		<text>How can I can help you?</text>
+	</string>
+	<string id="artmod_121_dialog_1">
+		<text>We control this territory, protecting it against Bandits and other nasties. Occasionally we provide goodies, like useful information. As you can see, our weapons are quite archaic, but at least we're not short of ammunition. I need you to bring me a TOZ-34 hunting rifle. For what we need, it's the most suitable weapon. In return, I'll tell you how to transform a poor artefact into a pretty good one</text>
+	</string>
+	<string id="artmod_121_dialog_2">
+		<text>Sure, no problem. Shouldn't be difficult. I think Sidorovich has one in stock</text>
+	</string>
+	<string id="artmod_121_dialog_3">
+		<text>Thank you. I hope you can help me out</text>
+	</string>
+	<string id="artmod_122_dialog_0">
+		<text>Hey there! I brought you the Toz</text>
+	</string>
+	<string id="artmod_122_dialog_1">
+		<text>You came just at the right time. The Bandits are causing trouble again...</text>
+	</string>
+	<string id="artmod_122_dialog_2">
+		<text>Do you need my help?</text>
+	</string>
+	<string id="artmod_122_dialog_3">
+		<text>Thanks, but they're gone for now. Wait, I promised to tell you how to make Slugs, so here: Get a Medusa, a Quirk, a Blind dog's tail and a 300 gram sausage. Don't laugh, I'm serious! Drop it all into a Vortex anomaly, and wait. After ten minutes you'll have a Slug artefact. Really!</text>
+	</string>
+	<string id="tex_esc_petruha_toz">
+		<text>\nPetruha, team leader, requests you to bring him a TOZ-34 hunting rifle, to help him protect the area from mutants</text>
+	</string>
+	<string id="artmod_131_dialog_0">
+		<text>Do you have any info on artefact modification?</text>
+	</string>
+	<string id="artmod_131_dialog_1">
+		<text>Yesterday one of the local Bandits, after a strong drink, started boasting that he'd soon be rich. Claimed that he could convert a Medusa into a better artefact. Let's try it out! You find a Medusa, bring it to me, and I'll share his recipe with you. Deal?</text>
+	</string>
+	<string id="artmod_131_dialog_2">
+		<text>Sounds interesting enough. Let's give it a try</text>
+	</string>
+	<string id="artmod_131_dialog_3">
+		<text>Sounds like bullshit to me...</text>
+	</string>
+	<string id="artmod_132_dialog_0">
+		<text>I found a Medusa for you</text>
+	</string>
+	<string id="artmod_132_dialog_1">
+		<text>Okay, let's try out this transmutation recipe of yours</text>
+	</string>
+	<string id="artmod_132_dialog_2">
+		<text>Here you go. So, how's it done?</text>
+	</string>
+	<string id="artmod_132_dialog_3">
+		<text>The Bandit said to toss a Medusa, a Stone Blood, an ordinary bandage, and a can of food into a Whirligig anomaly, then leave it for about ten minutes. I'm not sure what's supposed to happen after that, but we'll soon find out!</text>
+	</string>
+	<string id="tex_esc_shustryi_medusa">
+		<text>\nNimble wants to try out a new transmutation that he learned from a Bandit. To do this, he needs a Medusa artefact</text>	<!-- Changed 'Shustry' to 'Nimble'- Sword2012 - 31 Oct 16-->
+	</string>
+	<string id="tex_esc_shustryi_Jellyfish">
+		<text>\nNimble wants to try out a new transmutation that he learned from a Bandit. To do this, he needs a Medusa artefact</text>	<!-- Changed 'Lively' to 'Nimble'- Sword2012 - 31 Oct 16-->
+	</string>
+	<string id="artmod_141_dialog_0">
+		<text>Hello Major. Are you interested in doing some business?</text>
+	</string>
+	<string id="artmod_141_dialog_1">
+		<text>It'll be my birthday soon, so listen up! We've plenty of food, but not enough booze. Unfortunately, I can't just go to a corner shop and buy some around here... So, if you were to bring me, let's say, ten bottles of vodka, I will give you three boxes of ammunition, plus some useful information. We recently detained a Stalker who swore that he could create a Crystal Thorn. I'll tell you when you bring the vodka, okay? This'll be one piece of business you'll not regret!</text>
+	</string>
+	<string id="artmod_141_dialog_2">
+		<text>Interesting. I really like the sound of this</text>
+	</string>
+	<string id="artmod_141_dialog_3">
+		<text>Not interested. Sorry...</text>
+	</string>
+	<string id="artmod_142_dialog_0">
+		<text>Good morning Major, and a happy birthday to you!</text>
+	</string>
+	<string id="artmod_142_dialog_1">
+		<text>Fuck that, Stalker! Did you bring the vodka?</text>
+	</string>
+	<string id="artmod_142_dialog_2">
+		<text>Yep, ten bottles as requested. The real deal, too...</text>
+	</string>
+	<string id="artmod_142_dialog_3">
+		<text>Well done Stalker! I remembered your reward - three boxes of ammo. Oh, and the recipe. Let me put that in your PDA.\nIf you need any gear from me in future, don't forget to bring vodka!\nThere's another little matter I'd like to discuss with you, but it can wait until later...</text>
+	</string>
+	<string id="tex_esc_bridge_vodka">
+		<text>\nMajor Kuznetsov can supply rounds for an AK-74, plus useful information on artefact transformation, in exchange for ten bottles of vodka. He also promised further bargains to be had upon the successful execution of a personal favour</text>
+	</string>
+	<string id="artmod_161_dialog_0">
+		<text>What kind of medkit do you need?</text>
+	</string>
+	<string id="artmod_161_dialog_1">
+		<text>I'm not sure. The blind dogs around here seem to getting even more mutated, so even the tiniest cut could mean the difference between life and death! You have to cut out the piece of contaminated flesh completely, and disinfect it immediately.\nIf you're up to it, bring me a dozen medkits. I'll give you another artefact recipe, okay?</text>
+	</string>
+	<string id="artmod_161_dialog_2">
+		<text>Okay, I'll get them for you\nAh, the Zone! It's like shit - the deeper you're in, the worse it gets!</text>
+	</string>
+	<string id="artmod_161_dialog_3">
+		<text>Sorry Fox, but I need to move on. You're on your own...</text>
+	</string>
+	<string id="artmod_162_dialog_0">
+		<text>Hi Fox. I've got the ten kits you wanted</text>
+	</string>
+	<string id="artmod_162_dialog_1">
+		<text>Excellent. You brought me Army medkits? Right?</text>
+	</string>
+	<string id="artmod_162_dialog_2">
+		<text>No, the regular ones. You didn't say anything about Army kits...</text>
+	</string>
+	<string id="artmod_162_dialog_3">
+		<text>Sorry, my mistake. They'll do. Here's your recipe, as I promised. Find an Electro anomaly, and throw in a Stone Blood, a Medusa, a dog's tail, and a bottle of vodka. After about ten minutes you'll get a Fireball!</text>
+	</string>
+	<string id="tex_esc_fox_medkit">
+		<text>Fox needs at least ten medkits</text>
+	</string>
+	<string id="artmod_211_dialog_0">
+		<text>Did you say "Thank you?" Sorry, I didn't hear you. How many times I have brought you back from the dead?</text>
+	</string>
+	<string id="artmod_211_dialog_1">
+		<text>Yes, you did rescue me. Forgive my discourtesy, but I do see you're an experienced Stalker, A craftsman recently converted an MP5 submachine gun to use a heavier cartridge. With this, it would be easier for me to fight. I know that a Stalker carrying this very weapon perished in the railway tunnel leading from the Garbage to Agroprom. I'd like you to get it for me. In return, I'll share information I have on how to convert an artefact</text>
+	</string>
+	<string id="artmod_211_dialog_2">
+		<text>In the tunnel you say? Okay, I'll take a look</text>
+	</string>
+	<string id="artmod_211_dialog_3">
+		<text>We'll see. I'm not making any promises</text>
+	</string>
+	<string id="artmod_212_dialog_0">
+		<text>Guess where I've been...</text>
+	</string>
+	<string id="artmod_212_dialog_1">
+		<text>Did you find the gun?</text>
+	</string>
+	<string id="artmod_212_dialog_2">
+		<text>Found it, tested it. Not bad at all. Here you go...</text>
+	</string>
+	<string id="artmod_212_dialog_3">
+		<text>With such a weapon I can defend myself properly. Thank you!! Now, let's add some recipes to your PDA...\nPsst. Listen, Marked One... Can I ask you something?</text>
+	</string>
+	<string id="tex_gar_dram_novice_mp5_m1">
+		<text>\nYurek, a Novice from the Garbage, has asked me to find him a modified MP-5 M1 machine gun</text>
+	</string>
+	<string id="artmod_811_dialog_0">
+		<text>What a day! Okay, what do you need?</text>
+	</string>
+	<string id="artmod_811_dialog_1">
+		<text>I just arrived yesterday from the Cordon, I don't know how...\nI wanted to prove to everyone at the rookie camp that I'm worthy, but as soon as I'd left there I was mugged by Bandits. If I return now, they'll all laugh at me. If I could just get part of a mutant - you know, something like a Burer - then I could hold my head high when I go back. If you have one spare, I'll tell you about a special artefact...</text>
+	</string>
+	<string id="artmod_811_dialog_2">
+		<text>A Burer? You sure you don't want something easier? Like a Bloodsucker or a Chimera? Okay, I'll see what I can do for you...</text>
+	</string>
+	<string id="artmod_811_dialog_3">
+		<text>Alas, poor Yurek, but this is something you have to do for yourself...</text>	<!-- Changed 'Yurik' to 'Yurek'- Sword2012 - 31 Oct 16-->
+	</string>
+	<string id="artmod_812_dialog_0">
+		<text>Hi Yurek. Do you still want a Burer's hand?</text>	<!-- Changed 'Yurik' to 'Yurek'- Sword2012 - 31 Oct 16-->
+	</string>
+	<string id="artmod_812_dialog_1">
+		<text>Oh, yes! Please! Do you have one?</text>
+	</string>
+	<string id="artmod_812_dialog_2">
+		<text>Here, catch. Now you can say you caught it!</text>
+	</string>
+	<string id="artmod_812_dialog_3">
+		<text>Now, when I'm in the camp, I'll walk proudly, full of stories. About you, of course!\nAnyway, regarding this artefact, I overheard a conversation between the Bandits. Not far from here, in the Forgotten Forest, is a very special artefact, an Emerald Medusa. It's next to some big stones, near a den of wild dogs. As if that wasn't enough, some Chimeras have moved into the area, too. Which is why it'll probably still be there. Nobody wants to get within sniffing distance of the area...</text>
+	</string>
+	<string id="tex_gar_dram_novice_burer_hand">
+		<text>\nYurek, a rookie from the Garbage, wants me to bring him a Burer's paw</text>
+	</string>
+	<string id="artmod_831_dialog_0">
+		<text>Interested in conducting business?</text>
+	</string>
+	<string id="artmod_831_dialog_1">
+		<text>Maybe you can do a favour for me and my group?\nOld Stalkers - you know, the ones still alive - they know that a gulp of vodka increases your resistance to radiation and anomalies. They also know that one gulp leads to the whole bottle!\nThere are eight of us here, so if you bring me eight bottles of vodka, and eight boar hooves, I'll give you a very useful and expensive artefact\nDo you agree?</text>
+	</string>
+	<string id="artmod_831_dialog_2">
+		<text>I'm happy to help, as long you're not just using me to get drunk...</text>
+	</string>
+	<string id="artmod_831_dialog_3">
+		<text>Max???, you should not sit near the fire and raise your ass!, might shoot the pig itself</text>
+	</string>
+	<string id="artmod_832_dialog_0">
+		<text>Blin, Max???, you even get up from their seats then?</text>
+	</string>
+	<string id="artmod_832_dialog_1">
+		<text>No problems, my concentration is broken</text>
+	</string>
+	<string id="artmod_832_dialog_2">
+		<text>Here's your vodka and hooves. Took me a while, but I found them all eventually</text>
+	</string>
+	<string id="artmod_832_dialog_3">
+		<text>Thank you, bro. Now my guys will feel like terminators!\nHere's our gift to you, a Ruby Pellicle. If you're sick, it'll help you heal faster. And if you want another, you can make it from a standard Pellicle. Just throw it into a 'Snowball' anomaly and leave it there for ten minutes\nOh - nearly forgot - one of these can destroy an anomaly, but I've forgotten which one...</text>
+	</string>
+	<string id="tex_val_pula_boar_leg">
+		<text>Prapor needs eight wild boar hooves, and eight bottles of vodka. In exchange, he promises an unusual artefact</text>
+	</string>
+	<string id="artmod_221_dialog_0">
+		<text>What happened to your armor?</text>
+	</string>
+	<string id="artmod_221_dialog_1">
+		<text>It's completely worn through, and I've no protection any more...\nI've heard there's is a special Stalker suit hidden somewhere in the Agroprom. If you can find it for me, I'll share some useful information with you</text>
+	</string>
+	<string id="artmod_221_dialog_2">
+		<text>Well, you certainly need one. I'll see if I can find it for you</text>
+	</string>
+	<string id="artmod_221_dialog_3">
+		<text>If I found something like that, I'd probably keep it for myself...</text>
+	</string>
+	<string id="artmod_222_dialog_0">
+		<text>Bes! Good to see you still alive!</text>
+	</string>
+	<string id="artmod_222_dialog_1">
+		<text>Yes, I'm still here, no thanks to this pile of crap I'm wearing!</text>
+	</string>
+	<string id="artmod_222_dialog_2">
+		<text>I found that suit we talked about</text>
+	</string>
+	<string id="artmod_222_dialog_3">
+		<text>Thanks a lot, Marked One. Here, write down this recipe - to make a Slime from a Medusa, throw it into a 'Vortex' with a dog tail, a can of food, and a bandage. And don't ask me how someone found that out...</text>
+	</string>
+	<string id="tex_gar_hellcar_outfit">
+		<text>\nBes, the leader of the Loners at the Garbage, has asked you to find him a special Stalker suit</text>
+	</string>
+	<string id="artmod_311_dialog_0">
+		<text>What the hell do you want Flesh Eyes for?</text>
+	</string>
+	<string id="artmod_311_dialog_1">
+		<text>With his health in disagreements, whether the local climate is not suitable, or something. In the back sometimes so shoots, I cannot straighten up. The guys over there they marched, but I do not to laugh. Held recently old Stalker, Guide beckoning, never met? So he advised me, tincture says make the eyes of the flesh, as arm lift. You bring me three, Hmmm, no, better four eyes, and I find something to thank you enough. I have a sniper rifle. Though old, but come in useful on occasion. I thought it pointless. You see yourself, we have here in peace and quiet. Pig only occasionally blazing. Cartridges, however, is not enough. So that it will save</text>	<!-- Changed 'Explorer' to 'Guide' - Sword2012 - 31 Oct 16-->
+	</string>
+	<string id="artmod_311_dialog_2">
+		<text>I'm sure I could find some Flesh eyes for you</text>
+	</string>
+	<string id="artmod_311_dialog_3">
+		<text>Yes bullshit is all, and once I</text>
+	</string>
+	<string id="artmod_312_dialog_0">
+		<text>How spin ?</text>
+	</string>
+	<string id="artmod_312_dialog_1">
+		<text>Remove some how?, you actually want me to touch one of those things?</text>
+	</string>
+	<string id="artmod_312_dialog_2">
+		<text>Here they are birthmarks, looking at you</text>
+	</string>
+	<string id="artmod_312_dialog_3">
+		<text>Thanks. You are still young and do not understand, what a nervous strain, with the patient back here to defend the passage of. So, here I wrote here Recipe, do not lose it</text>
+	</string>
+	<string id="tex_gar_dolg_flesh_eye">
+		<text>Prapor, the Duty Commander at the Garbage, has asked me to find him four Flesh Eyes</text>
+	</string>
+	<string id="artmod_321_dialog_0">
+		<text>What Nastoechka? Not helped ?</text>
+	</string>
+	<string id="artmod_321_dialog_1">
+		<text>Who knows? Maybe even have a drink. I recently visited the Doctor, he said that the ointment is made from Bloodsucker Tentacles? Can you get me some? Maybe three sets?</text>
+	</string>
+	<string id="artmod_321_dialog_2">
+		<text>Bloodsucker tentacles? They're never easy - but I'll do my best for you</text>
+	</string>
+	<string id="artmod_321_dialog_3">
+		<text>I'm sorry, but I had a run-in with a bloodsucker once, and I'm not doing it again...</text>
+	</string>
+	<string id="artmod_322_dialog_0">
+		<text>What about you? I looked in the firing position</text>
+	</string>
+	<string id="artmod_322_dialog_1">
+		<text>Only you hope for a miraculous ointment</text>
+	</string>
+	<string id="artmod_322_dialog_2">
+		<text>Bury tentacles, but in my opinion you have just done worse</text>
+	</string>
+	<string id="artmod_322_dialog_3">
+		<text>What could be worse, could help. Come on a PDA, I downloaded something about converting a Quirk into a Flash</text>
+	</string>
+	<string id="artmod_322_dialog_4">
+		<text>Well... Get well...</text>
+	</string>
+	<string id="tex_gar_dolg_krovosos_jaw">
+		<text>\nPrapor, the Duty commander in the Garbage, has asked me to find him three bloodsucker tentacles</text>
+	</string>
+	<string id="artmod_711_dialog_0">
+		<text>Good health. How are you?</text>
+	</string>
+	<string id="artmod_711_dialog_1">
+		<text>The Brainiacs in the back room at the Bar say that a belt made from Pseudodogs' tails will somehow radiate heat to the body's core. Can you bring me five of them? In exchange, I'll give you a rare artefact</text>
+	</string>
+	<string id="artmod_711_dialog_2">
+		<text>Yes these tails as dirt, bring it, do not worry</text>
+	</string>
+	<string id="artmod_711_dialog_3">
+		<text>I'm sorry, but I've no intention of getting myself ripped to bits just to keep someone warm...</text>
+	</string>
+	<string id="artmod_712_dialog_0">
+		<text>What about you? I looked in the firing position</text>
+	</string>
+	<string id="artmod_712_dialog_1">
+		<text>It's starting to get cold at night, we need to find ways to keep warm</text>
+	</string>
+	<string id="artmod_712_dialog_2">
+		<text>Here are your tails, and you have an artefact for me?</text>
+	</string>
+	<string id="artmod_712_dialog_3">
+		<text>Oh yes, please take it! With my thanks!</text>
+	</string>
+	<string id="tex_gar_dolg_psevdodog_tail">
+		<text>Prapor, the Duty Commander in the Garbage, has asked me to bring him five Pseudodog tails</text>
+	</string>
+	<string id="artmod_821_dialog_0">
+		<text>If it's all the same to you, I need to talk with Petrenko</text>
+	</string>
+	<string id="artmod_821_dialog_1">
+		<text>alls agree ?!! Do you have to hold cops ?!\nWhile,\nThere is one option.\nWhen we examined the scene where the helicopter crash in the Forgotten Forest, I saw there was an interesting artefact, but to take it did not work, the military arrived. And it is not so far from the entrance to the location, near the three red barrels. But there's one problem, there are many mutants, and mines to come across.\nSince then, I dreamt that damned green stuff.\nCan you bring? there are other rare ones that might interest you as well...</text>
+	</string>
+	<string id="artmod_821_dialog_2">
+		<text>I'll go and check it out for you</text>
+	</string>
+	<string id="artmod_821_dialog_3">
+		<text>And you say no cops. I'm going to talk to the bartender instead</text>
+	</string>
+	<string id="artmod_822_dialog_0">
+		<text>Hello Sergeant. Why the red eyes?</text>
+	</string>
+	<string id="artmod_822_dialog_1">
+		<text>I slept badly. Old, unpleasant dreams...</text>
+	</string>
+	<string id="artmod_822_dialog_2">
+		<text>Keep your riddle, sleep well</text>
+	</string>
+	<string id="artmod_822_dialog_3">
+		<text>Till my dying day I will appreciate, Green plague.\nSo your gift, I think, be useful.\nYou can take. Friend</text>
+	</string>
+	<string id="tex_bar_dolg_base_guard_art">
+		<text>\nSergeant Plichko, head of Duty territory, spotted an unusual artefact in the Forgotten Forest, not far from the entrance by the three red barrels. For this, Plichko promises a reward of an artefact modification Recipe, and permanent access to the Duty base</text>
+	</string>
+	<string id="artmod_851_dialog_0">
+		<text>May have a case there?</text>
+	</string>
+	<string id="artmod_851_dialog_1">
+		<text>There is one option.\nWhen we last tried to get into the X-16, I thought I saw an unusual artefact. We then fought off the Zombies right at the exit from the factory. There at the far wall, right, as viewed from the entrance, is a green construction trailer and inside it was something. At this time the controller has brought us to pass the buck and had to move very quickly.\nCan you bring? I have a new model of anomaly detector, which can determine the type of anomalies</text>
+	</string>
+	<string id="artmod_851_dialog_2">
+		<text>I need to visit Yantar anyway... Sure</text>
+	</string>
+	<string id="artmod_851_dialog_3">
+		<text>pass my regards to the controller, I'm not trying</text>
+	</string>
+	<string id="artmod_852_dialog_0">
+		<text>Hi Master of science</text>
+	</string>
+	<string id="artmod_852_dialog_1">
+		<text>And hello to you, Don Quixote Zonovsky</text>
+	</string>
+	<string id="artmod_852_dialog_2">
+		<text>Keep your mystery, Guide</text>	<!-- Changed 'Explorer' to 'Guide' - Sword2012 - 31 Oct 16-->
+	</string>
+	<string id="artmod_852_dialog_3">
+		<text>Op-pa, so that's what you're like. Emerald.\nKeep decoder, I think, useful</text>
+	</string>
+	<string id="tex_yan_kruglov_green_art">
+		<text>\nKruglov saw an unusual artefact in the factory Yantar (from the entrance to the factory, right to the end, in the construction trailer). If you bring this artefact, he promises to give you the new anomaly detector</text>
+	</string>
+	<string id="artmod_841_dialog_0">
+		<text>What else?</text>
+	</string>
+	<string id="artmod_841_dialog_1">
+		<text>We sent for slaughter, so I rest awhile. To return to the mainland and to prove it, I need an order, which we then gave. To my knowledge, all the orders were stored in a metal safe. The captain kept it on the second floor of the complex. If you got hold of this folder with the orders, then I can quietly dissapear. As a thanks I can offer a very rare artefact, Ruby Battery. Well?</text>
+	</string>
+	<string id="artmod_841_dialog_2">
+		<text>Anything to get you out of here... eh?.</text>
+	</string>
+	<string id="artmod_841_dialog_3">
+		<text>No man, Agroprom is too hot for me</text>
+	</string>
+	<string id="artmod_842_dialog_0">
+		<text>Hi soldier. Any news?</text>
+	</string>
+	<string id="artmod_842_dialog_1">
+		<text>What? All bad?</text>
+	</string>
+	<string id="artmod_842_dialog_2">
+		<text>Contrary, all is well. I found these instructions, keep them</text>
+	</string>
+	<string id="artmod_842_dialog_3">
+		<text>Till my dying day I will appreciate this.\nSo you're gift, I think, will be useful.\nWe will not meet again. Farewell</text>
+	</string>
+	<string id="tex_ratcatcher_order">
+		<text>\ndeserter requests for him to steal the wrongful orders from his superiors. According to a deserter, a folder with the orders kept in a metal safe, on the second floor of the Agricultural Industry</text>	<!-- Changed 'illegal' to 'wrongful'- Sword2012 - 31 Oct 16-->
+	</string>
+	<string id="artmod_251_dialog_0">
+		<text>What matter? Do not keep</text>
+	</string>
+	<string id="artmod_251_dialog_1">
+		<text>I have a couple of days ago, sat in the railway tunnel, in that opposite the entrance to the plant. SOS received from the local guys and pulled to the rescue, but in the confusion charges dropped his PDA. Then warriors came down. Not until I was, maybe shuffling back and forth on the fast, can you find it?. But look out, area was full of anomalies</text>
+	</string>
+	<string id="artmod_251_dialog_2">
+		<text>If I find it, I'll let you know</text>
+	</string>
+	<string id="artmod_251_dialog_3">
+		<text>Anomalies? No, I have my own paths to follow</text>
+	</string>
+	<string id="artmod_252_dialog_0">
+		<text>I found your PDA</text>
+	</string>
+	<string id="artmod_252_dialog_1">
+		<text>Not damaged?</text>
+	</string>
+	<string id="artmod_252_dialog_2">
+		<text>No stop. Check it</text>
+	</string>
+	<string id="artmod_252_dialog_3">
+		<text>Unbelievable, even the batteries are not exhausted. Come on your own, and I promise you the recipe for the Slime artefact</text>
+	</string>
+	<string id="tex_agr_krot_PDA">
+		<text>\nMole requests to find his PDA, which he dropped in a railway tunnel outside the entrance to Agroprom</text>
+	</string>
+	<string id="artmod_871_dialog_0">
+		<text>Hi Wolf! What are you doing here ?</text>
+	</string>
+	<string id="artmod_871_dialog_1">
+		<text>Hi Marked One. So, look for business from here, in the case of breaking the barrier should cause reinforcements from the bar. Tolik, became faint and fell somewhere with the radio, this radio is crucial for monitoring the military. Can you learn about Tolik? I'll let you in on a big secret, how you can eliminate the anomalies, if they are in the way</text>
+	</string>
+	<string id="artmod_871_dialog_2">
+		<text>Perhaps even a Mincer? Okay I'll find this poor guy</text>
+	</string>
+	<string id="artmod_871_dialog_3">
+		<text>I think Tolik will soon be dead</text>
+	</string>
+	<string id="artmod_872_dialog_0">
+		<text>Hello Wolf, I found Tolik</text>
+	</string>
+	<string id="artmod_872_dialog_1">
+		<text>What's wrong with him? Where's the transmitter?</text>
+	</string>
+	<string id="artmod_872_dialog_2">
+		<text>Here, hold. And Tolik, weak-willed, I saw so bloodsucking flashed his heels, mind screwed, release started</text>
+	</string>
+	<string id="artmod_872_dialog_3">
+		<text>Ha, that I overcame, emissions often go.\nSo, about anomalies: I only know as electricity discharge, be it Ruby Battery roll.\nMaybe with other anomalies can be so do you need to look for ways?</text>
+	</string>
+	<string id="artmod_873_dialog_0">
+		<text>Tolik! Why are you sitting there! Wolf is waiting for your ass and the portable radio in the warehouses!</text>
+	</string>
+	<string id="artmod_873_dialog_1">
+		<text>Forgive me, I do not think that in a trouble I caused. On the way to me, threw two no, four bloodsuckers! I put down three, but ran out of ammunition and then my knife broke. Barely alive, gone. Now here's nerves vodka corrected, do not want 300 grams?</text>
+	</string>
+	<string id="artmod_873_dialog_2">
+		<text>Well Tolik, nerves of steal. Where's the transmitter?</text>
+	</string>
+	<string id="artmod_873_dialog_3">
+		<text>Yes there somewhere, for hangars at dump passes trench in which pipe lying around, tractor... I guess there is, if bloodsuckers themselves have not taken, and-and-a, sorry</text>
+	</string>
+	<string id="tex_mil_volk_resiver">
+		<text>Wolf is watching the soldiers, to ensure uninterrupted survalance he must have the radio station. Tolik was supposed to bring the radio station, but nothing about it is known. It is necessary to find and deliver the radio to Wolf</text>
+	</string>
+	<string id="artmod_431_dialog_0">
+		<text>Wow! The guys at the Barrier ask for ammunition as if they feel every shot fired</text>
+	</string>
+	<string id="artmod_431_dialog_1">
+		<text>Heh. And the ammunition is in trouble. End They've got more than NATO weapons, but here in the warehouses only to the Kalash Zinc. Sidor has promised to send the box, the other, but you need to find him a courier. I promised him a new artefact, let the pen, and cartridges. Can hit the road? But not for just. Here to me from all sides flocking information, there are some unusual recipies available</text>
+	</string>
+	<string id="artmod_431_dialog_2">
+		<text>Do not pay it, doing the right thing. I'll go</text>
+	</string>
+	<string id="artmod_431_dialog_3">
+		<text>No, I'm not going</text>
+	</string>
+	<string id="artmod_432_dialog_0">
+		<text>E-me! Keep cartridges. Box. Severe infection!</text>
+	</string>
+	<string id="artmod_432_dialog_1">
+		<text>need? What caliber?</text>
+	</string>
+	<string id="artmod_432_dialog_2">
+		<text>Written, 5.56, but what's inside, not tested</text>
+	</string>
+	<string id="artmod_432_dialog_3">
+		<text>Yes, those that need. Give me your PDA - I promised you the recipe for the Slime artefact. If you're interested, I have other recipes you can earn, too</text>
+	</string>
+	<string id="artmod_433_dialog_0">
+		<text>Hello Sydor, all sitting there guzzling booze, cannot fool the tank</text>
+	</string>
+	<string id="artmod_433_dialog_1">
+		<text>Bring worms, and you have the same will be. From what has come?</text>
+	</string>
+	<string id="artmod_433_dialog_2">
+		<text>Miser sent you a rare artefact, I do not know what, in the sealed box. Asks for NATO ammunition</text>
+	</string>
+	<string id="artmod_433_dialog_3">
+		<text>Yes, he has contacted by radio. Keep the box, look, do not fall, heh, heh, heh</text>
+	</string>
+	<string id="tex_mil_Svoboda_trader_ammo">
+		<text>\nCartridges at the end of the block office near the Barrier. Sidorovich asked Miser to exchange a rare artefact for a box of cartridges</text>
+	</string>
+	<string id="artmod_411_dialog_0">
+		<text>You said, there are recipes?</text>
+	</string>
+	<string id="artmod_411_dialog_1">
+		<text>There. Here a small business. From the knowledgeable people I have information, a group of young military researchers worked with the artefact Cobblestone. They investigated its anti-gravity properties and the applicability of it. The work is not finished, they were lured to America. But two pilot suits with this effect still exist. As usual with the military, about these suits, no one remembers, thrown into an attic and forgotten. Care to steal them for me?</text>
+	</string>
+	<string id="artmod_411_dialog_2">
+		<text>Interesting, be sure to see, what it is</text>
+	</string>
+	<string id="artmod_411_dialog_3">
+		<text>contact with the military reluctant to</text>
+	</string>
+	<string id="artmod_412_dialog_0">
+		<text>I found these suits, awsome things!</text>
+	</string>
+	<string id="artmod_412_dialog_1">
+		<text>And what properties?</text>
+	</string>
+	<string id="artmod_412_dialog_2">
+		<text>allows users to raise an additional 170 kg, but the heavy. Even harmful effects due to their enhancements</text>
+	</string>
+	<string id="artmod_412_dialog_3">
+		<text>OK! Thank you, leave yourself alone, can be useful. Recipie has been added</text>
+	</string>
+	<string id="tex_mil_Svoboda_trader_outfit">
+		<text>\nMiser drew a diagram on how to get to the unique anti-gravity suits. Let me clarify tho: because of the unexplored properties, they tend to fall through the thin wooden floor</text>
+	</string>
+	<string id="artmod_451_dialog_0">
+		<text>You said there are recipes?</text>
+	</string>
+	<string id="artmod_451_dialog_1">
+		<text>There. The guys we have brave, risky. But sometimes they want to thoroughly relax. Treated with vodka, but now rumor, for Agroprom as a result of mutation common hemp acquired special properties, smoke and more three times become, almost through the objects you see. A sense. There, one man moved, mowing it dries. Since fasting had trouble eating rats, drinking swamp water. Take him genuine human food, twenty cans of canned goods, bread and vodka. He'll give you a bag of high quality grass</text>
+	</string>
+	<string id="artmod_451_dialog_2">
+		<text>Stronger than three times?! Wow, try</text>
+	</string>
+	<string id="artmod_451_dialog_3">
+		<text>What are you! Drug couriers to make me want to!!</text>
+	</string>
+	<string id="artmod_452_dialog_0">
+		<text>Hello, drug lords, Keep your 'Plan'</text>
+	</string>
+	<string id="artmod_452_dialog_1">
+		<text>Like grass? Inserts?</text>
+	</string>
+	<string id="artmod_452_dialog_2">
+		<text>himself try, I do not want to become an experimental rat</text>
+	</string>
+	<string id="artmod_452_dialog_3">
+		<text>Okay, Okay, try. Take a recipe, more I do not have</text>
+	</string>
+	<string id="tex_mil_Svoboda_trader_plan">
+		<text>trader Liberty eager to try new, unique herb from the Agroprom! I want twenty cans, twenty loaves, twenty sticks of sausage and five bottles of vodka. In exchange for this Ill give you a bag</text>
+	</string>
+	<string id="artmod_453_dialog_0">
+		<text>Greetings, brave man. They say the grass is radiated?</text>
+	</string>
+	<string id="artmod_453_dialog_1">
+		<text>CRYPTO?! WOW! Give me some papers!</text>
+	</string>
+	<string id="artmod_453_dialog_2">
+		<text>Cmon, do not be a nuisance. I've brought you munchies, absolutely healthy food</text>
+	</string>
+	<string id="artmod_453_dialog_3">
+		<text>Seriously? Though the man himself feel, and how the dog. If you are interested in the grass, directly opposite the entrance lies a bag that's dry.\nCan you ask?</text>
+	</string>
+	<string id="artmod_421_dialog_0">
+		<text>Who else can I help out?</text>
+	</string>
+	<string id="artmod_421_dialog_1">
+		<text>You know Bes, commander of the neutrals in the dump? His unit has run out of ammunition, I have here the bandits' caches, including a box of ammunition. Take it to Bes for me? But remember, it's one HEAVY box. And he can do a lot of wandering in the Zone!</text>
+	</string>
+	<string id="artmod_421_dialog_2">
+		<text>Yes, and I'm not weak, I'll help the stalkers</text>
+	</string>
+	<string id="artmod_421_dialog_3">
+		<text>my Lab to look for</text>
+	</string>
+	<string id="artmod_422_dialog_0">
+		<text>Hi Bes, here, bullet cartridges for you</text>
+	</string>
+	<string id="artmod_422_dialog_1">
+		<text>Just in time! Bandits already showin thier ugly muts!</text>
+	</string>
+	<string id="artmod_422_dialog_2">
+		<text>Keep the box</text>
+	</string>
+	<string id="artmod_422_dialog_3">
+		<text>Thank you, yes, more. Here, a recipe for converting artefacts</text>
+	</string>
+	<string id="tex_val_pula_ammo">
+		<text>Bullet sends ammunition to you Bes, commander of the detachment of the neutrals in the Garbage</text>	<!-- Changed 'Demon' to 'Bes'- Sword2012 - 31 Oct 16-->
+	</string>
+	<string id="artmod_461_dialog_00">
+		<text>not be able to help me find a PDA?</text>
+	</string>
+	<string id="artmod_461_dialog_0">
+		<text>Where did you plant it?</text>
+	</string>
+	<string id="artmod_461_dialog_1">
+		<text>me in the Agricultural Industry, captured in a dungeon. And my PDA, I specifically had hidden there, I thought: it's the end for me, but the PDA has information that should not fall into hands of bandits. I have him on the stairs, near a small corridor with anomalies to the left, there Shemka. Verney, eh? I am in gratitude, conversion recipe: artefacts Stone Blood and Fireball, to a Soul you'll get</text>
+	</string>
+	<string id="artmod_461_dialog_2">
+		<text>interesting recipe. Try</text>
+	</string>
+	<string id="artmod_461_dialog_3">
+		<text>my lab to look for</text>
+	</string>
+	<string id="artmod_462_dialog_0">
+		<text>Hello, barely found your PDA</text>
+	</string>
+	<string id="artmod_462_dialog_1">
+		<text>man</text>
+	</string>
+	<string id="artmod_462_dialog_2">
+		<text>Take</text>
+	</string>
+	<string id="artmod_462_dialog_3">
+		<text>my gratitude has no limits! Give communication code, Salt will you a way to convert.\nCan you even one little crank?</text>
+	</string>
+	<string id="tex_val_escort_PDA">
+		<text>\nReturn Dolgovs PDA, which he hid in a basement of the Agricultural Industry. According to Dolgov, PDA should be at the top of the stairwell, which runs near the hole in the wall, diverting into the hallway with Electro anomalies</text>
+	</string>
+	<string id="artmod_351_dialog_0">
+		<text>I can, why not, if the award is appropriate</text>
+	</string>
+	<string id="artmod_351_dialog_1">
+		<text>Do not worry, do not hurt. I heard that you can convert artefacts? I know a couple of ways, For example: how to get Gravi from Medusa. Okay, to business, there is an interesting novelty in the field of modern weapons, a Gauss Pistol. Who and how it did, it is a separate topic for discussion. We have learned now, where you can find a prototype of the pistol, in the deserted pig farm in the Dark Valley</text>
+	</string>
+	<string id="artmod_351_dialog_2">
+		<text>Gauss-Pistol? Strange sounding toy!. I'll try to find it</text>
+	</string>
+	<string id="artmod_351_dialog_3">
+		<text>Sorry, next time</text>
+	</string>
+	<string id="artmod_352_dialog_0">
+		<text>Good morning! Is Gauss time!</text>
+	</string>
+	<string id="artmod_352_dialog_1">
+		<text>found means. Complications?</text>
+	</string>
+	<string id="artmod_352_dialog_2">
+		<text>But no, in general, although there partying a few shady characters, but I agreed with them</text>
+	</string>
+	<string id="artmod_352_dialog_3">
+		<text>debt in debt will remain. Let's code of communication, a way to convert salt you</text>
+	</string>
+	<string id="tex_bar_dolg_petrenko_gaussgan">
+		<text>\nIn the area of the former pig farm in the Dark Valley is the prototype Gauss-Pistol, Petrenko requests to find and get them back into debt</text>
+	</string>
+	<string id="artmod_551_dialog_0">
+		<text>I heard, you're looking for something?</text>
+	</string>
+	<string id="artmod_551_dialog_1">
+		<text>I received a new recipe, but have not yet tested. You can get the Moonlight from the Flash. But now Flash I have none. Try to get me this artefact, and I'll share with you a recipe</text>
+	</string>
+	<string id="artmod_551_dialog_2">
+		<text>But these Flashes are like dirt, you got it</text>
+	</string>
+	<string id="artmod_551_dialog_3">
+		<text>Sorry, next time</text>
+	</string>
+	<string id="artmod_552_dialog_0">
+		<text>Here Flash, looks like the shining'</text>
+	</string>
+	<string id="artmod_552_dialog_1">
+		<text>found Means. Quick as diarrhea!</text>
+	</string>
+	<string id="artmod_552_dialog_2">
+		<text>Only without insults. Let's recipe</text>
+	</string>
+	<string id="artmod_552_dialog_3">
+		<text>Okay, this is a joke. Add recipe,\nfor speed. Bonus to you. Add or so just remember, you can get a rare artefact from the usual Spring, for this it needs to be thrown into Snowballs, and thus, Ruby Spring resolves the path of Whirligig.\nIf you're so responsible, may have turn one piece of business?</text>
+	</string>
+	<string id="tex_bar_dolg_petrenko_electra_flash">
+		<text>\nPetrenko wants you to find him a Flash artefact</text>
+	</string>
+	<string id="artmod_521_dialog_0">
+		<text>Hi. Will I be able to repair this gun and get this armor patched?</text>
+	</string>
+	<string id="artmod_521_dialog_1">
+		<text>While I can not, not the necessary tools here. Sidorovich promised to gather toolkits, said, long enough. But at the same time want him to convey a unique artefact, can you courier for me? Ill give you a way to convert Flash into Soul!</text>
+	</string>
+	<string id="artmod_521_dialog_2">
+		<text>Why not, give</text>
+	</string>
+	<string id="artmod_521_dialog_3">
+		<text>not before me now, hear, all crammed to the Monolith</text>
+	</string>
+	<string id="artmod_522_dialog_0">
+		<text>Hello Syak. I brought tools</text>
+	</string>
+	<string id="artmod_522_dialog_1">
+		<text>Excellent, now rework can be done. But at the same time will make you fraternal fitting for the work. I have one exclusive suit. Sorry to give. For a bank. Well so be it, keep</text>
+	</string>
+	<string id="artmod_522_dialog_2">
+		<text>Okay, take your box</text>
+	</string>
+	<string id="artmod_522_dialog_3">
+		<text>Wow! It's heavy! There is much info recorded, here it is, on the screen of my PDA.\nIf you need to hide anything, or there to hide from the weather, use a small shelter, which is located opposite the turn to Pripyat. There, before beginning to enter the laboratory X-10, but during one of the emission twisted deep into the gateway and not get. Code to an external door 1287975</text>
+	</string>
+	<string id="tex_sak_repair_box">
+		<text>\nSyak, a trader from the Radar, can make repairs, but you need to bring Sidorovich a box with the necessary tools</text>
+	</string>
+	<string id="artmod_561_dialog_0">
+		<text>There are interesting recipes?</text>
+	</string>
+	<string id="artmod_561_dialog_1">
+		<text>There are, as not to be. There is a way to convert Medusa into a Goldfish! If interested, try find a Goldfish, I want that to compare with what happens, the same properties or not</text>
+	</string>
+	<string id="artmod_561_dialog_2">
+		<text>About what? We'll try to find you a Fish</text>
+	</string>
+	<string id="artmod_561_dialog_3">
+		<text>Oh, what do I need it</text>
+	</string>
+	<string id="artmod_562_dialog_0">
+		<text>With all respect, is Goldfish!</text>
+	</string>
+	<string id="artmod_562_dialog_1">
+		<text>Come on, come on. Let's see, different or not</text>
+	</string>
+	<string id="artmod_562_dialog_2">
+		<text>Hold</text>
+	</string>
+	<string id="artmod_562_dialog_3">
+		<text>Get your PDA, connect, I swing you the recipe</text>
+	</string>
+	<string id="tex_sak_gold_fish">
+		<text>\nSyak, a trader from the Radar, wants me to bring him a Goldfish artefact</text>
+	</string>
+	<string id="artmod_631_dialog_0">
+		<text>There are interesting recipes?</text>
+	</string>
+	<string id="artmod_631_dialog_1">
+		<text>In Greece, everything is. There's a way to convert a Goldfish to a Glassbeads! Not bad, huh? And now the problem: from the laboratory to the X-18 scientists abandoned a small Safe, bring it here. To my knowledge, there is something inside that I really want! You bring?</text>
+	</string>
+	<string id="artmod_631_dialog_2">
+		<text>A Glassbeads, you say? Okay, I'll find one for you</text>
+	</string>
+	<string id="artmod_631_dialog_3">
+		<text>I have a Glassbeads for you</text>
+	</string>
+	<string id="artmod_632_dialog_0">
+		<text>Well, you fellow, Syak, little Safe... Half a ton of weight!</text>
+	</string>
+	<string id="artmod_632_dialog_1">
+		<text>Come to exaggerate it. Couldn't be more than 200 kg</text>
+	</string>
+	<string id="artmod_632_dialog_2">
+		<text>Take care. Bros-ah-ah-yu!</text>
+	</string>
+	<string id="artmod_632_dialog_3">
+		<text>What are you, my port inventory! Be careful! Okay, write another recepie</text>
+	</string>
+	<string id="tex_sak_find_seif">
+		<text>\nSyak, a trader in the Radar, asked me to bring safe from laboratory X-18</text>
+	</string>
+	<string id="artmod_651_dialog_0">
+		<text>There are interesting recipes?</text>
+	</string>
+	<string id="artmod_651_dialog_1">
+		<text>last known to me. Is there a way to convert Night Star into a Battery! Interested? The task is not difficult: I agreed with Miser on the radio, he has a new model of Armor, but, something does not work. I need it for research, can repair. Take money to Miser?</text>
+	</string>
+	<string id="artmod_651_dialog_2">
+		<text>new model, I'll take it</text>
+	</string>
+	<string id="artmod_651_dialog_3">
+		<text>Battery, yes, she tries need</text>
+	</string>
+	<string id="artmod_652_dialog_0">
+		<text>I brought Armor, just super!</text>
+	</string>
+	<string id="artmod_652_dialog_1">
+		<text>Come here</text>
+	</string>
+	<string id="artmod_652_dialog_2">
+		<text>Hold</text>
+	</string>
+	<string id="artmod_652_dialog_3">
+		<text>Yes. Well, infection. I'll see what happened to him. While getting the recipe</text>
+	</string>
+	<string id="tex_sak_reward_outfit">
+		<text>\nSyak, a trader in the Radar, asked me to exchange money with Miser for a new model of armor</text>
+	</string>
+	<string id="artmod_523_dialog_0">
+		<text>Hello Sydor, all sitting there reekin a booze, hard to notice, NOT!</text>
+	</string>
+	<string id="artmod_523_dialog_1">
+		<text>Bring Worms, and you will have the same. From what has come?</text>
+	</string>
+	<string id="artmod_523_dialog_2">
+		<text>Syak you sent a rare artefact, I do not know what, in the sealed box. He asks him to buy an instrument, any</text>
+	</string>
+	<string id="artmod_523_dialog_3">
+		<text>Yes, he has contacted by radio. Keep the box, look, do not fall. heh, heh, heh</text>
+	</string>
+	<string id="artmod_653_dialog_0">
+		<text>Good Narko, I thought you were already flying</text>
+	</string>
+	<string id="artmod_653_dialog_1">
+		<text>fly with you, all completely smoked</text>
+	</string>
+	<string id="artmod_653_dialog_2">
+		<text>Syak Salvage sent to you, you said he promised Armor</text>
+	</string>
+	<string id="artmod_653_dialog_3">
+		<text>Yes, he contacted me by radio. Here it is, SEVA-10, the fly did not sit well. Only the system waste output has a hiccup. If crap ones pants, then, in deep shit he will be going!</text>
+	</string>
+	<string id="artmod_643_dialog_0">
+		<text>Hello, Mug Tenacious. Here I have for you good artefact</text>
+	</string>
+	<string id="artmod_643_dialog_1">
+		<text>Where? What kind of artefact?</text>
+	</string>
+	<string id="artmod_643_dialog_2">
+		<text>Kruglov handed, said good</text>
+	</string>
+	<string id="artmod_643_dialog_3">
+		<text>Aaaa, This. Well, take your money. Scientists, pancakes, the same swindler like everyone else!</text>
+	</string>
+	<string id="artmod_663_dialog_0">
+		<text>Good evening, Professor, I am in agreement with Petrenko</text>
+	</string>
+	<string id="artmod_663_dialog_1">
+		<text>Aaa, unusual artefact?</text>
+	</string>
+	<string id="artmod_663_dialog_2">
+		<text>Petrenko said there was still such</text>
+	</string>
+	<string id="artmod_663_dialog_3">
+		<text>Yes, judging by the description, nonsense! I promised him a new Exoskeleton for his brother, take it</text>
+	</string>
+	<string id="artmod_53_61_dialog_0">
+		<text>Don't knowledgeable people say: Information is the best investment?</text>
+	</string>
+	<string id="artmod_53_61_dialog_2">
+		<text>Can you help find the way to the base of Freedom?</text>
+	</string>
+	<string id="artmod_53_61_dialog_90">
+		<text>Rumor has it that you can immediately get in the Sarcophagus, this true?</text>
+	</string>
+	<string id="artmod_53_61_dialog_93">
+		<text>Well you say so, not one piece of information, besides very expensive.\nseems to be in stock anomaly, Jumper is called, and the one could throw, not in the Sarcophagus, no! But very close to him</text>
+	</string>
+	<string id="artmod_53_61_dialog_94">
+		<text>How expensive?</text>
+	</string>
+	<string id="artmod_53_61_dialog_30">
+		<text>held in the Radar at the Army Warehouses, and could not get back. Would you know how to get it back?</text>
+	</string>
+	<string id="artmod_53_61_dialog_3">
+		<text>Can. For some money</text>
+	</string>
+	<string id="artmod_53_61_dialog_41">
+		<text>find himself</text>
+	</string>
+	<string id="artmod_53_61_dialog_42">
+		<text>And how much will it cost?</text>
+	</string>
+	<string id="artmod_53_61_dialog_5">
+		<text>I think that it is not very much for this valuable information, a total of 100,000ru. Well, you take?</text>
+	</string>
+	<string id="artmod_53_61_dialog_55">
+		<text>I think that it is not very much for this valuable information, a total of 150,000ru. Well, you take?</text>
+	</string>
+	<string id="artmod_53_61_dialog_95">
+		<text>see, a lot of stalkers would like to have such information, but only for you, total 400,000ru Timber. Hast such midwife?</text>
+	</string>
+	<string id="artmod_53_61_dialog_61">
+		<text>Oh, no, I'll manage somehow</text>
+	</string>
+	<string id="artmod_53_61_dialog_62">
+		<text>With a good scheme. Life lessons. Keep</text>
+	</string>
+	<string id="artmod_53_61_dialog_92">
+		<text>grandmother is not a problem, the main thing that all of the concepts was, keep</text>
+	</string>
+	<string id="artmod_53_61_dialog_7">
+		<text>right choice</text>
+	</string>
+	<string id="artmod_53_61_dialog_8">
+		<text>hope</text>
+	</string>
+	<string id="artmod_53_61_dialog_1">
+		<text>What for?</text>
+	</string>
+	<string id="artmod_53_61_dialog_10">
+		<text>Are there cheap recipes for transformation of artefacts?</text>
+	</string>
+	<string id="artmod_53_61_dialog_12">
+		<text>No, I do not need anything</text>
+	</string>
+	<string id="artmod_53_61_dialog_11">
+		<text>I'll find it. Price question, 30,000ru. Agreed</text>
+	</string>
+	<string id="artmod_53_61_dialog_141">
+		<text>agree</text>
+	</string>
+	<string id="artmod_53_61_dialog_142">
+		<text>no money</text>
+	</string>
+	<string id="artmod_53_61_dialog_20">
+		<text>Any other recipes for the transformation of artefacts?</text>
+	</string>
+	<string id="artmod_53_61_dialog_21">
+		<text>Recipe for Pacifiers. Price question, 50,000ru. Agreed</text>
+	</string>
+	<string id="artmod_53_61_dialog_241">
+		<text>agree</text>
+	</string>
+	<string id="artmod_53_61_dialog_15">
+		<text>threw off the data on the PDA</text>
+	</string>
+	<string id="artmod_53_61_dialog_16">
+		<text>Excellent</text>
+	</string>
+	<string id="artmod_541_dialog_000">
+		<text>Greetings, Kruglov</text>
+	</string>
+	<string id="artmod_541_dialog_00">
+		<text>Marked One, you're there in the Laboratory, is it not there?</text>
+	</string>
+	<string id="artmod_541_dialog_0">
+		<text>What decoder?</text>
+	</string>
+	<string id="artmod_541_dialog_1">
+		<text>Sugars, Ghost gave him a new model decoder with the function of the triangulation of the disturbing effects of alternating-gradient wave Psi-emissions</text>
+	</string>
+	<string id="artmod_541_dialog_11">
+		<text>Um, okay... So?</text>
+	</string>
+	<string id="artmod_541_dialog_12">
+		<text>In general, a small box with the numbers, when the specter of the last time the connection went out. Said that is located near the main control office. Look there if you bring I'll share with you a recipe for transforming Gravi into Goldfish</text>
+	</string>
+	<string id="artmod_541_dialog_2">
+		<text>Okay, walk, like there is now a purpose</text>
+	</string>
+	<string id="artmod_541_dialog_3">
+		<text>What, are you crazy? I bid zombies to fight</text>
+	</string>
+	<string id="artmod_542_dialog_0">
+		<text>I found your 'precious'. This?</text>
+	</string>
+	<string id="artmod_542_dialog_1">
+		<text>Nuka</text>
+	</string>
+	<string id="artmod_542_dialog_2">
+		<text>Hold</text>
+	</string>
+	<string id="artmod_542_dialog_3">
+		<text>He's the most, thanks to all of our science. Add recepies. Another walk to Sidorovich?</text>
+	</string>
+	<string id="tex_yan_kruglov_decoder">
+		<text>\nKruglov is looking for a lost decoder. According to him, the decoder can be in the laboratory of X-16 near the main control panel</text>
+	</string>
+	<string id="artmod_641_dialog_0">
+		<text>Why?</text>
+	</string>
+	<string id="artmod_641_dialog_1">
+		<text>Well. I understand you're not one to blab. You see, I'm sitting on a bare salary. Sakharov especially does not pamper. And then recently I found an artefact, with unusual properties. I got in touch with all stages, he agreed to pay a pretty penny. He had to pass a container with artefacts, well, and I payed. In the area it has become known that you have the money, not greedy, are interested in more unusual, so I'll recepie show, as a Bun could boil</text>
+	</string>
+	<string id="artmod_641_dialog_2">
+		<text>Okay, maintaining native science</text>
+	</string>
+	<string id="artmod_641_dialog_3">
+		<text>Her children, their affairs they themselves arranged</text>
+	</string>
+	<string id="artmod_642_dialog_0">
+		<text>Hello</text>
+	</string>
+	<string id="artmod_642_dialog_1">
+		<text>Well? All right?</text>
+	</string>
+	<string id="artmod_642_dialog_2">
+		<text>Normally, keep your money</text>
+	</string>
+	<string id="artmod_642_dialog_3">
+		<text>Thank you, if that be, always just ask. Added recipie</text>
+	</string>
+	<string id="tex_yan_kruglov_art">
+		<text>\nKruglov wants to earn. Sent a unique artefact to Sidorovich, requests to bring payment</text>
+	</string>
+	<string id="artmod_621_dialog_0">
+		<text>What is required?</text>
+	</string>
+	<string id="artmod_621_dialog_1">
+		<text>Some time after the second release, several groups of scientists continued to work in secret laboratories. Their observations and conclusions would very much help in the process of cognition of the anomalous Zone. If you can, try to check the laboratory X-18, X-16 and a laboratory in the Radar. Judging from the fragmentary information that survived, several notebooks and manuscripts still exist. For a fee not to worry, there is a recipe for artefact Pellicle, it will be yours</text>
+	</string>
+	<string id="artmod_621_dialog_2">
+		<text>And share the findings? Well</text>
+	</string>
+	<string id="artmod_621_dialog_3">
+		<text>Sorry, I can not do this</text>
+	</string>
+	<string id="artmod_622_dialog_0">
+		<text>Hello, Professor</text>
+	</string>
+	<string id="artmod_622_dialog_1">
+		<text>What? Is that it?</text>
+	</string>
+	<string id="artmod_622_dialog_2">
+		<text>Yes, this is the book and a couple of manuscripts</text>
+	</string>
+	<string id="artmod_622_dialog_3">
+		<text>So, we must carefully examine. The recipe you have earned, this is exactly. Load the memory.\nYes, there is much necessary information. Describes how to use the teleport. Nothing, a</text>
+	</string>
+	<string id="tex_yan_scientist_books">
+		<text>\nSakharov asked to check the laboratories X-16, X-18 and a laboratory in the Radar, to bring all the manuscripts and books that are there. According to preliminary data in the X-18 book, should be in a room with a refrigerator. The X-16 book may be in the room where I linked to Ghost the last time out. The laboratory notebook in the Radar may be near the main control panel</text>
+	</string>
+	<string id="artmod_661_dialog_0">
+		<text>What is required?</text>
+	</string>
+	<string id="artmod_661_dialog_1">
+		<text>Sakharov has two Exoskeletons, I arranged with him to exchange the pair for a rare artefact. You work by courier? I'll share a recipe with you</text>
+	</string>
+	<string id="artmod_661_dialog_2">
+		<text>These recipes are killing me... Okay, I'll be your mule...</text>
+	</string>
+	<string id="artmod_661_dialog_3">
+		<text>Find another</text>
+	</string>
+	<string id="artmod_662_dialog_0">
+		<text>you, I absolutely welcome</text>
+	</string>
+	<string id="artmod_662_dialog_1">
+		<text>Op-PA, our runner. How it hangin?</text>
+	</string>
+	<string id="artmod_662_dialog_2">
+		<text>fetched, so they both</text>
+	</string>
+	<string id="artmod_662_dialog_3">
+		<text>Well thanks to the debt you have, you'll be presented at the Encouragements. Get your PDA, write a prescription</text>
+	</string>
+	<string id="tex_bar_dolg_petrenko_exo">
+		<text>\nIn exchange for two Exoskeletons from Sakharov, Petrenko will give you a rare artefact</text>
+	</string>
+	<string id="artmod_511_dialog_0">
+		<text>I'm listening</text>
+	</string>
+	<string id="artmod_511_dialog_1">
+		<text>alone will remain between us? Can you pass one thing to Miser?</text>
+	</string>
+	<string id="artmod_511_dialog_2">
+		<text>Sure, why not.</text>
+	</string>
+	<string id="artmod_511_dialog_3">
+		<text>Find another</text>
+	</string>
+	<string id="artmod_512_dialog_0">
+		<text>Well. I brought you something</text>
+	</string>
+	<string id="artmod_512_dialog_1">
+		<text>not yell. Let us so that nobody saw</text>
+	</string>
+	<string id="artmod_512_dialog_2">
+		<text>Here's your money</text>
+	</string>
+	<string id="artmod_512_dialog_3">
+		<text>OK. Get your PDA, write a prescription</text>
+	</string>
+	<string id="playboy_dialog_0">
+		<text>Greetings, soldier</text>
+	</string>
+	<string id="playboy_dialog_1">
+		<text>Listen, you lot where Mota, can you find me one Vesh</text>
+	</string>
+	<string id="playboy_dialog_4">
+		<text>And what is a Vesh? And what I get for this?</text>
+	</string>
+	<string id="playboy_dialog_5">
+		<text>Do not worry, does not hurt. I know where a unique Vintorez is to find.\nI need a magazine, Playboy, do not think, not because of my aunts. I just got one recipe written, I really want. A few days ago I sat with Baldy, tired of vodka. I woke up, and the magazine, then no. I remember, I'm on the entire Bar aunts there praised, that's who then appeared. There three charming brunettes on the cover. Well?</text>
+	</string>
+	<string id="playboy_dialog_2">
+		<text>right, gets caught, mags, will try to bring</text>
+	</string>
+	<string id="playboy_dialog_3">
+		<text>Find another</text>
+	</string>
+	<string id="playboy2_dialog_0">
+		<text>Well. I brought you something</text>
+	</string>
+	<string id="playboy2_dialog_1">
+		<text>Okay, this?</text>
+	</string>
+	<string id="playboy2_dialog_2">
+		<text>Well you said three brunettes?</text>
+	</string>
+	<string id="playboy2_dialog_3">
+		<text>Yes they are, my beautiful, Ugh! what.\nWell, then, at the Agricultural Industry in the commanders base is a safe, in which he holds the most unique things, there must be the Vintorez</text>
+	</string>
+	<string id="tex_bar_ivancov_playboy">
+		<text>\nIvantsov, lost Playboy magazine with information recorded in the recipe for the return promise to tell where to get a unique VCC Vintorez. On the cover of the magazine, three charming brunettes</text>
+	</string>
+	<string id="artmod_513_dialog_0">
+		<text>Hello, Sailor</text>
+	</string>
+	<string id="artmod_513_dialog_1">
+		<text>What have you got?</text>
+	</string>
+	<string id="artmod_513_dialog_2">
+		<text>little man out of debt, Captain Ivantsov, says hello and asks him to pour weighty MNT</text>
+	</string>
+	<string id="artmod_513_dialog_3">
+		<text>long, ept. Grandmother that everyone loves. Let this Vesch</text>
+	</string>
+	<string id="sak_hello_dialog_0">
+		<text>Hello Marked One. Come, let's talk</text>
+	</string>
+	<string id="sak_hello_dialog_1">
+		<text>Hi Marked One, heard a lot of flattering things about you. Want to know a way to convert an artefact?</text>
+	</string>
+	<string id="sak_hello_dialog_2">
+		<text>Well, Marked One, what have you brought?</text>
+	</string>
+	<string id="sak_hello_dialog_3">
+		<text>Well there is something I can do?</text>
+	</string>
+	<string id="sak_hello_dialog_4">
+		<text>In the process</text>
+	</string>
+	<string id="sak_hello_dialog_5">
+		<text>Later on I will give</text>
+	</string>
+	<string id="sak_hello_dialog_6">
+		<text>Hello, Warrior</text>
+	</string>
+	<string id="sak_repair_0">
+		<text>Can you repair armor?</text>
+	</string>
+	<string id="sak_repair_1">
+		<text>Let's see, ta-aak, can do it, but need the money. Have you?</text>
+	</string>
+	<string id="sak_repair_4">
+		<text>Yes, here it is, repair</text>
+	</string>
+	<string id="sak_repair_5">
+		<text>Blinn, I am stranded</text>
+	</string>
+	<string id="sak_repair_7">
+		<text>Well, the mind can not be said that the new, but all the protective functions are working properly</text>
+	</string>
+	<string id="sak_repair_9">
+		<text>Thank you, I hope, not the last time</text>
+	</string>
+	<string id="tex_bar_ivancov_rg6">
+		<text>Ivantsov, behind the Command Duty, maintains contact with Freedom. Miser wants to sell a RG-6 Grenade launcher to the trader in Liberty. He promises to provide a Transmutation recipe</text>
+	</string>
+	<string id="enc_artmod">
+		<text>Artefact Modification</text>
+	</string>
+	<!-- moved string id: "enc_wpn-gungauss" and "wpn-gungauss" in to the "string_table_enc_weapons.xml" file -aleks1970 -->
+	<string id="enc_artmod_mincer_meat_mosquito_bald_text">
+		<text>\n.\nThe 'Meat Chunk' artefact can be produced in a Springboard anomaly with just four ingredients:\nQuirk\nStone Blood\nVodka\nDog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_electra_sparkler_mosquito_bald_text">
+		<text>\n.\nThe 'Sparkler' artefact can be produced in a Springboard anomaly with just four ingredients:\nDroplet\nSausage\nBandage\nDog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_ameba_slug_mosquito_bald_text">
+		<text>\n.\nThe 'Slug' artefact can be produced in a Springboard anomaly with just four ingredients:\nDroplet\nMedusa\nVodka\nBandage.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_cristall_mosquito_bald_text">
+		<text>\n.\nThe 'Crystal' artefact can be produced in a Springboard anomaly with just four ingredients:\nMeat Chunk\nFireball\nQuirk\nFlesh eye.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_rusty_sea_urchin_mosquito_bald_text">
+		<text>\n.\nThe 'Urchin' artefact can be produced in a Springboard anomaly with just four ingredients:\nSlime\nCrystal Thorn\nStone Blood\nBloodsucker tentacles.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_dummy_dummy_mosquito_bald_text">
+		<text>\n.\nThe 'Dummy' artefact can be produced in a Springboard anomaly with just four ingredients:\nNight Star\nMeat Chunk\nCrystal\nMica.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_ameba_slug_gravi_zone_text">
+		<text>\n.\nThe 'Slug' artefact can be produced in a Vortex anomaly with just four ingredients:\nQuirk\nMedusa\nSausage\nDog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_ameba_slime_gravi_zone_text">
+		<text>\n.\nThe 'Slime' artefact can be produced in a Vortex anomaly with just four ingredients:\nMedusa\nCan of food\nBandage\nDog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_electra_flash_gravi_zone_text">
+		<text>\n.\nThe 'Flash' artefact can be produced in a Vortex anomaly with just four ingredients:\nQuirk\nStone Blood\nDog tail\nVodka.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_night_star_gravi_zone_text">
+		<text>\n.\nThe 'Night Star' artefact can be produced in a Vortex anomaly with just four ingredients:\nThorn\nCrystal Thorn\nMedusa\nPseudodog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_soul_gravi_zone_text">
+		<text>\n.\nThe 'Soul' artefact can be produced in a Vortex anomaly with just four ingredients:\nFlash\nSlug\nStone Flower\nSnork leg.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_dummy_pellicle_gravi_zone_text">
+		<text>\n.\nThe 'Pellicle' artefact can be produced in a Vortex anomaly with just four ingredients:\nSoul\nGoldfish\nCrystal\nMica.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_cristall_flower_mincer_text">
+		<text>\n.\nThe 'Stone Flower' artefact can be produced in a Whirligig anomaly with just four ingredients:\nStone Blood\nBandage\nMedusa\nCan of food.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_drops_mincer_text">
+		<text>\n.\nThe 'Droplet' artefact can be produced in a Whirligig anomaly with just four ingredients:\nQuirk\nVodka\nBandage\nDog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_rusty_kristall_mincer_text">
+		<text>\n.\nThe 'Crystal Thorn' artefact can be produced in a Whirligig anomaly with just four ingredients:\nSparkler\nMedusa\nCan of food\nDog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_electra_moonlight_mincer_text">
+		<text>\n.\nThe 'Moonlight' artefact can be produced in a Whirligig anomaly with just four ingredients:\nFireball\nSlug\nStone Blood\nBloodsucker tentacles.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_ameba_slug_mincer_text">
+		<text>\n.\nThe 'Mica' artefact can be produced in a Whirligig anomaly with just four ingredients:\nFlash\nFireball\nQuirk\nPseudodog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_dummy_glassbeads_mincer_text">
+		<text>\n.\nThe 'Glassbeads' artefact can be produced in a Whirligig anomaly with just four ingredients:\nNight Star\nGoldfish\nUrchin\nMica.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_rusty_kristall_buzz_text">
+		<text>\n.\nThe 'Crystal Thorn' artefact can be produced in a Fruit Punch anomaly with just four ingredients:\nSparkler\nDroplet\nMedusa\nBread.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_rusty_thorn_buzz_text">
+		<text>\n.\nThe 'Thorn' artefact can be produced in a Fruit Punch anomaly with just four ingredients:\nStone Blood\nBread\nBandage\nDog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_fireball_buzz_text">
+		<text>\n.\nThe 'Fireball' artefact can be produced in a Fruit Punch anomaly with just four ingredients:\nThorn\nQuirk\nSnork leg\nBread.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_cristall_buzz_text">
+		<text>\n.\nThe 'Crystal' artefact can be produced in a Fountain anomaly with just four ingredients:\nStone Flower\nFireball\nMedusa\nBloodsucker tentacles.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_night_star_buzz_text">
+		<text>\n.\nThe 'Goldfish' artefact can be produced in a Fruit Punch anomaly with just four ingredients:\nGravi\nFlash\nStone Blood\nPseudodog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_fuzz_kolobok_buzz_text">
+		<text>\n.\nThe 'Kolobok' artefact can be produced in a Fruit Punch anomaly with just four ingredients:\nUrchin\nMoonlight\nSoul\nNight Star.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_electra_flash_zharka_text">
+		<text>\n.\nThe 'Flash' artefact can be produced in a Burner anomaly with just four ingredients:\nMedusa\nQuirk\nThorn\nVodka.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_ameba_slime_zharka_text">
+		<text>\n.\nThe 'Slime' artefact can be produced in a Burner anomaly with just four ingredients:\nMedusa\nStone Blood\nSausage\nDog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_gravi_zharka_text">
+		<text>\n.\nThe 'Gravi' artefact can be produced in a Burner anomaly with just four ingredients:\nMedusa\nStone Blood\nBandage\nCan of food.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_night_star_zharka_text">
+		<text>\n.\nThe 'Night Star' artefact can be produced in a Burner anomaly with just four ingredients:\nCrystal Thorn\nFlash\nQuirk\nSnork leg.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_electra_moonlight_zharka_text">
+		<text>\n.\nThe 'Moonlight' artefact can be produced in a Burner anomaly with just four ingredients:\nGravi\nFlash\nMedusa\nBloodsucker tentacles.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_dummy_battery_zharka_text">
+		<text>\n.\nThe 'Battery' artefact can be produced in a Burner anomaly with just four ingredients:\nFlash\nMica\nVodka\nDog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_medusa_galant_text">
+		<text>\n.\nThe 'Medusa' artefact can be produced in an Electro anomaly with just four ingredients:\nTushkano head\nBandage\nCan of food\nDog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_fireball_galant_text">
+		<text>\n.\nThe 'Fireball' artefact can be produced in an Electro anomaly with just four ingredients:\nMedusa\nStone Blood\nDog tail\nVodka.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_cristall_flower_galant_text">
+		<text>\n.\nThe 'Stone Flower' artefact can be produced in an Electro anomaly with just four ingredients:\nQuirk\nThorn\nCan of food\nDog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_ameba_mica_galant_text">
+		<text>\n.\nThe 'Mica' artefact can be produced in an Electro anomaly with just four ingredients:\nSlime\nMedusa\nThorn\nSausage.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_electra_moonlight_galant_text">
+		<text>\n.\nThe 'Soul' artefact can be produced in an Electro anomaly with just four ingredients:\nGravi\nFireball\nStone Blood\nPseudodog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_gold_fish_galant_text">
+		<text>\n.\nThe 'Goldfish' artefact can be produced in an Electro anomaly with just four ingredients:\nMedusa\nStone Flower\nThorn\nFlesh eye.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_Jellyfish_galant_text">
+		<text>\n.\nThe 'Medusa' artefact can be produced in an Electro anomaly with just four ingredients:\nTushkano head\nCan of food\nBandage\nDog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_info_artmod_vyvert_buzz_text">
+		<text>\n.\nThe 'Quirk' artefact can be produced in a Fruit Punch anomaly with just four ingredients:\nTushkano head\nCan of food\nBandage\nDog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<string id="enc_artmod_dummy_spring_galant_text">
+		<text>\n.\nThe 'Spring' artefact can be produced in an Electro anomaly with just four ingredients:\nStone Flower\nCrystal\nPseudodog tail\nCan of food.\nTransformation should occur within 5-10 minutes Zone Time</text>
+	</string>
+	<!-- AR -->
+	<string id="enc_artmod_life_heart_ice_zone_text">
+		<text>%c[default]\nunique, very rare artefact. It has truly miraculous properties - to resurrect the dead! The only drawback - a huge burden.\n.\nArtefact can be produced by combining four artefacts in a Snow anomaly\nNight Star, Goldfish, Urchin, and Dummy.\n%c[255,255,255,255]Time for transmutation %c[255,224,224,160]5 minutes Zone Time\n%c[255,255,255,255]Probability of successful transmutation %c[255,1,255,1] 100% %c[default]</text>
+	</string>
+	<string id="af_life_heart">
+		<text>The heart</text>
+	</string>
+	<string id="af_life_heart_s">
+		<text>The heart</text>
+	</string>
+	<string id="af_life_heart_desc">
+		<text>\n.\nunique, very rare artefact. It has truly miraculous properties - to resurrect the dead! The only drawback - a large burden</text>
+	</string>
+	<string id="af_medusa_emerald">
+		<text>Emerald jellyfish</text>
+	</string>
+	<string id="af_medusa_emerald_s">
+		<text>'Emerald'</text>
+	</string>
+	<string id="enc_af_medusa_green">
+		<text>\n.\nUnique artefact. In appearance, the usual 'Medusa', but green. Is not radioactive, emits a weak light. There is a perception that it is a result of combining the two anomalies - 'Springboard' and 'Fruit Punch. Adds protection from bullet impacts, but drops her from the mutants and anomalies</text>
+	</string>
+	<string id="af_Jellyfish">
+		<text>Emerald Medusa</text>
+	</string>
+	<string id="af_Jellyfish_green">
+		<text>\n.\nunique artefact, seemingly ordinary "Medusa", but green. It is not radioactive, emits a weak light. Thought to appear as a result of combining the two anomalies - 'Springboard' and 'brawn'. Adds protection from bullet impacts, but reduces it from mutants and anomalies</text>
+	</string>
+	<string id="af_vyvert_emerald">
+		<text>Emerald Quirk</text>
+	</string>
+	<string id="af_vyvert_emerald_s">
+		<text>Emerald Quirk</text>
+	</string>
+	<string id="enc_af_vyvert_green">
+		<text>\n.\nunique artefact, seemingly ordinary "Quirk", but green. It is not radioactive, emits a weak light. It is believed that he appears as a result of combining two anomalies - 'Springboard' and 'brawn'. Pretty good protection against mutants, but reduces the protection from bullet impacts</text>
+	</string>
+	<string id="af_blood_emerald">
+		<text>The Emerald Stone Blood</text>
+	</string>
+	<string id="af_blood_emerald_s">
+		<text>Emerald Stone</text>
+	</string>
+	<string id="enc_af_blood_green">
+		<text>\n.\nunique artefact, seemingly normal "Stone Blood", but green. It is not radioactive, emits a weak light. There is a perception that it appears as a result of combining the two anomalies - Whirligig anomaly and "brawn". Pretty good protection against anomalies, but also reduces protection from bullet impacts</text>
+	</string>
+	<string id="af_pellicle">
+		<text>Ruby Pellicle</text>
+	</string>
+	<string id="af_pellicle_s">
+		<text>Ruby Pellicle</text>
+	</string>
+	<string id="af_pellicle_red">
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+5\n%c[default]\nunique artefact in appearance resembles a regular "Pellicle", but red. Slightly radioactive, emits light. Perhaps transmutes from the "Pellicles" by ingestion of an anomaly "Snow." Has the effect of the rapid healing of open wounds, little protection against anomalies but significantly reduces the protection of bullet impacts</text>
+	</string>
+	<string id="af_red_spring">
+		<text>Ruby spring</text>
+	</string>
+	<string id="af_red_spring_s">
+		<text>Ruby spring</text>
+	</string>
+	<string id="enc_af_red_spring">
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+5\n%c[default]\nunique artefacts, resembles normal "Spring" but red. Slightly radioactive, emits light. Perhaps transmutes from the "spring" if it enters the anomaly of "Snow". Has the effect of protection against impact</text>
+	</string>
+	<string id="af_red_battery">
+		<text>Ruby battery</text>
+	</string>
+	<string id="af_red_battery_s">
+		<text>Ruby battery</text>
+	</string>
+	<string id="enc_af_red_battery">
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+10\n%c[default]\nunique artefact in appearance resembles a regular "battery", but red. Slightly radioactive, emits light. Perhaps transmutes from the "Batteries" if it enters the anomaly of "Snow". Has the effect of restoration of forces, protection from electro anomalies and a little protection from shock impacts</text>
+	</string>
+	<string id="st_detector_sak">
+		<text>Universal Anomaly detector</text>
+	</string>
+	<string id="st_detector_sak_s">
+		<text>Anomaly detector</text>
+	</string>
+	<string id="enc_equipment_devic_detect_sak">
+		<text>Detector, the latest development in the field of digital research into paranormal phenomena, to detect and identify virtually any anomaly</text>
+	</string>
+	<string id="doctor_teleport_11">
+		<text>is my stash... There are rifles in the safe for you. Can you take it, though it is heavy... What's next on your list? Watching found my notebook... I'm there a lot of their guesses presented and examined?</text>
+	</string>
+	<string id="doctor_teleport_21">
+		<text>it you son... I what?</text>
+	</string>
+	<string id="doctor_teleport_12">
+		<text>not know about your stash... for the rifle - thanks, have a look. On Hold your book, I have not read it, do not have the habit of reading other's diaries...</text>
+	</string>
+	<string id="doctor_teleport_13">
+		<text>Okay, do not worry, come in a glass of tea, sit down, have a chat...</text>
+	</string>
+	<string id="doctor_teleport_22">
+		<text>Hello father, I want to before the last jerk to the monolith forces tunnel, get better equipment, weapons... Maybe the trail to find out the secret, will not be able to help?</text>
+	</string>
+	<string id="doctor_teleport_23">
+		<text>No you can not without these risky trips... Okay, I've got some type of information, to share with you...</text>
+	</string>
+	<string id="doctor_1drug_0">
+		<text>Thanks... What is your best man can not see - you do with your dog were inseparable?</text>
+	</string>
+	<string id="doctor_1drug_1">
+		<text>Vanished my "Druzhok"... And so many years together... Ehh... In the dark valley of the bandits shot at me greatly, two days unconscious in a swamp lain, woke up - only a pool of blood near...\nAnd the heart does not believe my best friend is no longer... I hear you've had to deal with the prisoner of the bandits, Max Lubero, he did not say anything? The rumor was - he saw some unusual pseudodog, could be him?</text>
+	</string>
+	<string id="doctor_1drug_2">
+		<text>Max I did not say anything, I have a thing for him, I'll go - at the same time and can find out about man's best friend...</text>
+	</string>
+	<string id="doctor_1drug_3">
+		<text>No, he said nothing... Perhaps more witnesses...</text>
+	</string>
+	<string id="doctor_1drug_4">
+		<text>not you heard? Killed Lubero...</text>
+	</string>
+	<string id="doctor_2drug_0">
+		<text>Hello, Doctor, I have good news...</text>
+	</string>
+	<string id="doctor_2drug_1">
+		<text>news? What?</text>
+	</string>
+	<string id="doctor_2drug_2">
+		<text>your Druzhoks lives, Max pulled him from the cage... Now he's at the dump, at a checkpoint near the Dolg outpost</text>
+	</string>
+	<string id="doctor_2drug_3">
+		<text>Thank God... i need to go for my Druzhoks... A bit later.</text>
+	</string>
+	<string id="doctor_3drug_0">
+		<text>Hi Max, how is your health?</text>
+	</string>
+	<string id="doctor_3drug_1">
+		<text>Thank you, apparently your prayers... I what?</text>
+	</string>
+	<string id="doctor_3drug_2">
+		<text>Max, you have not seen the bandits, pseudodog unusual, say so - a few non-aggressive? The doctor lost his friend, the rumor was - the bandits have him...</text>
+	</string>
+	<string id="doctor_3drug_3">
+		<text>Ha, did not see... With me he runs out the gate at the Bar... sweet... We have been feeding it here... But he misses something...</text>
+	</string>
+	<string id="doctor_3drug_4">
+		<text>on bog Dr. misses apparently... Tell the doctor, let them rejoice...</text>
+	</string>
+	<string id="tex_doctor_drug">
+		<text>Doctor puppy picked up by the best man murdered females pseudodog, nourished... And this dog was gone... It is rumored that Max Lubero heard about loyal Druzhok...</text>
+	</string>
+	<string id="teleport_01_dialog_0">
+		<text>Jumper configure... but how?</text>
+	</string>
+	<string id="teleport_01_dialog_1">
+		<text>you see a colleague, quite accurately describes how to configure, but this requires data disturbing influences in the area - where neobhoimo fall. We have built the necessary equipment to vacuum tube transmitter, now you have this unit delivered to the area, which we might call the reception... Yes.</text>
+	</string>
+	<string id="teleport_01_dialog_4">
+		<text>And what is the place to be, and how difficult this is your thing?</text>
+	</string>
+	<string id="teleport_01_dialog_5">
+		<text>Let's first try to set up a teleport a short distance, say - Army warehouses... Try to install the device, it is not heavy - only 25 kg, the water tower in the village... as it is there... stalkers name of the village bloodsuckers...</text>
+	</string>
+	<string id="teleport_01_dialog_2">
+		<text>So what? You will be here to Svoboda jump? Let's try...</text>
+	</string>
+	<string id="teleport_01_dialog_3">
+		<text>sorry Professor, I can not yet...</text>
+	</string>
+	<string id="tex_yan_scientist_teleport_01">
+		<text>Sakharov argues that if you set his camera on top of the water tower in the village of bloodsuckers, you will immediately move from Yantar to the army warehouses...</text>
+	</string>
+	<string id="teleport_02_dialog_0">
+		<text>Where else can set up a teleport?</text>
+	</string>
+	<string id="teleport_02_dialog_1">
+		<text>Let's try longer distances, say - Cordon. Set the unit in the car, which at the railway bridge and... back...</text>
+	</string>
+	<string id="teleport_02_dialog_2">
+		<text>Okay. Let your machine...</text>
+	</string>
+	<string id="teleport_02_dialog_3">
+		<text>Forgive Professor, how can something then...</text>
+	</string>
+	<string id="tex_yan_scientist_teleport_02">
+		<text>Sakharov argues that if you set his camera on the train, which hangs in the ruined railway bridge, you will immediately move from Yantar to Cordon...</text>
+	</string>
+	<string id="teleport_03_dialog_0">
+		<text>And closer to the center of the zone can be accessed through the teleport?</text>
+	</string>
+	<string id="teleport_03_dialog_1">
+		<text>closer to the center - the more disturbing effects... But let's try. Place the appliance on the central square behind the statue of Lenin, a small reinforced concrete construction...</text>
+	</string>
+	<string id="teleport_03_dialog_2">
+		<text>well. Let your machine...</text>
+	</string>
+	<string id="teleport_03_dialog_3">
+		<text>I probably first explored everything there...</text>
+	</string>
+	<string id="tex_yan_scientist_teleport_03">
+		<text>Sakharov argues that if you set his camera on the central square behind the statue of Lenin, a small reinforced concrete structure, which covers stormwater runoff, it will be possible from Yantar immediately move to Pripyat...</text>
+	</string>
+	<string id="teleport_yantar_dialog_0">
+		<text>Professor, let's use the teleport...</text>
+	</string>
+	<string id="teleport_yantar_dialog_1">
+		<text>Hmm... Where would you like to teleport?</text>
+	</string>
+	<string id="teleport_yantar_dialog_2">
+		<text>a good idea to get into the camp svoboda...</text>
+	</string>
+	<string id="teleport_yantar_dialog_3">
+		<text>By Sidorovich need to Cordon...</text>
+	</string>
+	<string id="teleport_yantar_dialog_4">
+		<text>to the center of the zone closer to Pripyat least...</text>
+	</string>
+	<string id="teleport_yantar_dialog_21">
+		<text>Well, we can already do... To activate the teleport requires a Soul artefact...\nIs it you?</text>
+	</string>
+	<string id="teleport_yantar_dialog_22">
+		<text>Yes, there...</text>
+	</string>
+	<string id="teleport_yantar_dialog_23">
+		<text>Blinn, I do not have "souls"...</text>
+	</string>
+	<string id="teleport_yantar_dialog_221">
+		<text>excellent, setting the teleport takes a long time, but it is, as you know, money...</text>
+	</string>
+	<string id="teleport_yantar_dialog_222">
+		<text>And how much will I owe you ?...</text>
+	</string>
+	<string id="teleport_yantar_dialog_223">
+		<text>It depends on the accuracy of the settings...\nCareful alignment requires very careful calculations and will cost you... mmm-m... 10000...\nA rough calculation, so to speak - by eye, only 2500...\nHow do you prefer?</text>
+	</string>
+	<string id="teleport_yantar_dialog_224">
+		<text>Let accurately, the money I have no problem...</text>
+	</string>
+	<string id="teleport_yantar_dialog_225">
+		<text>you Cast me to the location, and then I'll look...</text>
+	</string>
+	<string id="teleport_yantar_dialog_226">
+		<text>Oh, I like some legs... rough it...</text>
+	</string>
+	<string id="teleport_yantar_dialog_25">
+		<text>You will not regret the money spent, you'll land gently to the former army depots to deliver...\nYou can go, teleport will be there and ready, behind the bunker, on an island in the middle of the swamp...</text>
+	</string>
+	<string id="teleport_yantar_dialog_26">
+		<text>See for yourself... On location, we will throw you, but there...\nYou can go, teleport will be ready, behind the bunker, on an island in the middle of the swamp...</text>
+	</string>
+	<string id="teleport_yantar_dialog_31">
+		<text>By Sidorovich? You can, hello there it... To activate the teleport requires a Crystal artefact...\nIs it you?</text>
+	</string>
+	<string id="teleport_yantar_dialog_32">
+		<text>Here it is...</text>
+	</string>
+	<string id="teleport_yantar_dialog_33">
+		<text>Blinn, I do not have "Crystal"...</text>
+	</string>
+	<string id="teleport_yantar_dialog_321">
+		<text>excellent, setting the teleport takes a long time, but it is, as you know, money...</text>
+	</string>
+	<string id="teleport_yantar_dialog_322">
+		<text>And how much will I owe you ?...</text>
+	</string>
+	<string id="teleport_yantar_dialog_323">
+		<text>It depends on the accuracy of the settings...\nCareful alignment requires very deep payments and will cost you... mmm-m... in 15000...\ncruder calculation, so to speak - by eye, only 5000...\nHow do you prefer?</text>
+	</string>
+	<string id="teleport_yantar_dialog_324">
+		<text>Let accurately, the money I have no problem...</text>
+	</string>
+	<string id="teleport_yantar_dialog_325">
+		<text>you Cast me to the location, and then I'll look...</text>
+	</string>
+	<string id="teleport_yantar_dialog_326">
+		<text>Oh, I like some legs... rough it...</text>
+	</string>
+	<string id="teleport_yantar_dialog_35">
+		<text>You will not regret the money spent, you'll land gently near the camp newcomers teleport...\nYou can go, teleport will be there and ready, behind the bunker on an island in the middle of the swamp...</text>
+	</string>
+	<string id="teleport_yantar_dialog_36">
+		<text>See for yourself... On location Cordon then we will let down, but there...\nYou can go, teleport ready, behind the bunker on an island in the middle of the swamp...</text>
+	</string>
+	<string id="teleport_yantar_dialog_41">
+		<text>Pripyat... You and Pripyat... To activate the teleport requires a Moonlight artefact...\nIs it you?</text>
+	</string>
+	<string id="teleport_yantar_dialog_42">
+		<text>Yes, there...</text>
+	</string>
+	<string id="teleport_yantar_dialog_43">
+		<text>That's because, I do not have a "Moonlight"...</text>
+	</string>
+	<string id="teleport_yantar_dialog_421">
+		<text>excellent, setting the teleport takes a long time, but it is, as you know, money...</text>
+	</string>
+	<string id="teleport_yantar_dialog_422">
+		<text>And how much will I owe you ?...</text>
+	</string>
+	<string id="teleport_yantar_dialog_423">
+		<text>It depends on the accuracy of the settings...\nCareful alignment requires very deep payments and will cost you... mmm-m... to 20000...\ncruder calculation, so to speak - by eye, only 9000...\nHow do you prefer?</text>
+	</string>
+	<string id="teleport_yantar_dialog_424">
+		<text>Let accurately, the money I have no problem...</text>
+	</string>
+	<string id="teleport_yantar_dialog_425">
+		<text>you Cast me to the location, and then Ill look...</text>
+	</string>
+	<string id="teleport_yantar_dialog_426">
+		<text>Oh, I like some legs... rough it...</text>
+	</string>
+	<string id="teleport_yantar_dialog_45">
+		<text>You will not regret the money spent, well try you in a safe place to teleport...\nYou can go teleport will be there and ready, behind the bunker, on an island in the middle of the swamp...</text>
+	</string>
+	<string id="teleport_yantar_dialog_46">
+		<text>at Risk, dear... In Pripyat possible, so to speak, and get stuck...\nYou can go, teleport ready, behind the bunker, on an island in the middle of the swamp...</text>
+	</string>
+	<string id="teleport_04_dialog_0">
+		<text>You? Teleport? How do you know that?</text>
+	</string>
+	<string id="teleport_04_dialog_1">
+		<text>Let's just say, know for my knowledge of several people have been killed...</text>
+	</string>
+	<string id="teleport_04_dialog_6">
+		<text>Come on, I was just, to come up... Well, let's try...</text>
+	</string>
+	<string id="teleport_04_dialog_7">
+		<text>Generally you will need to do something that...</text>
+	</string>
+	<string id="teleport_04_dialog_8">
+		<text>Yeah, I knew it! And how much you pour ?...</text>
+	</string>
+	<string id="teleport_04_dialog_9">
+		<text>While not at all, to set the teleport need detailed seismic maps of the terrain where he is going transfer.\nI do know where you can get a map of the Base of Liberty and surrounding areas...</text>
+	</string>
+	<string id="teleport_04_dialog_4">
+		<text>And where is it?</text>
+	</string>
+	<string id="teleport_04_dialog_5">
+		<text>the laboratory X-18, which in the Dark Valley, where it was at the lower levels of the laptop with the data must be detailed seismological and geological mapping of the area... If you bring - then we will have the ability to customize teleport...</text>
+	</string>
+	<string id="teleport_04_dialog_2">
+		<text>So what? You will be here to Svoboda fly? Let's try...</text>
+	</string>
+	<string id="teleport_04_dialog_3">
+		<text>Oh it nafik... I'll manage, I do...</text>
+	</string>
+	<string id="tex_fanat_teleport_04">
+		<text>\nFanatic said that he could set up a teleport to jump from Cordon to the Army Warehouses. To do this, find the laptop in Lab X-18 with a detailed map of the Warehouses</text>
+	</string>
+	<string id="teleport_042_dialog_0">
+		<text>Hello Fanatic, I found the laptop...</text>	<!-- Changed 'Fan' to 'Fanatic'- Sword2012 - 31 Oct 16-->
+	</string>
+	<string id="teleport_042_dialog_1">
+		<text>Is there card? Verify?</text>
+	</string>
+	<string id="teleport_042_dialog_2">
+		<text>How can I check... it must have been lying for five years, the web was all overgrown, I do not even try...\nSam look...</text>
+	</string>
+	<string id="teleport_042_dialog_3">
+		<text>Oh, ok all... Even included... There is a map!...\nTo activate the teleport at the Army Warehouses requires a Soul artefact, keep as a gift to...</text>
+	</string>
+	<string id="teleport_05_dialog_0">
+		<text>And where else can you get?</text>
+	</string>
+	<string id="teleport_05_dialog_1">
+		<text>could be configured to Yantar swamp, but again need a map.</text>
+	</string>
+	<string id="teleport_05_dialog_4">
+		<text>Ah-ah! I know - Marked One features are much, bring those traits that?</text>
+	</string>
+	<string id="teleport_05_dialog_5">
+		<text>Well-ell, yes... And you never just wanted to? In general, a laptop in the laboratory of X-16, go?</text>
+	</string>
+	<string id="teleport_05_dialog_2">
+		<text>Damn You Bes, I'll go!</text>
+	</string>
+	<string id="teleport_05_dialog_3">
+		<text>Listen himself stamp your...</text>
+	</string>
+	<string id="tex_fanat_teleport_05">
+		<text>fan said that could set up a teleport to jump from Cordon to Yantar. To do this, find the laboratory X-16, a laptop with the geological map of the area of Yantar</text>
+	</string>
+	<string id="teleport_052_dialog_0">
+		<text>Good times Bes, here's your bag...</text>
+	</string>
+	<string id="teleport_052_dialog_1">
+		<text>and Che is all wet? In what some snot...</text>
+	</string>
+	<string id="teleport_052_dialog_2">
+		<text>Listen, I'm probably not going to the grocery database...</text>
+	</string>
+	<string id="teleport_052_dialog_3">
+		<text>Okay, okay, chill out... Here's "Mica", with the help of a teleport at Yantar opens...</text>
+	</string>
+	<string id="teleport_06_dialog_0">
+		<text>Hey, right in the sarcophagus can be reached?</text>
+	</string>
+	<string id="teleport_06_dialog_1">
+		<text>probably can only data out there, and I do not know where to get...\nAnd this is where the geological survey of Pripyat is - I know...</text>
+	</string>
+	<string id="teleport_06_dialog_4">
+		<text>Ha! Certainly in most Pripyat...</text>
+	</string>
+	<string id="teleport_06_dialog_5">
+		<text>Exactly! You'll be there, look in the building of the bus station, computer data such as should have been preserved...</text>
+	</string>
+	<string id="teleport_06_dialog_2">
+		<text>Okay, still in the wrong direction, look!</text>
+	</string>
+	<string id="teleport_06_dialog_3">
+		<text>If get to Pripyat, things to do will...</text>
+	</string>
+	<string id="tex_fanat_teleport_06">
+		<text>Fanatic said that he could set up a teleport to jump from Cordon to Pripyat. For this you want to find a bus station building in Pripyat computer geologic terrain map of Yantar</text>	<!-- Changed 'Fan' to 'Fanatic'- Sword2012 - 31 Oct 16-->
+	</string>
+	<string id="teleport_062_dialog_0">
+		<text>Fanatic... I came back...</text>	<!-- Changed 'Fan' to 'Fanatic'- Sword2012 - 31 Oct 16-->
+	</string>
+	<string id="teleport_062_dialog_1">
+		<text>Hello, yes... Well, you look - natural dead...</text>
+	</string>
+	<string id="teleport_062_dialog_2">
+		<text>I'm tired... Take comp...</text>
+	</string>
+	<string id="teleport_062_dialog_3">
+		<text>Chill, Marked One, here we have quiet... Take this "Moonlight", come in handy when artificially produced in Pripyat dive...</text>
+	</string>
+	<string id="teleport_escape_dialog_0">
+		<text>Come on, teleport me...</text>
+	</string>
+	<string id="teleport_escape_dialog_1">
+		<text>And where are you skiing pricked?</text>
+	</string>
+	<string id="teleport_escape_dialog_2">
+		<text>Come on warehouses, we'll see how things are there...</text>
+	</string>
+	<string id="teleport_escape_dialog_3">
+		<text>By Professor need to Yantar...</text>
+	</string>
+	<string id="teleport_escape_dialog_4">
+		<text>In Pripyat, Marsh Doctor want to see...</text>	<!-- Changed 'Bolotny Doctor' to 'Marsh Doctor '- Sword2012 - 31 Oct 16-->
+	</string>
+	<string id="teleport_escape_dialog_21">
+		<text>to create a teleport needs a Soul artefact...\nAvailable?</text>
+	</string>
+	<string id="teleport_escape_dialog_22">
+		<text>Yes, there...</text>
+	</string>
+	<string id="teleport_escape_dialog_23">
+		<text>Pipets, I sold the "Soul "...</text>
+	</string>
+	<string id="teleport_escape_dialog_221">
+		<text>Come... here guys help me with the calculations Bubble throw them.</text>
+	</string>
+	<string id="teleport_escape_dialog_222">
+		<text>only children? Okay, how much...</text>
+	</string>
+	<string id="teleport_escape_dialog_223">
+		<text>Vanka calculator will calculate everything exactly, but he wants 9000 for his work...\nSanya Baska, a hangover can be a bit wrong - and asks all 2500...\nDo you like?</text>
+	</string>
+	<string id="teleport_escape_dialog_224">
+		<text>with a hangover... Vlipnesh in the wall of any kind, let Vanka thinks...</text>
+	</string>
+	<string id="teleport_escape_dialog_225">
+		<text>What difference does it hold here two and a half pieces...</text>
+	</string>
+	<string id="teleport_escape_dialog_226">
+		<text>Well guys and appetites with you, he'll get there</text>
+	</string>
+	<string id="teleport_escape_dialog_25">
+		<text>Well, right! Our calculator will get you directly to the base of Liberty!\nTeleport on the side of railway paintings, like passest - expand the tower to the right, from afar you'll see...</text>
+	</string>
+	<string id="teleport_escape_dialog_26">
+		<text>see myself... Sanya course Baska, but after yesterday...\nTeleport on the side of railway paintings, like go over - turn right, from afar you'll see...</text>
+	</string>
+	<string id="teleport_escape_dialog_31">
+		<text>Sakharov? Here too, the martyr of science, sitting there in the swamp, radioactive mosquito feeds... To create a teleport need artefact "Mica"...\nnot lost?</text>
+	</string>
+	<string id="teleport_escape_dialog_32">
+		<text>Here it is...</text>
+	</string>
+	<string id="teleport_escape_dialog_33">
+		<text>that he did not say I drove it.</text>
+	</string>
+	<string id="teleport_escape_dialog_321">
+		<text>Come... here guys help me with the calculations Bubble throw them.</text>
+	</string>
+	<string id="teleport_escape_dialog_322">
+		<text>And how much will I owe you ?...</text>
+	</string>
+	<string id="teleport_escape_dialog_323">
+		<text>Vanka Calculator, local Ig Nobel Prize winner, will calculate everything accurately, but takes over the work 15000...\nSanya Baska, suffering after last night, may be a bit wrong - and asks only 5000...\nYou decide.</text>
+	</string>
+	<string id="teleport_escape_dialog_324">
+		<text>Baska, Calculator, you will let us accurately count...</text>
+	</string>
+	<string id="teleport_escape_dialog_325">
+		<text>Blinn little money, so let the minimum...</text>
+	</string>
+	<string id="teleport_escape_dialog_326">
+		<text>Oh, take the long way...</text>
+	</string>
+	<string id="teleport_escape_dialog_35">
+		<text>correctly decided... Our Vanka clever devil... His wife with her lover caught, killed both as a pig... And so would have just had a Nobel Prize...\nTopa, teleport to the side glands, keep right and you'll see...</text>
+	</string>
+	<string id="teleport_escape_dialog_36">
+		<text>You're a master of himself... Sanya course brainy guy, but it provides - whether it is healthy...\nTopa, teleport to the side glands, keep right and you'll see...</text>
+	</string>
+	<string id="teleport_escape_dialog_41">
+		<text>Pripyat... You and Pripyat... Requires a Moonlight artefact...\nDo not feel sorry for?</text>
+	</string>
+	<string id="teleport_escape_dialog_42">
+		<text>sorry, but I make it fast...</text>
+	</string>
+	<string id="teleport_escape_dialog_43">
+		<text>No, not give useful to me "Moonlight"...</text>
+	</string>
+	<string id="teleport_escape_dialog_421">
+		<text>I am not a mathematician, big-headed guys think... Salvage them...</text>
+	</string>
+	<string id="teleport_escape_dialog_422">
+		<text>Babble... How much money do you need?</text>
+	</string>
+	<string id="teleport_escape_dialog_423">
+		<text>We have two smart guys have - Ivan Calculator and Sanya Baska...\nVanek, he almost never makes mistakes, but wants money... 30000...\nSankas been all counts, but yesterday he Sidor art rare dragged... Well, said the whole evening, he agrees to 10000...\nI do not advise it, up to you.</text>
+	</string>
+	<string id="teleport_escape_dialog_424">
+		<text>I myself with a hangover, I think out of this, so... Let more expensive, but just</text>
+	</string>
+	<string id="teleport_escape_dialog_425">
+		<text>It attendants see I would have said, the hell with it - though not exactly...</text>
+	</string>
+	<string id="teleport_escape_dialog_426">
+		<text>Make it the long way...</text>
+	</string>
+	<string id="teleport_escape_dialog_45">
+		<text>Well, correctly, that is money - ugh and pound, but is guaranteed a safe place to find oneself...\nCome on, move, go over the railway, turn right, walk through a bit and you'll see a teleport...</text>
+	</string>
+	<string id="teleport_escape_dialog_46">
+		<text>Yes, it would be attendants see, we would not be here talking to you talk...\nCome on, move, go over the railway, turn right, walk through a bit and you'll see a teleport... Good luck...</text>
+	</string>
+	<string id="teleport_07_dialog_0">
+		<text>Hello narkosha like grass?</text>
+	</string>
+	<string id="teleport_07_dialog_1">
+		<text>Grass - Uleta! Vkurili we are with Max and cook grass and opened to us the truth... It turns out you can teleport to configure where you want...</text>
+	</string>
+	<string id="teleport_07_dialog_4">
+		<text>To finish my! Threw you a thing...</text>
+	</string>
+	<string id="teleport_07_dialog_6">
+		<text>But you do not drive... No noodle... I tried... By Sidor rewind, and back - for half an hour turned...</text>
+	</string>
+	<string id="teleport_07_dialog_7">
+		<text>I just have to Cordon Quick...</text>
+	</string>
+	<string id="teleport_07_dialog_8">
+		<text>Just so - even cats are not born... Give me seven clutches chimera, then we'll talk...</text>
+	</string>
+	<string id="teleport_07_dialog_9">
+		<text>Why seven that?</text>
+	</string>
+	<string id="teleport_07_dialog_5">
+		<text>you that the oak crashed... Seven - the magic number!</text>
+	</string>
+	<string id="teleport_07_dialog_2">
+		<text>Well, if the magic... Try typing...</text>
+	</string>
+	<string id="teleport_07_dialog_3">
+		<text>their brains ventilated...</text>
+	</string>
+	<string id="tex_mil_trader_teleport_07">
+		<text>Miser promises to set up a teleport to move from stocks to Cordon, if he bring seven clutches chimera</text>
+	</string>
+	<string id="teleport_072_dialog_0">
+		<text>Amateur magic, I brought your claws...</text>
+	</string>
+	<string id="teleport_072_dialog_1">
+		<text>Wow, hang on a wall - is a positive aura...</text>
+	</string>
+	<string id="teleport_072_dialog_2">
+		<text>Aura... Kuri smaller and purer aura will...</text>
+	</string>
+	<string id="teleport_072_dialog_3">
+		<text>Well, his wife teach soup cooking... Come when you want to hit the road Cordon...</text>
+	</string>
+	<string id="teleport_08_dialog_0">
+		<text>Hi Max, Miser says you have fouled transitions do ?.</text>
+	</string>
+	<string id="teleport_08_dialog_1">
+		<text>was the case, he did not expect such an effect from the banal side posts, just in my brain clicked something and began to know how to calculate the teleport to Yantar...</text>
+	</string>
+	<string id="teleport_08_dialog_4">
+		<text>And how would I go to quickly get? I tell you what you want you pirate...</text>
+	</string>
+	<string id="teleport_08_dialog_5">
+		<text>But I do not need anything grub enough, vodka is, the air fresh... Baba would, but where do you take it...\nThough... dashed to Kruglov, he promised a fresh issue Playboy throw, look at the heavenly creatures...</text>
+	</string>
+	<string id="teleport_08_dialog_2">
+		<text>Here fartsa pancake, okay...</text>
+	</string>
+	<string id="teleport_08_dialog_3">
+		<text>Well you give... Like a real man...</text>
+	</string>
+	<string id="tex_mil_max_teleport_08">
+		<text>\nMax promises to set up a teleport to move from the warehouse to Yantar, when he brought from Kruglov magazines "PlayBoy"</text>
+	</string>
+	<string id="teleport_082_dialog_0">
+		<text>Here magazines with the beautiful...</text>
+	</string>
+	<string id="teleport_082_dialog_1">
+		<text>Thanks Marked One, or have forgotten - who's - Women...</text>
+	</string>
+	<string id="teleport_082_dialog_2">
+		<text>oh, remember...</text>
+	</string>
+	<string id="teleport_082_dialog_3">
+		<text>approach, when you want to hit the road Yantar...</text>
+	</string>
+	<string id="teleport_083_dialog_0">
+		<text>Hello, scientist...</text>
+	</string>
+	<string id="teleport_083_dialog_1">
+		<text>Healthy Marked One, as life...</text>
+	</string>
+	<string id="teleport_083_dialog_2">
+		<text>said you have magazines, Playboy...</text>
+	</string>
+	<string id="teleport_083_dialog_3">
+		<text>Well, if Playboy are interested in, then health in order... Here you are, for 2006 only have...</text>
+	</string>
+	<string id="teleport_09_dialog_0">
+		<text>Hey Cook! You hear me? Miser said do you know about the teleport...</text>	<!-- Changed 'Chef' to 'Cook'- Sword2012 - 31 Oct 16-->
+	</string>
+	<string id="teleport_09_dialog_1">
+		<text>A? Che? Who are you? What teleport? Ah, but if I know, is...</text>
+	</string>
+	<string id="teleport_09_dialog_4">
+		<text>Maybe you bubble for the correction of health? I would need to Pripyat...</text>
+	</string>
+	<string id="teleport_09_dialog_5">
+		<text>It would be nice... Bubble, but better Ten... And tushkano, as starters...</text>
+	</string>
+	<string id="teleport_09_dialog_2">
+		<text>Ok, maybe their brains, and you will be added...</text>
+	</string>
+	<string id="teleport_09_dialog_3">
+		<text>Back to you soon on the vodka... Walking, whether that...</text>
+	</string>
+	<string id="tex_mil_cook_teleport_09">
+		<text>\nCook promises to set up a teleport to move from warehouses in Pripyat, need to bring him 10 bottles of vodka and 10 tushkano brains</text>
+	</string>
+	<string id="teleport_092_dialog_0">
+		<text>Er-y! Dear!... Eyes wipe...</text>
+	</string>
+	<string id="teleport_092_dialog_1">
+		<text>Che do you want... Shouting about here, people think you're preventing us...</text>
+	</string>
+	<string id="teleport_092_dialog_2">
+		<text>Keep holy water and a snack... How are things with teleport ?...</text>
+	</string>
+	<string id="teleport_092_dialog_3">
+		<text>After approaches, I have right now, not in the form...</text>
+	</string>
+	<string id="teleport_skraga_dialog_0">
+		<text>Come miser, do it, teleport need...</text>
+	</string>
+	<string id="teleport_skraga_dialog_1">
+		<text>And where are you skiing pricked?</text>
+	</string>
+	<string id="teleport_skraga_dialog_2">
+		<text>Come to Cordon to have a conversation Sidor</text>
+	</string>
+	<string id="teleport_skraga_dialog_21">
+		<text>To teleport to needs a Crystal artefact...\nAvailable?</text>
+	</string>
+	<string id="teleport_skraga_dialog_22">
+		<text>Well... Yes, there is such... Done when will be?</text>
+	</string>
+	<string id="teleport_skraga_dialog_23">
+		<text>But you have there been? Okay, then I'll come...</text>
+	</string>
+	<string id="teleport_skraga_dialog_221">
+		<text>not hurry... We must still figure out that you would not be smeared on the walls of which anything should be as follows, brains pep... Weeds are something money...</text>
+	</string>
+	<string id="teleport_skraga_dialog_222">
+		<text>I told you a whole bag fetched! Where do you...</text>
+	</string>
+	<string id="teleport_skraga_dialog_223">
+		<text>from the bag only memories... Good grass is a lot of money. To properly should be not less than 9000...\nWell, if sensitive to risk it and try for 2500.\nDo you like?</text>
+	</string>
+	<string id="teleport_skraga_dialog_224">
+		<text>At a pancake, drug... Okay, you have good grass...</text>
+	</string>
+	<string id="teleport_skraga_dialog_225">
+		<text>Listen, here's 2500, and that's enough babble...</text>
+	</string>
+	<string id="teleport_skraga_dialog_226">
+		<text>I'm not going to contact nark, he'd get himself...</text>
+	</string>
+	<string id="teleport_skraga_dialog_25">
+		<text>Thanks... Do not be sorry, I'm straight to the closet in Sidor let down...\nTopa, fly... Teleport opposite the main entrance to the base... Across the street, pass over and see...</text>
+	</string>
+	<string id="teleport_skraga_dialog_26">
+		<text>greedy you become... Ok, maybe next time you'll be generous...\nTopa, fly... Teleport opposite the main entrance to the base... where two or three singles hang out...</text>
+	</string>
+	<string id="teleport_povar_dialog_0">
+		<text>you alive or not, wipe the eyes teleport need...</text>
+	</string>
+	<string id="teleport_povar_dialog_1">
+		<text>What sort of teleport, fuck off, eh?</text>
+	</string>
+	<string id="teleport_povar_dialog_2">
+		<text>In Pripyat I need, you said - you can organize...</text>
+	</string>
+	<string id="teleport_povar_dialog_21">
+		<text>From since landed... Need an artefact of "Moonlight", and I have it no...</text>
+	</string>
+	<string id="teleport_povar_dialog_3">
+		<text>Listen, friend... Not in Sawston I am today... Come then...</text>
+	</string>
+	<string id="teleport_povar_dialog_22">
+		<text>I have a "Moonlight", let's step on it...</text>
+	</string>
+	<string id="teleport_povar_dialog_23">
+		<text>Wait here, I find - bring...</text>
+	</string>
+	<string id="teleport_povar_dialog_221">
+		<text>Okay, okay... Toka better have brains shake... Good to smoke marijuana... Weeds are something money...</text>
+	</string>
+	<string id="teleport_povar_dialog_222">
+		<text>Everyone pancake Bubble tries to snatch... How much?</text>
+	</string>
+	<string id="teleport_povar_dialog_223">
+		<text>good grass big money is. To a good estimate payment and all you need is not less than 15000...\nAnd if you're not afraid to risk it and try a sack for 5000.\nDo you like?</text>
+	</string>
+	<string id="teleport_povar_dialog_224">
+		<text>At a pancake, drug... Okay, you have good grass...</text>
+	</string>
+	<string id="teleport_povar_dialog_225">
+		<text>Listen, here's 5000, and that's enough babble...</text>
+	</string>
+	<string id="teleport_povar_dialog_226">
+		<text>I'm not going to contact nark, he'd get himself...</text>
+	</string>
+	<string id="teleport_povar_dialog_25">
+		<text>That guy... You'll be in Pripyat, hello Doctor Give...\nliner goes, do not be late for boarding... Move to teleport - in front of the main gate...</text>
+	</string>
+	<string id="teleport_povar_dialog_26">
+		<text>might not come back, my nerves to shake...\nTeleport opposite the main entrance to the base.</text>
+	</string>
+	<string id="teleport_max_dialog_0">
+		<text>Hey Max, you need to fly to Yantar...</text>
+	</string>
+	<string id="teleport_max_dialog_1">
+		<text>And what you can not sit on the ground...</text>
+	</string>
+	<string id="teleport_max_dialog_2">
+		<text>I can not sit on the ground - not the nature...</text>
+	</string>
+	<string id="teleport_max_dialog_21">
+		<text>Ah, nature... A Mica artefact is needed...\nI do not have, do you?</text>
+	</string>
+	<string id="teleport_max_dialog_22">
+		<text>There are of course, there... Can going to blaze?</text>
+	</string>
+	<string id="teleport_max_dialog_23">
+		<text>did not think it will take - sold...</text>
+	</string>
+	<string id="teleport_max_dialog_221">
+		<text>No, I will not... I was just simply, for the company once... And for mental work will take the money... Because any work should be rewarded...</text>
+	</string>
+	<string id="teleport_max_dialog_222">
+		<text>And what do you have to pay?</text>
+	</string>
+	<string id="teleport_max_dialog_223">
+		<text>If strongly used brain, and is guaranteed to throw you in a safe place then 9000...\nAnd if not very afraid - that 2500 will suffice.\nDecide...</text>
+	</string>
+	<string id="teleport_max_dialog_224">
+		<text>Let's a good job try...</text>
+	</string>
+	<string id="teleport_max_dialog_225">
+		<text>Listen, here's 2500, at the place I'll look myself</text>
+	</string>
+	<string id="teleport_max_dialog_226">
+		<text>Take care of me the money, he'll go...</text>
+	</string>
+	<string id="teleport_max_dialog_25">
+		<text>reward for good - a decent job...\nMove to teleport. Opposite the main entrance to the base... Across the street, pass over and see...</text>
+	</string>
+	<string id="teleport_max_dialog_26">
+		<text>Alive reach the bottom, and worked there myself...\nsteps... Teleport opposite the main entrance to the base.</text>
+	</string>
+	<string id="doctor_take_teleport_0">
+		<text>Father, I teleport to...</text>
+	</string>
+	<string id="doctor_take_teleport_1">
+		<text>Where are you going to again... Sit down and talk...</text>
+	</string>
+	<string id="doctor_take_teleport_2">
+		<text>Sorry, I need to get to Cordon...</text>
+	</string>
+	<string id="doctor_take_teleport_3">
+		<text>By Professor need to go to Yantar...</text>
+	</string>
+	<string id="doctor_take_teleport_4">
+		<text>In Bar want to go, a couple of tender to the bartender...</text>
+	</string>
+	<string id="doctor_take_teleport_21">
+		<text>Do you remember that to create a teleport you need a Crystal artefact...\nDo not lose it?</text>
+	</string>
+	<string id="doctor_take_teleport_22">
+		<text>No, not lost... Here it is...</text>
+	</string>
+	<string id="doctor_take_teleport_23">
+		<text>Oh, I completely forgot about that...</text>
+	</string>
+	<string id="doctor_take_teleport_221">
+		<text>Do you need two or three artefacts, to fine-tune... I regularly bring... Only the money they want, how you work...</text>
+	</string>
+	<string id="doctor_take_teleport_222">
+		<text>Yes I understand of course, how much?</text>
+	</string>
+	<string id="doctor_take_teleport_223">
+		<text>For the absolute best guidance needed artefacts for an amount not less than 30000...\nTo determine the location coordinates only a mere 10000...\nDo you like?</text>
+	</string>
+	<string id="doctor_take_teleport_224">
+		<text>But money is not a problem, come closer to the camp...</text>
+	</string>
+	<string id="doctor_take_teleport_225">
+		<text>Sorry, strained with the money, try cheaper...</text>
+	</string>
+	<string id="doctor_take_teleport_226">
+		<text>Very little money, screw 'em - then I'll drop</text>
+	</string>
+	<string id="doctor_take_teleport_25">
+		<text>I'll do a closer... You do not tarry there, I'll wait for you here.\nTeleport on the square in the storm sewer under the monument to Lenin</text>
+	</string>
+	<string id="doctor_take_teleport_26">
+		<text>Nothing on Cordon not so dangerous, will deal...\nTeleport on the square in the storm sewer under the monument to Lenin</text>
+	</string>
+	<string id="doctor_take_teleport_31">
+		<text>Sakharov? Here too, the martyr of science, sitting there in the swamp, radioactive mosquito food... To create a teleport you require a Mica artefact...\nDo not lose it</text>
+	</string>
+	<string id="doctor_take_teleport_32">
+		<text>Here it is...</text>
+	</string>
+	<string id="doctor_take_teleport_33">
+		<text>that he did not say I drove it.</text>
+	</string>
+	<string id="doctor_take_teleport_321">
+		<text>Do you need two or three artefacts, to fine-tune... I regularly bring... Only the money they want, how you work...</text>
+	</string>
+	<string id="doctor_take_teleport_322">
+		<text>How much is required?</text>
+	</string>
+	<string id="doctor_take_teleport_323">
+		<text>For the absolute best guidance artefacts for an amount not less than 15000...\nTo determine the location coordinates only 5000...\nWith money like?</text>
+	</string>
+	<string id="doctor_take_teleport_324">
+		<text>Money - garbage, let's accurately, in a safe place...</text>
+	</string>
+	<string id="doctor_take_teleport_325">
+		<text>Money ran out, only the approximate location of missing</text>
+	</string>
+	<string id="doctor_take_teleport_326">
+		<text>Most have no money, need a little extra money stalking</text>
+	</string>
+	<string id="doctor_take_teleport_35">
+		<text>Right, money can not buy happiness...\nTeleport on the square in the storm sewer under the monument to Lenin</text>
+	</string>
+	<string id="doctor_take_teleport_36">
+		<text>Yes, on the spot, I think he will deal. Good luck!\nTeleport on the square in the storm sewer under the monument to Lenin</text>
+	</string>
+	<string id="doctor_take_teleport_41">
+		<text>Well in Bar does not work, but you can throw at warehouses. Requires a Soul artefact...\nDo not feel sorry for?</text>
+	</string>
+	<string id="doctor_take_teleport_42">
+		<text>Sorry, but I make it fast...</text>
+	</string>
+	<string id="doctor_take_teleport_43">
+		<text>I'll think I...</text>
+	</string>
+	<string id="doctor_take_teleport_421">
+		<text>Do you need two or three artefacts, to fine-tune... I sometimes sell...</text>
+	</string>
+	<string id="doctor_take_teleport_422">
+		<text>And for what amount?</text>
+	</string>
+	<string id="doctor_take_teleport_423">
+		<text>For moving in exactly the safest place guidance necessary artefacts in an amount not less than 10000...\nTo determine the location coordinates only 5000...\nI think not very many?</text>
+	</string>
+	<string id="doctor_take_teleport_424">
+		<text>Yes, not much. And through the radar does not stomp...</text>
+	</string>
+	<string id="doctor_take_teleport_425">
+		<text>Not much, but I'm grounded for now, only 5000 pull...</text>
+	</string>
+	<string id="doctor_take_teleport_426">
+		<text>money, absolutely not, go, can I find - valuable...</text>
+	</string>
+	<string id="doctor_take_teleport_45">
+		<text>Hi there guys out of debt transfer. Good luck!\nTeleport on the square in the storm sewer under the monument to Lenin</text>
+	</string>
+	<string id="doctor_take_teleport_46">
+		<text>Yes, on the spot, I think he will deal. Good luck!\nTeleport on the square in the storm sewer under the Lenin monument.</text>
+	</string>
+	<string id="teleport_10_dialog_0">
+		<text>Help me with one thing, they say - it is possible to teleport to...</text>
+	</string>
+	<string id="teleport_10_dialog_1">
+		<text>Yes - you can, if they were not so expensive, then all would enjoy...</text>
+	</string>
+	<string id="teleport_10_dialog_4">
+		<text>And what is needed for this? Well, at least, if I want to fly Cordon...</text>
+	</string>
+	<string id="teleport_10_dialog_5">
+		<text>Well firstly need the artefact, which this gives rise to teleport. For each locality it your own. No known artefacts for Cordon, Yantar, army depots and, in fact, Pripyat.\nSecond need calculation point of arrival, and then you can understand - takes you back to the stone where ever... Different people have different count. Who math calls for help, and who - otherworldly forces. I'm about halfway - use a unique artefact. For example to calibrate the teleport at Cordon needs a 'Ruby Spring'. This is a very rare artefact, but Syak promised that he would give it to me... I like that pulled him out of one scrape... Go to it...</text>
+	</string>
+	<string id="teleport_10_dialog_2">
+		<text>Okay, I'll go long, I have not seen Syak...</text>
+	</string>
+	<string id="teleport_10_dialog_3">
+		<text>No, do not go, can then...</text>
+	</string>
+	<string id="tex_doktor_teleport_10">
+		<text>\nThe Doctor needs a unique Ruby Spring artefact. with its help he can teleport to calculate the cordon. Springs had promised to give Syak, a trader from the Radar</text>
+	</string>
+	<string id="teleport_102_dialog_0">
+		<text>Here I am, hello Doctor...</text>
+	</string>
+	<string id="teleport_102_dialog_1">
+		<text>back? How are you?</text>
+	</string>
+	<string id="teleport_102_dialog_2">
+		<text>had a Syaka it to you "ruby spring" passed</text>
+	</string>
+	<string id="teleport_102_dialog_3">
+		<text>Well, now you can hit the road to Cordon. I have a "Crystal" is, hold here...</text>
+	</string>
+	<string id="teleport_103_dialog_0">
+		<text>welcome Syak, long not seen...</text>
+	</string>
+	<string id="teleport_103_dialog_1">
+		<text>Healthy Marked One, as life...</text>
+	</string>
+	<string id="teleport_103_dialog_2">
+		<text>Doctor sent to you, says you have "Ruby spring"?</text>
+	</string>
+	<string id="teleport_103_dialog_3">
+		<text>Yes, yes, of course, for all the doctors are... Here, hello him to convey...</text>
+	</string>
+	<string id="teleport_11_dialog_0">
+		<text>Where else can use the teleport to get?</text>
+	</string>
+	<string id="teleport_11_dialog_1">
+		<text>As I said, this still possible on Yantar and Warehouses teleport</text>
+	</string>
+	<string id="teleport_11_dialog_4">
+		<text>So what's the problem? You can now see Kruglov?</text>
+	</string>
+	<string id="teleport_11_dialog_5">
+		<text>To calculate Zabroski at Yantar needs a "Ruby battery". This is a very rare artefact... If you have no "Batteries", then I think, Kruglov knows - where to find it... He boasted as much over a glass of tea... Go to him...</text>
+	</string>
+	<string id="teleport_11_dialog_2">
+		<text>thought teleport to use, but oh well, so he'd get...</text>
+	</string>
+	<string id="teleport_11_dialog_3">
+		<text>No, do not go, can then...</text>
+	</string>
+	<string id="tex_doktor_teleport_11">
+		<text>\nThe Doctor needs a unique artefact, Ruby Battery, with its help he can calculate the teleport at Yantar. Kruglov knows where to find this artefact</text>
+	</string>
+	<string id="teleport_112_dialog_0">
+		<text>Here I am, hello Doctor...</text>
+	</string>
+	<string id="teleport_112_dialog_1">
+		<text>Back? How are you?</text>
+	</string>
+	<string id="teleport_112_dialog_2">
+		<text>I found "Ruby battery", here it is</text>
+	</string>
+	<string id="teleport_112_dialog_3">
+		<text>Well, now you can teleport to Yantar. I have a "Mica", here take it...</text>
+	</string>
+	<string id="teleport_113_dialog_0">
+		<text>Hello, martyr of science, had not seen each...</text>
+	</string>
+	<string id="teleport_113_dialog_1">
+		<text>Healthy Marked One, as life...</text>
+	</string>
+	<string id="teleport_113_dialog_2">
+		<text>Doctor sent you, says you have "Ruby battery"?</text>
+	</string>
+	<string id="teleport_113_dialog_3">
+		<text>No, I do not have... I have heard that there is one place on the radar screen, where this artefact sometimes appears...</text>
+	</string>
+	<string id="teleport_113_dialog_4">
+		<text>And where is that?</text>
+	</string>
+	<string id="teleport_113_dialog_5">
+		<text>If you go from warehouses along the way, before turning to the left, there is a small safe wooded corner for a couple of boulders... They look...</text>
+	</string>
+	<string id="teleport_113_dialog_6">
+		<text>Thanks, I'll try to find it...</text>
+	</string>
+	<string id="teleport_12_dialog_0">
+		<text>And how do you get to the warehouses?</text>
+	</string>
+	<string id="teleport_12_dialog_1">
+		<text>To calculate you also need a unique artefact</text>
+	</string>
+	<string id="teleport_12_dialog_4">
+		<text>Which?</text>
+	</string>
+	<string id="teleport_12_dialog_5">
+		<text>To calculate Zabroski Warehouses need to "Ruby Pellicle". This is a very rare artefact... If you do not have this artefact, then I think Baldy can know - where to find it... He is constantly in Bar drunk... Go to it...</text>
+	</string>
+	<string id="teleport_12_dialog_2">
+		<text>thought teleport to use, but oh well, so he'd get...</text>
+	</string>
+	<string id="teleport_12_dialog_3">
+		<text>No, do not go, can then...</text>
+	</string>
+	<string id="tex_doktor_teleport_12">
+		<text>\nThe Doctor needs a unique Ruby Pellicle artefact, with its help he can calculate the teleport to the warehouses. Baldy knows where to find this artefact</text>
+	</string>
+	<string id="teleport_122_dialog_0">
+		<text>Here I am, hello Doctor...</text>
+	</string>
+	<string id="teleport_122_dialog_1">
+		<text>Back? How are you?</text>
+	</string>
+	<string id="teleport_122_dialog_2">
+		<text>I found "Ruby Pellicle", here it is</text>
+	</string>
+	<string id="teleport_122_dialog_3">
+		<text>Well, now you can teleport to warehouses. I have a "soul", here take it...</text>
+	</string>
+	<string id="teleport_123_dialog_0">
+		<text>Big guy can be a couple of words...</text>
+	</string>
+	<string id="teleport_123_dialog_1">
+		<text>And you do not get sick, he wanted?</text>
+	</string>
+	<string id="teleport_123_dialog_2">
+		<text>Doctor sent to you, says you have "Ruby Pellicle"?</text>
+	</string>
+	<string id="teleport_123_dialog_3">
+		<text>No, I do not have now... I stashed it in wild territory, in a secluded place... I will tell you where, if you give me an artefact of "symbiote"...</text>
+	</string>
+	<string id="teleport_123_dialog_4">
+		<text>I have a "symbiote", take it...</text>
+	</string>
+	<string id="teleport_123_dialog_5">
+		<text>Then listen, I put the artefact on the roof of this small transformer station just above the underground passage located between the railroad tracks...</text>
+	</string>
+	<string id="teleport_123_dialog_6">
+		<text>Thanks, I'll try to find it...</text>
+	</string>
+	<string id="teleport_123_dialog_7">
+		<text>No I do not have "symbiote" but I know how to make one... Don't go anywhere, I'll be back.</text>
+	</string>
+	<string id="about_life_heart_11_dialog_0">
+		<text>So what? Is there information on "Living Heart"?</text>
+	</string>
+	<string id="about_life_heart_11_dialog_1">
+		<text>Not so fast son... There are a few hints and a lot of encrypted text...\nMentioned the Living Heart artefact, which can give life back... This artefact is not found in finished form, it must modify several components...</text>
+	</string>
+	<string id="about_life_heart_11_dialog_2">
+		<text>And what are the components?</text>
+	</string>
+	<string id="about_life_heart_11_dialog_3">
+		<text>First - "Golden Fish", on the other said nothing, only very brief phrase that one of those traders may know...</text>
+	</string>
+	<string id="about_life_heart_11_dialog_4">
+		<text>Traders? Who? Sidor? Sak? Can Miser?</text>
+	</string>
+	<string id="about_life_heart_11_dialog_5">
+		<text>Miser? No, it is unlikely... And he and Sak and Petrenko recently in jail... But Sidorovich and Bartender, yes, they know a lot... And Sakharovs not forget, though he learned, and information traded in a long time...</text>
+	</string>
+	<string id="about_life_heart_11_dialog_6">
+		<text>So Sidorovich, bartender and Sakharov... Okay, Im going to shake the can and see what falls out...</text>
+	</string>
+	<string id="about_life_heart_11_dialog_7">
+		<text>Go... Meanwhile I will try to decipher somebody else... Come back</text>
+	</string>
+	<string id="about_life_heart_11_dialog_8">
+		<text>I'll be back soon!</text>
+	</string>
+	<string id="about_life_heart_51_dialog_0">
+		<text>Hello, Dr... I'm back.</text>
+	</string>
+	<string id="about_life_heart_51_dialog_1">
+		<text>Hello, sonny. I see in good health and apparently with good news?</text>
+	</string>
+	<string id="about_life_heart_51_dialog_2">
+		<text>I found the components of "living heart"!</text>
+	</string>
+	<string id="about_life_heart_51_dialog_3">
+		<text>Excellent, good luck... Don't keep to yourself, what?</text>
+	</string>
+	<string id="about_life_heart_51_dialog_4">
+		<text>A 'Goldfish' still needs an 'Urchin', a 'Night Star', and a 'Dummy', but how it's transmuted - no one said...</text>
+	</string>
+	<string id="about_life_heart_51_dialog_5">
+		<text>In this I can help you... I decrypted a piece of text saying: ingredients must be thrown into the anomaly "Snow".</text>
+	</string>
+	<string id="about_life_heart_51_dialog_6">
+		<text>In "snowballs" it means... And how do you activate the "Living Heart"?</text>
+	</string>
+	<string id="about_life_heart_51_dialog_7">
+		<text>Rumored - to put it right on the chest of the deceased and, if his soul is pure, then it returns life to the body...\nthe return of your memory is not always definite...</text>
+	</string>
+	<string id="about_life_heart_51_dialog_8">
+		<text>Thank you for your humanity...</text>
+	</string>
+	<string id="about_life_heart_21_dialog_0">
+		<text>Hey bartender, can I talk to you...</text>
+	</string>
+	<string id="about_life_heart_21_dialog_1">
+		<text>And to you greetings... I've heard - you've been in the Sarcophagus? Seen any Monolith?</text>
+	</string>
+	<string id="about_life_heart_21_dialog_2">
+		<text>I saw some monolith, nothing special - Kamenyuki lights and noise in my head.</text>
+	</string>
+	<string id="about_life_heart_21_dialog_3">
+		<text>A desire to trade something?</text>
+	</string>
+	<string id="about_life_heart_21_dialog_4">
+		<text>No, wise men dissuaded me... I came to you about something else...</text>
+	</string>
+	<string id="about_life_heart_21_dialog_5">
+		<text>I'm listening</text>
+	</string>
+	<string id="about_life_heart_21_dialog_6">
+		<text>There's a rumor that you are familiar with the components of the recipe for conversion of the Living Heart artefact?</text>
+	</string>
+	<string id="about_life_heart_21_dialog_7">
+		<text>Nonsense... I've heard about half an ear about this artefact... It seems that some want to throw something far...\nBUT! About one component I precisely know...</text>
+	</string>
+	<string id="about_life_heart_21_dialog_8">
+		<text>And what component?</text>
+	</string>
+	<string id="about_life_heart_21_dialog_9">
+		<text>Well... Information just does not flow out of my mouth... Want to know - do the work...</text>
+	</string>
+	<string id="about_life_heart_21_dialog_10">
+		<text>And what you need?</text>
+	</string>
+	<string id="about_life_heart_21_dialog_11">
+		<text>I was asked to find a man... Academic... He disappeared somewhere in Pripyat with important data...\nIf you find out about his fate and bring back this data, you can learn about the required artefact...</text>
+	</string>
+	<string id="about_life_heart_21_dialog_12">
+		<text>Okay, I find this scientist...</text>
+	</string>
+	<string id="about_life_heart_21_dialog_13">
+		<text>Come back later to this conversation</text>
+	</string>
+	<string id="about_life_heart_22_dialog_0">
+		<text>So I'm back, hello...</text>
+	</string>
+	<string id="about_life_heart_22_dialog_1">
+		<text>Hello... What happened to the scientist then?</text>
+	</string>
+	<string id="about_life_heart_22_dialog_2">
+		<text>I found him, apparently he and the controller did not get along - died of starvation... He has a PDA that's only been...</text>
+	</string>
+	<string id="about_life_heart_22_dialog_3">
+		<text>Hm... AREA... No one - so would get another... Thank you... I have heard that "The heart" with the Night Star artefact gets... That's it...</text>
+	</string>
+	<string id="about_life_heart_22_dialog_4">
+		<text>"Night Star" means... Well, good luck...</text>
+	</string>
+	<string id="about_life_heart_31_dialog_0">
+		<text>Hello Professor... Can I ask you some questions?</text>
+	</string>
+	<string id="about_life_heart_31_dialog_1">
+		<text>Hello, long time no see... Been in the Chernobyl nuclear power plant have you?</text>
+	</string>
+	<string id="about_life_heart_31_dialog_2">
+		<text>Yes, ran... Didn't see much no time to...</text>
+	</string>
+	<string id="about_life_heart_31_dialog_3">
+		<text>Pity the information from there is lacking... And you wanted to know?</text>
+	</string>
+	<string id="about_life_heart_31_dialog_4">
+		<text>In Sarcophagus I found PDA experienced stalker, and this PDA refers to an artefact resuscitating...</text>
+	</string>
+	<string id="about_life_heart_31_dialog_5">
+		<text>Ah-ah! "The heart"? We heard about this... Even trying to collect more accurate information, but failed...</text>
+	</string>
+	<string id="about_life_heart_31_dialog_6">
+		<text>Yet know all the components of the recipe changes, you do not know?</text>
+	</string>
+	<string id="about_life_heart_31_dialog_7">
+		<text>We were able to accurately determine only one ingredient...</text>
+	</string>
+	<string id="about_life_heart_31_dialog_8">
+		<text>And what is it?</text>
+	</string>
+	<string id="about_life_heart_31_dialog_9">
+		<text>You see, I certainly will give you this information, but I wish that you would help me get data on the situation near Chernobyl...</text>
+	</string>
+	<string id="about_life_heart_31_dialog_10">
+		<text>How?</text>
+	</string>
+	<string id="about_life_heart_31_dialog_11">
+		<text>Install monitoring unit as close to the station. Better even within...</text>
+	</string>
+	<string id="about_life_heart_31_dialog_12">
+		<text>Again Chernobyl... Well, let's block</text>
+	</string>
+	<string id="about_life_heart_31_dialog_13">
+		<text>Professor, I'd rest a bit...</text>
+	</string>
+	<string id="about_life_heart_32_dialog_0">
+		<text>So I'm back, hello.</text>
+	</string>
+	<string id="about_life_heart_32_dialog_1">
+		<text>Hello... Thank you for the work, the data we have is.</text>
+	</string>
+	<string id="about_life_heart_32_dialog_2">
+		<text>You're welcome, what's with the ingredients?</text>
+	</string>
+	<string id="about_life_heart_32_dialog_3">
+		<text>Probably the main component to be converted into "Living Heart" is an Urchin artefact...</text>
+	</string>
+	<string id="about_life_heart_32_dialog_4">
+		<text>'Urchin'. Say goodbye...</text>
+	</string>
+	<string id="about_life_heart_41_dialog_0">
+		<text>Hello Sidor... How's life?</text>
+	</string>
+	<string id="about_life_heart_41_dialog_1">
+		<text>Cool and you, muzzle with a crack... It must be what?</text>
+	</string>
+	<string id="about_life_heart_41_dialog_2">
+		<text>Not rude, healthier you will... On the "living heart" that you know?</text>
+	</string>
+	<string id="about_life_heart_41_dialog_3">
+		<text>Well, basically the same as everyone - there is an artefact that can resurrect the dead... Nobody really saw it, just rumors... It seems to be to throw some artefacts in some anomalies and thus did not think about death, then these artefacts are transformed into "The heart"...</text>
+	</string>
+	<string id="about_life_heart_41_dialog_4">
+		<text>And what artefact's that?</text>
+	</string>
+	<string id="about_life_heart_41_dialog_5">
+		<text>God knows... I only know that Ghost is looking for a single artefact, for the "Living Heart "...</text>
+	</string>
+	<string id="about_life_heart_41_dialog_6">
+		<text>And what is it?</text>
+	</string>
+	<string id="about_life_heart_41_dialog_7">
+		<text>So, harsh and ungrateful, just for what he said...</text>
+	</string>
+	<string id="about_life_heart_41_dialog_8">
+		<text>How much do you want?</text>
+	</string>
+	<string id="about_life_heart_41_dialog_9">
+		<text>Money??? Money here are - for me ugh and rub... Now, if one found a Night Star and braught it to me, then it will be possible to talk...</text>
+	</string>
+	<string id="about_life_heart_41_dialog_10">
+		<text>Which artefact and where?</text>
+	</string>
+	<string id="about_life_heart_41_dialog_11">
+		<text>In the Radar, deep in the rusty forest disappeared one experienced stalker... His artefact was amusing, though very dangerous and harmful to health...\nIn general you need to find the container with this artefact... Where exactly - I do not know...</text>
+	</string>
+	<string id="about_life_heart_41_dialog_12">
+		<text>Here Blinn... Nothing just do not get... Already in the way...</text>
+	</string>
+	<string id="about_life_heart_41_dialog_13">
+		<text>For the money she is not, well, well... Sidor then.</text>
+	</string>
+	<string id="about_life_heart_42_dialog_0">
+		<text>I have the box...</text>
+	</string>
+	<string id="about_life_heart_42_dialog_1">
+		<text>And what I do... He brought it?</text>
+	</string>
+	<string id="about_life_heart_42_dialog_2">
+		<text>Here's your box, barely found it... Tell me about "The heart"!</text>
+	</string>
+	<string id="about_life_heart_42_dialog_3">
+		<text>Ghosts searching for the artefact Pops, said that Strelok...</text>
+	</string>
+	<string id="about_life_heart_42_dialog_4">
+		<text>"Miming"... For me ?.</text>
+	</string>
+	<string id="strelok_pda1_dialog_0">
+		<text>Ehh... How many good men took by the ZONE.</text>
+	</string>
+	<string id="strelok_pda1_dialog_1">
+		<text>is exactly... I thought, and you too will not see more...</text>
+	</string>
+	<string id="strelok_pda1_dialog_2">
+		<text>Yes-ah... Sorry - no one can return...</text>
+	</string>
+	<string id="strelok_pda1_dialog_3">
+		<text>In fact, a persistent rumor goes - there is a special miracle artefact, "The heart" is called... And like you have in your PDA, even the way it was for...</text>
+	</string>
+	<string id="strelok_pda1_dialog_4">
+		<text>I? In this PDA?</text>
+	</string>
+	<string id="strelok_pda1_dialog_5">
+		<text>No not in this, in which you are with me in the last sortie of the Chernobyl took! Maybe he'll be able to find...\nAnd more... I do not know exactly where your old PDA - in Sarcophagus or not... At least search it must be exactly there.\nWhen going to something in the sarcophagus?</text>
+	</string>
+	<string id="strelok_pda1_dialog_6">
+		<text>thought with the dawn, tomorrow...</text>
+	</string>
+	<string id="strelok_pda1_dialog_7">
+		<text>where emissions are often, but you can predict the window between them... Now is the time to go - can not wait until tomorrow</text>
+	</string>
+	<string id="strelok_pda1_dialog_8">
+		<text>Okay, then I go, I hope I'll see you...</text>
+	</string>
+	<string id="strelok_pda2_dialog_0">
+		<text>Here I am Doctor! I've got the "Emerald Medusa"</text>
+	</string>
+	<string id="strelok_pda2_dialog_1">
+		<text>excellent, judging by the intensity of abnormal vibration of surfaces, if you go right now - you will have about an hour before the next release... So delay not...\nAbout "Goldfish" do not forget...</text>
+	</string>
+	<string id="strelok_pda2_dialog_2">
+		<text>Well, never forget... I ran...</text>
+	</string>
+	<string id="strelok_pda3_dialog_0">
+		<text>Doctor, I found the PDA. It turns out I left it with the miner! But I can't read it...</text>
+	</string>
+	<string id="strelok_pda3_dialog_1">
+		<text>Here... Let me try...</text>
+	</string>
+	<string id="strelok_pda3_dialog_2">
+		<text>take it.</text>
+	</string>
+	<string id="strelok_pda_info_text">
+		<text>Fixed teleport at Monolith, activated goldfish. To do this, stand directly in front of monolith and throw the artefact in. Open teleport entered into which you find yourself in a hangar Chernobyl...\nGood luck to you, an unknown stalker...\n.\nStrelok</text>
+	</string>
+	<string id="enc_strelok_pda_text">
+		<text>To open the Sarcophagus teleport to NPP1 you need to throw a Goldfish into the Monolith...</text>
+	</string>
+	<string id="tex_about_life_heart">
+		<text>Strelok's PDA mentions that the ingredients for "Living Heart" is known by traders. You should try to find out everything Barman, Sakharov and Sidorovich know. Then, talk with The Doctor</text>
+	</string>
+	<string id="tex_life_heart_sahar">
+		<text>Sakharov sent a set of monitoring unit near Chernobyl. This unit should be installed in the hangar (where the entrance to the Sarcophagus) near the railway wagon. In gratitude, Sakharov will tell you everything he knows about the 'Living Heart'</text>
+	</string>
+	<string id="tex_life_heart_sidor">
+		<text>Sidorovich gives nothing for nothing... He agreed to exchange the information available to him on the "living heart" on the container with the artefact, which was lost in the woods rusty, on the radar</text>
+	</string>
+	<string id="tex_life_heart_barman">
+		<text>Bartender can tell ingredient recipe for "Living Heart", but he needs to know the fate of the scientist, who disappeared along with the data collected in Pripyat...</text>
+	</string>
+	<string id="tex_strelok_pda">
+		<text>The doctor has information that Strelok knew about how to obtain the artefact "Living Heart". This information should be on Strelok's PDA. It may be located in the Sarcophagus, somewhere near the famous monolith, but the information may be incorrect</text>
+	</string>
+	<string id="tex_strelok_pda2">
+		<text>The Doctor can calculate the time between emissions, but he needs an Emerald Medusa artefact. There is only one place where you can find this artefact...</text>
+	</string>
+	<string id="doctor_dialog_start_11">
+		<text>Hello, how do you feel?</text>
+	</string>
+	<string id="doctor_dialog_start_12">
+		<text>I feel like shit, actually... And who are you then?... the Doctor? The Astrologer sends his greetings - he said that he'll meet you just north of the railway bridge... at the abandoned farm... do you know me?... have we met before?</text>
+	</string>
+	<string id="doctor_dialog_start_13">
+		<text>Yes, I am the Doctor... many call me the Swamp Doctor. I lived in the swamp for a while... which is what the Cordon used to be. Who are you?! yes, I know who you are... but, until you remember yourself I will not say... There is a cave, a lone Miner resides there... his name is "Shakhtar" whom you must find. Be wary of the burning gas, and the mutants... as they are aplenty. Drink this here concoction I've made from some swamp grasses... it will help you... remember... a cave... find the Miner... he will help you further... and as for me... I must go and meet with the Astrologer</text>
+	</string>
+	<string id="doctor_dialog_start_21">
+		<text>Hello again Marked One. Did you find what you were looking for?</text>
+	</string>
+	<string id="doctor_dialog_start_22">
+		<text>No, I don't remember much... but, I had this dream about a Cave... I gave "Shakhtar" the things he requested... said he needed. Have you ever heard about such a Cave?!</text>
+	</string>
+	<string id="doctor_dialog_start_23">
+		<text>I have heard of it... but, first you must try to remember who you are... Will you find come find me then? I'm going with Zvedochet on an excursion to the center of the Zone...</text>
+	</string>
+	<string id="val_bandit_dialog_0">
+		<text>What!?... pretty shitty, actually... and you?</text>
+	</string>
+	<string id="val_bandit_dialog_1">
+		<text>Help me man, you will not regret it!!</text>
+	</string>
+	<string id="val_bandit_dialog_2">
+		<text>Fuck you... Everyone's better off with you dead...</text>
+	</string>
+	<string id="val_bandit_dialog_3">
+		<text>Here, take this medkit...</text>
+	</string>
+	<string id="val_bandit_dialog_4">
+		<text>I wish I could help you, but I just used my last medkit</text>
+	</string>
+	<string id="val_bandit_dialog_5">
+		<text>You're all right, Stalker... If you are interested, talk with Borov, our leader. He runs things from our base in the Dark Valley...</text>
+	</string>
+	<string id="val_bandit_dialog_6">
+		<text>Borov? I'll have a word with him... when I see him</text>
+	</string>
+</string_table>

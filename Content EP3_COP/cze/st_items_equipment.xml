@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_antirad">
+		<text>Protiradiacnн lйky</text>
+	</string>
+	<string id="st_antirad_descr">
+		<text>Mexaminovй lйky pro ochranu pred radiacн jsou v Zуne beћnй. Pri pouћitн lйk zpusobuje staћenн vlбsecnic a kyslнkovou deprivaci, coћ napomбhб v lйcenн a zabranuje dalљнmu nбrustu radiacnн expozice. Lйk nemб ћбdnй silnй vedlejљн ъcinky, ackoli jsou hlбљeny rнdkй prнpady nevolnosti, krecн a bolestн ћaludku.</text>
+	</string>
+	<string id="st_bandage">
+		<text>Obvaz</text>
+	</string>
+	<string id="st_bandage_descr">
+		<text>Beћnэ elastickэ obvaz pouћнvanэ k zastavenн krvбcenн a k ochrane zranenн pred infekcн. Pro beћnй krvбcenн opatrne zakryjte rбnu obvazem. Pri krvбcenн z tepny rychle uvбzejte obvaz kolem zasaћenй oblasti a silne utбhnete.</text>
+	</string>
+	<string id="st_binocular_descr">
+		<text>Standardnн vojenskэ dalekohled s maximбlnнm priblнћenнm x7.5. V Zуne je uћitecnэ, jelikoћ svйmu majiteli umoћnuje pozorovat okolн z dбlky.</text>
+	</string>
+	<string id="st_binocular_name">
+		<text>Dalekohled</text>
+	</string>
+	<string id="st_bread">
+		<text>Chlйb</text>
+	</string>
+	<string id="st_bread_descr">
+		<text>V Zуne se nikdy neobjevil ћбdnэ pekar, nicmйne tento chlйb nenн ani kontaminovanэ, ani radioaktivnн. Je cerstvэ a celkem jedlэ. Alespon si prozatнm nikdo nesteћoval.</text>
+	</string>
+	<string id="st_conserva">
+		<text>Konzerva "Turistovy snнdane"</text>
+	</string>
+	<string id="st_conserva_descr">
+		<text>Tyto konzervy byly pravdepodobne ukradeny stalkery z vojenskйho skladiљte. Na konzerve nenн ћбdnэ identifikacnн љtнtek, takћe to nenн jistй. Presto je stбle jedlб, pokud se dб tedy verit datu minimбlnн trvanlivosti vyraћenйmu na vнku.</text>
+	</string>
+	<string id="st_detector1">
+		<text>Detektor Echo</text>
+	</string>
+	<string id="st_detector1_descr">
+		<text>Tento zastaralэ detektor anomбlnн aktivity aktivuje poplaљnэ signбl, pokud se pri priblнћenн se k anomбlii dostanou do internн detekcnн komory anomбlnн cбstice. Vzdбlenost k anomбlii naznacuje frekvence zvuku vydбvanэ zarнzenнm. Pro prepnutн do reћimu hledбnн artefaktu je treba otevrнt prednн kryt zarнzenн. S ohledem na jednoduchэ princip pouћitэ v detektoru je moћnй pouћнvat ho pouze k hledбnн nejbeћnejљнch artefaktu.</text>
+	</string>
+	<string id="st_detector2">
+		<text>Detektor Medved</text>
+	</string>
+	<string id="st_detector3">
+		<text>Detektor Veles</text>
+	</string>
+	<string id="st_detector3_descr">
+		<text>Vedeckэ skener novй generace. Dнky trem modernizovanэm detekcnнm komnatбm je na speciбlnнm displeji zarнzenн ukazovбna pribliћnб pozice artefaktu. Pokud je prednн kryt uzavren, registruje detektor pouze radiaci a anomбlie. Pro prepnutн do reћimu hledбnн artefaktu je treba otevrнt prednн kryt. V reћimu hledбnн dokбћe detektor objevit vљechny znбmй artefakty.</text>
+	</string>
+	<string id="st_detector4">
+		<text>Prototyp detektoru Svarog</text>
+	</string>
+	<string id="st_detector4_descr">
+		<text>Prototyp vylepљenйho detektoru anomбlnнch frekvencн. Toto zarнzenн je vybaveno programem schopnэm identifikovat statickй oblasti anomбlnн aktivity v zбvislosti na svй internн databбzi, pricemћ stбle dokбћe lokalizovat artefakty. Pozice anomбlnнch oblasti a artefaktu se zobrazujн na speciбlnн obrazovce. Reћim hledбnн artefaktu, aktivovanэ otevrenнm prednнho krytu, byl modifikovбn k detekci anomбlnнch formacн, kterй jsou znбmй.</text>
+	</string>
+	<string id="st_device_torch_descr">
+		<text>Standardnн celovб baterka. Uћitecnб pro stalkery, kterн se nestihnou do tmy vrбtit do bezpecн, nicmйne muћe snadno prilбkat nevнtanou pozornost.</text>
+	</string>
+	<string id="st_device_torch_name">
+		<text>Baterka</text>
+	</string>
+	<string id="st_drug_anabiotic">
+		<text>Antibiotika</text>
+	</string>
+	<string id="st_drug_antidot">
+		<text>Protijed</text>
+	</string>
+	<string id="st_drug_antidot_descr">
+		<text>Antitoxin IP2 je komplexnн lйcebnэ systйm sloћenэ z nekolika antibiotik vcetne metoclopramidu, pyridoxinu, thiaminu, riboxinu a dalљнch lйciv. Lйk po vstrнknutн do krevnнho obehu dokбћe neutralizovat velkй mnoћstvн prнrodnнch toxinu, navнc obsahuje absorbenty syntetickэch jedu. IP2 v Zуne nenн prнliљ populбrnн, jelikoћ se vetљina stalkeru spolйhб na plynovou masku a ochrannэ oblek, presto si ale nekterн stalkeri delajн zбsoby tohoto lйciva. Lйk mб dlouhodobй ъcinky.</text>
+	</string>
+	<string id="st_drug_booster">
+		<text>Herkules</text>
+	</string>
+	<string id="st_drug_coagulant">
+		<text>Vinca</text>
+	</string>
+	<string id="st_drug_coagulant_descr">
+		<text>Ukrajinskэ vikasolum - umelэ ekvivalent vitaminu K. Hlavnнm cнlem tohoto lйku je zrychlit srбћenн krve. Mezi stalkery je po nem vysokб poptбvka, jelikoћ umoћnuje rychlejљн hojenн drobnэch zranenн, secnэch a trћnэch ran zpusobenэch mutanty. Lйk mб dlouhotrvajнcн ъcinky.</text>
+	</string>
+	<string id="st_drug_psy_blockade">
+		<text>Psionickэ blok</text>
+	</string>
+	<string id="st_drug_psy_blockade_descr">
+		<text>Tato droga blokuje silnй nervovй impulsy. Konzumace lйku zpusobuje krбtkodobй potlacenн veљkerэch emocн. Pouћнvб se pouze v Zуne jako ochrana pred ъcinky anomбlnнch psionickэch polн. Lйk mб dlouhotrvajнcн ъcinky.</text>
+	</string>
+	<string id="st_drug_radioprotector">
+		<text>Radioochrana</text>
+	</string>
+	<string id="st_energy_drink">
+		<text>Stalkerskэ energy drink</text>
+	</string>
+	<string id="st_energy_drink_descr">
+		<text>Stalkeri na dlouhэch vэpravбch, kdy si nemohou dovolit odpocinek, casto pijн ve velkйm tento energetickэ nбpoj. Drink obsahuje snadno stravitelnй uhlovodнky a takй lйky, kterй stimulujн uvolnovбnн adrenalinu do krevnнho obehu.</text>
+	</string>
+	<string id="st_guitar_descr">
+		<text>Vernб kytara</text>
+	</string>
+	<string id="st_guitar_name">
+		<text>Kytara</text>
+	</string>
+	<string id="st_kolbasa">
+		<text>Dietnн klobбsa</text>
+	</string>
+	<string id="st_kolbasa_descr">
+		<text>Tato klobбsa, vyrobenб ze smesi kurete a sojovй nбhraћky, casto tvorн stalkerskou snнdani, obed i veceri. Dнky vysokэm obsahum konzervantu je moћnй ji skladovat dlouhodobe.</text>
+	</string>
+	<string id="st_medkit">
+		<text>Lйkбrnicka</text>
+	</string>
+	<string id="st_medkit_army">
+		<text>Armбdnн lйkбrnicka</text>
+	</string>
+	<string id="st_medkit_army_descr">
+		<text>Specializovanб lйkбrnicka pro poskytovanн prvnн pomoci v boji. V lйkбrnicce jsou obsaћeny krevnн koagulanty zaloћenй na menadionu, analgetika, antibiotika a imunostimulanty, takй zбkladnн vэbava pro odstranovбnн kulek a strepin z tela. Lйkбrnicka je standardne vydбvбna vojenskйmu personбlu a obcas ji pouћнvajн stalkeri frakce Povinnost.</text>
+	</string>
+	<string id="st_medkit_descr">
+		<text>Obecnб lйkбrnicka na jedno pouћitн. Hodн se pro oљetrenн ruznэch zranenн - trћnэch ran, otoku, obycejnэch i chemickэch spбlenin a takй nekterэch otrav. Mezi stalkery je po nн velkб poptбvka.</text>
+	</string>
+	<string id="st_medkit_science">
+		<text>Vedeckб lйkбrnicka</text>
+	</string>
+	<string id="st_medkit_science_descr">
+		<text>Lйkбrnicka navrћenб specificky pro pouћitн v Zуne. Obsahuje lйky a vэbavu pro lйcenн zranenн, zablokovбnн ъcinku radiace a dekontaminaci tela od radioaktivnнch cбstic. Na rozdнl od jinэch lйkбrnicek je v nн i Vikasolum, Batilolum a Naphazoline.</text>
+	</string>
+	<string id="st_pda_descr">
+		<text>Ћбdnб data neuloћena.</text>
+	</string>
+	<string id="st_pda_name">
+		<text>PDA</text>
+	</string>
+	<string id="st_vodka">
+		<text>Kozбckб vodka</text>
+	</string>
+	<string id="st_vodka_descr">
+		<text>Vэrobek GSC. Je celkem jemnб a pomбhб sniћovat ъcinky radiace. Je vhodnй konzumaci omezovat.</text>
+	</string>
+	<string id="st_detector2_descr">
+		<text>Tento detektor anomбliн poslednн generace muћe bэt vyuћit k lokalizaci anomбlnнch ъtvaru. Disponuje panelem s barevnэmi diodami, kterэ nenaznacuje jen smer pozice artefaktu, ale i jeho vzdбlenost. Pro prepnutн do reћimu vyhledбvбnн artefaktu otevri prednн kryt prнstroje. V prнstroji je bohuћel naprogramovбn ponekud zastaralэ seznam detekovatelnэch artefaktu.</text>
+	</string>
+	<string id="st_drug_anabiotic_descr">
+		<text>Experimentбlnн droga vyvinutб profesorem Ozerskэm urcenб pro vedeckovэzkumnй tэmy pracujнcн v Zуne. Samotnб droga obsahuje tetrodotoxin, znбmэ pod oznacenнm „prбљek zombiн,“ kterэ zpusobuje ъplnй zastavenн cinnosti centrбlnнho nervovйho systйmu a umoћnuje tak preћнt emisi mimo ъkryt. Droga neproљla klinickэmi ani praktickэmi zkouљkami, coћ vyvolбvб otбzky tэkajнcн se jejн efektivity a moћnэch vedlejљнch ъcinku.</text>
+	</string>
+	<string id="st_bolt">
+		<text>Љroub</text>
+	</string>
+	<string id="st_drug_booster_descr">
+		<text>Hlavnн sloћkou tohoto vэrobku je anabolickэ androgen, syntetickэ steroid, kterэ svэm chemickэm sloћenнm pripomнnб testosteron. Stalkeri jej casto uћнvajн behem dlouhэch boju, aby ulevili svэm svalum. Steroid znacne zvyљuje nosnost a mб dlouhotrvajнcн ъcinky.</text>
+	</string>
+	<string id="st_drug_radioprotector_descr">
+		<text>Protiradioaktivnн prнpraven Indralin B190 je beћnou soucбstн lйkбrnicek pouћнvanэch v jadernэch elektrбrnбch. V Zуne se pouћнvб namнsto vysoce toxickйho hydrochloridu cysteaminnйho PC1, jehoћ castй uћнvбnн zpusobuje smrt. Zmнrnuje dopady paprsku gamma na lidskou tkбn. Doporucuje se spolknout pred vystavenнm zбrenн, jelikoћ efekt se nedostavuje okamћite. Ъcinky trvajн dlouhodobe.</text>
+	</string>
+	<string id="st_harmonica_name">
+		<text>Foukacн harmonika</text>
+	</string>
+	<string id="st_harmonica_descr">
+		<text>Pro milovnнky blues a pнsnн zhrzenэch veznu.</text>
+	</string>
+</string_table>

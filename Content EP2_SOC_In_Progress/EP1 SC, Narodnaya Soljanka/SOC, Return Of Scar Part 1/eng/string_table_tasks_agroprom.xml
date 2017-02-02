@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- DR edited -->
+<string id="agr_find_ghost">
+    <text>Learn about the fate of Ghost</text>
+</string>
+<string id="agr_gunslinger_cache">
+    <text>Arrow's stash</text>
+</string>
+<string id="agr_help_krot">
+    <text>Save Mole</text>
+</string>
+<string id="agr_help_krot_0">
+    <text>Help Mole fend off the military</text>
+</string>
+<string id="agr_help_krot_1">
+    <text>Destroy the military</text>
+</string>
+<string id="agr_help_krot_2">
+    <text>Save Mole</text>
+</string>
+<string id="agr_help_stalkers">
+    <text>Help stalkers</text>
+</string>
+<string id="agr_help_stalkers_0">
+    <text>Help stalkers fend off military</text>
+</string>
+<string id="agr_help_stalkers_1">
+    <text>Destroy the military</text>
+</string>
+<string id="agr_help_stalkers_2">
+    <text>Help stalkers fend off military</text>
+</string>
+<string id="agr_krot">
+    <text>Meet with stalkers</text>
+</string>
+<string id="agr_meet_krot_band">
+    <text>Get information about Arrow</text>
+</string>
+<string id="agr_meet_krot_band_0">
+    <text>Get information from Mole</text>
+</string>
+<string id="agr_meet_krot_band_1">
+    <text>Meet with Mole's group</text>
+</string>
+<string id="agr_meet_krot_band_2">
+    <text>Obtain information from Mole</text>
+</string>
+<string id="agroprom_find_gunslinger_cache">
+    <text>Find Arrow's group's cache</text>
+</string>
+<string id="agroprom_find_gunslinger_cache_0">
+    <text>Find Arrow's group's cache</text>
+</string>
+<string id="agroprom_find_gunslinger_cache_1">
+    <text>Find a cache</text>
+</string>
+<string id="agroprom_find_gunslinger_cache_2">
+    <text>Find information about Arrow's cache</text>
+</string>
+<string id="agroprom_find_gunslinger_cache_3">
+    <text>Get out of the underground</text>
+</string>
+<string id="agroprom_find_stalker_phantom">
+    <text>Find Ghost</text>
+</string>
+<string id="agroprom_find_stalker_phantom_0">
+    <text>Ghost knows where the shooter is</text>
+</string>
+<string id="agroprom_get_military_documents">
+    <text>Find documents military</text>
+</string>
+<string id="agroprom_get_military_documents_0">
+    <text>SRI Agroprom</text>
+</string>
+<string id="agroprom_get_military_documents_1">
+    <text>Steal military documents</text>
+</string>
+<string id="agroprom_get_military_documents_2">
+    <text>Classified documents to Barkeep</text>
+</string>

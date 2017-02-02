@@ -1,0 +1,2011 @@
+<!-- Übersetzt und angepasst durch Wlad Geschwendt aka 777-W.L.A.D. am 05.07.2008 -->
+<!-- Update am 03.03.2015 -->
+
+	<string id="barman_musik_dialog_0">
+		<text>Mach mal andere Musik an! Diese kann ich echt nicht mehr hören.</text>
+	</string>
+	<string id="barman_musik_dialog_1">
+		<text>Keine Frage. Fünf Riesen - dann schalt ich um.</text>
+	</string>
+	<string id="barman_musik_dialog_2">
+		<text>Pfff... Sonst geht's noch? Gut, hier sind 5000.</text>
+	</string>
+	<string id="barman_musik_dialog_10">
+		<text>Nein, Mann. Das ist mir zu teuer.</text>
+	</string>
+	<string id="barman_musik_dialog_3">
+		<text>Was hast du denn gedacht? Einfach so werden nicht mal Katzen geboren.\n \nWas willst du denn hören?</text>
+	</string>
+	<string id="barman_musik_dialog_4">
+		<text>Irgendwas im Retro-Stil.</text>
+	</string>
+	<string id="barman_musik_dialog_5">
+		<text>Was rockiges.</text>
+	</string>
+	<string id="barman_musik_dialog_6">
+		<text>Hast du auch Rock'n'Roll?</text>
+	</string>
+	<string id="barman_musik_dialog_7">
+		<text>Was moderneres.</text>
+	</string>
+	<string id="barman_musik_dialog_41">
+		<text>Ich mag Retro auch.</text>
+	</string>
+	<string id="barman_musik_dialog_51">
+		<text>Gut - du kriegst dein Rock.</text>
+	</string>
+	<string id="barman_musik_dialog_61">
+		<text>Wir haben auch sowas.</text>
+	</string>
+	<string id="barman_musik_dialog_71">
+		<text>Gut, mach ich gleich an.</text>
+	</string>
+	<string id="barman_musik_dialog_8">
+		<text>Ach, egal. Soll das hier weiter laufen.</text>
+	</string>
+	<string id="borov_start_dialog_0">
+		<text>Ah! Du bist das.</text>
+	</string>
+	<string id="borov_start_dialog_1">
+		<text>Ja, ich. Und?</text>
+	</string>
+	<string id="borov_11_dialog_0">
+		<text>Einer von euch sagte - man könnte mit dir reden.</text>
+	</string>
+	<string id="borov_11_dialog_1">
+		<text>Du hast also "Mongol" gerettet... Verschwendung. Wäre kein Verlust - ist ein Dreckskerl.\n \nAber egal jetzt. Ich pass auf die Jungs hier auf, bin für sie so eine Art "Pate", he-he. Hast du einem von denen geholfen - so hast du den Respekt der ganzen Gang hier. Ich sagte mein Wort - also wird dich hier kein Hundesohn auch nur anrühren.\n \nUnd was führt dich hierher? Was geschäftliches, oder bist du nur "auf Durchreise"?</text>
+	</string>
+	<string id="borov_11_dialog_2">
+		<text>Erfahrene Leute haben mir einen Rat gegeben - dich nach einem Schlüssel für das unterirdisches Labor zu fragen.</text>
+	</string>
+	<string id="borov_11_dialog_3">
+		<text>A-a-a-ch, diesen Schlüssel. Was willst du da drin? Da sind nur noch Mutanten, nichts wertvolles mehr übrig.\n \nAndererseits. Was geht mich das an, oder?\n \nIch hab diesen Schlüssel schon, aber du weißt doch - einfach so bekommt man nicht mal einen Pickel auf dem Arsch. Wenn du den haben willst - beweise mir, das ich mit dir Geschäfte machen kann.</text>
+	</string>
+	<string id="borov_11_dialog_4">
+		<text>Wie soll ich es denn machen? Soll ich mich prügeln oder so?</text>
+	</string>
+	<string id="borov_11_dialog_5">
+		<text>Keine Angst, ich sehe doch, mit wem ich zu tun habe. Vor kurzem ist hier ein Hubschrauber abgestürzt, nicht weit - östlich von dem Sumpf. Warum, weiß ich nicht. Kam aus Richtung Zonenzentrum, hat geraucht wie ein Fabrikschornstein. Ich hab ein Paar Hohlköpfe dahin geschickt, damit sie nachsehen was da los ist, nur war da ein Chimeras-Nest in der Nähe, und die Idioten haben Schiss bekommen näher ranzugehen. Sahen nur, das ein Paar Leichen und Gegenstände da rumliegen.\n \nWillst du dein Glück versuchen? Schaue mal da nach, wenn du was interessantes findest - bring es her, dann reden wir über den Schlüssel wieder und können - vielleicht - andere Geschäfte abwickeln.</text>
+	</string>
+	<string id="borov_11_dialog_6">
+		<text>Tja... Deine "Krieger" haben Schiss vor Chimeras? Gut, dann gehe ich mal nachsehen.</text>
+	</string>
+	<string id="borov_11_dialog_7">
+		<text>Nee, lass mal. Sollen deine Stiefellecker ihren Arsch riskieren.</text>
+	</string>
+	<string id="borov_12_dialog_0">
+		<text>Ich war bei dem Hubschrauber, die Chimeras sind gar nicht soooo schrecklich.</text>
+	</string>
+	<string id="borov_12_dialog_1">
+		<text>Warst du also. Ich schickte ein paar Jungs los, um auf dich aufzupassen, hab aber kein Bericht von denen bekommen. Was gab's da schönes am Hubschrauber?</text>
+	</string>
+	<string id="borov_12_dialog_2">
+		<text>Da war gar nichts. Nur ein Paar Eierkopf-Leichen.</text>
+	</string>
+	<string id="borov_12_dialog_3">
+		<text>Ich fand da was. Container mit irgendeinem Artefakt, hab kein Risiko angegangen und habs nicht geöffnet. Und ein Paar Dokumente.</text>
+	</string>
+	<string id="borov_12_dialog_21">
+		<text>Nichts, also? Hältst du mich für dämlich?!. Meine Jungs sahen, wie du ein Container aufgehoben hast!</text>
+	</string>
+	<string id="borov_12_dialog_42">
+		<text>Mann... Ich glaub, ich habs verloren.</text>
+	</string>
+	<string id="borov_12_dialog_31">
+		<text>Schön, mit dir Geschäfte zu machen. Gib schon her die beiden Sachen.</text>
+	</string>
+	<string id="borov_12_dialog_32">
+		<text>Hier. Und was ist mit meinem Schlüssel?</text>
+	</string>
+	<string id="borov_12_dialog_33">
+		<text>Borow hält sein Wort! Hier ist dein Schlüssel.\n \nWenn du mal Zeit hast, komm wieder vorbei, ich hab da noch ein Geschäft für dich.</text>
+	</string>
+	<string id="borov_12_dialog_34">
+		<text>Gut, mach ich mal.</text>
+	</string>
+	<string id="borov_12_dialog_22">
+		<text>Und sonst haben die Hohlköpfe nichts mehr gesehen? Vielleicht hab ich mir auch den Monolith unter den Nagel gerissen. Das sind mir Helden!</text>
+	</string>
+	<string id="borov_12_dialog_23">
+		<text>Na ja, auch egal. Das ist es nicht Wert, um sich hier bis zu Heiserkeit zu streiten. Lass uns noch ein Versuch starten. Ich hätte da noch ein Geschäft.</text>
+	</string>
+	<string id="borov_21_dialog_0">
+		<text>Was für ein Geschäft hast du denn für mich?</text>
+	</string>
+	<string id="borov_21_dialog_1">
+		<text>Wir hatten hier mal einen Kerl, "Ratte" sein Spitzname. War auch echt wie eine Ratte, lief hier rum, steckte die Nase überall rein. Man sagte mir, das er sich viele unsere interne Sachen auf dem PDA notiert hat. Als ich ihn am Arsch packen wollte - ist er abgetaucht.\n \nZum Geschäft - finde diese Ratte und nimm ihm diesen PDA ab. Wie - sind deine Probleme. Bringst du den PDA zurück - reden wir über Belohnung.</text>
+	</string>
+	<string id="borov_21_dialog_2">
+		<text>Hmmm. Und wo soll ich ihn denn suchen? Die Zone ist groß.</text>
+	</string>
+	<string id="borov_21_dialog_3">
+		<text>Das letzte Mal hat man ihn im Kordon gesehen. Was nun? Abgemacht?</text>
+	</string>
+	<string id="borov_21_dialog_4">
+		<text>Na gut, ich versuch mal eure Ratte zu finden.</text>
+	</string>
+	<string id="borov_21_dialog_5">
+		<text>Nein, lass mal. Das sind eure Probleme, regelt die selbst.</text>
+	</string>
+	<string id="borov_22_dialog_0">
+		<text>Hi, Borow! Ich hab "Ratte" gefunden.</text>
+	</string>
+	<string id="borov_22_dialog_1">
+		<text>Ja, und nun?. Wo ist der PDA?</text>
+	</string>
+	<string id="borov_22_dialog_2">
+		<text>Und wo ist mein Preis?</text>
+	</string>
+	<string id="borov_22_dialog_3">
+		<text>Du kriegst schon dein Preis, wenn du dich benimmst.</text>
+	</string>
+	<string id="borov_22_dialog_4">
+		<text>Na gut, wollen wir mal glauben. Hier ist der PDA.</text>
+	</string>
+	<string id="borov_22_dialog_51">
+		<text>Fein! Hier hast du den Schlüssel von den Katakomben und die Koordinaten eines guten Verstecks. Zwar war der Mann, dem das Versteck gehörte, ein Arsch, aber da sollte gute Beute drin sein.. Im Norden der Armeelagehäuser-Gegend. Übrigens, auch neben einem abgestürzten Hubschrauber.\n \nUnd ich hab noch was für dich - es gibt eine Methode "Gepresstes" zu "kochen" - du mußt nur ein Verband, eine Konserve, Stück Wurst und ein Tuschkano-Kopf ins "Gallert" werfen.</text>
+	</string>
+	<string id="borov_22_dialog_52">
+		<text>Fein! Hier hast du die Koordinaten eines guten Verstecks. Zwar war der Mann, dem das Versteck gehörte, ein Arsch, aber da sollte gute Beute drin sein.. Im Norden der Armeelagehäuser-Gegend. Übrigens, auch neben einem abgestürzten Hubschrauber.\n \nUnd ich hab noch was für dich - es gibt eine Methode "Gepresstes" zu "kochen" - du mußt nur ein Verband, eine Konserve, Stück Wurst und ein Tuschkano-Kopf ins "Gallert" werfen.</text>
+	</string>
+	<string id="borov_22_dialog_6">
+		<text>Na gut. Wie ich sehe, hältst du dein Wort. Wir sehen uns noch.</text>
+	</string>
+	<string id="krysyk_start_dialog_0">
+		<text>Hey, Stalker! Komm näher, lass uns reden.</text>
+	</string>
+	<string id="krysyk_start_dialog_1">
+		<text>Bist du "Ratte"?</text>
+	</string>
+	<string id="krysyk_start_dialog_2">
+		<text>Rattich! Mein Name ist Rattich!</text>
+	</string>
+	<string id="krysyk_11_dialog_0">
+		<text>Egal, wie man dich auch nennt. Ich hab hier was, was dich betrifft.</text>
+	</string>
+	<string id="krysyk_11_dialog_1">
+		<text>Mich? Was denn? Ich kenn dich doch gar nicht.</text>
+	</string>
+	<string id="krysyk_11_dialog_2">
+		<text>Kennst du "Borow"? Der ist stinkesauer auf dich, und will das du ihm dein PDA zurückgibst.</text>
+	</string>
+	<string id="krysyk_11_dialog_3">
+		<text>Ha, der kann mich mal! Da sind Koordinaten von "Borow"s mehreren Beute-Verstecken drauf. Den rücke ich doch nicht einfach so raus! \n \nAber ich könnte mit dir teilen, wenn du mir hilfst.</text>
+	</string>
+	<string id="krysyk_11_dialog_41">
+		<text>Und wenn ich dir den Hals umdrehe - hilft das auch?!</text>
+	</string>
+	<string id="krysyk_11_dialog_42">
+		<text>Dir helfen? Und wie?</text>
+	</string>
+	<string id="krysyk_11_dialog_51">
+		<text>Versuch's doch. Nur wird dir das nichts nützen. Ich hab den PDA schön versteckt! Musst du selbst wissen, was du dann machst.</text>
+	</string>
+	<string id="krysyk_11_dialog_52">
+		<text>Ich muss mich besser verstecken vor den "Kollegen". Könntest du mit dem Wirt reden, damit man mich in die Bar reinlässt - da kriegen mich "Borow"s Leute nicht.</text>
+	</string>
+	<string id="krysyk_11_dialog_621">
+		<text>Ich rede mit dem Wirt, aber ich kann nichts versprechen.</text>
+	</string>
+	<string id="krysyk_11_dialog_622">
+		<text>Du kannst mich mal! Ihr geht mir alle echt auf den Sack - gehe dahin, gehe hierhin!</text>
+	</string>
+	<string id="krysyk_11_dialog_61">
+		<text>Na gut. Ich scherzte - du lachtest. Welche Art Hilfe brauchst du?</text>
+	</string>
+	<string id="krysyk_11_dialog_62">
+		<text>Du kleiner sturrer Bastard! Na warte, ich bring dich schon zum Reden!</text>
+	</string>
+	<string id="krysyk_12_dialog_0">
+		<text>Ich hab mit dem Wirt gesprochen. Er kann das regeln, mit dem Passierschein in die Bar. Aber nur, wenn du ein Versteck mit etwas Wertvollem rausrückst.</text>
+	</string>
+	<string id="krysyk_12_dialog_1">
+		<text>Das könnte ich machen, aber wer soll das denn prüfen?</text>
+	</string>
+	<string id="krysyk_12_dialog_2">
+		<text>Ich prüfe das schon nach! Und bringe alles dem Wirt.</text>
+	</string>
+	<string id="krysyk_12_dialog_3">
+		<text>Na gut, hier sind die Koordinaten eines Verstecks im Dunklen Tal. Da liegen drei "Mondlichter" drin, und "Mamas Perlen". Bring das alles dem Wirt. Wenn ich dadurch wirklich in die Bar schaffe, dann sage ich dir wo mein PDA liegt und noch eine andere Sache.</text>
+	</string>
+	<string id="krysyk_13_dialog_0">
+		<text>Hey, Wirt! Ich hab für dich eine Bitte von einem Banditen.</text>
+	</string>
+	<string id="krysyk_13_dialog_1">
+		<text>Etwa von dir? Einen, der mehr wie ein Bandit aussieht, hab ich noch nie gesehen.</text>
+	</string>
+	<string id="krysyk_13_dialog_2">
+		<text>Ja, ja... Scherzbold. Einer namens "Ratte" will sich bei dir vor "Borow" verstecken. Lässt du ihn?</text>
+	</string>
+	<string id="krysyk_13_dialog_3">
+		<text>Und was hab ich davon??? Wenn er Sicherheit will - soll er zahlen. Schönes Versteck zeigen oder sonst was. Bring mir was Wertvolles von ihm, dann kann er sich hier blicken lassen.</text>
+	</string>
+	<string id="krysyk_13_dialog_4">
+		<text>Gut, ich werde ihm deine Position erklären.</text>
+	</string>
+	<string id="krysyk_14_dialog_0">
+		<text>Ich grüße dich, du Retter der verlorenen Seelen!</text>
+	</string>
+	<string id="krysyk_14_dialog_1">
+		<text>Lass das sein, ich bin heute nicht in der Stimmung dafür. Was willst du?</text>
+	</string>
+	<string id="krysyk_14_dialog_2">
+		<text>Rattich hat ein Versteck mit Artefakten gezeigt, ich war da und sah nach. Drei "Mondlichter" und "Mamas Perlen" waren drin.</text>
+	</string>
+	<string id="krysyk_14_dialog_3">
+		<text>Interessant. Ein ehrlicher Bandit... Die Welt ist schon seltsam. Dann gib schon her die Artefakte, und sag ihm - er kann hier rein. Ich sage den Jungs bei den Blockposten Bescheid.</text>
+	</string>
+	<string id="krysyk_14_dialog_42">
+		<text>Ich soll die dir geben? Ich, glaub, ich behalte die lieber.</text>
+	</string>
+	<string id="krysyk_14_dialog_41">
+		<text>Hier sind die.</text>
+	</string>
+	<string id="krysyk_14_dialog_51">
+		<text>Gut, dann schauen wir mal, was es für 'ne Ratte ist.</text>
+	</string>
+	<string id="krysyk_14_dialog_52">
+		<text>He-He. Natürlich kannst du das, und deinen Rattich kannst du dann auch behalten.</text>
+	</string>
+	<string id="krysyk_15_dialog_0">
+		<text>Der Wirt ist mit deinem Aufenthalt in der Bar einverstanden. Bist du jetzt zufrieden?</text>
+	</string>
+	<string id="krysyk_15_dialog_1">
+		<text>Sagen wie so - ich werde jetzt viel ruhiger schlafen.</text>
+	</string>
+	<string id="krysyk_15_dialog_2">
+		<text>Und was ist mit meinem Anteil?</text>
+	</string>
+	<string id="krysyk_15_dialog_3">
+		<text>Dein Anteil wartet auf dich im Agroprom. Hier sind die Koordinaten.\n \nUnd ein Rezept bekommst du auch noch von mir - Du kannst eine "Qualle" aus verschiedenen Sachen "zusammenkochen". Werfe einfach ein Tuschkano-Kopf, ein Verband, Stück Wurst und eine Konserve in die "Elektra".</text>
+	</string>
+	<string id="krysyk_15_dialog_4">
+		<text>Gut, ich werde das prüfen. Wenn du mich beschissen hast - Gnade dir Gott.</text>
+	</string>
+	<string id="esc_wolf_sak">
+		<text>Wolf</text>
+	</string>
+	<string id="esc_shustryi_sak">
+		<text>Flinker</text>
+	</string>
+	<string id="esc_fox_sak">
+		<text>Fuchs</text>
+	</string>
+	<string id="esc_provodnik_sak">
+		<text>Führer</text>
+	</string>
+	<string id="gar_dm_novice_sak">
+		<text>Jurik</text>
+	</string>
+	<string id="gar_hellcar_sak">
+		<text>Bes</text>
+	</string>
+	<string id="agr_krot_sak">
+		<text>Maulwurf</text>
+	</string>
+	<string id="val_bandit_krisyk_sak">
+		<text>Ratte</text>
+	</string>
+	<string id="val_bandit_krisyk_name">
+		<text>Ratte</text>
+	</string>
+<string id="bar_docent_0">
+		<text>Ich grüße die Wissenschaft! Was treibst du denn so hier?</text>
+	</string>
+	<string id="bar_docent_1">
+		<text>Ich grüße dich auch. Na ja, ich versuche zur Zeit ein Detektor zu bauen, der auf verschiedene Mutanten reagiert.\n \nHaben die "Jäger" bestellt, ihr Anführer hatte die Idee dafür.</text>
+	</string>
+	<string id="bar_docent_2">
+		<text>Echt? Gute Sache! Und, schon Resultate?</text>
+	</string>
+	<string id="bar_docent_3">
+		<text>Na ja, die Richtung stimmt schon. Aber für eine genaue Fixierung muß ich den Detektor auf die DNS der verschiedenen Mutantenarten kalibrieren. Wenn ich nur irgendwelche Körperteile von seltenen Mutanten hätte, dann würde die Arbeit viel schneller voranschreiten.</text>
+	</string>
+	<string id="bar_docent_4">
+		<text>Und für Erkennung welcher Monster willst sowas bauen?</text>
+	</string>
+	<string id="bar_docent_5">
+		<text>Mit ein wenig Glück wird mein Detektor universell sein. Ich werde ihn dann "Bioradar" nennen.\n \nMir fehlen aber noch Proben des Gewebes von den gefährlichsten Mutanten - Blutsauger, Pseudoriesen und Telepathen.</text>
+	</string>
+	<string id="bar_docent_51">
+		<text>Ich könnte dir vielleicht Blutsaugergebisse besorgen, die Vieher gehen mir echt auf den Sack.</text>
+	</string>
+	<string id="bar_docent_52">
+		<text>Ich könnte dir vielleicht Pseudoriesenhände besorgen, auch wenn ich lieber einen Bogen um sie mache.</text>
+	</string>
+	<string id="bar_docent_53">
+		<text>Ich könnte dir vielleicht Telepathenhände besorgen. Auch wenn es die gefährlichsten Kreaturen der Zone sind.</text>
+	</string>
+	<string id="bar_docent_54">
+		<text>Na dann, viel Glück dabei. Ich komme ja auch ohne Detektor klar.</text>
+	</string>
+	<string id="bar_docent_61">
+		<text>Für die Justierung brauche ich zwei Blutsauger-Gebisse. Nein, besser drei.\n \nUnd noch was... Für die Signalverstärkung sind äußere Empfangskonturen von mindestens 15 gewöhnlichen PDAs nötig.</text>
+	</string>
+	<string id="bar_docent_62">
+		<text>Für die Kalibrierung brauche ich vier Körperteile des Pseudoriesen, am besten von zwei verschiedenen - für eine Kreuzanalyse.\n \nUnd noch was... Für die Signalverstärkung sind äußere Empfangskonturen von mindestens 15 gewöhnlichen PDAs nötig.</text>
+	</string>
+	<string id="bar_docent_63">
+		<text>Ich brauche noch drei Körperteile des Telepathen.\n \nWegen seiner Mutation muß ich die Empfindlichkeit des Detektors mit kaskadierenden Umwandlern verstärken, welche in gewöhnlichen PDAs eingebaut sind. Aber ich brauche davon nicht weniger als 15 Stück.</text>
+	</string>
+	<string id="bar_docent_71">
+		<text>Ich finde schon für dich die PDAs und Gebisse. Hauptsache, du machst es gut!</text>
+	</string>
+	<string id="bar_docent_72">
+		<text>Die Pseudoriesen trifft man oft, ich treibe für dich die Hände auf. Die PDA finden sich bestimmt auch.</text>
+	</string>
+	<string id="bar_docent_73">
+		<text>Dann gehe ich mal auf die Telepath-Jagd und bringe dir drei-vier Hände oder so. PDA werden sich auch auftreiben lassen.</text>
+	</string>
+	<string id="bar_docent_74">
+		<text>Also, das klingt nach viel Rumgerenne. Wir reden dann wieder, wenn du was Vorzeigbares hast.</text>
+	</string>
+	<string id="tex_docent_detector1">
+		<text>Für die Umbau des PDAs zum Blutsauger-Detektor muß man zwei Blutsauger-Gebisse besorgen und 20 PDAs finden. Das alles zum "Dozent" bringen, dann baut er mein PDA um.</text>
+	</string>
+	<string id="tex_docent_detector2">
+		<text>Für die Umbau des PDAs zum Pseudoriesen-Detektor muß man zwei Körperteile von verschiedenen Pseudoriesen besorgen und 15 PDAs finden. Das alles zum "Dozent" bringen, dann baut er mein PDA um.</text>
+	</string>
+	<string id="tex_docent_detector3">
+		<text>Für die Umbau des PDAs zum Telepath-Detektor muß man ein Körperteil von dem besorgen und 30 PDAs finden. Das alles zum "Dozent" bringen, dann baut er mein PDA um.</text>
+	</string>
+	<string id="bar_docent_1dialog_0">
+		<text>Sei gegrüßt, Meister!</text>
+	</string>
+	<string id="bar_docent_1dialog_1">
+		<text>Nicht so laut, Mann. Auch dir Hallo!</text>
+	</string>
+	<string id="bar_docent_1dialog_2">
+		<text>Ich hab die nötigen Sachen für Blutsauger-Detektor zusammen. Hier sind sie.</text>
+	</string>
+	<string id="bar_docent_1dialog_3">
+		<text>Sehr schön, jetzt kann ich alles weiter zusammensetzen.\n \nDanke, damit bin ich einen grossen Schritt weiter.</text>
+	</string>
+	<string id="bar_docent_1dialog_4">
+		<text>Freut mich zu hören. Ich hoffe, du bist bald fertig.</text>
+	</string>
+	<string id="bar_docent_2dialog_0">
+		<text>Dozent, wie geht es dir? Du siehst gar nicht gesund aus!</text>
+	</string>
+	<string id="bar_docent_2dialog_1">
+		<text>Wie soll man, hier im Keller, auch gesund bleiben..</text>
+	</string>
+	<string id="bar_docent_2dialog_2">
+		<text>Ich war auf einer Tour und hab die PDA und Pseudoriesen-Teile besorgt. Hier, nimm.</text>
+	</string>
+	<string id="bar_docent_2dialog_3">
+		<text>Im zusammenbauen habe mittlerweile ich schon Routine.\n \nDanke, damit bin ich mit meinem "Bioradar" einen grossen Schritt weiter.</text>
+	</string>
+	<string id="bar_docent_2dialog_4">
+		<text>Freut mich zu hören. Ich hoffe, du bist bald fertig.</text>
+	</string>
+	<string id="bar_docent_3dialog_0">
+		<text>Wie gehts, "Dozent"?</text>
+	</string>
+	<string id="bar_docent_3dialog_1">
+		<text>Im Vergleich mit Semetzky - nicht schlecht, eigentlich.</text>
+	</string>
+	<string id="bar_docent_3dialog_2">
+		<text>He-He! Er ist nicht zu beneiden, stimmt! Ich hab hier noch mehr Teile für Detektor angeschleppt.</text>
+	</string>
+	<string id="bar_docent_3dialog_3">
+		<text>Super! Diese sind echt wichtig für die Fertigstellung des "Bioradars".\n \nDanke, damit bin ich einen grossen Schritt weiter.</text>
+	</string>
+	<string id="bar_docent_3dialog_4">
+		<text>Freut mich zu hören. Ich hoffe, du bist bald fertig.</text>
+	</string>
+	<string id="bar_docent_bio_dialog_0">
+		<text>Und, "Dozent", hast du jetzt alles um deinen "Bioradar" fertigzustellen?</text>
+	</string>
+	<string id="bar_docent_bio_dialog_1">
+		<text>Ja, dank deiner Hilfe hab ich alles Nötige. Werde nun die letzten Kalibrierungen durchführen, dann nur noch die Elektronik ins Gehäuse stecken, und fertig ist das Ding.</text>
+	</string>
+	<string id="bar_docent_bio_dialog_2">
+		<text>Fein, fein! Wenn ich es mir so überlege - dieses Gerät würde ich gern besitzen. Was möchtest du dafür haben, wenn du es fertig hast.</text>
+	</string>
+	<string id="bar_docent_bio_dialog_3">
+		<text>Ich muss dich enttäuschen, das kann ich dir nicht verkaufen. Das Ding hat nun mal der Anführer der Jäger bestellt, und es geht ohne wenn und aber an ihn.\n \nIch liefere es so in einer Stunde bei ihm ab, dann kannst du ja versuchen mit ihm zu verhandeln, wenn du es unbedingt haben willst. Mich geht das Ganze dann nichts mehr an.</text>
+	</string>
+	<string id="bar_docent_bio_dialog_4">
+		<text>Hmm... Na gut, dann weiß ich Bescheid. Bis dann.</text>
+	</string>
+	<string id="bar_docent_npc_dialog_0">
+		<text>Ich muß einen bestimmten Mann in der Zone finden. Kannst du vielleicht helfen, wenn du schon einen Mutantendetektor baust?</text>
+	</string>
+	<string id="bar_docent_npc_dialog_1">
+		<text>Im Prinzip ist sowas möglich. Man kann ja jeden unkodierten GPS-Sender in persönlichen PDA verfolgen. Ich könnte dein PDA so programmieren, das für die Person, die du suchst, eine Marke auf die Zonenkarte gesetzt wird.\n \nAber neue Erkenntnisse in der Zone bekommt man schwer, und ich bitte dich dafür, mir neue Informationen zu besorgen.\n \nSehr oft gibt es in persönlichen PDA unikale Daten, die für einen Nicht-Spezialisten nur nach Kauderwelsch aussehen.\n \nBring mir fünf beliebige PDA und ich setze dir dafür eine Marke auf die Person, die du suchst.</text>
+	</string>
+	<string id="bar_docent_npc_dialog_2">
+		<text>Ich hab die PDA, lass uns programmieren.</text>
+	</string>
+	<string id="bar_docent_npc_dialog_3">
+		<text>Einverstanden, wenn ich die PDA habe, komm ich wieder.</text>
+	</string>
+	<string id="bar_docent_npc_dialog_4">
+		<text>Wunderbar! Wen möchtest du denn finden?</text>
+	</string>
+	<string id="bar_docent_npc_dialog_61">
+		<text>Und wen genau?</text>
+	</string>
+	<string id="bar_docent_npc_dialog_8">
+		<text>Fertig! Jetzt hast du auf deiner PDA-Karte eine Markierung für ihn!</text>
+	</string>
+	<string id="bar_docent_npc_dialog_9">
+		<text>Respekt!</text>
+	</string>
+	<string id="bar_docent_npc_dialog_51">
+		<text>Einen Bekannten vom Kordon.</text>
+	</string>
+	<string id="bar_docent_npc_dialog_52">
+		<text>Es gab einen Kerl auf der Müllhalde.</text>
+	</string>
+	<string id="bar_docent_npc_dialog_53">
+		<text>Man hat ihn im Dunklen Tal gesehen.</text>
+	</string>
+	<string id="bar_docent_npc_dialog_711">
+		<text>Den Stalker mit dem Spitznamen "Fuchs".</text>
+	</string>
+	<string id="bar_docent_npc_dialog_712">
+		<text>Da war so ein Kerlchen - "Flinker".</text>
+	</string>
+	<string id="bar_docent_npc_dialog_713">
+		<text>"Wolf" will ich finden.</text>
+	</string>
+	<string id="bar_docent_npc_dialog_714">
+		<text>Mist! Da hab ich mich geirrt, da ist er nicht.</text>
+	</string>
+	<string id="bar_docent_npc_dialog_721">
+		<text>Jurik suche ich, hab ein Geschäft mit ihm.</text>
+	</string>
+	<string id="bar_docent_npc_dialog_722">
+		<text>Ich muß "Bes" treffen.</text>
+	</string>
+	<string id="bar_docent_npc_dialog_723">
+		<text>Und müßte mal mit "Maulwurf" reden.</text>
+	</string>
+	<string id="bar_docent_npc_dialog_731">
+		<text>Ich suche einen Banditen, "Ratte" ist sein Spitzname.</text>
+	</string>
+	<string id="bar_docent_npc_dialog_732">
+		<text>Ich will den "Führer" finden.</text>
+	</string>
+	<string id="bar_docent_npc_dialog_733">
+		<text>Wo finde ich Artjem Kulinar?</text>
+	</string>
+<string id="garik_dialog_0">
+		<text>Hallo! Ich muß mal nach hinten, zum Reparatur-Meister.</text>
+	</string>
+	<string id="garik_dialog_1">
+		<text>Einfach so lass ich dich nicht durch.</text>
+	</string>
+	<string id="garik_dialog_3">
+		<text>Und was möchtest du dafür?</text>
+	</string>
+	<string id="garik_dialog_4">
+		<text>Ich und mein Bruder wollen auf eine lange Artefakt-Jagd gehen. Sammeln schon mal Ausrüstung, Verpflegung. In der Zone braucht man "Antirads", und diese bekommt man hier kaum.\n \nKurz gesagt - du gibst mir ein "Antirad", dann gehe ich zu Seite.\n \nAbgemacht?</text>
+	</string>
+	<string id="garik_dialog_5">
+		<text>OK, ich benutze die sowieso kaum. Ich bevorzuge Wodka.</text>
+	</string>
+	<string id="garik_dialog_6">
+		<text>Ich hab aber kein "Antirad" bei sich.</text>
+	</string>
+	<string id="garik_dialog_7">
+		<text>Hast du dann wenigstens ein Medikit, ein militärisches?</text>
+	</string>
+	<string id="garik_dialog_71">
+		<text>Ein einfaches habe ich, nimmst du es auch?</text>
+	</string>
+	<string id="garik_dialog_72">
+		<text>Ja, habe ich. Hier.</text>
+	</string>
+	<string id="garik_dialog_73">
+		<text>Ich hab ein Forscher-Medikit, die sind viel besser!</text>
+	</string>
+	<string id="garik_dialog_74">
+		<text>Medikits hab ich nicht.</text>
+	</string>
+	<string id="garik_dialog_75">
+		<text>Einfache? Gib mir zwei davon, dann kannst du durch.</text>
+	</string>
+	<string id="garik_dialog_76">
+		<text>Garik, hat dir noch keiner gesagt, das du ein Geizhals bist? Hier, nimm.</text>
+	</string>
+	<string id="garik_dialog_77">
+		<text>Die Erde ist rund, Garik, wir sehen uns noch.</text>
+	</string>
+	<string id="garik_dialog_8">
+		<text>Abgemacht! Du kannst durch!</text>
+	</string>
+<string id="trade_dialog_sidor_0">
+		<text>Ich muß meine Ausrüstung verbessern.</text>
+	</string>
+	<string id="trade_dialog_sidor_1">
+		<text>Du verstehst doch - gute Sachen kriegt man nur gegen gute, kaum verbrauchte Artefakte.\n \nWas genau brauchst du?</text>
+	</string>
+	<string id="trade_dialog_sidor_2">
+		<text>Munition, oder guten Anzug.</text>
+	</string>
+	<string id="trade_dialog_sidor_3">
+		<text>Bessere Waffe.</text>
+	</string>
+	<string id="trade_dialog_sidor_4">
+		<text>Medikamente und so.</text>
+	</string>
+	<string id="trade_dialog_sidor_5">
+		<text>Reparaturkits..</text>
+	</string>
+	<string id="trade_dialog_sidor_21">
+		<text>Munition hab ich folgende: \n 1. 12x70 Schrot gegen eine "Qualle" \n 2. RGD-5 Granaten gegen "Gepresstes" \n 3. 5,45x39 Munition gegen ein "Tropfen" \n 4. 7,62x39 Munition gegen "Steinblut"</text>
+	</string>
+	<string id="trade_dialog_sidor_54">
+		<text>Ich kauf, erstmal, doch nichts.</text>
+	</string>
+	<string id="trade_dialog_sidor_22">
+		<text>Gib mal Schrot her.</text>
+	</string>
+	<string id="trade_dialog_sidor_23">
+		<text>Granaten brauche ich.</text>
+	</string>
+	<string id="trade_dialog_sidor_24">
+		<text>Muni für AK-74 muß ich haben.</text>
+	</string>
+	<string id="trade_dialog_sidor_25">
+		<text>Gib mal Munition für AK-47.</text>
+	</string>
+	<string id="trade_dialog_sidor_222">
+		<text>Für 2 Päckchen Schrot nehme ich eine "Qualle". Einverstanden?</text>
+	</string>
+	<string id="trade_dialog_sidor_221">
+		<text>Nimm schon, was soll man machen.</text>
+	</string>
+	<string id="trade_dialog_sidor_232">
+		<text>2 Granaten - "Gepresstes". OK?</text>
+	</string>
+	<string id="trade_dialog_sidor_231">
+		<text>Ich brauch Granaten, sonst hätte ich nicht gefragt.</text>
+	</string>
+	<string id="trade_dialog_sidor_242">
+		<text>3 Packungen - ein "Tropfen". Gut?</text>
+	</string>
+	<string id="trade_dialog_sidor_241">
+		<text>Nehme ich, geht nicht anders.</text>
+	</string>
+	<string id="trade_dialog_sidor_252">
+		<text>1 Päckchen - ein "Steinblut". Einverstanden?</text>
+	</string>
+	<string id="trade_dialog_sidor_251">
+		<text>Ja, nehme ich, hat guten Durchschlag.</text>
+	</string>
+	<string id="trade_dialog_sidor_666">
+		<text>Nein, anderes Mal.</text>
+	</string>
+	<string id="trade_dialog_sidor_31">
+		<text>In Moment kann ich anbieten:\n1. TOZ-34 Flinte gegen "Blitzlicht" \n 2. Glattlauf-Automatikgewehr "Sajga-12C" gegen "Fleischklumpen".</text>
+	</string>
+	<string id="trade_dialog_sidor_32">
+		<text>Die TOZ nehme ich.</text>
+	</string>
+	<string id="trade_dialog_sidor_33">
+		<text>Sajga - unsere Wahl!</text>
+	</string>
+	<string id="trade_dialog_sidor_322">
+		<text>Für die TOZ will ich ein "Blitzlicht". Einverstanden?</text>
+	</string>
+	<string id="trade_dialog_sidor_321">
+		<text>Ja, gut. Was soll man machen.</text>
+	</string>
+	<string id="trade_dialog_sidor_332">
+		<text>Die "Sajga" tausche ich nur gegen zwei "Fleischklumpen". Gut?</text>
+	</string>
+	<string id="trade_dialog_sidor_331">
+		<text>Ja, nehme ich. "Fleischklumpen" findet man ja oft.</text>
+	</string>
+	<string id="trade_dialog_sidor_41">
+		<text>In Moment kann ich anbieten:\n 1. Medikits gegen "Steinblume" \n 2. Wodka gegen "Gepresstes".</text>
+	</string>
+	<string id="trade_dialog_sidor_42">
+		<text>Ich nehm die Medikits.</text>
+	</string>
+	<string id="trade_dialog_sidor_43">
+		<text>Ohne Wodka geht's nicht in der Zone.</text>
+	</string>
+	<string id="trade_dialog_sidor_422">
+		<text>Für 10 Medikits will ich eine "Steinblume". Einverstanden?</text>
+	</string>
+	<string id="trade_dialog_sidor_421">
+		<text>Nehme ich, geht ja nicht anders.</text>
+	</string>
+	<string id="trade_dialog_sidor_432">
+		<text>5 Pullen gegen "Gepresstes". OK?</text>
+	</string>
+	<string id="trade_dialog_sidor_431">
+		<text>OK. Sollte ich die nicht brauchen - tausche dann mit jemanden.</text>
+	</string>
+	<string id="trade_dialog_sidor_51">
+		<text>In Moment hab ich das hier:\n 1. Repkits für Anzüge gegen "Gravit" \n 2. Repkits für Waffen gegen "Steinblume".</text>
+	</string>
+	<string id="trade_dialog_sidor_52">
+		<text>Ich nehm die für die Anzüge.</text>
+	</string>
+	<string id="trade_dialog_sidor_53">
+		<text>Waffen-Repkits brauche ich mehr.</text>
+	</string>
+	<string id="trade_dialog_sidor_522">
+		<text>Für drei 10%-Anzug-Kits nehme ich ein "Gravit". Einverstanden?</text>
+	</string>
+	<string id="trade_dialog_sidor_521">
+		<text>Nehme ich, geht ja nicht anders.</text>
+	</string>
+	<string id="trade_dialog_sidor_532">
+		<text>Drei 10%-Waffen-Kits gegen "Steinblume". OK?</text>
+	</string>
+	<string id="trade_dialog_sidor_531">
+		<text>Ja, nehme ich. Die Waffen nutzen sich schnell ab.</text>
+	</string>
+	<string id="trade_dialog_barman_0">
+		<text>Ich möchte bessere Ausrüstung kaufen.</text>
+	</string>
+	<string id="trade_dialog_barman_1">
+		<text>Die Hauptwährung in diesem Teil der Zone sind Artefakte! Das ist dir doch klar? Und ich nehme nur kaum verbrauchte in Zahlung.\n \nWas genau brauchst du?</text>
+	</string>
+	<string id="trade_dialog_barman_2">
+		<text>Munition, Sprengstoff.</text>
+	</string>
+	<string id="trade_dialog_barman_3">
+		<text>Eine gute Waffe.</text>
+	</string>
+	<string id="trade_dialog_barman_4">
+		<text>Medikamente.</text>
+	</string>
+	<string id="trade_dialog_barman_5">
+		<text>Reparaturkits.</text>
+	</string>
+	<string id="trade_dialog_barman_21">
+		<text>Hmm. Munition hab ich diese hier:\n \n1. Munition 5,45x39 gegen "Blitzlicht" \n2. Granaten RGD-5 gegen "Steinblume" \n3. Munition 5,56x39 gegen "Schleim" \n4. Munition 9x39 mm gegen "Gravit".</text>
+	</string>
+	<string id="trade_dialog_barman_54">
+		<text>Ich brauche, erstmal, nichts davon.</text>
+	</string>
+	<string id="trade_dialog_barman_22">
+		<text>Ich nehm die für AK-74.</text>
+	</string>
+	<string id="trade_dialog_barman_23">
+		<text>Ich nehm die Granaten.</text>
+	</string>
+	<string id="trade_dialog_barman_24">
+		<text>Ich nehme die 5.56 für die NATO-Waffen..</text>
+	</string>
+	<string id="trade_dialog_barman_25">
+		<text>9x39? Für "Vintorez"? Nehme ich.</text>
+	</string>
+	<string id="trade_dialog_barman_222">
+		<text>Für ein "Blitzlicht" kriegst du 5 Päckchen einfache oder 3 Päckchen panzerbrechende. Welche möchtest du?</text>
+	</string>
+	<string id="trade_dialog_barman_221">
+		<text>Ich nehme fünf einfache.</text>
+	</string>
+	<string id="trade_dialog_barman_2211">
+		<text>Panzerbrechende.</text>
+	</string>
+	<string id="trade_dialog_barman_232">
+		<text>Drei RGD-Granaten - eine "Steinblume". Nimmst du?</text>
+	</string>
+	<string id="trade_dialog_barman_231">
+		<text>Ich brauch Granaten, sonst hätte ich nicht gefragt.</text>
+	</string>
+	<string id="trade_dialog_barman_242">
+		<text>Für ein "Schleim" kann ich dir 5 Päckchen einfache oder 3 Päckchen panzerbrechende geben. Was nimmst du?</text>
+	</string>
+	<string id="trade_dialog_barman_241">
+		<text>Die einfachen..</text>
+	</string>
+	<string id="trade_dialog_barman_2411">
+		<text>Ich nehm die panzerbrechenden.</text>
+	</string>
+	<string id="trade_dialog_barman_252">
+		<text>Gegen ein "Gravit" bekommst du 5 Päckchen oder 4 Päckchen Sniper. Panzerbrechende aber nur 3 Päckchen. Wähle aus.</text>
+	</string>
+	<string id="trade_dialog_barman_251">
+		<text>5 einfache.</text>
+	</string>
+	<string id="trade_dialog_barman_2511">
+		<text>Ich nehme Sniper-Muni.</text>
+	</string>
+	<string id="trade_dialog_barman_25111">
+		<text>Panzerbrechende. Die sind gut gegen Blutsauger.</text>
+	</string>
+	<string id="trade_dialog_barman_666">
+		<text>Nein, ein anderes Mal.</text>
+	</string>
+	<string id="trade_dialog_barman_31">
+		<text>Gute Waffen, sagst du. Na dann:\n \n1. Spezial-Sturmgewehr AS "Val", basierend auf der "Vintorez", hat abklappbaren Kolben und größeres Magazin. Für zwei Stück "Feuerball" ist es deines.\n2. OC-14 "Groza" - ein Nahkampf-Sturmgewehr mit integriertem Granatwerfer. Kompakt, zuverlässig, universell - gegen ein "Nachtstern".</text>
+	</string>
+	<string id="trade_dialog_barman_32">
+		<text>"Val"? Den probiere ich mal aus.</text>
+	</string>
+	<string id="trade_dialog_barman_33">
+		<text>"Groza" ist was Feines!</text>
+	</string>
+	<string id="trade_dialog_barman_322">
+		<text>Für "Val" nehme ich zwei "Feuerbälle". Einverstanden?</text>
+	</string>
+	<string id="trade_dialog_barman_321">
+		<text>Ja, klar. "Val" ist es wert.</text>
+	</string>
+	<string id="trade_dialog_barman_332">
+		<text>"Groza" nur gegen "Nachtstern"!. Wie sieht's aus?</text>
+	</string>
+	<string id="trade_dialog_barman_331">
+		<text>Einverstanden! Gib schon her.</text>
+	</string>
+	<string id="trade_dialog_barman_41">
+		<text>Für die Gesundheit hab ich das hier:\n \n1. Medikits gegen "Wunderkerze" \n2. Wodka gegen "Steinblut".</text>
+	</string>
+	<string id="trade_dialog_barman_42">
+		<text>Ich nehm die Medikits.</text>
+	</string>
+	<string id="trade_dialog_barman_43">
+		<text>Ich brauche Wodka.</text>
+	</string>
+	<string id="trade_dialog_barman_422">
+		<text>5 Stück gegen eine "Wunderkerze".</text>
+	</string>
+	<string id="trade_dialog_barman_421">
+		<text>Gesundheit ist wertvoll.</text>
+	</string>
+	<string id="trade_dialog_barman_432">
+		<text>5 Pullen gegen ein "Steinblut". Nimmst du?</text>
+	</string>
+	<string id="trade_dialog_barman_431">
+		<text>Gut. Sollte ich die nicht brauchen - tausche ich dann mit jemanden.</text>
+	</string>
+	<string id="trade_dialog_barman_51">
+		<text>Für die Reparaturen hab ich:\n \n1. Repkits für Anzüge gegen "Fleischklumpen" \n2. Repkits für Waffen gegen "Feuerball".</text>
+	</string>
+	<string id="trade_dialog_barman_52">
+		<text>Ich brauch was für den Anzug.</text>
+	</string>
+	<string id="trade_dialog_barman_53">
+		<text>Die für Waffen hab ich nötiger.</text>
+	</string>
+	<string id="trade_dialog_barman_522">
+		<text>Für drei 10%-Anzug-Repkits ein "Fleischklumpen". Einverstanden?</text>
+	</string>
+	<string id="trade_dialog_barman_521">
+		<text>Nehme ich, geht ja nicht anders.</text>
+	</string>
+	<string id="trade_dialog_barman_532">
+		<text>Für drei 10%-Waffen-Repkits ein "Feuerball". Gut?</text>
+	</string>
+	<string id="trade_dialog_barman_531">
+		<text>Ja, nehme ich. Die Waffen nutzen sich schnell ab.</text>
+	</string>
+	
+	<string id="trade_dialog_petrenko_0">
+		<text>Ich brauche bessere Ausrüstung.</text>
+	</string>
+	<string id="trade_dialog_petrenko_1">
+		<text>Hast du Artefakte? Dann werden wir für dich was finden. Aber nur wenn sie noch nicht stark verbraucht sind.\n \nWas würdest du denn haben wollen?</text>
+	</string>
+	<string id="trade_dialog_petrenko_2">
+		<text>Munition und sowas.</text>
+	</string>
+	<string id="trade_dialog_petrenko_3">
+		<text>Gute Waffen.</text>
+	</string>
+	<string id="trade_dialog_petrenko_4">
+		<text>Irgendwas für die Gesundheit.</text>
+	</string>
+	<string id="trade_dialog_petrenko_5">
+		<text>Reparatur-Ausrüstung.</text>
+	</string>
+	<string id="trade_dialog_petrenko_21">
+		<text>Ich kann dir anbieten:\n \n1. Munition 7,62x54 gegen "Tropfen" \n2. VOG-25 Granaten gegen "Steinblut" \n3. Munition 7,62x39 gegen "Qualle" \n4. "Wächter"-Spezialanzüge gegen "Glimmer"-Artefakte.</text>
+	</string>
+	<string id="trade_dialog_petrenko_54">
+		<text>Ich brauche, erstmal, nichts davon.</text>
+	</string>
+	<string id="trade_dialog_petrenko_22">
+		<text>Ich brauche Scharfschützen-Munition.</text>
+	</string>
+	<string id="trade_dialog_petrenko_23">
+		<text>Ich nehme die Granaten.</text>
+	</string>
+	<string id="trade_dialog_petrenko_24">
+		<text>Patronen für AK-47 werd ich nehmen.</text>
+	</string>
+	<string id="trade_dialog_petrenko_25">
+		<text>Was für Anzüge denn? Lass mal sehen.</text>
+	</string>
+	<string id="trade_dialog_petrenko_222">
+		<text>7H13 - einfache Munition, hat ziemlich große Streuung.\n \n7H1 - Präzisionsmunition, hat 2 bis 3 mal niedrigere Streuungswerte, als 7H13. Aber die panzerbrechende Wirkung ist nicht sehr hoch.\n \n7H14 - Ebenbürtig der 7H1-Munition, was Streuung angeht, aber, durch den gehärteten Stahlkern, viel höhere panzerbrechende Wirkung. Was nimmst du?</text>
+	</string>
+	<string id="trade_dialog_petrenko_221">
+		<text>Ich nehme die einfachen, zwei Päckchen.</text>
+	</string>
+	<string id="trade_dialog_petrenko_2211">
+		<text>Ich brauch die Sniper-Patronen.</text>
+	</string>
+	<string id="trade_dialog_petrenko_2212">
+		<text>Die panzerbrechenden sind gut. Präzise und tödlich.</text>
+	</string>
+	<string id="trade_dialog_petrenko_232">
+		<text>Für ein "Steinblut" kannst du 4 VOG-25 oder 3 VOG-25R haben. Was nimmst du?</text>
+	</string>
+	<string id="trade_dialog_petrenko_231">
+		<text>Vier 25ger.</text>
+	</string>
+	<string id="trade_dialog_petrenko_2311">
+		<text>Die "R"s, sind stärker.</text>
+	</string>
+	<string id="trade_dialog_petrenko_242">
+		<text>3 Päckchen Standartmunition oder 2 Päckchen panzerbrechend - eine "Qualle". Wähle aus.</text>
+	</string>
+	<string id="trade_dialog_petrenko_241">
+		<text>Standart reicht mir.</text>
+	</string>
+	<string id="trade_dialog_petrenko_2411">
+		<text>Panzerbrechende, natürlich.</text>
+	</string>
+	<string id="trade_dialog_petrenko_252">
+		<text>PSZ-9MD "UniSchutz"! Ein wunderbarer Schutzanzug für die Zone. Stalker wissen ihn zu schätzen, da er exzellenten Schutz gegen Anomalien und gegen Kugeln bietet. Enthalten ist der PSZ-9D-Anzug, ein geschlossenes Atmungssystem und ein integriertes Unterdrückungssystem gegen Anomalien. Kugelsicherheit und Splitterschutz von Qualität - nur zwei "Glimmer"-Artefakte.\n \n"Wächter"-Exoskelett - hier braucht man nichts sagen. Gebe ich für drei "Glimmer" ab.</text>
+	</string>
+	<string id="trade_dialog_petrenko_251">
+		<text>Dann nehme ich den "UniSchutz".</text>
+	</string>
+	<string id="trade_dialog_petrenko_2511">
+		<text>Ein "Exo"? Den will ich ausprobieren.</text>
+	</string>
+	<string id="trade_dialog_petrenko_666">
+		<text>Nein, das ist mir zu teuer.</text>
+	</string>
+	<string id="trade_dialog_petrenko_31">
+		<text>Ich hab hier Scharfschützen-Gewehre:\n \n1. SVD gegen "Seeigel" \n2. SVU-AS gegen "Seele".</text>
+	</string>
+	<string id="trade_dialog_petrenko_32">
+		<text>SVD ist zwar schwer, aber präzise..</text>
+	</string>
+	<string id="trade_dialog_petrenko_33">
+		<text>SVU ist bisschen leichter, ich nehm es.</text>
+	</string>
+	<string id="trade_dialog_petrenko_322">
+		<text>Für SVD nehme ich ein "Seeigel". Einverstanden?</text>
+	</string>
+	<string id="trade_dialog_petrenko_321">
+		<text>Ja, einverstanden.</text>
+	</string>
+	<string id="trade_dialog_petrenko_332">
+		<text>SVU nur im Tausch gegen "Seele". Wie sieht's aus?</text>
+	</string>
+	<string id="trade_dialog_petrenko_331">
+		<text>Ja, "Seele" findet man immer.</text>
+	</string>
+	<string id="trade_dialog_petrenko_41">
+		<text>Ich habe nur Militär-Medikits.</text>
+	</string>
+	<string id="trade_dialog_petrenko_42">
+		<text>Was willst du dafür?</text>
+	</string>
+		<string id="trade_dialog_petrenko_422">
+		<text>Für 3 Stück eine "Steinblume". Abgemacht?</text>
+	</string>
+	<string id="trade_dialog_petrenko_421">
+		<text>Was solls. Machen wir.</text>
+	</string>
+	<string id="trade_dialog_petrenko_51">
+		<text>Reparaturkits hab ich nicht.</text>
+	</string>
+	<string id="trade_dialog_sakharov_0">
+		<text>Kann ich bei Ihnen auch Ausrüstung bekommen?</text>
+	</string>
+	<string id="trade_dialog_sakharov_1">
+		<text>Eigentlich ist es gegen unseren Regeln, wir halten unsere Forschungsresultate intern. Aber wenn man Ihre Reputation ins Betracht zieht, und Sie bereit sind nicht oder kaum gebrauchte Artefakte als Zahlungmittel zu akzeptieren...\n \nWelche Art der Ausrüstung brauchen Sie?</text>
+	</string>
+	<string id="trade_dialog_sakharov_2">
+		<text>Munition, Schutzanzug.</text>
+	</string>
+	<string id="trade_dialog_sakharov_3">
+		<text>Irgendwelche neuste Waffen.</text>
+	</string>
+	<string id="trade_dialog_sakharov_4">
+		<text>Lebenserhaltende Preparate.</text>
+	</string>
+	<string id="trade_dialog_sakharov_5">
+		<text>Reparaturkits für Waffen und Anzüge.</text>
+	</string>
+	<string id="trade_dialog_sakharov_21">
+		<text>Da hab ich folgendes für Sie:\n \n1. Ladungen 9mm M72-M "Gauss" gegen "Nachtstern" \n2. 9mm M72-M "Super-Gauss" gegen "Sprungfeder" \n3. Schutzanzug SSP-99M "VEGA" gegen "Kristall" \n4. 12x70-Munition gegen "Wunderkerze".</text>
+	</string>
+	<string id="trade_dialog_sakharov_54">
+		<text>Ich hab's mir anders überlegt, vielleicht nehm ich später was.</text>
+	</string>
+	<string id="trade_dialog_sakharov_22">
+		<text>Ladungen für "Gauss"-Gewehr? Brauch ich!</text>
+	</string>
+	<string id="trade_dialog_sakharov_23">
+		<text>"Super-Gauss"? Sollte ich probieren.</text>
+	</string>
+	<string id="trade_dialog_sakharov_24">
+		<text>Ich nehm den Anzug. Ist es der grüne?</text>
+	</string>
+	<string id="trade_dialog_sakharov_25">
+		<text>Ich brauche was für Schrotflinten.</text>
+	</string>
+	<string id="trade_dialog_sakharov_222">
+		<text>Für eine Energiezelle mit 10 9mm Elementen im Magazin möchten wir ein "Nachtstern". Einverstanden?</text>
+	</string>
+	<string id="trade_dialog_sakharov_221">
+		<text>Einverstanden!</text>
+	</string>
+	<string id="trade_dialog_sakharov_232">
+		<text>Für 2 Energiezellen "Super-Gauss" möchten wir ein "Sprungfeder"-Artefakt.</text>
+	</string>
+	<string id="trade_dialog_sakharov_231">
+		<text>Das ist es wert.</text>
+	</string>
+	<string id="trade_dialog_sakharov_242">
+		<text>Natürlich der grüne! Schutzanzug SSP-99M "VEGA"! Oberkörperschutz gegen Kugeln und Splittern. Effektives Schutz gegen Strahlung und Bio-Anomalien. Resistent gegen chemisch-aggressiven Substanzen und anderen gesundheitsgefährdenden Einwirkungen!\n \nUnd wir wollen nur ein "Kristall" dafür.</text>
+	</string>
+	<string id="trade_dialog_sakharov_241">
+		<text>Genug der Werbung! Geben Sie her!</text>
+	</string>
+	<string id="trade_dialog_sakharov_252">
+		<text>Wir haben 3 verschiedene Munitionsarten für Schrotgewehre, und können Ihnen gegen eine "Wunderkerze" das anbieten:\n \nEinfache Kaliber 12 Patrone mit 6mm Schrot. 5 Päckchen!\n \nSelbststabilisierende Spitzgeschosse, viel genauer. 3 Päckchen!\n \nPatronen mit einer schweren Kugelladung. 2 Päckchen!</text>
+	</string>
+	<string id="trade_dialog_sakharov_251">
+		<text>Einfaches Schrot reicht mir gegen die meisten Mutanten. Nehme ich.</text>
+	</string>
+	<string id="trade_dialog_sakharov_2511">
+		<text>Dart-Geschosse sind das, was ich brauche!</text>
+	</string>
+	<string id="trade_dialog_sakharov_2512">
+		<text>Schwere Kugeln bringen die Bastarde schnell zu Ruhe!</text>
+	</string>
+	<string id="trade_dialog_sakharov_666">
+		<text>Nein, ein anderes Mal.</text>
+	</string>
+	<string id="trade_dialog_sakharov_31">
+		<text>Diese Waffen kann ich Ihnen anbieten:\n \n1. Glattlauf-Gewehr SPAS-12 gegen eine "Egelschnecke" \n2. M72-M "Gauss"-Gewehr würden wir gegen Artefakte "Mamas Perlen" tauschen.</text>
+	</string>
+	<string id="trade_dialog_sakharov_32">
+		<text>SPAS-12 Schrotflinte? Ob ich die nehmen soll?.</text>
+	</string>
+	<string id="trade_dialog_sakharov_33">
+		<text>"Gauss"-Gewehr! Das ist schon lange mein Traum!</text>
+	</string>
+	<string id="trade_dialog_sakharov_322">
+		<text>Glattlauf-Gewehr SPAS-12 ist sehr zuverlässig und vielfältig in der Verwendung. Für Nahkampf gibt es, unserer Meinung nach, keinen besseren Gewehr in der Zone. Und nur gegen eine "Egelschnecke".</text>
+	</string>
+	<string id="trade_dialog_sakharov_321">
+		<text>Gut, einverstanden! Ich nehm das SPAS-12!</text>
+	</string>
+	<string id="trade_dialog_sakharov_332">
+		<text>"Gauss"-Gewehr ist eine superpräzise Waffe. Und fast geräuschlos. Kaum Rückstoß. Schlägt jede Panzerung durch. Wir wollen nur 3 Stück "Mamas Perlen" dafür.</text>
+	</string>
+	<string id="trade_dialog_sakharov_331">
+		<text>Drei Stück?!! Sie ziehen mich ja aus! Na gut, was soll's.</text>
+	</string>
+	<string id="trade_dialog_sakharov_41">
+		<text>Das ist unsere Auswahl an Medikamenten:\n \n1. Forscher-Medikits gegen Artefakt "Dorn" \n2. Antirad-Medikamente gegen Artefakt "Schleim".</text>
+	</string>
+	<string id="trade_dialog_sakharov_42">
+		<text>Forscher-Medikits? Wieviel? Und für was sind die gut?</text>
+	</string>
+	<string id="trade_dialog_sakharov_43">
+		<text>Antirad-Medikamente? Ich nutzte bis jetzt immer Wodka..</text>
+	</string>
+	<string id="trade_dialog_sakharov_422">
+		<text>Das sind Medikits, die speziell für die Zone entworfen sind. Das Kit enthält Mittel zur Wundheilung wie zur Eliminierung von Radionukliden aus dem Körper. Verhindert das Entstehen der Strahlenkrankheit und senkt die Dosis der gesamtabsorbierten Strahlung. Für 4 Stück möchten wir ein "Dorn". Einverstanden?</text>
+	</string>
+	<string id="trade_dialog_sakharov_421">
+		<text>Na ja, wenn diese Medikits SO gut sind, dann nehm ich die.</text>
+	</string>
+	<string id="trade_dialog_sakharov_432">
+		<text>Im Gegensatz zu Wodka führen die "Antirads" die Radionuklide viel besser aus dem Organismus ab. Kurz gesagt - 5 "Antirads" gegen ein "Schleim". Nehmen Sie es?</text>
+	</string>
+	<string id="trade_dialog_sakharov_431">
+		<text>Nehm ich. Sollte ich die nicht brauchen - tausche ich dann mit jemanden.</text>
+	</string>
+	<string id="trade_dialog_sakharov_51">
+		<text>Eigentlich hatten wir nicht vor, für Stalker die Ausrüstung zu reparieren, aber uns wurden, aus Versehen, ein Paar Kisten mit Anzug-Reparaturkits geliefert... Darum kann ich Ihnen, mit sauberen Gewissen, 2 Reparaturkits gegen ein "Gravit" anbieten.</text>
+	</string>
+	<string id="trade_dialog_sakharov_52">
+		<text>Nur 2 Kits? "Gravit" ist ein wertvoller Artefakt.</text>
+	</string>
+	<string id="trade_dialog_sakharov_522">
+		<text>Na gut. Ein "Gravit" für 3 Reparaturkits. Einverstanden?</text>
+	</string>
+	<string id="trade_dialog_sakharov_521">
+		<text>Ja, einverstanden. Was soll man machen.</text>
+	</string>
+	
+	
+	<string id="trade_dialog_skraga_0">
+		<text>Hast du gute Ware im Angebot?</text>
+	</string>
+	<string id="trade_dialog_skraga_1">
+		<text>Hast du Artefakte? Aber gute, nicht schon verbrauchtes Scheiß! Dann hab auch Ware. \n \nWas genau stellst du dir vor?</text>
+	</string>
+	<string id="trade_dialog_skraga_2">
+		<text>Munition, Granaten, Anzüge.</text>
+	</string>
+	<string id="trade_dialog_skraga_3">
+		<text>Paar gute Waffen.</text>
+	</string>
+	<string id="trade_dialog_skraga_4">
+		<text>Medikamente.</text>
+	</string>
+	<string id="trade_dialog_skraga_5">
+		<text>Reparaturkits.</text>
+	</string>
+	<string id="trade_dialog_skraga_21">
+		<text>Folgende Munition hab ich auf Lager:\n \n1. Patronen 5.56 für NATO-Waffen gegen Artefakt "Schleim"\n2. F-1 Granaten gegen "Dorn"\n3. Munition für PKM-Maschinengewehr gegen "Dornenkristall"\n4. Munition 5.7x39 mm für die belgische FN Ð90, gegen Artefakt "Gravit".</text>
+	</string>
+	<string id="trade_dialog_skraga_54">
+		<text>Ich nehme erstmal nichts, hab keine Artefakte mehr.</text>
+	</string>
+	<string id="trade_dialog_skraga_22">
+		<text>Ich nehme die 5.56 Munition.</text>
+	</string>
+	<string id="trade_dialog_skraga_23">
+		<text>Ich brauche Granaten..</text>
+	</string>
+	<string id="trade_dialog_skraga_24">
+		<text>Munition für Maschinengewehr.</text>
+	</string>
+	<string id="trade_dialog_skraga_25">
+		<text>Patronen für P90.</text>
+	</string>
+	<string id="trade_dialog_skraga_222">
+		<text>Für ein "Schleim" 5 Päckchen einfache oder 3 Päckchen panzerbrechende Munition.. Was soll sein?</text>
+	</string>
+	<string id="trade_dialog_skraga_221">
+		<text>Fünf einfache.</text>
+	</string>
+	<string id="trade_dialog_skraga_2211">
+		<text>Panzerbrechende sind besser.</text>
+	</string>
+	<string id="trade_dialog_skraga_232">
+		<text>Zwei Granaten - ein "Dorn". Willst du haben?</text>
+	</string>
+	<string id="trade_dialog_skraga_231">
+		<text>Sonnst hätte ich nicht gefragt..</text>
+	</string>
+	<string id="trade_dialog_skraga_242">
+		<text>Zwei Gurtkörbe - ein "Dornenkristall". Willst du haben?</text>
+	</string>
+	<string id="trade_dialog_skraga_241">
+		<text>Ja, nehme ich. Brauch sie dringend..</text>
+	</string>
+	<string id="trade_dialog_skraga_252">
+		<text>Vier Päckchen - ein "Gravit". Einverstanden?</text>
+	</string>
+	<string id="trade_dialog_skraga_251">
+		<text>Einverstanden.</text>
+	</string>
+	<string id="trade_dialog_skraga_666">
+		<text>Nein, ein anderes Mal.</text>
+	</string>
+	<string id="trade_dialog_skraga_31">
+		<text>Da hab ich was Feines:\n \n1. Belgische FN P90 gegen "Goldfisch" \n2. FN2000 - Komplette Lösung aus einem Sturmgewehr und 40 mm Granatwerfer mit computergesteuerten Zielmodul gegen drei "Seelen".</text>
+	</string>
+	<string id="trade_dialog_skraga_32">
+		<text>Dann will ich mir dieses belgische Ding mal anschauen.</text>
+	</string>
+	<string id="trade_dialog_skraga_33">
+		<text>Nicht dein Ernst!? FN 2000 wollte ich schon immer mal in den Händen halten.</text>
+	</string>
+	<string id="trade_dialog_skraga_322">
+		<text>Hast du ein "Goldfisch"?</text>
+	</string>
+	<string id="trade_dialog_skraga_321">
+		<text>Ja, hier. Ist deins.</text>
+	</string>
+	<string id="trade_dialog_skraga_332">
+		<text>Drei "Seelen", und du kannst damit machen, was du willst.</text>
+	</string>
+	<string id="trade_dialog_skraga_331">
+		<text>Hier sind die "Seelen". Her mit dem Gerät!</text>
+	</string>
+	<string id="trade_dialog_skraga_41">
+		<text>Das kann ich anbieten:\n \n1. Medikits gegen "Qualle" \n2. Antirads gegen "Gepresstes".</text>
+	</string>
+	<string id="trade_dialog_skraga_42">
+		<text>Ich nehme die Medikits.</text>
+	</string>
+	<string id="trade_dialog_skraga_43">
+		<text>In der Zone kommt man nicht weit ohne Antirads.</text>
+	</string>
+	<string id="trade_dialog_skraga_422">
+		<text>Für fünf Medikits will ich eine "Qualle". Einverstanden?</text>
+	</string>
+	<string id="trade_dialog_skraga_421">
+		<text>Ja, einverstanden.</text>
+	</string>
+	<string id="trade_dialog_skraga_432">
+		<text>Fünf Antirads gegen "Gepresstes". Nimmst du?</text>
+	</string>
+	<string id="trade_dialog_skraga_431">
+		<text>Ja, klar. Sollte ich die nicht brauchen - werde ich die mit jemanden tauschen.</text>
+	</string>
+	<string id="trade_dialog_skraga_51">
+		<text>Das kann ich anbieten:\n 1. Repkits für Waffen gegen "Steinblume".</text>
+	</string>
+	<string id="trade_dialog_skraga_52">
+		<text>Ich nehme die für den Anzug.</text>
+	</string>
+	<string id="trade_dialog_skraga_53">
+		<text>Ich hab die für die Waffen dringender nötig.</text>
+	</string>
+	<string id="trade_dialog_skraga_522">
+		<text>Für drei 10%-Kits ein "Gravit". Einverstanden?</text>
+	</string>
+	<string id="trade_dialog_skraga_521">
+		<text>Einverstanden, geht ja nicht anders.</text>
+	</string>
+	<string id="trade_dialog_skraga_532">
+		<text>Drei 10%-Reparaturkits für Waffen gegen "Steinblume". OK?</text>
+	</string>
+	<string id="trade_dialog_skraga_531">
+		<text>OK. Die Waffen verschleißen schnell in der Zone.</text>
+	</string>
+	
+	<string id="sidor_repair_dialog_0">
+		<text>Wie kann ich meine Ausrüstung selbst reparieren?</text>
+	</string>
+	<string id="sidor_repair_dialog_1">
+		<text>Alles muß man dir erklären... Zum Mäuse melken ist das.\n \nMit Reparaturkits, natürlich. Du legst den Werkzeugkoffer auf den Boden, öffnest den und benutzt einen der Reparaturkits. Wenn die Waffe oder Anzug zu stark beschädigt sind - dann hilft auch ein Repkit nicht. Das ist alles.</text>
+	</string>
+	<string id="sidor_repair_dialog_2">
+		<text>Was für ein Werkzeugkoffer?!?</text>
+	</string>
+	<string id="sidor_repair_dialog_3">
+		<text>Ach ja. Ich hab ja vergessen, das du jetzt nur Grütze im Kopf hast. Werkzeugkoffer ist so eine Kiste für Reparaturkits. Ohne ihn kannst du diese nicht benutzen. Hier hast du so ein Koffer. Sogar kostenlos! Und einen Reparaturkit dazu. Pass gut auf ihn auf.</text>
+	</string>
+	<string id="sidor_repair_dialog_4">
+		<text>Gut, ich verliere ihn schon nicht.</text>
+	</string>
+	
+	<string id="trade_dialog_sak_0">
+		<text>Ich brauche bessere Ausrüstung, hast du was?</text>
+	</string>
+	<string id="trade_dialog_sak_1">
+		<text>Du verstehst doch, vernünftige Sachen gibts nur gegen vernünftige, unverbrauchte Artefakte.\n \nWas genau brauchst du?</text>
+	</string>
+	<string id="trade_dialog_sak_2">
+		<text>Patronen, Granaten, Anzug.</text>
+	</string>
+	<string id="trade_dialog_sak_3">
+		<text>Eine gute Waffe.</text>
+	</string>
+	<string id="trade_dialog_sak_4">
+		<text>Medikamente.</text>
+	</string>
+	<string id="trade_dialog_sak_5">
+		<text>Reparatur-Ausrüstung.</text>
+	</string>
+	<string id="trade_dialog_sak_21">
+		<text>Ich kann dir anbieten: \n \n1. Scharfschützen-Munition gegen "Fleischklumpen"\n2. 9x39 Patronen für "Val" und "Vintorez" gegen "Gravit" \n3. Ladungen für "Gauss"-Waffen gegen "Feuerball" \n4. Ein Spezial-Panzeranzug der Armee - SKAT-10, Spitzenqualität, gegen "Seeigel"-Artefakte.</text>
+	</string>
+	<string id="trade_dialog_sak_54">
+		<text>Ich kaufe, erstmal, doch nichts.</text>
+	</string>
+	<string id="trade_dialog_sak_22">
+		<text>Wieviel Sniper-Munition hast du?</text>
+	</string>
+	<string id="trade_dialog_sak_23">
+		<text>Munition für "Vintorez" brauche ich dringend.</text>
+	</string>
+	<string id="trade_dialog_sak_24">
+		<text>Für "Gauss"? Und wieviel?</text>
+	</string>
+	<string id="trade_dialog_sak_25">
+		<text>SKAT-10? Wieviele Artefakte?</text>
+	</string>
+	<string id="trade_dialog_sak_222">
+		<text>7H13 - einfache Munition, hat ziemlich große Streuung.\n \n7H1 - Präzisionsmunition, hat 2 bis 3 mal niedrigere Streuungswerte, als 7H13. Aber die panzerbrechende Wirkung ist nicht sehr hoch.\n \n7H14 - Ebenbürtig der 7H1-Munition, was Streuung angeht, aber, durch den gehärteten Stahlkern, viel höhere panzerbrechende Wirkung...\n \nFür ein "Fleischklumpen" - 2 einfache oder "Sniper", oder ein Päckchen panzerbrechende.\n \nWas wählst du?</text>
+	</string>
+	<string id="trade_dialog_sak_221">
+		<text>2 Päckchen einfach.</text>
+	</string>
+	<string id="trade_dialog_sak_2211">
+		<text>Ich brauche Präzisionsmunition.</text>
+	</string>
+	<string id="trade_dialog_sak_2212">
+		<text>Ich nehme die panzerbrechenden, die sind präzise und tötlich.</text>
+	</string>
+	<string id="trade_dialog_sak_232">
+		<text>Für ein "Gravit" gibts 5 Päckchen einfache, oder 4 Päckchen "Sniper", oder 3 Päckchen panzerbrechende. Welche nimmst du?</text>
+	</string>
+	<string id="trade_dialog_sak_231">
+		<text>Ich nehme 5 einfache.</text>
+	</string>
+	<string id="trade_dialog_sak_2311">
+		<text>Präzisionsmunition.</text>
+	</string>
+	<string id="trade_dialog_sak_2312">
+		<text>Panzerbrechende. Sind gut gegen Blutsauger.</text>
+	</string>
+	<string id="trade_dialog_sak_242">
+		<text>Eine volle Ladung gegen ein "Feuerball".</text>
+	</string>
+	<string id="trade_dialog_sak_241">
+		<text>Einverstanden, hier ist ein "Feuerball" für dich.</text>
+	</string>
+	<string id="trade_dialog_sak_252">
+		<text>Drei "Seeigel" und SKAT-10 gehört dir.</text>
+	</string>
+	<string id="trade_dialog_sak_251">
+		<text>Hier, hab genug "Seeigel" gesammelt.</text>
+	</string>
+	<string id="trade_dialog_sak_666">
+		<text>Nein, ein anderes Mal.</text>
+	</string>
+	<string id="trade_dialog_sak_31">
+		<text>Ich kann dir, in Moment, nur ein Spezial-Scharfschützengewehr VSS "Vintorez" anbieten. Mit integrierten Schalldämpfer, geeignet für geräusch- und flammenloses Schiessen.</text>
+	</string>
+	<string id="trade_dialog_sak_32">
+		<text>Und was willst du dafür haben?</text>
+	</string>
+	<string id="trade_dialog_sak_33">
+		<text>Sajga ist eine feine Flinte!</text>
+	</string>
+	<string id="trade_dialog_sak_322">
+		<text>Nur ein "Kristall". Einverstanden?</text>
+	</string>
+	<string id="trade_dialog_sak_321">
+		<text>Einverstanden!!!</text>
+	</string>
+	<string id="trade_dialog_sak_332">
+		<text>Sajga nur gegen ein "Fleischklumpen". Willst du haben?</text>
+	</string>
+	<string id="trade_dialog_sak_331">
+		<text>Ja, "Fleischklumpen" habe ich genug.</text>
+	</string>
+	<string id="trade_dialog_sak_41">
+		<text>Ich habe nur Militär-Medikits.</text>
+	</string>
+	<string id="trade_dialog_sak_42">
+		<text>Und gegen was tauschst du diese?</text>
+	</string>
+	<string id="trade_dialog_sak_43">
+		<text>Ohne Wodka kommt man in der Zone nicht weit.</text>
+	</string>
+	<string id="trade_dialog_sak_422">
+		<text>Für drei Medikits möchte ich ein "Dornenkristall". Einverstanden?</text>
+	</string>
+	<string id="trade_dialog_sak_421">
+		<text>Na gut, was soll's.</text>
+	</string>
+	<string id="trade_dialog_sak_432">
+		<text>Fünf Flaschen gegen "Gepresstes". OK?</text>
+	</string>
+	<string id="trade_dialog_sak_431">
+		<text>Klar, nehme ich. Sollte ich es nicht brauchen - tausche ich dann mit jemanden.</text>
+	</string>
+	<string id="trade_dialog_sak_51">
+		<text>Das hab ich für dich:\n \n1. Repkits für Panzeranzüge gegen "Blitzlicht"</text>
+	</string>
+	<string id="trade_dialog_sak_52">
+		<text>Und wieviele Kits?</text>
+	</string>
+	<string id="trade_dialog_sak_53">
+		<text>Waffen-Kits hab ich dringender nötig.</text>
+	</string>
+	<string id="trade_dialog_sak_522">
+		<text>Drei 10%-Repkits gegen ein "Blitzlicht". Einverstanden?</text>
+	</string>
+	<string id="trade_dialog_sak_521">
+		<text>Na gut, was soll's.</text>
+	</string>
+	<string id="trade_dialog_sak_532">
+		<text>Drei 10%-Waffen-Kits im Tausch gegen "Steinblume". OK?</text>
+	</string>
+	<string id="trade_dialog_sak_531">
+		<text>Ja, nehme ich. Waffen verschleißen in der Zone sehr schnell.</text>
+	</string>
+	
+	<string id="trade_dialog_doktor_0">
+		<text>Wenn ich nur bessere Ausrüstung hätte.</text>
+	</string>
+	<string id="trade_dialog_doktor_1">
+		<text>Ich helfe dir, wie ich kann - aber leider werden dafür Artefakte gebraucht. Natürlich unverbrauchte, oder wenigstens kaum gebrauchte. Was schwebt dir so vor?</text>
+	</string>
+	<string id="trade_dialog_doktor_2">
+		<text>Munition ist knapp.</text>
+	</string>
+	<string id="trade_dialog_doktor_3">
+		<text>Eine gute Waffe, das wäre was.</text>
+	</string>
+	<string id="trade_dialog_doktor_4">
+		<text>Medikits.</text>
+	</string>
+	<string id="trade_dialog_doktor_5">
+		<text>Reparaturkits.</text>
+	</string>
+	<string id="trade_dialog_doktor_21">
+		<text>Munition hab ich folgende:\n \n1. Patronen für Schrotflinten und Pumpguns gegen "Dorn" \n2. RGD-5 Granaten gegen "Schleim" \n3. 5,56x39 Munition gegen "Tropfen" \n4. 7,62x39 Patronen gegen "Blitzlicht".</text>
+	</string>
+	<string id="trade_dialog_doktor_54">
+		<text>Weißt du, ich nehme erstmal nichts.</text>
+	</string>
+	<string id="trade_dialog_doktor_22">
+		<text>Ich brauche Schrot, wieviel kannst du mir geben?</text>
+	</string>
+	<string id="trade_dialog_doktor_23">
+		<text>Ich brauche Granaten.</text>
+	</string>
+	<string id="trade_dialog_doktor_24">
+		<text>Patronen für NATO-Waffen gehen mir aus.</text>
+	</string>
+	<string id="trade_dialog_doktor_25">
+		<text>Für AK-47? Nehme ich.</text>
+	</string>
+	<string id="trade_dialog_doktor_222">
+		<text>Für fünf Päckchen Schrot brauche ich ein "Dorn". Einverstanden?</text>
+	</string>
+	<string id="trade_dialog_doktor_221">
+		<text>Ja, geht ja nicht anders.</text>
+	</string>
+	<string id="trade_dialog_doktor_232">
+		<text>Fünf Granaten - ein "Schleim". Willst du die haben?</text>
+	</string>
+	<string id="trade_dialog_doktor_231">
+		<text>Granaten brauche ich, hätte dich sonst nicht gefragt.</text>
+	</string>
+	<string id="trade_dialog_doktor_242">
+		<text>Drei Päckchen Patronen für ein "Tropfen". OK?</text>
+	</string>
+	<string id="trade_dialog_doktor_241">
+		<text>Ja, ohne komm ich nicht aus.</text>
+	</string>
+	<string id="trade_dialog_doktor_252">
+		<text>Drei Päckchen - ein "Blitzlicht". Einverstanden?</text>
+	</string>
+	<string id="trade_dialog_doktor_251">
+		<text>Ja, nehm ich. Gute Durchschlagskraft.</text>
+	</string>
+	<string id="trade_dialog_doktor_666">
+		<text>Nein, ein anderes Mal.</text>
+	</string>
+	<string id="trade_dialog_doktor_31">
+		<text>Waffen hab ich diese hier für dich:\n \n1. Scharfschützen-SIG. Für den Einsatz als Scharfschützengewehr modifiziert und mit einer fest montierten Zielvorrichtung mit erhöhtem Fokus ausgestattet. Um das Gewicht zu verringern, wurden einige Teile ersetzt oder entfernt. Gewicht wurde dadurch fast halbiert, Laufabnutzung minimiert.  Gebe ich für "Glimmer"-Artefakte ab. \n \n2. Ein bewährtes und zuverlässiges AK-47 gegen eine "Seele".</text>
+	</string>
+	<string id="trade_dialog_doktor_32">
+		<text>Wieviele Artefakte für die Sniper-SIG?</text>
+	</string>
+	<string id="trade_dialog_doktor_33">
+		<text>AK-47! Genau das, was ich brauche.</text>
+	</string>
+	<string id="trade_dialog_doktor_322">
+		<text>Drei "Glimmer" und die SIG gehört dir.</text>
+	</string>
+	<string id="trade_dialog_doktor_321">
+		<text>Hier hast du diese Artefakte.</text>
+	</string>
+	<string id="trade_dialog_doktor_332">
+		<text>Hast du eine "Seele"?</text>
+	</string>
+	<string id="trade_dialog_doktor_331">
+		<text>Ja, konnte diese noch erhalten.</text>
+	</string>
+	<string id="trade_dialog_doktor_41">
+		<text>Das könnte ich entbehren:\n \n1. Medikits gegen "Egelschnecke" \n2. Antirads gegen "Steinblume".</text>
+	</string>
+	<string id="trade_dialog_doktor_42">
+		<text>Welche Medikits sind das?</text>
+	</string>
+	<string id="trade_dialog_doktor_43">
+		<text>Wieviele Antirads hast du denn?</text>
+	</string>
+	<string id="trade_dialog_doktor_422">
+		<text>Forscher-Medikits, drei Stück für eine "Egelschnecke". Einverstanden?</text>
+	</string>
+	<string id="trade_dialog_doktor_421">
+		<text>Ja, wenn's nicht anders geht.</text>
+	</string>
+	<string id="trade_dialog_doktor_432">
+		<text>Fünf Antirads gebe ich dir gegen eine "Steinblume". Willst du haben?</text>
+	</string>
+	<string id="trade_dialog_doktor_431">
+		<text>Ja, ich nehm die gern. Strahlungslevel ist hier sehr hoch.</text>
+	</string>
+	<string id="trade_dialog_doktor_51">
+		<text>Ich habe nur Waffen-Repkits für dich.</text>
+	</string>
+	<string id="trade_dialog_doktor_52">
+		<text>Für den Anzug nehme ich.</text>
+	</string>
+	<string id="trade_dialog_doktor_53">
+		<text>Was möchtest du dafür?</text>
+	</string>
+	<string id="trade_dialog_doktor_522">
+		<text>Für drei 10%-Repkits ein "Gravit". Einverstanden?</text>
+	</string>
+	<string id="trade_dialog_doktor_521">
+		<text>Einverstanden, wenn's nicht anders geht.</text>
+	</string>
+	<string id="trade_dialog_doktor_532">
+		<text>Für drei 10%-Waffen-Repkits möchte ich ein "Dornenkristall" haben. OK?</text>
+	</string>
+	<string id="trade_dialog_doktor_531">
+		<text>Ja, die nehme ich. Waffen verschleißen schnell in der Zone.</text>
+	</string>
+	
+	<string id="trade_dialog_jlob_0">
+		<text>Wer bist du denn? Warum hängst du hier rum?</text>
+	</string>
+	<string id="trade_dialog_jlob_11">
+		<text>Mach kein Lärm, ich treib hier bisschen Handel.</text>
+	</string>
+	<string id="trade_dialog_jlob_12">
+		<text>Gute Ware? Was hast du denn so, und was nimmst du dafür?</text>
+	</string>
+	<string id="trade_dialog_jlob_1">
+		<text>Geld ist hier wertlos, Artefakte brauchen wir auch nicht.\n \nVerpflegung, Nahrungsmittel nehme ich. Es verdirbt hier alles so schnell, verdammt.\n \nWas brauchst du denn so?</text>
+	</string>
+	<string id="trade_dialog_jlob_2">
+		<text>Hast du Munition, oder sonst was?</text>
+	</string>
+	<string id="trade_dialog_jlob_3">
+		<text>Hast du auch Kanonen?</text>
+	</string>
+	<string id="trade_dialog_jlob_4">
+		<text>Was für die Gesundheit.</text>
+	</string>
+	<string id="trade_dialog_jlob_5">
+		<text>Reparatur-Zeug.</text>
+	</string>
+	<string id="trade_dialog_jlob_21">
+		<text>Munition hab ich bisschen:\n \n1. Patronen 5,45x39 für AK - ein Paar Konserven \n2. RGD-Granaten - zwei Stück Wurst \n3. Panzerbrechende 9x19 mm für MP5 - zwei Dosen Energydrinks \n4. F-1 Granate - fünf Leib Brot.</text>
+	</string>
+	<string id="trade_dialog_jlob_54">
+		<text>In Moment brauch ich nichts.</text>
+	</string>
+	<string id="trade_dialog_jlob_22">
+		<text>Ich nehm die AK-Munition.</text>
+	</string>
+	<string id="trade_dialog_jlob_23">
+		<text>Granaten nehm ich.</text>
+	</string>
+	<string id="trade_dialog_jlob_24">
+		<text>Gib mal die MP5-Muni.</text>
+	</string>
+	<string id="trade_dialog_jlob_25">
+		<text>F-1 ist 'ne feine Sache.</text>
+	</string>
+	<string id="trade_dialog_jlob_222">
+		<text>Dann zeig mal die Konserven. 2 Stück für 'ne Packung.</text>
+	</string>
+	<string id="trade_dialog_jlob_221">
+		<text>Hier, alles ehrlich.</text>
+	</string>
+	<string id="trade_dialog_jlob_232">
+		<text>Ist die Wurst noch gut?</text>
+	</string>
+	<string id="trade_dialog_jlob_231">
+		<text>Hier, riech mal dran. Gib die Granate schon her.</text>
+	</string>
+	<string id="trade_dialog_jlob_242">
+		<text>Durst hat man hier ständig, und mit sauberem Wasser sieht's schlecht aus. Her mit den Dosen.</text>
+	</string>
+	<string id="trade_dialog_jlob_241">
+		<text>Hier, sonst verdurstest du noch.</text>
+	</string>
+	<string id="trade_dialog_jlob_252">
+		<text>F-1 ist 'ne Wucht! Dein Brot ist doch nicht verstrahlt, oder? Weil, ich hab mit solchem Mist alle Schränke voll.</text>
+	</string>
+	<string id="trade_dialog_jlob_251">
+		<text>Ich esse es doch selbst. Bin noch ok, siehst du doch. Gib her, die Granate.</text>
+	</string>
+	<string id="trade_dialog_jlob_666">
+		<text>Nein, ein anderes Mal.</text>
+	</string>
+	<string id="trade_dialog_jlob_31">
+		<text>Eine Kanone? Wähl aus: \n \n1. Abakan-Sturmgewehr für zehn Konserven \n2. MP5, in ausgezeichnetem Zustand - fünf Würste.</text>
+	</string>
+	<string id="trade_dialog_jlob_32">
+		<text>Abakan? Nehme ich.</text>
+	</string>
+	<string id="trade_dialog_jlob_33">
+		<text>MP5? Die gibt's doch wie Sand.</text>
+	</string>
+	<string id="trade_dialog_jlob_322">
+		<text>Erst die Konserven.</text>
+	</string>
+	<string id="trade_dialog_jlob_321">
+		<text>Keine Angst, ich bescheisse nicht.</text>
+	</string>
+	<string id="trade_dialog_jlob_332">
+		<text>An meinem war aber nicht mal 'ne Fliege dran.</text>
+	</string>
+	<string id="trade_dialog_jlob_331">
+		<text>Gut, abgemacht.</text>
+	</string>
+	<string id="trade_dialog_jlob_41">
+		<text>Ja, Gesundheit ist hier wichtig: \n \n1. Medikit gegen Wurst \n2. Wodka - zwei Stück "Touristenfreude".</text>
+	</string>
+	<string id="trade_dialog_jlob_42">
+		<text>Ich nehm das Medikit.</text>
+	</string>
+	<string id="trade_dialog_jlob_43">
+		<text>Her mit Wodka, mach schon.</text>
+	</string>
+	<string id="trade_dialog_jlob_422">
+		<text>Erst die Wurst.</text>
+	</string>
+	<string id="trade_dialog_jlob_421">
+		<text>Ja doch, hier.</text>
+	</string>
+	<string id="trade_dialog_jlob_432">
+		<text>Zwei Konserven - und du bist glücklich.</text>
+	</string>
+	<string id="trade_dialog_jlob_431">
+		<text>"Feuerwässerchen". Gleich mit Jungs einen bechern.</text>
+	</string>
+	<string id="trade_dialog_jlob_51">
+		<text>Hab ein Paar Repkits: \n \n1. Für den Anzug - drei Dosen Sprudel \n2. Für die Waffen - zehn Brote.</text>
+	</string>
+	<string id="trade_dialog_jlob_52">
+		<text>Ich nehm den für's Anzug.</text>
+	</string>
+	<string id="trade_dialog_jlob_53">
+		<text>Waffen-Kit brauch ich mehr.</text>
+	</string>
+	<string id="trade_dialog_jlob_522">
+		<text>Zeig mir die Dosen.</text>
+	</string>
+	<string id="trade_dialog_jlob_521">
+		<text>Hier, drei Stück.</text>
+	</string>
+	<string id="trade_dialog_jlob_532">
+		<text>Her mit dem Brot.</text>
+	</string>
+	<string id="trade_dialog_jlob_531">
+		<text>Hier, verschluck dich nicht. Zehn Leib.</text>
+	</string>
+	<string id="trade_dialog_sherstyk_0">
+		<text>Kannst du irgendwelche Ausrüstung besorgen?</text>
+	</string>
+	<string id="trade_dialog_sherstyk_1">
+		<text>Warum nicht! Bring mir Wodka, dann kann ich helfen. Je nach Flaschenanzahl.\n \nWas genau brauchst du?</text>
+	</string>
+	<string id="trade_dialog_sherstyk_777">
+		<text>Klar, warum nicht! Aber nicht jetzt in der Nacht. Kommt tagsüber wieder und bring Wodka mit, dann kann ich helfen.</text>
+	</string>
+	<string id="trade_dialog_sherstyk_2">
+		<text>Munition, Granaten, evtl. einen guten Anzug.</text>
+	</string>
+	<string id="trade_dialog_sherstyk_3">
+		<text>Kannst du Sturmgewehr oder Maschinengewehr besorgen?</text>
+	</string>
+	<string id="trade_dialog_sherstyk_4">
+		<text>Man erzählt, die Armee hat gute Medikamente.</text>
+	</string>
+	<string id="trade_dialog_sherstyk_21">
+		<text>Gegen Wodka kann ich tauschen:\n \n1. Munition 5,45x39 für AK-74 \n2. Granaten F-1 \n3. Munition für PKM 7.62 \n4. Guten Anzug hab ich auch - SKAT-9M</text>
+	</string>
+	<string id="trade_dialog_sherstyk_54">
+		<text>Davon brauche ich in Moment nichts.</text>
+	</string>
+	<string id="trade_dialog_sherstyk_22">
+		<text>Munition für AK-74 brauche ich.</text>
+	</string>
+	<string id="trade_dialog_sherstyk_23">
+		<text>Granaten sind eine feine Sache. F-1 hilft gut gegen Mutanten.</text>
+	</string>
+	<string id="trade_dialog_sherstyk_24">
+		<text>Für PKM?! Ich denke, ich nehm's.</text>
+	</string>
+	<string id="trade_dialog_sherstyk_25">
+		<text>Ich nehm den Anzug. Aber nur einen nagelneuen.</text>
+	</string>
+	<string id="trade_dialog_sherstyk_222">
+		<text>Für 3 Flaschen kann ich 5 Packungen einfache, oder 3 Packungen panzerbrechende Patronen besorgen. Welche willst du?</text>
+	</string>
+	<string id="trade_dialog_sherstyk_221">
+		<text>Ich nehme 5 einfache.</text>
+	</string>
+	<string id="trade_dialog_sherstyk_2211">
+		<text>Die panzerbrechenden.</text>
+	</string>
+	<string id="trade_dialog_sherstyk_232">
+		<text>Eine F-1 Granate - eine Flasche. OK?</text>
+	</string>
+	<string id="trade_dialog_sherstyk_231">
+		<text>Granaten brauch ich, sonst hätte ich nicht gefragt.</text>
+	</string>
+	<string id="trade_dialog_sherstyk_242">
+		<text>Ein Patronenkorb - fünf Flaschen.</text>
+	</string>
+	<string id="trade_dialog_sherstyk_241">
+		<text>Einverstanden.</text>
+	</string>
+	<string id="trade_dialog_sherstyk_252">
+		<text>SKAT ist direkt aus dem Lager, nicht mal 'ne Fliege dran gewesen! Zehn Pullen!</text>
+	</string>
+	<string id="trade_dialog_sherstyk_251">
+		<text>Na gut, zehn sind OK.</text>
+	</string>
+	<string id="trade_dialog_sherstyk_666">
+		<text>Nein, ein anderes Mal.</text>
+	</string>
+	<string id="trade_dialog_sherstyk_31">
+		<text>Ich kann das besorgen: \n \n1. "Abakan" mit 3-fach Optik für Sniper-Einsätze. \n2. Maschinengewehr PKM - ein wenig schwer, aber sehr gut bedienbar und plättet die Mutanten wie ein Rasenmäher.</text>
+	</string>
+	<string id="trade_dialog_sherstyk_32">
+		<text>Scharfschützen-Abakan? Wieviel willst du dafür?</text>
+	</string>
+	<string id="trade_dialog_sherstyk_33">
+		<text>Willst du viel Wodka für Maschinengewehr?</text>
+	</string>
+	<string id="trade_dialog_sherstyk_322">
+		<text>Sieben Pullen. Einverstanden?</text>
+	</string>
+	<string id="trade_dialog_sherstyk_321">
+		<text>Gut, hier hast du sieben.</text>
+	</string>
+	<string id="trade_dialog_sherstyk_332">
+		<text>PKM ist kein kleines Ding, nicht einfach rauszuschmuggeln. Kiste Wodka! Wie siehts aus?</text>
+	</string>
+	<string id="trade_dialog_sherstyk_331">
+		<text>Einverstanden! Gib her!</text>
+	</string>
+	<string id="trade_dialog_sherstyk_41">
+		<text>Alles Lügen. Militär-Medikits sind nur wenig besser als einfache.</text>
+	</string>
+	<string id="trade_dialog_sherstyk_42">
+		<text>Wieviele kannst du abgeben?</text>
+	</string>
+	<string id="trade_dialog_sherstyk_422">
+		<text>2 Medikits für eine Flasche.</text>
+	</string>
+	<string id="trade_dialog_sherstyk_421">
+		<text>Abgemacht!</text>
+	</string>
+	<string id="trade_dialog_kuznezov_0">
+		<text>Du sagtest - ich kann dich ansprechen, wenn ich was brauche?</text>
+	</string>
+	<string id="trade_dialog_kuznezov_1">
+		<text>Also brauchst du jetzt doch was? Bring uns Wodka - dann kann ich, vielleicht, helfen. Je nach Flaschenanzahl.\n \nWas genau brauchst du?</text>
+	</string>
+	
+	
+	<string id="trade_dialog_kuznezov_11">
+		<text>Das war bevor ich erfahren musste, was für eine Ratte du bist. Verschwinde, solange ich mich noch beherrschen kann!</text>
+	</string>
+	
+	<string id="trade_dialog_kuznezov_1121">
+		<text>Bleib ruhig, Soldat! War nur eine Frage. Ich gehe ja schon.</text>
+	</string>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<string id="trade_dialog_kuznezov_2">
+		<text>Munition, Granaten, evtl. einen guten Anzug.</text>
+	</string>
+	<string id="trade_dialog_kuznezov_3">
+		<text>Kannst du Sturmgewehr oder Maschinengewehr besorgen?</text>
+	</string>
+	<string id="trade_dialog_kuznezov_4">
+		<text>Man sagt, die Armee hat gute Medikamente.</text>
+	</string>
+	<string id="trade_dialog_kuznezov_21">
+		<text>Na ja. Das kann ich gegen Wodka tauschen:\n \n1. Munition 5.45x39 für AK-74 \n2. RGD Granaten \n3. Für AK-47 Munition 7.62 \n4. Scharfschützen-Munition</text>
+	</string>
+	<string id="trade_dialog_kuznezov_54">
+		<text>Davon brauche ich in Moment nichts.</text>
+	</string>
+	<string id="trade_dialog_kuznezov_22">
+		<text>Muni für AK-74 brauche ich.</text>
+	</string>
+	<string id="trade_dialog_kuznezov_23">
+		<text>Granaten sind eine gute Sache. Helfen gegen Mutanten.</text>
+	</string>
+	<string id="trade_dialog_kuznezov_24">
+		<text>Für AK-47? Ich denke, ich nehm's.</text>
+	</string>
+	<string id="trade_dialog_kuznezov_25">
+		<text>Sniper - König der Zone. Ich nehme die Muni.</text>
+	</string>
+	<string id="trade_dialog_kuznezov_222">
+		<text>Für 3 Flaschen kann ich 5 Packungen einfache Patronen, oder 3 Packungen panzerbrechende abgeben. Welche willst du?</text>
+	</string>
+	<string id="trade_dialog_kuznezov_221">
+		<text>Ich nehme 5 einfache.</text>
+	</string>
+	<string id="trade_dialog_kuznezov_2211">
+		<text>Die panzerbrechenden.</text>
+	</string>
+	<string id="trade_dialog_kuznezov_232">
+		<text>2 Granaten - eine Flasche. OK?</text>
+	</string>
+	<string id="trade_dialog_kuznezov_231">
+		<text>Ich brauche Granaten, sonst hätte ich nicht gefragt.</text>
+	</string>
+	<string id="trade_dialog_kuznezov_242">
+		<text>Hab nur panzerbrechende Munition - 5 Flaschen gegen 3 Päckchen.</text>
+	</string>
+	<string id="trade_dialog_kuznezov_241">
+		<text>Einverstanden.</text>
+	</string>
+	<string id="trade_dialog_kuznezov_252">
+		<text>1 Packung Scharfschützen-Munition - 2 Flaschen.</text>
+	</string>
+	<string id="trade_dialog_kuznezov_251">
+		<text>Das ist es wert.</text>
+	</string>
+	<string id="trade_dialog_kuznezov_666">
+		<text>Nein, ein anderes Mal.</text>
+	</string>
+	<string id="trade_dialog_kuznezov_31">
+		<text>Ich kann das besorgen:\n \n1. Eine SVU-AS. Das ist die moderne, kompakte Variante der SVD. \n2. AK-47 - klassische Waffe, zuverlässig und tötlich.</text>
+	</string>
+	<string id="trade_dialog_kuznezov_32">
+		<text>SVU?! Wieviel willst du dafür?</text>
+	</string>
+	<string id="trade_dialog_kuznezov_33">
+		<text>AK-47! Brauchst du viel Wodka dafür?</text>
+	</string>
+	<string id="trade_dialog_kuznezov_322">
+		<text>Fünfzehn Pullen möchte ich. Einverstanden?</text>
+	</string>
+	<string id="trade_dialog_kuznezov_321">
+		<text>Natürlich!!! Hier hast du dein Alk.</text>
+	</string>
+	<string id="trade_dialog_kuznezov_332">
+		<text>Nicht viel. Fünf Flaschen - und es gehört dir.</text>
+	</string>
+	<string id="trade_dialog_kuznezov_331">
+		<text>Einverstanden! Los, gib her!</text>
+	</string>
+	<string id="trade_dialog_kuznezov_41">
+		<text>Ja, das stimmt schon. Wir passen auf unsere Gesundheit auf.</text>
+	</string>
+	<string id="trade_dialog_kuznezov_42">
+		<text>Und wieviel kannst du abgeben?</text>
+	</string>
+	<string id="trade_dialog_kuznezov_422">
+		<text>Für eine Flasche 2 Medikits.</text>
+	</string>
+	<string id="trade_dialog_kuznezov_421">
+		<text>Abgemacht!</text>
+	</string>
+	
+	<string id="sak_military_stalker_dialog_0">
+		<text>Was ist, Stalker? Wollen wir ein paar Worte wechseln?</text>
+	</string>
+	<string id="sak_military_stalker_dialog_1">
+		<text>Ja, warum nicht. Ich hätte da mehrere Vorschläge an dich. Für beide gewinnbringend.</text>
+	</string>
+	<string id="sak_military_stalker_dialog_2">
+		<text>Hört sich interessant an. Besonders das mit dem Gewinn.</text>
+	</string>
+	<string id="sherstyk_1_dialog_0">
+		<text>Weißt du etwas über die Dokumente, die bei euch in der Basis aufbewahrt werden?</text>
+	</string>
+	<string id="sherstyk_1_dialog_1">
+		<text>Pffff! Ja klar. Unser Leutnant würde an liebsten mit diesem Koffer unter dem Kopf schlafen. Wartet auf die Möglichkeit, um den ganzen Scheiß da in der Center zu schicken. Gerüchten nach, ist da was über Hirnschmelzer drin. Oder über die Zombierungs-Methoden.\n \nUnd was nutzen die dir denn?</text>
+	</string>
+	<string id="sherstyk_1_dialog_2">
+		<text>Wenn ich frage, dann hab ich halt Interesse dran.</text>
+	</string>
+	<string id="sherstyk_1_dialog_3">
+		<text>Interesse also? Und was ist dieses Interesse dir wert?</text>
+	</string>
+	<string id="sherstyk_1_dialog_4">
+		<text>Na ja, die Goldreserven Russlands nicht. Gibt es Varianten?</text>
+	</string>
+	<string id="sherstyk_1_dialog_5">
+		<text>Wir sind es leid, hier rumzusitzen. Nichts zu saufen, keine Weiber, keine Unterhaltung. Ich sag's dir es so - für richtig gutes "Feuerwasser" kann man alles besorgen. Du verstehst?</text>
+	</string>
+	<string id="sherstyk_1_dialog_6">
+		<text>Na "richtig gutes" kann ich nicht versprechen, aber Wodka kann ich besorgen. Echter, nichts selbstgebranntes.</text>
+	</string>
+	<string id="sherstyk_1_dialog_7">
+		<text>Dann pass mal auf. Kiste Wodka - und du hast den Koffer. Handschlag?</text>
+	</string>
+	<string id="sherstyk_1_dialog_8">
+		<text>Handschlag! Du kriegst deine Kiste!</text>
+	</string>
+	<string id="sherstyk_1_dialog_9">
+		<text>Ächhh, Soldaten! Für Wodka würdet ihr auch Vaterland verkaufen. Ich werd schon selber klar kommen.</text>
+	</string>
+	<string id="tex_agroprom_vodka">
+		<text>Feldwebel Scherstück ist bereit für 20 Flaschen Wodka den Koffer mit Dokumenten zu stehlen.</text>
+	</string>
+	<string id="tex_borov_11">
+		<text>"Borow" schickte mich zu Hubschrauber-Absturzstelle, hinter dem Sumpf im Dunklen Tal. Alles wertvolle, was gefunden wird, zum "Borow" schleppen.</text>
+	</string>
+	<string id="tex_bandit_krisyk">
+		<text>Bandit mit dem Spitznamen "Ratte" hat viele Geheimnisse auf seinem PDA gespeichert. "Borow" will dieses PDA zurück. Egal wie. Die Markierung auf der Karte, welche den Aufenthaltsort von "Ratte" zeigt, kann man bei "Dozent" in der Bar "100 Rad" bekommen.</text>
+	</string>
+	<string id="sherstyk_12_dialog_0">
+		<text>Hey, Scherstück! Wodka-Lieferung!</text>
+	</string>
+	<string id="sherstyk_12_dialog_1">
+		<text>Spitze, Mann! Auf dich ist Verlass. Komm, gib schon her.</text>
+	</string>
+	<string id="sherstyk_12_dialog_2">
+		<text>Sag mir zuerst - hast du die Dokumente mit?</text>
+	</string>
+	<string id="sherstyk_12_dialog_3">
+		<text>Nicht so schnell, Stalker! Die Dokumente sind nicht so leicht herauszubekommen, besonders nicht am Tage.\n \nKomm heute nacht nochmal hierher, dann kriegst du den Koffer.</text>
+	</string>
+	<string id="sherstyk_12_dialog_4">
+		<text>Na gut. Pack deine Flaschen ein. Ich komme dann nachts wieder. Und wehe du bist nicht da!</text>
+	</string>
+	<string id="sherstyk_12_dialog_4_1">
+		<text>Weisst du was... Das klingt mir zu verdächtig. Vergiss es.</text>
+	</string>
+	<string id="sherstyk_12_dialog_5">
+		<text>Ein Soldat hält sein Wort! Ich werde zwischen 2 und 4 Uhr auf dich hier warten.</text>
+	</string>
+	<string id="sherstyk_12_dialog_5_1">
+		<text>Ja, dann eben nicht. Ist mir sowieso zu riskant. Dafür kann ich ruckzuck vor dem Militärtribunal landen.</text>
+	</string>
+	<string id="sherstyk_nacht_dialog_0">
+		<text>Hallo, Scherstück! Es ist Nacht und ich bin da. Was hast du für mich?</text>
+	</string>
+	<string id="sherstyk_nacht_dialog_1">
+		<text>Nicht so laut, Mann! Nachts hört man hier jedes Wort auf hunderte von Metern!</text>
+	</string>
+	<string id="sherstyk_nacht_dialog_2">
+		<text>Sag schon - hast du die Dokumente mit?</text>
+	</string>
+	<string id="sherstyk_nacht_dialog_3">
+		<text>Ja, habe ich. War gar nicht so leicht, diese aus dem Gebäude zu bekommen. Musste warten bis unser Leutnant endlich einpennt.</text>
+	</string>
+	<string id="sherstyk_nacht_dialog_4">
+		<text>Na ja, du hast ja auch genug bekommen dafür von mir. Los, gib schon her.</text>
+	</string>
+	<string id="sherstyk_nacht_dialog_5">
+		<text>Hier ist dein Koffer. Pass auf, das du dir kein Leistenbruch holst damit.\n \nUnd ich muss schnell wieder zurück, bevor man merkt, das der Koffer weg ist.</text>
+	</string>
+	<string id="enc_price">
+		<text>Angebote der Händler</text>
+	</string>
+	<string id="price_sidor_text">
+		<text>Sidorowitsch tauscht:\n \n 1. Munition 12x70 Schrot gegen "Qualle" \n 2. Granaten RGD-5 gegen "Gepresstes" \n 3. Munition 5,45x39 gegen "Tropfen" \n 4. Munition 7,62x39 gegen "Steinblut".\n \n 1. TOZ-34 Schrotflinte gegen "Blitzlicht" \n 2. Glattlauf-Automatikgewehr "Sajga-12C" gegen "Fleischklumpen".\n \n 1. Medikits gegen "Steinblume" \n 2. Wodka gegen "Gepresstes".\n \n 1. Reparaturkits für Anzüge gegen "Gravit" \n 2. Reparaturkits für Waffen gegen "Steinblume".</text>
+	</string>
+	<string id="price_barman_text">
+		<text>Wirt tauscht:\n \n 1. Munition 5,45x39 gegen "Blitzlicht" \n 2. RGD-5 Granaten gegen "Steinblume" \n 3. Munition 5,56x39 gegen "Schleim" \n 4. Munition 9x39 mm gegen "Gravit".\n \n 1. AS "Val" gegen zwei Stück "Feuerball" \n 2. OC-14 "Groza" gegen "Nachtstern".\n \n 1. Medikits gegen "Wunderkerze" \n 2. Wodka gegen "Steinblut".\n \n 1. Reparaturkits für Anzüge gegen "Fleischklumpen" \n 2. Reparaturkits für Waffen gegen "Feuerball".</text>
+	</string>
+	<string id="price_petrenko_text">
+		<text>Petrenko tauscht:\n \n 1. Munition 7,62x54 gegen "Tropfen" \n 2. VOG-25 Granaten gegen "Steinblut" \n 3. Munition 7,62x39 gegen "Qualle" \n 4. "Wächter"-Schutzanzüge gegen "Glimmer". \n \n 1. SVD gegen "Seeigel" \n 2. SVU-AS gegen "Seele".\n \n 1. Militär-Medikits gegen "Steinblume"</text>
+	</string>
+	<string id="price_scraga_text">
+		<text>Geizhals tauscht:\n \n 1. Munition 5,56x39 gegen "Schleim" \n 2. F-1 Granaten gegen "Dorn" \n 3. Munition für PKM-Maschinengewehr gegen "Dornenkristall" \n 4. Munition 5.7x39 für FN P90 gegen "Gravit".\n \n 1. FN P90 gegen "Goldfisch" \n2. FN2000 gegen drei Stück "Seele".\n \n 1. Medikits gegen "Qualle" \n 2. Antirads gegen "Gepresstes".\n \n 1. Reparaturkits für Waffen gegen "Steinblume".</text>
+	</string>
+	<string id="price_sak_text">
+		<text>Sak tauscht:\n \n 1. Scharfschützen-Munition gegen "Fleischklumpen" \n 2. Munition 9x39 gegen "Gravit" \n 3. Energiezellen für "Gauss"-Waffen gegen "Feuerball" \n 4. Militär-Anzug SKAT-10 gegen "Seeigel".\n \n 1. VSS "Vintorez" gegen "Kristall".\n \n 1. Militär-Medikits gegen "Dornenkristall".\n \n 1. Reparaturkits für Anzüge gegen "Blitzlicht".</text>
+	</string>
+	<string id="price_doktor_text">
+		<text>Doktor tauscht:\n \n 1. Munition für Schrotflinten gegen "Dorn" \n 2. RGD-5 Granaten gegen "Schleim" \n 3. Munition 5,56x39 gegen "Tropfen" \n 4. Munition 7,62x39 gegen "Blitzlicht".\n \n1. Sniper-SIG gegen "Glimmer" \n 2. AK-47 gegen "Seele".\n \n 1. Medikits gegen "Egelschnecke" \n 2. Antirads gegen "Steinblume".\n \n 1. Reparaturkits für Waffen gegen "Gravit".</text>
+	</string>
+	<string id="price_jila_text">
+		<text>Sehne tauscht:\n \n 1. Munition 5,45x39 für AK-74 gegen 2 Konserven \n 2. RGD-5 Granaten gegen 2 Würste \n 3. Munition 9x19 mm panzerbrechend gegen 2 Dosen Energydrink \n 4. F-1 Granate gegen 5 Brote.\n \n 1. Abakan-Sturmgewehr gegen 10 Konserven \n 2. Maschinenpistole MP5 gegen 5 Würste \n \n 1. Medikit gegen Wurst \n 2. Wodka gegen 2 Konserven. \n \n 1. Anzug-Repkit gegen 3 Dosen Energydrink \n 2. Waffen-Repkit gegen 10 Brote.</text>
+	</string>
+	<string id="price_kuznezov_text">
+		<text>Kusnezow tauscht:\n \n1. Munition 5,45x39 für AK-74 \n2. RGD-Granaten \n3. Munition für AK-47 7.62 \n4. Scharfschützen-Munition.\n \n1. SVU-AS \n2. AK-47.\n \n1. Medikits.\n \nAlles gegen Wodka.</text>
+	</string>
+	<string id="price_sherstuk_text">
+		<text>Scherstück tauscht:\n \n1. Munition 5,45x39 für AK-74 \n2. F-1 Granaten \n3. Munition für PKM 7.62 \n4. Kampfanzug SKAT-9M. \n \n1. Scharfschützen-Abakan \n2. PKM Maschinengewehr \n \n1. Medikits.\n \nAlles gegen Wodka.</text>
+	</string>
+	<string id="price_sakharov_text">
+		<text>Sacharow tauscht:\n \n 1. Ladungen 9mm M72-M "Gauss" gegen "Nachtstern" \n 2. 9mm M72-M "Super-Gauss" gegen "Sprungfeder" \n 3. Schutzanzug SSP-99M "VEGA" gegen "Kristall" \n 4. Munition 12x70 mm gegen "Wunderkerze".\n \n 1. Schrotflinte SPAS-12 gegen "Egelschnecke" \n 2. M72-M "Gauss"-Gewehr gegen drei Stück "Mamas Perlen".\n \n 1. Forscher-Medikits gegen "Dorn" \n 2. Antirads gegen "Schleim".\n \n 1. Reparaturkits für Anzüge gegen "Gravit".</text>
+	</string>
+		<string id="price_old_digger_text">
+		<text>Sumpfdoktor tauscht:\n \nMutantenteile als 10-er Pack, wie folgt\n \n  1. Einfache Medikits gegen Fleischaugen \n  2. Armee-Medikits gegen Wildschweinhufen \n  3. Munition für Schrotflinten gegen Hundeschwänze \n  4. F-1 Granaten gegen Pseudohundschwänze \n  5. Munition 9x39 AP gegen Blutsaugergebisse \n  6. Munition 5,56x39 AP gegen Bürerhände \n  7. Munition für Schrotflinten gegen Zombiehände \n  8. Einfache Medikits gegen Schnorkfüße \n  9. Munition 9x18 AP gegen Tuschkanoköpfe \n 10. Antirads gegen Telepathenhände \n 11. Munition 5,56x39 gegen Pseudoriesenhände \n 12. Munition 5,45x39 AP gegen Chimerakrallen</text>
+	</string>
+	<string id="price_wisser_text">
+		<text>Der Wisser tauscht:\n \n 1. Verschiedene Gegenstände gegen 5 PDA. \n 2. Lage von Beuteverstecken gegen 15 PDA.</text>
+	</string>
+<string id="price_prof_text">
+		<text>Sacharow tauscht:\n \n1. 7.62x51 mm NATO Munition gegen 3 Artefakte "Tropfen"\n2. 7.62x51 mm NATO AP-Munition gegen 2 Artefakte "Feuerball"\n3. Magazine für "Gauss"-Gewehr gegen Artefakt "Häutchen"\n \n1. Sturmgewehr "GALATZ" gegen 2 Artefakte "Seele"\n2. Sturmgewehr "SR-25" gegen 2 Artefakte "Kristall"\n3. Sturmgewehr "HK 417" gegen 2 Artefakte "Mondlicht"\n4. "Gauss"-Gewehr gegen 10 "Poltergeist-Augen"\n \n1. Forscher-Medikits gegen 10 Katzenschwänze\n2. Antirad-Spritzen gegen 10 Bürerhände</text>
+	</string>
+	<string id="price_hazar_text">
+		<text>Hazar tauscht:\n \n1. Schrot gegen 10 Hundeschwänze oder 8 Schweinehufen oder 4 Chimerakrallen oder 2 Artefakte "Gepresstes"\n \n2. Medikits gegen 6 Pseudohundschwänze oder "Egelschnecke" oder "Steinblume" oder "Gravit"\n \n3. Munition 5,45x39 gegen 5 Blutsaugergebisse oder einen "Fleischklumpen" oder 2 Artefakte "Schleim" oder 2 Artefakte "Qualle"</text>
+	</string>
+	<string id="price_sid_text">
+		<text>Sidorowitsch tauscht:\n \n1. Maschinenpistole MP7 A3 gegen 15 Hundeschwänze\n2. Schrotflinte SPAS 12 gegen 20 Pseudohundschwänze\n3. Maschinenpistole "Bizon" gegen 7 Blutsaugergebisse\n \n1. Einfache AK-74 Munition gegen 12 Chimerakrallen\n2. Schrot-Munition gegen 15 Wildschweinhufen\n \n1. Einfache Medikits gegen 8 Fleisch-Augen</text>
+	</string>
+	<string id="price_wirt_text">
+		<text>Wirt tauscht:\n \n1. 7.62x39 mm FMJ Munition gegen Konserven.\n2. 7.62x39 mm AP Munition gegen Wodka\n3. 5.45x39 mm FMJ Munition gegen Hühnerbrüste\n4. 5.45x39 mm AP Munition gegen Wodka\n5. 5.56x45 mm SS109 Munition gegen Hühnerbrüste\n6. 5.56x45 mm AP Munition gegen Wodka\n7. 7,62x54R 7Í1 Munition gegen Artefakt "Steinblume"\n8. 9x39 mm PAB-9 Munition gegen Artefakt "Egelschnecke"\n \n1. AK-47 Maschinengewehr gegen 2 Artefakte "Glimmer"\n2. "Sajga" Schrotgewehr gegen 5 Artefakte "Fleischklumpen"</text>
+	</string>
+	<string id="price_dolg_text">
+		<text>Iwanow tauscht:\n \n1. 5.45x39 mm AP Munition gegen "Qualle"\n2. 7,62x54R 7H1 Munition gegen "Fleischklumpen"\n3. 7.62x54R 7H14 panzerbrechende Munition gegen "Blitzlicht"\n4. 9x39 mm SP-5 Munition gegen "Gravit"\n5. 9x39 mm SP-6 panzerbrechende Munition gegen 2 "Wunderkerzen"\n \n1. AN-94 "Sniper"-Abakan gegen 3 "Gravit"-Artefakte\n2. Modifiziertes "Groza"-Sturmgewehr gegen 2 "Seeigel"-Artefakte\n3. "Dragunov" SVD MK2 2 "Batterie"-Artefakte\n4. VAL-Sturmgewehr gegen einen "Kristall"\n5. RPG-7 Granatwerfer gegen 3 "Steinblumen"\n \n1. Armee-Medikits gegen Artefakt "Egelschnecke"</text>
+	</string>
+	<string id="price_freiheit_text">
+		<text>Seelenkäufer tauscht:\n \n1. Sturmgewehr SIG SG552 "Commando" gegen Artefakt "Pflasterstein"\n2. Sturmgewehr SIG SG551 gegen Artefakt "Tränen des Feuers"\n3. Sturmgewehr M16A1 gegen Artefakt "Symbion"\n4. Sturmgewehr Colt M4A1 gegen Artefakt "Goldener Klumpen"\n5. Sturmgewehr FA MAS Prototype3 gegen Artefakt "Goldener Klumpen"\n6. Sturmgewehr SIG 550 "Sniper" gegen Artefakt "Tränen der Seele"\n \n1. 5.56x45 mm AP-Munition gegen 2 Artefakte "Tropfen"\n2. 5.56x45 mm SS109-Munition gegen 2 Artefakte "Steinblut"\n3. F1-Granaten gegen 2 Artefakte "Wunderkerze"\n \n1. Armee-Medikits gegen 3 Artefakte "Schleim"</text>
+	</string>
+	<string id="about_repair_box_dialog_0">
+		<text>Hör mal, hast du vielleicht einen Werkzeugkoffer für Repkits?</text>
+	</string>
+	<string id="about_repair_box_dialog_1">
+		<text>Was, hast du deinen eigenen verloren?</text>
+	</string>
+	<string id="about_repair_box_dialog_2">
+		<text>Keine Ahnung, hat wohl jemand geklaut, als ich schlief.</text>
+	</string>
+	<string id="about_repair_box_dialog_3">
+		<text>Scheinst ein Pechvogel zu sein, was? Pech klebt an einem sein Leben lang.</text>
+	</string>
+	<string id="about_repair_box_dialog_4">
+		<text>Pass auf, was du sagst. Ich hab dich ganz normal gefragt.</text>
+	</string>
+	<string id="about_repair_box_dialog_5">
+		<text>Ich hab so ein Kofferchen. Kostet dich 10 "Quallen" mit gleichen Eigenschaften.</text>
+	</string>
+	<string id="about_repair_box_dialog_61">
+		<text>Pffff... Mann. Na gut, einverstanden. Hier.</text>
+	</string>
+	<string id="about_repair_box_dialog_62">
+		<text>Geht's noch?! 10 Stück? Und auch noch gleiche? Sag mir einen vernünftigen Preis.</text>
+	</string>
+	<string id="about_repair_box_dialog_71">
+		<text>Was mir an dir gefällt, Stalker - du zahlst immer was man verlangt. Hier ist dein Koffer.</text>
+	</string>
+	<string id="about_repair_box_dialog_72">
+		<text>Was hast du denn gedacht?! Na gut, aber nur diesmal - sieben!</text>
+	</string>
+	<string id="about_repair_box_dialog_81">
+		<text>Du ziehst mich aus!. Hier, soll's dir in der Kehle steckenbleiben!</text>
+	</string>
+	<string id="about_repair_box_dialog_82">
+		<text>Du kannst mich mal, echt! Ich komm auch ohne aus.</text>
+	</string>
+	<string id="trade_dialog_barman2_0">
+		<text>Ich möchte Reparaturkits kaufen.</text>
+	</string>
+	<string id="trade_dialog_barman2_1">
+		<text>Gegen Artefakte, die noch "frisch" sind, kannst du welche haben.\n \nWas genau brauchst du?</text>
+	</string>
+	<string id="trade_dialog_barman2_2">
+		<text>Was hast du denn da?</text>
+	</string>
+	<string id="trade_dialog_barman2_3">
+		<text>Für die Reparaturen hab ich:\n 1. Repkits für Anzüge gegen "Fleischklumpen" \n 2. Repkits für Waffen gegen "Feuerball".</text>
+	</string>
+	<string id="trade_dialog_barman2_41">
+		<text>Ich brauch was für den Anzug.</text>
+	</string>
+	<string id="trade_dialog_barman2_42">
+		<text>Die für Waffen hab ich nötiger.</text>
+	</string>
+	<string id="trade_dialog_barman2_5">
+		<text>Alles klar, wollte nur dein Angebot wissen.</text>
+	</string>
+	<string id="trade_dialog_barman2_555">
+		<text>Ein anderes Mal vielleicht. Habe grade nicht genug "Währung" dafür.</text>
+	</string>
+	<string id="trade_dialog_barman2_511">
+		<text>Für drei 10%-Anzug-Repkits ein "Fleischklumpen". Einverstanden?</text>
+	</string>
+	<string id="trade_dialog_barman2_5111">
+		<text>Nehme ich, geht ja nicht anders.</text>
+	</string>
+	<string id="trade_dialog_barman2_512">
+		<text>Für drei 10%-Waffen-Repkits ein "Feuerball". Gut?</text>
+	</string>
+	<string id="trade_dialog_barman2_5112">
+		<text>Ja, nehme ich. Die Waffen nutzen sich schnell ab.</text>
+	</string>

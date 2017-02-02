@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+	<string_table>
+		<string id="informer_recipt1">
+			<text>Boah... Hast du die Anzahl der Nullen auch richtig genannt? Na ja, egal, hier ist das Geld. Ich hoffe dieses Rezept ist es wert. Los, lade die Infos schon drauf.</text>
+		</string>
+		<string id="informer_recipt2">
+			<text>Einverstanden.</text>
+		</string>
+		<string id="alenka_info">
+			<text>Tцte mich nicht, bitte! Meine Alцnka wartet auf mich zu Hause...Ich kann dir was wichtiges verraten. WeiЯt du, auf dem Stьtzpunkt war ich nur ein Schreiber, saЯ am Computer, hatte nur mit Dokumenten und Berichten zu tun. Und dann, als unsere Leute anfingen euch Stalker jeden Tag zu dezimieren - hielt ich es nicht mehr aus! Ekelhaft... na ja, darьber wollte ich nicht... Da hab ich mal zufдllig ein Bericht gelesen... na ja, "zufдllig"... eher gehackt... Habs nicht kopiert, aber hab es mir gut eingeprдgt - das war ein Bericht der Eierkцpfe ьber Verдnderungen der Artefakte in Anomalien! Verstehst du?\n \nDa stand das wenn man diese Me... Meso irgendwas... Namens "Ur-Omas Perlen" - so ein blцder Name - nimmt und in die .......... schmeiЯt, dann nach 10 Minuten, glaube ich, ein anderes Artefakt herauskommt! Na ja, wie anderes... Das selbe, aber mit anderen Eigenschaften. Es produziert irgendein Kraftfeld, alles was schnell fliegt, wird spьrbar abgebremst. Ich dachte mir noch so - bestimmt auch die Kugeln! Und es soll noch Blutungen stillen, Gesundheit verbessern, aber strahlt wohl ein wenig. So... Ich hoffe, diese Infos helfen dir mehr als mir... und die sind dir mein Leben wert... Tцte mich nicht, bitte!</text>
+		</string>
+		<string id="enc_recipts">
+			<text>Artefakt-Rezepte</text>
+		</string>
+		<string id="actor">
+			<text>Einzelgдnger</text>
+		</string>
+		<string id="actor_dolg">
+			<text>"Wдchter"</text>
+		</string>
+		<string id="actor_freedom">
+			<text>"Freiheit"</text>
+		</string>
+		<string id="arena_enemy">
+			<text>Sцldner</text>
+		</string>
+		<string id="bad">
+			<text>schlecht</text>
+		</string>
+		<string id="bandit">
+			<text>Bandit</text>
+		</string>
+		<string id="dolg">
+			<text>"Wдchter"</text>
+		</string>
+		<string id="ecolog">
+			<text>Цkologe</text>
+		</string>
+		<string id="enemy">
+			<text>Feind</text>
+		</string>
+		<string id="excellent">
+			<text>ausgezeichnet</text>
+		</string>
+		<string id="exo_outfit_name_m1">
+			<text>Exoskelett PNB-4UZ</text>
+		</string>
+		<string id="experienced">
+			<text>Erfahren</text>
+		</string>
+		<string id="Found_PDA">
+			<text>Данные на КПК</text>
+		</string>
+		<string id="freedom">
+			<text>"Freiheit"</text>
+		</string>
+		<string id="friendly">
+			<text>Freund</text>
+		</string>
+		<string id="good">
+			<text>gut</text>
+		</string>
+		<string id="indifferent">
+			<text>neutral</text>
+		</string>
+		<string id="killer">
+			<text>Sцldner</text>
+		</string>
+		<string id="l01_escape">
+			<text>Kordon</text>
+		</string>
+		<string id="l02_garbage">
+			<text>Mьllhalde</text>
+		</string>
+		<string id="l03_agroprom">
+			<text>Forschungsanlage "Agroprom"</text>
+		</string>
+		<string id="l04_darkvalley">
+			<text>Das Dunkle Tal</text>
+		</string>
+		<string id="l05_bar">
+			<text>Bar</text>
+		</string>
+		<string id="l06_rostok">
+			<text>Bar und Wildgebiet Rostok</text>
+		</string>
+		<string id="l07_military">
+			<text>Armeelagerhдuser</text>
+		</string>
+		<string id="l08_yantar">
+			<text>"Jantar"-See</text>
+		</string>
+		<string id="l10_radar">
+			<text>Radar</text>
+		</string>
+		<string id="l11_pripyat">
+			<text>West-Prypjat</text>
+		</string>
+		<string id="l12_stancia">
+			<text>Tschernobyl AKW AuЯenhof</text>
+		</string>
+		<string id="l12_stancia_2">
+			<text>Tschernobyl AKW</text>
+		</string>
+		<string id="master">
+			<text>Experte</text>
+		</string>
+		<string id="military">
+			<text>Militдr</text>
+		</string>
+		<string id="monolith">
+			<text>"Monolith"</text>
+		</string>
+		<string id="neutral">
+			<text>neutral</text>
+		</string>
+		<string id="novice">
+			<text>Anfдnger</text>
+		</string>
+		<string id="st_no_active_task">
+			<text>Keine laufenden Aufgaben</text>
+		</string>
+		<string id="st_time_till_surge">
+			<text>Zeit bis zur Eruption</text>
+		</string>
+		<string id="stalker">
+			<text>Freier Stalker</text>
+		</string>
+		<string id="terrible">
+			<text>fьrchterlich</text>
+		</string>
+		<string id="trader">
+			<text>Hдndler</text>
+		</string>
+		<string id="ui_st_community">
+			<text>Gruppe</text>
+		</string>
+		<string id="ui_st_price">
+			<text>Preis</text>
+		</string>
+		<string id="ui_st_rank">
+			<text>Rang</text>
+		</string>
+		<string id="ui_st_relation">
+			<text>Gesinnung</text>
+		</string>
+		<string id="ui_st_reputation">
+			<text>Ruf</text>
+		</string>
+		<string id="very_bad">
+			<text>sehr schlecht</text>
+		</string>
+		<string id="very_good">
+			<text>sehr gut</text>
+		</string>
+		<string id="veteran">
+			<text>Veteran</text>
+		</string>
+		<string id="zombied">
+			<text>Zombie</text>
+		</string>
+		<string id="Btn_Cancel">
+			<text>Abbrechen</text>
+		</string>
+		<string id="Btn_No">
+			<text>Nein</text>
+		</string>
+		<string id="Btn_OK">
+			<text>OK</text>
+		</string>
+		<string id="Btn_Yes">
+			<text>Ja</text>
+		</string>
+		<string id="global_map">
+			<text>Karte der Zone</text>
+		</string>
+		<string id="st_autosave">
+			<text>Automatisches Speichern</text>
+		</string>
+		<string id="st_game_over">
+			<text>Das Spiel aus ist aus</text>
+		</string>
+		<string id="st_item_used">
+			<text>Benutzt</text>
+		</string>
+		<string id="st_not_enough_money">
+			<text>Geld reicht nicht aus</text>
+		</string>
+		<string id="st_not_enough_money_npc">
+			<text>Der Kдufer hat nicht genug Geld</text>
+		</string>
+		<string id="ui_st_opponent_items">
+			<text>Seine Objekte</text>
+		</string>
+		<string id="st_search_treasure">
+			<text>Das Versteck durchsuchen ($$ACTION_USE$$)</text>
+		</string>
+		<string id="inventory_item_use">
+			<text>Objekt aufheben ($$ACTION_USE$$)</text>
+		</string>
+		<string id="ui_mm_check_updates">
+			<text>Updates suchen</text>
+		</string>
+		<string id="ui_mm_alternative">
+			<text>Alternative</text>
+		</string>
+		<string id="ui_inv_health">
+			<text>Gesundheit</text>
+		</string>
+		<string id="ui_inv_radiation">
+			<text>Strahlung</text>
+		</string>
+		<string id="ui_inv_satiety">
+			<text>Hunger</text>
+		</string>
+		<string id="ui_inv_power">
+			<text>Ausdauer</text>
+		</string>
+		<string id="ui_inv_bleeding">
+			<text>Blutung</text>
+		</string>
+		<string id="st_mp_say_to_all">
+			<text>An alle</text>
+		</string>
+		<string id="st_mp_say_to_team">
+			<text>An Team</text>
+		</string>
+		<string id="st_knife">
+			<text>Messer</text>
+		</string>
+		<string id="st_mp_disabled_voting">
+			<text>Abstimmungen sind auf diesem Server nicht verfьgbar.</text>
+		</string>
+		<string id="st_mp_no_current_voting">
+			<text>Keine aktiven Abstimmungen.</text>
+		</string>
+		<string id="st_mp_ready">
+			<text>Bereit</text>
+		</string>
+		<string id="st_mp_voting_succeed">
+			<text>Abstimmung erfolgreich!</text>
+		</string>
+		<string id="st_mp_voting_failed">
+			<text>Abstimmung gescheitert!</text>
+		</string>
+		<string id="l03u_agr_underground">
+			<text>"Agroprom"-Untergrund</text>
+		</string>
+		<string id="l04u_labx18">
+			<text>Labor X-18</text>
+		</string>
+		<string id="l08u_brainlab">
+			<text>Labor X-16</text>
+		</string>
+		<string id="l10u_bunker">
+			<text>Labor X-10</text>
+		</string>
+		<string id="l12u_sarcofag">
+			<text>Sarkophag</text>
+		</string>
+		<string id="l12u_control_monolith">
+			<text>AKW-Steuerungsbunker</text>
+		</string>
+	</string_table>

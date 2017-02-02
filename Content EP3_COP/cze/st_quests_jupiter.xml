@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="jup_a10_actor_agree_back_vano_duties_name">
+		<text>Dluhy: odnes penнze banditum</text>
+	</string>
+	<string id="jup_a10_actor_agree_back_vano_duties_text">
+		<text>Vбno dluћн banditum penнze za oblek a nemuћe je splatit, nebot ъroky narustajн prнliљ rychle. Poћбdal te, abys za nej problйm vyreљil.</text>
+	</string>
+	<string id="jup_a10_actor_back_vano_duties_name">
+		<text>Dluhy: vrat se k Vбnovi</text>
+	</string>
+	<string id="jup_a10_actor_back_vano_duties_text">
+		<text>Rekni Vбnovi, ћe splбcenн dluhu uћ nenн nutnй</text>
+	</string>
+	<string id="jup_a10_kill_all_bandit_name">
+		<text>Dluhy: porad si s bandity</text>
+	</string>
+	<string id="jup_a10_kill_all_bandit_text">
+		<text>Splбcenн Vбnovэch dluhu se zkomplikovalo. Vyrid bandity.</text>
+	</string>
+	<string id="jup_a12_free_prisoner_get_reward_name">
+		<text>Rukojmн: vyzvedni si odmenu u Mitjajovэch prбtel</text>
+	</string>
+	<string id="jup_a12_free_prisoner_get_reward_text">
+		<text>Mitjaj byl osvobozen. Setkej se v baru s jeho prбteli, aby sis vyzvedl svou odmenu.</text>
+	</string>
+	<string id="jup_a12_free_prisoner_name">
+		<text>Rukojmн: osvobod Mitjaje</text>
+	</string>
+	<string id="jup_a12_free_prisoner_not_ready_name">
+		<text>Rukojmн: promluv si s Grizzlym a ujisti se, ћe je pripraven</text>
+	</string>
+	<string id="jup_a12_free_prisoner_not_ready_text">
+		<text>Pred pokusem o osvobozenн rukojmнho si musнљ promluvit s Grizzlym</text>
+	</string>
+	<string id="jup_a12_free_prisoner_power_name">
+		<text>Rukojmн: osvobod Mitjaje silou</text>
+	</string>
+	<string id="jup_a12_free_prisoner_power_text">
+		<text>Musнљ zlikvidovat bandity a osvobodit stalkera jmйnem Mitjaj.</text>
+	</string>
+	<string id="jup_a12_free_prisoner_power_wait_name">
+		<text>Rukojmн: setkej se se stalkery</text>
+	</string>
+	<string id="jup_a12_free_prisoner_power_wait_text">
+		<text>Stalkeri ti pomohou osvobodit rukojmн. V noci se s nimi musнљ setkat a spolecne zaъtocit na bandity.</text>
+	</string>
+	<string id="jup_a12_free_prisoner_ransom_name">
+		<text>Rukojmн: domluv platbu vэkupnйho za propuљtenн Mitjaje</text>
+	</string>
+	<string id="jup_a12_free_prisoner_ransom_text">
+		<text>Domluv s vudcem banditu platbu vэkupnйho za propuљtenн stalkera zvanйho Mitjaj.</text>
+	</string>
+	<string id="jup_a12_free_prisoner_text">
+		<text>Osvobod stalkera zvanйho Mitjaj, kterйho drћн banditi jako rukojmнho.</text>
+	</string>
+	<string id="jup_a12_guide_prisoner_name">
+		<text>Rukojmн: vyved Mitjaje z tбbora banditu</text>
+	</string>
+	<string id="jup_a12_guide_prisoner_text">
+		<text>Prochбzenн tбborem banditu je prнliљ nebezpecnй. Musнљ z nej Mitjaje vyvйst.</text>
+	</string>
+	<string id="jup_a12_talk_with_prisoner_name">
+		<text>Rukojmн: promluvsi s Mitjajem</text>
+	</string>
+	<string id="jup_a12_talk_with_prisoner_text">
+		<text>Mitjaj je v relativnнm bezpecн. Promluv si s nнm o jeho dalљнch krocнch.</text>
+	</string>
+	<string id="jup_a9_way_to_pripyat_tech_name">
+		<text>Cesta do Pripjati: promluv si s technikem o podjezdu</text>
+	</string>
+	<string id="jup_a9_way_to_pripyat_tech_text">
+		<text>Nalezenй dokumenty se jasne zminujн o podzemnнm podjezdu nachбzejнcнm se pod tovбrnou Jupiter, kterэ vede do Pripjati. Podjezd je bez proudu, je naplnen plynem a vstup do nej byl zablokovбn. Musнљ najнt technika, kterэ dokбћe nahodit generбtor a odemknout vchod do podjezdu.</text>
+	</string>
+	<string id="jup_b10_ufo_memory_at_text">
+		<text>Pametovэ modul je v rukou odbornнku. Musнљ pockat, aћ bude odblokovбn.</text>
+	</string>
+	<string id="jup_b10_ufo_memory_name">
+		<text>UAV: odblokuj pametovэ modul</text>
+	</string>
+	<string id="jup_b10_ufo_memory_nitro_name">
+		<text>UAV: vyzvedni si u Nitrбka pametovэ modul</text>
+	</string>
+	<string id="jup_b10_ufo_memory_novikov_name">
+		<text>UAV: vyzvedni si u Novikova pametovэ modul</text>
+	</string>
+	<string id="jup_b10_ufo_memory_repaired_by_nitro_text">
+		<text>Nitrбk odblokoval pametovэ modul. Mel by sis ho vyzvednout a zjistit, jakй informace obsahuje.</text>
+	</string>
+	<string id="jup_b10_ufo_memory_repaired_by_novikov_text">
+		<text>Novikov odblokoval pametovэ modul. Mel by sis ho vyzvednout a zjistit, jakй informace obsahuje.</text>
+	</string>
+	<string id="jup_b10_ufo_memory_started_text">
+		<text>Z UAV jsi dokбzal zachrбnit pametovэ modul. Aby ses dostal k informacнm, kterй obsahuje, musнљ jej odblokovat.</text>
+	</string>
+	<string id="jup_b10_ufo_memory_wait_name">
+		<text>UAV: pockej, aћ bude pametovэ modul odblokovбn</text>
+	</string>
+	<string id="jup_b16_oasis_art_name">
+		<text>Oбza: najdi dukaz</text>
+	</string>
+	<string id="jup_b16_oasis_art_text">
+		<text>Oбza byla nalezena a opravdu mб lйcebnй vlastnosti. Musнљ najнt dukaz o jejн existenci, kterэ budeљ moci prinйst vedcum.</text>
+	</string>
+	<string id="jup_b16_oasis_artifact_back_name">
+		<text>Oбza: prines dukaz vedcum</text>
+	</string>
+	<string id="jup_b16_oasis_artifact_back_text">
+		<text>Oбza byla nalezena a opravdu mб lйcebnй vlastnosti. Musнљ vzнt artefakt, kterэ jsi v nн nalezl a donйst ho vedcum.</text>
+	</string>
+	<string id="jup_b16_oasis_name">
+		<text>Oбza: zjisti, zda je legenda pravdivб</text>
+	</string>
+	<string id="jup_b16_oasis_text">
+		<text>Ozersky, vedec z bunkru, te poћбdal, aby ses pokusil nalйzt legendбrnн oblast Zуny zvanou Oбza. Podle povestн by se v nн mela nachбzet lйcivб voda, ale nikdo s urcitostн nevн, zda Oбza existuje ci nikoliv.</text>
+	</string>
+	<string id="jup_b19_agreed_to_go_name">
+		<text>Kopaci: jsi se Strejdou Jarem</text>
+	</string>
+	<string id="jup_b19_agreed_to_go_text">
+		<text>Strejda Jar s necнm potrebuje pomoct. Zajdi za nнm do vesnice Kopaci.</text>
+	</string>
+	<string id="jup_b19_destroy_mercs_name">
+		<text>Kopaci: zlikviduj ћoldбky</text>
+	</string>
+	<string id="jup_b19_destroy_mercs_text">
+		<text>Zdб se, ћe Strejda Jar ocekбvб prнchod ћoldбku. Musнљ je zlikvidovat.</text>
+	</string>
+	<string id="jup_b19_following_yar_name">
+		<text>Kopaci: zustan poblнћ Strejdy Jara</text>
+	</string>
+	<string id="jup_b19_following_yar_text">
+		<text>Kopaci: promluv si se Strejdou Jarem</text>
+	</string>
+	<string id="jup_b19_talk_to_yar_name">
+		<text>Kopaci: promluv si se Strejdou Jarem</text>
+	</string>
+	<string id="jup_b19_talk_to_yar_text">
+		<text>Ћoldбci jsou mrtvн. Mel by sis promluvit se Strejdou Jarem a zjistit, co se vlastne stalo.</text>
+	</string>
+	<string id="jup_b1_bring_art_back_name">
+		<text>Promenlivй psн-zбrenн: odnes anomбlnн ъtvar vedcum</text>
+	</string>
+	<string id="jup_b1_bring_art_back_text">
+		<text>Dones nalezenэ vzorek Hermanovi. Zdб se, ћe jde o vzorek promenlivйho psн-zбrenн cбstecne pretvorenэ vlivem vystavenн ъcinkum anomбlie.</text>
+	</string>
+	<string id="jup_b1_get_art_name">
+		<text>Strнdavй psн-zбrenн: prozkoumej zdroj</text>
+	</string>
+	<string id="jup_b1_get_art_text">
+		<text>Zjisti, zda se v tunelu nenachбzн nejakэ druh anomбlnнho ъtvaru. Vedci se domnнvajн, ћe strнdavй psн-zбrenн vychбzн ze zdroje podobnйho artefaktu.</text>
+	</string>
+	<string id="jup_b1_join_squad_name">
+		<text>Strнdavй psн-zбrenн: setkej se s Topolovэmi lidmi</text>
+	</string>
+	<string id="jup_b1_join_squad_text">
+		<text>Topolova jednotka vstoupila do tunelu se strнdavэm psн-zбrenнm, musнљ se tam s nн sejнt.</text>
+	</string>
+	<string id="jup_b1_meet_squad_name">
+		<text>Strнdavй psн-zбrenн: promluv si s Topolem</text>
+	</string>
+	<string id="jup_b1_meet_squad_text">
+		<text>Pripoj se k Topolove jednotce, abys s nн vstoupil do tunelu s vэskytem strнdavйho psн-zбrenн. Bylo dohodnuto, ћe zatнmco budeљ hledat neco, co bys mohl donйst vedcum, stalkeri budou hlнdat vstup do tunelu.</text>
+	</string>
+	<string id="jup_b200_tech_materials_brought_all_text">
+		<text>Mel bys donйst vљechny soucбstky k rбdiu, kterй jsi naљel, Nitrбkovi.</text>
+	</string>
+	<string id="jup_b200_tech_materials_brought_some_text">
+		<text>Nitrбk potrebuje soucбstky k rбdiu. Muћeљ mu dбt ty, kterй uћ jsi zнskal, nebo se pokusit najнt dalљн.</text>
+	</string>
+	<string id="jup_b200_tech_materials_name">
+		<text>Rбdio: najdi soucбstky pro Nitrбka</text>
+	</string>
+	<string id="jup_b200_tech_materials_text">
+		<text>Nitrбk potrebuje soucбstky k rбdiu. Rнkб, ћe by ses po nich mel podнvat v cementбrne.</text>
+	</string>
+	<string id="jup_b202_actor_items_stolen_01_name">
+		<text>Krбdeћ: zjisti, kdo je za krбdeћ zodpovednэ</text>
+	</string>
+	<string id="jup_b202_actor_items_stolen_01_text">
+		<text>Zeptej se stalkeru v Janove, zda nevideli nekoho podezrelйho, kdo by mohl stбt za ukradenэmi vecmi z osobnн schrбnky.</text>
+	</string>
+	<string id="jup_b202_actor_items_stolen_02_name">
+		<text>Krбdeћ: prozkoumej rozvodnu</text>
+	</string>
+	<string id="jup_b202_actor_items_stolen_02_text">
+		<text>Musнљ prozkoumat rozvodnu, nebot prбve tam mнril podezrelэ stalker, kterэ by mohl bэt zodpovednэ za krбdeћ.</text>
+	</string>
+	<string id="jup_b202_actor_items_stolen_03_name">
+		<text>Krбdeћ: vem si svй veci</text>
+	</string>
+	<string id="jup_b202_actor_items_stolen_03_text">
+		<text>Vљechny veci, kterй Pahejl ukradl, by mely bэt v jeho skrэљi ve stoce za rozvodnou.</text>
+	</string>
+	<string id="jup_b206_anomalous_grove_get_plant_name">
+		<text>Podivnб rostlina: seћen vzorek rostliny</text>
+	</string>
+	<string id="jup_b206_anomalous_grove_get_plant_text">
+		<text>Poblнћ okraje lomu se objevila oblast plnб podivnэch rostlin. Ozersky te poћбdal, abys sehnal vzorek rostliny pro jeho vэzkum.</text>
+	</string>
+	<string id="jup_b206_anomalous_grove_have_plant_name">
+		<text>Podivnб rostlina: predej vzorek Ozerskйmu</text>
+	</string>
+	<string id="jup_b206_anomalous_grove_have_plant_text">
+		<text>Musнљ odnйst vzorek rostliny Ozerskйmu. Ozersky na oplбtku presvedcн Hermana, aby ti predal vedeckэ oblek.</text>
+	</string>
+	<string id="jup_b208_burers_hunt_kill_burers_name">
+		<text>Lov: zlikviduj neznбmй mutanty</text>
+	</string>
+	<string id="jup_b208_burers_hunt_kill_burers_text">
+		<text>Skupina stalkeru narazila v tunelech severne od tovбrny Jupiter na neznбmэ druh mutantu. Prozkoumej oblast a zlikviduj mutanty.</text>
+	</string>
+	<string id="jup_b208_burers_hunt_take_reward_name">
+		<text>Lov: vyzvedni si u Pastickбre odmenu za zabitн mutantu v tunelu</text>
+	</string>
+	<string id="jup_b208_burers_hunt_take_reward_text">
+		<text>Mutanti v tunelech severne od tovбrny Jupiter byli zlikvidovбni. Mel bys to rнct Pastickбri a vyzvednout si svou odmenu.</text>
+	</string>
+	<string id="jup_b209_hypotheses_1_name">
+		<text>Domnenka: poloћ skener do stredu sesuvu</text>
+	</string>
+	<string id="jup_b209_hypotheses_1_text">
+		<text>Poloћ skener do stredu sesuvu, abys otestoval Ozerskйho domnenku.</text>
+	</string>
+	<string id="jup_b209_hypotheses_2_name">
+		<text>Domnenka: pockej, aћ experiment skoncн</text>
+	</string>
+	<string id="jup_b209_hypotheses_2_text">
+		<text>Skener se v soucasnй dobe nachбzн v aktivnнm reћimu a zacal zaznamenбvat prнtomnost mutantu. Nynн musнљ cekat, dokud nebude zнskбno dostatecnй mnoћstvн dat pro potvrzenн nebo vyvrбcenн domnenky.</text>
+	</string>
+	<string id="jup_b209_hypotheses_3_name">
+		<text>Domnenka: seber skener</text>
+	</string>
+	<string id="jup_b209_hypotheses_3_text">
+		<text>Bylo shromбћdeno dostatecnй mnoћstvн dat pro potvrzenн Ozerskйho hypotйzy. Seber skener.</text>
+	</string>
+	<string id="jup_b209_hypotheses_4_name">
+		<text>Domnenka: dej skener Ozerskйmu</text>
+	</string>
+	<string id="jup_b209_hypotheses_4_text">
+		<text>Musнљ predat skener Ozerskйmu. Na zбklade shromбћdenэch dat by mel bэt schopen potvrdit svou hypotйzu.</text>
+	</string>
+	<string id="jup_b211_kill_bloodsuckers_name">
+		<text>Lov: zabij upнry v baћinбch</text>
+	</string>
+	<string id="jup_b211_kill_bloodsuckers_text">
+		<text>V baћine, za cementбrnou, byla spatrena skupina upнru. Mнstnн stalkeri te poћбdali, abys je zlikvidoval.</text>
+	</string>
+	<string id="jup_b211_take_reward_name">
+		<text>Lov: vyzvedni si u Pastickбre svou odmenu za zabitн upнru</text>
+	</string>
+	<string id="jup_b211_take_reward_text">
+		<text>Upнri jsou mrtvн. Mel by sis u Pastickбre vyzvednout odmenu, kterou za jejich zabitн vypsali mнstnн stalkeri.</text>
+	</string>
+	<string id="jup_b212_jupiter_kill_chimera_name">
+		<text>Nocnн lov: zabij chimйru</text>
+	</string>
+	<string id="jup_b212_jupiter_kill_chimera_text">
+		<text>Chimйry jsou nocnн predбtori a nikdo netuљн, kde leћн jejich hnнzdo. Musнљ si na ni pocнhat v noci, kdy pres vetracн potrubн vychбzн na lov.</text>
+	</string>
+	<string id="jup_b212_jupiter_tell_animalboy_about_chimera_name">
+		<text>Nocnн lov: rekni Pastickбri, ћe chimйra je mrtvб</text>
+	</string>
+	<string id="jup_b212_jupiter_tell_animalboy_about_chimera_text">
+		<text>Zabijбckб chimйra je mrtvб a lovec Liљбk tak byl pomsten. Rekni o tom Pastickбri.</text>
+	</string>
+	<string id="jup_b217_get_tools_1_2_name">
+		<text>Nбradн: prines Nitrбkovi nбradн</text>
+	</string>
+	<string id="jup_b217_get_tools_1_2_text">
+		<text>Nitrбk te poћбdal, abys mu sehnal dve sady nбradн: jednu pro zбkladnн ъkony a druhou pro jemnou prбci. Technik ti za nбradн zaplatн a bude s nнm schopen provбdet pokrocilejљн ъpravy zbranн a zbroje.</text>
+	</string>
+	<string id="jup_b217_get_tools_1_3_name">
+		<text>Nбradн: prines Nitrбkovi nбradн</text>
+	</string>
+	<string id="jup_b217_get_tools_1_3_text">
+		<text>Nitrбk te poћбdal, abys mu sehnal dve sady nбradн: jednu pro zбkladnн ъkony a druhou pro kalibraci. Technik ti za nбradн zaplatн a bude s nнm schopen provбdet pokrocilejљн ъpravy zbranн a zbroje.</text>
+	</string>
+	<string id="jup_b217_get_tools_1_name">
+		<text>Nбradн: prines Nitrбkovi nбradн</text>
+	</string>
+	<string id="jup_b217_get_tools_1_text">
+		<text>Nitrбk te poћбdal, abys mu sehnal sadu nбradн pro zбkladnн pracovnн ъkony. Technik ti za nбradн zaplatн a bude s nнm schopen provбdet pokrocilejљн ъpravy zbranн a zbroje.</text>
+	</string>
+	<string id="jup_b217_get_tools_2_3_name">
+		<text>Nбradн: prines Nitrбkovi nбradн</text>
+	</string>
+	<string id="jup_b217_get_tools_2_3_text">
+		<text>Nitrбk te poћбdal, abys mu sehnal dve sady nбradн: jednu pro jemnou prбci a druhou pro kalibraci. Technik ti za nбradн zaplatн a bude s nнm schopen provбdet pokrocilejљн ъpravy zbranн a zbroje.</text>
+	</string>
+	<string id="jup_b217_get_tools_2_name">
+		<text>Nбradн: prines Nitrбkovi nбradн</text>
+	</string>
+	<string id="jup_b217_get_tools_2_text">
+		<text>Nitrбk te poћбdal, abys mu sehnal sadu nбradн pro jemnй pracovnн ъkony. Technik ti za nбradн zaplatн a bude s nнm schopen provбdet pokrocilejљн ъpravy zbranн a zbroje.</text>
+	</string>
+	<string id="jup_b217_get_tools_3_name">
+		<text>Nбradн: prines Nitrбkovi nбradн</text>
+	</string>
+	<string id="jup_b217_get_tools_3_text">
+		<text>Nitrбk te poћбdal, abys mu sehnal sadu nбradн pro kalibraci. Technik ti za nбradн zaplatн a bude s nнm schopen provбdet pokrocilejљн ъpravy zbranн a zbroje.</text>
+	</string>
+	<string id="jup_b217_mechanic_toolkit_search_name">
+		<text>Nбradн: prines Nitrбkovi nбradн</text>
+	</string>
+	<string id="jup_b217_mechanic_toolkit_search_text">
+		<text>Nitrбk te poћбdal, abys mu sehnal tri sady nбradн: jednu pro zбkladnн pracovnн ъkony, druhou pro jemnou prбci a tretн pro kalibraci. Technik ti za nбradн zaplatн a bude s nнm schopen provбdet pokrocilejљн ъpravy zbranн a zbroje.</text>
+	</string>
+	<string id="jup_b218_actor_outfit_name">
+		<text>Pripjat 1: najdi oblek s uzavrenэm dэchacнm okruhem</text>
+	</string>
+	<string id="jup_b218_actor_outfit_text">
+		<text>Aby ses dostal pres podjezd Pripjat 1, musнљ sehnat oblek s uzavrenэm dэchacнm okruhem. Podjezd je totiћ plnэ slouceniny oxidu uhlicitйho s neznбmou lбtkou.</text>
+	</string>
+	<string id="jup_b218_monolith_guide_to_zulus_name">
+		<text>Pripjat 1: doved Tulбka k Zulusovi.</text>
+	</string>
+	<string id="jup_b218_monolith_guide_to_zulus_text">
+		<text>Musнљ dovйst Tulбka k Zulusovi a predstavit ho jako novйho clena jednotky. Zulus by nebyl nadљenэ, kdyby se u nej objevil osamelэ bojovnнk v obleku Monolitu.</text>
+	</string>
+	<string id="jup_b218_monolith_name">
+		<text>Pripjat 1: promluv si s Tulбkem ohledne ochrannйho obleku</text>
+	</string>
+	<string id="jup_b218_monolith_text">
+		<text>Podjezd Pripjat 1 je plnэ slouceniny oxidu uhlicitйho a neznбmй lбtky. Musнљ rнct Tulбkovi, ћe pokud chce podjezdem projнt, bude potrebovat oblek s uzavrenэm dэchacнm obvodem.</text>
+	</string>
+	<string id="jup_b218_pripyat_group_gathering_name">
+		<text>Pripjat 1: sestav jednotku, se kterou se vydбљ do Pripjati</text>
+	</string>
+	<string id="jup_b218_pripyat_group_gathering_text">
+		<text>Nitrбk dokбzal prekonat zбmek na vchodu do podjezdu Pripjat 1, ale bez ochrany s tebou odmнtб pokracovat do tovбrny Jupiter. Doporucuje, abys sehnal pбr lidн na cestu podjezdem. Zulus, kterэ uћ je s tebou, navrhuje, abys novй rekruty posнlal za nнm.</text>
+	</string>
+	<string id="jup_b218_pripyat_group_zulus_talk_name">
+		<text>Pripjat 1: promluv si se Zulusem o ceste do Pripjati</text>
+	</string>
+	<string id="jup_b218_pripyat_group_zulus_talk_text">
+		<text>Nitrбk dokбzal prekonat zбmek na vchodu do podjezdu Pripjat 1, ale bez ochrany s tebou odmнtб pokracovat do tovбrny Jupiter. Doporucuje, abys sehnal pбr lidн na cestu podjezdem a navrhuje, aby sis promluvil se Zulusem, kterэ by ti mohl pomoci se sloћenнm jednotky.</text>
+	</string>
+	<string id="jup_b218_soldier_guide_to_zulus_name">
+		<text>Pripjat 1: doved Sokolova k Zulusovi</text>
+	</string>
+	<string id="jup_b218_soldier_guide_to_zulus_text">
+		<text>Sokolov souhlasil s cestou do Pripjati a z bunkru by si mohl vzнt vedeckэ oblek. Mel bys ho zavйst k Zulusovi a predstavit ho jako novйho clena tэmu.</text>
+	</string>
+	<string id="jup_b218_soldier_name">
+		<text>Pripjat 1: promluv si se Sokolovem o ochrannйm obleku</text>
+	</string>
+	<string id="jup_b218_soldier_talk_to_scientist_name">
+		<text>Pripjat 1: promluv si s Ozerskэm o obleku pro Sokolova</text>
+	</string>
+	<string id="jup_b218_soldier_talk_to_scientist_text">
+		<text>Sokolov si chce kvuli svй ochrane chce vzнt vedeckэ oblek, ale Herman pravdepodobne nedovolн, aby s nнm opustil bunkr. Mel by sis promluvit s Ozerskэm – je prнjemnejљн a lйpe se s nнm vyjednбvб.</text>
+	</string>
+	<string id="jup_b218_soldier_tell_outfit_name">
+		<text>Pripjat 1: rekni Sokolovi o vedeckйm obleku</text>
+	</string>
+	<string id="jup_b218_soldier_tell_outfit_text">
+		<text>Ozersky je nadљen vzorkem rostliny. Poћбdal te, abys Sokolovovi vyrнdil, ћe si u Hermana muћe vyzvednout svuj vedeckэ oblek.</text>
+	</string>
+	<string id="jup_b218_soldier_text">
+		<text>Podjezd Pripjat 1 je plnэ slouceniny oxidu uhlicitйho a neznбmй lбtky. Musнљ rнct Sokolovovi, ћe pokud chce podjezdem projнt, bude potrebovat oblek s uzavrenэm dэchacнm obvodem.</text>
+	</string>
+	<string id="jup_b218_stalker_bring_money_name">
+		<text>Pripjat 1: seћen Vбnovi penнze na oblek</text>
+	</string>
+	<string id="jup_b218_stalker_bring_money_text">
+		<text>Oblek, za kterэ Vбno dluћil penнze banditum, disponoval uzavrenэm dэchacнm okruhem. Vбno ho vљak musel zastavit, aby splatil svй dluhy. Pro jeho zpetnэ odkup potrebuje 3000.</text>
+	</string>
+	<string id="jup_b218_stalker_guide_to_zulus_name">
+		<text>Pripjat 1: doved Vбna k Zulusovi</text>
+	</string>
+	<string id="jup_b218_stalker_guide_to_zulus_text">
+		<text>Vбno je ochoten jнt do Pripjati. Musнљ ho dovйst k Zulusovi a predstavit jej jako novйho clena tэmu. Cestou si Vбno muћe koupit nazpet svuj oblek.</text>
+	</string>
+	<string id="jup_b218_stalker_name">
+		<text>Pripjat 1: promluv si s Vбnem o ochrannйm obleku</text>
+	</string>
+	<string id="jup_b218_stalker_text">
+		<text>Podjezd Pripjat 1 je plnэ slouceniny oxidu uhlicitйho a neznбmй lбtky. Musнљ rнct Vбnovi, ћe pokud chce podjezdem projнt, bude potrebovat oblek s uzavrenэm dэchacнm obvodem.</text>
+	</string>
+	<string id="jup_b25_accuse_flint_end_text">
+		<text>Pazourek alias Strakбc je pekne podlб svine. Mel bys o nem rнct ostatnнm stalkerum v Zatonu nebo z ostatnнch frakcн a dбt mu tak porбdnou lekci.</text>
+	</string>
+	<string id="jup_b25_accuse_flint_first_text">
+		<text>Pazourek se vyloћene chvбstб a mluvн o vecech, kterй nikdy nevidel. Bylo by dobrй, aby jeho lћi vyљly na povrch.</text>
+	</string>
+	<string id="jup_b25_accuse_flint_name">
+		<text>Vэmysly: porad si s Pazourkem</text>
+	</string>
+	<string id="jup_b25_accuse_flint_second_text">
+		<text>Pazourek si sproste privlastnuje zбsluhy druhэch. Mel by se naucit vбћit slova.</text>
+	</string>
+	<string id="jup_b25_accuse_flint_third_text">
+		<text>Pazourkovo vychloubбnн jiћ presбhlo hranice – mel by sis s nнm promluvit a durazne mu sdelit svuj nбzor.</text>
+	</string>
+	<string id="jup_b25_senya_accuse_flint_text">
+		<text>Pazourek alias Strakбc je pekne podlб svine. Mel bys o nem rнct ostatnнm stalkerum v Zatonu nebo ostatnнch frakcнch a porбdne se mu tak pomstнt.</text>
+	</string>
+	<string id="jup_b32_get_scanners_task_name">
+		<text>Vэzkum anomбlie: vyzvedni si skenery u technika</text>
+	</string>
+	<string id="jup_b32_get_scanners_task_text">
+		<text>Seћen skenery od Novikova. Herman chce shromбћdit statistickб data o artefaktu, z toho duvodu je potreba umнstit skenery do stredu nekolika artefaktu.</text>
+	</string>
+	<string id="jup_b32_task_name">
+		<text>Vэzkum anomбlie: poloћ skener do anomбlie</text>
+	</string>
+	<string id="jup_b32_task_reward_name">
+		<text>Vэzkum anomбlie: vyzvedni si svou odmenu</text>
+	</string>
+	<string id="jup_b32_task_reward_text">
+		<text>Vyzvedni si odmenu slнbenou za umнstenн skeneru do anomбliн. Ted, kdyћ jsou skenery na svэch mнstech, Herman muћe zahбjit sber dat z techto ъtvaru.</text>
+	</string>
+	<string id="jup_b32_task_text">
+		<text>Poloћ skener do stredu anomбlie. Herman chce shromбћdit potrebnб data z anomбlie a skenery proto musн bэt poloћeny do stredu nekolika anomбliн.</text>
+	</string>
+	<string id="jup_b43_bring_fuzz_kolobok_name">
+		<text>Smlouva s vedci: prines Garikovi artefakt Koblнћek</text>
+	</string>
+	<string id="jup_b43_bring_fuzz_kolobok_text">
+		<text>Aby Garik splnil svou cбst dohody s vedci, musн zнskat artefakt Koblнћek. Prines mu jej.</text>
+	</string>
+	<string id="jup_b43_bring_mincer_meat_name">
+		<text>Smlouva s vedci: prines Garikovi artefakt Masovб kulicka</text>
+	</string>
+	<string id="jup_b43_bring_mincer_meat_text">
+		<text>Aby Garik splnil svou cбst dohody s vedci, musн zнskat artefakt Masovб kulicka. Prines mu jej.</text>
+	</string>
+	<string id="jup_b43_contract_started_name">
+		<text>Smlouva s vedci: prines Garikovi artefakty Masovб kulicka a Koblнћek</text>
+	</string>
+	<string id="jup_b43_contract_started_text">
+		<text>Aby Garik splnil svou cбst dohody s vedci, musн zнskat artefakty Masovб kulicka a Koblнћek. Prines mu je.</text>
+	</string>
+	<string id="jup_b43_thanks_for_2_artifacts_name">
+		<text>Smlouva s vedci: artefakt dorucen</text>
+	</string>
+	<string id="jup_b43_thanks_for_2_artifacts_text">
+		<text>Gary zнskal oba artefakty a splnil svou cбst dohody</text>
+	</string>
+	<string id="jup_b46_duty_founder_pda_name">
+		<text>Historie Povinnosti: predej zбjemcum PDA zakladatele Povinnosti</text>
+	</string>
+	<string id="jup_b46_duty_founder_pda_text">
+		<text>Naљel jsi osobnн PDA zakladatele Povinnosti, kterэ zemrel v anomбlii. Mel bys toto PDA dбt nekomu, koho by mohly zajнmat poslednн okamћiky otce frakce.</text>
+	</string>
+	<string id="jup_b46_spatial_bubble_name">
+		<text>Anomбlnн aktivita: prozkoumej oblast pomocн vylepљenйho detektoru</text>
+	</string>
+	<string id="jup_b46_spatial_bubble_text">
+		<text>Skenery vedcu zaregistrovaly anomбlnн aktivitu severne od bunkru. Pomocн vylepљenйho detektoru oblast prozkoumej.</text>
+	</string>
+	<string id="jup_b47_bunker_guards_01_name">
+		<text>Ochrana vedcu: najdi spolehlivй lidi</text>
+	</string>
+	<string id="jup_b47_bunker_guards_01_text">
+		<text>Bunkr vedcu nenн nijak chrбnen. Musнљ najнt spolehlivй lidi, kterн by jej hlнdali.</text>
+	</string>
+	<string id="jup_b47_bunker_guards_02_name">
+		<text>Ochrana vedcu: vrat se k Hermanovi pro svou odmenu</text>
+	</string>
+	<string id="jup_b47_bunker_guards_02_text">
+		<text>Naљel jsi strбћe pro bunkr vedcu. Mel by ses vrбtit k Hermanovi a vyzvednout si svou zaslouћenou odmenu.</text>
+	</string>
+	<string id="jup_b47_jupiter_products_01_name">
+		<text>Poslednн vэvoj: najdi dokumenty v tovбrne Jupiter</text>
+	</string>
+	<string id="jup_b47_jupiter_products_01_text">
+		<text>Hermana zajнmб poslednн vэvoj v tovбrne Jupiter. Prozkoumej administrativnн oblast tovбrny a najdi dokumenty.</text>
+	</string>
+	<string id="jup_b47_jupiter_products_02_name">
+		<text>Poslednн vэvoj: dones dokumenty Hermanovi</text>
+	</string>
+	<string id="jup_b47_jupiter_products_02_text">
+		<text>Nalezenй dokumenty naznacujн, ћe veљkerб technickб dokumentace byla premнstena mimo tovбrnu. Nezjistil jsi mnoho, presto bys mel informovat Hermana.</text>
+	</string>
+	<string id="jup_b47_jupiter_products_03_name">
+		<text>Poslednн vэvoj: dones Hermanovi dokumenty a Љpнnovo PDA</text>
+	</string>
+	<string id="jup_b47_jupiter_products_03_text">
+		<text>Pri hledбnн dokumentu na tebe zaъtocili ћoldбci. Podle PDA, kterй jsi naљel u jejich velitele Љpнny, dostali rozkaz zabrбnit vedcum v hledбnн dokumentu. Navнc jsi zjistil, ћe veљkerб technickб dokumentace byla premнstena mimo tovбrnu. Mel bys o tom rнct Hermanovi a ukбzat mu Љpнnovo PDA.</text>
+	</string>
+	<string id="jup_b4_monolith_squad_help_name">
+		<text>Pozustalн Monolitu: promluv si s obyvateli Janova o ъkrytu</text>
+	</string>
+	<string id="jup_b4_monolith_squad_help_text">
+		<text>Skupina bojovnнku Monolitu se vymanila ze spбru sil, kterй je uveznily. Hledajн ъkryt pred emisн a mutanty. Musнљ si promluvit s obyvateli stanice Janov, aby jednotce Monolitu umoћnili zustat s nimi.</text>
+	</string>
+	<string id="jup_b4_stalkers_come_duty_text">
+		<text>Doved nбborovй dustojnнky Povinnosti k bэvalй jednotce Monolitu. Pokud se bojovnнci Monolitu pripojн k Povinnosti, budou se moci ukrэt pred emisн a mutanty ve stanici Janov.</text>
+	</string>
+	<string id="jup_b4_stalkers_come_freedom_text">
+		<text>Doved nбborovй dustojnнky Svobody k bэvalй jednotce Monolitu. Pokud se bojovnнci Monolitu pripojн ke Svobode, budou se moci ukrэt pred emisн a mutanty ve stanici Janov.</text>
+	</string>
+	<string id="jup_b4_stalkers_come_name">
+		<text>Pozustalн Monolitu: doved nбborovй dustojnнky k bэvalй jednotce Monolitu</text>
+	</string>
+	<string id="jup_b6_anom_1_guard_name">
+		<text>Vэzkum anomбlie: kryj stalkery</text>
+	</string>
+	<string id="jup_b6_anom_1_guard_text">
+		<text>Zdб se, ћe provбdenн merenн v anomбlii prilбkalo mutanty. Musнљ chrбnit stalkery, aby mohli sesbнrat vљechna potrebnб data.</text>
+	</string>
+	<string id="jup_b6_anom_2_guard_name">
+		<text>Vэzkum anomбlie: kryj stalkery</text>
+	</string>
+	<string id="jup_b6_anom_2_guard_text">
+		<text>Zdб se, ћe provбdenн merenн v anomбlii prilбkalo zombie. Musнљ chrбnit stalkery, aby mohli sesbнrat vљechna potrebnб data.</text>
+	</string>
+	<string id="jup_b6_get_reward_name">
+		<text>Vэzkum anomбlie: promluv si s Hermanem</text>
+	</string>
+	<string id="jup_b6_get_reward_text">
+		<text>Merenн anomбliн bylo dokonceno – informuj o tom vedce a vyzvedni si svou odmenu.</text>
+	</string>
+	<string id="jup_b6_get_to_anomal_place_name">
+		<text>Vэzkum anomбlie: promluv si se stalkery</text>
+	</string>
+	<string id="jup_b6_get_to_anomal_place_text">
+		<text>Promluv si s jednotkou stalkeru zodpovednou za provedenн merenн. Musнљ vybrat, o kterou anomбlii se majн zajнmat.</text>
+	</string>
+	<string id="jup_b6_travel_home_name">
+		<text>Vэzkum anomбlie: promluv si se stalkery</text>
+	</string>
+	<string id="jup_b6_travel_home_text">
+		<text>Vљechna potrebnб merenн byla provedena, takћe muћeљ zamнrit s jednotkou zpet do bunkru vedcu.</text>
+	</string>
+	<string id="jup_b6_travel_name">
+		<text>Vэzkum anomбlie: promluv si se stalkery</text>
+	</string>
+	<string id="jup_b6_travel_text">
+		<text>Merenн anomбlie bylo provedeno, promluv si s tэmem o dalљнm postupu.</text>
+	</string>
+	<string id="jup_b6_watch_topol_squad_six_name">
+		<text>Vэzkum anomбlie: kryj stalkery</text>
+	</string>
+	<string id="jup_b6_watch_topol_squad_six_text">
+		<text>Herman ti nabнdl prбci spocнvajнcн v ochrane stalkeru v prubehu provбdenн merenн anomбliн.</text>
+	</string>
+	<string id="jup_b8_heli_4_crash_name">
+		<text>Rejnok 4: prozkoumej mнsto havбrie</text>
+	</string>
+	<string id="jup_b8_heli_4_crash_name_2">
+		<text>Rejnok 4: odhal prнcinu spбlenн elektroniky</text>
+	</string>
+	<string id="jup_b8_heli_4_crash_text">
+		<text>Prozkoumej mнsto havбrie Rejnoka 4.</text>
+	</string>
+	<string id="jup_b8_heli_4_crash_text_2">
+		<text>Musнљ odhalit zdroj silnйho elektrickйho vэboje, kterэ zasбhl vrtulnнk Rejnok 4.</text>
+	</string>
+	<string id="jup_b9_blackbox_decrypting_name">
+		<text>Rejnok 1: predej cernou skrнnku technikovi, aby ji dekуdoval</text>
+	</string>
+	<string id="jup_b9_blackbox_decrypting_text">
+		<text>Cernб skrнnka Rejnoka 1 preћila havбrii. Musнљ ji vzнt k technikovi, aby ji dekуdoval a zprнstupnil tak data, kterб obsahuje.</text>
+	</string>
+	<string id="jup_b9_blackbox_descrypted_after_3_name">
+		<text>Rejnok 1: pockej, aћ bude cernб skrнnka dekуdovбna</text>
+	</string>
+	<string id="jup_b9_blackbox_descrypted_after_3_text">
+		<text>Nitrбk souhlasil, ћe dekуduje cernou skrнnku. Melo by mu to trvat asi tri hodiny, musнљ na nej pockat.</text>
+	</string>
+	<string id="jup_b9_go_for_blackbox_descryption_name">
+		<text>Rejnok 1: vrat se k Nitrбkovi pro zjiљtenн informacн z cernй skrнnky</text>
+	</string>
+	<string id="jup_b9_go_for_blackbox_descryption_text">
+		<text>Nitrбk uћ by mel bэt hotov s procesem dekуdovбnн. Zajdi za nнm, aby ses dozvedel, co cernб skrнnka skrэvб.</text>
+	</string>
+	<string id="jup_b9_heli_1_crash_name">
+		<text>Rejnok 1: prozkoumej mнsto havбrie</text>
+	</string>
+	<string id="jup_b9_heli_1_crash_text">
+		<text>Prozkoumej mнsto havбrie Rejnoka 1.</text>
+	</string>
+	<string id="pas_b400_pripyat_name">
+		<text>Pripjat 1: dostan se do Pripjati</text>
+	</string>
+	<string id="pas_b400_pripyat_text">
+		<text>Musнљ projнt podjezdem Pripjat 1 a dojнt k vojenskйmu evakuacnнmu mнstu v Pripjati.</text>
+	</string>
+	<string id="zat_a9_way_gases_check_chemistry_workshop_name">
+		<text>Cesta do Pripjati: prozkoumej laborator chemickэch sloucenin v tovбrne Jupiter</text>
+	</string>
+	<string id="zat_a9_way_gases_check_chemistry_workshop_text">
+		<text>Laborator chemickэch sloucenin by mohla obsahovat informace o kontaminaci podjezdu Pripjat 1 neznбmэm plynem.</text>
+	</string>
+	<string id="zat_a9_way_gates_check_corps_name">
+		<text>Cesta do Pripjati: prozkoumej administrativnн oblast tovбrny Jupiter</text>
+	</string>
+	<string id="zat_a9_way_gates_check_corps_text">
+		<text>Pruvodce o ћбdnй bezpecnй ceste do Pripjati nevн, ale navrhl nekolik mнst, na kterэch bys mohl najнt informace o podzemnнch tunelech vedoucнch z tovбrny Jupiter do mesta. Mel bys zacнt s administrativnн oblastн.</text>
+	</string>
+	<string id="zat_a9_way_gates_check_electrical_workshop_name">
+		<text>Cesta do Pripjati: prozkoumej laboratore tovбrny Jupiter</text>
+	</string>
+	<string id="zat_a9_way_gates_check_electrical_workshop_text">
+		<text>Dokumenty nalezenй v administrativnн cбsti se zminujн o evakuaci vэrobnнho komplexu tovбrny Jupiter. Vнce informacн o plбnech tйto akce bys mohl najнt v laboratorнch.</text>
+	</string>
+	<string id="zat_a9_way_gates_check_transport_workshop_name">
+		<text>Cesta do Pripjati: prozkoumej brбnu podjezdu v Oddelenн 1</text>
+	</string>
+	<string id="zat_a9_way_gates_check_transport_workshop_text">
+		<text>Vstupem do podzemnнho podjezdu je prepravnн brбna. Prozkoumej tuto oblast a najdi cokoliv, co se podjezdu tэkб.</text>
+	</string>
+	<string id="zat_a9_way_to_pripyat_check_archives_name">
+		<text>Cesta do Pripjati: prozkoumej oddelenн 1 tovбrny Jupiter</text>
+	</string>
+	<string id="zat_a9_way_to_pripyat_check_archives_text">
+		<text>V oddelenн 1 by se mely nachбzet informace tэkajнcн se podjezdu Pripjat 1. Mohly by bэt velice duleћitй, proto je nutnй toto mнsto prozkoumat.</text>
+	</string>
+	<string id="zat_a9_way_to_pripyat_check_delivery_department_name">
+		<text>Cesta do Pripjati: prozkoumej dodacн oddelenн tovбrny Jupiter</text>
+	</string>
+	<string id="zat_a9_way_to_pripyat_check_delivery_department_text">
+		<text>Podle poznбmek v laboratorнch melo evakuaci na starost dodacн oddelenн, takћe by ses tam mel takй porozhlйdnout.</text>
+	</string>
+	<string id="zat_a9_way_to_pripyat_check_repair_workshop_name">
+		<text>Cesta do Pripjati: prozkoumej opravбrenskй dнlny tovбrny Jupiter</text>
+	</string>
+	<string id="zat_a9_way_to_pripyat_check_repair_workshop_text">
+		<text>Dodacн oddelenн ъdajne bylo informovбno o ztrбtбch behem prepravy neceho, co bylo oznacovбno jako poloћka 62. Podle zбznamu se o tuto zбleћitost staraly opravбrenskй dнlny, proto by ses do nich mel podнvat.</text>
+	</string>
+	<string id="zat_a9_way_to_pripyat_tell_stalker_guide_name">
+		<text>Cesta do Pripjati: promluv si s pruvodcem</text>
+	</string>
+	<string id="zat_a9_way_to_pripyat_tell_stalker_guide_text">
+		<text>Podle zбznamu cernй skrнnky jednoho z vrtulnнku se jednotka mela sejнt na evakuacnнm mнste B28. Podle map nalezenэch v jinйm vrtulnнku, kterэ se ъcastnil stejnй mise, by se toto mнsto melo nachбzet v Pripjati. Musнљ najнt zpusob, jak se tam dostat a pruvodce by ti v tom mohl pomoci.</text>
+	</string>
+	<string id="zat_b207_depot_reward_task_name">
+		<text>Skladiљte Povinnosti: vem si, co ti patrн</text>
+	</string>
+	<string id="zat_b207_morgan_depot_task_name">
+		<text>Skladiљte Povinnosti: setkej se s Morganem</text>
+	</string>
+	<string id="zat_b207_morgan_depot_task_text">
+		<text>Obchodnнk Morgan ti jako odmenu za tvй mlcenн ve veci jeho obchodu poskytl prнstup do skladiљte Povinnosti. Setkej se s nнm blнzko lomu, jak jste se dohodli.</text>
+	</string>
+	<string id="pas_b400_pripyat_gate_text">
+		<text>Pro pokracovбnн musнљ otevrнt brбnu.</text>
+	</string>
+	<string id="pas_b400_pripyat_door_text">
+		<text>Pro pokracovбnн musнљ otevrнt dvere.</text>
+	</string>
+	<string id="pas_b400_pripyat_hall_door_text">
+		<text>Pro pokracovбnн musнљ obnovit dodбvku proudu do brбny.</text>
+	</string>
+	<string id="pas_b400_pripyat_control_text">
+		<text>Pro pokracovбnн musнљ odemknout brбnu. Pravdepodobne se ti to podarн z velнna.</text>
+	</string>
+	<string id="jup_b6_employ_stalkers_name">
+		<text>Vэzkumnб skupina: Najmi kvalitnн pracovnнky</text>
+	</string>
+	<string id="jup_b6_employ_stalkers_text">
+		<text>Vэzkumnб skupina pracujнcн pro vedce zahynula. Aby mohl vэzkum pokracovat, musнљ posklбdat novou skupinu.</text>
+	</string>
+	<string id="jup_b6_employ_stalkers_reward_name">
+		<text>Vэzkumnб skupina: Vrat se k Hermannovi pro odmenu</text>
+	</string>
+	<string id="jup_b6_employ_stalkers_reward_text">
+		<text>Naљel jsi ty sprбvnй lidi pro vytvorenн novй vэzkumnй skupiny. Nynн se muћeљ vrбtit k Hermannovi pro svou odmenu.</text>
+	</string>
+	<string id="jup_b218_soldier_do_scientist_quest_name">
+		<text>Pripjat 1: dokonci Ozerskйho misi</text>
+	</string>
+	<string id="jup_b218_soldier_do_scientist_quest_text">
+		<text>Dokonci Ozerskйho ъkol tэkajнcн se anomбliн v tovбrne a zнskej ochrannэ oblek pro Sokolova.</text>
+	</string>
+	<string id="jup_b200_tech_materials_inside_text">
+		<text>Nitrбk potrebuje technickй podklady k vysнlacce. Najdeљ je v cementбrne.</text>
+	</string>
+	<string id="jup_b25_flint_and_senya_text">
+		<text>Trнska umrel v anomбlii kvuli Pazourkovi, ten ho tam nechal. Beћ se ho zeptat, proc to udelal.</text>
+	</string>
+	<string id="jup_b25_revenge_senya_name">
+		<text>Odplata: pomsti Trнsku</text>
+	</string>
+	<string id="jup_b25_revenge_senya_text">
+		<text>Zjisti, kdo nechal Trнsku zemrнt v anomбlii, ukradl jeho artefakt a utekl. Trнska bohuћel nerekl, jak se onen padouch jmenoval. Jedinй, co se o nem vн, je, ћe patril ke Svobode.</text>
+	</string>
+	<string id="zat_b207_depot_reward_task_duty_text">
+		<text>Podplukovnнk Љulga ti dovolil vzнt si ze skladiљte Povinnosti libovolnou vэzbroj. Stacн se k nн jen prostrнlet.</text>
+	</string>
+	<string id="zat_b207_depot_reward_task_freedom_text">
+		<text>Loki ti povolil vzнt si ze skladiљte Povinnosti libovolnou vэzbroj. Ale pod jednou podmнnkou: sklad musн patrit Svobode.</text>
+	</string>
+</string_table>

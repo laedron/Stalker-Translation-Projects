@@ -1,0 +1,1290 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+	<string_table>
+		<string id="bar_arena_man_job_0">
+			<text>Erzдhl weiter ...</text>
+		</string>
+		<string id="bar_arena_man_job_11">
+			<text>Dein erster Kampf also? Dein Gegner ist ein Stьck Fleisch, genau wie du. Er ist hier, weil er Schulden hat, und er hat zwei Mцglichkeiten: herauskommen und kдmpfen ... oder in der nдchsten Anomalie landen. Er wird kдmpfen wie ein Tier, das in die Ecke gedrдngt wurde. Waffen fьr heute ... lass mich nachdenken ... ah, ja! Warum nehmt ihr zwei nicht PMMs ... zwei Magazine fьr jeden sollten mehr als genug sein. Entweder machst du ihn fertig oder wir verfьttern dich an die Hunde - keine groЯe Auswahl. Na, macht schon.</text>
+		</string>
+		<string id="bar_arena_man_job_111">
+			<text>Я готова.</text>
+		</string>
+		<string id="bar_arena_man_job_112">
+			<text>Я не готова.</text>
+		</string>
+		<string id="bar_arena_man_job_12">
+			<text>Предыдущий бой еще ничего не означал. Ты все еще кусок мяса, на который даже приличный человек не поставит и обоймы. Если хочешь не плохо заработать, тебе предстоит еще не раз выступить. Твой противник, тоже прошел первый круг и сделал это достаточно быстро, да и противник у него был посерьезней твоего. Ну, если честно, он мне не нравится, он убивает очень быстро, а публике этого не любит. Так что давай, иди и покажи, на что ты способен. После этого боя, ставки начнут повышаться, осталось только выжить. Пошла!</text>
+		</string>
+		<string id="bar_arena_man_job_121">
+			<text>Я готова.</text>
+		</string>
+		<string id="bar_arena_man_job_122">
+			<text>Я не готова.</text>
+		</string>
+		<string id="bar_arena_man_job_13">
+			<text>Ну, что ж. Ты оказалась не такой уж слабой, какой показалась с первого взгляда. Пришло время проверить тебя в честной схватке. Против тебя выступают два противника, первый Швед, второго не помню как зовут. Их специально поставили в пару, они друг другу страшно не нравятся. Так что командной игры с их стороны можешь не боятся. Скорее они друг друга подстрелят. Из оружия сегодня ружья, так что смотри, в упор не подставляйся, а то по частям тебя собирать будут. Ставки против тебя десять к одному, если победишь, отлично заработаешь. Погнала!</text>
+		</string>
+		<string id="bar_arena_man_job_131">
+			<text>Я готова.</text>
+		</string>
+		<string id="bar_arena_man_job_132">
+			<text>Я не готова.</text>
+		</string>
+		<string id="bar_arena_man_job_14">
+			<text>Теперь я могу с уверенностью сказать, что ты боец. Пришло время командного выступления. С тобой будут выступать два новичка, два брата. Они еще не выступали, но так как они братья, пришлось их засунуть в командные бои. На особую помощь, можешь не рассчитывать, так что рассчитывай только на себя. Против вас выступает сыгранная команда, претенденты на финал этого сезона. Опасные парни. Оружие смешанное, у одного из них автоматический дробовик - с ним будь предельно осторожен. У остальных Акм'ы. Давай, удачи, она тебе пригодится.</text>
+		</string>
+		<string id="bar_arena_man_job_141">
+			<text>Я готова.</text>
+		</string>
+		<string id="bar_arena_man_job_142">
+			<text>Я не готова.</text>
+		</string>
+		<string id="bar_arena_man_job_15">
+			<text>Сегодня у тебя необычный бой. Про твои подвиги прослышали даже вояки и прислали двоих своих бойцов, да не удивляйся, вояки тоже в этом участвуют. Среди зрителей есть даже генерал. Эти парни из спецназа, точнее из ОМОНА. И вооружены они соответствующе. Будь острожна, у них достаточно крепкая броня. Я тебя тоже голым не оставлю. Получишь броню, свободовский бронник, что б они подавились, штука легкая, так что бегать мешать не будет. Покажи им, что наш брат тоже не лыком шит. Удачи!</text>
+		</string>
+		<string id="bar_arena_man_job_151">
+			<text>Я готова.</text>
+		</string>
+		<string id="bar_arena_man_job_152">
+			<text>Я не готова.</text>
+		</string>
+		<string id="bar_arena_man_job_16">
+			<text>Zeit fьr dich, zu zeigen, was du drauf hast. Die Wдchter haben eine Banditengruppe gefangen genommen, die den Stalkern bei Rostok Probleme bereitet hatte. Die meisten wurden lebendig geschnappt. Aber sie werden sowieso hingerichtet, daher habe ich die Wдchter ьberzeugt, ihnen eine Chance zu geben. Wenn welche von denen ьberleben, dann verlassen sie die Zone in der Dose, das ist immer noch besser als hier zu sterben. Gut bewaffnet sind sie nicht - nur ein paar Pistolen und ein paar Abgesдgte, allerdings sechs davon. Pass also auf. Los geht's!</text>
+		</string>
+		<string id="bar_arena_man_job_161">
+			<text>Я готова.</text>
+		</string>
+		<string id="bar_arena_man_job_162">
+			<text>Я не готова.</text>
+		</string>
+		<string id="bar_arena_man_job_17">
+			<text>Вот ты и дошла почти до финала. Тебе предстоит бой с мастером сталкером. Да, он один, но он в екзоскелете, и с ФТ 200М, если попадешь под очередь, считай что ты труп. Тебя ждет сюрприз, о котором я не могу тебе рассказать, но мой тебе совет - готовься, схватка будет не простой. Победитель этой схватки пройдет в финал - Смертельный бой. Вперед!</text>
+		</string>
+		<string id="bar_arena_man_job_171">
+			<text>Я готова.</text>
+		</string>
+		<string id="bar_arena_man_job_172">
+			<text>Я не готова.</text>
+		</string>
+		<string id="bar_arena_man_job_18">
+			<text>Я тебя поздравляю! Ты дошла до финала. Осталась последняя схватка - Смертельный бой. В этом бою каждый сам за себя. По мимо тебя, в схватке принимают участье еще 4 сталкера, все мастера, все в екзоскелетах, все с ГП 37. Теперь все будет честно - у тебя будет точно такое же снаряжение. Ни каких аптечек и бинтов. Готова! Докажи что ты лучшая! ПОШЛа!</text>
+		</string>
+		<string id="bar_arena_man_job_181">
+			<text>Я готова.</text>
+		</string>
+		<string id="bar_arena_man_job_182">
+			<text>Я не готова.</text>
+		</string>
+		<string id="bar_arena_man_start_11">
+			<text>Yo! Ich habe einen neuen Kampf fьr dich.</text>
+		</string>
+		<string id="bar_arena_man_start_21">
+			<text>Geh und trink dir einen oder so was. Die Arena ist noch nicht fertig.</text>
+		</string>
+		<string id="bar_arena_man_start_31">
+			<text>Ты уже стала Мастером!!!\n</text>
+		</string>
+		<string id="bar_arena_man_start_41">
+			<text>Ты победила! Вот твоя награда!</text>
+		</string>
+		<string id="bar_arena_man_start_51">
+			<text>Ты недостаточно опытна для этого боя!</text>
+		</string>
+		<string id="bar_bar_barman_ecolog_flash_done_0">
+			<text>Hier ist das Laufwerk, das Professor Kruglow mir gegeben hat.</text>
+		</string>
+		<string id="bar_bar_barman_ecolog_flash_done_21">
+			<text>Guter Junge. Ich denke, die Wдchter werden fьr diese Information sehr dankbar sein. Hier ist deine Belohnung.</text>
+		</string>
+		<string id="bar_bar_barman_ecolog_flash_done_31">
+			<text>So, so. Informationen. Direkt von Professor Kroglow. Was soll der Quatsch? "Ich bin Professor Kruglow und ich lцsche gerade Berichte ьber unsere Forschung zum Wohle der Wissenschaft und Menschheit ..." Und das sind die Informationen, die du besorgen solltest? Ach, ScheiЯe ... Ich bin mir sicher, dass die Wдchter sich darьber "freuen" werden.</text>
+		</string>
+		<string id="bar_bar_barman_killer_ambush_0">
+			<text>Ich habe meinen Auftrag erfьllt. Hier ist Tyrans PDA.</text>
+		</string>
+		<string id="bar_bar_barman_killer_ambush_1">
+			<text>Wow, Gezeichneter. Gute Arbeit! Was soll ich sagen? Du hast mich glьcklich gemacht, Mann. Ich war mir nicht sicher, ob du das schaffst, um ehrlich zu sein ... aber du lebst noch und die tun's nicht!</text>
+		</string>
+		<string id="bar_bar_barman_killer_ambush_2">
+			<text>Was ist mit meiner Belohnung?</text>
+		</string>
+		<string id="bar_bar_barman_killer_ambush_3">
+			<text>Hier. Alles, wie abgesprochen.</text>
+		</string>
+		<string id="bar_bar_barman_veterans_finish_0">
+			<text>Hier ist Luckys PDA. Ich habe getan, worum du mich gebeten hast.</text>
+		</string>
+		<string id="bar_bar_barman_veterans_finish_1">
+			<text>Nett, Gezeichneter. Gute Arbeit! Was soll ich sagen? Du hast mich glьcklich gemacht, Mann. Ich war mir nicht sicher, ob du das schaffst, um ehrlich zu sein ... aber du lebst noch und die tun's nicht!</text>
+		</string>
+		<string id="bar_bar_barman_veterans_finish_11">
+			<text>Was ist mit meiner Belohnung?</text>
+		</string>
+		<string id="bar_bar_barman_veterans_finish_111">
+			<text>Du bist ein Held, Mann, ein echter Held. Hier, das sollte dich zufrieden stimmen.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_0">
+			<text>Hast du irgendwelche Spezialjobs?</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_111">
+			<text>Nein, heute habe ich nichts.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_21">
+			<text>Komm auf den Punkt. Was soll ich tun?</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_221">
+			<text>Nein, heute habe ich nichts.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_2311">
+			<text>Ich habe einen schwierigen Auftrag. Eine Gruppe von Killerveteranen ist wieder im Wildgebiet aufgetaucht. Einige Wдchter kamen mit der Bitte zu mir, mich darum zu kьmmern. Die Wдchter haben hieb- und stichfeste Beweise, dass die fьr den Tod von Solitдrstalkern verantwortlich sind. Das Problem ist, dass diese Veteranen und die Wдchter ein altes Abkommen haben. Die Wдchter dьrfen es nicht verletzen, aber diese Jungs treiben es zu sehr auf die Spitze. Im Grunde genommen mцchten die Wдchter, dass die erledigt werden - hьbsch und sauber. Das wird nicht leicht sein, aber der Job bringt einiges ein.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_23111">
+			<text>Irgendwas anderes? Ist doch seltsam, dass die Wдchter die damit davonkommen lassen.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_231111">
+			<text>Die Wдchter legen Wert auf Ihren Ruf, deshalb muss das alles im Stillen erledigt werden. Du musst nur Lucky, ihren Anfьhrer, umlegen und mir seinen PDA als Beweis bringen.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_2311111">
+			<text>Ich mach's. Obwohl ich jedoch hoffe, dass ich das spдter nicht bereue.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_23111111">
+			<text>Gute Entscheidung, Kumpel. Und es gibt nichts, was du bereuen mьsstest.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_2311112">
+			<text>Nein, das werde ich nicht ьbernehmen.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_23111121">
+			<text>Deine Sache. Aber vergiss nicht, dass es eine gute Gelegenheit ist, das Wohlwollen der Wдchter zu gewinnen.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_24">
+			<text>Komm auf den Punkt. Was soll ich tun?</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_241">
+			<text>Dein Auftrag ist es, Tyran, den Anfьhrer der Sцldner, umzulegen. Seine Leute sind ins Wildgebiet vorgedrungen, und haben ein Lager bei der Baustelle aufgeschlagen. Sei vorsichtig, denn einige ihrer Kдmpfer haben auf dem Weg dorthin Hinterhalte gelegt. Bring mir Tyrans PDA, und die Belohnung gehцrt dir.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_2411">
+			<text>Ich mach's. Obwohl ich jedoch hoffe, dass ich das spдter nicht bereue.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_24111">
+			<text>Gute Entscheidung, Kumpel. Und es gibt nichts, was du bereuen mьsstest.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_2412">
+			<text>Nein, das werde ich nicht ьbernehmen.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_24121">
+			<text>Wie du willst.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_251">
+			<text>Nein, heute habe ich gar nichts.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_261">
+			<text>Dein Auftrag ist es, Tyran, den Anfьhrer der Sцldner, umzulegen. Seine Leute sind ins Wildgebiet vorgedrungen, und haben ein Lager bei der Baustelle aufgeschlagen. Sei vorsichtig, denn einige ihrer Kдmpfer haben auf dem Weg dorthin Hinterhalte gelegt. Bring mir Tyrans PDA, und die Belohnung gehцrt dir.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_2611">
+			<text>Ich mach's. Obwohl ich jedoch hoffe, dass ich das spдter nicht bereue.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_26111">
+			<text>Gute Entscheidung, Kumpel. Und es gibt nichts, was du bereuen mьsstest.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_2612">
+			<text>Nein, das werde ich nicht ьbernehmen.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_26121">
+			<text>Wie du willst.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_266">
+			<text>Nein, heute habe ich gar nichts.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_271">
+			<text>Ьbertreibe es nicht, Gezeichneter. Warum willst du noch mehr Arbeit, obwohl du dich noch nicht einmal um die Veteranen gekьmmert hast?</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_311">
+			<text>Nein, heute nichts.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_321">
+			<text>Ich habe einen schwierigen Auftrag. Eine Gruppe von Killerveteranen ist wieder im Wildgebiet aufgetaucht. Einige Wдchter kamen mit der Bitte zu mir, mich darum zu kьmmern. Die Wдchter haben hieb- und stichfeste Beweise, dass die fьr den Tod von Solitдrstalkern verantwortlich sind. Das Problem ist, dass diese Veteranen und die Wдchter ein altes Abkommen haben. Die Wдchter dьrfen es nicht verletzen, aber diese Jungs treiben es zu sehr auf die Spitze. Im Grunde genommen mцchten die Wдchter, dass die erledigt werden - hьbsch und sauber. Das wird nicht leicht sein, aber der Job bringt einiges ein.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_3211">
+			<text>Sonst noch was?</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_32111">
+			<text>Die Wдchter legen Wert auf Ihren Ruf, deshalb muss das alles im Stillen erledigt werden. Du musst nur Lucky, ihren Anfьhrer, umlegen und mir seinen PDA als Beweis bringen.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_32112">
+			<text>Ich mach's.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_321121">
+			<text>Gute Entscheidung, Kumpel. Und es gibt nichts, was du bereuen mьsstest.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_32113">
+			<text>Nein, das werde ich nicht ьbernehmen.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_321131">
+			<text>Deine Sache. Aber vergiss nicht, dass es eine gute Gelegenheit ist, das Wohlwollen der Wдchter zu gewinnen.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_32121">
+			<text>default text</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_331">
+			<text>Dein Auftrag ist es, Tyran, den Anfьhrer der Sцldner, umzulegen. Seine Leute sind ins Wildgebiet vorgedrungen, und haben ein Lager bei der Baustelle aufgeschlagen. Sei vorsichtig, denn einige ihrer Kдmpfer haben auf dem Weg dorthin Hinterhalte gelegt. Bring mir Tyrans PDA, und die Belohnung gehцrt dir.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_3312">
+			<text>Ich mach's.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_33121">
+			<text>Gute Entscheidung, Kumpel. Und es gibt nichts, was du bereuen mьsstest.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_3313">
+			<text>Nein, das werde ich nicht ьbernehmen.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_33131">
+			<text>Wie du willst.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_341">
+			<text>Nein, heute nichts.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_351">
+			<text>Nein, heute nichts.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_361">
+			<text>Nein, heute nichts.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_371">
+			<text>Nein, heute habe ich gar nichts.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_41">
+			<text>Noch nicht, aber beim nдchsten Mal.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_441">
+			<text>Ich habe einen Job fьr einen Profi.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_442">
+			<text>Komm auf den Punkt. Was soll ich tun?</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_443">
+			<text>Dein Auftrag ist es, Tyran, den Anfьhrer der Sцldner, umzulegen. Seine Leute sind ins Wildgebiet vorgedrungen, und haben ein Lager bei der Baustelle aufgeschlagen. Sei vorsichtig, denn einige ihrer Kдmpfer haben auf dem Weg dorthin Hinterhalte gelegt. Bring mir Tyrans PDA, und die Belohnung gehцrt dir.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_4431">
+			<text>Ich mach's. Obwohl ich jedoch hoffe, dass ich das spдter nicht bereue.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_44311">
+			<text>Gute Entscheidung, Kumpel. Und es gibt nichts, was du bereuen mьsstest.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_4432">
+			<text>Nein, das werde ich nicht ьbernehmen.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_44321">
+			<text>Wie du willst.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_444">
+			<text>Nein, im Moment habe ich kein Interesse.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_52">
+			<text>Nein, heute habe ich nichts.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_531">
+			<text>Nein, heute habe ich nichts.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_541">
+			<text>Nein, heute habe ich nichts.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_62">
+			<text>Nein, heute habe ich nichts.</text>
+		</string>
+		<string id="bar_bar_barmen_jobs_72">
+			<text>Nein, heute habe ich nichts.</text>
+		</string>
+		<string id="bar_bar_barmen_start_1111">
+			<text>Los geht's. Bist du bereit?</text>
+		</string>
+		<string id="bar_bar_barmen_start_121">
+			<text>Also, Gezeichneter, hast du die Dokumente aus Labor X16?</text>
+		</string>
+		<string id="bar_bar_barmen_start_1211">
+			<text>Ja. Hier.</text>
+		</string>
+		<string id="bar_bar_barmen_start_1212">
+			<text>Nein.</text>
+		</string>
+		<string id="bar_bar_barmen_start_12121">
+			<text>Verdammt! Hier bin ich und reiЯe mir den Arsch auf, wдhrend du im Wald spazieren gehst! Geh und hol diese verdammten Dokumente, sonst kommen wir nie voran.</text>
+		</string>
+		<string id="bar_bar_barmen_start_121211">
+			<text>In Ordnung.</text>
+		</string>
+		<string id="bar_bar_barmen_start_131">
+			<text>Nun, Gezeichneter, jetzt mьssen wir uns nur noch um den Schmelzer kьmmern und den Weg nach Norden frei machen! Bist du bereit, jetzt zu gehen?</text>
+		</string>
+		<string id="bar_bar_barmen_start_1312">
+			<text>Ja.</text>
+		</string>
+		<string id="bar_bar_barmen_start_13121">
+			<text>Okay, Gezeichneter, du hast den schьtzenden Prototypen, du solltest also vor den Emissionen geschьtzt sein. Ich habe die Koordinaten des Bunkers. Denk daran, dass der Prototyp dich nicht ewig schьtzen wird, du musst den Bunker also so schnell wie mцglich erreichen und den Schmelzer deaktivieren. Ich weiЯ nicht, was dann passieren wird, aber ich bin mir sicher, dass es das wert sein wird. Mit Sicherheit wissen wir nur, dass die StraЯe ins Zentrum der Zone offen sein wird. </text>
+		</string>
+		<string id="bar_bar_barmen_start_1313">
+			<text>Na los.</text>
+		</string>
+		<string id="bar_bar_barmen_start_1314">
+			<text>Wir mьssen nur zu den Antennen kommen und sie abschalten. Verstanden?</text>
+		</string>
+		<string id="bar_bar_barmen_start_1315">
+			<text>Verstanden.</text>
+		</string>
+		<string id="bar_bar_barmen_start_1316">
+			<text>Ach ja, noch eine Sache! Der Anfьhrer der Wдchter, ich habe ihn auf der Karte eingezeichnet, braucht einen Freiwilligen, um eine Art Auftrag bei den Lagerhдusern des Militдrs auszufьhren. Wenn du Interesse hast, kannst du mal vorbeischauen. Ich spreche mit den Wachen, damit sie dich reinlassen.</text>
+		</string>
+		<string id="bar_bar_barmen_start_132">
+			<text>Nein, ich bin noch nicht bereit.</text>
+		</string>
+		<string id="bar_bar_barmen_start_1321">
+			<text>Mach dich bereit, Gezeichneter! Diese Aufgabe dьrfen wir nicht warten lassen!</text>
+		</string>
+		<string id="bar_bar_barmen_start_151">
+			<text>Okay, die Dokumente, die du aus dem Institut mitgebracht hast, klдren einige Dinge, aber uns fehlen noch ein paar Informationen, um das groЯe Ganze zu erkennen. Es wird ein gewisses Labor X18 erwдhnt. Die Beschreibung passt zu den verlassenen unterirdischen Gewцlben im Dunklen Tal. Sieht so aus, als mьsstest du dorthin und die Informationen beschaffen. Das Labor ist verschlossen. Du wirst zwei Schlьssel-Codes brauchen, um reinzukommen. Einen kann ich dir geben, aber den anderen musst du dir von Boar im Dunklen Tal besorgen.</text>
+		</string>
+		<string id="bar_bar_barmen_start_1511">
+			<text>Na los.</text>
+		</string>
+		<string id="bar_bar_barmen_start_15111">
+			<text>Du musst nur den zweiten Schlьssel zu Labor X18 finden, dort eindringen und die zweite Ladung Dokumente holen. Vergiss nicht, dir einen Schutzanzug zu besorgen, sonst hast du nicht die geringste Chance, das Labor zu erreichen. Wirst du es tun?</text>
+		</string>
+		<string id="bar_bar_barmen_start_15112">
+			<text>Ich werde es versuchen.</text>
+		</string>
+		<string id="bar_bar_barmen_start_15113">
+			<text>Klasse! Ich warte hier.</text>
+		</string>
+		<string id="bar_bar_barmen_start_15114">
+			<text>Nein, ich mцchte das noch nicht machen.</text>
+		</string>
+		<string id="bar_bar_barmen_start_15115">
+			<text>Deine Sache. Aber vergiss nicht: Dies ist der einzige Weg, der uns helfen kann, die StraЯe nach Norden zu цffnen.</text>
+		</string>
+		<string id="bar_bar_barmen_start_161">
+			<text>Was willst du, Gezeichneter?</text>
+		</string>
+		<string id="bar_bar_barmen_start_162">
+			<text>He, Gezeichneter! Die Zeiten дndern sich, aber du bist immer noch mьrrisch und distanziert. Hier, setz dich, nimm dir 'nen Drink - vielleicht wirst du dann freundlicher ...</text>
+		</string>
+		<string id="bar_bar_barmen_start_171">
+			<text>Also, Gezeichneter, hast du die Dokumente aus Labor X18 mitgebracht?</text>
+		</string>
+		<string id="bar_bar_barmen_start_172">
+			<text>Ja. Hier.</text>
+		</string>
+		<string id="bar_bar_barmen_start_1721">
+			<text>Gut, die Situation klдrt sich so langsam. Wie ich erwartet hatte, ist der Hirnschmelzer nicht natьrlichen Ursprungs. Es ist ein experimenteller Emitter von Kaymanow, dessen Komponenten in Labor X18 gefertigt wurden. Diese Dokumente nehmen Bezug auf Labor X16. Dorthin wurden die Komponenten geschickt. Nach dem, was hier steht, befindet sich X16 im Produktionskomplex am Jantar-See. Die Wissenschaftler haben dort ein mobiles Labor eingerichtet, sie kцnnen also vielleicht hilfreich sein.</text>
+		</string>
+		<string id="bar_bar_barmen_start_17211">
+			<text>Na los.</text>
+		</string>
+		<string id="bar_bar_barmen_start_17212">
+			<text>Einfach ist es nicht. Du musst zu den Wissenschaftlern und herausfinden, wo X16 ist, damit du die fehlenden Dokumente holen kannst. Bist du dem gewachsen?</text>
+		</string>
+		<string id="bar_bar_barmen_start_17213">
+			<text>Ja.</text>
+		</string>
+		<string id="bar_bar_barmen_start_172131">
+			<text>Klasse! Ich warte hier.</text>
+		</string>
+		<string id="bar_bar_barmen_start_17214">
+			<text>Nein, ich bin noch nicht bereit.</text>
+		</string>
+		<string id="bar_bar_barmen_start_172141">
+			<text>Na, dann mach dich schnell bereit, Gezeichneter! Diese Sorte Geschдft kann man nicht aufschieben.</text>
+		</string>
+		<string id="bar_bar_barmen_start_173">
+			<text>Nein.</text>
+		</string>
+		<string id="bar_bar_barmen_start_1731">
+			<text>Worauf wartest du noch? Hol diese verdammten Dokumente, sonst kommen wir nie voran!</text>
+		</string>
+		<string id="bar_bar_barmen_start_181">
+			<text>Was willst du, Gezeichneter?</text>
+		</string>
+		<string id="bar_bar_barmen_start_182">
+			<text>He, Gezeichneter! Die Zeiten дndern sich, aber du bist immer noch mьrrisch und distanziert. Hier, setz dich, nimm dir 'nen Drink - vielleicht wirst du dann freundlicher ...</text>
+		</string>
+		<string id="bar_bar_barmen_start_2">
+			<text>Hey, Gezeichneter! Hast du die Dokumente aus dem Institut mitgebracht?</text>
+		</string>
+		<string id="bar_bar_barmen_start_21">
+			<text>Nein, ich habe die Dokumente vom Institut noch nicht.</text>
+		</string>
+		<string id="bar_bar_barmen_start_211">
+			<text>Das ist nicht gut, Gezeichneter, ьberhaupt nicht gut ... Du verstehst doch, wie dringend wir sie brauchen, oder? Wir brauchen sie sehr dringend, das kannst du mir glauben. Der Hirnschmelzer befindet sich direkt vor unserer Nase, aber wir wissen nicht, wozu er gut ist! Geh und hol jetzt die Dokumente - danach unterhalten wir uns.</text>
+		</string>
+		<string id="bar_bar_barmen_start_2111">
+			<text>Ich glaube, ich verstehe.</text>
+		</string>
+		<string id="bar_bar_barmen_start_22">
+			<text>Hier sind die Dokumente vom Institut.</text>
+		</string>
+		<string id="bar_bar_barmen_start_221">
+			<text>Gute Arbeit, Gezeichneter. Endlich haben wir die Dokumente. Ich werde jetzt einen Blick drauf werfen, und vielleicht kann ich herausfinden, wie man nach Norden kommt. Wenn du knapp bei Kasse bist, kannst du in der Zwischenzeit in der Arena kдmpfen. Der Besitzer heiЯt Arnie, seine Kontaktinformationen habe ich dir gerade ьbertragen.</text>
+		</string>
+		<string id="bar_bar_barmen_start_2211">
+			<text>In Ordnung.</text>
+		</string>
+		<string id="bar_bar_barmen_start_22111">
+			<text>Jetzt hцr zu!</text>
+		</string>
+		<string id="bar_bar_barmen_start_3">
+			<text>Was willst du, Gezeichneter?</text>
+		</string>
+		<string id="bar_bar_barmen_start_4">
+			<text>He, Gezeichneter! Die Zeiten дndern sich, aber du bist immer noch mьrrisch und distanziert. Hier, setz dich, nimm dir 'nen Drink - vielleicht wirst du dann freundlicher ...</text>
+		</string>
+		<string id="bar_bar_barmen_start_1131">
+			<text>Это уже интересно!- ты то откуда здесь взялась???</text>
+		</string>
+		<string id="bar_bar_barmen_talk_info_0">
+			<text>Я хотела бы кое-что спросить у вас. Вы что-нибудь слышали о человеке,которого все обычно называют Стрелок?.. Я его дочь.</text>
+		</string>
+		<string id="bar_bar_barmen_talk_info_1">
+			<text>Насколько мне известно? в зоне отчуждения есть только один Стрелок. Этот человек когда-то спас меня от контролёров, когда я по неопытности бродила по зоне одна... Мы расстались здесь на болотах, я какое-то время жила у болотного Доктора,  помогала ему собирать травы и коренья, лечить больных сталкеров. Потом решила открыть эту лавку, какое ни какое занятие... Иногда открываются телепорты, появляются новые люди, а с ними и новая информация о тех или иных местах... Тебе нужно поговорить с Доктором, он Стрелка хорошо знает, не то, что я... </text>
+		</string>
+		<string id="bar_bar_barmen_talk_info_3">
+			<text>А как мне найти Доктора? И где он живёт? </text>
+		</string>
+		<string id="bar_bar_barmen_talk_info_31">
+			<text>Доктор как и я, теперь живет здесь, на брошенной базе чистого неба. Так как на болотах, развелось много бандитов. Они отбирают артефакты у всех, да еще сталкеров убивают, если те не отдают им хабар. Дорогу сюда бандиты  не знают, а сталкеры им не говорят... Сейчас здесь Доктора нет, Он последнее время все к туннелю ходит,там еще надпись Тузла. Это возле разрушенного моста...А попасть туда можно с помощью телепорта, который  находится на станции... Ну там,где вагоны разбитые стоят, рядом с тепловозом, а не в далеке, есть дерево без листьев. Залезь на него, и попадешь к туннелю...Это все Больше ничем не могу помочь.</text>
+		</string>
+		<string id="bar_bar_barmen_talk_info_10">
+			<text>Danke.</text>
+		</string>
+		<string id="bar_bar_barmen_talk_info_7">
+			<text>Erzдhl mir von den mobilen Laboren der Wissenschaftler.</text>
+		</string>
+		<string id="bar_bar_barmen_talk_info_71">
+			<text>Die Wissenschaftler bauen sie von Zeit zu Zeit auf. Isolierte Metallbunker mit allem, was man zum Leben braucht. Wir stehen mit einem dieser Labore in Jantar in Verbindung. Die Wissenschaftler sind gute Jungs - sie erzдhlen uns viele interessante Sachen, und wir helfen ihnen, wo wir kцnnen ... Eine Art Wechselbeziehung ...</text>
+		</string>
+		<string id="bar_bar_barmen_talk_info_81">
+			<text>Ach! Das ist eine interessante Frage ... Ich wьnschte, ich wьsste die Antwort. Ich kann dir die Legende um diesen Gцnner erzдhlen. Du musst dann selbst fьr dich herausfinden, wie viel Wahrheit darin steckt. Mцchtest du sie hцren?</text>
+		</string>
+		<string id="bar_bar_barmen_talk_info_811">
+			<text>Nun, das klingt sehr interessant.</text>
+		</string>
+		<string id="bar_bar_barmen_talk_info_8111">
+			<text>Die Legende berichtet von dem Monolithen, der vielleicht die Ursache fьr die Zone ist. Als die Zone 2006 explodierte, wurden die Menschen im Umfeld evakuiert und die Zone selbst wurde von der Armee abgeriegelt. Alle waren in Panik, niemand wusste, was vor sich geht, die Zone weitete sich aus und die Feldlabore konnten nichts ausrichten! Unmengen Menschen starben. Alle hatten Angst vor der Strahlung, die halb Europa betreffen kцnnte. Nachdem einige Jahre vergangen waren, erschienen ein paar mutige Jungs, wie du, die sich selbst Stalker nannten. Sie schlichen sich an der Armee vorbei, weil sie glaubten, dass es in der Zone Sachen gдbe, die sie reich machen kцnnten. Stьck fьr Stьck brachten sie seltsame Dinge aus der Zone an, Artefakte, mit denen sie letztendlich eine Menge Kohle machen konnten. Die Wissenschaftler waren wie irre hinter den Dingern her. Sie zahlten damals fantastisch viel Geld fьr Kinkerlitzchen ... anders als heute.</text>
+		</string>
+		<string id="bar_bar_barmen_talk_info_81111">
+			<text>Erzдhl weiter ...</text>
+		</string>
+		<string id="bar_bar_barmen_talk_info_811111">
+			<text>Nach einer Weile kamen die ersten Geschichten und Legenden ьber das auf, was sich tief in der Zone beim Atomreaktor befand. Damals war es auch, dass uns einer der Veteranen die Geschichte vom Monolithen erzдhlte, der einem angeblich Wьnsche erfьllt. Du hдttest die Hysterie erleben sollen: erfahrene, kluge Mдnner versuchten, ins Zentrum zu gelangen - alle wollten etwas von dem Monolithen. Wir kennen ein paar schauerliche Details vom ersten Stalker, der zum Monolithen durchgekommen war ...</text>
+		</string>
+		<string id="bar_bar_barmen_talk_info_8111111">
+			<text>Weiter ... erzдhl mir mehr.</text>
+		</string>
+		<string id="bar_bar_barmen_talk_info_81111111">
+			<text>Als die Zone erschienen war, waren viele Menschen darin gefangen, abgeschnitten von der AuЯenwelt. Die meisten waren ziemlich schnell gestorben, aber es gab ein paar wenige Ьberlebende, die versuchten, etwas dagegen zu unternehmen. Einer dieser Ьberlebenden fand den Weg zum Reaktor und bemerkte dieses seltsame Licht darin. Da er nicht zurьck konnte, beschloss er, nдher heranzugehen. Er sah das kaputte Dach des Reaktorsarkophags und das Licht, das daraus kam. Er kletterte die Mauer hoch und schaute hinein. Unter dem Schutt aus Metall und geschmolzenem Beton lag dort ein massiver schwarzer Felsen. Es war der Monolith. Der Stalker schaffte es, den "Zauber" abzuschьtteln und begriff, dass er sich sehr nahe am Sarkophag befand, der extrem verstrahlt war. Er hatte Todesangst, doch durch die Furcht spьrte er den Monolithen rufen. Der Monolith rief ihn, und er sah in seinem Kopf seltsame und unglaubliche Dinge ьber diesen Monolithen ...</text>
+		</string>
+		<string id="bar_bar_barmen_talk_info_811111111">
+			<text>Cool ...</text>
+		</string>
+		<string id="bar_bar_barmen_talk_info_811111112">
+			<text>Ich weiЯ nicht, was von dieser Geschichte wahr ist und was nicht. Der Punkt ist jedoch, dass der Typ einen Wunsch hatte, der wahr wurde, wдhrend die Zone sich um 5 km ausdehnte. Anscheinend saugt die Zone fьr jeden gewдhrten Wunsch mehr Land auf ... Aber das hдlt Hitzkцpfe wie dich ja nicht auf. Sie versuchen immer weiter, mit ihren wertvollen kleinen Wьnschen im Herzen durchzukommen ...</text>
+		</string>
+		<string id="bar_bar_barmen_talk_info_812">
+			<text>Im Moment bin ich eher an anderen Dingen interessiert.</text>
+		</string>
+		<string id="bar_bar_barmen_talk_info_8121">
+			<text>Das ist deine Sache, Mann. Was genau mцchtest du denn wissen?</text>
+		</string>
+		<string id="bar_bar_drunk_dolg_start_11">
+			<text>Вот ведь дерьмо! Представляешь, видел как  один сталкер, достал какой-то арт, повешал на пояс и пошел в аномальную зону. Это возле тепловоза, там где разрыв в колючей проволке...Думал хана придурку, ведь там аномалий немеренно, а он шасть и на другую локацию прыгнул. Потом еще  на пда мне привет закинул во как!...</text>
+		</string>
+		<string id="bar_bar_drunk_dolg_start_111">
+			<text>Бросте чепуху молоть...</text>
+		</string>
+		<string id="bar_bar_drunk_dolg_start_21">
+			<text>Was gibt's? Irgendwelche Neuigkeiten? Du hast das kleine Stьck ScheiЯe nicht erwischt, ich kann es in deinen Augen sehen. Das Leben ist beschissen ... Hцr zu. Oder trink wenigstens einen mit mir. Tust du das?</text>
+		</string>
+		<string id="bar_bar_drunk_dolg_start_31">
+			<text>Maaaann ... hick ... du ... du ... du hast mir geholfen! Wir trinken auf die Wдchter ... schдtze ich! Und ... oh!</text>
+		</string>
+		<string id="bar_bar_hunter_quest_finish_0">
+			<text>Вот держи свои вещи...</text>
+		</string>
+		<string id="bar_bar_hunter_quest_finish_1">
+			<text>Ай да девка, это же надо, одна по болотам ходила и выжила, ты точно дочь своего отца... Стрелка тут еще помнят, помнят как он со своей экспедицией, через наш блок пост проходил, и еще помнят, как он потеряв память, на наш блок пост напал. Выкрал секретные документы для Сидора, торговец здесь был такой... Отец твой  теперь преступник. Много солдат положил. И неважно была у него память, на тот момент или нет, так-то вот... Вообщем помощи от военных не жди, уж не обессудь... На крыше этого камаза, есть аномалия телепорт, залезь по кабине на будку, и переместишься в местный бар.. Спасибо и прощай...</text>
+		</string>
+		<string id="bar_bar_hunter_quest_start_0">
+			<text>Добрый день, а вы кто?... Вроде военный, но какой-то другой...</text>
+		</string>
+		<string id="bar_bar_hunter_quest_start_1">
+			<text>Да я военный, только вот воюем мы здесь, черт знает с чем... Недавно нас отправили встретить экспедицию, вообщем учёных. Мы разделились на две группы одна пошла им на встречу, а вторая во главе со мной, осталась в условленном месте, на тот случай, если мы разминёмся. Часа через два, связь с нашей группой оборвалась. Мы уже собирались идти на поиски, но тут на нас напали снорки. И похоже из нашей группы в живых остался только я. У меня к тебе предложение. Так как я не в том состоянии, чтобы идти на поиски, предлогаю тебе сделку. Сейчас трудно куда-либо выбраться с болот, потому что нет постоянных телепортов. Если ты найдёшь оставшихся в живых членов экспедиции, или моей группы ,то обязательно приведёшь их ко мне ,или в худшем случае принеси мне то что от них осталось(личные вещи, оружие) хоть что-нибудь. Взамен я тебе скажу где находится телепорт, который перемещает в местный мини-бар, а там ты разузнаешь как выбраться с болот...Ну что берешься?..</text>
+		</string>
+		<string id="bar_bar_hunter_quest_start_11">
+			<text>Хорошо, я попробую...</text>
+		</string>
+		<string id="bar_bar_hunter_quest_start_111">
+			<text>Информацию о телепорте, получишь когда вернёшься,сделка есть сделка. ..</text>
+		</string>
+		<string id="bar_bar_hunter_quest_start_1111">
+			<text>Хорошо, но у меня просьба есть, пока я буду путешевствовать, постарайтесь вспомнить, может быть вы что-нибудь слышали, о человеке по прозвищу Стрелок...</text>
+		</string>
+		<string id="bar_bar_hunter_quest_start_12">
+			<text>Нет. У меня сейчас дела поважнее .</text>
+		</string>
+		<string id="bar_bar_hunter_quest_start_121">
+			<text>Дело твое, но я надеюсь, что ты передумаешь.</text>
+		</string>
+		<string id="bar_bar_hunter_quest_start_1212">
+			<text>Посмотрим.</text>
+		</string>
+		<string id="bar_bar_hunter_start_11">
+			<text>Вот черт</text>
+		</string>
+		<string id="bar_bar_hunter_start_21">
+			<text>Привет. Есть новости?..</text>
+		</string>
+		<string id="bar_bar_hunter_start_31">
+			<text>Спасибо тебе, ты смелая девушка...</text>
+		</string>
+		<string id="bar_bar_osvedomitel_reward_0">
+			<text>Волкодав сказал, что ты мне кое-что передашь.</text>
+		</string>
+		<string id="bar_bar_osvedomitel_reward_1">
+			<text>Да. За то, что ты помог ему с Кругловым, держи подствольник. Вот тебе еще тысяча деньгами. В довесок могу с тобой бесплатно поделиться очередной информацией.</text>
+		</string>
+		<string id="bar_bar_osvedomitel_reward_2">
+			<text>Спасибо.</text>
+		</string>
+		<string id="bar_bar_osvedomitel_reward_3">
+			<text>А теперь послушай, что я тебе скажу. Ты помог Свободе и сделал правильный выбор. Теперь ты связан с ней, да и Долг взял тебя на заметку. Я бы посоветовал тебе отправиться на заброшенную военную базу и вступить в ряды Свободы. Им нужны хорошие бойцы. Скоро будет ряд стычек между Долгом и Свободой и тот, кто выберет верную сторону, выйдет победителем.</text>
+		</string>
+		<string id="bar_bar_osvedomitel_start_11">
+			<text>У меня имеется кое какая информация, разумеется за деньги...Если есть тяга к знаниям обращайся, только приходи с полным кошельком...</text>
+		</string>
+		<string id="bar_bar_osvedomitel_start_21">
+			<text>Здравствуй, Меченый. Ты помог Свободе и сделал правильный выбор. Теперь ты связан с ней, да и Долг взял тебя на заметку. Я бы посоветовал тебе отправиться на заброшенную военную базу и вступить в ряды Свободы. Им нужны хорошие бойцы.</text>
+		</string>
+		<string id="bar_bar_osvedomitel_start_211">
+			<text>Я подумаю над этим.</text>
+		</string>
+		<string id="bar_bar_osvedomitel_start_2111">
+			<text> Что тебя привело ко мне? Хочешь купить информацию?</text>
+		</string>
+		<string id="bar_bar_osvedomitel_talk_0">
+			<text>Так ты получается, связан со Свободой?</text>
+		</string>
+		<string id="bar_bar_osvedomitel_talk_1">
+			<text>Сейчас я не готов ответить на этот вопрос. Что я могу сказать, так это то, что я не состою ни в одной из группировок.</text>
+		</string>
+		<string id="bar_bar_osvedomitel_talk_about_freedom_0">
+			<text>Расскажи о группировке "Свобода".</text>
+		</string>
+		<string id="bar_bar_osvedomitel_talk_about_freedom_1">
+			<text>Конечно, что за вопрос. "Свобода" одна из самых старых группировок в Зоне, и единственная, которая открыто сопротивляется правительственным войскам и исследовательским группам. Ее основатели погибли во время крупной стычки с правительственными войсками, во время широкомасштабного армейского десанта в Зону. Возможность военно-правительственного контроля была ликвидирована. И возможно, это не дало миру низвергнуться в новую мировую войну, с применением новых технологий. Судя по некоторой обрывочной информации, Зона это секретный военный полигон, на котором проводились испытания новых военных технологий. И, по крайней мере, результат "испытаний" впечатляет. "Свобода" единственная группа, которая противостоит возвращению полигона правительственным войскам. Что случится, если полигон будет возвращен неизвестно, удержать его надо любой ценой.</text>
+		</string>
+		<string id="bar_bar_osvedomitel_talk_about_freedom_2">
+			<text>А чего добивается "Долг"?</text>
+		</string>
+		<string id="bar_bar_osvedomitel_talk_about_freedom_3">
+			<text>Долг это часть правительственных сил, которые контролируются извне. Их цели зачистка территории от мутантов и уничтожение группы "Свободы", чем они и занимаются. Как только последняя преграда будет убрана в Зону будет сброшен многочисленный армейский десант, который возьмет под контроль Зону.</text>
+		</string>
+		<string id="bar_bar_osvedomitel_talk_about_freedom_4">
+			<text>Спасибо за информацию</text>
+		</string>
+		<string id="bar_bar_osvedomitel_trade_info_0">
+			<text>Я хочу купить информацию.</text>
+		</string>
+		<string id="bar_bar_osvedomitel_trade_info_21">
+			<text> Как ты знаешь сейчас трудно куда либо выбратся с кордона, но у меня имеется информация о телепорте на росток. За цену в 4000 рублей.</text>
+		</string>
+		<string id="bar_bar_osvedomitel_trade_info_211">
+			<text>Хорошо вот 4000.</text>
+		</string>
+		<string id="bar_bar_osvedomitel_trade_info_2111">
+			<text>у нас на блок посту появился телепорт,там где поваленое дерево нужно пройти вдоль ограждения из колючей проволоки в сторону бтэра,... а кидает он через колючку на окраину , в дали ты увидешь то за что ты сейчас заплатила... </text>
+		</string>
+		<string id="bar_bar_osvedomitel_trade_info_212">
+			<text>Нет, я передумала.</text>
+		</string>
+		<string id="bar_bar_osvedomitel_trade_info_2121">
+			<text>Дело твое...</text>
+		</string>
+		<string id="bar_bar_osvedomitel_trade_info_31">
+			<text>ещё есть информация о новом артефакте. цена  2000 рублей.</text>
+		</string>
+		<string id="bar_bar_osvedomitel_trade_info_311">
+			<text> Держи 2000.</text>
+		</string>
+		<string id="bar_bar_osvedomitel_trade_info_3111">
+			<text>в зоне появился неизвестный артифакт, называется черный ангел...один пленный монолитовец с гордостью расказал перед тем как его расстреляли, мол этот артифакт защищает от всего что может причинить вред организму и что скоро они будут экиперованы этими артами, а значит станут непобедимыми...</text>
+		</string>
+		<string id="bar_bar_osvedomitel_trade_info_312">
+			<text>Нет, я передумала.</text>
+		</string>
+		<string id="bar_bar_osvedomitel_trade_info_3121">
+			<text> решишься приходи...</text>
+		</string>
+		<string id="bar_bar_osvedomitel_trade_info_41">
+			<text>есть инфа о том что кое где лежит рг-7 ну типа фаус патрон, такая большая плювалка ей можно что угодно разнести в пух и прах но я тебе этого не советую делать...цена  3500 рублей.</text>
+		</string>
+		<string id="bar_bar_osvedomitel_trade_info_411">
+			<text>Хорошо, покупаю. Держи 3500.</text>
+		</string>
+		<string id="bar_bar_osvedomitel_trade_info_4111">
+			<text>За жд мостом что недалеко, слева от дороги есть заброшенная ферма, заней небольшой лесок, вот в этом то лесочке есть телепорт он через ограждение бросает,а там куда он забросит возле деревянных ящиков лежит то о чем ты интересуешься</text>
+		</string>
+		<string id="bar_bar_osvedomitel_trade_info_412">
+			<text>Нет, я передумала.</text>
+		</string>
+		<string id="bar_bar_osvedomitel_trade_info_4121">
+			<text> Как решишься приходи...</text>
+		</string>
+		<string id="bar_bar_osvedomitel_trade_info_999">
+			<text>В данный момент новой пока информации нет.</text>
+		</string>
+		<string id="bar_bar_visitors_1_start_11">
+			<text>...давно было пора замочить Борова. Знал бы, кто это сделал, купил бы ему выпить.</text>
+		</string>
+		<string id="bar_bar_visitors_1_start_111">
+			<text>Точно, давно пора.</text>
+		</string>
+		<string id="bar_bar_visitors_1_start_21">
+			<text>...кто-то сильно досадил Свободе. Слышал я, что на "Дикой территории" уничтожили отряд боевиков Свободы. Интересно, кто же это мог быть?</text>
+		</string>
+		<string id="bar_bar_visitors_1_start_211">
+			<text>Ага, если б знать...</text>
+		</string>
+		<string id="bar_bar_visitors_1_start_31">
+			<text>...наконец-то у кого-то хватило сил уничтожить гнездо кровососов на Дикой территории... И куда только Долг смотрит?</text>
+		</string>
+		<string id="bar_bar_visitors_1_start_311">
+			<text>Долг смотрит на Свободу, куда ж еще.</text>
+		</string>
+		<string id="bar_bar_visitors_1_start_41">
+			<text>...слышал я, кто-то таки прибил лидера Свободы. Теперь у них начнутся тяжелые времена, Долг, наконец, прижмет их окончательно.</text>
+		</string>
+		<string id="bar_bar_visitors_1_start_411">
+			<text>Будем надеяться.</text>
+		</string>
+		<string id="bar_bar_visitors_1_start_51">
+			<text>Так это ты уничтожил ветеранов??? Ну даешь, дружище. В том районе, где они крутились, за последнее время пропало около шести сталкеров... и все давно подозревали этих съехавших с катушек ветеранов... Хорошо что их наконец прижучили.</text>
+		</string>
+		<string id="bar_bar_visitors_1_start_511">
+			<text>Похоже многие хотели, чтобы ветераны "ушли".</text>
+		</string>
+		<string id="bar_bar_visitors_1_start_61">
+			<text>Ты отключил излучение на Янтаре? Ну ты просто везучий псих, черт возьми, рад что хоть кто-то смог наконец справиться с ней. Эх... сколько наших там полегло, ты даже не можешь себе представить... но теперь ученые раскопают, что это было такое... теперь может и с "выжигателем мозгов" справимся...</text>
+		</string>
+		<string id="bar_bar_visitors_1_start_611">
+			<text>Хотелось бы верить, что "выжигатель" тоже возможно "отключить".</text>
+		</string>
+		<string id="bar_bar_visitors_1_start_71">
+			<text>Чего тебе? Не видишь я пытаюсь расслабиться.</text>
+		</string>
+		<string id="bar_bar_visitors_1_start_711">
+			<text>Что новенького?</text>
+		</string>
+		<string id="bar_bar_visitors_1_start_7111">
+			<text>Слышал я, что вернулся Стрелок. Вместе со всем необходимым для прорыва к "исполнителю"... Только вот прячется он, потому что многие за ним охотятся. Кто-то явно, кто-то тайно. По слухам даже Долг и Свобода включились в охоту... и у каждого своя цель.</text>
+		</string>
+		<string id="bar_bar_visitors_1_start_71111">
+			<text>Похоже Стрелок не зря прячется.</text>
+		</string>
+		<string id="bar_bar_visitors_10_start_71">
+			<text>Чего тебе?</text>
+		</string>
+		<string id="bar_bar_visitors_10_start_711">
+			<text>Можешь рассказать что-нибудь полезное для новичка?</text>
+		</string>
+		<string id="bar_bar_visitors_10_start_7111">
+			<text>Для новичка говоришь? Ну слушай. На севере, совсем недалеко от "выжигателя мозгов", на старой военной базе находится группировка "Свобода". Отъявленные нигилисты, анархисты и преступники. Борцы за свободу, едрить их налево. Партизаны хреновы. Все чем они занимаются это диверсии против научных групп, обстрел армейских частей и постоянная грызня с Долгом, недавно перешедшая в маленькую войну на выживание. Я могу дать тебе только один совет - никогда с ними не связывайся, туда только совсем оторванных принимают. Если за твою голову нет награды, не примут... Ха-ха-ха... можешь себе такое представить?</text>
+		</string>
+		<string id="bar_bar_visitors_10_start_71111">
+			<text>Спасибо за совет</text>
+		</string>
+		<string id="bar_bar_visitors_12_start_71">
+			<text>Чего тебе?</text>
+		</string>
+		<string id="bar_bar_visitors_12_start_711">
+			<text>Можешь рассказать что-нибудь полезное для новичка?</text>
+		</string>
+		<string id="bar_bar_visitors_12_start_7111">
+			<text>Дааа, вот была группировка... хех... по всей Зоне про нее легенды ходили... Говорили о них и хорошее и плохое, только мало кто правду знал. А правда-то в том, что с Зоной они справиться хотели, раскапывали причины ее появления. За что и охотились на них военные сталкеры, только не знали, где искать. Правительственные организации что-то знали, чего обычным сталкерам знать не следует... так-то. В один прекрасный момент они нашли какую-то очень важную информацию и часть группировки, вместе со Стрелком, рванула к центру Зоны. Половина группы полегла при подходах, но они-таки добрались. Что с ними произошло потом, никто не знает. Сгинули они похоже. А оставшихся в группировке тем временем отловили да вырезали... и никто не выжил. Вот такая вот история.</text>
+		</string>
+		<string id="bar_bar_visitors_12_start_71111">
+			<text>Да, очевидно, кое-кто очень заинтересован в том, чтобы Зона оставалась непознанной.</text>
+		</string>
+		<string id="bar_bar_visitors_13_start_71">
+			<text>Чего тебе?</text>
+		</string>
+		<string id="bar_bar_visitors_13_start_711">
+			<text>Можешь рассказать что-нибудь полезное для новичка?</text>
+		</string>
+		<string id="bar_bar_visitors_13_start_7111">
+			<text>Группировка Наемников это что-то вроде Свободы, только хуже. У Свободы хоть идея есть, а эти шакалы на любые мерзости согласны, только плати... Перестрелять их всех и дело с концом, пока что-то опасное из Зоны в цивильный мир не притащили. Они в мертвом городе сидят. И в каждой высотке по снайперу, так-то. Чтоб чужие не ходили.</text>
+		</string>
+		<string id="bar_bar_visitors_13_start_71111">
+			<text>Похоже, надо быть поосторожнее в мертвом городе.</text>
+		</string>
+		<string id="bar_bar_visitors_14_start_71">
+			<text>Чего тебе?</text>
+		</string>
+		<string id="bar_bar_visitors_14_start_711">
+			<text>Можешь рассказать что-нибудь полезное для новичка?</text>
+		</string>
+		<string id="bar_bar_visitors_14_start_7111">
+			<text>Дааа, вот была группировка... хех... по всей Зоне про нее легенды ходили... Говорили о них и хорошее и плохое, только мало кто правду знал. А правда-то в том, что с Зоной они справиться хотели, раскапывали причины ее появления. За что и охотились на них военные сталкеры, только не знали, где искать. Правительственные организации что-то знали, чего обычным сталкерам знать не следует... так-то. В один прекрасный момент они нашли какую-то очень важную информацию и часть группировки, вместе со Стрелком, рванула к центру Зоны. Половина группы полегла при подходах, но они-таки добрались. Что с ними произошло потом, никто не знает. Сгинули они похоже. А оставшихся в группировке тем временем отловили да вырезали... и никто не выжил. Вот такая вот история.</text>
+		</string>
+		<string id="bar_bar_visitors_14_start_81">
+			<text>Чего тебе?</text>
+		</string>
+		<string id="bar_bar_visitors_14_start_82">
+			<text>Ты Лысый? Мне нужно с тобой поговорить.</text>
+		</string>
+		<string id="bar_bar_visitors_14_start_83">
+			<text>Ну я, что с того?</text>
+		</string>
+		<string id="bar_bar_visitors_14_start_84">
+			<text>Рябого вытащили с Радара, вот что. А Горбун погиб, по словам Рябого.</text>
+		</string>
+		<string id="bar_bar_visitors_14_start_85">
+			<text>Черт.</text>
+		</string>
+		<string id="bar_bar_visitors_14_start_86">
+			<text>Рябой в очень плохом состоянии, ничего не соображает. Ты не можешь попробовать его разговорить? Нам надо узнать время работы "выжигателя мозгов"</text>
+		</string>
+		<string id="bar_bar_visitors_14_start_87">
+			<text>Нет, нет, нет! Это из-за меня погиб Горбун, и Рябому досталось. В самый тяжелый момент я их предал и сбежал. Я не смогу теперь Рябому в глаза смотреть.</text>
+		</string>
+		<string id="bar_bar_visitors_14_start_88">
+			<text>Расскажи подробнее что произошло.</text>
+		</string>
+		<string id="bar_bar_visitors_14_start_89">
+			<text>Я, Горбун и Рябой давно готовились прорываться на Север. У нас не хватало только времени спада излучения "выжигателя", и Рябой достал эту информацию, у кого я совершенно без понятия. Мы прошли пол Радара, как "выжигатель" неожиданно включился. Рябому снесло крышу, он потерял сознание и свалился со склона. Я запаниковал, решил все бросить и возвращаться. Горбун настаивал на том чтобы вытащить Рябого, но это было бы чистейшим самоубийством, спускаться и тащить Рябого всю дорогу обратно. Я согласился с Горбуном и он полез вниз по склону к Рябому, как очередной всплеск "выжигателя" не накрыл нас. Я опомнился уже возле военной базы, до этого времени я считал что они погибли, но похоже Горбун ценой своей жизни вытащил Рябого.</text>
+		</string>
+		<string id="bar_bar_visitors_14_start_90">
+			<text>Спасибо за рассказ, Лысый. Я попробуй разговорить Рябого.</text>
+		</string>
+		<string id="bar_bar_visitors_14_start_91">
+			<text>Извини, брат. Не хочу больше говорить, я лучше еще выпью...</text>
+		</string>
+		<string id="bar_bar_visitors_2_start_71">
+			<text>Чего тебе?</text>
+		</string>
+		<string id="bar_bar_visitors_2_start_711">
+			<text>Что новенького?</text>
+		</string>
+		<string id="bar_bar_visitors_2_start_7111">
+			<text>Был такой горбатый мужик и картавил к тому же, за горб его и прозвали Горбун. Не в себе был, сам с собой да с животными разговаривал... а в остальном вроде нормальный. Пропал в центре, вместе со Стрелком, хоть и болтают, что Стрелок вернулся.</text>
+		</string>
+		<string id="bar_bar_visitors_2_start_71111">
+			<text>Интересно где он сейчас.</text>
+		</string>
+		<string id="bar_bar_visitors_3_start_71">
+			<text>Чего тебе?</text>
+		</string>
+		<string id="bar_bar_visitors_3_start_711">
+			<text>Что новенького?</text>
+		</string>
+		<string id="bar_bar_visitors_3_start_7111">
+			<text>На "дикой территории" развелись кровососы, гады. Уже ночами выползать начали. А они, как известно, становятся сильнее, когда крови напьются. Но говорят, что-то важное на этом заводе находится, что-то просто жизненно необходимое. Недавно вот сунулись из Долга туда, да так все и сгинули, только крики их мы целый день по округе слышали.</text>
+		</string>
+		<string id="bar_bar_visitors_3_start_71111">
+			<text>Спасибо за информацию.</text>
+		</string>
+		<string id="bar_bar_visitors_4_start_71">
+			<text>Чего тебе?</text>
+		</string>
+		<string id="bar_bar_visitors_4_start_711">
+			<text>Что слышно?</text>
+		</string>
+		<string id="bar_bar_visitors_4_start_7111">
+			<text>Если обойти озеро Янтарь, то лагерь научный найдешь, они там изучают что-то... Их вертолет привез, он же им регулярно провизию поставляет, так что они там хорошо окопались... С ними потолковать можно, они артефакты покупают, даже могут попросить что-то выполнить.</text>
+		</string>
+		<string id="bar_bar_visitors_4_start_71111">
+			<text>Спасибо за информацию.</text>
+		</string>
+		<string id="bar_bar_visitors_5_start_71">
+			<text>Чего тебе?</text>
+		</string>
+		<string id="bar_bar_visitors_5_start_711">
+			<text>Что слышно?</text>
+		</string>
+		<string id="bar_bar_visitors_5_start_7111">
+			<text>Никто не может пробиться через кладбища техники из-за "Выжигателя мозгов". Было несколько свидетелей, которые видели, как какой-то сталкер перешел через невидимую грань и внезапно упал, а через несколько минут с трудом встал и не оборачиваясь ушел внутрь кладбищ, больше его не видели...</text>
+		</string>
+		<string id="bar_bar_visitors_5_start_71111">
+			<text>Интересно.</text>
+		</string>
+		<string id="bar_bar_visitors_6_start_71">
+			<text>Чего тебе?</text>
+		</string>
+		<string id="bar_bar_visitors_6_start_711">
+			<text>Что слышно?</text>
+		</string>
+		<string id="bar_bar_visitors_6_start_7111">
+			<text>Время от времени возвращаются пропавшие сталкеры. Жуткое я тебе скажу зрелище, мычат что-то и за отсутствующее оружие тянутся. Как-то притащился один такой к заставе Долга, куча народу тогда собралась, посмотреть. Вроде узнали даже. Страшный, глаза красные, весь в кровоподтеках, сказать ничего не может, только мычит и кругами ходит. Долг его к себе забрал, только издох он через пару дней. Что-то происходит в Зоне с людьми. Только вот что?</text>
+		</string>
+		<string id="bar_bar_visitors_6_start_71111">
+			<text>Хотелось бы я знать.</text>
+		</string>
+		<string id="bar_bar_visitors_7_start_71">
+			<text>Чего тебе?</text>
+		</string>
+		<string id="bar_bar_visitors_7_start_711">
+			<text>Что слышно?</text>
+		</string>
+		<string id="bar_bar_visitors_7_start_7111">
+			<text>Зомбаки-пустышки бродят кругами вокруг озера Янтарь, увидят если, начинают и за тобой охотиться, тут уж ноги делать надо, потому как много их, сталкеров бывших. Сгинули они на этом озере, а теперь пустышки только бродят.</text>
+		</string>
+		<string id="bar_bar_visitors_7_start_71111">
+			<text>Да уж, не хотелось бы пополнить их ряды.</text>
+		</string>
+		<string id="bar_bar_visitors_8_start_71">
+			<text>Чего тебе?</text>
+		</string>
+		<string id="bar_bar_visitors_8_start_711">
+			<text>Что слышно?</text>
+		</string>
+		<string id="bar_bar_visitors_8_start_7111">
+			<text>Торговцы говорят, что в центре Зоны "клондайк артефактов"... типа тот, кто туда проберется сказочно разбогатеет... хех. У меня на этот счет другое мнение, торговцам оно и понятно - о своей выгоде думают, да только ходят кое-какие слухи. Будто бы там кое-что получше, чем россыпь артефактов, что-то, что не принадлежит нашему миру, вроде как инопланетное или вообще из какого-то другого измерения. Исполнитель желаний называется, во как! Я даже легенду слышал о сталкере, который добрался до него. Только, говорят Зона растет, после каждого исполненного желания и те, кто туда добрались, похоже не загадывают, чтобы Зона исчезла. Видать, когда добираешься до исполнителя уже плевать на остальных, только своя шкура волнует.</text>
+		</string>
+		<string id="bar_bar_visitors_8_start_71111">
+			<text>Печально.</text>
+		</string>
+		<string id="bar_bar_visitors_9_start_71">
+			<text>Чего тебе?</text>
+		</string>
+		<string id="bar_bar_visitors_9_start_711">
+			<text>Что слышно?</text>
+		</string>
+		<string id="bar_bar_visitors_9_start_7111">
+			<text>Верящие в Монолит - психи. Они кричат о нем, но никто не знает, что находится в центре Зоны. Невидимый кристалл упавший с небес... Ха-ха. Я думаю, это рванула одна из секретных лабораторий. Кто-то даже говорил, что когда-то работал там. Но, конечно, бомбить Зону нельзя, мало того, что радиацию разнесет по всему миру, так еще реакция Зоны может разворотить пол-Европы... Последнее время что-то совсем у них крыша съехала... я слышал, что простых сталкеров убивать начали, за просто так. Как тебе такое? Совсем крышей съехали, фанатики чертовы.</text>
+		</string>
+		<string id="bar_bar_visitors_9_start_71111">
+			<text>Мне кажется это стоит внимания.</text>
+		</string>
+		<string id="bar_dolg_base_guard_acces_0">
+			<text>Я хочу вступить в Долг? Что мне надо сделать?</text>
+		</string>
+		<string id="bar_dolg_base_guard_acces_1">
+			<text>Плати взнос 1000 рублей и получишь пропуск. С ним спускайся в бункер к Воронину, он тебе назначит проверку.</text>
+		</string>
+		<string id="bar_dolg_base_guard_acces_11">
+			<text>Хорошо, вот деньги.</text>
+		</string>
+		<string id="bar_dolg_base_guard_acces_111">
+			<text>Вот и отлично, держи пропуск, и дуй с ним к администратору Петренко, я тебя отметил на карте.</text>
+		</string>
+		<string id="bar_dolg_base_guard_acces_12">
+			<text>Нет, я передумал.</text>
+		</string>
+		<string id="bar_dolg_base_guard_acces_121">
+			<text>Ну дело твое, бывай.</text>
+		</string>
+		<string id="bar_dolg_base_guard_acces_21">
+			<text>Потому что бандитам Свободы нет места в Зоне, они должны быть уничтожены. Если тебе интересно, то спроси бармена, он тебе все объяснит, я слишком занят для этого.</text>
+		</string>
+		<string id="bar_dolg_base_guard_acces_31">
+			<text>Плати взнос 1000 рублей и получишь пропуск. С ним иди к администратору Долга, он тебе назначит проверки.</text>
+		</string>
+		<string id="bar_dolg_base_guard_acces_311">
+			<text>Хорошо, вот деньги.</text>
+		</string>
+		<string id="bar_dolg_base_guard_acces_3111">
+			<text>Вот и отлично, держи пропуск, и дуй с ним к администратору Петренко, я тебя отметил на карте.</text>
+		</string>
+		<string id="bar_dolg_base_guard_acces_312">
+			<text>Нет, я передумал.</text>
+		</string>
+		<string id="bar_dolg_base_guard_acces_3121">
+			<text>Ну дело твое, бывай.</text>
+		</string>
+		<string id="bar_dolg_base_guard_rules_0">
+			<text>Бармен мне сказал, что у вашего начальства есть для меня какое-то задание.</text>
+		</string>
+		<string id="bar_dolg_base_guard_rules_1">
+			<text>Да он сообщил нам о тебе, но перед тем как мы тебя пропустим я должен ознакомить тебя с нашими правилами. Значит слушай, правила у нас простые. Первое правило - стрелять на нашей территории запрещено. За два нарушения наш патруль открывает по тебе огонь. Даже если ты сделаешь ноги, то больше на нашей территории не появишься, охрана о тебе позаботится. Будешь вести себя спокойно и проблем у тебя не будет.</text>
+		</string>
+		<string id="bar_dolg_base_guard_rules_2">
+			<text>Ясно. Это все?</text>
+		</string>
+		<string id="bar_dolg_base_guard_rules_3">
+			<text>Да, этого достаточно. Можешь проходить.</text>
+		</string>
+		<string id="bar_dolg_base_guard_rules_4">
+			<text>Ясно. Это все?</text>
+		</string>
+		<string id="bar_dolg_base_guard_rules_5">
+			<text>Да, этого достаточно. Если захочешь попробовать вступить в группировку Долг, то, милости прошу, обращайся. Нам нужные хорошие бойцы. Но хочу тебя предупредить, перед тем как тебя примут тебе придется выполнить ряд опасных заданий. Слабаки нам не нужны, поэтом все проходят проверку.</text>
+		</string>
+		<string id="bar_dolg_base_guard_start_11">
+			<text>Стой! На территорию базы Долга дороги нет! Чужакам там делать нечего.</text>
+		</string>
+		<string id="bar_dolg_base_guard_start_21">
+			<text>Чего стоишь? Проходи быстрее.</text>
+		</string>
+		<string id="bar_dolg_base_guard_start_31">
+			<text>Проходи, брат. И помни, миссия Долга - очищение!</text>
+		</string>
+		<string id="bar_dolg_base_guard_talk_0">
+			<text>Почему вы не пускаете чужаков?</text>
+		</string>
+		<string id="bar_dolg_base_guard_talk_1">
+			<text>Ты откуда вылез, такой наивный? У нас война идет, понимаешь? С бандитами Свободы. Регулярные стычки с ихними боевиками на дикой территории.</text>
+		</string>
+		<string id="bar_dolg_base_guard_talk_2">
+			<text>Война с группировкой Свободы? Почему?</text>
+		</string>
+		<string id="bar_dolg_base_guard_talk_3">
+			<text>Потому что бандитам Свободы нет места в Зоне, они должны быть уничтожены. Если тебе интересно, то спроси бармена, он тебе все объяснит, я слишком занят для этого.</text>
+		</string>
+		<string id="bar_dolg_guard_bunker_start_11">
+			<text>Стой! Дальше вход только членам группировки. Без специального разрешения в бункер не пустим! Если хочешь его получить, сходи к полковнику Петренко, он в администрации через двор.</text>
+		</string>
+		<string id="bar_dolg_guard_bunker_start_21">
+			<text>Чего стоишь? Проходи быстрее.</text>
+		</string>
+		<string id="bar_dolg_guard_bunker_start_31">
+			<text>Проходи, брат. И помни, миссия Долга - очищение!</text>
+		</string>
+		<string id="bar_dolg_ivancov_start_11">
+			<text>у ты КаКая!?!</text>
+		</string>
+		<string id="bar_dolg_ivancov_start_21">
+			<text>Слушаю.</text>
+		</string>
+		<string id="bar_dolg_ivancov_start_31">
+			<text>Здравствуй, брат.</text>
+		</string>
+		<string id="bar_dolg_leader_job_0">
+			<text>Что еще я могу сделать для Долга?</text>
+		</string>
+		<string id="bar_dolg_leader_job_1">
+			<text>Хороший вопрос, Меченый, и на него есть хороший ответ - уничтожай анархистов группировки Свобода и за каждый КПК анархиста ты будешь получать вознаграждения, кроме того, сможешь получишь новое звание. Все КПК неси к Петренко, он выдает вознаграждение.</text>
+		</string>
+		<string id="bar_dolg_leader_join_0">
+			<text>Извините, вы незнаете случайно человека по прозвищу Стрелок?...</text>
+		</string>
+		<string id="bar_dolg_leader_join_1">
+			<text>  Как ты понимаешь, в этом мире ничего не делается просто так, придется выполнить для меня одно задание, а после этого я расскажу тебе все что знаю и постораюсь ответить на твои вопросы...Ну как согласна?...</text>
+		</string>
+		<string id="bar_dolg_leader_join_11">
+			<text>Хорошо... Думаю эта информация того стоит, раз за нее придется выполнять какое-то задание... Смотри не обмани меня дядя, а то я девочка нервная...</text>
+		</string>
+		<string id="bar_dolg_leader_join_111">
+			<text>Вобщем вояки с кордона, встречали каких-то ученых, мы их переговоры по рации слышали, что-то у них там пошло не так. Их бтр в аномалию попал, все погибли кроме одного, он долгое время отстреливался от какой-то нечисти. Помощь с кордона по рации звал, кричал что заряды у гранатомета кончаются. И похоже не дождался он помощи, связь оборвалась. Тебе нужно найти гранатомет и принести мне, я в долгу неостанусь, отблагодарю...</text>
+		</string>
+		<string id="bar_dolg_leader_join_1111">
+			<text>Ясно, говори куда надо топать.</text>
+		</string>
+		<string id="bar_dolg_leader_join_11111">
+			<text>Прыгни в телепорт, который у тебя за спиной, и окажешься возле старого дома. Там есть тропинка, в сторону разрушенной церкви, от нее тебе нужно будет добраться до мастерских, там еще много всякой техники, а немного дальше брошенный хутор. Ты его узнаешь, там бтр стоять должен. Вот там-то, и стоит искать гранатомет</text>
+		</string>
+		<string id="bar_dolg_leader_join_1112">
+			<text>Нет, я пока не готова к таким подвигам.</text>
+		</string>
+		<string id="bar_dolg_leader_join_11121">
+			<text>Дело твое.</text>
+		</string>
+		<string id="bar_dolg_leader_prisyaga_0">
+			<text>Я готов принять присягу!</text>
+		</string>
+		<string id="bar_dolg_leader_prisyaga_1">
+			<text>Молодец! Тогда повторяй за мной: Я, сталкер по прозвищу Меченый, клянусь защищать цели и идеалы Долга.</text>
+		</string>
+		<string id="bar_dolg_leader_prisyaga_2">
+			<text>Я, сталкер по прозвищу Меченый, клянусь защищать цели и идеалы Долга.</text>
+		</string>
+		<string id="bar_dolg_leader_prisyaga_3">
+			<text>Беречь Землю от опасностей Зоны. Преследовать и уничтожать любые проявления Зоны как внутри ее, так и за ее границами.</text>
+		</string>
+		<string id="bar_dolg_leader_prisyaga_4">
+			<text>Беречь Землю от опасностей Зоны. Преследовать и уничтожать любые проявления Зоны как внутри ее, так и за ее границами.</text>
+		</string>
+		<string id="bar_dolg_leader_prisyaga_5">
+			<text>Бороться с любым инакомыслием в лице как отдельных сталкеров, так и группировок.</text>
+		</string>
+		<string id="bar_dolg_leader_prisyaga_6">
+			<text>Бороться с любым инакомыслием в лице как отдельных сталкеров, так и группировок.</text>
+		</string>
+		<string id="bar_dolg_leader_prisyaga_7">
+			<text>И отдать жизнь, во имя справедливости и порядка на Земле!</text>
+		</string>
+		<string id="bar_dolg_leader_prisyaga_8">
+			<text>И отдать жизнь, во имя справедливости и порядка на Земле!</text>
+		</string>
+		<string id="bar_dolg_leader_prisyaga_9">
+			<text>Поздравляю! Отныне ты являешься полноправным членом группировки Долг.</text>
+		</string>
+		<string id="bar_dolg_leader_quest_rg6_finish_0">
+			<text>Я нашла, ваш огромный револьвер, вот...</text>
+		</string>
+		<string id="bar_dolg_leader_quest_rg6_finish_1">
+			<text>Ай да девка молодчина таки нашла пушку, уважила старика... Вобщем слушай;- Стрелок здесь почти не бывает искать его нужно на янтаре или на армейских складах у свободовцев, там у него очень много друзей. Может там его и  встретишь...Да на янтаре есть торговец, Верто, он тоже может помочь найди его, только он вечно где-то пропадает, любит уединение..... А вот о том как отсюда выбраться это вопрос... Слышал я об артефакте новом, его черный ангел называют, так вот он говорят аномалии делает неопасными для его обладателя. Но самая его фишка заключается в том что он иногда включает телепорты. Скажем подходит человек с ентим артом, к аномалии карусель и прыгает в нее, думаешь трындец ему, а он шасть и на другую локацию переместился ...Сходи еще к туннелю,  там у Доктора типо личного кабинета что ли, может там найдешь какую-нибудь подсказку, о том как выбраться с болот... Это все что я знаю...</text>
+		</string>
+		<string id="bar_dolg_leader_start_11">
+			<text>Какие люди!...</text>
+		</string>
+		<string id="bar_dolg_leader_start_21">
+			<text>Ну ничего себе...</text>
+		</string>
+		<string id="bar_dolg_leader_start_31">
+			<text>Ну что, нашла пушку?</text>
+		</string>
+		<string id="bar_dolg_leader_start_311">
+			<text>Возьми свой револьвер...</text>
+		</string>
+		<string id="bar_dolg_leader_start_3111">
+			<text>Ай да девка молодчина таки нашла пушку, уважила старика... Вобщем слушай;- Стрелок здесь почти не бывает искать его нужно на янтаре или на армейских складах у свободовцев, там у него очень много друзей. Может там его и  встретишь...Да на янтаре есть торговец, Верто, он тоже может помочь найди его, только он вечно где-то пропадает, любит уединение..... А вот о том как отсюда выбраться это вопрос... Слышал я об артефакте новом, его черный ангел называют, так вот он говорят аномалии делает неопасными для его обладателя. Но самая его фишка заключается в том что он иногда включает телепорты. Скажем подходит человек с ентим артом, к аномалии карусель и прыгает в нее, думаешь трындец ему, а он шасть и на другую локацию переместился ...Сходи еще к туннелю,  там у Доктора типо личного кабинета что ли, может там найдешь какую-нибудь подсказку, о том как выбраться с болот... Это все что я знаю...</text>
+		</string>
+		<string id="bar_dolg_leader_start_41">
+			<text>Ну ничего себе...</text>
+		</string>
+		<string id="bar_dolg_leader_start_51">
+			<text>Война со Свободой близится к концу, Меченый. Ты внес вклад в общее дело и теперь я хочу поставить точку в этой войне. Я хочу чтобы ты уничтожил лидера Свободы.</text>
+		</string>
+		<string id="bar_dolg_leader_start_81">
+			<text>Что привело тебя ко мне, брат? Ты уничтожил лидера анархистов Свободы, что привело к распаду группировки. Война еще не закончена, но исход ее уже предрешен. Твоя заслуга очень велика, мы этого не забудем.</text>
+		</string>
+		<string id="bar_dolg_newbie_start_11">
+			<text>Здоров, сталкер. Вступай в Долг, нам нужны хорошие бойцы. Я сам недавно вступил. Ты только посмотри, какую классную форму мне выдали!</text>
+		</string>
+		<string id="bar_dolg_newbie_start_21">
+			<text>Привет, Меченый. Хорошо что ты с нами, скоро Долгу понадобятся хорошие бойцы.</text>
+		</string>
+		<string id="bar_dolg_novice_start_2">
+			<text>Здравствуй, брат сталкер.</text>
+		</string>
+		<string id="bar_dolg_novice_start_3">
+			<text>Расскажи о Долге.</text>
+		</string>
+		<string id="bar_dolg_novice_start_31">
+			<text>Мы тут с самого начала. Группировку основали выжившие члены одного из спецотрядов, отправленных в Зону, чтобы разобраться с причиной ее появления. Мы попали в серьезную передрягу. После того, как половина отряда погибла при ужасных обстоятельствах, выжившие поклялись, что не уйдут, пока не разберутся с тем, что произошло в Зоне. Пока не справятся с ней.</text>
+		</string>
+		<string id="bar_dolg_novice_start_4">
+			<text>Расскажи о Свободе.</text>
+		</string>
+		<string id="bar_dolg_novice_start_41">
+			<text>Они - отморозки, которые не понимают, что Зона - это язва на теле Земли. Хотят по всему миру ее растащить, в каждый дом по кусочку. И ради своей цели они пойдут на любые средства. Жду не дождусь, когда мы с ними покончим.</text>
+		</string>
+		<string id="bar_dolg_novice_start_5">
+			<text>Вы хотите справиться с Зоной?</text>
+		</string>
+		<string id="bar_dolg_novice_start_51">
+			<text>Да, и мы очень многое делаем для этого. Наши очистительные миссии выжигают целые гнезда мутированной заразы на подходах к центру Зоны.</text>
+		</string>
+		<string id="bar_dolg_novice_start_6">
+			<text>Спасибо.</text>
+		</string>
+		<string id="bar_dolg_petrenko_start_11">
+			<text>Слушаю.</text>
+		</string>
+		<string id="bar_dolg_petrenko_start_21">
+			<text>Чем могу помочь?</text>
+		</string>
+		<string id="bar_dolg_petrenko_start_31">
+			<text>Здравствуй, брат. Что привело тебя ко мне?</text>
+		</string>
+		<string id="bar_dolg_veteran_start_2">
+			<text>Чего тебе?</text>
+		</string>
+		<string id="bar_dolg_zastava_11">
+			<text>Проходи, не задерживайся... Чего уставился?</text>
+		</string>
+		<string id="bar_dolg_zastava_21">
+			<text>О, привет старик! Рад, что тебя еще мутанты не сожрали.</text>
+		</string>
+		<string id="bar_dolg_zastava_about_zastava_0">
+			<text>Перед заставой была </text>
+		</string>
+		<string id="bar_dolg_zastava_about_zastava_1">
+			<text>Это останки от прошлой "волны" мутантов</text>
+		</string>
+		<string id="bar_dolg_zastava_talk_0">
+			<text>Здравствуйте можно вас спросить, о человеке которого я ищу.?...</text>
+		</string>
+		<string id="bar_dolg_zastava_talk_1">
+			<text>Ты че из органов чтоли?...Шучу я они сюда неходят.спрашивай что хотела?</text>
+		</string>
+		<string id="bar_dolg_zastava_talk_2">
+			<text>Я ищу человека по прозвищу стрелок я его дочь...он пропал несколько лет назад,.. если вы что-нибудь знаете о нем расскажите мне пожалуйста.....я уже столько брожу здесь и как назло ни одного телепорта досих пор  ненашла... </text>
+		</string>
+		<string id="bar_dolg_zastava_talk_21">
+			<text>О стрелке в зоне многие слышали только не все его видели, потому что он на кордоне почти не появляется..., Тут  заходил ко мне офицер один- по фамилии Кузнецов  и выторговал у меня ствол, хороший между прочим г36 вот, а так как денег у него было мало он мне водки притащил цельный ящик, в зоне водка как бальзам от радиации спасает...-вопрос где он ее взял ведь телепортов нет уже давно, значит есть лазейка на другой огрызок земли...попробуй у него разузнать, если не подскажет то вот тебе ниточка, его солдафоны частенько на мост лазят ну там где тепловоз аж на самый верх ну не бабочек ведь ловить, как думаешь?...</text>
+		</string>
+		<string id="bar_dolg_zastava_talk_21311">
+			<text>Спасибо за информацию.</text>
+		</string>
+		<string id="bar_dolg_zastava_talk_214">
+			<text>Спасибо за информацию.</text>
+		</string>
+		<string id="bar_dolg_zavskald_reward_0">
+			<text>Я тут по делу.</text>
+		</string>
+		<string id="bar_dolg_zavskald_reward_1">
+			<text>Я догадываюсь, явно чего-то хочешь.</text>
+		</string>
+		<string id="bar_dolg_zavskald_reward_11">
+			<text>Я там завалил одну свинью по дороге. Говорят, ценный экспонат.</text>
+		</string>
+		<string id="bar_dolg_zavskald_reward_111">
+			<text>Наслышан, ты пристрелил Борова. Ну что же, тебе полагается премия и хороший ствол. Не опозорь честное оружие.</text>
+		</string>
+		<string id="bar_dolg_zavskald_reward_1111">
+			<text>Не беспокойся за меня.</text>
+		</string>
+		<string id="bar_dolg_zavskald_reward_12">
+			<text>Я там поговорил с Тираном из Свободы, в общем он понял свою ошибку и пообещал больше не безобразничать. И я уверен, что свое слово он сдержит, мертвые не врут.</text>
+		</string>
+		<string id="bar_dolg_zavskald_reward_121">
+			<text>Да, Тиран был бельмом у нас на глазу долгое время. Рад, что ты его убил. Вот премиальные и вот "Гром" - наше фирменное оружие.</text>
+		</string>
+		<string id="bar_dolg_zavskald_reward_1211">
+			<text>Неплохо. Ну я пошел на дальнейшие подвиги, счастливо оставаться.</text>
+		</string>
+		<string id="bar_dolg_zavskald_reward_13">
+			<text>А что, Воронин тебе еще ничего не рассказал?</text>
+		</string>
+		<string id="bar_dolg_zavskald_reward_131">
+			<text>Поздравляю, завалить лидера Свободы - это подвиг. Ты честно заслужил свою награду. Хотел бы я быть таким крутым как ты.</text>
+		</string>
+		<string id="bar_dolg_zavskald_reward_1311">
+			<text>Тренируйся, ешь манную кашу по утрам и слушайся маму. Спасибо за обновку, я пошел.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_give_info_dp_0">
+			<text>Я бы хотел кое-что узнать.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_give_info_dp_1">
+			<text>Что ты хочешь узнать?</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_give_info_dp_11">
+			<text>Кто вы и как здесь оказались?</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_give_info_dp_111">
+			<text>Моя фамилия Круглов. Я профессор биологии, изучаю Зону. Вот вчера, например, наткнулся на один очень интересный вид Antropomorphus Dendromutantus Vulgaris. В основном нахожу и описываю новые виды мутировавших животных, их повадки и особенности. Потом эта информация анализируется и я передаю ее в внешний мир, кое-что, конечно, передаю бармену. Мои открытия уже не раз спасали жизни сталкеров. Я как раз вез результаты своего исследования на Янтарь, когда мой вертолет был обстрелян.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_give_info_dp_12">
+			<text>Расскажи о Зоне.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_give_info_dp_121">
+			<text>Зона - это замечательный подарок человечеству. Конечно, жить здесь нельзя, радиация, аномалии, мутанты. Все они, конечно, смертельно опасны, зато представляют огромную научную ценность. Это почти природный эксперимент, просто заповедник для ученых. Сложно представить, что станет с наукой, после изучения Зоны. Технологии, лекарства, новые сорта растений, лекарственных и употребляемых в пищу. Биотехнологии, исцеление неизлечимых болезней, да мало ли чего еще. Может быть пищевая проблема для всей Земли будет решена. Если бы только нам не мешали, может быть мы бы уже вели человечество в "золотой век".</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_give_info_dp_1211">
+			<text>Ребята из Долга думают иначе, да и Свобода не особо стремится вам помогать.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_give_info_dp_12111">
+			<text>Вы не можете представить себе картину в целом, в глобальном масштабе. Для вас же проблемы здесь и сейчас важнее любого прогресса в будущем.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_give_info_dp_1212">
+			<text>Может быть и есть какая-то польза в изучении Зоны.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_give_info_dp_12121">
+			<text>Вы тоже это видите? Как приятно найти в собеседнике не узколобого практика. Я всегда говорил, надо смотреть на проблему шире, отрешиться от человеческих мерок. Пусть даже есть вред от Зоны, но может же быть и польза, и польза огромная я вам скажу.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_give_info_dp_13">
+			<text>Почему наемники охотятся за этой информацией?</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_give_info_dp_131">
+			<text>Не хочу вас обидеть, но сталкеры - как дети. На них очень влияет то, что они узнают. Вы посмотрите на легенды сталкеров, про исполняющий желания "Монолит", например. Это же просто детский сад. Только игры в Зоне идут уже с оружием и стоят жизней. А некоторые сталкеры ведут себя как обиженные дети, от которых утаивают опасную информацию. Вот только в руках у них не палки, а автоматы. И для них нет преград в применении силы, они легко начинают стрелять, уничтожая исследователей Зоны. Им кажется, получи они эту информацию, как перед ними откроются ворота к центру Зоны. Просто наивные дураки и, к сожалению, очень опасные дураки.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_give_info_dp_14">
+			<text>Я ищу лабораторию X16, ты знаешь где она?</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_give_info_dp_141">
+			<text>Лаборатория X16? Хмм... О чем-то таком говорил Сахаров, но я не могу вспомнить. Тебе лучше спросить у него, он на Янтаре, в мобильной лаборатории.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_give_info_dp_15">
+			<text>К сожалению, мне пора. Удачи.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_start_101">
+			<text>Меченый, останови их! Они же нас прикончат!!!</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_start_1011">
+			<text>Посиди тихо, сейчас с ними разберемся.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_start_10111">
+			<text>Хорошо.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_start_1012">
+			<text>Идем дальше, попробуем прорваться.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_start_10121">
+			<text>Идем скорее.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_start_11">
+			<text>Сталкер, помоги! Мы возвращались с Янтаря, когда нас сбили наемники. Говорят что им информация нужна, но я то знаю - перестреляют они нас. </text>
+		</string>
+		<string id="bar_ecolog_crush_professor_start_111">
+			<text>Хорошо.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_start_1111">
+			<text>Спасибо, сталкер. Боец из меня плохой, но я знаю дорогу, поэтому я буду вести, а ты прикрывай нас по пути.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_start_112">
+			<text>Нет. Выбирайся сам.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_start_1121">
+			<text>Нет. Я уверен, что ты это не со зла. Сам отсюда я все равно никуда не смогу уйти. Если передумаешь - я буду здесь... если доживу.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_start_21">
+			<text>Поторопись, нужно поскорее выбраться отсюда.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_start_31">
+			<text>Фух. Неужели мы в безопасности? Наконец-то. Спасибо тебе за помощь. Я твой должник, а пока возьми вот эту флешку. Это результаты последней экспедиции. Уверен, бармен за эту информацию хорошо заплатит.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_start_311">
+			<text>Да, мы на месте.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_start_3111">
+			<text>Меченый, если зайдешь к нам в мобильную лабораторию на Янтаре, подарим тебе скафандр научный.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_start_31111">
+			<text>Посмотрим как получится.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_start_41">
+			<text>Здравствуй, сталкер. От имени мировой науки выражаю свою благодарность.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_start_51">
+			<text>Меченый, останови их! Они же нас прикончат!!!</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_start_511">
+			<text>Посиди тихо, сейчас с ними разберемся.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_start_5111">
+			<text>Хорошо.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_start_512">
+			<text>Идем дальше, попробуем прорваться.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_start_5121">
+			<text>Идем.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_start_61">
+			<text>Меченый, останови их! Они же нас прикончат!!!</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_start_611">
+			<text>Cиди тихо. Сейчас с ними разберемся.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_start_6111">
+			<text>Хорошо, я жду здесь.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_start_612">
+			<text>Идем дальше, попробуем прорваться.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_start_6121">
+			<text>Хорошо, идем скорее.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_start_71">
+			<text>Осторожнее с Жаркой, Меченый. Мне не опасно, меня защитит скафандр, а тебе лучше избежать приближения жарки.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_start_711">
+			<text>Спасибо за совет.</text>
+		</string>
+		<string id="bar_ecolog_crush_professor_start_91">
+			<text>Скорее, Меченый. Не время болтать.</text>
+		</string>
+		<string id="bar_ecolog_dialog_11">
+			<text>Сталкер, поговори с профессором Кругловым, помоги ему выбраться.</text>
+		</string>
+		<string id="bar_ecolog_dialog_21">
+			<text>Все пропало, Круглова убили!!!</text>
+		</string>
+	</string_table>

@@ -1,0 +1,1527 @@
+-- TB3D 1.1.0.0.1.0 added hide weapon option, The Collector, restored keylogger, abort_alert added,
+-- fov nvision fixed, added Meltac DDOF option, toggle dig NV, adjusted slices, re-wrote hiding weapons
+-- re-wrote on item take to add short-circuiting of section tests, dmx135, added art det, chgd modders interface
+-- removed vkluchit_generator_done as it has flaw in all.spawn, fixed save/load amkII error, chgd fixer, fixed ara_pda,
+-- chgd scopeUsed, check actor alive on save, added option alife, moved pause timer and resync,
+-- use delta instead of slice for skips, moved collector_destroy, removed check_old_save(), mon_dead_doc and bad_psi_helmet,
+-- bioradar and inventory update, inv/radar update order, moved fixer, tweaked delta limits, removed _PIU, sak.add_tail,
+-- fss, force weather, removed death checks from slices, hit only on blow type 0, marsh_band, upd_timeNET, dell_blok_tele,
+-- sak_book4, grib_respawn to OAL, player_ogg.update, point_drop, rstr update 500, send_tip_id optimization, pause,
+-- force_garbage_collect, earth shake, xr_spawner, time_now, no avi in collector, update alert last, ftl time, debug,
+-- informer_out, blow(), on_item_take, removed blowout_wave, run_hide, active community, removed unused timers, restrictor slice,
+-- mteleport updates, memory check on save, deactivated modders calls, slice levels, removed amk_utils cache, meceniy_outfit-net_destroy,
+-- translate, moved dx11 check, slices, moved braad_test.update to tb3d_stalker, on_spawn, level number optimization, rotate_actor,
+-- show_sak_credits, on_item_take, dmx_inv_weight_static.update - aleks1970, use_act_obinder
+function my_ver() return "1.1.0.0.1.0" end
+-- TB3D re-written 08/15/2011
+-- file from the mod "People Salsola 2009" from 14.06.
+-- Adapted to the Manager of weapons. Rulix aka Bak on 02/07/2009
+-- Adatiroval: Idler.
+
+local string_find = string.find
+local translate = game.translate_string
+
+---------- globals ----------------------
+dmx_transfer = false 											-- DMX MOD
+--post_process = 0												--used by _g.script
+slice_base	= 1													--time slicer, global for xr motivator
+time_now 	= 0													--global time, all synch to the actor update in motivator
+---- end globals ------------------------
+
+local force_obinder = TB3D_Modders.use_act_obinder				--110010, calls into game binder (alife)
+if force_binder == nil then force_binder = true end
+local RestrictionStock = TB3D_Modders.restrict_stock			--Restrictions on the capacity of equipment carried if true
+local weapon_hide = false										--used by update
+local last_time													--used by time slicer, must start as nil
+
+-- counters for staggered time slicing
+local upd_timeOAL
+local upd_timeGMS
+local upd_timeCMP
+local upd_timeFSS
+local upd_timeENV
+local upd_timePSY
+local upd_timeMUS
+local upd_timeAEM
+local upd_timeARC
+local upd_timeDOC
+local upd_timeRAD
+local upd_timeMED
+local upd_timeSAK
+local upd_timeWEP
+local upd_timeSCP
+local upd_timeTSK
+local upd_timeNET
+local upd_timeKEY		--keylogger 109950
+local upd_timeFTL		--FALL THRU LEVEL 109950
+local upd_timeOTF		--check less often
+local upd_timeBTR		--110000
+local upd_timeAMK		--110000
+local upd_timeCTD		--110000
+
+---------------update time slice multipliers---------------------
+--------------gs=game second, gm=game minute---------------------
+local upd_time_OAL = 10000 * TB3D_Modders.alife_slice_mult		--10gs * multiplier
+
+local upd_time_GMS = 5000	--*(<2) game stats in log if TB3D_Modders.log_game_stats == true, 5gs
+
+local upd_time_KEY = 2100 	--*keypress poling, avg 2.1gs
+local upd_time_NET = 2000 	--*network poling, avg 2.0gs
+
+local upd_time_BLW = 1800 	--*(<3) blowout hits, avg 1.8gs
+
+local upd_time_CTD = 1500	--110000, cheak the dead
+
+local upd_time_FTL = 1000	--*(<4) FALL THRU LEVEL CHECK, avg 1gs
+
+local upd_time_CMP = 900 	--*(<3) xr_companion  avg 0.9gs
+
+local upd_time_ENV = 800	--*(<2) environment changes 0.8gs
+
+local upd_time_TSK = 700	--tasks 0.7gs
+
+local upd_time_OTF = 600	--meceniy outfit, invisible
+
+local upd_time_FSS = 500	--*(<3) FSS updates
+
+local upd_time_SAK = 400	--sak, mec work
+
+local upd_time_PSY = 300	--*(<2) psy antenna
+local upd_time_MUS = 250	--*(<2) music, instruments, media player
+local upd_time_AEM = 200	--arena
+local upd_time_ARC = 150	--arc container
+local upd_time_BTR = 125	--110000, from amk.on_actor_update
+
+---------------------100	--used by xr_motivator.update, .1gs (10 times per gs)
+
+local upd_time_DOC = 90		--*(<2) doc viewer, sleep 
+local upd_time_RAD = 70		--*(<3) radiation
+local upd_time_MED = 60		--*(<2) meds
+local upd_time_AMK = 50		--*(<2) 110000, art hit and actor update
+local upd_time_WEP = 40		--weapon global update
+local upd_time_SCP = 30		--scope accuracy, broken flashlight
+local upd_time_RST = 20		--restrictors		--most important, uses own counter
+
+-----------slice_base is a muliplier of above----------------
+--------also used as a skip condition: *(<slice) in above-----------------
+local delta_high = TB3D_Modders.delta_critical     	-- below 100ms, slice = 4 else slice = 5	(worst case, 5 also happens on idle)
+local delta_moderate = TB3D_Modders.delta_moderate	-- below 80ms, slice = 3
+local delta_low = TB3D_Modders.delta_low			-- below 60ms, slice = 2
+local delta_lowest = TB3D_Modders.delta_lowest		-- below 50ms, slice = 1					(process all)
+
+local table_sort = table.sort
+local math_ceil = math.ceil
+local game_difficulty_by_num = {
+  [0] = "gd_novice",
+  [1] = "gd_stalker",
+  [2] = "gd_veteran",
+  [3] = "gd_master",
+  [4] = "gd_collector"		--!!!!TB3D
+}
+
+local last_weather
+ 
+function init(obj)
+  xr_motivator.AddToMotivator(obj)
+end
+
+function actor_init(npc)
+  npc:bind_object(actor_binder(npc))
+  -- level_tasks.add_location(707,"blue_location","Lukash")
+  -- level_tasks.add_location(702,"blue_location","Max")
+  -- level_tasks.add_location(728,"blue_location","the Cook")
+end
+
+---------------------------------------------------------------------------------
+class "actor_binder" (object_binder)
+
+-------------------------------INIT------------------------------------------------
+function actor_binder:__init (obj) super(obj)
+	self.bCheckStart = false
+	self.weather_manager = level_weathers.WeatherManager()
+	self.actor_detector = xr_detector.actor_detector()
+	self.is_saved = false
+	--TB3D_Services.packet_alert("bstalk: __init done")
+end
+
+-------------------------------NET SPAWN--------------------------------------------------
+local lname
+local sname
+local lnum = 0
+function actor_binder:net_spawn(data)
+	if TB3D_Modders.Global_Debug then
+		TB3D_Services.packet_alert("BSTALK: actor net spawn")
+	end
+	_g.is_disconnecting = false															--110000
+	zamok.restore()
+	babah.collectBombs()
+	level.show_indicators()
+	self.bCheckStart = true
+	self.weapon_hide = false 															-- hidden or not the weapon during a conversation.
+	weapon_hide = false  																--used by cars, arhara, medicines
+	--if TB3D_Modders.Global_Debug then
+		--TB3D_Services.packet_alert("BSTALK: actor net spawn2")
+	--end
+	if force_obinder and object_binder.net_spawn(self,data) == false then return false end		--110010
+	db.add_actor(self.object)
+	TB3D_Services.packet_alert("bstalk: net spawn actor added to database")
+	local d3d_mode = tb3d_net_manager.launcher_check()									--109995, also removes the old network file
+	if d3d_mode then
+		if d3d_mode == "dx11" then
+			TB3D_Modders.use_DX11 = true
+			TB3D_Services.packet_alert("bstalk: Launcher set DX11 Shaders")
+		elseif d3d_mode == "swfx" then
+			TB3D_Modders.use_DX11 = true
+			TB3D_Services.packet_alert("bstalk: Launcher set DX11 SweetFX Shaders")
+		else
+			TB3D_Modders.use_DX11 = false
+			TB3D_Services.packet_alert("bstalk: Launcher set DX9 Shaders")
+		end
+	elseif TB3D_Modders.use_DX11 then
+		TB3D_Services.packet_alert("bstalk: Using DX11 Shaders")
+	else
+		TB3D_Services.packet_alert("bstalk: Using DX9 Shaders")
+	end
+	amk.on_game_load()																	--amk freeplay variable set
+	lname = level.name()
+	lnum = get_level_index(level.name())												--110004, another optimization
+	sname = amk.load_variable("level_on_save","start")
+	TB3D_Stalker.set_level_num(lnum)
+	TB3D_Collector.set_level_num(lnum)
+	if TB3D_Services.is_collector(44) == false then										--109999, moved from amk.on_game_load
+		if has_alife_info("val_actor_has_borov_key") and not has_alife_info("val_borov_dead") then
+			TB3D_Services.give_info("val_borov_dead")
+		end
+	end
+	dmx_cars.add_btr_hud()																--109999, ogse usable btrs moved from amk.on_game_load
+	dmx_cars.set_current_car(amk.load_variable("car", nil))								--109999, moved from amk.on_game_load
+	--TB3D_Services.remove_info("u_6")													--no music playing
+	if TB3D_Services.remove_info("tb3d_test_spawns") == true then
+		TB3D_Services.test_spawns()
+	end
+	if self.st.disable_input_time == nil then level.enable_input() end
+	--if TB3D_Modders.Global_Debug then
+		--TB3D_Services.packet_alert("BSTALK: actor net spawn3")
+	--end
+	TB3D_Services.set_daytime()															--establishes day/night
+	if lname ~= sname then
+		TB3D_FIXER.force_fixes(lname)
+	end									--110001, moved here, must be before dynamic spawns and env update
+	_g.time_changed = false																--no need to set twice on start
+	self.weather_manager:reset()
+	actor_stats.add_to_ranking(self.object:id())
+	if TB3D_Modders.use_xtrm_ai == true then xrs_ai.actor_net_spawn(self) end
+	rx_ai.actor_net_spawn()
+    hidden_slots.net_spawn() 															-- DMX MOD
+    dmx_treasure.net_spawn()
+    bolt_ending.net_spawn()
+	dmx_medicines.net_spawn()
+	meceniy_work.main()
+	meceniy_utils.net_spawn_callback()
+	--if TB3D_Modders.Global_Debug then
+		--TB3D_Services.packet_alert("BSTALK: actor net spawn5")
+	--end
+	spawn_teleport.spawn_teleport_exit()  												-- kostya_level --
+	spawn_teleport.spawn_teleport_hospital()
+    netpacket_pda_id = netpacket_pda_create.create_pda()
+	if lname=="l05_bar" then															--!!!!TB3D
+		if TB3D_Modders.bar_music == 3 then
+			TB3D_Services.give_info("bar_modern")
+		elseif TB3D_Modders.bar_music == 2 then
+			TB3D_Services.give_info("bar_rockn")
+		elseif TB3D_Modders.bar_music == 1 then
+			TB3D_Services.give_info("bar_rock")
+		else
+			TB3D_Services.give_info("bar_retro")
+		end
+	end
+	--if TB3D_Modders.Global_Debug then
+		--TB3D_Services.info_alert("BSTALK: actor net spawn6")
+	--end
+	TB3D_Shaders.on_spawn()
+	TB3D_Services.check_lc_rotate(lname, sname)											--110004, set actor rotation for first update
+	--TB3D_Services.check_active_community(lname)										--109981, determine by most significant item/info
+	local blow = TB3D_Services.blow()
+	if TB3D_Services.is_collector(20) then
+		if not has_alife_info("tb3d_collector") then									--start out stormy prior to blowout
+			level_weathers.set_new_weather("stormy")
+		elseif amk_mod.blowout() == false and (not Psy or (db.Flag2 == 0 and db.Flag3 == 0 and db.Flag4 == 0 and db.Flag5 == 0)) then
+			level_weathers.set_new_weather(self.cur_weather)							--if not in blowout then restore previous weather
+		else
+			level_weathers.set_new_weather("stormy")									--keep stormy for blowout transition
+		end
+		local levelup = TB3D_Services.get_level_up()
+		if levelup > 3 then																--110000, free play and DLC
+			if TB3D_Modders.actor_idle_delay and TB3D_Modders.actor_idle_delay > 0 then
+				amk.start_timer("tb3d_delay_idle", TB3D_Modders.actor_idle_delay)		--110003, spawn enemies if stays in one place too long
+			end
+			if sname == "jupiter" then
+				TB3D_Services.remove_info("yan_bunker_door_1_open")						--reset bunker doors
+			end
+			TB3D_Triggers.check_coll_portals()
+			local action_taken = false
+			if TB3D_DLC_001 then action_taken = TB3D_DLC_001.process_levels(lnum, sname, blow) end		--110010, level number, optional dlc content, moved from tb3d_collector
+			if TB3D_DLC_002 then action_taken = TB3D_DLC_002.process_levels(lnum, sname, blow) end
+			if TB3D_DLC_003 then action_taken = TB3D_DLC_003.process_levels(lnum, sname, blow) end
+			if TB3D_DLC_004 then action_taken = TB3D_DLC_004.process_levels(lnum, sname, blow) end
+			if TB3D_DLC_005 then action_taken = TB3D_DLC_005.process_levels(lnum, sname, blow) end
+			if not action_taken then
+				TB3D_Collector.process_levels_random(blow)								--110004
+				if has_alife_info("tb3d_collector_hunt") then							--can end up on more than one level/level_up
+					if has_alife_info("tb3d_jupu_doc_has") then
+						TB3D_Services.delayed_action(1, "collector_done_with_jupund", 30)
+						TB3D_Services.remove_info("tb3d_collector_hunt")				--done with treasure hunt
+					else
+						dav_ldk.check_spawn(lname)										--hunt part 2
+					end
+				end
+			end
+		else
+			TB3D_Collector.process_levels(blow)											--110003
+		end
+	else
+		if not has_alife_info("zvezdochet_talk_start") then								--just got off truck so should be stormy
+			level_weathers.set_new_weather("stormy")
+		elseif sname == "peshera" then				--10001, storm starts to clear after dream in cave
+			level_weathers.set_new_weather("grey")
+		elseif amk_mod.blowout() == false and (not Psy or (db.Flag2 == 0 and db.Flag3 == 0 and db.Flag4 == 0 and db.Flag5 == 0)) then
+			level_weathers.set_new_weather(self.cur_weather)							--if not in blowout then restore previous weather
+		else
+			level_weathers.set_new_weather("stormy")									--keep stormy for blowout transition
+		end
+		TB3D_Stalker.process_levels(blow)												--110003
+	end
+	TB3D_Services.give_info("tb3d_force_weather")
+	--if TB3D_Modders.Global_Debug then
+		--TB3D_Services.packet_alert("BSTALK: actor net spawn6a")
+	--end
+	if lname ~= sname then
+		TB3D_dyn_spawn.dynamic_objects(lname, sname)									--dynamic spawns - TB3D 109934
+		if has_alife_info("bar_deactivate_radar_done") then								--110000, keep arts until scorcher done
+			amk_anoms.generate_arts(lname)												--109976 now per level
+		end
+	end
+	art_hit.net_spawn()
+    bind_det_arts.start_update()														--110000, moved here to prevent phantom arts
+	TB3D_Services.clear_targets()														--109994
+	--if TB3D_Modders.Global_Debug then
+		--TB3D_Services.packet_alert("BSTALK: actor net spawn6b")
+	--end
+	TB3D_Dyn_spawn.spawn_vehicles()
+	--if TB3D_Modders.Global_Debug then
+		--TB3D_Services.packet_alert("BSTALK: actor net spawn6c")
+	--end
+	TB3D_Dyn_spawn.spawn_fix_props()
+	--if TB3D_Modders.Global_Debug then
+		--TB3D_Services.packet_alert("BSTALK: actor net spawn7")
+	--end
+	if TB3D_bstalk_spawn then TB3D_bstalk_spawn.init() end								--if exists then load and execute, for moving actor
+	TB3D_spots.set_spots()
+	--if TB3D_Modders.Global_Debug then
+		--TB3D_Services.packet_alert("BSTALK: actor net spawn8")
+	--end
+	TB3D_Services.check_goodwill()														--109974, reports the style and author (plug-ins)
+	if TB3D_Modders.check_smart_terrain then TB3D_Smart_Checker.check_smart_terrains(true) end
+	xr_sound.stop_all_sound_object()
+	xr_sound.clear_all_sound_object()
+	TB3D_Services.update()																--110002, TB3D start task update timer
+	amk.start_timer("pause_menu_timer", 0.6)
+	if TB3D_Modders.force_garbage_collect then collectgarbage("collect") end			-- force memory cleanup
+	if TB3D_Modders.Global_Debug then
+		TB3D_Services.packet_alert("BSTALK:  net_spawn DONE pda["..utils.to_str(netpacket_pda_id).."]")
+	end
+	return true
+end
+
+-----------------------------NET DESTROY-----------------------------objects are already destroyed
+function actor_binder:net_destroy()
+--	_g.is_disconnecting = true				--110010
+	if TB3D_Modders.Global_Debug or TB3D_Modders.use_destroy_message then
+		TB3D_Services.info_alert("BSTALK:  net destroy")
+	end
+	xr_sound.stop_all_sound_object()
+	if biodetector then biodetector.net_destroy() end
+	if TB3D_dav_hunt then TB3D_dav_hunt.net_destroy() end
+	if meceniy_outfit then meceniy_outfit.net_destroy() end	--109994, aleks1970
+	TB3D_Triggers.on_net_destroy()	--bad torch, not used att
+	--if(actor_stats.remove_from_ranking~=nil) then
+		actor_stats.remove_from_ranking(self.object:id())
+	--end
+	--TB3D_Services.info_alert("BSTALK:  net destroy 2")
+	sr_light.clean_up()
+	self.object:set_callback(callback.take_item_from_box, nil)
+	self.object:set_callback(callback.on_item_drop, nil)
+	self.object:set_callback(callback.on_item_take, nil)
+	--self.object:set_callback(callback.actor_sleep, nil)
+	self.object:set_callback(callback.use_object, nil)
+	--self.object:set_callback(callback.map_location_added, nil)
+	self.object:set_callback(callback.task_state, nil)
+	self.object:set_callback(callback.article_info, nil)
+	self.object:set_callback(callback.inventory_info, nil)
+	--self.object:set_callback(callback.death, nil)
+	self.object:set_callback(callback.level_border_enter, nil)
+	self.object:set_callback(callback.level_border_exit, nil)
+	self.object:set_callback(callback.trade_sell_buy_item, nil) -- for game stats
+	--self.object:set_callback(16, nil)
+	--self.object:set_callback(17, nil)
+	if sr_psy_antenna.psy_antenna then
+		sr_psy_antenna.psy_antenna:destroy()
+		sr_psy_antenna.psy_antenna = false
+	end
+	--xr_sound.stop_all_sound_object()
+	if iniStatistic and TB3D_Modders.Global_Debug then							--_g ini statistics table
+		TB3D_Services.info_alert("BIND STALKER: amk.dump_table(iniLines):")
+		amk.dump_table(iniLines)
+		TB3D_Services.info_alert("BIND STALKER: amk.dump_table(iniOtherLines):")
+		amk.dump_table(iniOtherLines)
+		TB3D_Services.info_alert("BIND STALKER: amk.dump_table(iniStat):")
+		local t = {}
+		for sect, count in pairs(iniStat) do
+			table.insert(t, {sect, count})
+		end
+		table_sort(t, sortStat)
+		amk.dump_table(t)
+	end
+	--TB3D_Services.info_alert("BSTALK:  net destroy 3")
+	if amk_offline_alife then amk_offline_alife.net_destroy() end
+	dmx_mod.dmx_net_destroy()
+	--xr_spawner.net_destroy()		--109975
+	rx_wmgr.net_destroy()
+	db.del_actor(self.object)													--actor proxy no longer used 109974
+	_g.is_disconnecting = true					--110010
+	if force_obinder then object_binder.net_destroy(self) end					--110010, very last call on disconnect
+	if TB3D_Modders.Global_Debug or TB3D_Modders.use_destroy_message then
+		TB3D_Services.info_alert("BSTALK:  net destroy done", true)
+	end
+end
+
+function sortStat(t1, t2)
+	return t1[2] > t2[2]
+end
+
+-------------------------------RE-INIT----------------------------------------------------
+function actor_binder:reinit()
+	if TB3D_Modders.Global_Debug then TB3D_Services.info_alert("BSTALK:  re init") end
+	if force_obinder then object_binder.reinit(self) end		--110010
+	db.init_my_storage(self.object)
+	self.st = db.storage[self.object:id()]
+	self.st.pstor = nil
+	self.next_restrictors_update_time = -10000
+	self.object:set_callback(callback.trade_sell_buy_item, self.on_trade, self)						--(2) for game stats
+	self.object:set_callback(callback.level_border_exit, self.level_border_exit, self)				--(6)
+	self.object:set_callback(callback.level_border_enter, self.level_border_enter, self)			--(7)
+	--self.object:set_callback(callback.death, self.death_callback, self)							--(8)
+	self.object:set_callback(callback.inventory_info, self.info_callback, self)						--(11)
+	self.object:set_callback(callback.article_info, self.article_callback, self)					--(12)
+	self.object:set_callback(callback.task_state, self.task_callback, self)							--(13)
+	--self.object:set_callback(callback.map_location_added, self.map_location_added_callback, self)	--(14)
+	self.object:set_callback(callback.use_object, self.on_use_object, self)							--(15)
+	--self.object:set_callback(callback.actor_sleep, self.sleep_callback, self)						--(24)
+	self.object:set_callback(callback.on_item_take, self.on_item_take, self)						--(27)
+	self.object:set_callback(callback.on_item_drop, self.on_item_drop, self)						--(28)
+	self.object:set_callback(callback.take_item_from_box, self.take_item_from_box, self)			--(33)
+	--self.object:set_callback(16, self.on_16, self)
+	--self.object:set_callback(17, self.on_17, self)
+	if TB3D_Modders.Global_Debug then TB3D_Services.info_alert("BSTALK:  reinit DONE") end
+end
+
+--[[-----------------------DEATH CALLBACK---------------------------------------------------
+function actor_binder:death_callback(victim, who)
+TB3D_Services.info_alert("BSTALK:  death callback")
+	--if victim:id() == db.actor:id() then
+		--//difficulty_manager.deathStatCollect()		--for on-line games  !!!!TB3D
+	--end
+end
+--]]
+
+function actor_binder:take_item_from_box(box, item)
+	if TB3D_Modders.Global_Debug then TB3D_Services.packet_alert("BSTALK:  take item from box") end
+	if TB3D_Modders.use_info_message then TB3D_Services.info_alert("BSTALK: item take from box["..box:name().."] item["..item:section().."]") end
+	if TB3D_Services.is_collector(21) == true then
+		if TB3D_Collector.from_box(box, item) == true then
+			if dmx_transfer then dmx_transfer=false end
+		end
+	else
+		if TB3D_Stalker.from_box(box) == true then
+			if dmx_transfer then dmx_transfer=false end
+		end
+	end
+	local story_id = box:story_id()
+	if story_id then treasure_manager.take_treasure(box, story_id) end
+	local sect = item:section()
+	if sect == "zamok" then
+		local box_id = box:id()
+		for i, v in pairs(amk_offline_alife.protected.ids) do
+			if v == box_id then
+				table.remove(amk_offline_alife.protected.ids, i)
+				amk_offline_alife.update_tables(lname)
+				news_manager.amk_send_tip_id("sms_cache_unlocked","sms_lan", 1, 10, "common_channel")
+				break
+			end
+		end
+	end
+	amk.remove_spot_from_map(box:id(),"crlc_big")
+	gps_habar.on_item_take_from_box(box, item) --idler++--
+	if TB3D_Modders.Global_Debug then TB3D_Services.packet_alert("BSTALK:  take item from box done") end
+end --item from box
+
+----------------------------BORDER ENTER--------------------------------------------------
+function actor_binder:level_border_enter(npc, info_id)
+  if TB3D_Modders.use_info_message then TB3D_Services.packet_alert("BSTALK:  border enter") end
+  self.actor_detector:actor_enter()
+  --if TB3D_Modders.Global_Debug then TB3D_Services.packet_alert("BSTALK:  border_enter DONE") end
+end
+
+---------------------------BORDER EXIT-----------------------------------------------------
+function actor_binder:level_border_exit(npc, info_id)
+  if TB3D_Modders.use_info_message then TB3D_Services.packet_alert("BSTALK:  border_exit") end
+  self.actor_detector:actor_exit()
+  --if TB3D_Modders.Global_Debug then TB3D_Services.packet_alert("BSTALK:  border_exit DONE") end
+end
+
+--[[-------------------------ON KEY HIT-----------not functioning yet---------------------------
+function actor_binder:on_16(npc, key)
+	--if key then
+		TB3D_Services.packet_alert("actor_binder:on_key16 !!!!")	-- ["..utils.to_str(key).."]") -- "..dik_to_bind(key) )
+	--end
+end
+function actor_binder:on_17(npc, key)
+	--if key then
+		TB3D_Services.packet_alert("actor_binder:on_key17 !!!!")	-- ["..utils.to_str(key).."]") -- "..dik_to_bind(key) )
+	--end
+end
+--]]
+---------------------------------INFO CALLBACK------------------------------------------------
+function actor_binder:info_callback(npc, info_id)
+	if not npc or not npc.id then
+		TB3D_Services.packet_alert("BSTALK: info callback npc[nil] for info["..utils.to_str(info_id).."]")
+	elseif npc:id() ~= db.actor:id() then
+		TB3D_Services.packet_alert("BSTALK: info callback not actor npc["..npc:name().."] for info["..utils.to_str(info_id).."]")
+	else
+		if TB3D_Modders.Global_Debug or TB3D_Modders.use_info_message then
+			TB3D_Services.packet_alert("BSTALK: info callback info["..utils.to_str(info_id).."]")
+		end
+		level_tasks.proceed(self.object)  --' Plot
+		level_tasks.process_info_portion(info_id)  -- Markers on the map
+		--if TB3D_bstalk_info then TB3D_bstalk_info.on_info(npc, info_id) end
+		--if TB3D_Modders.Global_Debug then
+			--TB3D_Services.packet_alert("BSTALK: info callback1")
+		--end
+		if info_id=="ui_inventory_hide" or info_id=="ui_trade_hide" or info_id=="ui_car_body_hide" then		--109976
+			--TB3D_Services.packet_alert("BSTALK: info callback inv close")
+			if TB3D_Modders.use_ammo_belt == true then
+				belt_ammo.on_info(info_id)
+				belt_grenade.on_info(info_id)
+			end
+			local outfit=db.actor:item_in_slot(6)
+			if outfit then
+				db.actor:transfer_item(outfit,db.actor)
+			end
+			dmx_box_menu.on_info(info_id)
+			hidden_slots.on_info(info_id)
+			inventory.on_inventory_info(info_id) 
+		elseif info_id == "ui_inventory" or info_id=="ui_car_body" or info_id == "ui_trade" then
+			--TB3D_Services.packet_alert("BSTALK: info callback inv open")
+			if TB3D_Modders.use_ammo_belt == true then
+				belt_ammo.on_info(info_id)
+				belt_grenade.on_info(info_id)
+			end
+			inventory.on_inventory_info(info_id) 
+			hidden_slots.on_info(info_id)
+			dmx_box_menu.on_info(info_id)
+		elseif info_id == "ui_pda" or info_id == "ui_pda_hide" then
+			--TB3D_Services.packet_alert("BSTALK: info callback pda buttons")
+			dmx_pda_buttons.on_info(info_id)
+		elseif info_id == "tb3d_earth_shake" then
+			--TB3D_Services.packet_alert("BSTALK: info callback earth shake")
+			xr_effects.aes_earthshake()
+			TB3D_Services.remove_info("tb3d_earth_shake")
+			--if has_alife_info("aes_actor_road") and not has_alife_info("aes_timer_20000") then
+				--TB3D_Services.delayed_action(2, "tb3d_earth_shake", 10)
+			--end
+		elseif info_id == "tb3d_bad_torch" then							--109982, delayed action so actor slots fully equiped
+			TB3D_Services.check_flashlight()
+		elseif info_id == "game_gd_novice" then
+			TB3D_Services.change_difficulty(0)
+		elseif info_id == "game_gd_stalker" then
+			TB3D_Services.change_difficulty(1)
+		elseif info_id == "game_gd_veteran" then
+			TB3D_Services.change_difficulty(2)
+		elseif info_id == "game_gd_markedone" then
+			TB3D_Services.change_difficulty(3)
+		elseif info_id == "game_gd_collector" then
+			TB3D_Services.change_difficulty(4)
+		elseif info_id == "tb3d_spawn_backwater_stash" then
+			TB3D_Triggers.spawn_backwater_stash()
+		elseif info_id == "tb3d_backwater_stash_found" then
+			TB3D_Mobs.spawn_killer_squad(-164.860,19.915,-201.864,610712,3671,3,4,false)	--gas station
+			TB3D_Mobs.spawn_killer_squad(-29.404,6.300,-140.606,887256,3679,3,4,false)		--outside caves on road
+		end
+		--if TB3D_Modders.Global_Debug then TB3D_Services.packet_alert("BSTALK: info callback3") end
+		m_bar.info_callback(info_id)
+		--if TB3D_Modders.Global_Debug then TB3D_Services.packet_alert("BSTALK: info callback4") end
+		if TB3D_Services.is_collector(22) then
+			TB3D_Collector.on_info(info_id)
+		else
+			TB3D_Stalker.on_info(info_id)
+		end
+		if TB3D_Modders.show_info_news then				--109976
+			--TB3D_Services.packet_alert("BSTALK: info callback show news")
+			news_main.on_info(info_id)
+		end
+	end
+	if TB3D_Modders.Global_Debug then TB3D_Services.packet_alert("BSTALK:  info_callback DONE") end
+end
+
+-----------------------------ON TRADE--------------------------------------------
+function actor_binder:on_trade(item, sell_bye, money)
+  if TB3D_Modders.Global_Debug then TB3D_Services.packet_alert("BSTALK:  on trade") end
+    if sell_bye == true then
+       if TB3D_Modders.log_game_stats == true then game_stats.money_trade_update(money) end
+    else       
+       if TB3D_Modders.log_game_stats == true then game_stats.money_trade_update(-money) end
+    end   
+	--if TB3D_bstalk_trade then TB3D_bstalk_trade.on_trade(item, sell_bye, money) end
+  if TB3D_Modders.Global_Debug then TB3D_Services.packet_alert("BSTALK:  on trade done") end
+end
+
+---------------------------ARTICLE CALLBACK-----------------------------------------------
+function actor_binder:article_callback(npc, group, name)
+	if TB3D_Modders.Global_Debug then TB3D_Services.packet_alert("BSTALK:  article_callback") end
+	if device().precache_frame >1 then return end
+	dmx_mod.encyclopedy_news(group,name) -- DMX MOD
+	--if TB3D_bstalk_article then TB3D_bstalk_info.article(npc, group, name) end
+	if TB3D_Modders.Global_Debug then TB3D_Services.packet_alert("BSTALK:  article_callback DONE") end
+end
+
+--------------------------ON ITEM TAKE-----------------------------
+function actor_binder:on_item_take(obj)
+	if obj ~= nil then
+		--TB3D_Services.info_alert("BSTALK:  on item take1")
+		local is_protected = protected_items.obj_is_protected(obj)
+		if inventory.get_inv_count() <= TB3D_Modders.max_inventory_items or is_protected then			--110004, prevents inventory search failures
+			local is_remove_obj = false
+			local sect=get_section(obj)
+			if TB3D_Modders.use_inventory_message then TB3D_Services.info_alert("BSTALK:  on item take["..utils.to_str(sect).."]") end
+			--TB3D_Services.info_alert("BSTALK:  on item take["..utils.to_str(sect).."]", true)
+			arc_main.get_item(obj)									--109980, needed on startup to fill container
+			if sect == "arc_ballast" or sect == "separator" then	--109980, needed on startup to establish counts and weight
+				return
+			elseif is_protected == false and system_ini():line_exist(sect, "inv_weight") then
+				dmx_inv_weight_static.add_to_weight(system_ini():r_float(sect, "inv_weight"))
+			end
+			if sect == "medkit" or sect == "medkit_army" or sect == "medkit_scientic" or sect == "medkit_elite" then
+				if TB3D_Modders.CopKeys == true then TB3D_Services.inc_meds(1) end
+			elseif sect == "antirad" then
+				if TB3D_Modders.CopKeys == true then TB3D_Services.inc_rads(1) end
+			elseif sect == "bandage" or sect == "bandage_dmx" then
+				if TB3D_Modders.CopKeys == true then TB3D_Services.inc_bandage(1) end
+			elseif sect == "vodka" or sect == "absolut_vodka" or sect == "smirnoff_vodka" or sect == "nemiroff_vodka" then
+				if TB3D_Modders.CopKeys == true then TB3D_Services.inc_vodka(1) end
+			elseif sect=="fake_bolt" or sect=="bolt_fix" then 
+				if TB3D_Modders.unlimited_bolts == false then bolt_ending.bolt_fix(obj) end
+			elseif sect=="bolt" then
+				if TB3D_Modders.unlimited_bolts == false then bolt_ending.bolt_end(obj) end
+			elseif last_time ~= nil then									--109980, do not process items on startup
+				--if TB3D_bstalk_take then TB3D_bstalk_take.item(obj, sect, lname) end
+				m_bar.take_item(obj)				--stealing object reactions
+				if TB3D_Modders.log_game_stats == true then game_stats.update_take_item(obj, self.object) end
+				--TB3D_Services.info_alert("BSTALK:  on item take3")
+				gps_habar.on_item_take(obj) 							--amk
+				amk.remove_spot_from_map(obj:id(),"red_location")
+				--amk_utils.inventory_update(obj, 1)		--109990, why have two memory locations
+				if RestrictionStock then restriction_stock.restriction_of_stock(obj,0) end
+				if TB3D_Modders.use_xtrm_ai and xrs_ai then xrs_ai.actor_item_take(obj) end 
+				--TB3D_Services.info_alert("BSTALK:  on item take4")
+				babah.on_item_take(obj)
+				inventory.on_item_take(obj)
+				if sect=="m_dmx_box" then
+					amk.remove_item(obj)
+					dmx_treasure.return_items()	
+				elseif sect=="device_torch" then
+					--to be used in the future
+				elseif sect=="repair_item_outfit" or sect=="repair_item_weapon" then
+					sak.repair_box_close(obj) 
+				elseif sect=="wpn_sg552_fss_de" then
+					if lname == "red_forest" then TB3D_Triggers.tunnel_rat2() end
+				elseif sect=="nebo_heavy_outfit" and lname == "marsh" then
+					TB3D_Services.give_info("tb3d_marmor_have")
+				elseif string_find(sect,"gl_test_shell") or string_find(sect,"gl_fake_missile") then
+					rx_gl.fake_pickup(obj)
+				elseif sect == "specops_outfit_kat_eyeplus" then
+					if lname == "l12u_sarcofag" and amk.load_variable("tb3d_ald_weapons", 0) == 7 then
+						TB3D_Triggers.spawn_sarc_pack(6)
+						amk.save_variable("tb3d_ald_weapons", 8)
+					end
+				elseif sect=="item_doc_x8" then							--109998, pick up a notebook in the apartment and spawns Librarian
+					if lname=="pripyat" and not has_alife_info("cop_prip_info_take_doc") then
+						TB3D_Services.give_info("cop_prip_info_take_doc")
+						news_manager.amk_send_tip_id("sms_x8_doc1_3", "bullseye_private", 10, 20, "actor_sms")
+						news_manager.amk_send_tip_id("sms_x8_doc1_2", "bullseye_private", 10, 20, "actor_sms")
+						news_manager.amk_send_tip_id("sms_x8_doc1", "bullseye_private", 10, 20, "actor_sms")
+						news_manager.amk_send_tip_id("sms_x8_doc2_4", "shadows_private", 30, 30)
+						news_manager.amk_send_tip_id("sms_x8_doc2_3", "shadows_private", 30, 30)
+						news_manager.amk_send_tip_id("sms_x8_doc2_2", "shadows_private", 30, 30)
+						news_manager.amk_send_tip_id("sms_x8_doc2", "shadows_private", 30, 30)
+						alife():create("bibliotekar",vector():set(140.922,-0.367,220.575),370139,3769)
+						TB3D_Triggers.spawn_alife("werewolf",-49.974,-0.507,-71.471,139443,3759, 2)
+						TB3D_Triggers.spawn_alife("werewolf",140.922,-0.367,220.575,370139,3769, 2)
+						dmx_mod.pripyat_base_spawn()
+						dmx_mod.monolith_kbo_spawn()							--109998, so they are not there until you find apartment
+					end
+				elseif sect=="wpn_gravigun" then								--110004, stash Arnie talked about
+					if lname == "zaton" and has_alife_info("tb3d_spawn_backwater_stash") then
+						TB3D_Services.give_info("tb3d_backwater_stash_found")
+					end
+					local obj_id = amk.load_variable("back1_id", nil)
+					if obj_id then
+						if level.map_has_object_spot(obj_id, "crlc_biggest") ~= 0 then
+							level.map_remove_object_spot(obj_id, "crlc_biggest")
+						end
+						amk.del_variable("back1_id")
+					end
+				elseif sect=="zep_note_backwater1" then							--110004, Grey's stash Arnie talked about
+					if level.map_has_object_spot(obj:id(), "crlc_biggest") ~= 0 then
+						level.map_remove_object_spot(obj:id(), "crlc_biggest")
+					end
+					--is_remove_obj = true
+				elseif TB3D_Services.is_collector(24) == true then
+					is_remove_obj = TB3D_Collector.on_item_take(obj)
+				else	--stalker/ns
+					flamethrower.on_item_take(obj)								--109980
+					is_remove_obj = TB3D_Stalker.on_item_take(obj)
+				end
+				if is_remove_obj == true then
+					self.object:drop_item(obj)
+					amk.remove_item(obj)
+				elseif not is_protected then
+					if TB3D_ammo_stack.on_item_take(obj) then						--item is flagged for potential stacking, actually stacking will happen during on_update()
+						self.object:drop_item(obj)									--110007, if true then overstocked item gets dropped
+						--amk.remove_item(obj)
+					end
+				end
+			end
+			level_tasks.proceed(self.object)			--109999, updates based on info portions given above, moved outside check
+			art_hit.hit_by_art(obj)
+			dmx_mod.visual_fix(obj)
+			dmx_pda_notepad.mapspot_remove(obj)
+		else
+			art_hit.hit_by_art(obj)
+			self.object:drop_item(obj)
+			--send inventory full sms
+		end
+		if TB3D_Modders.use_inventory_message then 
+			TB3D_Services.info_alert("BSTALK:  on item take done")
+		end
+	end
+end --item take
+
+--------------------------------ON ITEM DROP----------------------------------
+function actor_binder:on_item_drop(obj)
+	if not _g.is_disconnecting then										--109980
+		if obj then
+			if last_time ~= nil then									--109990, do not process items on startup
+				local sect = obj:section()
+				if sect == "arc_ballast" or sect == "separator" then return end
+				if TB3D_Modders.use_inventory_message then
+					TB3D_Services.info_alert("BSTALK:  on item drop["..utils.to_str(obj:name()).."] section["..utils.to_str(sect).."]")
+				end
+				if TB3D_Modders.log_game_stats == true then game_stats.update_drop_item(obj, self.object) end
+				babah.li(obj)											--109998
+				player_ogg.lose_item(obj)    							--109998, Vergas ogg-player
+				arc_main.lose_item(obj)									--sak
+				m_bar.drop_g_item(obj)									--dmx
+				if TB3D_Services.is_collector(25) == false then
+					flamethrower.on_item_drop(obj)
+				end
+				amk.on_item_drop(obj)
+				if amkII_transmutator then amkII_transmutator.amkUseTransmutator(obj) end
+				gps_habar.on_item_drop(obj) 							--idler++--
+				if RestrictionStock then restriction_stock.restriction_of_stock(obj,1) end
+				inventory.on_item_drop(obj)
+				repair.on_item_drop(obj)								--109998, Revamped repair kit - aleks1970
+				razgruzka_v.set_lost_id(-1) 							-- preset to unload
+				if protected_items.obj_is_protected(obj) == false
+					and system_ini():line_exist(sect, "inv_weight") then
+					dmx_inv_weight_static.sub_from_weight(system_ini():r_float(sect, "inv_weight"))
+				end
+				--amk_utils.inventory_update(obj, -1)					--109990, why have two memory locations
+				--spawn_level_changer.checking_droped_obj(obj)			--109999, moved to on use
+				--if babah.li(obj) then									--109998
+					--was a bomb
+				--elseif spawn_level_changer.checking_droped_obj(obj) then
+					--was a teleport
+				--elseif sect == "player" or string_find(sect, "^ogg_flash") then
+					--player_ogg.lose_item(obj)    -- Vergas ogg-player
+				--elseif sect=="pda_art_mod" then pda_art_mod.f_pda_art_mod_use(obj)
+				if sect=="fake_bolt" then 
+					bolt_ending.bolt_lose()
+				elseif sect=="bolt" then
+					bolt_ending.bolt_lose()
+					amk.save_variable("b_dr",true)
+				elseif sect == "medkit" or sect == "medkit_army" or sect == "medkit_scientic" or sect == "medkit_elite" then
+					if TB3D_Modders.CopKeys == true then TB3D_Services.inc_meds(-1) end
+				elseif sect == "antirad" then
+					if TB3D_Modders.CopKeys == true then TB3D_Services.inc_rads(-1) end
+				elseif sect == "bandage" or sect == "bandage_dmx" then
+					if TB3D_Modders.CopKeys == true then TB3D_Services.inc_bandage(-1) end
+				elseif sect == "vodka" or sect == "absolut_vodka" or sect == "smirnoff_vodka" or sect == "nemiroff_vodka" then
+					if TB3D_Modders.CopKeys == true then TB3D_Services.inc_vodka(-1) end
+				elseif sect == "antizombie" then db.actor.psy_health=1.0	--Get rid of the zombies--
+				elseif sect == "hand_teleporter" then
+					local tbl		= {}
+					tbl.obj_id		= obj:id()
+					tbl.obj_sect	= sect
+					amk.start_timer("timer_drop_obj_hand_teleporter", 0.2, tbl)
+				elseif sect=="repair_box_outfit" then
+					sak.repair_box_outfit(obj)
+				elseif sect == "zamok" then
+					zamok.on_drop(obj)
+				elseif sect == "razgruzka" then
+					razgruzka_v.set_lost_id(obj:id()) -- indication that the object is unloaded
+				elseif TB3D_Services.is_collector(26) then
+					TB3D_Collector.item_drop(obj)
+				else
+					TB3D_Stalker.item_drop(obj)
+				end
+				level_tasks.proceed()									--109974, updates based on info portions given above
+			end
+		elseif TB3D_Modders.use_abort_message then
+			TB3D_Services.abort_alert("BSTALK:  on item drop obj[nil]")
+		end
+		if TB3D_Modders.use_inventory_message then TB3D_Services.info_alert("BSTALK:  on item drop done") end
+	end
+end --item drop
+
+------------------------------------TASK CALLBACK----------------------------------------
+function actor_binder:task_callback(_task, _objective, _state)
+	if TB3D_Modders.Global_Debug == true then TB3D_Services.packet_alert("BSTALK:  task_callback") end
+	task_manager.task_callback(_task:get_id(), _objective:get_idx(), _state)
+	if TB3D_Services.is_collector(27) == true then
+		if not has_alife_info("tb3d_collector_done") then return end --suppress during Collector start to save space in pda
+	end
+	if _objective:get_idx() == 0 then
+		if _state == task.fail then
+			news_manager.send_task(db.actor, "fail", _task, _objective)
+		elseif _state == task.completed then
+			task_manager.reward_by_task(_task)
+			news_manager.send_task(db.actor, "complete", _task, _objective)
+		else
+			news_manager.send_task(db.actor, "new", _task, _objective)
+		end
+	else
+		if _task:get_objective(0):get_state() == task.in_progress then
+			news_manager.send_task(db.actor, "update", _task, _objective)
+		end
+	end
+	if TB3D_Modders.log_game_stats == true then game_stats.update_task(_task, _objective, _state) end
+	if TB3D_Modders.Global_Debug == true then TB3D_Services.packet_alert("BSTALK:  task_callback DONE") end
+end
+
+--[[--------------------------------  !!!!TB3D-------------------------
+function actor_binder:map_location_added_callback(spot_type_str, object_id)
+  --if (false==app_ready()) or (device().precache_frame>1) then return end
+  --'news_manager.send_task(db.actor, "new")
+end
+--]]
+
+local scopeUsed
+-----------------------------------UPDATE-------------------------------------------
+function actor_binder:update(delta)
+	if TB3D_Modders.Global_Debug then
+		TB3D_Services.packet_alert("Bind STALKER: update["..game.get_game_time():timeToString(game.CTime.TimeToMilisecs).."] delta <<<<["..utils.to_str(delta).."]>>>>")
+	end
+	amk.oau_watchdog=900														-----------------900
+	--------------------establish time and delta time---------------------------------------
+	-- delta is ms between updates, internally limited to 1sec
+	-- 10 is a great machine, 60 is near unplayable, 100 (1/10 sec) causes staggers
+	-- delta is prevented from going less than 1ms for slice_base calculations
+	-- less important services start getting skipped if delta is greater than 20,30,40,50
+	----------------------------------------------------------------------------------------
+	if time_now == 0 then
+		slice_base = 1
+		delta_100 = 0
+	else
+		if TB3D_Modders.Global_Debug then
+			slice_base = 1
+				delta_100 = 0
+		elseif delta < delta_lowest then
+			slice_base = 1
+				delta_100 = 0
+		elseif delta < delta_low then
+			slice_base = 2
+				delta_100 = 0
+		elseif delta < delta_moderate then
+			slice_base = 3
+				delta_100 = 0
+		elseif delta < delta_high then
+			slice_base = 4
+				delta_100 = 0
+		else	--delta critical
+			slice_base = 5
+			delta_100 = delta_100 + 1
+			if delta_100 > 100 then										--110002, occurs often so force update all
+				delta_100 = 0
+				slice_base = 0
+				--TB3D_Services.packet_alert("<<<< Bind STALKER: update forced delta >>>>")
+			end
+		end
+	end
+	--slice_base = 1
+	time_now = time_global()
+	if not last_time then												--init vars
+		scopeUsed = false
+		upd_timeSCP = upd_time_SCP	--+time_now
+		upd_timeMUS = upd_time_MUS+time_now
+		upd_timeMED = upd_time_MED+time_now
+		upd_timeENV = upd_time_ENV										--force to init on start
+		upd_timeARC = upd_time_ARC	--+time_now
+		upd_timeSAK = upd_time_SAK	--+time_now
+		upd_timeAEM = upd_time_AEM+time_now
+		upd_timeTSK = upd_time_TSK										--force to init on start
+		upd_timePSY = upd_time_PSY+time_now
+		upd_timeRAD = upd_time_RAD+time_now
+		upd_timeOAL = upd_time_OAL	--+time_now
+		upd_timeWEP = upd_time_WEP										--force to init on start
+		upd_timeDOC = upd_time_DOC+time_now
+		upd_timeBLW = upd_time_BLW										--force to init on start	
+		upd_timeFSS = upd_time_FSS+time_now		
+		upd_timeGMS = upd_time_GMS										--force to init on start	
+		upd_timeCMP = upd_time_CMP	--109950							--force to init on start
+		upd_timeNET = upd_time_NET										--force to init on start
+		upd_timeKEY = upd_time_KEY	--+time_now	
+		upd_timeFTL = upd_time_FTL+time_now
+		upd_timeOTF = upd_time_OTF+time_now
+		upd_timeBTR = upd_time_BTR+time_now								--110000
+		upd_timeAMK = upd_time_AMK										--110000
+		upd_timeCTD = upd_time_CTD+time_now								--110000
+		TB3D_Services.check_rotate()
+	end
+	if TB3D_Modders.use_slice_message then 
+		TB3D_Services.packet_alert("BSTALK: actor_update time_global["..utils.to_str(time_now).."] slice_base["..utils.to_str(slice_base).."]")
+	end
+	amk.oau_watchdog=899														-----------------899
+	if force_obinder then object_binder.update(self, delta) end			--110010
+	amk.oau_watchdog=898 														-----------------898 
+	if self.bCheckStart then
+		amk.oau_watchdog=897													-----------------897
+		--if TB3D_bsu_start then TB3D_bsu_start.update(delta, self.object, time_now) end	-- modders interface
+		if not has_alife_info("storyline_actor_start") and (lname == "l01_escape") then
+			TB3D_Services.give_info("storyline_actor_start")
+			if TB3D_Services.is_collector(28) == false then _G.g_start_avi = true end		--109976
+		end
+		TB3D_Services.give_info("global_dialogs")
+		self.bCheckStart = false    
+	end
+	if _g.time_changed == true then												--110000, force time of day env change
+		TB3D_Services.set_daytime()												--resync time of day
+	end
+	if TB3D_Services.remove_info("tb3d_force_weather") == true then
+		if has_alife_info("tb3d_harsh_environment") then
+			last_weather = self.cur_weather
+			level_weathers.set_new_weather("stormy")
+		else
+			if last_weather then level_weathers.set_new_weather(last_weather) else level.set_weather("default") end
+		end
+		self.weather_manager:force_weather()
+		self.weather_manager:update()
+		last_weather = self.cur_weather
+	end
+	--if _g.is_disconnecting then return end			--109980
+	--TB3D_Services.packet_alert("BSTALK: actor_update1")
+	hidden_slots.on_update()
+	inventory.update() 
+	amk.oau_watchdog=896						-- Update hiding weapons		-----------------896
+	if self.object:is_talking() then hide_weapon() end
+	if weapon_hide == true then
+		if self.weapon_hide == false then
+			self.object:hide_weapon()
+			self.weapon_hide = true
+		end
+	elseif self.weapon_hide == true then	--false so see if actor is hiding weapon
+		self.object:restore_weapon()
+		self.weapon_hide = false
+	end
+	amk.oau_watchdog=895				-- Update off the keyboard				-----------------895
+	if TB3D_Services.remove_info("tb3d_restore_input") then
+			level.enable_input()
+			self.st.disable_input_time = nil
+	elseif self.st.disable_input_time ~= nil
+		and game.get_game_time():diffSec(self.st.disable_input_time) >= self.st.disable_input_idle then
+			level.enable_input()
+			self.st.disable_input_time = nil
+	end
+	--TB3D_Services.packet_alert("BSTALK: actor_update2")
+	amk.oau_watchdog=894 														-----------------894 
+	dmx_mod.blood_hud_update()													--109970 moved here to render hud BEHIND timers
+	scopeUsed = TB3D_Shaders.digital_zoom()
+	if TB3D_Modders.show_zoom_fov then dmx_mod.zoom_update() end				--109970 displays fov and dist for debug
+	amk.oau_watchdog=893 														-----------------893 
+	if has_alife_info("tb3d_bioradar_on") and not scopeUsed then biodetector.update() else biodetector.biodetectorRemove() end
+	--amk.oau_watchdog=892 														-----------------892 
+	--sak.show_time(scopeUsed, slice_base)
+	amk.oau_watchdog=891 														-----------------891 
+	local is_collector = TB3D_Services.is_collector(29)
+	--TB3D_Services.packet_alert("BSTALK: actor_update3")
+	if self.next_restrictors_update_time < time_now then
+		amk.oau_watchdog=886												-----------------886, 887, 888
+		--if TB3D_Modders.Global_Debug then TB3D_Services.packet_alert("restrictors: update["..game.get_game_time():timeToString(game.CTime.TimeToMilisecs).."]") end
+		if TB3D_Modders.use_slice_message then TB3D_Services.packet_alert("BSTALK: actor_update - RST["..utils.to_str(self.next_restrictors_update_time).."]") end
+		bind_restrictor.actor_update(delta)
+		amk.oau_watchdog=885
+		self.next_restrictors_update_time = time_now + upd_time_RST			--109983
+		amk.oau_watchdog=880						-- Update restrictors		-----------------880
+		bind_mteleport.actor_update(delta)								-- Update our teleport (Kostya_level)
+		--if TB3D_Modders.Global_Debug then TB3D_Services.packet_alert("restrictors: update["..game.get_game_time():timeToString(game.CTime.TimeToMilisecs).."] done") end
+	end
+	--========================================== slice based actions ===============================================
+	--============================ least important: skip if slice base > 1 =========================================
+	if upd_timeFTL < time_now then
+		amk.oau_watchdog=795													-----------------795
+		upd_timeFTL = time_now + upd_time_FTL
+		if slice_base < 2 then
+			local pos = db.actor:position()
+			if TB3D_Services.fell_through_level(pos) then
+				TB3D_Services.jump_to_safe_spot()
+			elseif lname == "generators" then
+				amk.oau_watchdog=794											-----------------794
+				if pos.x < -273 or pos.x > 318 or pos.z < -587 or pos.z > -12 then		--send to center
+					TB3D_Services.move_actor(14.172,38.013,-233.055, true)				--give drunk effect
+				end
+			elseif lname == "yantar_old" then									--109999, replaces kill zones
+				amk.oau_watchdog=793											-----------------793
+				if TB3D_Collector.actor_in_range(vector():set(135.242,-1.243,65.743), 60) then			--rs under floating boat, mid
+					TB3D_Services.move_actor(-266.35855102539,4.2769775390625,158.32368469238, true)	--give drunk effect
+				end
+			end
+			if TB3D_Modders.use_slice_message then TB3D_Services.packet_alert("BSTALK: actor_update - FTL["..utils.to_str(upd_timeFTL).."]") end
+		end
+	end
+	if upd_timeCTD < time_now then												--110000, check less often
+		upd_timeCTD = time_now + upd_time_CTD
+		if slice_base < 2 then
+			if is_collector then
+				TB3D_Collector.check_dead()
+			else
+				TB3D_Stalker.check_dead()										--110000, sak, wawka and braad
+			end
+		end
+	end
+	if upd_timeNET < time_now then
+		amk.oau_watchdog=792													-----------------792
+		upd_timeNET = time_now + upd_time_NET
+		if slice_base < 2 then
+			if TB3D_Modders.use_slice_message then TB3D_Services.packet_alert("BSTALK: actor_update - NET["..utils.to_str(upd_timeNET).."]") end
+			--local sdate, stime, newpacket = tb3d_net_manager.network_pole()
+			--if sdate then TB3D_Services.packet_alert("net recieve: ["..sdate.."_"..stime.."_"..newpacket.."]") end
+		end
+	end
+	if upd_timeSAK < time_now then
+		amk.oau_watchdog=790													-----------------790
+		upd_timeSAK = time_now + upd_time_SAK
+		if slice_base < 2 then
+			if TB3D_Modders.use_slice_message then TB3D_Services.packet_alert("BSTALK: actor_update - SAK["..utils.to_str(upd_timeSAK).."]") end
+			if TB3D_Modders.zombie == true then meceniy_work.mainw() end
+			--if TB3D_bsu_upd5 then TB3D_bsu_upd5.update(delta, self.object, time_now) end					-- modders interface
+		end
+	end
+	local bphase = TB3D_Services.blow() or -1					--109980   amk.load_variable("blowout",-1)
+	if upd_timeBLW < time_now then
+		amk.oau_watchdog=789													--blowout check, added 109932--------789  
+		upd_timeBLW = time_now + upd_time_BLW
+		if slice_base < 2 then
+			if TB3D_Modders.use_slice_message then TB3D_Services.packet_alert("BSTALK: actor_update - BLW["..utils.to_str(upd_timeBLW).."]") end
+			if bphase ~= -1 then				--109989
+				local hide = amk_mod.check_actor_hide()							--nil/0=full protect, >0=reduced protection, 1=not in hideout
+				local helmet = hidden_slots.get_item_in_helmet_slot()
+				local bt = amk_mod.blowout_type()
+				local outfit = dmx_inv_weight_static.update()			--110007, !!!!???? need to be checked - aleks1970
+				if TB3D_Modders.blowout_rad_val > 0 then
+					if bt == 0 and bphase > run_hide and hide then							--109981
+						TB3D_hit_styles.blowout_actor(hide, bphase, outfit, helmet)
+					end
+				end				
+				amk.mod_call("blowout_phantoms")
+			else
+				self.weather_manager:update()									-- Weather Update
+				last_weather = self.cur_weather
+			end
+		end
+	end
+	if upd_timeDOC < time_now then
+		amk.oau_watchdog=788													-----------------788
+		upd_timeDOC = time_now + upd_time_DOC
+		if slice_base < 2 then
+			if TB3D_Modders.use_slice_message then TB3D_Services.packet_alert("BSTALK: actor_update - DOC["..utils.to_str(upd_timeDOC).."]") end
+			if sleep_manager.is_sleep_active() and xr_conditions.actor_dead() then
+				xr_logic.issue_event(db.actor, db.storage[db.actor:id()]["ar_sleep"], "update")
+			end
+			if self.st.sleep_relocate_time ~= nil
+			and game.get_game_time():diffSec(self.st.sleep_relocate_time) >= self.st.sleep_relocate_idle then
+				self.object:set_actor_position(self.st.sleep_relocate_point)
+				local dir = self.st.sleep_relocate_point:sub(self.st.sleep_relocate_look)
+				self.object:set_actor_direction(dir:getH())
+				self.st.sleep_relocate_time = nil
+			end
+			dmx_mod.hud_sleep_static(scopeUsed)
+			doc_viewer.update()
+			babah.update(delta)
+			stco.update()
+			--if TB3D_bsu_upd4 then TB3D_bsu_upd4.update(delta, self.object, time_now) end				-- modders interface	
+		end
+	end
+	if upd_timeMUS < time_now then
+		amk.oau_watchdog=787	 												-----------------787 
+		upd_timeMUS = time_now + upd_time_MUS
+		if slice_base < 2 then
+			if TB3D_Modders.use_slice_message then TB3D_Services.packet_alert("BSTALK: actor_update - MUS["..utils.to_str(upd_timeMUS).."]") end
+			xr_giditara.guitar_update()
+			xr_garmon.garmoshka_update()
+			xr_smoking.smoking_update(delta)
+			player_ogg.update()
+			xr_racya.radio_update()
+			amk.mod_call("interactive_music")
+			--if TB3D_bsu_updM then TB3D_bsu_updM.update(delta, self.object, time_now) end			-- modders interface	
+		end
+	end
+	if upd_timePSY < time_now then
+		amk.oau_watchdog=786						-- Update PSI antenna		-----------------786
+		upd_timePSY = time_now + upd_time_PSY
+		if slice_base < 2 then
+			if TB3D_Modders.use_slice_message then TB3D_Services.packet_alert("BSTALK: actor_update - PSY["..utils.to_str(upd_timePSY).."]") end
+			if not is_collector then																	--109980, stop using psi effect
+				if sr_psy_antenna.psy_antenna then sr_psy_antenna.psy_antenna:update(delta) end			--all.spawn: yantar, brainlab, radar, pripyat
+				amk.mod_call("check_radar_off")															--removed killactor and just reduce health by 0.01
+			end
+		end
+	end
+	if upd_timeENV < time_now then
+		amk.oau_watchdog=785													-----------------785
+		upd_timeENV = time_now + upd_time_ENV
+		if slice_base < 2 then
+			if TB3D_Modders.use_slice_message then TB3D_Services.packet_alert("BSTALK: actor_update - ENV["..utils.to_str(upd_timeENV).."]") end
+			TB3D_Services.env_update()
+			--if TB3D_bsu_upd0 then TB3D_bsu_upd0.update(delta, self.object, time_now) end				-- modders interface	
+		end
+	end
+	if upd_timeOAL < time_now then
+		amk.oau_watchdog=784													-----------------784
+		upd_timeOAL = time_now + upd_time_OAL
+		if slice_base < 2 then
+			if TB3D_Modders.use_slice_message then
+				TB3D_Services.packet_alert("BSTALK: actor_update - OAL["..utils.to_str(upd_timeOAL).."]")
+			end
+			if TB3D_Modders.use_offline_alife then amk_offline_alife.update() end									--updates offline alife actions
+		end
+	end
+	--============================ less important: skip if slice base > 2 =========================================
+	if upd_timeCMP < time_now then
+		amk.oau_watchdog=783													-----------------783				--109950 ogse companions
+		upd_timeCMP = time_now + upd_time_CMP
+		if slice_base < 3 then
+			if is_collector then xr_companion.reset_enemy_by_time() end
+			if TB3D_Modders.use_slice_message then TB3D_Services.packet_alert("BSTALK: actor_update - CMP["..utils.to_str(upd_timeCMP).."]") end
+		end
+	end
+	if upd_timeMED < time_now then
+		amk.oau_watchdog=782													--DMX MEDS--------782  
+		upd_timeMED = time_now + upd_time_MED
+		if slice_base < 3 then
+			if TB3D_Modders.use_slice_message then TB3D_Services.packet_alert("BSTALK: actor_update - MED["..utils.to_str(upd_timeMED).."]") end
+			dmx_mod.dmx_update(delta)											--109970 health hit only
+			dmx_medicines.update()
+			TB3D_Services.show_medkits(scopeUsed)								-- Indicators of CP at Uhud
+		end
+	end
+	if upd_timeRAD < time_now then
+		amk.oau_watchdog=781					--Display radiation	warning		-----------------781
+		upd_timeRAD = time_now + upd_time_RAD
+		if slice_base < 3 then
+			if TB3D_Modders.use_slice_message then TB3D_Services.packet_alert("BSTALK: actor_update - RAD["..utils.to_str(upd_timeRAD).."]") end
+			if self.object.radiation >= 0.7 then
+				local hud = get_hud()
+				local custom_static = hud:GetCustomStatic("cs_radiation_danger")
+				if custom_static == nil then
+				  hud:AddCustomStatic("cs_radiation_danger", true)
+				  hud:GetCustomStatic("cs_radiation_danger"):wnd():SetTextST("st_radiation_danger")
+				end
+			else
+				local hud = get_hud()
+				local custom_static = hud:GetCustomStatic("cs_radiation_danger")
+				if custom_static ~= nil then
+				  hud:RemoveCustomStatic("cs_radiation_danger")
+				end
+			end
+			xr_sound.update_actor()												--110000, update sound scheme actor, geiger counter only
+		end
+	end
+	if upd_timeARC < time_now then
+		amk.oau_watchdog=780													-----------------780
+		upd_timeARC = time_now + upd_time_ARC
+		if slice_base < 3 then
+			if TB3D_Modders.use_slice_message then TB3D_Services.packet_alert("BSTALK: actor_update - ARC["..utils.to_str(upd_timeARC).."]") end
+			arc_main.actor_update(time_now)
+			amk.mod_call("check_armor")
+			--if TB3D_bsu_upd1 then TB3D_bsu_upd1.update(delta, self.object, time_now) end					-- modders interface		
+		end
+	end
+	if upd_timeAEM < time_now then
+		amk.oau_watchdog=779						--- ARENA_EXTENSION_MOD 	-----------------779
+		upd_timeAEM = time_now + upd_time_AEM
+		if slice_base < 3 then
+			if TB3D_Modders.use_slice_message then TB3D_Services.packet_alert("BSTALK: actor_update - AEM["..utils.to_str(upd_timeAEM).."]") end
+			aem_manager.get_aem():update(lname)
+			--if TB3D_bsu_aem then TB3D_bsu_aem.update(delta, self.object, time_now) end				-- modders interface	
+		end
+	end
+	if upd_timeFSS < time_now then
+		amk.oau_watchdog=778													-----------------778
+		upd_timeFSS = time_now + upd_time_FSS
+		if slice_base < 3 then
+			if TB3D_Modders.use_slice_message then TB3D_Services.packet_alert("BSTALK: actor_update - FSS["..utils.to_str(upd_timeFSS).."]") end
+			TB3D_Services.actor_update(self.object, delta, time_now)
+		end
+	end
+	if upd_timeGMS < time_now then
+		amk.oau_watchdog=777													-----------------777
+		upd_timeGMS = time_now + upd_time_GMS
+		if slice_base < 3 then
+			if TB3D_Modders.use_slice_message then TB3D_Services.packet_alert("BSTALK: actor_update - GMS["..utils.to_str(upd_timeGMS).."]") end
+			if TB3D_Modders.log_game_stats == true then game_stats.update(delta, self.object, time_now) end
+			if TB3D_Modders.show_sak_credits then sak_dialog.on_update() end		--110006, aleks1970 -------------
+			gps_habar.on_actor_upade(delta) 		--110000, used for gps in stashes
+			amk.mod_call("check_metka")				--110005, required for gps ground marker spots
+		end
+	end
+	if upd_timeKEY < time_now then
+		amk.oau_watchdog=776													-----------------776
+		upd_timeKEY = time_now + upd_time_KEY
+		--on_key will be implemented in new engine
+		if slice_base < 3 then
+			if TB3D_Modders.use_slice_message then TB3D_Services.packet_alert("BSTALK: actor_update - KEY["..utils.to_str(upd_timeKEY).."]") end
+		end
+	end
+	if upd_timeBTR < time_now then												--110000, from amk.actor_update
+		amk.oau_watchdog=775													-----------------775
+		upd_timeBTR = time_now + upd_time_BTR
+		if slice_base < 3 then
+			dmx_cars.check_btr()												--ogse usable btrs 109950
+			amk.antirad_update()												--ogse usable btrs 109950
+		end
+	end
+	--============================ more important: skip if slice base > 3 =========================================
+	if upd_timeAMK < time_now then												--110000, from amk.actor_update
+		amk.oau_watchdog=773													-----------------773
+		upd_timeAMK = time_now + upd_time_AMK
+		if slice_base < 4 then
+			amk.oau_watchdog=772												-----------------772
+			art_hit.update()
+			amk.on_actor_update(delta)
+		end
+	end
+	if upd_timeTSK < time_now then
+		amk.oau_watchdog=771													-----------------890, 889
+		upd_timeTSK = time_now + upd_time_TSK
+		if slice_base < 4 then
+			if TB3D_Modders.use_slice_message then TB3D_Services.packet_alert("BSTALK: actor_update - TSK["..utils.to_str(upd_timeTSK).."]") end
+			task_manager.actor_update()
+		end
+	end
+	--TB3D_Services.packet_alert("BSTALK: actor_update4")
+	--============================ most important: skip if slice base > 4 =========================================
+	if upd_timeSCP < time_now then
+		amk.oau_watchdog=770													-----------------770  
+		upd_timeSCP = time_now + upd_time_SCP
+		if slice_base < 5 then
+			if TB3D_Modders.use_slice_message then TB3D_Services.packet_alert("BSTALK: actor_update - SCP["..utils.to_str(upd_timeSCP).."]") end
+			if TB3D_Modders.use_ammo_stack and self.object:is_talking() == false then
+				-- if stacking is enabled and no dialog is open, give ammo_stack.on_update a chance to stack ammo
+				-- if no stacking is required, ammo_stack.on_update returns immediately
+				amk.oau_watchdog=769											-----------------769
+				TB3D_ammo_stack.on_update()
+			end
+			if TB3D_Modders.use_dual_weapons then dualweapon.main() end											-- Shooting with two hands
+			--if TB3D_bsu_updS then TB3D_bsu_updS.update(delta, self.object, time_now, scopeUsed) end			-- modders interface		
+		end
+	end
+	if upd_timeWEP < time_now then
+		amk.oau_watchdog=768													-----------------768
+		upd_timeWEP = time_now + upd_time_WEP
+		if slice_base < 5 then
+			if TB3D_Modders.use_slice_message then TB3D_Services.packet_alert("BSTALK: actor_update - WEP["..utils.to_str(upd_timeWEP).."]") end
+			rx_wmgr.global_update(time_now) 									--weapon manager updates
+			rx_addons.update(time_now) 
+			rx_gl.update(time_now) 
+			meceniy_wpn.on_actor_update()
+			dmx_mod.wpn_explode_update()
+			dmx_inv_weight_static.update(scopeUsed)									--110007, aleks1970
+			rx_shoot_enable.shoot_effect() 											--109989  The effect of firing
+			--if TB3D_bsu_upd3 then TB3D_bsu_upd3.update(delta, self.object, time_now) end	-- modders interface	
+		end
+	end
+	if upd_timeOTF < time_now then
+		amk.oau_watchdog=767													-----------------767
+		upd_timeOTF = time_now + upd_time_OTF
+		if slice_base < 5 then
+			if TB3D_Modders.use_slice_message then TB3D_Services.packet_alert("BSTALK: actor_update - OTF["..utils.to_str(upd_timeOTF).."]") end
+			meceniy_outfit.on_actor_update(scopeUsed)
+			repair.update()	--109998,  Revamped repair kit - aleks1970
+			--if tb3d_services.on_difficulty() and tb3d_services.reset_difficulty() then	-- aleks1970
+				--tb3d_services.on_difficulty()
+			--end
+			if TB3D_Modders.invisible then meceniy_work.set_invisible() end
+		end
+	end
+	--============================ end slice based actions ===============================================
+	--if slice_base < 5 then
+		self.actor_detector:update()											-- update circuit detector
+		if TB3D_Modders.amk_style_hit == false then								--109970 moved here, amk hit already does this
+			amk.oau_watchdog=766												-----------------766  
+			dmx_mod.red_effect() 												-- Red wound effect
+		end
+		amk.oau_watchdog=765													-----------------765
+		if TB3D_Modders.CopKeys == true then keylogger.update() end				-- New buttons
+		amk.oau_watchdog=764													-----------------764
+		if TB3D_Modders.use_xtrm_ai and xrs_ai then xrs_ai.actor_update(delta) end	--grenade and armor
+	--end
+	--TB3D_Services.info_alert("Bind_Stalker actor_update slices done")
+	if is_collector == true then
+		amk.oau_watchdog=763													-----------------763
+		TB3D_Collector.update(bphase, time_now, slice_base)
+	else
+		amk.oau_watchdog=762													-----------------762
+		TB3D_Stalker.update(bphase, time_now, slice_base)								--109983
+	end
+ 	amk.oau_watchdog=761														-----------------761
+	bolt_ending.update() 														-- Ending bolts
+	amk.oau_watchdog=760														-----------------760
+	--if TB3D_bsu_last then TB3D_bsu_last.update(delta, self.object, time_now) end		--109978, before alert
+	amk.oau_watchdog=759														-----------------759
+	if last_time == nil then															--109975, first update
+		if TB3D_Modders.use_info_message then
+			TB3D_Services.show_belt_items()
+			db.show_counts()
+		end
+		TB3D_Services.show_mem_usage()
+		TB3D_Services.check_active_community()									--109982, determine by most significant item/info
+	end
+	if self.warning then 														-- added by Red75. Control over the overflow	!!!!TB3D OVERFLOW ERROR WARNING 
+		self.warning=nil
+		get_hud():AddCustomStatic("hud_save_warning")
+		local wnd=get_hud():GetCustomStatic("hud_save_warning"):wnd()
+		if self.critical==1 then
+		  wnd:SetTextST(translate("amk_warn_trans"))
+		  self.critical=nil
+		elseif self.critical==2 then
+		  wnd:SetTextST(translate("amk_warn_trans_critical"))
+		  self.critical=nil
+		else
+		  wnd:SetTextST(translate("amk_warn_attention"))
+		end
+	elseif self.wt and self.wt<time_now then
+		self.wt=nil
+		if get_hud():GetCustomStatic("hud_save_warning") then
+		  get_hud():RemoveCustomStatic("hud_save_warning")
+		end
+	end
+	sak.show_time(scopeUsed, slice_base)
+	last_time = time_now														--save for next loop
+	if TB3D_Modders.Global_Debug then
+		TB3D_Services.packet_alert("Bind STALKER: update["..game.get_game_time():timeToString(game.CTime.TimeToMilisecs).."] <<<<done>>>>")
+	end
+	amk.oau_watchdog=0
+end
+
+-----------------------------------SAVE------------------------------------------------
+function actor_binder:save(packet)
+	if db.actor:alive() then
+		if TB3D_Modders.use_packet_message then
+			db.show_counts()
+		end
+		amk.on_game_save(obj)	-- TB3D 1098, just saves the active level name
+		rx_ai.actor_save(packet)	--!!!!TB3D returns weapons to database
+		local diff = self:save_old(packet)
+		local psize = packet:w_tell()
+		local limits = TB3D_Modders.packet_limit or 15000
+		TB3D_Services.packet_alert("BSTALK["..utils.to_str(amk.load_variable("tb3d_version",0)).."] save, diff["..utils.to_str(diff).."] test psize["..utils.to_str(psize).."]")
+		if psize>limits then
+			self.warning=true
+			self.critical=2
+			self.wt=time_global()+60000
+			TB3D_Services.packet_alert("BSTALK: save, diff["..utils.to_str(diff).."] psize["..utils.to_str(psize).."] corrupted !!!!!!!!!!!!")
+		elseif psize>limits-1000 then
+			self.warning=true
+			self.critical=1
+			self.wt=time_global()+60000
+			TB3D_Services.packet_alert("BSTALK: save, diff["..utils.to_str(diff).."] psize["..utils.to_str(psize).."] critical !!!!!!!!!!!!")
+		elseif psize>limits-2000 then
+			self.warning=true
+			self.wt=time_global()+60000
+			TB3D_Services.packet_alert("BSTALK: save, diff["..utils.to_str(diff).."] psize["..utils.to_str(psize).."] high !!!!")
+		else
+			self.wt=time_global()
+			TB3D_Services.packet_alert("BSTALK: save, diff["..utils.to_str(diff).."] psize["..utils.to_str(psize).."] good")
+		end
+		self.is_saved = true
+	else
+		self.is_saved = false
+	end
+	TB3D_Services.show_mem_usage()			--109987
+end
+
+-----------------------------------------SAVE OLD FUNC------------------------------------
+function actor_binder:save_old(packet)
+	local diff = level.get_game_difficulty()+128
+	if TB3D_Services.is_collector(32) == true then diff = diff+1 end
+	if force_obinder then object_binder.save(self, packet) end		--110010, calls timer_v.script to write variables before save
+	packet:w_u8(diff)						--first item written
+	--' Store data on disabled input
+	if self.st.disable_input_time == nil then						--second, item written
+		packet:w_bool(false)
+	else
+		if TB3D_Modders.use_packet_message then TB3D_Services.info_alert("BSTALK: using stored input time") end
+		packet:w_bool(true)
+		utils.w_CTime(packet, self.st.disable_input_time)			--possible third item
+	end
+	if TB3D_Modders.use_packet_message then							--grows as game progresses
+		xr_logic.pstor_save_all_report(self.object, packet)
+	else
+		xr_logic.pstor_save_all(self.object, packet)
+	end
+	amk.oAmkLauncher:SaveData(self.object)		--active transmutator func if exists
+	self.weather_manager:save(packet)
+	sr_psy_antenna.save( packet )
+	treasure_manager.save(packet)      
+	task_manager.save(packet)
+	self.actor_detector:save(packet)
+	return diff
+end
+
+---------------------------------------LOAD---------------------------------------------------
+function actor_binder:load(reader)
+	if TB3D_Modders.Global_Debug then TB3D_Services.info_alert("BSTALK:  load", true) end
+	if force_obinder then object_binder.load(self, reader) end				--110010, loads save into buffer
+	local isLoadTreasures = false
+	local game_difficulty = reader:r_u8()			--first item
+	--if TB3D_Modders.use_packet_message then TB3D_Services.packet_alert("BSTALK: difficulty level ["..game_difficulty.."]") end
+	local collectr = false
+	if game_difficulty > 127 then		--initial all.sav ??????
+		game_difficulty = game_difficulty - 128		--set treasures
+		isLoadTreasures = true
+	end
+	local gdiff = game_difficulty
+	if game_difficulty < 0 then		--!!!!TB3D this should never happen, trap?
+		game_difficulty = 0
+		gdiff = 0
+		TB3D_Services.abort_alert("BSTALK: Load: diff less than zero["..self.object:name().."]")
+	elseif game_difficulty > 3 then
+		game_difficulty = 3
+		gdiff = 4
+		collectr = true
+	end
+	get_console():execute("g_game_difficulty "..game_difficulty_by_num[game_difficulty])
+	if reader:r_eof() then								--should be input time next
+		get_console():execute("load ~~~ BSTALK load: SAVE FILE IS CORRUPT !!!!!!!!!!!!!!!!!!!!!!!!!!!")
+		get_console():execute("flush")
+		get_console():execute("flush")
+		get_console():execute("disconnect")
+		get_console():execute("quit")
+		self.stop()
+	else
+		TB3D_Services.set_existing_difficulty(gdiff)
+		local stored_input_time = reader:r_u8()					--second item read
+		TB3D_Services.info_alert("BSTALK load: difficulty level["..utils.to_str(gdiff).."] treasures["..utils.to_str(isLoadTreasures).."] stored input time["..utils.to_str(stored_input_time).."]", true)
+		if stored_input_time == nil then
+			TB3D_Services.abort_alert("BSTALK: stored input time["..utils.to_str(stored_input_time).."] !!!!")
+		elseif stored_input_time == true then
+			self.st.disable_input_time = utils.r_CTime(reader)				--possible third item
+			TB3D_Services.packet_alert("BSTALK: using stored input time")
+		end
+		TB3D_Services.abort_alert("BSTALK: loading packets")
+		if TB3D_Modders.use_packet_message then								--grows as game progresses
+			xr_logic.pstor_load_all_report(self.object, reader)
+		else
+			xr_logic.pstor_load_all(self.object, reader)
+		end
+		TB3D_Services.abort_alert("BSTALK: AMK Launcher")
+		amk.oAmkLauncher:LoadData(self.object)								--only if a func is active
+		TB3D_Services.abort_alert("BSTALK: Weather Manager")
+		self.weather_manager:load(reader)									--always item
+		TB3D_Services.abort_alert("BSTALK: PSI Antenna")
+		sr_psy_antenna.load(reader)											--always item
+		TB3D_Services.abort_alert("BSTALK: Load Treasures")
+		if isLoadTreasures == true then										--optional
+			treasure_manager.load(reader)      
+			if TB3D_Modders.Global_Debug then TB3D_Services.packet_alert("BSTALK: treasure Manager Loaded") end
+		end                                  
+		TB3D_Services.abort_alert("BSTALK: Load Tasks")
+		task_manager.load(reader)											--always items, changes as game progresses
+		TB3D_Services.abort_alert("BSTALK: Load Detector")
+		self.actor_detector:load(reader)									--always item
+	end
+	--collectgarbage("collect")  --force a cleanup
+	if TB3D_Modders.Global_Debug then TB3D_Services.info_alert("BSTALK: Loaded") end
+end
+----------------------------------------------------------------------------------------------------------------------
+
+--Start prefetch sounds
+--if string_find(command_line(), "-noprefetch") == nil then				!!!!TB3D
+--  sound_prefetch.prefetch_sounds()
+--end
+
+
+-- Weapon functions, called by cars, medicine and arhara in gameplay
+function hide_weapon(is_required)									--moved here due to gameplay conflicts
+	if is_required then
+		weapon_hide = true
+		TB3D_Services.give_info("hide_weapon_info")
+		--TB3D_Services.info_alert("bind stalker: hide weapon: [forced]")
+		--return true
+	elseif TB3D_Modders.hide_weapon == true then
+		weapon_hide = true
+		TB3D_Services.give_info("hide_weapon_info")
+		--TB3D_Services.info_alert("bind stalker: hide weapon: ["..utils.to_str(weapon_hide).."]")
+		--return true
+	else
+		weapon_hide = false
+	end
+	return weapon_hide
+end
+function restore_weapon()
+	--TB3D_Services.info_alert("bind stalker: restore weapon")
+	if has_alife_info("hide_weapon_info") then
+		weapon_hide = false
+		TB3D_Services.remove_info("hide_weapon_info")
+	end
+end
+
+-- --------------------------------------ON USE------------------------------------------
+-- -----------------------109998, Revamped repair kit - aleks1970 -----------------------
+function actor_binder:on_use_object(obj)
+	if TB3D_Modders.Global_Debug then
+		TB3D_Services.packet_alert("BSTALK: on use object["..obj:name().."]")
+	end
+	if obj then
+		local sect = obj:section()	-- 109998 - aleks1970
+		if (sect == "repair_kit") then --or (sect == "spare_parts") then
+			repair.repair_used(obj)
+		else
+			spawn_level_changer.checking_droped_obj(obj)			--109999
+			if TB3D_Services.is_collector(33) then
+				TB3D_Collector.on_use_object(obj, sect)
+			else
+				TB3D_Stalker.on_use_object(obj, sect)
+			end
+		end
+	end
+	if TB3D_Modders.Global_Debug then TB3D_Services.packet_alert("BSTALK: on use object done") end
+end
+
+-- ----------- excluded part from Revamped repair kit - aleks1970 -----------------------------
+-- use this (and the use_object set_callback()s above) if you want to handle object use
+function actor_binder:use_object(object)
+	TB3D_Services.packet_alert("BSTALK: use object["..object:name().."]")
+		--repair.repair_used(object)
+		-- -- dbglog("use_object_%s,_section_%s",object:name(), object:section())
+end
+-- --------------------------------------------------------------------------------------------

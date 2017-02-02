@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ansi" ?>
+<!-- SCARmod_Fr_04/02/2013 -->
+<!-- ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;from AMK MOD  
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-->
+
+	<string id="amk_metka">
+		<text>Balise GPS</text>
+	</string>
+	<string id="amk_metka_s">
+		<text>Balise GPS</text>
+	</string>
+	<string id="enc_amk_metka">
+		<text>Balise GPS. Ce petit objet, permet de marquer un endroit sur la carte, que vous pouvez visualiser sur votre PDA. Pour l'activer, vous devez le laisser tomber et entrer un texte personnalisé dans la fenêtre du PDA.</text>
+	</string>
+
+<!-- ui_dots_wnd.xml -->
+	<string id="ui_dots_wnd_capt_metka">
+		<text>Activation du GPS</text>
+	</string>
+	<string id="ui_dots_wnd_msg_metka">
+		<text>Texte de la balise GPS:</text>
+	</string>
+	<string id="ui_dots_wnd_btn_1_metka">
+		<text>Activer</text>
+	</string>
+	<string id="ui_dots_wnd_btn_quit_metka">
+		<text>Annuler</text>
+	</string>
+<!-- ui_gps_trade_wnd.xml -->
+	<string id="ui_gps_trade_wnd_msg_metka">
+		<text>Activer le traceur GPS ?</text>
+	</string>

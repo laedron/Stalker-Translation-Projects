@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="ansi" ?>
+<!--SCAR mod_Fr_16/01/2013
+--OK-KumulPatch-3_31/12/2012
+-->
+<!--########################################-->
+<!--        (storyline_new.xml)         -->
+<!--########################################-->
+<string id="dialog_name_tex_oleg_keys">
+	<text>Trouver la mallette et la remettre à Oleg.</text>
+</string>
+<string id="dialog_tex_oleg_keys">
+	<text>Il faut trouver Parachutiste. Récupérer la mallette avec l'argent volé, gagné justement par Oleg Tango et la lui ramener pour une bonne récompense.</text>
+</string>
+
+<string id="dialog_name_tex_rabota_uch">
+	<text>Travailler dans l'intérêt des scientifiques</text>
+</string>
+<string id="dialog_tex_rabota_uch">
+	<text>Nécessité de travailler pour les scientifiques qui sont bloqués au Cordon. 
+	\nIls m'ont sortis d'un coma de deux ans. Ils m'ont fournit le dernier crie de PDA. Ce nouveau PDA est en mesure de capter et pirater tous les types de PDA dans un rayon de 500m.</text>
+</string>
+
+<string id="dialog_name_tex_rabota_voronin">
+	<text>Travailler pour le général Voronin.</text>
+</string>
+<string id="dialog_tex_rabota_voronin">
+	<text>Le général Voronin m'a informé que ma fille est entre de bonne main, dans une clinique privée en Allemagne. Mais les soins qui lui sont nécessaire coûte une fortune. Je doit réunir deux millions de roubles, que le général transférera aux médecins étrangers. Le général a la renommé d'être un excellent payeur.</text>
+</string>
+
+<string id="dialog_name_tex_doch_uznat">
+	<text>Se Renseigner sur le sort de ma fille</text>
+</string>
+<string id="dialog_tex_doch_uznat">
+	<text>Découvrir ce qu'est devenue ma fille. Travailler pour les scientifiques qui m'ont sortis du coma, qui a duré deux ans.</text>
+</string>
+
+<string id="dialog_gastello_help">
+	<text>Aider à ramener au camp d'Oleg Tango, Gastello complètement ivre.</text>
+</string>
+
+<string id="dialog_name_tex_peredatchik">
+	<text>Trouver l'émetteur et le rapporter à Vassilina.</text>
+</string>
+<string id="dialog_tex_peredatchik">
+	<text>Il faut trouver un émetteur dans la décharge, sur un des tas de déchets radioactifs et l'apporter Vassilina.</text>
+</string>
+
+<string id="dialog_name_tex_fanat_say">
+	<text>Localiser et détruire le sniper.</text>
+</string>
+<string id="dialog_tex_fanat_say">
+	<text>Il faut trouver le tireur d'élite et le détruire.</text>
+</string>
+
+<string id="dialog_name_tex_dimak_stvol">
+	<text>Trouver le contenu planqué et le ramener à Dimak.</text>
+</string>
+<string id="dialog_tex_dimak_stvol">
+	<text>Il faut trouver, après le territoire du Bar, la planque de Dimak. Lui rapporter le lance-flammes et deux bonbonnes. Je pourrais garder le restant du contenu.</text>
+</string>
+
+<string id="dialog_name_lebed_ataka_otbit">
+	<text>Repousser l'attaque des mercenaires, et, si possible, de protéger non seulement les scientifiques mais aussi les novices.</text>
+</string>
+<string id="dialog_lebed_ataka_otbit">
+	<text>Il est nécessaire de repousser l'attaque des mercenaires et de protéger non seulement les scientifiques, mais aussi les nouveaux dans le camp.</text>
+</string>
+
+<string id="dialog_name_lebed_ataka_blokpost_otbit">
+	<text>Aider l'armée à repousser l'attaque des mercenaires à l'avant-poste.</text>
+</string>
+<string id="dialog_lebed_ataka_blokpost_otbit">
+	<text>Il faut aider les militaires à parer l'attaque des mercenaires, qui sont passés du côté des marais, risquant de tuer le commandant.</text>
+</string>
+
+<string id="dialog_name_dogovor_s_band">
+	<text>Il faut se mettre d'accord avec les bandits.</text>
+</string>
+<string id="dialog_dogovor_s_band">
+	<text>Il faut se mettre d'accord avec les bandits pour régler la situation pacifiquement, car sur la Décharge il ni y'a rien à partager.</text>
+</string>
+
+<string id="dialog_name_kill_s_band">
+	<text>Il faut supprimer les bandits.</text>
+</string>
+<string id="dialog_kill_s_band">
+	<text>Il faut rapidement supprimer les bandits avant l'arrivée des renforts des forces spéciales du Devoir.</text>
+</string>
+
+<string id="dialog_name_kill_borov">
+	<text>Il faut supprimer Borov.</text>
+</string>
+<string id="dialog_kill_borov">
+	<text>Il faut supprimer Borov à l'arbalète, sans faire de bruit, à une distance convenable.</text>
+</string>
+
+<string id="dialog_name_tex_ded_stvol">
+	<text>Trouver dans la zone des marais, dans le ravin au sud, l'arbalète et tuer le monstre.</text>
+</string>
+<string id="dialog_tex_ded_stvol">
+	<text>Je dois trouver l'arbalète au fond de l'eau, dans la zone du marais pour tuer le monstre aquatique, puis ramasser les carreaux entre les trois rochers et retourner voir le vieux.</text>
+</string>
+
+<string id="dialog_name_aver_kruglov_help">
+	<text>Il faut accompagner le professeur Kruglov jusqu'au centre du Marais.</text>
+</string>
+<string id="dialog_aver_kruglov_help">
+	<text>Il faut accompagner le professeur Kruglov au centre du Marais, jusqu'à l'entrée de la caverne, où il y a un passage au territoire Sauvage.</text>
+</string>
+
+<string id="dialog_name_ros_kruglov_help">
+	<text>Il faut accompagner le professeur Kruglov vers la sortie de Yantar.</text>
+</string>
+<string id="dialog_ros_kruglov_help">
+	<text>Il faut accompagner le professeur Kruglov vers la sortie de Yantar.</text>
+</string>
+
+<string id="dialog_name_yan_hozjain_plen_help">
+	<text>Il faut s'approcher furtivement du camion et protéger Kruglov avec Sakharov.</text>
+</string>
+<string id="dialog_yan_hozjain_plen_help">
+	<text>Il faut s'approcher furtivement du camion, et pour que cela commencer par protéger Kruglov avec Sakharov.</text>
+</string>
+
+<string id="dialog_name_yan_hozjain_help">
+	<text>Il faut se téléporter hors du bunker et nettoyer Khozyainov a coté du bunker des scientifiques.</text>
+</string>
+<string id="dialog_yan_hozjain_help">
+	<text>Il faut se téléporter dehors et nettoyer Khozyainov a coté du bunker des scientifiques.</text>
+</string>
+
+<string id="dialog_name_yan_laba_diaktiv">
+	<text>Il faut pénétrer sur le territoire de l'usine et déconnecter la protection de l'entrée du laboratoire X-16.</text>
+</string>
+<string id="dialog_yan_laba_diaktiv">
+	<text>Il faut pénétrer sur le territoire de l'usine, monter au premier étage, au niveau de l'escalier brisé, trouver sur un coin de fenêtre le sac à dos contenant le désactivateur, et déconnecter la protection de l'entrée du laboratoire X-16.</text>
+</string>
+
+<string id="dialog_name_tex_disk_sahara">
+	<text>Il faut trouver dans le laboratoire X-10 sur le site du Radar, le disque avec les formules du professeur Sakharov.</text>
+</string>
+<string id="dialog_tex_disk_sahara">
+	<text>Il faut se rendre au "Radar" dans le laboratoire X-10, trouver et récupérer le disque avec les formules du professeur Sakharov.</text>
+</string>
+
+<string id="dialog_name_nachalo_tex">
+	<text>Suivre Vassilina, et parler au chef scientifique.</text>
+</string>
+<string id="dialog_nachalo_tex">
+	<text>Suivre la fille nommer Vassilina, et parler au chef scientifique.</text>
+</string>
+
+<string id="dialog_name_gar_dima_pohod_tex">
+	<text>Suivre Dimon pour trouver un émetteur dans la Décharge.</text>
+</string>
+<string id="dialog_gar_dima_pohod_tex">
+	<text>Il faut suivre Dimon jusqu'à la Décharge, où il y a un émetteur pourissant sur un tas de déchets radioactif.</text>
+</string>
+
+<string id="dialog_name_val_baks_tex">
+	<text>Couvrir et accompagner le pseudo-chien "Baks" jusqu'au passage de la Décharge.</text>
+</string>
+<string id="dialog_val_baks_tex">
+	<text>Il faut accéder à la première tour, qui est au sud-est de la base. Ensuite appeler le pseudo-chien par son surnom - Baks - et, lorsqu'il surgit, le couvrir et l'accompagner jusqu'au passage de la Décharge, sans oublier le rayonnement artificiel Psi.</text>
+</string>
+
+<string id="dialog_name_pda_sapro2">
+	<text>Informations sur point de transition.</text>
+</string>
+<string id="dialog_pda_sapro2">
+	<text>Trouver des informations sur le passage secret vers zone Tampon au Cordon.</text>
+</string>
+
+<string id="dialog_name_esc_kostya_dal">
+	<text>Conversation avec Kostya.</text>
+</string>
+
+<string id="dialog_name_aver_ded_dal">
+	<text>Conversation avec le vieux Shukar.</text>
+</string>
+
+<string id="dialog_name_esc_dimak_dal">
+	<text>Conversation avec Dimak.</text>
+</string>
+
+<string id="dialog_name_bar_voronin_dal">
+	<text>Conversation avec le général Voronin.</text>
+</string>
+
+<string id="dialog_name_bur_dal">
+	<text>Informations supplémentaires sur Borov.</text>
+</string>
+
+<string id="dialog_name_tor_dal">
+	<text>Informations sur Torych.</text>
+</string>
+
+<string id="dialog_name_tor_dal_2">
+	<text>Informations sur Torych-2.</text>
+</string>
+
+<string id="dialog_name_kod_sema">
+	<text>J'ai trouvé un morceau de code</text>
+</string>
+
+<string id="dialog_name_bar_voronin_dal2">
+	<text>Conversation avec le général Voronin-2.</text>
+</string>

@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="ansi" ?>
+<!--SCAR mod_Fr_03/03/2013-->
+
+<!--########################################-->
+<!--        (lesnik_dialog.script )         -->
+<!--########################################-->
+<string id="dialog_v_dorogu_sms1">
+	<text>%c[255,160,160,160]OLEG TANGO:\n%c[255,255,128,128]Et bien, les gars le chemin sera difficile et dure! On devra marcher à pied longtemps et avec de la chance, on piquera un hélico aux stalker-militaire. Je suis dans le coup. Nous avons gagné cet argent dans le sang et il est à nous!\n</text>
+</string>
+
+<string id="dialog_v_dorogu_sms2">
+	<text>%c[255,160,160,160]LOOSER:\n%c[255,255,128,128]J'y vais bien sûr. Il faut étriper ce petit salaud comme dans une anomalie Hachoire, juste pour le plaisir! Des hélicos ils en ont et ils nous sont déjà tombé dessus, mais nous les attaqueront en premier ce coup-ci.\n</text>
+</string>
+
+<string id="dialog_v_dorogu_sms3">
+	<text>%c[255,160,160,160]DIMAK:\n%c[255,255,128,128]Tâchons de retrouver la malette avec l'argent, parce que sans, on est rien. Il faut mettre la main sur Parachutiste, sinon dans deux heures -le Parachutiste- bye-bye pour Pétaouchnok !\n</text>
+</string>
+
+<string id="dialog_v_dorogu_sms4">
+	<text>%c[255,160,160,160]JORA DALNOBOY:\n%c[255,255,128,128]Dimak, reste au camp avec ton fils, tu viens juste de le retrouver.\n</text>
+</string>
+
+<string id="dialog_v_dorogu_sms5">
+	<text>%c[255,160,160,160]DIMON:\n%c[255,255,128,128]Non, je vais aller avec mon pêre.\n</text>
+</string>
+
+<string id="dialog_v_dorogu_sms6">
+	<text>%c[255,160,160,160]ANYA BEYVRAGA:\n%c[255,255,128,128]J'y vais, et vous restez dans le camp avec Oleg comme chef.\n</text>
+</string>
+
+<string id="dialog_v_dorogu_sms7">
+	<text>%c[255,160,160,160]KUZMA:\n%c[255,255,128,128]Je vais y aller aussi, il y a déjà assez d'un gamin.\n</text>
+</string>
+
+<string id="dialog_v_dorogu_sms8">
+	<text>%c[255,160,160,160]DIMON:\n%c[255,255,128,128]Et moi, vous m'oubliez ? Je ne vais pas rester ici.\n</text>
+</string>
+
+<string id="dialog_v_dorogu_sms9">
+	<text>%c[255,160,160,160]VICTOR LE COIFFEUR:\n%c[255,255,128,128]les gars, à peine la fête commencée que c'est la bagarre.\n</text>
+</string>
+
+<string id="dialog_v_dorogu_sms10">
+	<text>%c[255,160,160,160]TORYCH:\n%c[255,255,128,128](A affiner en Fr.)\nVictor, dans de 2 heures cet enculé de Parachutiste sera posé et va se barrer avec notre argent. J'en suis.\n</text>
+</string>
+<string id="dialog_v_dorogu_sms11">
+	<text>%c[255,160,160,160]OLEG:\n%c[255,255,128,128]STOP! On a plus le temps pour les palabres. Je vais rester. Allez Looser, Demon, Dimak, Dimon, Anya, Torych, Balafré et Kuzma. Dégagez d'ici! Uraaaaaa!\n</text>
+</string>
+
+<string id="dialog_na_pri1_sms1">
+	<text>%c[255,160,160,160]DIMAK:\n%c[255,255,128,128]Ah! les gars! Oleg, c'est un chef! Son plan a fonctionné. La malette est nôtre, de sorte que la récompense aussi.\n</text>
+</string>
+<string id="dialog_na_pri1_sms2">
+	<text>%c[255,160,160,160]LOOSER:\n%c[255,255,128,128]Excellent Dimak! Allez !\n</text>
+</string>
+<string id="dialog_na_pri1_sms3">
+	<text>%c[255,160,160,160]ANYA BEYVRAGA:\n%c[255,255,128,128]Le Balafré, prenez les commandes. Regardez le portail de transition sur la carte. Allez-y droit dessus.\n</text>
+</string>
+
+
+<string id="dialog_na_up_sms1">
+	<text>%c[255,160,160,160]DIMAK:\n%c[255,255,128,128]Bon. On a assez de carburant!\n</text>
+</string>
+<string id="dialog_na_up_sms2">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,255,128,128]On pourra atteindre Jupiter!\n</text>
+</string>
+<string id="dialog_na_up_sms3">
+	<text>%c[255,160,160,160]ANYA BEYVRAGA:\n%c[255,255,128,128]Vive Jupiter! Venus!!!!!!!!\n</text>
+</string>
+
+
+<string id="dialog_privet_goga_sms1">
+	<text>%c[255,160,160,160]OLEG:\n%c[255,255,128,128]Salut frêre Jora ! Viens dans notre colonie de vacances!\n</text>
+</string>
+<string id="dialog_privet_goga_sms2">
+	<text>%c[255,160,160,160]JORA DALNOBOY:\n%c[255,255,128,128]Salutations aux garçons et filles !\n</text>
+</string>
+<string id="dialog_privet_goga_sms3">
+	<text>%c[255,160,160,160]DIMAK:\n%c[255,255,128,128]Jora, toujours ponctuel!\n</text>
+</string>
+<string id="dialog_privet_goga_sms4">
+	<text>%c[255,160,160,160]JORA DALNOBOY:\n%c[255,255,128,128]Parachutiste est de nouveau au piquet?\n</text>
+</string>
+<string id="dialog_privet_goga_sms5">
+	<text>%c[255,160,160,160]KUZMA:\n%c[255,255,128,128]Oh lui, il a fait de l'esbrouffe au Rad100 et il fait la gueule.\n</text>
+</string>
+<string id="dialog_privet_goga_sms6">
+	<text>%c[255,160,160,160]LOOSER:\n%c[255,255,128,128]Les gars, le fils de Dimak est de retour ! Dimon salut ! Ça festoyé toute la nuit ! Père et fils réunis ! Parachutiste t'es où ?\n</text>
+</string>
+<string id="dialog_privet_goga_sms7">
+	<text>%c[255,160,160,160]DIMAK:\n%c[255,255,128,128]Hé les gars, mon fils et de retour ! Bonjour  fils ! Tourné générale! Des nouvelles de Parachutiste?\n</text>
+</string>
+<string id="dialog_privet_goga_sms8">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,255,128,128]Hé Oleg! Parachutiste a disparu? Pas de signe de lui. Ni a vu, ni sur le reseau local.\n</text>
+</string>
+<string id="dialog_privet_goga_sms9">
+	<text>%c[255,160,160,160]OLEG:\n%c[255,255,128,128]Disparu? Je vais aller jeter un œil et vérifier les affaires, mais je vous demanderai de rester avec Dimak et son fils. Demandez lui s'il ne l'aurait pas croiser en chemin, vu qu'il vient d'arriver. Il n'est pas allé vers l'ouest, on l'aurait vu.\n</text>
+</string>?
+
+
+<string id="dialog_aver_vdv_sms1">
+	<text>%c[255,160,160,160]PARACHUTISTE:\n%c[255,255,128,128]Et bien, vous semblez avoir perdu quelques chose, les connards? Merci pour l'argent, la malette est avec moi et j'en ai assez pour finir mes vieux jours riche et bien portant. Pas comme vous qui allez crever dans ce trou à merde atomique.\n</text>
+</string>
+<string id="dialog_aver_vdv_sms2">
+	<text>%c[255,160,160,160]LOOSER:\n%c[255,255,128,128]Arrête de blaguer, reviens et rend nous le pognon.\n</text>
+</string>
+<string id="dialog_aver_vdv_sms3">
+	<text>%c[255,160,160,160]PARACHUTISTE:\n%c[255,255,128,128]Tu porte bien ton surnom "le perdant", allez donc vous faire foutre!\n</text>
+</string>
+<string id="dialog_aver_vdv_sms4">
+	<text>%c[255,160,160,160]JORA DALNOBOY:\n%c[255,255,128,128]Mais...Fait pas le con, fait pas ça!\n</text>
+</string>
+<string id="dialog_aver_vdv_sms5">
+	<text>%c[255,160,160,160]KUZMA:\n%c[255,255,128,128]Para', t'as pété un cable? arrête tes conneries, c'est pas trop tard.\n</text>
+</string>
+<string id="dialog_aver_vdv_sms6">
+	<text>%c[255,160,160,160]OLEG:\n%c[255,255,128,128]T'es qu'un monstre! Tu n'es pas Parachutiste, pas celui qu'on a connus!\n</text>
+</string>
+<string id="dialog_aver_vdv_sms7">
+	<text>%c[255,160,160,160]PARACHUTISTE:\n%c[255,255,128,128]C'est exclu que je revienne. Vous croyez que hier au bar je me bagarrais? Bande de naze! Je vous vendais, les ratés! Dans une poignés de minutes vous ne ferez plus partis de ce monde, les hélicos de mes amis arrivent!\n</text>
+</string>
+<string id="dialog_aver_vdv_sms8">
+	<text>%c[255,160,160,160]DEMON:\n%c[255,255,128,128]Tu sembles oublier qu'on est dans une depression, et qu'aucun hélico ne peu se poser.\n</text>
+</string>
+<string id="dialog_aver_vdv_sms9">
+	<text>%c[255,160,160,160]VICTOR:\n%c[255,255,128,128]Para... raccroche, les gars sont hors d'eux.\n</text>
+</string>
+<string id="dialog_aver_vdv_sms10">
+	<text>%c[255,160,160,160]PARACHUTISTE:\n%c[255,255,128,128]Qui vous parle d'hélicoptère? Bande de nul! J'ai pris soin de relever les coordonnées du camp et je les aient transmises à qui de droit et ils vont se téléporter directement! Pendant que vous jouerez avec mes nouveaux amis, je serais en route pour Pripyat-Est et dans 2 heures...Astalavista Baby...\n</text>
+</string>
+
+<string id="dialog_v_dorogu1_sms1">
+	<text>%c[255,160,160,160]LOOSER:\n%c[255,255,128,128]Damned! Rien qu'un PDA, pas de Parachutiste, ni de malette... On c'est fait baiser!\n</text>
+</string>
+<string id="dialog_v_dorogu1_sms2">
+	<text>%c[255,160,160,160]TORYCH:\n%c[255,255,128,128]Qu'est ce qu'on fait maintenant?\n</text>
+</string>
+<string id="dialog_v_dorogu1_sms3">
+	<text>%c[255,160,160,160]PARACHUTISTE:\n%c[255,255,128,128]Baissez vos frocs et courrez! Bande d'abrutis! vous pensiez m'enculer? Je vous salue bien, mon taxi approche. Ciao!\n</text>
+</string>
+<string id="dialog_v_dorogu1_sms4">
+	<text>%c[255,160,160,160]PILOTE HÉLICO:\n%c[255,255,128,128]IRBIS, répondez à 343-MU. Où êtes-vous?\n</text>
+</string>
+<string id="dialog_v_dorogu1_sms5">
+	<text>%c[255,160,160,160]PARACHUTISTE:\n%c[255,255,128,128]Où, Où! Abrutis, qui c'est qui, qui te paye? Sur Jupiter - Au Sud-Est. Prends ça comme point de repère.\n</text>
+</string>
+<string id="dialog_v_dorogu1_sms6">
+	<text>%c[255,160,160,160]DIMAK:\n%c[255,255,128,128]Quel crétins, Il nous file sa destination. On retourne à l'hélico, jusqu'à la transtion pour Jupiter. Venez vite.\n</text>
+</string>
+
+<string id="dialog_vdv_net_sms">
+	<text>%c[255,160,160,160]ANYA BEYVRAGA:\n%c[255,255,128,128]Non, ce n'est pas ici. Allons voir de l'autre côté!!!!\n</text>
+</string>
+<string id="dialog_vdv_koresh_sms">
+	<text>%c[255,160,160,160]MILITAIRE:\n%c[255,255,128,128]Base! Base! Oh, merde...commandant tué! A l'aide!!! On veux pas crever ici!!!\n</text>
+</string>
+<string id="dialog_vdv_koresh_sms1">
+	<text>%c[255,160,160,160]BASE:\n%c[255,255,128,128]IRBIS! Troupe dropée sur zone.\n</text>
+</string>
+
+
+<string id="dialog_na_up1_sms1">
+	<text>%c[255,160,160,160]TORYCH:\n%c[255,1,255,1]Bon sang! Le ventilo est en piteux état et Dimak à sauté sans parachute.\n</text>
+</string>
+<string id="dialog_na_up1_sms2">
+	<text>%c[255,160,160,160]DIMAK:\n%c[255,1,255,1]Ouais, c'était moins une, z'auriez pu vous poser ailleurs!\n</text>
+</string>
+<string id="dialog_na_up1_sms3">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,1,255,1]Désolé, on était "Bingo fuel" et l'anomalie n'a rien arrangé. Vous êtes tous en un seul morceau?\n</text>
+</string>
+<string id="dialog_na_up1_sms4">
+	<text>%c[255,160,160,160]DIMAK:\n%c[255,1,255,1]Je me souviens du complexe, mais je ne sais pas où on est exactement.\n</text>
+</string>
+<string id="dialog_na_up1_sms6">
+	<text>%c[255,160,160,160]DIMAK:\n%c[255,1,255,1]Balafré, ce n'est plus le moment de disserter! Il faut qu'on bouge.\n</text>
+</string>
+<string id="dialog_na_up1_sms5">
+	<text>%c[255,160,160,160]DEMON:\n%c[255,1,255,1]Enfer, quelque chose m'a touché!!! AIDEZ-MOI LES GARS!!! Je ne sais pas ce qui c'est passé, mais je peux plus sortir! Un téléportail me renvoie au point de départ!.\n</text>
+</string>
+<string id="dialog_na_up1_sms7">
+	<text>%c[255,160,160,160]ANYA BEYVRAGA:\n%c[255,1,255,1]Oh, Bon sang Demon! Qu'est-ce qu'on fait là?\n</text>
+</string>
+<string id="dialog_na_up1_sms8">
+	<text>%c[255,160,160,160]ANYA BEYVRAGA:\n%c[255,1,255,1]AU SECOURS!\n</text>
+</string>
+<string id="dialog_na_up1_sms9">
+	<text>%c[255,160,160,160]KUZMA:\n%c[255,1,255,1]ET MERDE!\n</text>
+</string>
+<string id="dialog_na_up1_sms10">
+	<text>%c[255,160,160,160]LOOSER:\n%c[255,1,255,1]Oh, putain! LES GARS, C'EST UN PIÈGE! Je suis bloqué aussi!\n</text>
+</string>
+<string id="dialog_na_up1_sms11">
+	<text>%c[255,160,160,160]DIMAK:\n%c[255,1,255,1]Oh, bordel! C'est quoi tout ce merdier?\n</text>
+</string>
+
+
+<string id="dialog_na_up2_sms1">
+	<text>%c[255,160,160,160]DIMON:\n%c[255,1,255,1]Voici le complexe!\n</text>
+</string>
+<string id="dialog_na_up2_sms">
+	<text>%c[255,160,160,160]TORYCH:\n%c[255,1,255,1]Il faut suivre cet helico. Dans quel piège nos gars sont tombés! Sont-ils encore en vie?\n</text>
+</string>
+<string id="dialog_na_up2_sms3">
+	<text>%c[255,160,160,160]DIMAK:\n%c[255,1,255,1]On a plus le temps. Restez ici, je vais voir ce qui se passe!!!\n</text>
+</string>
+<string id="dialog_na_up2_sms4">
+	<text>%c[255,160,160,160]PILOTE 343-GO:\n%c[255,1,255,1]IRBIS - Répondez 343-MU... Où êtes-vous?\n</text>
+</string>
+<string id="dialog_na_up2_sms5">
+	<text>%c[255,160,160,160]PARACHUTISTE:\n%c[255,1,255,1]IDIOT! TU BRULE! T'AS LE FEU AU CUL! GROUILLE TOI A TE POSER, CRÉTIN!\n</text>
+</string>
+<string id="dialog_na_up2_sms6">
+	<text>%c[255,160,160,160]PILOTE 343-GO:\n%c[255,1,255,1]Je ne suis pas d'accord! D'où sortent ces mercenaires? C'est un piège!!!\n</text>
+</string>
+<string id="dialog_na_up2_sms7">
+	<text>%c[255,160,160,160]DRYKA:\n%c[255,1,255,1]Ceci n'est pas un piège, vous nous avez piégés - Adieu, mon ami!\n</text>
+</string>
+<string id="dialog_na_up2_sms8">
+	<text>%c[255,160,160,160]DRYKA:\n%c[255,1,255,1]Attrapez le gars gars avec la malette! Dégommer cet hélico, avant qu'il l'embarque!\n</text>
+</string>
+<string id="dialog_na_up2_sms9">
+	<text>%c[255,160,160,160]DIMON:\n%c[255,1,255,1]Le Balafré, On fonce vers le complexe. Merde! Mon père a aussi été pris au piège.\n</text>
+</string>
+
+
+<string id="dialog_up_up2_sms1">
+	<text>%c[255,160,160,160]SYSTEME DE PROTECTION:\n%c[255,1,255,1]PIÈGE DÉSAMORCÉ!\n</text>
+</string>
+<string id="dialog_up_up2_sms2">
+	<text>%c[255,160,160,160]TORYCH:\n%c[255,1,255,1]Excellent Le Balafré! On se retrouve au feu de camp dans la cour.\n</text>
+</string>
+<string id="dialog_up_up2_sms3">
+	<text>%c[255,160,160,160]DIMON:\n%c[255,1,255,1]Merci le Balafré!\n</text>
+</string>
+
+
+<string id="dialog_vdv_zhaba">
+	<text>%c[255,160,160,160]TORYCH:\n%c[255,255,128,1]C'EST FOUTU POUR TOI PARACHUTISTE!\n</text>
+</string>
+
+<string id="dialog_dryka_sms_poka">
+	<text>%c[255,160,160,160]DRYKA:\n%c[255,255,128,1]TOUS ASSIS! LAISSONS SE REPOSER LE BALAFRÉ, SINON IL VA S'EFFONDRER DE FATIGUE. ON RETOURNE AU REPAIRE DU LOUP.\n</text>
+</string>
+
+<string id="dialog_cho_za_huynja">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,1,255,1]HEU, GASTELLO, C'EST QUOI TON PROBLÈME? TÊTE DE CON!\n</text>
+</string>
+
+<string id="dialog_gastello_huy">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,1,255,1]GASTELLO! SI ON NE BRULE PAS DANS L'INCENDIE, JE TE NOIE DANS L'ÉTANG... NOM DE DIEU! TÊTE DE COCHON!\n</text>
+</string>
+
+<string id="dialog_stul_sms1">
+	<text>%c[255,160,160,160]FÉE:\n%c[255,1,255,1]Vous voyez, il y a une chaise!\n</text>
+</string>
+<string id="dialog_stul_sms2">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,1,255,1]Des choses mystiques! J'ai fait un rêve?\n</text>
+</string>
+<string id="dialog_stul_sms3">
+	<text>%c[255,160,160,160]FÉE:\n%c[255,1,255,1]Vous ne rêvez ne pas! Maintenant, il y a une chaise!\n</text>
+</string>
+
+<string id="dialog_pri_vdv_pda">
+	<text>%c[255,160,160,160]TORYCH:\n%c[255,1,255,1]J'ai un signal faible provenant de son PDA... ON FONCE!\n</text>
+</string>
+
+<!--____________________________________________-->
+<string id="dialog_na_up3_sms1">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,1,255,1]Les gars, où êtes vous?\n</text>
+</string>
+<string id="dialog_na_up3_sms2">
+	<text>%c[255,160,160,160]LOOSER:\n%c[255,1,255,1]ICI, dans un espèce de garage, mais n'approchez pas de trop près... Qu'est ce t'as dit cet enculé?\n</text>
+</string>
+<string id="dialog_na_up3_sms3">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,1,255,1]Il m'a dit de le laisser partir en lui laissant 300m d'avance et il désactivera le piège!!!\n</text>
+</string>
+<string id="dialog_na_up3_sms4">
+	<text>%c[255,160,160,160]DIMAK:\n%c[255,1,255,1]J'éspère que vous n'avez pas fait cette connerie? Si il a dit ça, c'est que le détonnateur est dans la malette! Donc, cherchez la malette, le Balafré! Elle ne doit pas être loin, quelque part dans cette cour!\n</text>
+</string>
+<string id="dialog_na_up3_sms5">
+	<text>%c[255,160,160,160]KUZMA:\n%c[255,1,255,1]Trouvez cette malette! Le Balafré, nous essaierons de créer deux téléportails à partir d'ici!\n</text>
+</string>
+<string id="dialog_na_up3_sms6">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,1,255,1]BON DIEU!, où chercher cette malette? Le temps m'est compté!!!\n</text>
+</string>
+<string id="dialog_na_up3_sms7">
+	<text>%c[255,160,160,160]ANYA BEYVRAGA:\n%c[255,1,255,1]Balafré, Dimak a raison, elle ne peut pas être bien loin. Quelque part dans cette cour, sur un des contenaires ou dans un des buissons, mais elle est là, à porte de main. Magnez-vous! S'il vous plait...\n</text>
+</string>
+
+
+
+
+
+<string id="dialog_set_metka_baks">
+	<text>Emplacement approximatif du "SOS"</text>
+</string>
+
+<string id="dialog_dveri_sms1">
+	<text>%c[255,160,160,160]SIDOROVITCH:\n%c[255,1,255,1]QUI EST-CE QUI ESSAYE D'ENTRER SANS ETRE INVITÉ ?\n</text>
+</string>
+<string id="dialog_dveri_sms2">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,1,255,1]JE SUIS DÉJA VENU IL Y A DEUX ANS ET T'ÉTAIS PLUS ACCUEILLANT !\n</text>
+</string>
+<string id="dialog_dveri_sms3">
+	<text>%c[255,160,160,160]SIDOROVITCH:\n%c[255,1,255,1]IL Y A DEUX ANS !!! TU CROIS QUE JE VAIS M'EN RAPELLER ?\n</text>
+</string>
+<string id="dialog_dveri_sms4">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,1,255,1]TON CERVEAU A MAL VIEILLI ET S'EST AGGRAVÉ DE SCLÉROSE EN PLAQUES ! ALLEZ, OUVRE !\n</text>
+</string>
+<string id="dialog_dveri_sms5">
+	<text>%c[255,160,160,160]SIDOROVITCH:\n%c[255,1,255,1]QUE... J'AI... ? OH, P'TIT GARNEMENT ! JE VAIS TE CLAQUER...BON ALLEZ ENTRE !\n</text>
+</string>
+
+<string id="dialog_na_gar_sms1">
+	<text>%c[255,160,160,160]DIMON:\n%c[255,255,128,128]Et bien ! je vais essayer d'activer le point de transition ! ...\n</text>
+</string>
+<string id="dialog_na_gar_sms2">
+	<text>%c[255,160,160,160]DIMON:\n%c[255,255,128,128]C'est fait, le Balafré! On saute.\n</text>
+</string>
+
+<string id="dialog_na_kor_sms1"><!-- new-kumulpatch3 -->
+	<text>%c[255,160,160,160]DIMAK:\n%c[255,255,128,128]Eh bien, je vais essayer d'ouvrir un portail!!\n</text>
+</string>
+<string id="dialog_na_kor_sms2"><!-- new-kumulpatch3 -->
+	<text>%c[255,160,160,160]DIMAK:\n%c[255,255,128,128]Ouvert! Aller...Go!...Go!...Go!...\n</text>
+</string>
+
+<string id="dialog_na_gar_sms3">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,255,128,128]C'est génial!!!!!!!! Oh! Bordel de merde!\n</text>
+</string>
+
+<string id="dialog_uch_doma_sms3">
+	<text>%c[255,160,160,160]VASSILINA:\n%c[255,255,128,128]Il semble que la communication par satellite soit résolue.\n</text>
+</string>
+<string id="dialog_uch_doma_sms4">
+	<text>%c[255,160,160,160]IGOR MISYUL:\n%c[255,255,128,128]On dirait, mon amour.\n</text>
+</string>
+<string id="dialog_uch_doma_sms5">
+	<text>%c[255,160,160,160]SOLVADOR:\n%c[255,255,128,128]Bien, venez vous asseoir autour du feu, je suis gelé et j'ai brrrrrr à Corddddd...onnnn. Commmm.... dans la zone sud!\n</text>
+</string>
+
+<string id="dialog_sniper_sms1">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,255,128,128]Enfin, je suis sur la cheminée ! Igor, ce n'est pas une mauvaise position, mais je n'ai plus 15 ans pour ramper dans les greniers et courir sur les toits. Ce qu'il ne faut pas faire pour le bien de la science ! ...\n</text>
+</string>
+<string id="dialog_sniper_sms2">
+	<text>%c[255,160,160,160]IGOR MISYUL:\n%c[255,255,128,128]Excellent, le Balafré! Il est parfois nécessaire de tomber dans l'adolescence ? Ha ha, et n'oubliez pas la cause. Fouillez la zone nord, nord-ouest, pour débusquer le sniper, avec votre fusil miracle!\n</text>
+</string>
+<string id="dialog_sniper_sms3">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,255,128,128]Chut! Ne me distrayez pas!\n</text>
+</string>
+
+<string id="dialog_sniper_ubil_sms1">
+	<text>%c[255,160,160,160]IGOR MISYUL:\n%c[255,255,128,128]Merde, le salaud a descendu "Le Fanatique"!...\n</text>
+</string>
+
+<string id="dialog_sniper_ubil_sms2">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,255,128,128]Quel idiot, j'ai laissé passer l'occasion!\n</text>
+</string>
+<string id="dialog_sniper_ubilb_sms2">
+	<text>%c[255,160,160,160]SNIPER:\n%c[255,255,128,128]HASTA LA VISTA! BANDE D'ENFOIRÉS!\n</text>
+</string>
+<string id="dialog_pogovorit_sms">
+	<text>%c[255,160,160,160]OLEG TANGO:\n%c[255,255,128,128]On est tous là, sain et sauf! Venez le Balafré, on a à causer!\n</text>
+</string>
+<string id="dialog_esc_demon_sms">
+	<text>%c[255,160,160,160]DEMON:\n%c[255,255,128,128]Prenez position ! J'entends le bruit d'un hélico.\n</text>
+</string>
+
+<string id="dialog_esc_demon_sms1">
+	<text>%c[255,160,160,160]DEMON:\n%c[255,255,128,128]Y'en a deux là, ils se sont téléportés depuis l'hélico... à l'entré du village dans les buissons.\n</text>
+</string>
+
+<string id="dialog_esc_tango_sms">
+	<text>%c[255,160,160,160]OLEG TANGO:\n%c[255,255,128,128]Demon, tiens la position!\n</text>
+</string>
+
+<string id="dialog_esc_blokpost_sms">
+	<text>%c[255,160,160,160]COMMANDANT AVANT-POSTE:\n%c[255,255,128,128]Stalkers, au secours ! Nous sommes attaqués par des mercenaires venant du Marais. Besoin de votre aide ! On ne tiendra pas longtemps !\n</text>
+</string>
+<string id="dialog_borov_sms">
+	<text>%c[255,160,160,160]BOROV:\n%c[255,255,128,128]Vous prenez un bain de vapeur là? Descendez moi tout ça!\n</text>
+</string>
+
+<string id="dialog_prapor_sms">
+	<text>%c[255,160,160,160]PRAPOR:\n%c[255,255,128,128]Vous vous êtes mis d'accord? Et bein, merde alors!\n</text>
+</string>
+
+<string id="dialog_bur_sms">
+	<text>%c[255,160,160,160]BURIN:\n%c[255,255,128,128]Ah, le point de contrôle! Qui va foutre du bazar?\n</text>
+</string>
+
+<string id="dialog_voronin_sms">
+	<text>%c[255,160,160,160]GENERAL VORONIN:\n%c[255,255,128,128]Le stalker scarifié, venez me voir au Bar Rad100. Il faut qu'on parle... Concernant Prapor, vous aviez entièrement raison. L'avidité l'a perdu.\n</text>
+</string>
+
+<string id="dialog_na_ros_sms">
+	<text>%c[255,160,160,160]KRUGLOV:\n%c[255,255,128,128]Fait! le Balafré. Allons aux Territoires Sauvages de Rostock.\n</text>
+</string>
+<string id="dialog_val_poz_zanjal_sms">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,255,128,128]Je suis en position, à découvert, mais il n'y a pas mieux.\n</text>
+</string>
+
+<string id="dialog_val_blizko_sms">
+	<text>%c[255,160,160,160]CARTOUCHE:\n%c[255,255,128,128]Merde, je vous l'ai dit - Ne m'approchez pas! Restons séraprés jusqu'au portail de transition.\n</text>
+</string>
+
+<string id="dialog_val_na_gar_sms">
+	<text>%c[255,160,160,160]CARTOUCHE:\n%c[255,255,128,128]C'était le moment! éléportail dans la forêt du Repaire du Loup, ouverte. Rendez-vous à la Décharge.\n</text>
+</string>
+
+<string id="dialog_val_zavalil_sms">
+	<text>%c[255,160,160,160]CARTOUCHE:\n%c[255,255,128,128]Joli tir, le Balafré! Maintenant on fonce vers le portail de transition.\n</text>
+</string>
+
+<string id="dialog_val_zavalil_proval_sms">
+	<text>%c[255,160,160,160]CARTOUCHE:\n%c[255,255,128,128]Le gros Porc! Il a explosé...\n</text>
+</string>
+
+<string id="dialog_val_zavalil_proval_ohr_sms">
+	<text>%c[255,160,160,160]CARTOUCHE:\n%c[255,255,128,128]Ouf, vous êtes le diable! Vous blessez sa garde. On court vers la transition.\n</text>
+</string>
+
+<string id="dialog_ros_lebedev_sms">
+	<text>%c[255,160,160,160]LEBEDEV:\n%c[255,255,128,128]Est-ce qu'il est mort? Ha ha. Yantar, Le mercenaires scarifié et le scientifique sont en chemin! Soyez vigilant. Il a matté un paquets de mes soldats. Ayez bien en main le professeur.\n</text>
+</string>
+
+<string id="dialog_yan_hozjain_sms">
+	<text>%c[255,160,160,160]MAÎTRES:\n%c[255,255,128,128]La nouvelle est excellente, chef. Nous l'attendans de pieds ferme. Sakharov ne veut pas travailler. Il est temps de s'en débarrasser.\n</text>
+</string>
+
+<string id="dialog_ros_lebedev_sms1">
+	<text>%c[255,160,160,160]LEBEDEV:\n%c[255,255,128,128]Sakharov jusqu'à présent, nous fait chier. Je suis très sérieux. L'ex-mercenaire balafré se drige vers vous, donc ouvrez l'oeil et le bon!\n</text>
+</string>
+
+<string id="dialog_yan_hozjain_sms1">
+	<text>%c[255,160,160,160]MAÎTRES:\n%c[255,255,128,128]Bien reçus Chef. Nous allons lui faire de nouvelles cicatrices, sa tête ressemblera à Google Map! On va abattre tous ceux qui ne veulent pas travailler pour nous. Ha ha!\n</text>
+</string>
+
+<string id="dialog_ros_kruglov_sms">
+	<text>%c[255,160,160,160]KRUGLOV:\n%c[255,255,128,128]Damned! L'histoire se répète. Avant ça, j'avais déjà accompagné un certain Strelok jusqu'à Yantar, je sens que nous n'arriverons pas ce coup-ci.\n</text>
+</string>
+
+<string id="dialog_ros_kruglov_sms1">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,255,128,128]Portez pas la poisse!. Je ne suis peut-être pas aussi bon que lui, mais je ne suis pas un nouveau né non plus.\n</text>
+</string>
+
+<string id="dialog_ros_kruglov_sms2">
+	<text>%c[255,160,160,160]LEBEDEV:\n%c[255,255,128,128]Par l'enfer, j'ai la production entre les mains. Ici ce n'est pas Agroprom, de sorte que le Balafré, quoi que vous fassiez vous êtes foutus.\n</text>
+</string>
+
+<string id="dialog_ros_kruglov_sms3">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,255,128,128]Nous allons voir qui est foutu! Donc, vous êtes ici pour baiser tout le monde?\n</text>
+</string>
+
+<string id="dialog_na_yan_sms">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,255,128,128]Il y a longtemps, que je n'étais plus revenus à Yantar!\n</text>
+</string>
+
+
+<string id="dialog_sidor_sebal_s_kordona_sms">
+	<text>%c[255,160,160,160]SIDOROVITCH:\n%c[255,255,128,128]Tout, je ramasse toutes mes billes et me casse de Cordon! Il n'y a plus rien dans le coin et le affaires stagnent. Tatoué, Balafré, Tatoué, Balafré! Avec eux, tout marchait comme sur des roulettes!\n</text>
+</string>
+<string id="dialog_sidor_sebal_s_kordona_sms2">
+	<text>%c[255,160,160,160]GASTELLO:\n%c[255,255,128,128]Sidorovitch! La porte, pourquoi t'en avais besoin? T'es parano! Je suis désolé pour le portable, surtout maintenant que je suis sobre !\n</text>
+</string>
+<string id="dialog_sidor_sebal_s_kordona_sms3">
+	<text>%c[255,160,160,160]SIDOROVITCH:\n%c[255,255,128,128]T'es toujours ivre! T'es pitoyable, je te paierai l'idiot de légende. Et la porte je ne laisserai pas.\n</text>
+</string>
+<string id="dialog_sidor_sebal_s_kordona_sms4">
+	<text>%c[255,160,160,160]STALKER INCONNU:\n%c[255,255,128,128]Sidorovitch! Idiot! Ha ha ha! t'as emporté la porte du bunker, quel crétin !\n</text>
+</string>
+<string id="dialog_sidor_sebal_s_kordona_sms5">
+	<text>%c[255,160,160,160]SIDOROVITCH:\n%c[255,255,128,128]Allez tous vous faire foutre! C'est vous les idiots!\n</text>
+</string>
+
+<string id="dialog_actor_trup_sms">
+	<text>%c[255,160,160,160]VORONIN:\n%c[255,255,128,128]BALAFRÉ, DÉGAGE DE LÀ, VITE!!!\n</text>
+</string>
+
+<string id="dialog_yan_sm_zone_sms">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,255,128,128]Fait! Gardes effacés! Professeur, nous allons rapidement au téléportail, et déconnecter la protection, bordel de merde!\n</text>
+</string>
+
+<string id="dialog_baks_sms">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,255,128,128]Backs!!! Prenez le désactivateur!!!\n</text>
+</string>
+
+<string id="dialog_baks_sms2">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,255,128,128]Backs!!! Prenez le désactivateur!!!\n</text>
+</string>
+
+<string id="dialog_baks_sms3">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,255,128,128]Backs!!! Prenez le désactivateur!!!\n</text>
+</string>
+
+<string id="dialog_baks_sms4">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,255,128,128]Exellent Backs!!! Direction le passage!!!\n</text>
+</string>
+
+<string id="dialog_agr_lebedev_sms">
+	<text>%c[255,160,160,160]LEBEDEV:\n%c[255,255,128,128]Sacré bonhomme !!! Le mercenaire Balafré en personne ! Quel joie de pouvoir converser avec toi, mon bon ami ! Pense pas te barrer, l'Activateur de transition est avec moi. J'ai bloqué le portail de transition vers la Décharge, il ne reste plus que le sous-sol et ses fabuleuses créatures si accueillantes. Viens me voir au Sud-Ouest de l'Institut, pour fair un brin de causette.\n</text>
+</string>
+
+<string id="dialog_agr_lebedev_sms1">
+	<text>%c[255,160,160,160]LEBEDEV:\n%c[255,255,128,128]Et bien, je te tue de suite? C'est la dérnière fois que je te propose de passer de mon coté et de me rendre les absolus.\n</text>
+</string>
+
+<string id="dialog_kozly_kamaz">
+	<text>%c[255,160,160,160]JORA DALNOBOY:\n%c[255,255,128,128]Les monstres, répondez-moi saligauds!\n</text>
+</string>
+
+<string id="dialog_doktor_ubit">
+	<text>%c[255,160,160,160]SYSTEME D'INFORMATION:\n%c[255,255,128,128]le Docteur Dumarais est mort!\n</text>
+</string>
+
+<string id="dialog_krot_ubit">
+	<text>%c[255,160,160,160]SYSTEME D'INFORMATION:\n%c[255,255,128,128]"Taupe" est mort!\n</text>
+</string>
+
+<string id="dialog_yan_dimon_sms">
+	<text>%c[255,160,160,160]DIMON:\n%c[255,255,128,128]Balafré, j'ai couduis le Prof. au Cordon! Le portail de transition de Yantar et Agroprom est dans votre PDA.\n</text>
+</string>
+
+<string id="dialog_mar_gastello_sms">
+	<text>%c[255,160,160,160]GASTELLO:\n%c[255,255,128,128]Balafré, Champagne! Félicitez moi avec mon nouveau Hind! On va griller le Marais!\n</text>
+</string>
+
+<string id="dialog_mar_gastello2_sms">
+	<text>%c[255,160,160,160]GASTELLO:\n%c[255,255,128,128]Je débarquerai au-dessus de l'eglise, je ne cramerai que les bandits! Ah, si le bon Dieu pouvait fermer les yeux à ce moment là!\n</text>
+</string>
+
+<string id="dialog_mar_gastello3_sms">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,255,128,128]Gatello, espèce d'ordure! L'hélico s'est accroché dans le dome ou je ne sais quoi!\n</text>
+</string>
+
+<string id="dialog_mar_gastello4_sms">
+	<text>%c[255,160,160,160]GASTELLO:\n%c[255,255,128,128]Enfer! Balafré tire sur le rotor! Le bon Bieu ne verra que du feu, Ha ha!\n</text>
+</string>
+
+<string id="dialog_mar_gastello5_sms">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,255,128,128]Z'êtes taré! On va cramer!\n</text>
+</string>
+
+<string id="dialog_mar_gastello6_sms">
+	<text>%c[255,160,160,160]GASTELLO:\n%c[255,255,128,128]Oui, je sais, mais c'est le seul moyen!\n</text>
+</string>
+
+<string id="dialog_mar_gastello7_sms">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,255,128,128]Gastello fils de pute! Ja vais te tuer, si on crève!\n</text>
+</string>
+
+<string id="dialog_val_gastello_sms">
+	<text>%c[255,160,160,160]GASTELLO:\n%c[255,255,128,128]Balafré fils de garce, mon frère! Aujourd'hui je ne suis qu'un peu ivre. Je vais me poser sur la colline à coté du camion "ZIL" derrière la cloture.\n</text>
+</string>
+
+<string id="dialog_videnie_sms">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,255,128,128]Ce n'est pas un rêve! Pareil à une gueule de bois, rêves colorés - chatons sauvage!\n</text>
+</string>
+
+<string id="dialog_arni_zlodey_sms">
+	<text>%c[255,160,160,160]ARNI:\n%c[255,255,128,128]Ha ha! Même Strelok est venu dans l'arène! J'ai du beau monde à combattre et vous risquez de laisser votre peau dans mon jeu du cirque. Personne ne peux le fermer, même Voronin n'as pas ce pouvoir. Même certains Maîtres sont sortis les pieds devant. Vous allez avoir l'opportunité de vous battre contre eux. J'irai ensuite finir leur travail. Adieu!\n</text>
+</string>
+<string id="dialog_voronin_bar_sms">
+	<text>%c[255,160,160,160]GENERAL VORONIN:\n%c[255,255,128,128]Beau travail le Balafré ! Passez me voir, on doit causer.\n</text>
+</string>
+
+<string id="dialog_poleteli_voronin_bar_sms">
+	<text>%c[255,160,160,160]OLEG TANGO:\n%c[255,255,128,128]Le "Hind" tient en l'air, c'est déjà pas mal. Dirigez-vous vers le poste de contrôle d'où on est arrivé et sur la colline de droite, juste au-dessus, posez-vous à coté de la voiture !\n</text>
+</string>
+
+<string id="dialog_aver_sidor_sms">
+	<text>%c[255,160,160,160]SIDOROVICH:\n%c[255,255,128,128]Balafré, mon pote! Le pharmacien, le pirate, le botaniste, putain! il est venu! Passe donc me voir, je partagerai un secret.\n</text>
+</string>
+
+<string id="dialog_aver_sidor_sms2">
+	<text>%c[255,160,160,160]SIDOROVICH:\n%c[255,255,128,128]Grr, le pharmacien, il est dans la Décharge à coté du cimetière, on va voir ce qu'il va décider de faire. Si, mon Blafré, tu viens à moi, j'ai deux trois mots pour toi.\n</text>
+</string>
+<string id="dialog_del_time_sms_vdv">
+	<text>Piège du téléportail, désactivé.</text>
+</string>
+
+<string id="dialog_del_zone_val">
+	<text>La zone d'aura de Borov est désactivée.</text>
+</string>
+
+<string id="dialog_del_stul">
+	<text>Chaise invisible</text>
+</string>
+
+<string id="dialog_delete_sidor_mun">
+	<text>Le téléportail de Sidorovich, désactivé.</text>
+</string>
+
+<string id="dialog_delete_yan_mun">
+	<text>Le téléportail vers le bunker des savants, est déconnecté.</text>
+</string>
+
+<string id="dialog_delete_yan_mun_2">
+	<text>Le téléportail du bunker des savants, est déconnecté.</text>
+</string>
+
+<string id="dialog_delete_teleport_x10">
+	<text>Le téléportail au labo X-10, est déconnecté.</text>
+</string>
+
+<string id="dialog_delete_teleport_x10_1">
+	<text>Le deuxième téléportail au labo X-10, est déconnecté.</text>
+</string>
+<string id="dialog_delete_kostya_teleport">
+	<text>Le téléportail est désactivé.</text>
+</string>
+<string id="dialogdel_teleport_tynik">
+	<text>Protection du téléportail, désactivée.</text>
+</string>
+
+<string id="dialog_del_teleport_dvd">
+	<text>Piège du téléportail, désactivé.</text>
+</string>
+
+<string id="dialog_del_teleport_dvd_new">
+	<text>Deuxième piège du téléportail, désactivé.</text>
+</string>
+
+<string id="dialog_strelok_teleport">
+	<text>Téléportail de Strelok, activé.</text>
+</string>
+
+<string id="dialog_strelok_teleport_zashita">
+	<text>Protection du téléportail, activée.</text>
+</string>
+
+<string id="dialog_set_metka_chudo">
+	<text>Emplacement approximatif de l'arbalète dans le marais.</text>
+</string>
+
+<string id="dialog_set_metka_baks">
+	<text>Emplacement approximatif du SOS.</text>
+</string>
+
+<string id="dialog_set_metka_pulja">
+	<text>Emplacement pour le tir.</text>
+</string>
+
+<string id="dialog_delete_mar_gas">
+	<text>Balafré, je suis tombé à l'entrée de la Zone Tampon. Gastello.</text>
+</string>

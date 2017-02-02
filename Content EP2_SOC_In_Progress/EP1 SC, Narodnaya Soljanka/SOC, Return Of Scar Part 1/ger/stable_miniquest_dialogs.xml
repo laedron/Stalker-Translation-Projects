@@ -1,0 +1,99 @@
+<!-- Ьbersetzt durch Wlad Geschwendt aka 777-W.L.A.D. am 17.02.2008 -->
+
+<!-- Update 04.04.2008 -->
+
+<!--------------- Bereit fьr die Grammatik-Prьfung ------------------->
+
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<string_table>
+<!--********************************-->
+<!-- Sidorovich miniquest dialog start -->
+<!--********************************-->
+	<string id="escape_trader_miniquest_0">
+		<text>Hцr mal... Du sagtest, man hat fьr mich was da gelassen, oder?</text>
+	</string>
+	<string id="escape_trader_miniquest_1">
+		<text>Ah...ja... Da ist ein Pдckchen fir dich. </text>
+	</string>
+	<string id="escape_trader_miniquest_2">
+		<text>Na wunderbar. Los, gib schon her.</text>
+	</string>
+	<string id="escape_trader_miniquest_3">
+		<text>Klar, es ist dein Pдckchen. Ich stell ja keine Ansprьche... Aber ich hab's fьr dich aufbewahrt, oder? Und sicher aufbewahrt. Und wenn da drin was giftiges ist? Ich bin ja auch nicht mehr so gesund wie frьher...\nAlso sind 100 Rubel fьr die Lagerung doch gerechte Entlohnung. Einverstanden?</text>
+	</string>
+	<string id="escape_trader_miniquest_5">
+		<text>Wow, bist du geizig! Hier hast du es, fьr die "Lagerung".</text>
+	</string>
+	<string id="escape_trader_miniquest_6">
+		<text>Ja, das ist gerecht. Hier ist dein Geld.</text>
+	</string>
+	<string id="escape_trader_miniquest_7">
+		<text>Sonst noch was? Pдckchen her, oder ich werd mal da drauЯen ein paar Worte fallen lassen.</text>
+	</string>
+	<string id="escape_trader_miniquest_4">
+		<text>Mann... Bin grad knapp bei Kasse. Ich hol's spдter ab.</text>
+	</string>
+	<string id="escape_trader_miniquest_8">
+		<text>Da hast du dein "teueres" Pдckchen.</text>
+	</string>
+	<string id="escape_trader_miniquest_9">
+		<text>Oh, jetzt hab ich aber Angst. Wem willst du den was erzдhlen?</text>
+	</string>
+	<string id="escape_trader_miniquest_10">
+		<text>Den ganzen Neulingen im Lager. Nach so einem Ding werden sie bei dir nichts mehr kaufen.</text>
+	</string>
+	<string id="escape_trader_miniquest_11">
+		<text>Dem Militдr. Die werden sich bestimmt fьr einen Hдndler auf dem Gebiet der Zone interessieren.</text>
+	</string>
+	<string id="escape_trader_miniquest_12">
+		<text>Willst du ein paar auf dein Glatzkopf?</text>
+	</string>
+	<string id="escape_trader_miniquest_13">
+		<text>Ich hab Freunde. Sehr einflussreiche Stalker, ьbrigens...</text>
+	</string>
+	<string id="escape_trader_miniquest_14">
+		<text>Wenn die nicht kaufen, dann kaufen in ein paar Tagen die anderen. Das ist die Zone.\nZurьck kцnnen die ja eh nicht. Bei dem Blockposten sind die Soldaten, weiter rein in die Zone - da braucht man Ausrьstung, Waffen. Wo sollen die es sonst kriegen, als bei mir?\nAlso droh lieber jemand anderem, verstanden?</text>
+	</string>
+	<string id="escape_trader_miniquest_15">
+		<text>Oh, ich lach mich tot!\nWas meinst du, wer mir die Ausrьstung liefert, Munition abschreibt und mir fьr den Verkauf anbietet? Und wer die Artefakte aus der Zone an die Auftraggeber ьbergibt? Das Militдr kann mit meinen Geschдften gut leben.\nAber geh ruhig zu ihnen. Wьrde mich interessieren, ob die dich sofort erschieЯen oder lebenslдnglich geben... Um dein Pдckchen brauchst du dich dann nicht mehr zu sorgen. He-he...</text>
+	</string>
+	<string id="escape_trader_miniquest_16">
+		<text>Mann, wenn dir 100 Rubel zu schade sind - dann sag's einfach. Alle so gereizt heutzutage - "Paar auf den Glatzkopf..."</text>
+	</string>
+	<string id="escape_trader_miniquest_17">
+		<text>Prдge es dir ein - in der Zone ist Freundschaft schnell zu Ende, wenn's um Geld geht. Na ja, was kцnnen deine Freunde mir denn? Heute sind die da, und morgen weiЯt keiner mehr deren Namen - in der Zone lebt man nicht lange, verstanden?</text>
+	</string>
+	<string id="escape_trader_miniquest_18">
+		<text>Kurz gesagt, Hunderter fьr die Lagerung - und du nimmst dein Pдckchen mit.</text>
+	</string>
+	<string id="escape_trader_miniquest_19">
+		<text>Danke.</text>
+	</string>
+	<string id="escape_trader_miniquest_20">
+		<text>Verstanden.</text>
+	</string>
+
+<!--****************************-->
+<!-- Barist Repair dialog start -->
+<!--****************************-->
+	<string id="bar_trader_miniquest_0">
+		<text>Bei dir hat man was fьr mich da gelassen, richtig?</text>
+	</string>
+	<string id="bar_trader_miniquest_1">
+		<text>Ja, ein kleines Pдckchen. Liegt hier rum, viel Platz nimmt's ja nicht weg... Schon beinah vergessen, das der da ist. Brauchst du es jetzt?</text>
+	</string>
+	<string id="bar_trader_miniquest_2">
+		<text>Ja, ich brauch's.</text>
+	</string>
+	<string id="bar_trader_miniquest_3">
+		<text>Hier, nimm mit.</text>
+	</string>
+	<string id="bar_trader_miniquest_4">
+		<text>Danke.</text>
+	</string>
+<!--********************-->
+<!-- miniquest dialogs end -->
+<!--********************-->
+
+</string_table>

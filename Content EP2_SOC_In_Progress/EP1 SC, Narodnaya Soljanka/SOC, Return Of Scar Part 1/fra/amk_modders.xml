@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ansi" ?>
+<!--SCAR mod_VF_04/01/2013-->
+
+<string_table>
+<string id="news_mod_1">
+	<text>MARTIN</text>
+</string>
+<string id="news_mod_2">
+	<text>POTAP</text>
+</string>
+
+<!--__________________________________amk_modders.script_________________________________-->
+<string id="news_amk_mod_1">
+	<text>Nous fermons le canal par votre stupidités. Le fait que vous avez vu une meute de clébars, c'est bien sur, merveilleux. Mais l'utilisé pour partager votre joie avec toute la Zone, n'en vaut pas le peine. Je fermes donc votre accès.</text>
+</string>
+<string id="news_amk_mod_2">
+	<text>"MAY DAY" correspond à des situations extrèmes. C'est dans votre intérêt de ne pas en abuser, sinon c'est vous qui ratisserez l'ensemble de la zone en caleçon et un opinel.</text>
+</string>
+<string id="news_amk_mod_3">
+	<text>Si je ne suis pas sur un canal, cela ne signifie pas que vous pouvez baver ce que vous voulez.</text>
+</string>
+<string id="news_amk_mod_4">
+	<text>Ne soyez pas comme des idiots à crier pour un Oui ou un Non sur le canal général. Je surveille.</text>
+</string>
+<string id="news_amk_mod_5">
+	<text>Pas d'excuses pour beugler sur le canal général. Faites ça en privé.</text>
+</string>
+<string id="news_amk_mod_6">
+	<text>J'ai des petits problèmes avec l'équipement, et je peux parfois ètre muet, mais pas sourd.</text>
+</string>
+
+<!--<string id="news_amk_mod_">
+	<text>.</text>
+</string>-->
+</string_table>

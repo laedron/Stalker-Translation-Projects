@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="ansi" ?>
+<!--SCAR mod_VR_04/01/2013-->
+<string_table>
+<!--______________________________________amk_uniq_news_lists.script_______________________________________-->
+<string id="news_amk_lists_1">
+	<text>Des hélicoptères viennent juste de passer au dessus de notre position. Coordonnées ci-joint. Conservez-les précieusement, je ne sais pas quelles sont leurs objectifs.</text>
+</string>
+<string id="news_amk_lists_2">
+	<text>A TOUS:
+	\nNous allons en direction de l'hélicoptère qui est tombé dans les marais. Non - personne.
+	\n
+	\n"Devoir"
+	\nUtilisez le canal sécurisé, les gars!
+	</text>
+</string>
+<string id="news_amk_lists_3">
+	<text>A TOUS:
+	\nUne vague de mutants vient du nord-ouest, voir la position ci-jointe.</text>
+</string>
+<string id="news_amk_lists_4">
+	<text>A TOUS:
+	\nUne vague de mutants vient du nord de la Vallée obscure.</text>
+</string>
+<string id="news_amk_lists_5">
+	<text>A TOUS:
+	\nUne vague de mutants vient de l'Est, sans doute de la Vallée obscure.</text>
+</string>
+<string id="news_amk_lists_6">
+	<text>"A l'aide", une meute de chiens se précipite droit sur nous, je joints les coordonnées exactes!</text>
+</string>
+<string id="news_amk_lists_7">
+	<text>Pillards, créatures...
+	\n
+	\nPotap:
+	\nComme d'hab...
+	</text>
+</string>
+<string id="news_amk_lists_8">
+	<text>Des pseudo-chiens m'ont attaqués, à peine touché!
+	\n
+	\nPotap:
+	\nBien fait!
+	</text>
+</string>
+<string id="news_amk_lists_9">
+	<text>"SOS", les militaires grouillent dans le complexe Central d'Agroprom!
+	\n
+	\n"Devoir":
+	\nEt qu'est-ce qui vous irrite... on vous avais mis en garde de ce raid.
+	</text>
+</string>
+<string id="news_amk_lists_10">
+	<text>Lukash, mercenaires abattu, nous rentrons chez nous.
+	\n
+	\n"Liberté":
+	\nSur le canal sécurisé, bande de connards!
+	</text>
+</string>
+<string id="news_amk_lists_11">
+	<text>Deux, trois, sept, rentrer au bercail, faut qu'on cause.</text>
+</string>
+<string id="news_amk_lists_12">
+	<text>Les pillards sont coincés, sauvé!!
+	\n
+	\nSuivez les coordonnés, mes mignons.
+	</text>
+</string>
+<string id="news_amk_lists_13">
+	<text>Nous avons besoin d'un accès à Internet. Disponible dans le bar, ou chez Sidorovich?
+	\n
+	\nPotap
+	\nCe ne sont que des tenanciers de bar. Il serais souhaitable de voir avec un technicien en transmission du "Devoir", ils ont surement un accès.
+	</text>
+</string>
+<string id="news_amk_lists_14">
+	<text>Hé, hé, je transporte l'argent du client, va vite sur le lieu!</text>
+</string>
+<string id="news_amk_lists_15">
+	<text>Il nous faut un Stalker, un expert sur les codes de verrouillage, avec l'expérience des raids au Nord de la zone.</text>
+</string>
+<string id="news_amk_lists_16">
+	<text>J'ai entendu dire que nous imaginons les Américains comme des Superman incontrolés. Serait intéressant de voir ça.</text>
+</string>
+<string id="news_amk_lists_17">
+	<text>Eviter de passer par le sous-sol, ça grouille de mutants, passez par le haut!</text>
+</string>
+<string id="news_amk_lists_18">
+	<text>Bon dieu, y'a du rififi au bar, tous le monde est là!</text>
+</string>
+<string id="news_amk_lists_19">
+	<text>Le Balafré, fils de chienne, nous te trouverons!</text>
+</string>
+<string id="news_amk_lists_20">
+	<text>Sorcières: 
+	\nSi vous voyez l'ex-mercenaire, faites-lui la peau.</text>
+</string>
+<string id="news_amk_lists_21">
+	<text>Un merde de plus dans la région, un nouveau groupe, 100% pourris.</text>
+</string>
+<string id="news_amk_lists_22">
+	<text>Balafré, vous allez bientôt mourir, ha-ha-ha!</text>
+</string>
+<string id="news_amk_lists_23">
+	<text>Lebedev menace à nouveau de nous envahir.</text>
+</string>
+<string id="news_amk_lists_24">
+	<text>Les "Maîtres" sont à la recherche du Balafré. Merde! Qu'il passe dans la région.</text>
+</string>
+<string id="news_amk_lists_25">
+	<text>L'ivrogne dans son hélico, empestant l'alcool à eu de la chance de ne pas griller comme un saucisse. Impbécile!</text>
+</string>
+<string id="news_amk_lists_26">
+	<text>Choukar, grand-père? Qui sait...</text>
+</string>
+<string id="news_amk_lists_27">
+	<text>Dans la Forêt du Loup, la femme est très avenante...</text>
+</string>
+<string id="news_amk_lists_28">
+	<text>Cette femme peut eviter vos balles, qui essaie sa chance?</text>
+</string>
+<string id="news_amk_lists_29">
+	<text>Par temps de merde, éviter d'aller n'importe où. Chez Sidorovich, il y'a à boire et à manger...</text>
+</string>
+<string id="news_amk_lists_30">
+	<text>Cette gonzesse peux t'arracher les couilles, et te sussurer dans l'oreille que c'était pour jouer!</text>
+</string>
+<string id="news_amk_lists_31">
+	<text>Allez pleurez votre mère ailleurs! Essayez toujours de nous déloger du parc aux camions. Si un connard se pointe, on lui coupe les couilles et on en fait des boucles d'oreilles! Elles adorent ça les Sorcières.</text>
+</string>
+<string id="news_amk_lists_32">
+	<text>Bordel! C'est une nouvelle rav-party de zombies dans Yantar, C'est chaud-bouillant!
+	\nPotap:
+	\nInfo exclusive...
+	</text>
+</string>
+<string id="news_amk_lists_33">
+	<text>Stalkers! Sakharov, les Maîtres nous séquestres, battus, contraints de travailler. Femme tiennent en otage ... accidentellement pris leur radio .... Recapturer le scientifique, avec un seul mec ... peu rien faire ... Dommage que professeur et Strelok soient nulle part ... </text>
+</string>
+<string id="news_amk_lists_34">
+	<text>Attention, bientôt va commencer le nettoyage des Stalkers Militaires ... Attention ... leurs commandos vont arrivés sous peu ... très mauvaise nouvelle donc.</text>
+</string>
+<string id="news_amk_lists_35">
+	<text>Le Chauve:
+	\nBubka Gop, pantalons de survêtement. Tirer à vue.</text>
+</string>
+<string id="news_amk_lists_36">
+	<text>Nous avons besoin de Stalkers expérimentés pour des opérations en profondeur dans la Zone .Paiement correspondant aux missions exigées -.. Ok,en MP, nous allons discuter d'un lieu de rencontre.</text>
+</string>
+<string id="news_amk_lists_37">
+	<text>Fanatique:
+	\nLe Loup, réponse, besoin de parler.</text>
+</string>
+<string id="news_amk_lists_38">
+	<text>Barman:
+	\nAlors... j'explique... une fois pour toutes - Je ne dirai pas où est le cental de communications.</text>
+</string>
+
+<!--
+<string id="news_amk_lists_39">
+	<text></text>
+</string>
+<string id="news_amk_lists_40">
+	<text></text>
+</string>
+
+<string id="news_amk_lists_">
+	<text> </text>
+</string>-->
+</string_table>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="ansi" ?>
+<!--SCAR mod version Fr 08/12/2012-->
+
+	<string id="timer">
+		<text>"Minuteur digitale". Spécialement développé pour les unités spéciales de l'armée russe. Résistant aux chocs, à l'immersion jusqu'à 300 mètres de profondeur, équipé d'une minuterie et d'un chronomètre. Des lots de montres neuves ont été maintes fois volé par un stalker militaire dans le stock spécial des "Bibik Forces" du colonel Bibika (Base D-3) et vendus en gros aux marchands à la Zone. Pour ces voles, le stalker a été condamné à mort à trois reprises, mais grâce à un syndrome bien connu de la "Transes de la mort", ces condamnations ont étés suspendus.</text>
+	</string>
+<!--ui_cheat_timer.script-->
+	<string id="ui_cheat_timer_desc_1">
+		<text>Bouton CHR:TPS - changement de mode (Chronomètre, Minuterie)</text>
+	</string>
+
+	<string id="ui_cheat_timer_desc_2">
+		<text>Bouton OK - lancer le mode sélectionné</text>
+	</string>
+
+	<string id="ui_cheat_timer_desc_3">
+		<text>Bouton RAZ - désactiver le mode en cours d'exécution</text>
+	</string>
+
+	<string id="ui_cheat_timer_desc_4">
+		<text>Bouton OUT - quitter le mode minuteur</text>
+	</string>
+
+	<string id="ui_cheat_timer_desc_5">
+		<text>Bouton H - contrôler les heures</text>
+	</string>
+
+	<string id="ui_cheat_timer_desc_6">
+		<text>Bouton Min - contrôler les minutes</text>
+	</string>
+
+	<string id="ui_cheat_timer_desc_7">
+		<text>LED verte - afficher le mode sélectionné</text>
+	</string>
+
+	<string id="ui_cheat_timer_desc_8">
+		<text>LED rouge - le mode sélectionné est lancé</text>
+	</string>
+
+	<string id="ui_cheat_timer_desc_9">
+		<text>HP - Marche/Arrêt du son</text>
+	</string>
+
+	<string id="ui_cheat_timer_desc_10">
+		<text>M/A - Marche/Arrêt minuterie de soin médicale</text>
+	</string>
+
+	<string id="ui_cheat_timer_desc_11">
+		<text>INFO - informations utiles</text>
+	</string>
+
+	<string id="ui_cheat_timer_desc_12">
+		<text>RUSSIE S.P.E.T.S.N.A.Z.</text>
+	</string>
+
+	<string id="ui_cheat_timer_desc_13">
+		<text>Avant éjection</text><!--Avant rejet -->
+	</string>
+
+	<string id="ui_cheat_timer_desc_14">
+		<text>Chronomètre</text>
+	</string>
+
+	<string id="ui_cheat_timer_desc_15">
+		<text>Temps</text>
+	</string>
+
+	<string id="ui_cheat_timer_desc_16">
+		<text>Jours dans la Zone:</text>
+	</string>
+
+	<string id="ui_cheat_timer_desc_17">
+		<text>BATTERIE JVN: no data</text>
+	</string>
+
+	<string id="ui_cheat_timer_desc_18">
+		<text>CHAPELNIK-THE BEST MOD</text>
+	</string>
+
+<!--timer_v.script-->
+	<string id="timer_v_desc_1">
+		<text>Avant éjection</text><!--Avant rejet -->
+	</string>
+	<string id="timer_v_desc_2">
+		<text>RISQUE D'EJECTION!</text><!--MENACE DE REJET! -->
+	</string>
+	<string id="timer_v_desc_3">
+		<text>Chronomètre</text>
+	</string>

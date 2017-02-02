@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<string id="dim_mod_name">
+		<text>\\Возвращение Шрама//</text>
+	</string>
+        <string id="dim_mod_1">
+		<text>-Конец первой части-</text>
+	</string>
+
+
+	<string id="dim_autor">
+	<text>автор сюжета</text>
+	</string>
+        <string id="dim_autor_2">
+	<text>автор первоначального сюжета и биографии Шрама</text>
+	</string>
+	<string id="dim_real">
+	<text>реализация сюжета</text>
+	</string>
+	<string id="dim_dimak">
+	<text>dimak</text>
+	</string>
+        
+        <string id="dim_dimak_2">
+	<text>avast</text>
+	</string>
+	<string id="dim_kvest">
+	<text>Работа с графикой</text>
+	</string>
+	<string id="dim_stvol">
+	<text>Главный оружейник мода</text>
+	</string>
+	<string id="dim_buusty">
+	<text>Buusty</text>
+	</string>
+	<string id="dim_maraf">
+	<text>marafonec</text>
+	</string>
+	<string id="dim_test">
+	<text>История воплощения сюжета о возвращении наёмника Шрама, Главного Героя S.T.A.L.K.E.R  "CS" - Чистое небо:</text>
+	</string>
+	<string id="dim_history">
+	<text>Перед реализацией аддона для самой глобальной, интересной модификации - Народная солянка 2010, поступило предложение от форумчан - вернуть Главного Героя Чистого неба - Шрама, т.к. в финальной оконцовке CS, не было точности того, что произошло с Главным Героем. По всей видимости он погиб во время выброса, а может нет? Тем самым я решился на такой шаг - вернуть его по более ускоренному пути. Сюжет, собранный для аддона к Народной солянке 2010, подходил для перевоплащения в новый сюжет.</text>
+	</string>
+	<string id="dim_history2">
+	<text>По началу была обрезана карта Народной солянки, а позже её заменил пак локаций от Кости "В", но мод всё равно унаследовал многие файлы, модели, правленные скрипты, иконки и т.д., принадлежащие этому необычному, интереснейшему моду, автора Arhara и Ко. Для особой атмосферности зоны, были совмещены два лучших мода: Основа - AMK 1.4.1 и АВС(инферно 1.1) LW, Cabrobro</text>
+	</string>
+	<string id="dim_history3">
+	<text>Также была использована работа мастеров многих интересных модов, как глобальных - так и небольших, как устаревших - так и повседневных, таких как: OGSE, НС+TT2, NLC6, Simbion, ARS, АВС+ЭЮЯ, Sigerous Mod "CS", Arsenal Mod, Oblivion Lost, stco system, Linspiro Addon, L.U.R.K, Healing Enemies v0.3 (Лечение врагов), Аддон The Collector V 0.5.5., Priboi Story  В моде были использованы партиклы из билда 2571, собранного, не задолго до релиза финальной части ТЧ</text>
+	</string>
+	<string id="dim_blag">
+	<text>Особая благодарность</text>
+	</string>
+	<string id="dim_stal">
+	<text>Компании GSC Game World - за интересную серию игр - S.T.A.L.K.E.R., без которой не было бы данной модификации, а также интересных модов, аддонов, которые не дают затушить пламя этой интереснейшей игре, чьи права принадлежат данной компании и их лидеру С.Григоровичу</text>
+	</string>
+	<string id="dim_amk">
+	<text>Команде AMK - за самый лучший мод, который используется многими мододелами, как основа для глобальных модов, аддонов.</text>
+	</string>
+
+
+	<string id="dim_amk1">
+	<text>_And_</text>
+	</string>
+	<string id="dim_amk2">
+	<text>Metatron</text>
+	</string>
+	<string id="dim_amk3">
+	<text>Kallagen</text>
+	</string>
+	<string id="dim_amk4">
+	<text>Mad_Vad</text>
+	</string>
+	<string id="dim_amk5">
+	<text>Nova</text>
+	</string>
+	<string id="dim_amk6">
+	<text>Potap</text>
+	</string>
+	<string id="dim_amk7">
+	<text>EDWIN</text>
+	</string>
+	<string id="dim_amk8">
+	<text>Stalker_Zip</text>
+	</string>
+	<string id="dim_amk9">
+	<text>Ялтинец</text>
+	</string>
+	<string id="dim_amk10">
+	<text>Вечерний Штопор</text>
+	</string>
+	<string id="dim_amk11">
+	<text>Terrapack</text>
+	</string>
+	<string id="dim_amk12">
+	<text>Manul</text>
+	</string>
+	<string id="dim_amk13">
+	<text>Deep</text>
+	</string>
+	<string id="dim_amk14">
+	<text>tambovsky</text>
+	</string>
+	<string id="dim_amk15">
+	<text>Lost Stranger</text>
+	</string>
+	<string id="dim_amk16">
+	<text>n-ice</text>
+	</string>
+	<string id="dim_amk17">
+	<text>Red75</text>
+	</string>
+	<string id="dim_amk18">
+	<text>Sergey81</text>
+	</string>
+	<string id="dim_amk19">
+	<text>wtcat</text>
+	</string>
+	<string id="dim_amk20">
+	<text>sokol_jack</text>
+	</string>
+	<string id="dim_amk21">
+	<text>Domestos</text>
+	</string>
+	<string id="dim_amk22">
+	<text>S.Desore</text>
+	</string>
+	<string id="dim_amk23">
+	<text>Refresh</text>
+	</string>
+	<string id="dim_amk24">
+	<text>Aero</text>
+	</string>
+	<string id="dim_amk25">
+	<text>За создание умных неписей</text>
+	</string>
+	<string id="dim_amk26">
+	<text>xStream</text>
+	</string>
+        <string id="dim_sol">
+	<text>Создателям самого глобального мода на ТЧ "Народная солянка", и тем, кто работал с этим модом, делая его, всё более интересным, исправляя при этом старые ошибки и недочёты</text>
+	</string>
+        <string id="dim_sol1">
+	<text>Wawka</text>
+	</string>
+        <string id="dim_sol2">
+	<text>Arhara</text>
+	</string>
+        <string id="dim_sol3">
+	<text>Adrenalin</text>
+	</string>
+        <string id="dim_sol4">
+	<text>shadowman</text>
+	</string>
+        <string id="dim_sol5">
+	<text>Sapsan</text>
+	</string>
+        <string id="dim_sol6">
+	<text>Меченый(Стрелок)</text>
+	</string>
+        <string id="dim_sol7">
+	<text>Monnoroch</text>
+	</string>
+
+
+        <string id="dim_loc">
+	<text>Создателю новых, превосходных локаций, и тем кто помогал строить паки локаций для игры</text>
+	</string>
+	<string id="dim_loc1">
+	<text>Kostya V и Ko.</text>
+	</string>
+
+        <string id="dim_model">
+	<text>Создателям моделей-визуалов npc, чья работа использовалась отдельно от мода Народная солянка, включая модели девушек, бабушек, тётенек, а также модели артефактов</text>
+	</string>
+        <string id="dim_model1">
+	<text>Aaz</text>
+	</string>
+        <string id="dim_model2">
+	<text>АРТЁМ_К</text>
+	</string>
+        <string id="dim_model3">
+	<text>karavan</text>
+	</string>
+        <string id="dim_model4">
+	<text>D.Kruger</text>
+	</string>
+        <string id="dim_model5">
+        <text>Scarabay</text>
+	</string>
+        <string id="dim_model6">
+        <text>Хабарыч</text>
+	</string>
+        <string id="dim_model7">
+	<text>DanekStalker</text>
+	</string>
+        
+
+        <string id="dim_models">
+        <text>Авторам новых, правозатворных стволов, переделанных моделей оригинала ТЧ на правозатворные, с изменениями моделей в лучший, более реалистичный вид.</text>
+	</string>
+        <string id="dim_models1">
+        <text>Real_Wolf (Пистолет ТТ, Кольт Уник)</text>
+	</string>
+        <string id="dim_models2">
+        <text>@"StreloK" и L@r1ng1t$ (АПБ)</text>
+	</string>
+        <string id="dim_models3">
+        <text>Cylz (Правки - ОЦ-33 Пернач)</text>
+	</string>
+        <string id="dim_models4">
+        <text>purke62 (Б/Б - Уник)</text>
+	</string>
+        <string id="dim_models5">
+        <text>PRO (ПМм)</text>
+	</string>
+        <string id="dim_models6">
+        <text>Аaz (Маузер С-96)</text>
+	</string>
+        <string id="dim_models7">
+        <text>[PROTOTYPE] (Замена о/моделей)</text>
+	</string>
+        <string id="dim_models8">
+        <text>Real_Wolf (Замена о/моделей)</text>
+	</string>
+        <string id="dim_models9">
+        <text>D.Kruger (МП-40)</text>
+	</string>
+        <string id="dim_models10">
+        <text>CuRtiS_MX (АКМС)</text>
+	</string>
+        <string id="dim_models11">
+        <text>Александрыч (АКМ-203)</text>
+	</string>
+        <string id="dim_models12">
+        <text>eXiu и Ааз (FN2000 "Десант")</text>
+	</string>
+        <string id="dim_models13">
+        <text>Александрыч (Steyr Aug "Кальтера")</text>
+	</string>
+        <string id="dim_models14">
+        <text>PRO (АКМС "Гурона")</text>
+	</string>
+        <string id="dim_models15">
+        <text>BJ Blazkowicz123 и PRO (STG-44 Арс/Мод)</text>
+	</string>
+        <string id="dim_models16">
+        <text>Иватушник (Пулемет "ПКМ")</text>
+	</string>
+        <string id="dim_models17">
+        <text>Deathdoor и KamikaZze (Миниган-0.6.9.3)</text>
+	</string>
+        <string id="dim_models18">
+        <text>SanekEd ("СВУ" Замена о/модели)</text>
+	</string>
+        <string id="dim_models19">
+        <text>SanekEd (СВД "Тигр" для квэста)</text>
+	</string>
+        <string id="dim_models20">
+        <text>Александрыч (Обрез-Remington 870)</text>
+	</string>
+
+        <string id="dim_models21">
+        <text>SanekEd и Doctor (н/модель SPAS-12)</text>
+	</string>
+        <string id="dim_models22">
+        <text>Ааз и PRO (Сайга 12К)</text>
+	</string>
+        <string id="dim_models23">
+        <text>eXiu (Сайга "Тактик")</text>
+	</string>
+        <string id="dim_models24">
+        <text>Mongol, тюнинг Ааз и @"StreloK" (Вепрь 12)</text>
+	</string>
+        <string id="dim_models25">
+        <text>Александрыч (Remington 870)</text>
+	</string>
+        <string id="dim_models26">
+        <text>eXiu (SPAS12 "Хантера" Уник)</text>
+	</string>
+        <string id="dim_models27">
+        <text>eXiu (АА-12 "Камо")</text>
+	</string>
+        <string id="dim_models28">
+        <text>nafigator( н/модель"Б.Винчестера" Уник)</text>
+	</string>
+        <string id="dim_models29">
+        <text>[PROTOTYPE] (USAS-12)</text>
+	</string>
+        <string id="dim_models30">
+        <text>ПСЕВДО-S.T.A.L.K.E.R. (Tоз34, обрез)</text>
+	</string>
+        <string id="dim_models31">
+        <text>ПСЕВДО-S.T.A.L.K.E.R. (ружье БМ16)</text>
+	</string>
+        <string id="dim_hud">
+        <text>В моде использовался HUD Heroin_Zero (версия 2), и адаптированная (версия 1). Также автору адаптированых худов - Серафим-12 и автору адаптации всех худов</text>
+	</string>
+        <string id="dim_hud1">
+        <text>Мерцающий</text>
+	</string>
+        <string id="dim_hud2">
+        <text>За видео-ролик, где Стрелок на БТР-е</text>
+	</string>
+        <string id="dim_hud3">
+        <text>Росток</text>
+	</string>
+        <string id="dim_hud4">
+        <text>Правки в текстах</text>
+	</string>
+        <string id="dim_hud5">
+        <text>Semiconductor</text>
+	</string>
+        <string id="dim_hud6">
+        <text>Amba</text>
+	</string>
+        <string id="dim_hud7">
+        <text>Koshak</text>
+	</string>
+        <string id="dim_hud8">
+        <text>Озвучка головной боли у Шрама</text>
+	</string>
+        <string id="dim_hud9">
+        <text>Julius</text>
+	</string>
+        <string id="dim_hud10">
+        <text>За советы и также воплощение идеи по кодовым тайникам</text>
+	</string>
+        <string id="dim_hud11">
+        <text>ColR_iT</text>
+	</string>
+        <string id="dim_tvor">
+        <text>В моде была использована работа мастеров:</text>
+	</string>
+        <string id="dim_tvor0">
+        <text>Monnoroch</text>
+	</string>
+        <string id="dim_tvor1">
+        <text>Мастер Сяк</text>
+	</string>
+        <string id="dim_tvor2">
+        <text>Dimorin</text>
+	</string>
+        <string id="dim_tvor3">
+        <text>Vergas</text>
+	</string>
+        <string id="dim_tvor4">
+        <text>Dan</text>
+	</string>
+        <string id="dim_tvor5">
+        <text>Antreg</text>
+	</string>
+        <string id="dim_tvor6">
+        <text>Dimos</text>
+	</string>
+        <string id="dim_tvor7">
+        <text>Singapur22</text>
+	</string>
+        <string id="dim_tvor8">
+        <text>Глобальная карта</text>
+	</string>
+        <string id="dim_tvor9">
+        <text>Хабарыч (Солянка)</text>
+	</string>
+        <string id="dim_tvor10">
+        <text>Корректировка</text>
+	</string>
+        <string id="dim_tvor11">
+        <text>marafonec</text>
+	</string>
+
+        <string id="dim_testt">
+        <text>Тестирование:</text>
+	</string>
+        <string id="dim_testt0">
+        <text>Julius</text>
+	</string>
+        <string id="dim_testt1">
+        <text>Кузькинамать</text>
+	</string>
+        <string id="dim_testt2">
+        <text>Дрыка</text>
+	</string>
+        <string id="dim_testt3">
+        <text>Мерцающий</text>
+	</string>
+        <string id="dim_testt4">
+        <text>Костя-Семён</text>
+	</string>
+        <string id="dim_testt5">
+        <text>Konstantin-69</text>
+	</string>
+        <string id="dim_testt6">
+        <text>Semiconductor</text>
+	</string>
+        <string id="dim_testt7">
+        <text>Зд68</text>
+	</string>
+        <string id="dim_testt8">
+        <text>utyyflbq</text>
+	</string>
+        <string id="dim_testt9">
+        <text>Евгений</text>
+	</string>
+        <string id="dim_testt10">
+        <text>tor62</text>
+	</string>
+        <string id="dim_testt11">
+        <text>marafonec</text>
+	</string>
+
+        <string id="dim_idey">
+        <text>За дельные предложения, идеи, помощь в создании глобальной модификации</text>
+	</string>
+        <string id="dim_idey0">
+        <text>Дрыка</text>
+	</string>
+        <string id="dim_idey1">
+        <text>tor62</text>
+	</string>
+        <string id="dim_idey2">
+        <text>vdv5549</text>
+	</string>
+        <string id="dim_idey3">
+        <text>avast</text>
+	</string>
+        <string id="dim_idey4">
+        <text>Buusty</text>
+	</string>
+        <string id="dim_idey5">
+        <text>Kalter</text>
+	</string>
+        <string id="dim_idey6">
+        <text>akva</text>
+	</string>
+
+        <string id="dim_mus">
+        <text>В моде прозвучали музыкальные композиции:</text>
+	</string>
+        <string id="dim_mus1">
+        <text>Iron Maiden</text>
+	</string>
+        <string id="dim_mus2">
+        <text>Т.Турунен (Nightwish)</text>
+	</string>
+        <string id="dim_mus3">
+        <text>Сектор газа</text>
+	</string>
+        <string id="dim_mus4">
+        <text>DJ_ANABIOS-METRO</text>
+	</string>
+        <string id="dim_mus5">
+        <text>Depeche Mode</text>
+	</string>
+        <string id="dim_mus6">
+        <text>Зов монолита</text>
+	</string>
+        <string id="dim_mus7">
+        <text>Марианна Захарова</text>
+	</string>
+
+        <string id="dim_for">
+        <text>Форумам: (контакты)</text>
+	</string>
+        <string id="dim_for1">
+        <text>Stalker-Portal.ru</text>
+	</string>
+        <string id="dim_for2">
+        <text>amk-team.ru</text>
+	</string>
+        <string id="dim_for3">
+        <text>games.cnews.ru (Боевой народ)</text>
+	</string>
+        <string id="dim_for4">
+        <text>ap-pro.ru (За видеообзоры)</text>
+	</string>
+
+        <string id="dim_izv">
+        <text>Многие авторы не указаны из-за, независящих от меня причин, прошу обращаться в личку, на перечисленных выше форумах</text>
+	</string>
+        <string id="dim_izv1">
+        <text>Приношу свои</text>
+	</string>
+        <string id="dim_izv2">
+        <text>извинения</text>
+	</string>
+        <string id="dim_izv3">
+        <text>dimak</text>
+	</string>
+
+
+
+</string_table>
+

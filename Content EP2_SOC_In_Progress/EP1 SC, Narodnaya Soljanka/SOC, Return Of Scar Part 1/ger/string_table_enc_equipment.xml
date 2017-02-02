@@ -1,0 +1,295 @@
+<!-- Ьbersetzt und angepasst durch Wlad Geschwendt aka 777-W.L.A.D. am 19.02.2008 -->
+<!-- Letztes Update und Ergдnzungen am 07.03.2016 -->
+
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+#include "text\rus\string_table_amk_items.xml"
+
+	<string id="Antirad">
+		<text>Strahlenschutzmittel</text>
+	</string>
+	<string id="Arm-heavy">
+		<text>Schwere Stalkerausrьstung</text>
+	</string>
+	<string id="Arm-light">
+		<text>Leichte Stalkerausrьstung</text>
+	</string>
+	<string id="Arm-medium">
+		<text>Mittlere Stalkerausrьstung</text>
+	</string>
+	<string id="bandage">
+		<text>Verbandspдckchen</text>
+	</string>
+	<string id="Binocul">
+		<text>Fernglas</text>
+	</string>
+	<string id="Bread">
+		<text>Brot</text>
+	</string>
+	<string id="Bread_bad">
+		<text>Verschimmeltes Brot</text>
+	</string>
+	<string id="cit_deadcity_maps_desc">
+		<text>Eine genaue Karte der "Totenstadt" mit Sцldnerpositionen.</text>
+	</string>
+	<string id="cit_deadcity_maps_name">
+		<text>Karte der "Totenstadt"</text>
+	</string>
+	<string id="cit_doctors_key_desc">
+		<text>Schlьssel des Doktors zum geheimen Versteck bei Prypjat</text>
+	</string>
+	<string id="cit_doctors_key_short_desc">
+		<text>Schlьssel des Doktors</text>
+	</string>
+	<string id="Conserva">
+		<text>Touristenfreude</text>
+	</string>
+	<string id="Conserva_bad">
+		<text>Verdorbene Konserve</text>
+	</string>
+	<string id="Detect1">
+		<text>Anomaliedetektor</text>
+	</string>
+	<string id="Detect2">
+		<text>Geiger-Zдhler</text>
+	</string>
+	<string id="Detect3">
+		<text>Anomaliedetektor</text>
+	</string>
+	<string id="Detect4">
+		<text>Gepatchter Anomaliedetektor</text>
+	</string>
+	<string id="Devic">
+		<text>Instrumente und Gerдte</text>
+	</string>
+	<string id="device-PDA">
+		<text>PDA</text>
+	</string>
+	<string id="device-torch">
+		<text>Taschenlampe</text>
+	</string>
+	<string id="Vodka2">
+		<text>Wodka "Kosaken"</text>
+	</string>
+	<string id="enc_equipment_armors_arm-heavy">
+		<text>Schutzanzug. Gewicht: 18 kg. Details: Schьtzt vor Schleim, Brennflaum, den meisten Anomalien und physischem Schaden. Torso und Rьcken haben eingebaute biometallische Platten. Zum Anzug gehцren ein luftdichter verstдrkter Plastikhelm und zwei Sauerstoffflaschen. Hinweis: Bei extensivem Gebrauch reiЯt der Anzug und wird allmдhlich unbrauchbar.</text>
+	</string>
+	<string id="enc_equipment_armors_arm-light">
+		<text>Schutzanzug. Gewicht: 8 kg. Details: Schьtzt vor schwachen Anomalien und physischem Schaden. Zum Anzug gehцrt eine Sauerstoffmaske. Hinweis: Bei extensivem Gebrauch reiЯt der Anzug und wird allmдhlich unbrauchbar.</text>
+	</string>
+	<string id="enc_equipment_armors_arm-medium">
+		<text>Schutzanzug: Gewicht:12 kg. Details: Schьtzt den Trдger vor Schleim, Brennflaum, vielen Anomalien und physischem Schaden. Zum Anzug gehцren ein luftdichter Helm und eine Sauerstoffflasche. Hinweis: Bei extensivem Gebrauch reiЯt der Anzug und wird allmдhlich unbrauchbar.</text>
+	</string>
+	<string id="enc_equipment_armors_sci2">
+		<text>Ein roter S.C.A.P.E.-Anzug mit luftdichtem Helm. Gewicht: 11 kg. Beschreibung: Schьtzt vor Feuer, Sдure, Giftgas, verschiedenen Anomalien, Brennflaum und physischem Schaden. Mit zwei Sauerstoffflaschen. Hinweis: Bei extensivem Gebrauch reiЯt der Anzug und wird allmдhlich unbrauchbar.</text>
+	</string>
+	<string id="enc_equipment_devic_binocul1">
+		<text>Militдrisches Kompakt-Fernglas</text>
+	</string>
+	<string id="enc_equipment_devic_detect1">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten%c[default].\n \nGeiger-Zдhler. Ein Gerдt zur Messung der Stдrke radioaktiver Strahlung und der Kontaminierung des Kцrper damit. Muss am Gьrtel befestigt und aktiviert werden, damit es funktioniert.</text>
+	</string>
+	<string id="enc_equipment_devic_detect2">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten%c[default].\n \nEin Gerдt zur Ortung von Anomalien und Stцrungen. Zeigt deren Nдhe akkustisch an. Muss am Gьrtel befestigt und aktiviert werden, damit es funktioniert.</text>
+	</string>
+	<string id="enc_equipment_devic_detect3">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten%c[default].\n \nEin durch die Wissenschaftler des Sacharow-Labors gepatchter Detektor zur Ortung von Anomalien und Stцrungen. Warnt in deren Nдhe nicht nur akkustisch, sondern synchronisiert sich mit dem PDA des Besitzers und zeigt deren Lage auf der Karte an. Muss am Gьrtel befestigt und aktiviert werden, damit es funktioniert</text>
+	</string>
+	<string id="enc_equipment_devic_device-PDA1">
+		<text>Persцnlicher Digitaler Assistent - unverzichtbar in der Zone.</text>
+	</string>
+	<string id="enc_equipment_devic_device-torch1">
+		<text>Eine starke Taschenlampe. Sehr nьtzlich in dunklen Bereichen.</text>
+	</string>
+	<string id="enc_equipment_devic_device-torch1_m1">
+		<text>Eine starke Taschenlampe. Dank eines modernen Transformators wurde die Aufladezeit der Akkus verkьrzt.</text>
+	</string>
+	<string id="enc_equipment_energydrink">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten%c[default].\n \nHervorragender Energiedrink "S.T.A.L.K.E.R." aus Koffein, Taurin und Vitaminen-Komplex. Genau das Richtige, wenn man im Stehen einschlдft!</text>
+	</string>
+	<string id="enc_equipment_food_bread1">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten.\n%c[255,1,255,255]Kaloriengehalt:%c[255,1,255,1] Stufe 1%c[default].\n \nSchwer zu sagen, wer es schafft, in der Zone Brot zu backen, aber das Brot ist unverseucht und schmackhaft. Jedenfalls hat sich noch kein Stalker darьber beschwert. Leider vertrocknet und verschimmelt es ziemlich schnell.</text>
+	</string>
+	<string id="enc_equipment_food_bread1_bad">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten%c[default].\n \nVertrocknetes und verschimmeltes Laib Brot. Kann man nicht mehr essen.</text>
+	</string>
+	<string id="enc_equipment_food_conserva1">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten.\n%c[255,1,255,255]Kaloriengehalt:%c[255,1,255,1] Stufe 3%c[default].\n \nKonserviertes Rindfleisch, aus einem durch Stalker geplьnderten Militдrlagerhaus. Das Mindesthaltbarkeitsdatum auf der Dose ist zwar lдngst ьberschritten, aber so lange die Dose nicht aufgeblдht ist, wird der Inhalt wohl noch in Ordnung sein.</text>
+	</string>
+	<string id="enc_equipment_food_conserva1_bad">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten%c[default].\n \nDiese Konservendose ist schon so aufgebдht, das sie jeden Moment aufplatzen kцnnte. Den Inhalt kann man nun vergessen, das kann keiner mehr essen.</text>
+	</string>
+	<string id="enc_equipment_food_kolbasa1">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten.\n%c[255,1,255,255]Kaloriengehalt:%c[255,1,255,1] Stufe 2%c[default].\n \nDie Wurst aus Fleisch unbekannter Herkunft und Soja ist fьr einen Stalker oft Frьhstьck-, Mittag- und Abendessen in einem.</text>
+	</string>
+	<string id="enc_equipment_food_kolbasa1_bad">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten%c[default].\n \nDieses Stьck Wurst ist schon so verschimmelt und angefault, das man es nur noch wegwerfen kann. Essen wьrde das keiner mehr.</text>
+	</string>
+	<string id="enc_equipment_food_vodka1">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 2.0 Einheiten.\n%c[255,1,255,255]Kaloriengehalt:%c[255,1,255,1] Stufe 1%c[default].\n \nWodka vom Hersteller GSC. Sьffig und schmackhaft, sollte aber aus offensichtlichen Grьnden nur in MaЯen genossen werden.</text>
+	</string>
+	<string id="enc_equipment_food_vodka2">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 2.0 Einheiten.\n%c[255,1,255,255]Kaloriengehalt:%c[255,1,255,1] Stufe 1%c[default].\n \nWodka. Dem Etikett nach, vom Hersteller GSC. Sollte aus offensichtlichen Grьnden nur in MaЯen genossen werden.</text>
+	</string>
+	<string id="enc_equipment_medi_antirad1">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 0.5 Einheiten%c[default].\n \nDas Preparat reduziert die Strahlungswirkung. Sagt man...</text>
+	</string>
+	<string id="enc_equipment_medi_bandage1">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 0.5 Einheiten%c[default].\n \nEinfaches Verbandspдckchen. Stillt Blutungen.</text>
+	</string>
+	<string id="enc_equipment_medi_medkit1">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten%c[default].\n \nEin Allzweck-Medkit. Man behandelt damit verschiedene Arten von Verletzungen - Wunden, Verbrennungen, Giftunfдlle, usw.</text>
+	</string>
+	<string id="enc_equipment_medi_medkit2">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten%c[default].\n \nEin spezielles Medkit gegen physischen Schaden und Blutverlust. Darin enthalten sind ein blutgerinnendes Mittel, Antibiotika, Immunstimulatoren und Schmerzmittel.</text>
+	</string>
+	<string id="enc_equipment_medi_medkit3">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 2.0 Einheiten%c[default].\n \nMedkit, speziell entworfen fьr die Zone. Das Kit enthдlt Mittel zur Wundheilung wie zur Eliminierung von Radionukliden im Kцrper. Verhindert das Entstehen der Strahlenkrankheit und senkt die Dosis der gesamtabsorbierten Strahlung.</text>
+	</string>
+	<string id="energy_drink_name">
+		<text>Energiedrink "S.T.A.L.K.E.R."</text>
+	</string>
+	<string id="energy_drink_short_name">
+		<text>Energiedrink "S.T.A.L.K.E.R."</text>
+	</string>
+	<string id="Equipment">
+		<text>Ausrьstung und Nahrung</text>
+	</string>
+	<string id="Food">
+		<text>Nahrung</text>
+	</string>
+	<string id="Kolbasa">
+		<text>Wurst "Praktische"</text>
+	</string>
+	<string id="Kolbasa_bad">
+		<text>Verdorbene Wurst</text>
+	</string>
+	<string id="Medi">
+		<text>Medikamente</text>
+	</string>
+	<string id="Medkit">
+		<text>Medikit</text>
+	</string>
+	<string id="Medkit_army">
+		<text>Armee-Medikit</text>
+	</string>
+	<string id="Medkit_scientific">
+		<text>Forschungs-Medikit</text>
+	</string>
+	<string id="Sci2">
+		<text>Forscher EXP-4</text>
+	</string>
+	<string id="Vodka">
+		<text>Wodka "Kosaken"</text>
+	</string>
+	<string id="st_detector">
+		<text>Geiger-Zдhler</text>
+	</string>
+	<string id="st_detector2">
+		<text>Anomaliedetektor</text>
+	</string>
+	<string id="st_detector3">
+		<text>Gepatchter Anomaliedetektor</text>
+	</string>
+	<string id="st_detector_descr1">
+		<text>Geiger-Zдhler. Ein Gerдt zur Messung der Stдrke radioaktiver Strahlung und der Kontaminierung des Kцrper damit. Muss am Gьrtel befestigt und aktiviert werden, damit es funktioniert.</text>
+	</string>
+	<string id="st_detector_descr2">
+		<text>Ein Gerдt zur Ortung von Anomalien und Stцrungen. Zeigt deren Nдhe akkustisch an. Muss am Gьrtel befestigt und aktiviert werden, damit es funktioniert.</text>
+	</string>
+	<string id="st_detector_descr3">
+		<text>Ein durch die Wissenschaftler des Sacharow-Labors gepatchter Detektor zur Ortung von Anomalien und Stцrungen. Warnt in deren Nдhe nicht nur akkustisch, sondern synchronisiert sich mit dem PDA des Besitzers und zeigt deren Lage auf der Karte an. Muss am Gьrtel befestigt und aktiviert werden, damit es funktioniert</text>
+	</string>
+	<string id="st_grenade_gd5">
+		<text>Rauchgranate</text>
+	</string>
+<string id="enc_equipment_medi_bandage2">
+	<text>Verbandspдckchen. Stillt Blutungen.</text>
+	</string>
+<string id="huhn_egg">
+<text>Hьhnerei</text>
+    </string>
+      <string id="enc_equipment_huhn_egg">
+        <text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten.\n%c[255,1,255,255]Kaloriengehalt:%c[255,1,255,1] Stufe 1%c[default].\n \nAuch mutierte Hьhner legen Eier. Diese kann man bedenkenlos verspeisen. Angesichts der nicht sehr abwechselungsreicher Nahrung in der Zone, zahlen Stalker fьr frische Eier gute Preise.</text>
+   </string>
+   <string id="crow_egg">
+<text>Ei einer Krдhe</text>
+    </string>
+      <string id="enc_equipment_crow_egg">
+        <text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten.\n%c[255,1,255,255]Kaloriengehalt:%c[255,1,255,1] Stufe 1%c[default].\n \nAuch Krдhen legen Eier. Auch in der Zone. Angesichts der Tatsache, das die Nahrung in der Zone sehr eintцnig ist, zдhlt sogar ein frisches Krдhenei als eine willkommene Abwechselung.</text>
+   </string>
+      <string id="trockenfisch">
+<text>Getrockneter Fisch</text>
+    </string>
+	<string id="enc_equipment_trockenfisch">
+<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten.\n%c[255,1,255,255]Kaloriengehalt:%c[255,1,255,1] Stufe 2%c[default].\n \nDurch Salzung und Lufttrocknung haltbar gemachter Fisch. Man sagt, das manche Stalker im Sumpfgebiet und in Stillwдssern ihren Lebensunterhalt damit verdienen, in dem sie da fischen und dann Trockenfisch produzieren. Getrockneter Fisch braucht wenig Platz und ist in der Zone eine beliebte EiweiЯquelle.</text>
+    </string>
+	<string id="mushroom">
+<text>Pilz</text>
+    </string>
+	<string id="mushroom_bad">
+<text>Verfaulter Pilz</text>
+    </string>
+	<string id="enc_equipment_mushroom">
+<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten.\n%c[255,1,255,255]Kaloriengehalt:%c[255,1,255,1] Stufe 2%c[default].\n \nEin Waldpilz. Auch in der Zone wachsen Pilze in den Wдldern und Feldern. Diese Pilze sind zwar leicht radioaktiv, gebraten oder gegrillt aber trotzdem essbar. Die Stalker zahlen dafьr gute Preise, weil sie die Sojawurst und Konserven echt satt haben.</text>
+    </string>
+	<string id="enc_equipment_mushroom_bad">
+<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten%c[default].\n \nVerschimmelter und verfaulter Waldpilz. Nur ein Lebensmьder wьrde sowas versuchen zu essen. Nur noch zum wegwerfen.</text>
+    </string>
+	<string id="kartoschka">
+<text>Kartoffel</text>
+    </string>
+	<string id="enc_equipment_kartoschka">
+<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten.\n%c[255,1,255,255]Kaloriengehalt:%c[255,1,255,1] Stufe 1%c[default].\n \nHiesige Kartoffeln werden wahrscheinlich von den Bauern in Gebieten angebaut, die an die Zone angrenzen, und dann reingeschmuggelt. Billige Nahrung, bei der das Verhдltnis zwischen dem Gewicht und Energiegehalt nicht grade gьnstig ist. Aber es ist allermal besser, abends eine gebackene Kartoffel zu haben, als hungrig einzuschlafen.</text>
+    </string>
+	<string id="expeditionfood">
+<text>Trekkingnahrung</text>
+    </string>
+	<string id="enc_equipment_expeditionfood">
+<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 2.0 Einheiten.\n%c[255,1,255,255]Kaloriengehalt:%c[255,1,255,1] Stufe 5%c[default].\n \nGefriergetrocknete Trekkingnahrung ist verhдltnismдssig leicht und dabei kalorienreich, aber sehr teuer und schwer zu bekommen in der Zone. Fьr die Zubereitung braucht man kochendes Wasser, also nicht unbedingt geeignet fьr den Verzehr wдhrend eines Marschs.</text>
+    </string>
+	<string id="power_supply_name">
+		<text>Exoskelett-Batterie</text>
+	</string>
+	<string id="power_supply_descr">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 6.5 Einheiten%c[default].\n \nExperimentelle Energiequelle. Ein relativ erfolgreicher Versuch der Wissenschaft ein praktisches Nutzen aus der Zone zu ziehen. Vergleichsweise leichtes und kompaktes Gerдt generiert akzeptable Stromstдrke. Durch Massenproduktion dieser Batterien ist die Realisierung von Projekten mцglich geworden, bei denen herkцmmliche Energiequellen nicht ausreichten.\n \nWird mit speziellen Magnetkernen bestьckt, welche Energie der Artefakte nutzen. Die Batterie kann bis zu 4 Kerne aufnehmen, die zusammen entladen werden. Nachteile dieser Energiequelle sind die a) Starke Selbstentladung und b) Hohe Stromstдrke, durch die Nutzung als Antrieb fьr Kleingerдte unmцglich ist.</text>
+	</string>
+	<string id="power_core_name">
+		<text>Magnetkern</text>
+	</string>
+	<string id="power_core_descr">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten%c[default].\n \nKernstab fьr Exoskelett-Batterien. Als Quelle dienen Teile der Artefakte mit elektromagnetischen Eigenschaften. Die Exoskellet-Batterie kann bis zu 4 solche Kerne aufnehmen, die zusammen entladen werden. Bei der Aktivierung in der Batterie wird der erste Kern der Reihenschaltung zerstцrt und die gekapselte Energie wird freigesetzt.</text>
+	</string>
+	<string id="extra_bag_mid_name">
+		<text>Kleine Zusatztasche</text>
+	</string>
+	<string id="extra_bag_mid_descr">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 4.0 Einheiten\n \nRucksackvolumen: + 15 Einheiten%c[default]\n \nEine kleine Tasche aus einem wetter- und reiЯfesten Stoff. An den Rucksack angeschnallt, ermцglicht diese einem noch ein wenig mehr Beute oder Ausrьstung mitnehmen zu kцnnen.</text>
+	</string>
+	<string id="extra_bag_big_name">
+		<text>Grosse Zusatztasche</text>
+	</string>
+	<string id="extra_bag_big_descr">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 6.0 Einheiten\n \nRucksackvolumen: + 30 Einheiten%c[default].\n \nEine grosse Tasche aus einem wetter- und reiЯfesten Stoff. Fast schon zu gross. An den Rucksack angeschnallt, ermцglicht diese einem viel mehr Beute oder Ausrьstung mitnehmen zu kцnnen.</text>
+	</string>
+	<string id="matches_name">
+		<text>Streichhцlzer</text>
+	</string>
+	<string id="matches_desc">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 0.1 Einheiten%c[default].\n \nPappschachtel mit Streichhцlzern. Diese werden zwar von den Hдndlern als "sturmfest" angepriesen, lagen aber in Wirklichkeit vor dem Verkauf wohl jahrelang irgendwo in einem feuchten Keller rum. Ein Lagerfeuer damit anzuzьnden ist eine regelrechte Glьckssache. Aber besser solche Streichhцlzer, als gar keine.</text>
+	</string>
+	<string id="drova_name">
+		<text>Brennholz</text>
+	</string>
+	<string id="drova_desc">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 6.0 Einheiten%c[default].\n \nEin wenig Brennholz im Rucksack zu haben, kann nie schaden. Die Nдchte in der Zone sind lang und dunkel, und die Wege bis zum nдchsten Lager sind oft recht gefдhrlich in der Dunkelheit. Eine Rast am eigenen Lagerfeuer ist manchmal besser, als ein Marsch durch die Nacht.</text>
+	</string>
+	<string id="topor_name">
+		<text>Holzaxt</text>
+	</string>
+	<string id="topor_desc">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 5.0 Einheiten%c[default].\n \nEine robuste Axt, geschmiedeter Kopf, handlicher und fester Schaft. Eignet sich hervorragend zum Brennholz schlagen, kann aber im Notfall auch als eine Waffe dienen.</text>
+	</string>
+
+	</string_table>

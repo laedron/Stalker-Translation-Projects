@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="ansi" ?>
+<!--SCAR mod version Fr (noms réel des armes) 31/12/2012-->
+<!--Format type
+	<string id="wpn- ">
+		<text>__</text>
+	</string>
+	<string id="enc_weapons1_wpn- ">
+		<text>
+%c[23,0,255,255]SPECIFICATIONS DE BASE:
+\n%c[default]Type d'arme      : %c[23,255,255,0] 
+\n%c[default]Munitions        : %c[23,255,255,0] 
+\n%c[default]Vitesse balle    : %c[23,255,255,0] m/s
+\n%c[default]Portée pratique  : %c[23,255,255,0] m
+\n%c[default]Cadence de tir   : %c[23,255,255,0] cps/min
+\n%c[default]Sélecteur de tir : %c[23,255,255,0]1-3-AUTO
+\n%c[default]Magasin/chargeur : %c[23,255,255,0]2
+\n
+\n%c[23,0,255,255]ACCESSOIRES:
+\n%c[default]Lunette démontable      : %c[255,255,0,0]NON	%c[23,255,255,0]Nom du scope
+\n%c[default]Silencieux démontable   : %c[255,255,0,0]NON	%c[23,255,255,0]Nom du silencieux
+\n%c[default]Lance-grenade démontable: %c[255,255,0,0]NON	%c[23,255,255,0]Nom du lance-grenade
+
+\n%c[23,0,255,255]ACCESSOIRES:
+\n%c[default]Lunette intégrée    : %c[255,0,255,0]Grossissement
+\n%c[default]Silencieux intégré  : %c[255,0,255,0]OUI
+\n%c[default]Lance-grenade intégré: %c[255,0,255,0]Type grenade
+
+\n%c[default]Canon auxiliaire démontable: %c[255,0,255,0]calibre 12
+
+\n
+\n%c[23,0,255,255]DESCRIPTION :
+\n%c[default]texte
+		</text>
+	</string>
+-->
+
+<!--Famille Fusils de chasse-->
+	<string id="wpn-bm16-full">
+		<text>Fusil de chasse</text>
+	</string>
+	<string id="enc_weapons1_wpn-bm16_full">
+		<text>
+%c[23,0,255,255]SPECIFICATIONS DE BASE:
+\n%c[default]Type d'arme      : %c[23,255,255,0]fusil de chasse
+\n%c[default]Munitions        : %c[23,255,255,0]12x70/76
+\n%c[default]Vitesse balle    : %c[23,255,255,0]900 m/s
+\n%c[default]Portée pratique  : %c[23,255,255,0]45 m
+\n%c[default]Cadence de tir   : %c[23,255,255,0]650 cps/min
+\n%c[default]Sélecteur de tir : %c[23,255,255,0]1
+\n%c[default]Magasin/chargeur : %c[23,255,255,0]2
+\n
+\n%c[23,0,255,255]ACCESSOIRES:
+\n%c[default]Lunette démontable      : %c[255,255,0,0]NON
+\n%c[default]Silencieux démontable   : %c[255,255,0,0]NON
+\n%c[default]Lance-grenade démontable: %c[255,255,0,0]NON
+\n
+\n%c[23,0,255,255]DESCRIPTION :
+\n%c[default]Fusil BM16 conon long à 2 conons jumelés. Arme lourde mais très mortel, avec une bonne portée.
+		</text>
+	</string>
+
+<!--Famille AK-74 long-->
+	<string id="ars-aks74">
+		<text>AKS-74</text>
+	</string>
+	<string id="enc_ars-aks74">
+		<text>%c[23,0,255,255]SPECIFICATIONS DE BASE:\n%c[default]Type d&apos;arme      : %c[23,255,255,0]fusil d&apos;assault\n%c[default]Munitions        : %c[23,255,255,0]5,45x39\n%c[default]Vitesse balle    : %c[23,255,255,0]900 m/s\n%c[default]Portée pratique  : %c[23,255,255,0]400 m\n%c[default]Cadence de tir   : %c[23,255,255,0]650 cps/min\n%c[default]Sélecteur de tir : %c[23,255,255,0]1-AUTO\n%c[default]Magasin/chargeur : %c[23,255,255,0]30\n\n%c[23,0,255,255]ACCESSOIRES:\n%c[default]Lunette démontable      : %c[23,255,255,0]PSO-1M2-x4\n%c[default]Silencieux démontable   : %c[23,255,255,0]Silenc.&quot;5.45&quot;\n%c[default]Lance-grenade démontable: %c[23,255,255,0]GP-25\n\n%c[23,0,255,255]DESCRIPTION :\n%c[default] Version pour les troupes de parachutistes de l&apos;Ak-74 mais équipée d&apos;une crosse en métal rabattable le long de l&apos;arme à la place de la crosse en bois.</text>
+	</string>
+
+	<string id="ars-aks74m">
+		<text>AKS-74 "Cobra"</text>
+	</string>
+	<string id="enc_wpn-aks74m">
+		<text>%c[23,0,255,255]SPECIFICATIONS DE BASE:\n%c[default]Type d&apos;arme      : %c[23,255,255,0]fusil d&apos;assault\n%c[default]Munitions        : %c[23,255,255,0]5,45x39\n%c[default]Vitesse balle    : %c[23,255,255,0]756 m/s\n%c[default]Portée pratique  : %c[23,255,255,0]180 m\n%c[default]Cadence de tir   : %c[23,255,255,0]600 cps/min\n%c[default]Sélecteur de tir : %c[23,255,255,0]1-AUTO\n%c[default]Magasin/chargeur : %c[23,255,255,0]30\n\n%c[23,0,255,255]ACCESSOIRES:\n%c[default]Viseur Intégrée    : %c[255,0,255,0]Collimateur &quot;Cobra&quot;\n%c[default]Silencieux démontable   : %c[23,255,255,0]Silenc.&quot;5.45&quot;\n%c[default]Lance-grenade démontable: %c[23,255,255,0]GP-25\n\n%c[23,0,255,255]DESCRIPTION :\n%c[default]Version modernisé de l&apos;AKS-74, par remplacement les parties en bois par de la fibre de verre et polyamide. La crose reste en acier plié et rabattable. Cette version est équipée d&apos;origine d&apos;un collimateur de visé de marque &quot;Cobra&quot;.</text>
+	</string>
+
+
+<!--Famille AK-74 court "U"-->
+	<string id="wpn-aks74u">
+		<text>AKS-74U</text>
+	</string>
+	<string id="enc_weapons1_wpn-aks74u">
+		<text>
+%c[23,0,255,255]SPECIFICATIONS DE BASE:
+\n%c[default]Type d'arme      : %c[23,255,255,0]fusil d'assault
+\n%c[default]Munitions        : %c[23,255,255,0]5,45x39
+\n%c[default]Vitesse balle    : %c[23,255,255,0]735 m/s
+\n%c[default]Portée pratique  : %c[23,255,255,0]150 m
+\n%c[default]Cadence de tir   : %c[23,255,255,0]700 cps/min
+\n%c[default]Sélecteur de tir : %c[23,255,255,0]1-AUTO
+\n%c[default]Magasin/chargeur : %c[23,255,255,0]45
+\n
+\n%c[23,0,255,255]ACCESSOIRES:
+\n%c[default]Lunette démontable      : %c[23,255,255,0]PSO-1M2-x4
+\n%c[default]Silencieux démontable   : %c[23,255,255,0]Silenc."5.45"
+\n%c[default]Lance-grenade démontable: %c[255,255,0,0]NON
+\n
+\n%c[23,0,255,255]DESCRIPTION :
+\n%c[default]AKS-74U équipé d'un chargeur de 45 cartouches et d'un rail à queue d'arronde pour fixer une lunette démontable.
+		</text>
+	</string>
+
+
+<!--REMINGTON 870 MARINE MAGNUM -->
+	<string id="wpn_rem870_magnum">
+		<text>Remington 870 "Marine Magnum"</text>
+	</string>
+	<string id="wpn_rem870_magnum_s">
+		<text>"MARINE MAGNUM"</text>
+	</string>
+	<string id="enc_wpn_rem870_magnum">
+		<text>
+%c[23,0,255,255]SPECIFICATIONS DE BASE:
+\n%c[default]Type d'arme      : %c[23,255,255,0]fusil à pompe
+\n%c[default]Munitions        : %c[23,255,255,0]Calibe 12
+\n%c[default]Vitesse balle    : %c[23,255,255,0]450 m/s
+\n%c[default]Portée pratique  : %c[23,255,255,0]60 m
+\n%c[default]Cadence de tir   : %c[23,255,255,0]70 cps/min
+\n%c[default]Sélecteur de tir : %c[23,255,255,0]1
+\n%c[default]Magasin/chargeur : %c[23,255,255,0]7
+\n
+\n%c[23,0,255,255]ACCESSOIRES:
+\n%c[default]Lunette démontable    : %c[255,255,0,0]NON
+\n%c[default]Silencieux démontable : %c[255,255,0,0]NON
+\n%c[default]Lance-grenade démontable: %c[255,255,0,0]NON
+\n
+\n%c[23,0,255,255]DESCRIPTION :
+\n%c[default]Le Remington model 870 est un fusil à pompe fabriqué aux États-Unis depuis 1950 par Remington Arms. Il est très populaire parmi les chasseurs, les tireurs sportifs, les services de police et militaires. En 1966, l'US Marine Corps acheta plusieurs milliers de Remington 870 Mk.1. Le "Marine Magnum" est une version traitée anticorrosion, avec canon de 18 pouces.
+		</text>
+	</string>
+
+
+
+<!-- Armes Exotique -->
+
+<!--Arbalète-->
+	<string id="wpn-arb">
+		<text>Arbalète de chasse</text>
+	</string>
+	<string id="enc_weapons_wpn-arb">
+		<text>
+%c[23,0,255,255]SPECIFICATIONS DE BASE:
+\n%c[default]Type d'arme      : %c[23,255,255,0] Arme de jet
+\n%c[default]Munitions        : %c[23,255,255,0] Carreau
+\n%c[default]Vitesse carreau  : %c[23,255,255,0] 400 m/s
+\n%c[default]Portée pratique  : %c[23,255,255,0] 200 m
+\n%c[default]Cadence de tir   : %c[23,255,255,0] 60 cps/min
+\n%c[default]Sélecteur de tir : %c[23,255,255,0] 1
+\n%c[default]Magasin/chargeur : %c[23,255,255,0] 1
+\n
+\n%c[23,0,255,255]ACCESSOIRES:
+\n%c[default]Lunette intégrée    : %c[255,0,255,0]x10
+\n
+\n%c[23,0,255,255]DESCRIPTION :
+\n%c[default]L'arbalète (du latin arcuballista) est une arme de jet, constituée d'un arc monté sur un fût et lançant des projectiles appelés « carreaux ».
+		</text>
+	</string>
+
+
+
+	<string id="ars_ognemet">
+		<text>Lance flamme "Poltergeistor"</text>
+	</string>
+	<string id="ars_ognemet_s">
+		<text>"POLTERGEISTOR"</text>
+	</string>
+	<string id="enc_weapons1_ognemet">
+		<text>%c[23,0,255,255]SPECIFICATIONS DE BASE:
+\n%c[default]Type d'arme      : %c[23,255,255,0]Lance flamme
+\n%c[default]Munitions        : %c[23,255,255,0]Mélange Dopé
+\n%c[default]Vitesse flamme    : %c[23,255,255,0]300 m/s
+\n%c[default]Portée pratique  : %c[23,255,255,0]60 m
+\n%c[default]Cadence de tir   : %c[23,255,255,0]1000 cps/min
+\n%c[default]Sélecteur de tir : %c[23,255,255,0]1-AUTO
+\n%c[default]Magasin/chargeur : %c[23,255,255,0]50
+\n
+\n%c[23,0,255,255]ACCESSOIRES:
+\n%c[default]Lunette intégrée    : %c[255,0,255,0]x4
+\n%c[default]Silencieux démontable : %c[255,255,0,0]NON
+\n%c[default]Lance-grenade intégré: %c[255,0,255,0]Grenade M406
+\n
+\n%c[23,0,255,255]DESCRIPTION :
+\n%c[default]Arme exotique par excellence. Modification profonde, d'un FN-F2000 en lance flamme utilisant un mélange spécifique dopé d'agents toxiques spécialement créer pour combattre les "poltergeist". Il subsiste néanmoins, le lance grenade intégré et la lunette optique grossissant 4 fois, aller savoir pourquoi! Sûrement une lubie de son créateur un certain Dimak.
+		</text>
+	</string>
+
+<!-- Famille FN-F2000 -->
+	<string id="wpn_fn2000_paratrooper">
+		<text>FN2000 "Trooper"</text>
+	</string>
+	<string id="wpn_fn2000_paratrooper_s">
+		<text>"TROOPER"</text>
+	</string>
+	<string id="enc_weapons1_wpn_fn2000_paratrooper">
+		<text>
+%c[23,0,255,255]SPECIFICATIONS DE BASE:
+\n%c[default]Type d'arme      : %c[23,255,255,0]fusil d'assault
+\n%c[default]Munitions        : %c[23,255,255,0]9x39
+\n%c[default]Vitesse balle    : %c[23,255,255,0]320 m/s
+\n%c[default]Portée pratique  : %c[23,255,255,0]400 m
+\n%c[default]Cadence de tir   : %c[23,255,255,0]950 cps/min
+\n%c[default]Sélecteur de tir : %c[23,255,255,0]1-3-AUTO
+\n%c[default]Magasin/chargeur : %c[23,255,255,0]30
+\n
+\n%c[23,0,255,255]ACCESSOIRES:
+\n%c[default]Lunette intégrée    : %c[255,0,255,0]x4
+\n%c[default]Silencieux intégré  : %c[255,0,255,0]OUI
+\n%c[default]Lance-grenade intégré: %c[255,0,255,0]Grenade M406
+\n
+\n%c[23,0,255,255]DESCRIPTION :
+\n%c[default]C'est un fusil d'assaut F2000 spécialement modifié pour les Forces Spéciales des Troupes Aéroporté Russe (VDV). Un lot à été découvert, dans un hélicoptère accidenté dans la Zone de Radar. Cet arme allie précision, silence, grande cadence de tir et dipose du lance grenade intégré OTAN.
+		</text>
+	</string>
+
+
+	<string id="wpn-linza">
+		<text>FN2000 "Ghost"</text>
+	</string>
+	<string id="wpn-linza_s">
+		<text>"GHOST"</text>
+	</string>
+	<string id="enc_weapons1_wpn-linza">
+		<text>
+%c[23,0,255,255]SPECIFICATIONS DE BASE:
+\n%c[default]Type d'arme      : %c[23,255,255,0]fusil d'assault
+\n%c[default]Munitions        : %c[23,255,255,0]5,56x45
+\n%c[default]Vitesse balle    : %c[23,255,255,0]990 m/s
+\n%c[default]Portée pratique  : %c[23,255,255,0]650 m
+\n%c[default]Cadence de tir   : %c[23,255,255,0]950 cps/min
+\n%c[default]Sélecteur de tir : %c[23,255,255,0]1-3-AUTO
+\n%c[default]Magasin/chargeur : %c[23,255,255,0]30
+\n
+\n%c[23,0,255,255]ACCESSOIRES:
+\n%c[default]Lunette intégrée    : %c[255,0,255,0]x5
+\n%c[default]Silencieux intégré  : %c[255,0,255,0]OUI
+\n%c[default]Lance-grenade intégré: %c[255,0,255,0]Grenade M406
+\n
+\n%c[23,0,255,255]DESCRIPTION :
+\n%c[default]C'est un fusil d'assaut F2000 modifié par le stalker "Looser". Cette arme allie précision, silence, grande cadence de tir et dispose du lance-grenades intégré OTAN. La profusion d'artefacts utilisés dans l'assemblage de l'arme lui confère des effets bénéfiques et maléfiques sur l'utilisateur. Lors du tir il désoriente la personne ciblée en créant une illusion optique. Il dispose d'un réticule de visé "plein écran".
+		</text>
+	</string>
+
+
+	<string id="wpn-hostel">
+		<text>FN2000 "Hostel"</text>
+	</string>
+	<string id="enc_weapons1_wpn-hostel">
+		<text>
+%c[23,0,255,255]SPECIFICATIONS DE BASE:
+\n%c[default]Type d'arme      : %c[23,255,255,0]fusil d'assault
+\n%c[default]Munitions        : %c[23,255,255,0]5,56x45
+\n%c[default]Vitesse balle    : %c[23,255,255,0]1055 m/s
+\n%c[default]Portée pratique  : %c[23,255,255,0]400 m
+\n%c[default]Cadence de tir   : %c[23,255,255,0]950 cps/min
+\n%c[default]Sélecteur de tir : %c[23,255,255,0]1-AUTO
+\n%c[default]Magasin/chargeur : %c[23,255,255,0]30
+\n
+\n%c[23,0,255,255]ACCESSOIRES:
+\n%c[default]Lunette intégrée    : %c[255,0,255,0]x8
+\n%c[default]Silencieux intégré  : %c[255,255,0,0]NON
+\n%c[default]Lance-grenade intégré: %c[255,255,0,0]NON
+\n
+\n%c[23,0,255,255]DESCRIPTION :
+\n%c[default]C'est un fusil d'assaut F2000 modifié, sans le lance grenade. L'utilisation d'artefacts intégrés dans le système d'éjection et la culasse accélère la vitesse de sortis de la balle, améliorant la puissance restituée par la balle. Malheureusement, ces artefacts pruduisent des effets négatives lors du tir, une protection adéquate est requise.
+</text>
+	</string>
+
+
+<!-- Famille Steyr AUG -->
+	<string id="wpn_aug_a1">
+		<text>Steyr AUG "Kalter"</text>
+	</string>
+	<string id="wpn_aug_a1_s">
+		<text>"KALTER"</text>
+	</string>
+	<string id="enc_wpn_aug_a1">
+		<text>
+%c[23,0,255,255]SPECIFICATIONS DE BASE:
+\n%c[default]Type d'arme      : %c[23,255,255,0]fusil d'assault
+\n%c[default]Munitions        : %c[23,255,255,0]5,56x45
+\n%c[default]Vitesse balle    : %c[23,255,255,0]992 m/s
+\n%c[default]Portée pratique  : %c[23,255,255,0]400 m
+\n%c[default]Cadence de tir   : %c[23,255,255,0]850 cps/min
+\n%c[default]Sélecteur de tir : %c[23,255,255,0]1-AUTO
+\n%c[default]Magasin/chargeur : %c[23,255,255,0]42
+\n
+\n%c[23,0,255,255]ACCESSOIRES:
+\n%c[default]Lunette démontable    : %c[23,255,255,0]EOTech x3
+\n%c[default]Silencieux démontable : %c[23,255,255,0]Silenc."5.56"
+\n%c[default]Canon auxiliaire démontable: %c[255,0,255,0]calibre 12
+\n
+\n%c[23,0,255,255]DESCRIPTION :
+\n%c[default]C'est un fusil d'assaut Steyr AUG-A3 modifié par le stalker "Kalter". 
+Cet arme allie puissance, chargeur de grande capacité, grande cadence de tir et dipose du lance grenade intégré OTAN. 
+ Il dispose d'un réticule de visé "plein écran".
+		</text>
+	</string>

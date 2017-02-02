@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+	<string_table>
+		<string id="sidor_niva_start_0">
+			<text>Was ist los? Was ist Passiert..?</text>
+		</string>
+		<string id="sidor_niva_start_1">
+			<text>Was los ist .. Scar! Du scheinst ja unsterblich zu sein. Um ehrlich zu sein, hatte ich bedenken, dich nie wieder zu sehen. Nicht nach diesen beiden Psycho Zombies.  Es ist, als kдmen die direkt aus dem Sarkophag. Bevor du in die Zone zurьckkehrst musst du noch ewtas erledigen.</text>
+		</string>
+		<string id="sidor_niva_start_2">
+			<text>und was.?</text>
+		</string>
+		<string id="sidor_niva_start_3">
+			<text>Du kennst doch Voronin und bist auch mit dem Wirt vertraut. Es gibt ein Ort den wir zugemacht hatten.</text>
+		</string>
+		<string id="sidor_niva_start_4">
+			<text>Ja... ne. Verstehe ich jetzt nicht, das musst du mir erklдren.</text>
+		</string>
+		<string id="sidor_niva_start_5">
+			<text>Zwischen Kordon und Dark Valley existiert ein weiteres Gebiet. Es hцrt auf den namen "Darkscape". Du musst dir vorstellen es ist eine art Twilight Zone und das im wahrsten Sinne des Wortes. Seit einiger Zeit, ohne das wir es mitbekommen, haben sich dort Banditen niedergelassen. Das ist nichts besonderes. Interessant wдre aber zu wissen wie die sich gegen die Auswirkungen in diesem Gebiet schьtzen ohne das die Drauf gehen. Entweder hat Borov, wenn er noch am Leben sein sollte oder der Rest des Banditen Clans was rausgefunden. Das muss ich wissen.We have a chance to find out from an informant who works closely with the leader there.</text>
+		</string>
+		<string id="sidor_niva_start_6">
+			<text>Auf Kostya's Karte habe ich eine Anomlie bemerkt. Es sieht wohl so aus... das die Banditen mit hilfe der Anomlie einen sicheren Weg in das Gebiet gefunden haben.</text>
+		</string>
+		<string id="sidor_niva_start_7">
+			<text>Wenn die Aussage des Informanten der wahrheit entspricht dann hatten wohl ein paar von Borov's Leuten den weiЯen Niva von Kostya "geliehen". In diesem lagen auch die Informationen drin. Wдhrend Sie durch das Dunke Tal fuhren fand eine Emisson statt. Nach der Emission war die Strasse von Bдumen Blockiert und sie mussten den Niva verlassen und zu fuЯ weiter.</text>
+		</string>
+		<string id="sidor_niva_start_8">
+			<text>Ach .. das war Kostya's Niva. Was schlдgst du vor ?</text>
+		</string>
+		<string id="sidor_niva_start_9">
+			<text>Im gegensatz zu Borov ist Kostya der Klevere. Wenn wir diese Information irgendwie in Hдnde bekommen kцnnen wдre es mцglich mit Kostya ein Deal asuzuhandeln. Die Banditen sind nun keine Kumpels von uns.. aber mit dieser Info kцnnten wir auch herausfinden wie die Typen in Darkscape ein und ausgehen.</text>
+		</string>
+		<string id="sidor_niva_start_10">
+			<text>Also schlдgst du vor, ich fahre mit dem Niva in den Sьdlichen Teil der Zone?</text>
+		</string>
+		<string id="sidor_niva_start_11">
+			<text>Ja, genau ... Der sicherste weg durch die Anomalien wдre dann Darkscape, Kordon, am Agroprom Institut vorbei und dann zu Wolf's Hцhle. Bring den Niva zu Dalnoboy. Er kann die Information aus dem Niva runterladen. Ich markiere dir die Position, von wo du aus den Pfad nach Darkscape ausgehend von Dark Valley nehmen kannst. Einverstanden?</text>
+		</string>
+		<string id="sidor_niva_start_12">
+			<text>Alles klar, wenn du der aussage des Informanten vertraust, dann werde ich eine kleinen Trip durch die Zone unternehmen.</text>
+		</string>
+		<string id="sidor_niva_start_13">
+			<text>Ok.. ach und versuch den Niva in einem Stьck zurьckzubringen. Die gefдhrlichste Gegend ist "Darkscape", also sei дuЯerst vorsichtig auf dem Weg nach Kordon.</text>
+		</string>
+		<string id="sidor_niva_done_0">
+			<text>%c[255,255,128,1]So.. hier sind die Auto Schlьssel.. was gibts als nдchstes.. ein Moped?!! Das tat mal richtig gut so durch die Zone zu fahren. Nagut.. Ich hoffe das die Dokumente nicht in einer Tьren sind... sonst musst du dir einen anderen Lakeien suchen, der Arsch in der Hose hat und zurьck nach Darkscape geht. Ach .. bervor ich das vergesse.. da waren diese zwei Wasserkдsten mit 150 Tonnen Kraftstoff. Da gab es diese.. ex.. also soviel Rauch.. unmцglich. Kann sein das du noch eine Rechnung bekommst... wollt das nur gesagt haben ... sorry.</text>
+		</string>
+		<string id="sidor_niva_done_1">
+			<text>Eben Scar! Da hдttest du auch nachsehen kцnnen. Bete das die Dokumente nicht in einer der Seitentьren waren, sonst bist du der Lakei, aber diese mal zu Fuss. Ich kenne deine Fдhikeiten und auch das du den Arsch dafьr hast. Dann Hoffe mal das die Informationen da sind.</text>
+		</string>
+		<string id="sidor_niva_done_2">
+			<text>Ich habe meine Meinung nicht geдndert. Du solltest lieber den verdammten Ьbergang zu Peacekeeping benutzen!I have not changed my mind. You better let me use the damn transition to Peacekeeping!</text>
+		</string>
+		<string id="sidor_niva_done_3">
+			<text>Regarding the transition... over the fenced area at the checkpoint in northern Cordon is where you arrive directly from the Bar, using the transition that was opened by Oleg's group. You will arrive outside of the fence. Go along the fence to the east corner, then look to the southeast. On a Hill you will see two small Christmass trees side by side. Well the transition is between these two small trees. One tip about Peacekeeping... in the Zone rules are similar to the Soviet laws of 1937. I heard they used to tie up visitors and carve their portraits with bullets. So I advise you to tread lightly there. Oh, and unlike here, those guys in that part of the Zone shoot without warning, and they have armor too. I suggest you take a gun with a large magazine and do not miss your first shot. After all, why would you care so much to go kill yourself there?!</text>
+		</string>
+		<string id="sidor_niva_done_4">
+			<text>I have to find one of Arrow's cronies.</text>
+		</string>
+		<string id="sidor_niva_done_5">
+			<text>Oh well, I tried to discourage you from going. I have the best equipment. What do you want to do?</text>
+		</string>
+		<string id="sidor_niva_done_6">
+			<text>I'll take a Gravi suit.</text>
+		</string>
+		<string id="sidor_niva_done_7">
+			<text>I'll take the Army 'SCAT-10', it's good for anything and also carries a bit more gear.</text>
+		</string>
+		<string id="sidor_niva_done_8">
+			<text>For now I'll take the Tiger cartridges and the bandit exoskeleton.</text>
+		</string>
+		<string id="sidor_niva_done_9">
+			<text>What I do for you ... truly a 'father of the people' I am.</text>
+		</string>
+		<string id="sidor_niva_done_10">
+			<text>Is that so Sidorovich?</text>
+		</string>
+		<string id="sidor_niva_done_11">
+			<text>Hey, be nice now!</text>
+		</string>
+		<string id="sidor_niva_done_12">
+			<text>Ok ok I was just kidding. Got your goat, though, lol. Well thank you for your help.</text>
+		</string>
+		<string id="pred_zastava_dialog_0">
+			<text>Oh, and we thought that the shooter decided to use the goat trail to visit his friends. Sidorovich's trail, long known to us. But we didn't expect Mercenary Scar, born in an anomaly. What brings you here my dear friend?</text>
+		</string>
+		<string id="pred_zastava_dialog_1">
+			<text>Well your guys sure treated me like a goat. They took all my stuff too!</text>
+		</string>
+		<string id="pred_zastava_dialog_2">
+			<text>Caustic we are?! When I think I could give the order to shoot you ... tsss ... tsss. What ingratitude Scar. I think a short stay in our air-conditioned 5-star hotel could do you some good.</text>
+		</string>
+		<string id="pred_zastava_dialog_3">
+			<text>Anything is possibly I suppose. I have a question - how do you deal with the 'Masters' if you are not allies?</text>
+		</string>
+		<string id="pred_zastava_dialog_4">
+			<text>You answered your own question. We are not just contractors for cleaning the Zone. We also conduct serious 'phonomenom' research. Here in Peacekeeping we cannot shoot without orders and only rarely do we get a direct attack or a prisoner tries to escape. In this area we usually only have problems with 'Duty' and Oleg's group. A few days ago arrived some commandos which means that briefly we could not party. For a while Voronin let us hang around the Bar!</text>
+		</string>
+		<string id="pred_zastava_dialog_5">
+			<text>Listen fella... about your research wizardry, I've heard about it, but have not seen it.</text>
+		</string>
+		<string id="pred_zastava_dialog_6">
+			<text>Do not worry you are not the first tourist to stop by. You will be an experiment for this tremendous technical progress. A beacon from our friends the 'Masters' has been programmed to a desired destination and poof you go byebye. You will be transported in a heart beat!</text>
+		</string>
+		<string id="pred_zastava_dialog_7">
+			<text>Yea sure, I'm shaking in my boots!!</text>
+		</string>
+		<string id="pred_soldat_dialog_0">
+			<text>Did you try to knock me out with a bolt? Well, to the leader of the checkpoint I will go.</text>
+		</string>
+		<string id="pred_soldat_dialog_1">
+			<text>You will answer for this asshole.</text>
+		</string>
+		<string id="pred_soldat_dialog_2">
+			<text>Oh well!</text>
+		</string>
+		<string id="doktor_pred_perehod_0">
+			<text>You got the PDA?</text>
+		</string>
+		<string id="doktor_pred_perehod_1">
+			<text>Yep.</text>
+		</string>
+		<string id="doktor_pred_perehod_2">
+			<text>Excellent. Give me the PDA and we'll go to Cordon.</text>
+		</string>
+		<string id="doktor_pred_perehod_3">
+			<text>Here ya go.</text>
+		</string>
+		<string id="doktor_pred_perehod_4">
+			<text>Duh I forgot about that... nope I don't have it. I'll go back and look.</text>
+		</string>
+		<string id="doktor_pred_start_0">
+			<text>Doctor, wat u talk'n bout?</text>
+		</string>
+		<string id="doktor_pred_start_1">
+			<text>Well you must be Scar, your facial scar is unique. You must surely remember that, a few years ago it was, a stalker was killed in Military Warehouses named 'Fang', and there is also an unfinished task against a stalker named 'Strelok'.</text>
+		</string>
+		<string id="doktor_pred_start_1_1">
+			<text>I'll try and remember.</text>
+		</string>
+		<string id="doktor_pred_start_2">
+			<text>I remember! I just summoned him. After a couple of seconds was sound from a weapon. I identified the sound. It was evident that the bullet was in flight, but could not make out who shot it because of the bad weather, but I had an idea where the location was. I was looking for Strelok, I needed info on him and the only names that I knew of where 'Ghost' and 'Fang'. I wanted to ask them about Strelok, but I have not had the time to find them. I wonder if 'Ghost' is the one that squealed on his teammate... I do not know. I had a photo in my PDA and I was told that it was 'Ghost'.</text>
+		</string>
+		<string id="doktor_pred_start_3">
+			<text>Ok, we'll see each other later. In the meantime we must get out of here. We were kidnapped to serve as bait. They want to catch Strelok, but it is you who have fallen into the trap as did Mole here in Agroprom. Someone higher-up must have a grudge against Strelok. Strelok had to have done something pretty huge before he lost his memory. Anyway back to more pressing matters. They trust me enough so that I can prepare their meals. One day I managed to steal from them a knife. When you appeared in the cell I was surprised. I had an idea to make a mess of the collective while they are sleeping. I did this with fungi that is in the cave. When they were not around I put some rifle cartridge powder on the iron door frame with the fungi. After the fungi gets hot and sets off the powder the hinges will be gone, then each for himself, and then meet at the tent by the ridge. But you must get my PDA, which enables the transition to Cordon from one one of the guards. For your case look somewhere in a cave where there's a metal trunk and three wooden crates. Your things are in an invisible box, another one of their magic tricks, so meticulously excavate the room, move the crates if necessary. That is if you want to get your stuff. What do you think?!</text>
+		</string>
+		<string id="doktor_pred_start_4">
+			<text>Ok it is as you say!</text>
+		</string>
+		<string id="semetsky_dialog_0">
+			<text>Who are you and where am I?</text>
+		</string>
+		<string id="semetsky_dialog_2">
+			<text>Isn't the execution of wishes a myth? I wish I could understand Russian. Well then fulfill some wishes Semetsky!</text>
+		</string>
+		<string id="semetsky_dialog_4">
+			<text>Like repairing armor?!</text>
+		</string>
+		<string id="semetsky_dialog_6">
+			<text>Suppose that there is: Nano-Armor, Saiga Auto (12 gauge) and MP-44 'Bagheera'.</text>
+		</string>
+		<string id="semetsky_dialog_7">
+			<text>Suppose that there is: Black armor like Dimon's, AK-47 'Stormtrooper', and Voronin's Vintorez.</text>
+		</string>
+		<string id="semetsky_dialog_8">
+			<text>Suppose that there is: M-14, HK G41 and a bandit exoskeleton.</text>
+		</string>
+		<string id="semetsky_dialog_9">
+			<text>Suppose that there is: Duty exoskeleton, minigun and an AKS-U for SVD cartridges.</text>
+		</string>
+		<string id="semetsky_dialog_11">
+			<text>If you fulfill the will of the Wishmaster then will the Wishmaster fulfill my will? And another question, where is the stalker nicknamed Strelok?</text>
+		</string>
+		<string id="semetsky_dialog_13">
+			<text>How does one get the hell out of here?</text>
+		</string>
+		<string id="oso_son_dialog_0">
+			<text>How's it going and who are you?</text>
+		</string>
+		<string id="oso_son_dialog_2">
+			<text>No, not true. Can you speak normally and not as an alien?</text>
+		</string>
+		<string id="oso_son_dialog_4">
+			<text>It is clear that nothing is clear!! The job about Arrow I have done. Psi protection has been disabled. By the way what is 'C-Consciousness'?</text>
+		</string>
+		<string id="oso_son_dialog_6">
+			<text>'Lobotomization', that's your discovery?</text>
+		</string>
+		<string id="oso_son_dialog_8">
+			<text>Can you explain what happened to Strelok and me when I turned off the Psi-protection? Let me explain: on the approach to Chernobyl nuclear power plant there where a lot of teleports. Immediately after a successful teleport started an emission, and then I couldn't remember anything. After a short nap, 2 freak'n years, I was found and saved. I wonder why I wasn't found sooner. How did I survive? Can you explain that damn science?</text>
+		</string>
+		<string id="oso_son_dialog_10">
+			<text>Oh that dog Lebedev. He told me about his daughter. He let it slip about a hiding place with Absolutes. And that he had bitterness for some of the employees that he worked with. What happens next is interesting.</text>
+		</string>
+		<string id="oso_son_dialog_12">
+			<text>Well I was between life and death for a long time because of you. Experiences with these emmissons could have killed me. I must admit that if the scientists did not save me I would not have survived the second emission in the Marshes, although thereafter they used me for their purposes. What you call that, the Scorcher greeting?</text>
+		</string>
+		<string id="oso_son_dialog_14">
+			<text>I know a member of the 'C-Consciousness' who came to Cordon with colleagues. If you have to go to 'Generators' you should contact Doctor Klenov and a couple of others, Misiulia and Solvador.</text>
+		</string>
+		<string id="oso_son_dialog_16">
+			<text>You have a chance to fix some of your mistakes by joining with the scientists who are in Cordon. There is a new enemy in the area that is insidious and powerful with which Lebedev allies. They use unique technologies that give them a serious advantage over us and we must deal with them to have a chance to survive. Finally your gerbal brain begins to wake up Scar.</text>
+		</string>
+		<string id="oso_son_dialog2_0">
+			<text>How's it going and who are you?</text>
+		</string>
+		<string id="oso_son_dialog2_2">
+			<text>No, not true. Can you speak normally and not as an alien?</text>
+		</string>
+		<string id="oso_son_dialog2_4">
+			<text>It is clear that nothing is clear! The job about Arrow I have done. Psi protection has been disabled. By the way what is 'C-Consciousness'?</text>
+		</string>
+		<string id="oso_son_dialog2_6">
+			<text>'Lobotomization', that's your discovery?</text>
+		</string>
+		<string id="oso_son_dialog2_8">
+			<text>Can you explain what happened to Strelok and me when I turned off the Psi-protection? Let me explain: on the approach to Chernobyl nuclear power plant there where a lot of teleports. Immediately after a successful teleport started an emission, and then I couldn't remember anything. After a short nap, 2 freak'n years, I was found. I wonder why I wasn't found sooner. How did I survive? Can you explain that damn science?</text>
+		</string>
+		<string id="oso_son_dialog2_10">
+			<text>Oh that dog Lebedev. He told me about his daughter. He let it slip about a hiding place with Absolutes. And that he had bitterness for some of the employees that he worked with. What happened next is interesting.</text>
+		</string>
+		<string id="oso_son_dialog2_12">
+			<text>Well I was between life and death for a long time because of you. Experiences with these emmissons could have killed me. I must admit that if the scientists did not save me I would not have survived the second emission in the Marshes, although thereafter they used me for their purposes. What you call that, the Scorcher greeting?</text>
+		</string>
+		<string id="oso_son_dialog2_14">
+			<text>I know a member of the 'C-Consciousness' who came to Cordon with colleagues. If you have to go to 'Generators' you should contact Doctor, Klenov and a couple of others, Misyul and Solavador.</text>
+		</string>
+		<string id="oso_son_dialog2_16">
+			<text>You have a chance to fix some of your mistakes by joining with the scientists who are in Cordon. There is a new enemy in the area that is insidious and powerful, which Lebedev allies with. They use unique technologies that give them a serious advantage over us and we must deal with them to have a chance to survive. Finally my gerbal brain begins to wake up.</text>
+		</string>
+		<string id="oso_son_dialog3_0">
+			<text>How's it going and who are you?</text>
+		</string>
+		<string id="oso_son_dialog3_2">
+			<text>No, not true. Can you speak normally and not as an alien?</text>
+		</string>
+		<string id="oso_son_dialog3_4">
+			<text>It is clear that nothing is clear! The job about Arrow I have done. Psi protection has been disabled. By the way what is 'C-Consciousness'?</text>
+		</string>
+		<string id="oso_son_dialog3_6">
+			<text>'Lobotomization', that's your discovery?</text>
+		</string>
+		<string id="oso_son_dialog3_8">
+			<text>Can you explain what happened to Strelok and me when I turned off the Psi-protection? Let me explain: on the approach to Chernobyl nuclear power plant there where a lot of teleports. Immediately after a successful teleport started an emission, and then I couldn't remember anything. After a short nap, 2 freak'n years, I was found. I wonder why I wasn't found sooner. How did I survive? Can you explain that damn science?</text>
+		</string>
+		<string id="oso_son_dialog3_10">
+			<text>Oh that dog Lebedev. He told me about his daughter. He let it slip about a hiding place with Absolutes. And that he had bitterness for some of the employees that he worked with. What happened next is interesting.</text>
+		</string>
+		<string id="oso_son_dialog3_12">
+			<text>Well I was between life and death for a long time because of you. Experiences with these emmissons could have killed me. I must admit that if the scientists did not save me I would not have survived the second emission in the Marshes, although thereafter they used me for their purposes. What you call that, the Scorcher greeting?</text>
+		</string>
+		<string id="oso_son_dialog3_14">
+			<text>I know a member of the 'C-Consciousness' who came to Cordon with colleagues. If you have to go to 'Generators' you should contact Doctor, Klenov and a couple of others, Misyul and Solavador.</text>
+		</string>
+		<string id="oso_son_dialog3_16">
+			<text>You have a chance to fix some of your mistakes by joining with the scientists who are in Cordon. There is a new enemy in the area that is insidious and powerful, which Lebedev allies with. They use unique technologies that give them a serious advantage over us and we must deal with them to have a chance to survive. Finally my gerbal brain begins to wake up.</text>
+		</string>
+		<string id="oso_son_dialog4_0">
+			<text>How's it going and who are you?</text>
+		</string>
+		<string id="oso_son_dialog4_2">
+			<text>No, not true. Can you speak normally and not as an alien?</text>
+		</string>
+		<string id="oso_son_dialog4_4">
+			<text>It is clear that nothing is clear! The job about Arrow I have done. Psi protection has been disabled. By the way what is 'C-Consciousness'?</text>
+		</string>
+		<string id="oso_son_dialog4_6">
+			<text>'Lobotomization', that's your discovery?</text>
+		</string>
+		<string id="oso_son_dialog4_8">
+			<text>Can you explain what happened to Strelok and me when I turned off the Psi-protection? Let me explain: on the approach to Chernobyl nuclear power plant there where a lot of teleports. Immediately after a successful teleport started an emission, and then I couldn't remember anything. After a short nap, 2 freak'n years, I was found. I wonder why I wasn't found sooner. How did I survive? Can you explain that damn science?</text>
+		</string>
+		<string id="oso_son_dialog4_10">
+			<text>Oh that dog Lebedev. He told me about his daughter. He let it slip about a hiding place with Absolutes. And that he had bitterness for some of the employees that he worked with. What happened next is interesting.</text>
+		</string>
+		<string id="oso_son_dialog4_12">
+			<text>Well I was between life and death for a long time because of you. Experiences with these emmissons could have killed me. I must admit that if the scientists did not save me I would not have survived the second emission in the Marshes, although thereafter they used me for their purposes. What you call that, the Scorcher greeting?</text>
+		</string>
+		<string id="oso_son_dialog4_14">
+			<text>I know a member of the 'C-Consciousness' who came to Cordon with colleagues. If you have to go to 'Generators' you should contact Doctor, Klenov and a couple of others, Misyul and Solavador.</text>
+		</string>
+		<string id="oso_son_dialog4_16">
+			<text>You have a chance to fix some of your mistakes by joining with the scientists who are in Cordon. There is a new enemy in the area that is insidious and powerful, which Lebedev allies with. They use unique technologies that give them a serious advantage over us and we must deal with them to have a chance to survive. Finally my gerbal brain begins to wake up.</text>
+		</string>
+		<string id="voron_nozh_dialog_0">
+			<text>Kannst du mir ein Messer verkaufen?</text>
+		</string>
+		<string id="voron_nozh_dialog_1">
+			<text>Nц!! Aber gegen 10 buddeln Vodka wьrde ich es tauschen.Ich habe da irgendwie ne Wette verloren.. ist ne andere Geschichte. Interessiert ?</text>
+		</string>
+		<string id="voron_nozh_dialog_2">
+			<text>Sicher, Okay.. Nur Zehn Wodka-Flaschen? Das wird kein Problem sein. Nur ьbertreib es nicht.</text>
+		</string>
+		<string id="voron_nozh_ok_dialog_0">
+			<text>Hier sind deine Buddeln.</text>
+		</string>
+		<string id="voron_nozh_ok_dialog_1">
+			<text>Perfekt! Du hast mich gerettet. Hier. Aber vorsicht beim Rasieren. Dein Gesicht hat schon eine Narbe. Ha-Ha sorry ...</text>
+		</string>
+		<string id="voron_nozh_ok_dialog_2">
+			<text>...</text>
+		</string>
+		<string id="klen_oso_dialog_0">
+			<text>You want to ask me something?</text>
+		</string>
+		<string id="klen_oso_dialog_1">
+			<text>Exactly. I had a very realistic dream. In this dream I healed someone from the 'C-Consciousness' who sounded like Darth Vader. Does that mean anything to you?</text>
+		</string>
+		<string id="klen_oso_dialog_2">
+			<text>Actually I think I know who you mean. There was a researcher who worked in the Sarcophagus at the Chernobyl plant in 1986. But the plant had played a trick on him. To thank him it gave him cancer of the tongue. Hospital #6 in Moscow had to cut two thirds of his tongue off. Later he was grafted with seven voice modules to enable him to be understood. Now he sounds a little like Stephen Hawking.</text>
+		</string>
+		<string id="klen_oso_dialog_3">
+			<text>So that's it. I was told that Strelok wounded him and destroyed one of his modules. Maybe that is why he sounds distorted. Besides CNPP and Generators do you have any other bases, especially in the north?</text>
+		</string>
+		<string id="klen_oso_dialog_4">
+			<text>There was a mobile laboratory in Jupiter. The underground Laboratory X-8. In one of them was a 'Scorcher' that was conceived to lobotomize brains psychically.</text>
+		</string>
+		<string id="klen_oso_dialog_5">
+			<text>Wait until to see, there were five or so mini-globe-antennas in a room in Lab X-8, according to Kostya who was a chemist. It was he who changed the door codes to Labs X-8 and X-18.</text>
+		</string>
+		<string id="klen_oso_dialog_6">
+			<text>Ah! BS, you sure? To change the coding of doors is not within the skills of a chemist such as Kostya. Probably higher management or a programmer elite with appropriate permissions.</text>
+		</string>
+		<string id="klen_oso_dialog_7">
+			<text>I didn't see it, I just heard about it. Go talk to the souls of the bones. I think Noodles had something to do with it.  And maybe some Absolutes where involved.</text>
+		</string>
+		<string id="klen_oso_dialog_8">
+			<text>If I were in your shoes I wouldn't do anything. Let Noodles think that you don't know anything. With Solvador it will be best to watch him more carefully. If we learn anything, we will submit it.</text>
+		</string>
+		<string id="klen_oso_dialog_9">
+			<text>Оkay!</text>
+		</string>
+	</string_table>

@@ -1,0 +1,429 @@
+	<string id="art_box_special">
+		<text>Container für 3 Artefakte</text>
+	</string>
+
+	<string id="art_box_special_s">
+		<text>Container für 3 Artefakte</text>
+	</string>
+
+	<string id="art_box_1special">
+		<text>Container für 1 Artefakt</text>
+	</string>
+
+	<string id="art_box_1special_s">
+		<text>Container für 1 Artefakt</text>
+	</string>
+
+	<string id="art_box_8special">
+		<text>Container für 8 Artefakte</text>
+	</string>
+
+	<string id="art_box_8special_s">
+		<text>Container für 8 Artefakte</text>
+	</string>
+
+	<string id="enc_arc_art_box_basic">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 17 Einheiten%c[default].\n \n Mittlerer Schutzcontainer für Artefakte. Geignet für den Transport von radioaktiven und gefährlichen Artefakten.</text>
+	</string>
+
+	<string id="enc_arc_art_box_8basic">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 17 Einheiten%c[default].\n \n Leichter Schutzcontainer für Artefakte. Geignet für den Transport von schwach radioaktiven Artefakten.</text>
+	</string>
+
+	<string id="enc_arc_art_1box_basic">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 17 Einheiten%c[default].\n \n Spezial-Schutzcontainer für Artefakte. Geignet für den Transport von besonders gefährlichen oder stark radioaktiven Artefakten.</text>
+	</string>
+
+	<string id="enc_kontrolers_diarys">
+		<text>Die Zone. Augenzeugen der Ereignisse.</text>
+	</string>
+
+	<string id="arc_diary_1_name">
+		<text>Tagebuch der Versuchsperson</text>
+	</string>
+
+	<string id="arc_diary_1_descr">
+		<text>Verschlüsselt</text>
+	</string>
+
+	<string id="arc_diary_2_name">
+		<text>Notizen des Wissenschaftlers</text>
+	</string>
+
+	<string id="arc_diary_2_descr">
+		<text>Verschlüsselt</text>
+	</string>
+
+	<string id="arc_diary_3_name">
+		<text>Bündel Briefe. Streng Geheim!</text>
+	</string>
+
+	<string id="arc_diary_3_descr">
+		<text>Verschlüsselt</text>
+	</string>
+
+	<string id="arc_diary_4_name">
+		<text>Aufzeichnungen eines Stalkers</text>
+	</string>
+
+	<string id="arc_diary_4_descr">
+		<text>Verschlüsselt</text>
+	</string>
+
+	<string id="arc_diary_5_name">
+		<text>Bericht einer jungen Fachkraft</text>
+	</string>
+
+	<string id="arc_diary_5_descr">
+		<text>Verschlüsselt</text>
+	</string>
+
+	<string id="arc_diary_6_name">
+		<text>Tagebuch eines Stalkers</text>
+	</string>
+
+	<string id="arc_diary_6_descr">
+		<text>Verschlüsselt</text>
+	</string>
+
+	<string id="arc_diary_7_name">
+		<text>Tonaufzeichnungen des Zombies</text>
+	</string>
+
+	<string id="arc_diary_7_descr">
+		<text>Verschlüsselt</text>
+	</string>
+
+	<string id="arc_diary_8_name">
+		<text>Gefundene Aufzeichnungen</text>
+	</string>
+
+	<string id="arc_diary_8_descr">
+		<text>Verschlüsselt</text>
+	</string>
+
+	<string id="arc_diary_9_name">
+		<text>Tagebuch eines Stalkers</text>
+	</string>
+
+	<string id="arc_diary_9_descr">
+		<text>Verschlüsselt</text>
+	</string>
+
+	<string id="arc_diary_10_name">
+		<text>Tagebuch des Unbekannten</text>
+	</string>
+
+	<string id="arc_diary_10_descr">
+		<text>Verschlüsselt</text>
+	</string>
+
+	<string id="arc_diary_11_name">
+		<text>Experiment-Tagebuch</text>
+	</string>
+
+	<string id="arc_diary_11_descr">
+		<text>Verschlüsselt</text>
+	</string>
+
+	<string id="arc_diary_12_name">
+		<text>Aufzeichnungen eines erfahrenen Stalkers</text>
+	</string>
+
+	<string id="arc_diary_12_descr">
+		<text>Verschlüsselt</text>
+	</string>
+
+	<string id="arc_diary_13_name">
+		<text>Aufzeichnungen des Soldaten</text>
+	</string>
+
+	<string id="arc_diary_13_descr">
+		<text>Verschlüsselt</text>
+	</string>
+
+	<string id="arc_diary_14_name">
+		<text>Aufzeichnungen über Experiment</text>
+	</string>
+
+	<string id="arc_diary_14_descr">
+		<text>Verschlüsselt</text>
+	</string>
+
+	<string id="arc_diary_15_name">
+		<text>Versuchsbericht</text>
+	</string>
+
+	<string id="arc_diary_15_descr">
+		<text>Verschlüsselt</text>
+	</string>
+
+	<string id="arc_diary_16_name">
+		<text>Tagebuch von einem "Wächter"</text>
+	</string>
+
+	<string id="arc_diary_16_descr">
+		<text>Verschlüsselt</text>
+	</string>
+
+	<string id="arc_diary_17_name">
+		<text>Aufzeichnungen über unglaubliche Dinge</text>
+	</string>
+
+	<string id="arc_diary_17_descr">
+		<text>Aufzeichnungen über seltsame Sachen, die in der Zone vorgingen.</text>
+	</string>
+
+	<string id="kontroler_diary_1_part_1">
+		<text>29. Juni 198..(Jahr gelöscht)\n \n Heute brachten sie uns hierher. Gerüchten zufolge sollten wir unterirdisch gehalten werden... Dreckskerle! Hatte ich doch lieber die härteste Strafe auf mich genommen... Doch uns hat sowieso niemand gefragt – wir mussten alle nach ihrer Pfeife tanzen. Und dann tauchten diese "plötzlich enthüllten" neuen Akten auf, sowie neue Paragraphen im Gesetzbuch über die politischen Häftlinge. Und als dieser Glatzkopf anfing seine gefühlsduseligen Reden uber "freiwillige Hilfe fur die Wissenschaft" zu führen... Alles verfluchte Scheißkerle! Niemand hatte je eine Wahl – entweder Erschießung oder hierher, ich weiß nicht einmal wo genau wir hier sind.... Na schön, schauen wir mal, was das hier fur eine Wissenschaft ist.
+
+		\n \n12. Juli\n \nSieht aus, als hätte ich mich geirrt!! Sie gaben uns nicht nur zu essen, sondern auch gesonderte Zellen! In Wahrheit werden wir rund um die Uhr beobachtet... Dafür gewähren sie uns alle möglichen Wünsche, mir wurden z.B., nachdem ich darum gebeten hatte, augenblicklich Bleistift und Papier gebracht, dem Nikolsky haben sie gestattet Lieder seiner Lieblingsrockgruppe zu hören! Was für ein Idiot er doch ist, he-he. Wären nicht die Aufnahmen, hätte man ihn niemals für die Spekulationen drangekriegt. Interessant ist nur warum er, ein Spekulant, mit uns politisch Gefangenen zusammengebracht wurde?
+
+		\n \n1. August\n \nNach fast zwei Monaten beginnt sich langsam alles aufzuklären. Wir sind alle verloren... Diese Hundesöhne stellen hier schlimmere Experimente an, als Hitlers Ärzte in den KZ's. WIE IST SOETWAS NUR IN UNSEREM LAND MÖGLICH!!? Heute haben sie Nikolsky nach ihren sogenannten "Experimenten" zurückgebracht... Sie zerrten ihn vorbei an meiner Zelle, da hob er kurz seinen Kopf, schaute mich an... MEIN GOTT!!! Das waren keine menschlichen Augen! Was haben sie nur mit ihm gemacht? Er hat mich nicht angesehen, nein, er sah DURCH mich hindurch, er sah IN mich!!! Aus seinem Mund floss Blut.... Der Fleck auf dem Fußboden direkt vor meiner Tür...
+
+		\n \n2. August\n \nIch habe fast die ganze Nacht nicht geschlafen... Schreie sind durch die Wände zu hören, sie klingen nicht menschlich... Ich bat den Wachmann um etwas zu trinken, unglaublich, aber mir wurde tatsächlich ein Wodka im Plastikbecher gereicht, ähnlich wie sie es in den Flugzeugen auch tun. Er bat mich, davon niemandem zu erzählen... War selbst nicht in bester Verfassung. In Andenken an dich, Nikolsky. Soll deine Seele zur Ruhe kommen, auch wenn dein Körper noch in der Nachbarzelle schreit.
+
+		\n \n24. August\n \nDas war's. Nun bin ich an der Reihe. Heute haben sie mir den Kern meines Experiments erklärt. Irgendein "Generator" wird mich solange bestrahlen, bis sie eine Veränderung bemerken. Auf die Frage, was passiert, wenn ich vor der Veränderung sterbe, entgegneten sie, dies wäre nur eine "unwesentliche Störung des Experiments". Daraufhin habe ich mich auf einen von ihnen gestürzt, wollte ihm die Schlüssel abnehmen... Wie mir der Schädel brummt... Der Wachmann, der mir den Wodka gab, brachte mir einen Verband – um die Wunde nach dem Knüppelschlag zu stillen. Den Verband nahm er mir wieder ab, damit es niemand bei mir findet. Trotzdem ist er ein guter Kerl. Wolodja ist sein Name.
+	</text>
+	</string>
+
+	<string id="kontroler_diary_1_part_2">
+		<text>10. September\n \nDas Schreiben fällt mir immer schwerer. Meine Finger lassen sich kaum noch biegen... Sind fest wie Stahl – vor drei Tagen habe ich die Schüssel mit dem Essen zerbrochen. Und anscheinend hab ich den Aluminiumlöffel zerbissen – kann mich nicht mehr erinnern... Morgen dann wieder der PSI-Strahler – so heißt das gute Stück im Hauptsaal... Ich bin als einzigster übrig. Nikolsky hat noch Glück gehabt – er schrie nur zwei Tage vor seinem Tod. Die meisten meiner anderen Genossen quälten sich erheblich länger... Ich bin der Letzte... Sie sagen – ich bin nicht so wie sie, ich bin besonders...
+		
+		\n \n13. September\n \nNicht länger ein Mensch. Besser, stärker. Ich bin gross. Ratte. Sie gaben mir eine. Ich mag Ratte nicht. Ratten. Ich mag sie nicht. Wollte zubeissen. Hab ich nicht zugelassen. Zwang sie an der Decke und Wänden zu laufen. Ohne die Hände zu benutzen. In ihrem Kopf dachte ich ans Laufen und sie lief, wohin ich wollte. Dann hörte ich auf zu denken und sie fiel von der Decke herab. Ich kam näher und dachte, sie soll sich nicht bewegen. Bin auf sie getreten. Mag keine Ratten. Sind dreckig. Sie standen und schauten zu. Zelle klein. Aber ich bin gross.
+		
+		\n \n1. Oktober\n \nRatten. Sie geben mir viele Ratten. Ich zwinge sie alle zu laufen und zu fallen. Und noch einen Hund. Ist auch wie Ratte. Ich denke für ihn und sehe, was er sieht. Mag Ratten nicht. Mag Hund. Ich dachte für Hund Ratten zu essen. Und Ratten sich nicht zu bewegen. Und der Hund ass. Lecker... Schade, dass ich kein Hund bin. Ich bin gross.
+		
+		\n \n13 Oktober\n \n Sie wissen nichts mehr über mich. Sagen, sie haben alles studiert. Sie sind naiv. Ich war in ihren Köpfen, habe gesehen. Sie haben mich nicht gesehen. Wolodja... Einer von ihnen. Ist schwächer. Er hat Mitleid. Hat mir Gutes getan. Ich nehme ihn zuerst. Werde für ihn denken, Zelle zu öffnen. Dann denke ich für ihn, er soll den Zweiten töten, der schwieg. Dieser ist stark, schwer in seinen Kopf zu sehen. Alle anderen schwächer. Nicht wie Wolodja, aber schwächer. Die, die Aufzeichnungen gemacht haben und studierten – schwach. Sind Anführer. Aber schwach. Ich nehme sie alle. Sie sind wie Ratten und wie Hund.
+		
+		\n \n20. Oktober\n \n Im Wald ist es besser. Hier gibt es Pilze. Ich erinnere mich, habe irgendwann Pilze gegessen. Und sie erinnern sich auch. Aber sie sagen nichts mehr. Sie brüllen und weinen. Aber Wolodja nicht mehr. Er ist keine Ratte. Ist besser. Ich war hungrig. Lecker... Sie denken, ich bin gross. Ja. So ist es. ICH BIN GROSS.
+	</text>
+	</string>
+
+	<string id="kontroler_diary_2_part_1">
+		<text>29. Januar\n \nHeute brachte der Briefträger einen Umschlag. Darauf befand sich ein Stempel des Kiewer Forschungs-Instituts für Neurochirurgie. Als ich es öffnete, fand ich die Antwort auf meine Anfrage, ich zitiere: Sehr geehrter Anton Anatoljewitsch. Wir haben ihre Dissertation gelesen, ebenso wie eine Reihe Ihrer Artikel über die Entwicklung der Wissenschaft im Bereich der Neurochirurgie, insbesondere den Artikel über die "Wirkung der PSI-Strahlung auf den menschlichen Organismus und dessen Möglichkeiten". Wir möchten Ihnen auf dem schnellsten Wege mitteilen, dass in einem von unseren Labors neue, qualifizierte Fachkräfte gesucht werden, und wir würden uns darüber freuen Sie in unseren Reihen ... (nicht mehr lesbar...)
+		
+		\n \n16. Februar\n \nSo, endlich sind wir im Labor. Seltsam, aber ich kann mich nicht mehr an die Fahrt hierher erinnern. Im Grunde war ich vor der Fahrt ausgeschlafen, doch als wir in den Bus stiegen und außerhalb des Institut-Geländes waren, wurde ich sehr schläfrig und schlief schließlich ganz ein. Das Letzte, woran ich mich erinnern kann, ist das mein Gesprächspartner, ich glaube Michael, mir über seinen Vortrag auf der Berliner Wissenschaftskonferenz berichtete. Interessant, wie lange sind wir gefahren? Eine Stunde? Zwei? Innerhalb des Laboratoriums habe ich noch keine Uhr erblicken können. Ich habe komplett mein Zeitgefühl verloren. Ist es jetzt Tag oder Nacht? Losgefahren sind wir um 6 Uhr morgens. Ich denke, wir sind nicht weit vom Institut entfernt, wahrscheinlich irgendwo am Rande von Kiew. Vielleicht in einem benachbarten Städtchen. Bald wird unsere Gruppe erste Instruktionen erhalten und wir können unser Labor begutachten.
+		
+		\n \n17. Februar\n \nGestern bekamen wir im Hörsaal Instruktionen zur Arbeitssicherheit. Wie es einen ermüdet... man kommt sich vor wie ein Student bei der Vorlesung. Fasst dies nicht an, lasst die Finger von dem. Als ob sich das bis heute noch niemand gemerkt hat. Gerade eben wurde bekannt gegeben, dass das Treffen der Neuankömmlinge im Hörsaal stattfindet. Aller Wahrscheinlichkeit nach, werden dort Dias gezeigt und dann eine Führung gemacht.
+		
+		\n \n18. Februar\n \nDie Führung war äusserst beeindruckend! Das Labor ist riesig und enthält modernste Ausrüstung, anscheinend ist noch jemand anders an der PSI-Strahlung unserer Gelehrten interessiert. Aber etwas hat uns im Labor hellhörig gemacht. Unabhängig davon, dass es in einem Labor reinlich und sauber sein muss, sah hier alles ein bisschen zu geleckt aus. Es macht den Anschein, dass vor unserer Ankunft Putzfrauen des Hotels "Metropol" angekarrt wurden und das sie, wie üblich, alles bis in die kleinste Ecke sauber gemacht haben.
+	</text>
+	</string>
+
+	<string id="kontroler_diary_2_part_2">
+		<text>23. Februar\n \nWir dachten, wenigstens heute würde man uns gestatten hinauszugehen und etwas frische Luft zu schnappen, aber weit gefehlt. Wie ich herausfinden konnte, werden wir von einem Zug Soldaten bewacht. Obwohl ich nicht begreifen kann, wieso man uns überhaupt bewacht. Und vor wem? Ich dachte, wenigstens an einem solchen Feiertag, der jedem Militär nah geht, werden uns die Soldaten gestatten für ein paar Minütchen hinauszugehen, doch sie waren gleichgültig.
+		
+		\n \n4. März\n \nHeute ist mein erster Geburtstag, den ich nicht wie gewohnt zuhause verbringen werde, sondern im Kreise meiner neuen Familie. Die Kollegen haben mir bereits am Morgen gratuliert. Auch wenn sie mir keine Geschenke machen konnten, aber das ist ja verständlich, wie sollen sie schon in völliger Isolation von der Außenwelt etwas kaufen? Ich weiss immer noch nicht, was hier meine Pflichten sein werden. Von unserem Vorgesetzten Gubarew Witali Semenowitsch habe ich erfahren, dass schon bald die ersten Leute gebracht werden, die sich freiwillig den Diensten der Wissenschaft zur Verfügung gestellt haben.
+		
+		\n \n10. März\n \nHeute haben sie die ersten Freiwilligen gebracht. Mein Gott, das waren ja gewöhnliche Gefangene. Es fällt mir schwer, sie als Freiwillige zu bezeichnen. Welch einen Freiwilligen bringt man schon in Ketten?
+		
+		\n \n16. April\n \nEs ist bereits ein Monat vergangen, nachdem wir die Arbeit mit den "Freiwilligen" begonnen haben. Die Aufgabe unserer Abteilung liegt darin, die Ausrüstung vorzubereiten. Nach der Ankunft der Häftlinge wurde uns der Zugang zu einem Grossteil der Laboratorien untersagt. Wir treffen die Gefangenen nicht einmal. Schön wenigstens, dass die Versorgung mit allem Nötigen gewährleistet ist.
+		
+		\n \n19. April\n \nMein Gott, wo bin ich hier nur reingeraten? Verflucht sei der Tag, an dem ich der Verlockung eines möglichen Karrieresprungs gefolgt und hierher gekommen bin. Heute ist etwas im Labor vorgefallen. Wir wurden auf einer Etage eingesperrt und zwei Soldaten mit Maschinengewehren wurden zu unserem Schutz abkommandiert um den Anschein zu erwecken, wir würden beschützt werden. Wir haben nichts gehört und das hat uns noch mehr erschreckt. Wir bemühten uns, wie auch zuvor, unsere Arbeit zu erledigen um den Anschein zu erwecken, dass nichts geschehen wäre, doch vergeblich. Uns war klar, dass unten etwas passiert. Es wäre besser gewesen, ich hätte die Wahrheit nicht erfahren! Selbst in Objekten der höchsten Geheimhaltung verbreiten sich schnell Gerüchte. Eines der Versuchsobjekte (Ich kann sie nicht länger Freiwillige nennen! Wem lüge ich etwas vor? Mir selbst?) war nicht länger steuerbar und nahm entweder eine Geisel oder fing an einige Mitarbeiter zu kontrollieren. Wie sich zeigt, werden wir nicht nur von Soldaten bewacht, sondern... (Die Seite ist ausgerissen...)
+	</text>
+	</string>
+
+	<string id="kontroler_diary_2_part_3">
+		<text>16. Mai\n \nEs scheint, als würden all meine Briefe und Bitten, mich von meinem Posten versetzen zu lassen, gar nicht wahrgenommen werden oder sie verlassen das Laboratorium nicht. Ich kann hier nicht länger arbeiten. In mir kommen immer öfter Gedanken über einen Anschlag oder Sabotage hoch. Ich bin zu allem bereit, nur um diesen Ort so schnell wie möglich wieder verlassen zu können. Ich habe mich sonst nie vor geschlossenen Räumen gefürchtet, aber ich fühle, dass mit jedem Tag eine ähnliche Phobie in mir wächst. Als ich meine Arbeiten über die PSI-Strahlung verfasste, hatte ich einen ganz anderen Einfluss im Sinn, der sich mittels geringster Dosis von Strahlung auf einen bestimmten Bereich des Gehirns ergab. Doch diese Schlächter setzen die gesamte Hirnregion einer solch grossen Bestrahlung aus, dass das kein normaler Mensch aushalten kann. Ich hörte, dass derjenige, der die zwei Wissenschaftler kontrollierte, bereits der zweite Mutant war. Erst der zweite. Der erste ist 3 Minuten nach Beginn der Mutation im Gehirn gestorben. Sein Kopf ist wie eine Walnuß geplatzt. Begreifen sie wirklich nicht, was sie da tun? Diese Häftlinge, sie waren doch schließlich auch Menschen... Was passiert erst, wenn ihnen diese armen Schlucker ausgehen? Wen bringen sie dann hierher? Obdachlose? Und weiter? Nein, ich muss um jeden Preis hier rauskommen und der ganzen Welt die Wahrheit berichten!
+		
+		\n \n21. Mai\n \nGott, ich werde noch ganz verrückt! Mir kommt es vor, als würde jemand in meinem Kopf festsitzen! Ich begreife nichts mehr. Manchmal bekomme ich heftige Anfälle von Kopfschmerzen, dann wechseln sich diese mit Lärm ab. Bisweilen höre ich auch irgendwelches Piepsen! Es hält für einige Sekunden an und dann gehen wieder die Kopfschmerzattacken los! Haben die komplett den Verstand verloren? Haben sie etwa wirklich begonnen, die eigenen Angestellten der Strahlung auszusetzen? Welche Dosen wenden sie an? Ich habe noch nie von solchen Nebenwirkungen gehört!
+		
+		\n \n29. Mai \n \nVerdammt! Verdammt! Verdammt! Zwei Tage halten sie uns schon hinter Schloss und Riegel. Ich höre, dass draussen jemand umherstreift, doch niemand antwortet auf unsere Schreie. Bald gehen uns unsere Essensvorräte aus. Gestern hätte jedes Stockwerk frische Lebensmittel erhalten sollen. Einige Kollegen haben erste Panikanfälle, wir versuchen dann sie zu beruhigen, aber es gelingt uns immer weniger. Die Anfälle brechen fast jedes Mal neu aus, wenn wir um Hilfe rufen (testen sie etwa unsere Reflexe aus, oder was?).
+		
+		\n \n30. Mai\n \n Das Essen ist ausgegangen, uns bleibt nicht mehr als 2 Liter Wasser... der am meisten entfernte Raum, den wir zu einer Toilette umfunktioniert haben, gibt auf der gesamten Etage einen solch penetranten Gestank von sich, das es schwer fällt zu atmen... Wir haben versucht die eiserne Tür aufzuschlagen. Haben dazu einen massiven Tisch zerbrochen, doch wir haben die Tür nicht aufgekriegt... Draussen können wir niemanden mehr herumschleichen hören, und das ist noch beängstigender. Wir wissen nicht, wann sie das Licht abstellen, das alles mach uns immer mehr Angst...
+	</text>
+	</string>
+
+	<string id="kontroler_diary_2_part_4">
+		<text>31. Mai\n \nDer Geburtstag eines unserer Kollegen. Als wir hineingingen, um ihm zu gratulieren, baumelte er an einem Strick. Wir versuchten noch ihn zu reanimieren, doch er hing schon zu lange und unsere Bemühungen, sein Leben zu retten, waren vergeblich. Nach einer Weile vermissten wir auch Michailow, der zur Toilette gegangen war. Als wir nachschauten, fanden wir ihn auf dem Boden liegend. Aller Wahrscheinlichkeit nach ein Herzinfarkt. Beide Kollegen wurden im selben Raum zusammengelegt.
+		
+		\n \nDatum unbekannt\n \nIm Labor wurde das Licht abgeschaltet, auch die elektronische Uhr, die uns Datum und Zeit anzeigte, leuchtet nicht mehr. Ich schreibe blind. Kann keine klaren Gedanken fassen. Wir haben damit abgeschlossen, dass wir alle dem Tod geweiht sind und uns hier niemand suchen wird. Ich habe nun endlich begriffen, wieso es während der Führung so sauber war und warum das Labor soviele unbesetzte Stellen hatte. Das lag nicht an der Schaffung eines neuen Flügels oder darin, dass das ein noch junges Projekt war. Es lag daran, dass wir von vornherein Todeskandidaten waren. Genau wie auch die vorherige Gruppe von Wissenschaftlern. Sie sind ebenfalls bei den Experimenten gescheitert und alle umgekommen. Es haben nur diejenigen überlebt, die das Experiment leiteten. Diejenigen, die immer aus allen möglichen Situationen sauber herauskommen... Mein Großvater nannte solche nur Stabsratten! Und er hatte verdammt nochmal recht. Nur wir sind hier die Ratten... Versuchsratten... Menschen, die aus freien Stücken zustimmen, sich für die Wissenschaft zu opfern...
+	</text>
+	</string>
+
+	<string id="kontroler_diary_3_part_1">
+		<text>Beschlagnahmte Briefe.
+	\n \nSchütze Petrenko\n \nGeliebte Mutter! Ich schreibe dir nun nach 2 Monaten Dienstzeit! Ich bedauere dabei kein bisschen, mich für den Kontrakt in der "Zone" gemeldet zu haben. Unsere Kompanie wurde in der Forschungseinrichtung namens "Agroprom" untergebracht. Während der Dienstzeit habe ich bereits meine ersten Befehle erhalten, gestern habe ich meinen nächtlichen Dienst begonnen. Der Dienst selbst ist hier nicht besonders staubig, Schikanen sind nicht vorhanden, so wie der Oberleutnant Chadschinow hier für eiserne Disziplin sorgt. Mach dir keine Sorgen wegen der Strahlung, 86 wurde die Einrichtung komplett gesäubert und von radioaktiven Partikeln dekontaminiert. Die Strahlung auf dem Gelände überschreitet nicht die Norm, aber außerhalb beträgt sie etwa 200-300 µSv/h. Richte Peter aus, dass ich ihm, sobald der Kontrakt endet, irgendein Souvenir mitbringe. Hier gibt es einige interessante Sachen, die man Artefakte nennt. Es gibt welche, die radioaktiv sind und solche, die dich selbst während des Aufenthalts in der kontaminierten Zone vor Strahlung schützen können. Einige unserer Jungs haben sogar versucht, sich selbst einige dieser Artefakte zu erschaffen. Dazu muss man irgendwelche Zutaten auf eine bestimmte Stelle werfen, Anomalie genannt, nach einiger Zeit wird daraus dann ein Artefakt mit einzigartigen Eigenschaften. Mein Zettel ist schon fast voll, ich weiss nicht, was ich dir sonst noch schreiben soll. Mach dir keine Sorgen um mich, Mama! Noch 10 Monate und ich komme nach Hause! Ich verspreche dir alle 2 Monate zu schreiben. Öfter geht es nicht. Außerdem ist das schon der zweite Brief, den ich an dich schicke, und du antwortest nicht. Dein Sascha.\n \nGrund: unabsichtlicher Versuch der Verbreitung von militärischen Geheimnissen, Propaganda über die Zone.
+	</text>
+	</string>
+
+	<string id="kontroler_diary_3_part_2">
+		<text>Unteroffizier Tichonyk\n \nGrüß dich, Kostik! Seltsam, das du meinen Brief erst so spät erhalten hast. Ist wahrscheinlich bei der Post verloren gegangen und konnte 'ne Zeit lang nicht gefunden werden. Ich freue mich, dass dir das Foto gefallen hat, das ich dir geschickt habe. Letztes Mal hab ich doch tatsächlich vergessen zu erwähnen, wer da mit auf dem Foto ist. Wenn du von links nach rechts schaust, steht da am Anfang Petja Brovun, dann kommt Saschka Petrenko (er ist erst seit kurzem bei uns, nur 3 Monate), rechts stehe ich, wie du sicher erraten hast und vor uns sitzt Vitalik Dmitriev. Er wurde gestern ins Lazarett gebracht. Er, Leutnant Subko und Unteroffizier Netschajew waren gerade auf nächtlicher Streife rund um das Institut-Territorium. Und dann musste es ja passieren, ein Blutsauger aus dem Sumpf fiel sie an. Der Mutant hat sich als ziemlich flink erwiesen, Vitaliks Aussage zufolge. Kam nachts aus dem Gebüsch gehuscht, packte sich Netschajew und verschwand ebenso schnell wieder zurück. Ist nach kurzer Zeit wieder herausgesprungen und hat sich an Subko festgekrallt. Vitalik Dmitriev ist zwar nicht grade einer von der feigen Sorte, aber sowas hat er auch noch nicht gesehen, wie direkt vor seinen Augen aus einem lebenden Menschen die Seele ausgesaugt wird. Hat sich tierisch erschrocken. Ist wieder zurück gerannt, hat unterwegs sogar den Helm verloren. Der Blutsauger hat ihn aber doch noch in der Nähe des Tores eingeholt. Oh Mann, wäre nicht der Graue Anton, ich weiß nicht, was mit Vitalik passiert wäre. Aber unser Scharfschütze oben im Turm trifft sogar einem Eichhörnchen ins Auge, genau wie dem Blutsauger, ja selbst einem Tushkano würde er die Nase abschiessen, er verfehlt nie sein Ziel. Ich weiss selbst nicht wie es ihm gelungen ist, aber er hat den Blutsauger erledigt, ohne den Kameraden zu treffen! So eine Geschichte war das. Der ist wohl im Hemd geboren worden, nicht anders zu erklären! Morgen schicken sie uns neben Kordon auf Patrouille, die Stalker sind dort ziemlich frech geworden, haben im Stacheldraht Löcher geschnitten und gehen dort ein und aus wie es ihnen passt. Ich erwarte deine Antwort, Kumpel! Und entschuldige, das ich dir solche Neuigkeiten erzähle, aber in unserer Zone gibt es weder Politik, noch Wirtschaft. Also muss ich solche, ja fast schon Krimi-Nachrichten schreiben. Witjok\n \nP.S. Ich habe immer noch den Verdacht, dass unsere Briefe vor dem Abtransport gelesen werden. Wahrscheinlich ist das auch der Grund, weshalb du nicht alle Briefe erhalten hast.\n \nGrund: unbeabsichtigter Versuch militärische Geheimnisse, sowie vertrauliche Informationen, an eine dritte Person zu verbreiten.
+	</text>
+	</string>
+
+	<string id="kontroler_diary_3_part_3">
+		<text>Schütze Nikodimov\n \nGrüß dich, Brüderchen! Hab deinen Brief bekommen und wollte dir gleich zurückschreiben, solange ich noch Freizeit habe. Bei mir läuft alles gut, ich diene wie alle anderen. Nur die Gesundheit macht mir ein wenig zu schaffen. In letzter Zeit war ich anfällig gegen alle möglichen Virusinfektionen, wie diese Grippe, die hat mir im Winter schon keine Ruhe gelassen. Die Ärzte sagen, das kommt daher, dass ich während meiner letzten Patrouille von einer Anomalie verstrahlt wurde. Aber ich glaube ihnen nicht. Diese Stalker verbringen Stunden in der Nähe der Anomalien, sie fürchten sich nicht mal davor neben ihnen zu schlafen, wenn sie Artefakte kochen, und ich war gerademal eine Stunde neben dem "Vortex". Ich denke, ich habe es deshalb, weil sie mir Ende Herbst etwas gespritzt haben... Es kamen irgendwelche Wissenschaftler, wir nannten sie untereinander nur "Eierköpfe" (die haben einen lustigen Anzug). Diese Jungs suchten sich nach einem unbegreiflichen Prinzip Leute aus, darunter auch mich, und haben an denen Impfungen, wie sie es nannten, durchgeführt. Danach brachten sie uns jeden Tag zum Doktor, um uns zu untersuchen, fragten uns nach unserem Befinden und fütterten uns sogar besser als die anderen. Vor kurzem wurden zwei aus unserer Impf-Gruppe von diesen Eierköpfen mitgenommen. Ich weiss bis heute nicht, wofür. Aber die beiden beklagten sich über häufige Kopf- und Rückenschmerzen. Vielleicht wurden sie zur weiteren Behandlung abtransportiert? Es ist nur seltsam, weil das Lazarett hier am modernsten in der gesamten Zone ausgestattet ist. Wäre denkbar, dass sie uns etwas verheimlichen. Aber ich werde nicht so schnell aufgeben, ich habe einen starken Organismus und werde nicht so krank werden wie sie! Ich verspreche es, Brüderchen! Richte der gesamten Verwandschaft meine Grüße aus. Ich hab es nicht mehr solange, noch 3 Monate und mein Kontrakt geht zuende.\n \nGrund: unabsichtlicher Versuch, ein streng geheimes Experiment und weitere Informationen an dritte Personen zu verbreiten.
+	</text>
+	</string>
+
+	<string id="kontroler_diary_3_part_4">
+		<text>Schütze Zibenko\n \nHallo Mama! Ich schreibe dir gleich nachdem ich von einer Patrouille zurückgekehrt bin. Ich habe hier gerademal einen Monat gedient, aber ich bereue meine Entscheidung schon jetzt. Mutter, ich habe heute zum ersten Mal einen Menschen getötet. Auch wenn mich diese Leute, die hier herumlungern, nicht gerade an Menschen erinnern, die ich aus unserem Dorf gewöhnt bin. Sie ähneln mehr seelenlosen Maschinen, die bereit sind für einen funkelnden Gegenstand zu töten. Sie sind wie Elstern, sammeln alles was glänzt und schlecht gesichert ist. Sie sind sogar fähig, sich selbst zu zerfleischen, nur um an einen funkelnden Stein, eine Flasche Wodka, ein Granatenbündel oder ein paar Turnschuhe zu gelangen. Das sind keine Menschen mehr. Sie sind schlimmer als die Wölfe, die ich mit Vater gejagt habe. Aber dieser Stalker... Er hatte mehr Menschlichkeit in sich, als alle unsere Kameraden zusammen. Ging verwundet in Richtung von Kordon, schleifte sein Maschinengewehr nur mit Mühe hinter sich her. Wir dachten zuerst daran ihn passieren zu lassen, aber unser Leutnant gab ihm den Befehl, seine Waffe fallen zu lassen. Hat sich wohl einreden wollen, dass dieser sie ja doch nicht mehr braucht. Doch dieser Typ schaute uns dann plötzlich mit einem schmerzverzerrten Blick an, mit einem Schmerz der ihn innerlich zerriss... er bat uns, ihn zu retten, ihn von diesen Schmerzen zu erlösen. Victor Tichonyk meinte zu mir, er würde wahrscheinlich von Innen heraus mutieren, hätte höllische Schmerzen und es wäre besser, ihn lieber nicht durchzulassen. Aber der hat wahrscheinlich den Unteroffizier gehört, und versuchte sein Gewehr hochzuheben und auf uns zu richten. Der Leutnant gab uns den Befehl, ihn zu erschiessen und ich habe ihn, wie alle anderen Soldaten, ins Visier genommen und abgedrückt. Ich weiss nicht, warum ich geschossen habe. Ringsum gab es nämlich genug Schützen. In wenigen Sekunden haben wir einen menschlichen Körper in einen blutigen Kadaver verwandelt. Einige unserer Neulinge baten den Leutnant darum, sich den Stalker ansehen zu dürfen, aber allein von der Vorstellung, wie er vom Nahen aussieht wurde mir übel. Der Leutnant lächelte nur und sagte, dass alle normalen Menschen beim ersten Mal so reagieren, den Vögeln, die ihn von Nahem sehen wollten, sagte er, sie würden noch in ihrer weiteren Dienstzeit genug Gelegenheiten bekommen, noch schlimmeres zu sehen. Danach wollte ich alles hinschmeissen und wieder in unser Dorf zurückkehren. Ich vermisse wahnsinnig deine Piroschki, mit frischer Milch von den Kühen am frühen Morgen. Aber du weißt ja selbst, wie wir das Geld, das ich hier in der Zone bekomme, benötigen. Mit dem Geld können wir deine Operation bezahlen. Damit schaffen wir es noch rechtzeitig deine Krankheit zu heilen, bevor sie richtig ausbricht. Ich küsse dich, Mutter! Und mach dir keine Sorgen um mich! Ich bin stark und halte es schon aus!\n \nGrund: Zibenko Valentina Alekseewna lebt nicht länger unter folgender Adresse: Dorf Polanskoje, Haus Nr. 35
+	</text>
+	</string>
+
+	<string id="kontroler_diary_4_part_1">
+		<text>Erster Tag.\n \nHeute gehe ich zum ersten Mal in die Zone, für einen kleinen Raid! Die ortsansässigen sagen, ein Raid - das wäre ein Raubzug nach etwas wertvollem. Der Mann, der mir den Auftrag erteilte, erklärte mir, wenn ich lernen will hier zu überleben, wäre ein Raid zu wenig. Aber dieser wäre eine Prüfung. "Steinblume"... Interessant, was genau ist das? Er hat mir ein unscharfes Bild davon gezeigt, ich habs aber nicht wirklich zuordnen können. Irgendwelche Linien, ein Aufblitzen... Flammen in verschiedenen Farben. Aber er sagte mir, wenn ich dieses Ding finde, kann ich es nicht verwechseln. "Steinblume"... Oh Mann, ich komme mir vor wie ein verdammter Anfänger. Egal. Er hat mir gutes Geld versprochen und sagte, es gäbe noch einen Bonus, wenn ich schnell mache. Dieser Typ scheint eine lokale Autorität zu sein - woher hat er sonst all diese Dinge in seinem Bunker?
+		
+		\n \nZweiter Tag.\n \nIch bin noch am Leben. Das ist das wichtigste – vor ein paar Stunden hätte es auch anders ausgehen können. Kann sebst kaum glauben, dass ich es geschafft habe... Irgendein Mistvieh, so groß wie ein Panzer, kam aus nem Talkessel und fiel aus dem Schatten über mich her. Wie konnte ich nur so schnell mein Gewehr ziehen??? Das ist er – der militärische Drill... Und ich dachte, die zwei Jahre wären nutzlos gewesen. Wenn ich zurückkomme, stelle ich die grösste Kerze für die Gesundheit meines alten Feldwebels auf. Obwohl es hier in der Nähe wohl kaum ein Kirche gibt... Na gut, dann trinke ich einfach auf seine Gesundheit – er lehrte mich das Schiessen, dieser Lumpensack... Das Gewehr werde ich aber nicht länger schultern. Mit der Knarre im Anschlag fühle ich mich sicherer, auch wenn es ein wenig unbequem ist.
+		
+		\n \nDritter Tag.\n \nIch hab's gefunden!!! Es war genauso, wie der Typ im Bunker gesagt hat!!! Die Blume... Sie ist wunderschön, ich habe noch nie so etwas Schönes gesehen!!! Ich habe es lange in den Händen gehalten, und sie strahlte... So sehen sie also aus – die Artefakte. Es tut einem fast schon leid, sie wieder abzugeben – ist schließlich mein erster Erfolg. Also gut, wird Zeit zurückzukehren.
+		
+		\n \nSechster Tag.\n \nÜble Sache. Hab fast keine Munition mehr, und ich habe mich anscheinend verlaufen. Der Platz kommt mir bekannt vor, ich erinnere mich an diesen Hügel, diese drei Bäume neben dem Brunnen... Aber irgendwas scheint verändert zu sein, als ob... Ich weiß nicht. Und auf dem Rückweg werde ich noch zusätzlich von allen möglichen Viechern angegriffen. Meistens nur Kleinvieh, aber ziemlich flink – hab sämtliche Magazine verschossen. Ist nur noch Schrot übrig, fünf Patronen. Wenn mich was Grösseres als ein Hund anfällt – bin ich fällig.
+		
+		\n \nSechster Tag, abends.\n \nNoch ein riesiges Mistvieh hat mich angefallen! Hat auf mich in einem Hinterhalt gewartet!! So wie in der Nacht, als ich hierher kam! Ich werde nie wieder diese Fratze und seine Reisszähne vergessen... Merkwürdig, aber dieses Tier sah aus wie ein Eber. Nur riesiger, mit vielen Reisszähnen, hab's nicht geschafft sie zu zählen. Oder vielleicht ist mir das in meiner Angst nur so erschienen? Weiss nicht. Er griff mich so schnell an, ich war ganz starr vor Angst, als wäre ich gelähmt!! Ich konnte nur zusehen, wie er auf mich zurannte, als plötzlich... Als wäre es auf eine unsichtbare Barriere gestossen – wurde das Viech hoch in den Himmel geschleudert, fing dann an sich zu drehen, und dann... Mein Gott, das hätte auch ich an seiner Stelle sein können! Also sind die Gerüchte im Lager über diese Anomalien wahr. Verflucht, wo bin ich hier nur gelandet!?
+		
+		\n \nSiebter Tag.\n \nMorgens kam es mir vor, als hätte ich einen Menschen gesehen. Wahrscheinlich eine Halluzination – hier kann es doch keinen unbewaffneten Menschen in Jeans geben... Ja, und sein Kopf war ziemlich gross. Vielleicht kommt das von der Steinblume – meine Hände sind ganz rot geworden, Hals und Rücken jucken fürchterlich. Möglicherweise ist es radioaktiv? In den Augen verschwimmt alles... Und dieser Lärm in den Ohren, wie Stimmen... Wahrscheinlich hab ich mich vergiftet... Es wäre besser, wenn ich schneller ankommen würde. Wo bin ich nur?
+		
+		\n \nSiebter Tag. Abend.\n \nEs fällt mir schwer zu sprechen... Dieser Mensch... Er folgt mir, die ganze Zeit schon... Einmal habe ich sein Gesicht gesehen. So nah, dabei war er weit weg. Wie kann das sein? Es lärmt in den Ohren... Er spricht so, das ist seine Stimme, wie ein Windgeräusch... Und ein Pfeifen... Nein, er ist kein Mensch, er... ist anders... Er weiss, wo ich mich versteckt habe... die Hände gehorchen mir nicht...
+		
+		\n \nLetzter Eintrag.\n \n(Rauschen, Knacken) Lass mich...(Lärm)...ich...muss nach Hause...Dunkel...sehr dunkel...Grosser, lass mich gehen...Oder sterben...besser so...er...erlaubt nicht, zu gehen...Pistole hab ich...Patronen...eine...wenn es mir nur gelingt...lass mich gehen...nein...bitte nicht...stör mich nicht...das war's...(Schussgeräusch. Rauschen. Knacken. Abbruch der Aufnahme)
+	</text>
+	</string>
+
+	<string id="kontroler_diary_5_part_1">
+		<text>Bericht Nr. 25-19-12u.\n \nIch hab's geschafft!! Ich fahre in die Zone! Alle aus dem Labor haben mir heute gratuliert, sogar der leitende wissenschaftliche Mitarbeiter Kovalew. Ungeachtet dessen, das er mich nicht mag, kam er rüber, schüttelte mir die Hand und sagte: "Ich gratuliere, Genosse Pankov!" Hat unaufrichtig gelächelt – war wohl zuviel verlangt. Trotzdem bin ich glücklich! Ich werde nun selbst die Orte sehen, aus denen wir die meisten Objekte fur die Untersuchungen erhalten. Vielleicht schaffe ich es sogar noch, meine Dissertation dieses Jahr zu beenden!\n \nVor Ort ist es ganz anders, als ich erwartet habe. Die wissenschaftlichen Apparate sind mir großtenteils unbekannt. Semenow – der Assistent des Laborleiters und stellvertretender Leiter des ML-4 (Mobiles Lager) – sagt, das sie direkt vor Ort hergestellt wurden und sich in ihnen einige örtliche Artefakte befinden. Unfassbar, wie weit die Wissenschaft hier in der Zone fortgeschritten ist!\n \nHeute war ein schwieriger Tag. Wir haben es nur mit viel Glück geschafft, uns vor dem sich einschaltenden Reaktor in Sicherheit zu bringen. Semenow nahm Messungen der Strahlungsintensivität vor und ich leitete sie per Funk an Kruglow weiter, einem weiteren leitenden Forschungsmitarbeiter, er kam mir ein wenig eingebildet vor..., als plotzlich der Geigerzahler voll ausschlug. Mit etwas Glück konnten wir entkommen. Die Erde bebte, als ob unter der Fabrik ein Vulkan ausbricht! Welche Anlage nur ist dazu imstande? Wie mächtig muss sie sein!? Semenow meinte, ich sollte den Hügel hinaufklettern und das Fabrikgelande mit dem Fernglas auskundschaften, wenn ich verstehen will was hier so vor sich geht. Interessant, wofür eigentlich? Oder hat er sich nur einen Scherz erlaubt?
+	</text>
+	</string>
+
+	<string id="kontroler_diary_5_part_2">
+		<text>Zum ersten Mal habe ich wirklich Angst. Ich habe Semenows Rat befolgt... bin mit einem Feldstecher auf einen hohen Baum geklettert und mich umgesehen, was sich im Inneren des Fabrikgelandes abspielt... Oh Gott, dort sind ja Menschen!!! Sie laufen im Kreis, fast so wie Nachtwandler! Einige von ihnen haben Forscherkleidung an, wie es aussieht, sind einige verletzt... Was ist mit ihnen? Warum kommen sie nicht heraus? Ich muss mir uberlegen, wie ich ihnen helfen kann. Heute sind Semenow und Kruglow weggefahren, sagten, es dauert nicht allzu lange. Schade, das heißt ich muss alleine gehen. Ich muss mehr Medikits einpacken, fur die Forscher dort drinnen. Und vielleicht eine Waffe. Obwohl ich bisher nur in der Schießbude geschossen habe, mit einem Druckluftgewehr. Ach was soll's, fur alle Fälle.\n \nIch stecke in einer Falle, unweit der Fabrik, auf dem Dach irgendeiner Werkhalle. Unglaublich, aber die Leute werden von einem Monster kontrolliert, einem aufrechtgehenden Zweibeiner!!! Diese Parodie eines Menschen tragt Jeans! Es fällt mir schwer zu schreiben – anscheinend wirkt sich die PSI-Strahlung auf meine Koordination aus. Gut, das der Reaktor jetzt nicht aktiv ist – ich hab's selbst überprüft. STOP. Woher kommt dann die PSI-Strahlung? WAS GEHT HIER VOR? Wäre es möglich, dass dieses Monster PSI-Wellen generiert? Nur gut, das er mich nicht gesehen hat... Ich muss ihn erschießen... Wichtig ist – das ich ihn in den Kopf treffe, wenn ich vorbeischieße – bin ich tot. Zombies (leider kann man diese Stalker und Forscher, die um ihn herumschleichen nicht anders nennen... Was fur ein Horror...) sie schießen, wohin er ihnen zeigt, wenn ich ihn nicht sofort töte, machen sie aus mir einen Sieb. Aber ich muss es versuchen. Das ist meine Pflicht, fur all die unglücklichen Gestalten neben ihm... \n \nAn den, der das findet und liest... \n \nIch bin verwundet. Kann mich nicht bewegen – das Projektil traf mich genau in die Wirbelsaule... Trotz aller Schmerzen schreibe ich, es ist wahrscheinlich, dass ich schon bald mein Bewusstsein verliere – wenn ich Glück habe... Leider bin ich ein beschissener Schütze – habe das ganze Magazin verschossen, und alles daneben. Ich höre, wie das Monster zu mir aufsteigt. Ich habe wenig Zeit. Er braucht mich nicht lebend, da ich verwundet bin – ich sah, wie er einen Zombie aß, als sich dieser mit seinem Bein in einer Lüke verfing und es sich brach... Hoffentlich geht es schnell... Ich fürchte mich. Lebt wohl. Ich habe fur diese Menschen alles getan was ich konnte. \n \nAssistenz-Mitarbeiter Pankow.
+	</text>
+	</string>
+
+	<string id="kontroler_diary_6_part_1">
+		<text>Tagebuch von Swetoslaw "Schisser" Dedenko\n \n13. April 2010\n \nWas zu fressen wär nicht schlecht... Keine Kohle, also fahre ich in die Zone. Schwierig ohne Moneten... Das wird der erste Tag sein, der Tag der Ankunft, ab dann nur noch ohne Datumsangaben...\n \nTag 7.\n \nBereits eine Woche... Zeit vergeht hier schneller als außerhalb der Zone. Jetzt ist das keine Zone mehr, sondern eine „ZONE“.\n \nTag 12.\n \nZusammen mit dem ""Grauen", dem "Ganoven" und dem "Lahmarsch" machen wir uns auf zur Mulldeponie... Mitten durch den Posten...\n \nTag 13.\n \nVerfluchte Banditen... Haben mir in den Arm geschossen... Am Unterarm... Scheiße, wie das schmerzt... Ich hasse sie...\n \nTag 15.\n \nFotzen!... Sie haben ihn getötet... DIE HABEN DEN "LAHMARSCH" GETÖTET!!! Ich bring sie alle um, ohne Gnade und Reue... \n \nTag 20.\n \nDie Wunde ist geschwollen, tut höllisch weg, ich muss in die Bar, vielleicht können die mir dort helfen... Scheiße, tut das weh... Proviant ist fast alle...\n \nTag 21.\n \nWir haben irgendein... Artefakt gefunden. Strahlt Wärme aus, der Zähler vom "Ganoven" schlägt leicht aus, die Wunde hat aufgehört so stark zu schmerzen... Das ist gut...\n \nTag 25.\n \nHaben es bis zum Wächterposten geschafft, die haben uns zuerst nicht reinlassen wollen, doch als sie die Wunde bemerkten, haben die ganz schnell das Tor aufgemacht.\n \nTag 26.\n \nDer Lagerarzt sagt, dass man zu Sacharow muss, um die Medikamente zu bekommen, er hat sogar fur einen Führer gesorgt, das Artefakt mussen wir leider den Forschern überlassen. Schade, ist wirklich bezaubernd... Halt, was ist mit mir? Ich geb ihn ab und das war's... \n \nDer "Ganove" arbeitet jetzt fur den Wirt, aber der "Grauer"... es gibt keinen "Grauen" mehr...\n \nTag 30.\n \nSacharow hat mir die Medikamente gespritzt, ist schon fast wieder verheilt. Das Artefakt hat er an sich genommen, hat sich als sehr selten rausgestellt... Ich arbeite jetzt fur sie, die haben mir sogar einen Forscheranzug gegeben. Jetzt werden wir zum hiesigen Laboratorium gehen. Wie heißt das Ding noch mal, ach, genau! X-16!\n \nTag 32.\n \nGrauenhaft... irgend so ein Scheißding unter der Erde... Strahler... Die Zombies sind jetzt hier... gruselig...\n \nTag 60.\n \nEin Schnork hat mich gebissen... Seltsam, aber ich fühle keinen Schmerz! Habe nur Hunger auf... FLEISCH!\n \nTag 62.\n \nRrrrr... Nahrung... essen... RRRR... FLEISCH! Rrr... Oh, wie schlecht... kan nicht mal meer richtig schhreiben... ab jetzt nur noch Aufn-rr-ahmen mit einem Diii-iktierrr-rgerät!...\n \nTag 63.\n \nA-u-r-r-r... e-e-s-s-s-e-n! Essen... u-r-r-r
+	</text>
+	</string>
+
+	<string id="kontroler_diary_7_part_1">
+		<text>(START DER AUFNAHME)\n \n ...ein Dreckskerl ist das, aber egal, ich kann ja nicht den ganzen Krempel zu Sidor tragen, kenne aber keinen anderen Hehler. Fur die Munition sollte das Geld noch reichen.\n \nDie Bar – ist die Oase der Zone. Ständig gehen welche ein und aus, Banditen und Monster gibt es fast nicht – die Wächter verscheuchen sie, ist ja praktisch ihre Basis.\n \nSo... Noch ein Gläschen hinterher – und dann ein kleines Schläfchen. Die Stalker wollen aber zur Arena, und sich das Schauspiel reinziehen...\n \n Tja, wieder ein trüber Morgen. Obwohl, wie sagt man so schön – Stalker saufen nicht – Stalker kurieren sich aus. Ich erinnere mich noch gut an ein Gespräch mit so 'nem Kerl, "Glatze" glaub ich... Erzählte was von einem Werk in Jantar, dem Lager der Eierkopfe am See, und wie viel Geld sie fur einfache "Steinblumen" hinlegen. Wenn du mit einem seltenen Artefakt ankommst, sind sie sogar bereit, dir das letzte Hemd herzugeben. Was soll man schon machen, sind eben Forschungsfanatiker... Es gibt aber auch einen Nachteil – den PSI-Reaktor. Selbst hab ich noch keinen Zombie getroffen, aber wenn man mit den Veteranen redet, die dort waren – ist das kein schoner Anblick.\n \n"Glatze" erzählte, er hatte sich mit einem Stalker angefreundet, der sogar seinen Plünder mit ihm geteilt hat, im Kampf seinen Rücken gedeckt, und in der Bar zusammen Wodka getrunken hat, und ihm vor einer Woche auf dem Weg von Jantar begegnet ist (ist angeblich alleine auf einen Streifzug gegangen). Er meinte, er ging wie aufgezogen, geradewegs, fast in eine Anomalie hinein. Murmelte irgendwas vor sich hin, sein Sturmgewehr hinter sich herziehend. "Glatze" hat ihn gerufen, aber der Freund hat nur mit einem Feuerstoß reagiert, bis sein Magazin leer war. Da hat "Glatze" begriffen, dass sein Kumpel sein Hirn in Jantar gekocht hat und zu einem Zombie geworden ist. Kurz gesagt, musste er seinen Kollegen mit den eigenen Händen umbringen...\n \nTraurig... In Wirklichkeit ist das Zählen des Geldes, nach dem man seinen Nahrungs- und Munitionsvorrat, sowie die Medikits wieder aufgefüllt hat, noch viel trauriger. Wie auch immer, morgen breche ich in Richtung Jantar auf.
+	</text>
+	</string>
+
+	<string id="kontroler_diary_7_part_2">
+		<text>Der Wirt sagt, das es einen Weg durch eine Eisenbahnkreuzung, oder wie das heißt, nach Jantar gibt ... Naturlich gibt es dort auch eine Menge Anomalien – ich sollte also besser mehr Bolzen und Muttern mitnehmen.\n \nGlück gehabt! Bin bis zur Brucke gekommen, die auf dem Weg nach Jantar liegt, ohne einem einzigen Söldner zu begegnen. Ehrlich gesagt musste ich einen großen Umweg machen, weil am Güterwagen ein Blutsauger rumschnuffelte. Gut, das ich ihn rechtzeitig bemerkte. Als ich unter der Brücke war, ist mir doch glatt der Kiefer runtergefallen – den ganzen Durchgang hindurch waberte die Luft, wie von einem erhitzten Metalldach an einem heißen Sommertag. So viele "Brenner" hab ich noch nie gesehen! Fast eine Stunde hab ich gebraucht, um durchzukommen, hab 'ne Menge Bolzen verbraucht, Drecksanomalien. Dafür hab ich mir Artefakte eingesackt – 3 Feuerbälle und 5 irgendwelche birnenähnliche Dinger. Jetzt mach ich ein kleines Raucherpauschen, sitze im Schatten, die Strasse... VERDAMMT! Wen hat es denn jetzt hierhin verschlagen??...\n \n So ist es also, dieses Jantar... Eine riesige Halle auf dem Hügel, Sumpf mit einem abgeschossenen Heli, der Forscherbunker, auf dem ich es mir gemütlich gemacht habe – und Stille. "Glatze" hat nicht gelogen – dem wissenschaftlichen Leiter, Sacharow, glaub ich, sind fast die Augen rausgefallen, als er meine Beute erblickt hat. Nahm all meine Artefakte und hat mir einen Riesen Batzen Kohle zugesteckt, hab noch nie für einen einzigen Raid soviel verdient! Hat mich aber nicht in den Bunker gelassen, von wegen Quarantane und Strahlung – na ja, was soll's, auf dem Dach, dem Hubschrauberlandeplatz, kann man auch ganz gut entspannen.
+	</text>
+	</string>
+
+	<string id="kontroler_diary_8_part_1">
+		<text>Verschlüsselte Aufzeichnungen.</text>
+	</string>
+
+	<string id="kontroler_diary_9_part_1">
+		<text>Verschlüsselte Aufzeichnungen.</text>
+	</string>
+
+	<string id="kontroler_diary_10_part_1">
+		<text>Verschlüsselte Aufzeichnungen.</text>
+	</string>
+
+	<string id="kontroler_diary_11_part_1">
+		<text>Verschlüsselte Aufzeichnungen.</text>
+	</string>
+
+	<string id="kontroler_diary_11_part_2">
+		<text>Verschlüsselte Aufzeichnungen.</text>
+	</string>
+
+	<string id="kontroler_diary_12_part_1">
+		<text>3. Juni des Jahres 2010 \n Sitze in der Bar. Neben mir mein Partner, Jakut ist sein Spitzname. Ein guter Stalker, sehr erfahren. Auf dem Tisch ein Wasserchen, Konserven, Wurst und Brot... jaa, reich an Vorraten ist er, der Wirt... wir schlagen uns den Wanst voll, morgen geht es auf einen Streifzug... \n\n4. Juni\n Nun denn, es wird Zeit aufzubrechen. Da sich gleich neben der Bar die Basis der Wachter befindet, hat uns Hauptfeld Wasiljuk mit einer ordentlichen Ausrustung ausgestattet: Nahrung, gute Waffen - ich habe einen Colt und eine AK-108 mit folgenden Aufsatzen: Optisches Visier, Granatwerfer, Schalldampfer usw., Jakut hat sich eine M16 und eine Beretta geschnappt, dazu bekamen wir noch: ausreichend Patronen, neue Schutzanzuge mit Nachtsicht, Lampen, Klopapier... ja-ja, fur den Fall, das vor dir ein Wildschwein auftaucht und du dir in die Hosen machst. Hat es alles schon mal gegeben, es gab nicht nur ein Stalker, der mit feuchten Flecken im Schritt dahergelaufen kam. \n Sind zu General Woronin in die Baracke gegangen, er gab uns unsere Aufgabe - wir sollten uns bis zum Militarlager begeben, dort residieren die Freiheitler, wenn was sein sollte, mussten wir dort kampieren (einmal meinte der General runzelnd – die Wachter und Freiheitler konnten sich nicht ausstehen), danach mussen wir mitten durch den Blockposten zum Radargebiet laufen und dort in irgendwelche Keller hinabsteigen - um irgendwas auszuschalten. Die haben uns irgendwelche Kopfhorer mitgegeben, sagten, das wurde gegen die Psi-Strahlung helfen... Na denn, nach dem Gebet brechen wir auf. \n\n 4. Juni, nach 4 Stunden \n J-ja, lustig... sitzen hier in irgendeiner  Bauernhutte, bis zu den Lagerhausern ist es noch ein gutes Stuck... wir sollten schlafen, die Viecher haben uns total fertig gemacht... sind einem Wildschwein begegnet, und zwar nicht von der schlechten Sorte, mindestens vier Zentner schwer... Mistvieh, hat mich doch dermassen von den Fu?en umgehauen, das ich keine Luft mehr gekriegt hab... Jakut hat ihm den Schadel mit der MP zerschossen, solange ich mich auf dem Boden gewalzt habe... Schwein gehabt... Bald wird es schon dunkel werden, ich sollte schlafen... \n\n5. Juni\n Hab schlecht geschlafen, von draussen horte man ein Geschrei, als ob jemandem bei Lebendigem Leib die Eingeweide rausgerissen werden... br-r-r, grauenvoll... wir sind schon seit zwei Stunden unterwegs, noch ist alles ruhig... \n\n9 Stunden spater \n Sind am Lager angekommen, die Freiheitler haben sich als sehr gastfreundlich erwiesen... sitzen nun am Feuer, die Jungs erzahlen sich Geschichten, schon... Mann, war der Weg hierher beschissen... sind durch ein kleines Dorflein marschiert, plotzlich sa?en da 5 Blutsauger, alle in einer Hutte, Bastarde, haben die etwa Dame gespielt? Wir haben uns geradeso noch zuruckschlagen konnen, sind mit Messern gegen sie vorgegangen, die pfeifen namlich auf Kugeln... hab mir dabei die Hand aufgerissen, Jakut hat einen Schlag in den Bauch abgekriegt... Mistviecher, wie stark die sind, haben seine Schutzkleidung komplett in Fetzen gerissen... Als wir uns die Wunden geleckt haben, ist dieses Dings aufgetaucht... wie hei?t er nochmal, verdammt... ach ja, so ein Telepath. Lief in unsere Richtung, da drehte sich einem gleich die ganze Birne, und so ein Rauschen in den Ohren... Wie ich ihn aus der Ferne kaltgemacht hab - daran erinnere ich mich nicht mehr, ich wei? nur noch, wie meine Pistole aus der Halterung flog... Mann, hatte ich da die Hosen voll...
+	</text>
+	</string>
+
+	<string id="kontroler_diary_12_part_2">
+		<text>7. Juni \n Waren kurz bei den Jungs zu Gast, wird langsam Zeit wieder aufzubrechen... die Leute von der Freiheit haben uns wieder zusammengeflickt und neu ausgerustet: gaben uns Munition, Essen ... gute Jungs... haben sich auch mit dem Blockposten kurzgeschlossen, um uns freies Geleit zu ermoglichen... klasse. Bis zum Posten ist es nur eine halbe Stunde zu Fu?... also dann, auf geht's... \n\n 4 Stunden spater \n Wir sind am Blockposten mitten in die Schei?e gelaufen - als die Tiere von der anderen Seite angerannt kamen... Mist, was ich da nicht alles gesehen habe - Schnorks, Zombies, Wildschweine, Blutsauger, ein paar Burer (zwei von uns haben diese Mistgeburten mit Ziegelsteinen zu Brei geschlagen, schade um die Jungs) - und unsere haben sie mit Flammernwerfern bearbeitet, kaum auszuhalten, dieser Gestank. Im Endeffe... (Seite ist herausgerissen)... Ja, ein schrecklicher Ort - das Radargebiet. Ringsherum ist Waldgebiet, nur krumme verbogene Baume, als ob im Zentrum ein riesiger Krater ware. Um das Gebiet herum liegt eine bedrohliche Todesstille, Mist, ein leichtes Knacken - und dein Herz rutscht in die Hose... sind Kampfern der Monolith-Fraktion "begegnet" - ich begreif sie nicht, anscheinend sind manche normal und manche wieder nicht... Munition und Nahrung gehen zur Neige, gerade kam durch das PDA die Nachricht, das ein Blowout bevorsteht... haben uns in einem Bunker verkrochen, warten...
+		
+		\n\n 9. Juni \n Verdammter Blowout, hat unsere ganzen Plane zunichte gemacht. Draussen hat es so gewutet, das wir zwei Tage im Inneren verbringen mussten... (die Seite ist verlorengegangen) Mist verdammter, ein Monolither hat mich am Arm verwundet... aaah, was fur Schmerzen... Jakut ist noch heile, aber irgendwas stimmt mit ihm nicht... irgendwie ist er so unruhig geworden, selbst ich habe hier irgendwelche Stimmen im Kopf... obwohl, wir sind ja schon fast am Eingang zum Antennengelande, ...die Muni fur das Gewehr ist zuende, musste auf ein LR 300 von einem Zombie ausweichen... was fur ein Schei?gewehr, das AK ist viel besser... Mist, was ist DAS denn? A-a-ah, Drecksschweine, fresst die Granate! ...
+		
+		\n\n 10. Juni \n Verflucht, verdammter Mist... was fur eine Scheisse... Jakut ist tot... wer war das nur? So ein riesiges Vieh, hat dermassen rumgetrampelt, als wurde es glatt zwei Tonnen wiegen, er hat Jakut buchstablich zerquetscht, wenn man sich diese riesige, verschmierte Blutfontane betrachtet...  ich liege jetzt in den Buschen... Mist, habe nur noch zwei Granaten und die Pistole mit zwei Magazinen... Verdammt, ich bin voller Blut... im Kopf herrscht Chaos, Larm, Stimmen... ich hore so ein Knirschen, hier schleicht irgendwo ein Schnork rum... ich kann ihn fuhlen, das ist mein Ende.
+		
+		\n\n 11. Juni \n Ich kann kaum noch schreiben... bald gibt es einen Blowout, hier hat es eben ziemlich laut gescheppert, da bin ich aus den Buschen gerollt... verdammt, ich kann nicht aufstehen... muss ich hier denn wirklich verfaulen... (herausgerissen)... versuche schneller zu schreiben, ein Zombie lauft auf mich zu... ich kann sein niedertrachtiges "Toote-e-e" horen... hab mir was ausgedacht... dich nehme ich noch mit... mit letzter Kraft hab ich die Granate entsichert... Scheisse, der Blowout fangt an...
+	</text>
+	</string>
+
+	<string id="kontroler_diary_13_part_1">
+		<text>Heute wurden wir durch Alarm geweckt – man sagte uns, es gabe eine Landungsoperation. Bin aus unserem Block rausgerannt - und mir dabei das Knie zerschlagen!!! VERFLUCHT!!! Wie soll ich jetzt noch springen? Scheisssee!!! Werd wohl den Sanitäter aufsuchen mussen.\n \n Sind an Bord gegangen, jetzt fliegen wir...... aahhh...... rucken zum Landepunkt vor. Das Knie schmerzt immer mehr, und dann noch dieser verdammte Skomejka, hat seinen Rucksack auf meinen Fuss fallen lassen, ich mach ihn alle, den verdammten Hund!!!\n \n Wie sich heraustellt, werden wir in Agroprom aussteigen mussen, die Stalker sind dort zu aktiv geworden... dabei haben wir dort in der Nahe eine Basis, also hat der Obermacker Schiss bekommen.....kein Wunder: fast zwei Drittel der Einheit besteht aus Zeitsoldaten, die erst ein Jahr hinter sich haben, und in der Nahe lungern ca. zwanzig erfahrene Stalker herum, die - falls was passieren sollte, unsere Jungs wie Hamster zerreissen wurden...\n \n Nahern uns dem Landepunkt. Unter uns, auf der Strasse sind zwei Stalker, einer hat uns gesehen - hat gleich die Beine in die Hand genommen! Und dabei wohl samtliche Rekorde gebrochen!\n \n Sind gelandet, haben ein paar Stalker erschossen... Mann, was fur Tiere!!! Es waren dort ungefahr zehn Mann, ich weiss nicht, wie die auf zwanzig gekommen sind, aber sie haben zwei unserer Einheiten buchstablich in Stucke gerissen. Nun ja, Gott sei Dank haben wir sie jetzt erledigt. Auch wenn einer von ihnen, anscheinend der Anfuhrer, ins Innere des Komplexes verschwunden ist.\n \n Gemeinsam mit den Jungs haben wir den Bau umzingelt, jetzt entscheiden wir, wer als erster hineingeht. Wasil ist losgegangen die Stalker zu fleddern, Artefakte-Kacktefakte..... (ein Schuss aus der Flinte). OH SCHEISSE!!!!! Fur Wasil hat es sich ausgefleddert, anscheinend lauft hier noch ein Stalker rum!!! OHA!!! ICH SEHE IHN!!!! (noch ein Schuss aus der Flinte, kurzer Gefechtslarm). O scheisse....aaaaah....ich.....bin verwundet.....durch Schrot.....im.....Bauch......aaaaa.....Scheisse.....was fur Schmerzen.....die haben alle von uns erledigt..Verdammt....Stalker....er lauft auf mich zu....nein. Neeein!!! Nicht!!!!!! (ein Schusslaut aus der MP) nnneeeeei.....nnnniiiiiiicchhhht......
+	</text>
+	</string>
+
+	<string id="kontroler_diary_14_part_1">
+		<text>Logeintrag des Gelehrten \n\n 12. April, 17.53 \n Versuchsobjekt Nr.283 ist verstorben, ohne das Bewu?tsein wiederzuerlangen. Zeit nach Durchfuhrung der Prozedur - 2 Stunden 53 Minuten. Ursache des Todes - Hirnblutung in der linken Schläfenregion. \n\n 13. April, 10.31 \n Versuch Nr.289. Art der Prozedur - Bestrahlung nach Kaimanovs Art. Frequenz - 3600 GHz. Lange der Welle - 0.305 nm. Vor dem Prozedere wurde dem Probanden das Praparat ZNKZP1 mit einem Volumen von 2cm³ eingeführt.
+		
+		\n\n 13. April, 11.30 \n Erste Merkmale der Strahlungseinwirkung machen sich bemerkbar. Der Korper beginnt sich mit Geschwulstartigen Auswuchsen zu bedecken, hauptsachlich im Bereich der Gelenke, der Schlafenregion, sowie im Nacken. Der psychische Zustand des Versuchsobjekts - ist passiv, Reaktion auf ausserliche Reizfaktoren kann nicht festgestellt werden. \n\n Anmerkung: es scheint, als ware die Strahlung mit der vorliegenden Frequenz sowie die Modulation diesmal erfolgreich.
+		
+		\n\n 13. April, 12.41 \n Die ausserlichen Merkmale der Mutation treten immer deutlicher zutage. Eine starke Vergro?erung der Hirnregion sowie der Schadeldecke wird immer sichtbarer. Die Haut platzt auf und es stromen ubelriechende Aussonderungen heraus. Beobachtet wurde au?erdem die Entwicklung von telekinetischen Fahigkeiten in Form von Verschiebungen kleinerer Gegenstande - Kugelschreibern, Bleistiften u.a. \n\n 13. April, 14.35 \n Der Probant weist erste Anzeichen von Agression auf. Beim Versuch, elektrische Abmessungen des Gehirns vorzunehmen, versuchte der Proband den Laborassistenten Kusnezow anzugreifen. Die Wachen konnten ihn davon abhalten, wahrenddessen schaffte es Kusnezow ihm eine Beruhigungsspritze zu injizieren.
+	</text>
+	</string>
+
+	<string id="kontroler_diary_14_part_2">
+		<text>13. April, 16.34 \n Der Probant wird immer agressiver. Er setzt immer ofter seine telekinetischen Fahigkeiten ein, bewirft Mitarbeiter mit verschiedenen Sachen, angefangen mit Kugelschreibern, und endend mit Stuhlen. \n\n Anmerkung: ich gab die Order, samtliche Objekte aus der Kammer zu entfernen.
+		
+		\n\n 13. April, 19.12 \n Die telekinetischen Fahigkeiten haben sich dermassen entwickelt, dass bei dem Versuch, sich seinem Kafig zu nahern, Assistent Alexander S.N. von ihm weggesto?en und sehr schwer gegen die Wand geschlagen wurde. \n\n Anmerkung: Die Versuchsperson wird zu gefahrlich. Ich gab den Befehl, Proband Nr.289 zu liquidieren. \n\n13. April, 19.38 \n Der Versuch der Liquidation ist gescheitert. Der Proband hat zwei der Wachen mit ihren eigenen Waffen erschossen. Zur gleichen Zeit hat er seinen Kafig mit Hilfe seiner neuen Fahigkeiten geoffnet. Der dritte noch lebende Wachmann hat es fertiggebracht, ihn im Block "Z" einzuschließen. \n\n Habe mehr Wachen zur Verstarkung gerufen... \n\n14. April, 00.03 \n er hat alle getotet... ich habe mich nun im Lebensmittel-Vorratsraum von Block "D" eingeschlossen. Sobald die Labor-Verbindung abreisst, dauert es 24 Stunden, bis von der Oberflache ein Suchtrupp losgeschickt wird. Ich hoffe, ich kann solange ausha... [die Aufzeichnung bricht ab]
+	</text>
+	</string>
+
+	<string id="kontroler_diary_15_part_1">
+		<text>Tag 341. \n Heute haben wir den Strahler endlich korrekt kalibriert. Dieser Kaimanov – was fur ein Idiot! Wie konnte man nur so einen unfertigen und nicht zu Ende gedachten Apparat herstellen! Soviel Material, das vergebens vergeudet wurde! Egal, die Leitung versprach, dass es bald eine neue Lieferung geben wird. Sie versprachen uns Politische, das ist gut, sie sind viel besser geeignet, haben einen hoheren Intellekt... \n\n Tag 345. \n Ausgezeichnet! Wunderbar! Objekt Nr.74 hat bereits drei Sitzungen hinter sich! Die Uberprufung hat ergeben, dass die Schlafenregion um ein wesentliches vergro?ert wurde.  Wie es aussieht, bekomme ich doch noch meinen Nobelpreis. Ubermorgen wird Lena ankommen. Dann kann ich ihr meine Ergebnisse zeigen. Sie wird bestimmt erfreut sein! \n\n Tag 346.\n  Heute ist ein bedeutender Tag. Das Objekt schaffte es, kleinere Tiere zu kontrollieren. Es war, zugegeben, nur kurz und nur in seiner unmittelbaren Nahe. Wir fahren mit der Bestrahlung fort. \n\n Tag 347. \n Ich habe Lena meine Arbeit gezeigt. Au?erdem noch Objekt Nr.74 vorgefuhrt. Sie sagte, das ich ein Unmensch und Monster ware!!! Und dass das auch nur Menschen sind!!! Sie ist doch auch eine - Forscherin! Das sind bloss Haftlinge – zum Tode verurteilte, wieso begreift sie nicht, dass das nur Material ist!
+		
+		\n\n Tag 349. \n Schon wieder ein Zwischenfall. Scheinbar sind die Mutationen schneller vorangeschritten, als wir angenommen haben, sonst waren wir vorbereitet gewesen. Und dann noch dieser Jachontow, dieser Idiot! Ich habe ihm doch befohlen, nicht naher als 3 Meter an das Objekt heranzutreten. Vor allem nicht wahrend eines Experiments! So nahm ihn das Objekt unter seine Kontrolle. Ich habe etwas Seltsames in seinem Verhalten bemerken konnen, und verstand letztlich, dass er mir anordnete, mir nichts anmerken zu lassen! SO ein Resultat habe ich mir niemals ertraumen konnen! Ich musste den Befehl zur unverzuglichen Liquidierung des Objekts Nr.74 erteilen. Wie schade! Was fur Perspektiven sich daraus ergeben! Lena wurde beim Anblick des Vorfalls ganz hysterisch. Sie weinte und bat mich darum, sie von hier fortzuschicken, sagte ich ware ein Faschist, das alles zwischen uns vorbei ware. Wie vorbei? Es fangt gerade erst an! Ich erteilte den Befehl, ihr eine Beruhigungsspritze zu geben und sie unter Bewachung zu stellen.
+	</text>
+	</string>
+
+	<string id="kontroler_diary_15_part_2">
+		<text>Tag 352. \n Es sind schon 3 Tage vergangen. Lena will mich immer noch nicht sehen. Wieso? Die Hochzeit findet doch schon im Herbst statt? Ich kann nicht ohne sie leben! Soll sie noch eine Weile im Lazarett verbringen, in der Zwischenzeit uberlege ich mir, wie ich sie zwingen kann, ihren Entschluss zu andern. \n\n Tag 361. \n Anscheinend habe ich Depressionen. Kann nichts mehr machen, die Arbeit fallt mir aus der Hand, gestern hat Objekt Nr.75 das gleiche Schicksal wie sein Vorganger geteilt. Lena schweigt weiterhin beharrlich, doch durch das Glas kann ich sehen, wie sie weint... Ich muss mir was einfallen lassen!
+		
+		\n\n Tag 363. \n Ich habe eine Idee! Wenn ich mich selbst der Bestrahlung aussetze, kann ich sie uberzeugen, ihre Entscheidung zu uberdenken. Ich muss sehr vorsichtig sein, damit die Mutation nicht irreversibel bleibt. Das erste Mal seit Jahren spure ich soetwas wie Angst. Doch fur sie bin ich bereit, alles zu tun. Heute Nacht werde ich die erste Sitzung durchfuhren. Ich muss noch daruber nachdenken, wie ich ganz ohne Assistenten auskomme... \n\n Tag 366. \n Die Untergebenen wundern sich schon, dass ich mich drei Nachte in Folge im Hauptsaal einschlie?e. Ich habe mir deshalb die "streng geheimen Arbeiten" ausgedacht. \n\n Mich uberkommen seltsame Gefuhle, noch verwende ich Praparate zur Stabilisierung, um die ausserlichen Veranderungen zu unterbinden. \n Lena isst fast nichts mehr, sie hat sich in einen Schatten ihrer selbst verwandelt. Ich muss mich beeilen.
+		
+		\n\n Tag 368. \n Ich hore die Gedanken anderer Menschen. Und nicht nur das: ich kann sie sogar fuhlen. Und lenken, noch sehr schwach, aber ein paar Sitzungen mehr... Ubrigens, die Wahrnehmung ist bei allen verschieden. Lena - ist die starkste, ich kann sie kaum horen. Das ist nicht gut, ich muss also bis zum Ende gehen.
+	</text>
+	</string>
+
+	<string id="kontroler_diary_15_part_3">
+		<text>Tag 370. \n Habe in den Spiegel geschaut. Das sieht nicht gut aus. \n\n Noch befehle ich den anderen, meine Veranderungen nicht wahrzunehmen. Das kann ich schon sehr gut. Aber Smirnov... Mit ihm ist es nicht gut ausgegangen. Er hatte die hochste Schwelle, nach Lena naturlich. Ich habe zu fest gedruckt. Und er ist... ich finde nicht den richtigen Terminus, nun - sein Hirn ist wie in einen Nebel getaucht... Ich habe durch seine Augen gesehen, seine Arme bewegt... und als ich ihn loslie? - starb er. \n\n Tag 371. \n Gewohnliche Nahrung erweckt Abscheu in mir. Ich esse nun rohes Fleisch. Lecker. Ich kontrolliere alle im Labor. Zwei der Wachposten musste ich komplett unter meine Fittiche nehmen. Morgen ist eine Routineuntersuchung, ich darf nicht zulassen, dass sie es sehen...
+		
+		\n\n Tag 372. \n Habe die gesamte Komission unter meine Kontrolle genommen. Sie durfen meine Errungenschaften nicht uberprufen! Wenn ich wieder wie fruher werde, kann ich es ihnen selbst erklaren. \n Schade, dass zwei umkommen mussten, habe noch nicht genug Erfahrung... \n\n Morgen gehe ich zu Lena. \n\n Tag 373. \n Sie ist tot. Ich ging hinein, da fing sie an zu schreien. Ich sagte, dass ich es nur bin. Da wurde sie ruhig und verkroch sich in eine Ecke. \n\n Ich kam ihr naher, da starb sie. Vor Schreck. In was hab ich mich verwandelt? \n Ich hielt ihre Hand und beobachtete sie. Fur eine lange Zeit. Es tat mir weh. Warum? Mich hat doch niemand geschlagen. \n Und wie konnte man mich uberhaupt noch schlagen? Ich bin doch beinah ein... Wie hei?t es... Konig?... Zar?... Ich erinnere mich an die Worte, aber was sie bedeuten... Es sind nur Gestalten... Wie kann das sein? Herr? Genau! Herr! Ich weiß, was das bedeutet.
+	</text>
+	</string>
+
+	<string id="kontroler_diary_16_part_1">
+		<text>Tagebuch des Wächters Wladimir Dmitrievitsch Letalo \n\n27 April \nIch wurde bei den Wächtern aufgenommen! Jetzt muss ich nur beweisen, dass ich nicht umsonst die staatlichen Rationen bekomme. Immerhin hat mich niemand dazu gezwungen. Ich bin, wie man sagt, freiwillig hier.  Man gab mir eine echte, nagelneue "Abakan", mit optischem Visier und Granatwerfer. Und dazu eine Anzug in den Farben unserer Gruppierung. Konnte mich in der Bar ein Zeit lang nicht sattsehen im Spiegel. Dann kam der Drill, Mittagessen, Drill, Abendessen... Habe einen erfahrenen Kommandeuer erwischt. Selbst der Name von ihm ist so streng - Gromko. Demitrij Petrovich Gromko. Wie er uns hin und herscheucht... abends beschleicht mich immer so ein Hass auf ihn. Ach, obwohl. Er treibt uns ja nicht aus Spass umher. Immerhin habe ich mich ja freiwillig gemeldet. Ach, lassen wir das, durch den Lautsprecher wird eben durchgegeben, dass wir uns sammeln sollen... Ich schreibe zuende, wenn ich die Moglichkeit dazu habe. \n\n1. Mai \n Schieben Wachdienst, am Ausgang zum Wilden Territorium. Hab mich fur eine Minute verdruckt - um ein wenig weiter zu schreiben. Der Pummelige, der Krumme und Sanja sehen mich wieder schrag an und machen sich lustig. Als ware ich ein Botaniker oder so was. Die sind doch selbst nicht ganz klar. Ich erzahl euch mal was uber meine Freunde. Aus uns vier wurde eine stattliche "Einheit" formiert. Eine "Quad" - in Wächtersprache. \n Der Pummelige - ist so ein runder, linkischer Sonderling, der versucht einen auf Intellektuellen zu machen. Aber kraftema?ig macht ihm keiner was vor – er konnte selbst Hufeisen mit den Handen verbiegen. Der Kommandeur hat ihm feierlich eine stattliche RPK und vier Patronengurte in die Hande gedruckt. Jetzt kommt er sich wie Rambo vor - hat sich die Gurte umgeschnallt, das MG geschultert und guckt so grimmig in die Ferne. \n Der Krumme - ist noch schlimmer. Ein langer, durrer Alkoholiker mit standig roten Augen, einem schwermutigen Blick und einer chronischen Allergie. Niest und kratzt sich die ganze Zeit, brabbelt sich standig was in den Bart, deswegen sieht er so aus wie Dolmetscher Wolodarskij. Er ist unser Scharfschutze. Gromko (Dmitrij Petrovitsch) sagt, dass er ein verflucht guter Schutze ist und hat ihm, nicht weniger feierlich als beim Pummeligen, eine etwas heruntergekommene SVD uberreicht. \n Naja, und Sanja - ist eine Geschichte fur sich. Sanja - ist kein Name, sondern sein Spitzname, wie bei uns allen. Vom Aussehen her - kein allzu bemerkenswerter Stalker. Vom Alter her - ungefahr 30 bis 35. Aber er alleine ist so erfahren, wie wir alle zusammen. Deshalb hat Gromko nicht lange gefackelt und ihn zu unserem Anfuhrer ernannt, er gab ihm eine "Enfield" mit Schalldampfer und Granataufsatz. Und dann hat er noch einen viel besseren Anzug als wir - einen Visierhelm mit getontem, dunklem Glas, der sein Gesicht vollkommen verbirgt. Ein Geiles Teil. Sieht zumindest sehr bedrohlich aus. \n Jetzt sind wir eine untrennbare, verschworene Gemeinschaft. So, die Jungs rufen mich - anscheinend haben sie was gesehen - ich geh mal kurz nachsehen.
+	</text>
+	</string>
+
+	<string id="kontroler_diary_16_part_2">
+		<text>2. Mai \n Du meine Gute, ich verstehe immer noch nicht, wie ich am Leben bleiben konnte? Gestern ist irgend so ein Vieh aus dem Wildgebiet zu uns gedrungen - der blanke Horror! Hat das Tor einfach zertrummert und ist dann auf uns los. Irgendein riesiger Mutant, sah einem Wildschwein nicht unahnlich, nur mit zwei Kopfen aber deutlich schneller und starker. Der Pummelige hat gleich das Feuer eroffnet, schaffte es sogar, ihn im Flug zu erwischen und Sanja hat ihm mit der Pistole den Rest gegeben. Er meinte, bei dem Mutanten wurde es sich um eine "Chimare" handeln... brr... Und wir dachten schon, das war's gewesen. Nach funfzehn Minuten kam noch ein Rudel blinder Hunde aus der Bresche, zur Halfte waren auch Pseudohunde dabei, die hatte ich vorher noch nie gesehen. Insgesamt 16 Stuck. Dem Pummeligen passte das gut in den Kram, jetzt konnte er wieder sein MG sprechen lassen, er brauchte nicht mal zu zielen. Der Krumme hat Granaten geworfen, sogar ziemlich geschickt - die Gegner sind nur so in Stucke gerissen worden. Sanja hatte es vorzugsweise auf die Pseudohunde abgesehen. Ja, und ich habe nur so in die Menge gefeuert. Soviel Blut und Kadaver habe ich in meinem ganzen Leben noch nicht gesehen. Gut, das nach wenigen Minuten drei weitere Squads rechtzeitig zur Hilfe gekommen sind. So konnten wir diese Angriffswelle zuruckschlagen. Puuh... Das ganze Tagebuch ist jetzt voller Monsterblut. Komplett vollgespritzt, verstehst du. \n\n6. Mai \n Ja, 'ne ganze Zeit lang hab ich mein inniges Heftchen nicht mehr in den Handen gehabt. Doch jetzt habe ich mal wieder Gluck - der Oberst sammelt Squads fur den Streifzug nach Jantar - um es mal wieder von den Zombies zu reinigen. Die Forscher schickten uns eine Nachricht, dass immer mehr von ihnen auftauchen wurden. Also haben wir zugestimmt. Der Drill und Wachdienst gingen mir schon auf den Geist - endlich mal eine ordentliche Beschaftigung! Wir werden die Zone von den Mutanten reinigen! \n\n 7. Mai \n Haben den Kram zusammengepackt - und sind auf dem Weg. Schon wieder das Wildgebiet. Hab keine Lust dorthin zu gehen, aber was getan werden muss - muss getan werden. Sind zum Durchgang des Wachtergebietes gekommen. Auf der Wand hangt jetzt ein riesiges Banner, das besagt, dort nicht hineinzugehen - weil man in Stuckchen "zerissen" wird. Aber wie sagt man - es ist notwendig.
+	</text>
+	</string>
+
+	<string id="kontroler_diary_16_part_3">
+		<text>8. Mai \n\n Wir sind angekommen. Es war ein kompletter Hinterhalt... Abgesehen von den Blutsaugern und Banditen. Am meisten haben uns dabei die Soldner zugesetzt, Sanja nennt sie gerne "Mercs", aber auch die Schattenhunde. Sowohl die einen, als auch die anderen haben uns mehrmals angegriffen, aber wir konnten dennoch behaupten und haben sogar einen Hinterhalt im leerstehenden Haus abgewehrt. Der Geigerzahler schlug dort unaufhorlich aus, so waren wir gezwungen, uns nach draussen zuruckzuziehen. Solange Sanja mit Sacharow geredet hat, sind wir auf den Bunker geklettert - um uns ein wenig umzuschauen. Ein unheimlicher Ort, sehr bedruckend. Der Krumme hat sein MG rausgeholt, sich aufs Dach gelegt und sich vorgenommen, systematisch jeden Zombie zu erschie?en, vorzugsweise unbewaffnete. Schlauer Mistkerl, heh. Nach 'ner halben Stunde kam Sanja heraus und sagte, das - wenn wir die Zombies am Seeufer und um den Bunker herum erschiessen - jeder funf Tausend pro Helm bekommt. Wenn wir aber bis zum X-16 gehen, und sie auch dort erschie?en, sich der Preis gleich verdreifachen wird. Die Forscher selbst werden den Bunker fur zwei Wochen verlassen, sie lassen nur einen Diensthabenden zuruck. Er wird uns auch das Geld geben. \n\n 9. Mai \n Wir haben, wahrscheinlich, mehr als Hundert von ihnen erschossen. Und es werden dennoch nicht weniger. Mistsaue. Wie ich sie hasse. Den Pummeligen hat gestern ein Schnork gebissen. Wir haben ihn zwar rechtzeitig umgelegt, aber er konnte ihn doch noch am Handgelenk beissen. \n Es ist Nacht. Ich kann nicht schlafen. Pummeliger, der Armste, stohnt so unheimlich. Das Handgelenk ist angeschwollen und eitert. Der Sani war selbst ratlos und meinte, man konnte nichts dagegen tun. Arschloch. Wir leben, ubrigens, in einer der Baracken hinter dem Bunker. Es gibt zwar zwei davon, aber uns reicht schon der eine. Obwohl ich mir da nicht sicher bin. Wenn wir diesen winselnden Idioten nur von hier verlegen konnten!!... \n Mein Gott, hab ich das gesagt... wahrscheinlich bin ich bloss ubermudet. In Ordnung, ich werd versuchen einzuschlafen. \n\n 10. Mai \n Mein Kopf tut wahnsinnig weh. Ich hab so ein Gefuhl, als ob eine bleierne Kugel hin und her rollt. Missst... Das interessante dabei ist, das es uns allen so geht... Offenbar ist der Blutdruck zu niedrig. Kommt vor. Als wir heute aus der Baracke gingen, hat der Krumme - mit dem Kolben in der Hand - den Turpfosten erwischt, und zufallig den Abzug betatigt. Der Schuss verfehlte meinen Kopf nur um Haaresbreite. Ich hasse ihn. Das werde ich nicht vergessen, auch wenn er sich bei mir entschuldigt hat. Ich weiss, dass er das extra gemacht hat... Er wollte mich umbringen! \n\n Verdammt, was rede ich fur einen Stuss. So ein Scheiss. Den Zombie heute zu toten bereitete mir ein unvergleichliches Vergnugen, endlich konnte ich meine Wut an jemandem auslassen. Einer von ihnen hat noch jammernd nach "Mama-a-a" gerufen, als ich ihm den halben Kopf weggeblasen hab. \n\n Was hab ich mich amüsiert. Ich schoss und lachte. Ich hab wahrscheinlich noch nie so gelacht... Konnte mich kaum beruhigen.
+	</text>
+	</string>
+
+	<string id="kontroler_diary_16_part_4">
+		<text>11. Mai \n Heute hat sich der Krumme mit Sanja geprugelt. Der Pummelige konnte sie kaum trennen. Sein Handgelenk ist schon blau angelaufen, er kann die Finger nicht mehr bewegen. Wir haben die Wunde mit Wodka gereinigt und sie nochmal verbunden. Haben ihm ein schmerzstillendes Mittel gespritzt. Offenbar ging es ihm dann besser. \n Die Lage selbst ist angespannt. Der Krumme, Sanja und der Pummelige schweigen die ganze Zeit uber. Offensichtlich planen sie irgendwas. \n Wir haben samtliche Zombies und Schnorks erschossen, sind fast bis zum X-16 gekommen. Dann sind wir jedoch zu den Baracken zuruckgekehrt und haben uns schlafen gelegt. \n\n 12. Mai \n Sie haben sich irgendetwas gegen mich ausgedacht... ich merke ja, wie sie mich ansehen... ich hasse sie... ich hab ihnen doch nichts getan... \n\n 13. Mai \n In der Nacht hab ich es getan. Ich kam gerade in die Baracke, als sie da sa?en und Karten spielten. Sie haben mir sogar zugelachelt und mich gegru?t. Heuchlerische Bastarde! Warum sind sie nur so?! \n\n Die dachten noch, ich scherze, als ich mein Gewehr aufhob. ...aber ich hab nur gelacht und den Abzug gedruckt. Die haben noch geschrien und gefleht, ich solle sie am Leben lassen... sagten, sie wurden es nicht verstehen, und das ich verruckt geworden bin?! Ich?! Verruckt geworden?!! Ha-ha! So ein Stuss! \n\n Ich habe solange abgedruckt, bis die Munition alle war... Und danach... Ich erinnere mich nicht... ich wei? noch, das ich gegen die Bunkertur gehauen hab, um eingelassen zu werden, ich schrie, ich hatte samtliche Feinde erledigt... und das ich nicht schuld ware, dass das meine "Kameraden" waren... \n\n 14. Mai \n Sitze neben dem Bunker. Um mich herum lauter Zombies... ich... ich begreife langsam, was ich angerichtet habe. Ich habe meine Freunde getotet. Diejenigen, die mit mir ihr Blut und Brot geteilt, die mir den Rucken gedeckt haben... \n\n Ich habe so geheult und geschluchzt, das sogar die Zombies Angst hatten, sich mir zu nahern... ich bin ein Ungeheuer... ich hasse mich dafur... \n\n Das wird meine letzte Notiz sein... mir fallt es schwer zu schreiben... meine Hande zittern... ich sehe schlecht, weil Tranen meine Augen bedecken... ich kann fuhlen, das mir etwas auf den Kopf... druckt... Wo... ist meine Beretta? ...Sie sollte diese... diese... Qual... ereien beenden...
+	</text>
+	</string>
+
+	<string id="kontroler_diary_17_part_1">
+		<text>Tag 1. \n Du meine Gute, wie konnte mir das nur passieren? Nachdem ich die Halfte des Weges von Agroprom durchstreift hatte - auf einen Telepathen zu stossen! Bin ja nicht das erste Jahr in der Zone! Oder? Nein! Ich lebe noch, ich muss  weiterkampfen... Gut wenigstens, das ich egal was auch immer geschieht noch reden kann. Das Diktiergerat ist so eingestellt, das es sich beim Klang meiner Stimme einschaltet, die Batterien reichen noch lange aus. Vielleicht werden meine Aufnahmen ja jemandem nutzen... \n\n Also, der Reihe nach. Ich hei?e Andrejev Vitalij Sergejewitsch und bin nun das vierte Jahr in der Zone, Einzelganger und Veteran. Einst gehorte ich der Freiheitsfraktion an, aber das ist schon lange her. Heute... kann ich mich nicht mal mehr an das Datum erinnern! Ich... ich erinnere mich an uberhaupt keine Daten mehr! Nicht mal an meinen Geburtstag! Gut, lass den heutigen Tag einfach Tag eins sein. Heute Morgen wollte ich in Agroprom den Blowout im verfallenen Eisenbahntunnel abwarten. Wegen der vielen Anomalien dort konnte der Detektor den verborgenen Telephaten nicht ausmachen. Ich bin nicht mal dazu gekommen, die Waffe aufrichten... Man nimmt an, dass ein Mensch, der unter den Einflu? eines Telephaten gerat, nicht mehr selbststandig denken kann, und zu einem gewohnlichen Zombie mutiert. Zumindest geht man davon aus, das sich Menschen, die den Tod des Telephaten uberleben, an nichts mehr erinnern... Meinen Korper kontrolliert er vollstandig, doch ich habe mir meinen klaren Verstand bewahrt, ich kann noch sprechen und sogar meinen Kopf etwas bewegen. In seinem... Rudel? Trupp? Gruppe? Gut, lass es die Gruppe sein. In seiner Gruppe sind, au?er mir, noch drei Zombies mit verschiedenem Verwesungsgrad, ein paar Fleischmonster aus dem Sumpf und noch 6-8 Hunde. Genau kann ich das nicht sagen, sie sind standig in Bewegung, und es fallt mir schwer, meinen Kopf zu drehen, um sie zu zahlen... Zu sprechen fallt mir auch schwer, deshalb mach ich fur heute Schluss.
+	</text>
+	</string>
+
+	<string id="kontroler_diary_17_part_2">
+		<text>Tag 2. \nIch habe tierischen Hunger. Und Durst. Ich hatte nicht gedacht, dass Zombies so ein Verlangen verspuren! Interessant, futtert er seine Gefolgschaft? Oder rekrutiert er neue, wenn sie verreckt sind? Die Hunde haben, wie ich sehen konnte, einen Tushkano gefressen. Endlich brechen wir auf. Wir bewegen uns in Richtung Sumpf.\n \nHabe mich an seiner... oder unserer? Jagd beteiligt. Die Hunde haben vom Rudel der Fleischmonster ein paar fette Exemplare getrennt, und ich habe sie erschossen. Oder hat er sie erschossen? Aber wie? Er hat ja gar keine Waffe... Durch mich? Der Telepath hat durch mich zwei Fleisch erschossen... Hort sich komisch an, findet ihr nicht?\n \n Ich finde es alles andere als lustig!!! Wart ihr nur an meiner Stelle!!! Du meine Gute, was ist nur mit mir? Vor einer Minute hatte ich jeden mit blossen Handen in Stucke reissen konnen... Wie es aussieht, wirkt sich sein Einflu? doch starker aus... Wo gehe ich denn jetzt hin? Was??? Neeeein!!! Ich werde das nicht essen!!! Verseuchtes, rohes Fleich!!! Neeeei...(Undeutliches Glucksen, das ins Schmatzen ubergeht).\n \nHinterher tranken wir noch Wasser aus dem radioaktiv verseuchten Sumpf. Jetzt bin ich wirklich eine lebende Leiche. Dafur kann ich immerhin noch sprechen.
+		
+		\n \nTag 3. \nHeute sind wir auf Militar gestossen. Er ist gar nicht mal so ein ubler Taktiker - hat die Hunde und Zombies vorraus geschickt, solange der Soldat mit ihnen beschaftigt war, konnte ich mich ihm nahern und ausschalten. Ich war gezwungen, Menschenfleisch zu essen. Ich kann die Militars zwar nicht ausstehen, aber doch nicht so... Das gibt's ja nicht, ich kann immer noch scherzen... nur ist das ziemlich schwarzer Humor... Interessant, bereits drei Tage lang schlafe ich nicht mehr, und mochte es auch nicht! Wenigstens ein Vorteil in meiner Situation. Nur der Kopf fangt langsam an, wehzutun.
+		
+		\n \nTag 4. \n Jetzt verstehe ich, warum er ein paar Fleischmonster in der Gruppe hat. Auf den ersten Blick hat man von ihnen ja uberhaupt keinen Nutzen! Doch heute hatten wir den ganzen Tag lang keine Beute gemacht, also haben wir einen von ihnen gegessen. Eine interessante Organisation, nicht? Abends stiessen wir auf zwei weitere Fleisch, und er ubernahm sie beide. In der Gruppe brach ein seltsames Chaos aus, und wir haben noch eins gegessen. Das Chaos legte sich daraufhin. Es hat den Anschein, als konnte er nicht allzu viele Kreaturen kontrollieren. Ubrigens schlaft er jetzt. Zwar Nicht sehr lange, doch in dieser Zeit schwacht sich die Kontrolle ab. Mich halt dieses Mistvieh streng unter seiner Gewalt, aber einem Hund ist es gestern gelungen zu fliehen.
+	</text>
+	</string>
+
+	<string id="kontroler_diary_17_part_3">
+		<text>\n \nTag 5. \n Sieht aus, als wurde es kuhler werden. Es sieht so aus, weil ich die Temperatur nicht mehr fuhlen kann. Am Morgen lag auf dem Gras noch Tau. Ich fange an, die Gruppe zu FUHLEN. Wenn ich mich konzentriere, kann ich sogar durch die Augen eines anderen sehen. Mein Gott, was geschieht nur mit mir? Heute haben wir wieder einen Menschen getotet. Einen gewohnlichen Stalker, und ich habe UBERHAUPT nichts gefuhlt. Es war mir absolut gleichgultig.\n \n Ich habe herausgefunden, dass ich - wenn er schlaft, jemanden aus der Gruppe kontrollieren kann. Zurzeit noch sehr schwach, bei Hunden – ist es noch leicht, bei Zombies - schon schwerer. Sie haben, wie es aussieht, kein eigenes, nervliches Empfinden mehr, deshalb muss ich jede einzelne ihrer Bewegungen kontrollieren. Das nenne ich Pech! Andere zu kontrollieren, gelingt mir, aber mich selbst - nicht...
+		
+		\n \nTag 6. \n Sieht aus, als wurde er etwas spuren. Heute kam er zu mir ruber und schaute mir lange Zeit in die Augen. Ich muss etwas unternehmen. Es ist jetzt Nacht. Er ist eingeschlafen. Ich wei?, was zu tun ist.\n \n Nun komm schon her, mein teurer, komm hierher... Noch einen Schritt. So ist es gut, jetzt nimm mein Gewehr... Trottel, ich sagte nehmen, nicht runterwerfen... So... Heb es hoch... das Gewehr ist geladen, gut... Und jetzt ganz leise, leise... es sind nur funf Meter. Und verlier es ja nicht, du Mistvieh! Sonst werde ich dich!!! Ausgezeichnet! Jetzt richte den Lauf... Hoher... Ja, genau in die Schlafe... Und jetzt drucken wir langsam den Abzug... (Schussgerausch). Urrraaaaaaaghh... Hey, wo wollt ihr denn hin? Los, alle wieder zuruck! Sieh an, laufen alle durcheinander... Essseeeennn... Will esseeen... Am Sumpf hab ich abends einen Ssstalkerr gesehen.... Susseeeees Fleeeisch...\n \n(weiterhin undeutliches Gluckern und Brüllgerausche, Abriss der Aufnahme)
+	</text>
+	</string>

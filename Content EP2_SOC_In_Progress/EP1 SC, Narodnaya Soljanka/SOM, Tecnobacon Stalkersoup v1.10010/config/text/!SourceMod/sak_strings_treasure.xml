@@ -1,0 +1,1170 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- TB3D 1.1.0.0.0.4, changed Devil to Bes, amber, lukash -->
+<!-- Names changed as commented below - Sword2012 - 31 Oct 16 -->
+<!-- Corrected many generic punctuation, in-game and US/UK spelling errors - Sword2012 - 12 Dec 16 -->
+<!-- Reworked from Sean's file up to Line 438 - Sword2012 - 12 Dec 16 -->
+	<string id="scaintist_docs_name">
+		<text>Dead Scientists' documents</text>
+	</string>
+	<string id="scaintist_docs_desc">
+		<text>Judging from these records, the Scientists were transporting a very unusual artefact...</text>
+	</string>
+	<string id="pda_krysyka_name">
+		<text>Krysjuk's PDA</text>	<!-- Changed 'Krysyuk' to 'Krysjuk'- Sword2012 - 31 Oct 16-->
+	</string>
+	<string id="pda_krysyka_desc">
+		<text>Krysjuk kept valuable information in his PDA. Borov wants it back...</text>	<!-- Changed 'Krysyuk' to 'Krysjuk'- Sword2012 - 31 Oct 16-->
+	</string>
+	<string id="mil_borov_secret_name">
+		<text>Borov's stash</text>
+	</string>
+	<string id="mil_borov_secret_descr">
+		<text>Borov said that there'll be something to gain from this...</text>
+	</string>
+	<string id="vodka_rad">
+		<text>Counterfeit vodka</text>
+	</string>
+	<string id="vodka_rad_s">
+		<text>Vodka</text>
+	</string>
+	<string id="vodka_rad_descr">
+		<text>There once was a trader in this area trying to sell off cheap vodka. The locals made him drink it... Now he sells it to down and out spirits...</text>
+	</string>
+	<string id="food_bread_rad">
+		<text>Radioactive bread</text>
+	</string>
+	<string id="food_bread_rad_s">
+		<text>'Bread'</text>
+	</string>
+	<string id="enc_food_bread_rad">
+		<text>Once a normal loaf of bread, but now just a radioactive piece of shit... If you're sick of living, go ahead and eat it...</text>
+	</string>
+	<string id="agr_krysyk_secret_name">
+		<text>Krysjuk's stash</text>	<!-- Changed 'Krysyuk to 'Krysjuk'- Sword2012 - 31 Oct 16-->
+	</string>
+	<string id="agr_krysyk_secret_descr">
+		<text>Krysjuk's stash full of loot...</text>	<!-- Changed 'Krysyuk' to 'Krysjuk'- Sword2012 - 31 Oct 16-->
+	</string>
+<!-- Duplicated - aleks1970
+	<string id="agr_krysyk_secret_name">
+		<text>Nychka Krysyuk</text>
+	</string>
+	<string id="agr_krysyk_secret_descr">
+		<text>Krysyuk's PDA</text>
+	</string> -->
+	<string id="bandit_treasure_1_dialog_0">
+		<text>Hello, my friend... want to have a chat?</text>
+	</string>
+	<string id="bandit_treasure_1_dialog_1">
+		<text>Sure. Do you have anything to drink?</text>
+	</string>
+	<string id="bandit_treasure_1_dialog_2">
+		<text>Very well, let's take a seat and finish a bottle</text>
+	</string>
+	<string id="bandit_treasure_1_dialog_3">
+		<text>Well, let's quench our thirst!</text>
+	</string>
+	<string id="bandit_treasure_1_dialog_41">
+		<text>Sounds good to me!...</text>
+	</string>
+	<string id="bandit_treasure_1_dialog_42">
+		<text>What a shame...we finished off the bottle already...</text>
+	</string>
+	<string id="bandit_treasure_1_dialog_5">
+		<text>That went down smooth... thanks for the drink... I'm getting a good buzz...</text>
+	</string>
+	<string id="bandit_treasure_1_dialog_6">
+		<text>Have you heard about any good loot?</text>
+	</string>
+	<string id="bandit_treasure_1_dialog_71">
+		<text>I will tell you, friend...Recently I found a PDA on a corpse, there was info on it about hidden loot. I'm in no shape to go look for it, you can have it...</text>
+	</string>
+	<string id="bandit_treasure_1_dialog_73">
+		<text>Well, how interesting can it be?... this isn't exactly the French Riviera, in case you haven't noticed...</text>
+	</string>
+	<string id="bandit_treasure_1_dialog_81">
+		<text>Thanks for the tip...</text>
+	</string>
+	<string id="bandit_treasure_1_dialog_82">
+		<text>Maybe you will hear something later...</text>
+	</string>
+	<string id="bandit_treasure_2_dialog_0">
+		<text>How's life treating you? Want to chat?</text>
+	</string>
+	<string id="bandit_treasure_2_dialog_1">
+		<text>Sure, I've got nothing better to do at the moment...</text>
+	</string>
+	<string id="bandit_treasure_2_dialog_2">
+		<text>Out here... there's nothing better to do...</text>
+	</string>
+	<string id="bandit_treasure_2_dialog_3">
+		<text>Let's share a bottle, and exchange stories then...</text>
+	</string>
+	<string id="bandit_treasure_2_dialog_41">
+		<text>Come on then, let's get to it then...</text>
+	</string>
+	<string id="bandit_treasure_2_dialog_42">
+		<text>I would if I had any...</text>
+	</string>
+	<string id="bandit_treasure_2_dialog_5">
+		<text>Let's have one for the boys...</text>
+	</string>
+	<string id="bandit_treasure_2_dialog_6">
+		<text>So comrade, have you heard about any swag?</text>
+	</string>
+	<string id="bandit_treasure_2_dialog_71">
+		<text>I did overhear some talk about a cache... It's too far away to interest me, you can check it out if you like...</text>
+	</string>
+	<string id="bandit_treasure_2_dialog_73">
+		<text>Nothing recently, check back with me another time...</text>
+	</string>
+	<string id="bandit_treasure_2_dialog_81">
+		<text>I'll check it out if I go there...</text>
+	</string>
+	<string id="bandit_treasure_2_dialog_82">
+		<text>Another time then...</text>
+	</string>
+	<string id="bandit_treasure_3_dialog_0">
+		<text>Hello, soldier of fortune!</text>
+	</string>
+	<string id="bandit_treasure_3_dialog_1">
+		<text>Greetings, Stalker. Borov has ordered us not to mess with you, but don't try anything stupid...</text>
+	</string>
+	<string id="bandit_treasure_3_dialog_2">
+		<text>No need to be so serious. When's the last time you drank some real vodka?</text>
+	</string>
+	<string id="bandit_treasure_3_dialog_3">
+		<text>Too damn long, pour me a glass and I'll be grateful...</text>
+	</string>
+	<string id="bandit_treasure_3_dialog_41">
+		<text>Thats the spirit, lets drink as brothers!</text>
+	</string>
+	<string id="bandit_treasure_3_dialog_42">
+		<text>Damn, I thought I had a bottle...</text>
+	</string>
+	<string id="bandit_treasure_3_dialog_5">
+		<text>Mmmm, that really hit the spot! You're alright, Stalker...</text>
+	</string>
+	<string id="bandit_treasure_3_dialog_6">
+		<text>Any information from your prisoners? Any stash locations?</text>
+	</string>
+	<string id="bandit_treasure_3_dialog_71">
+		<text>Yesterday, we took three Duty soldiers prisoner. Once we started to interogate them, one of them says - "Brothers, this is not necessary. I can show you where some loot is located"... We thought it was bullshit because he can't give an exact location, but he says he can take us there... He claimed it was close by, but we thought he was trying to lead us into an ambush. See what you think...</text>
+	</string>
+	<string id="bandit_treasure_3_dialog_73">
+		<text>Nothing I can share with you!</text>
+	</string>
+	<string id="bandit_treasure_3_dialog_81">
+		<text>Maybe it was just a story, but you never know...</text>
+	</string>
+	<string id="bandit_treasure_3_dialog_82">
+		<text>Maybe next time you will be more generous to those that share their vodka...</text>
+	</string>
+	<string id="bandit_treasure_4_dialog_0">
+		<text>Wow, I haven't seen you in ages... How have you been?</text>
+	</string>
+	<string id="bandit_treasure_4_dialog_1">
+		<text>I got very drunk last night and things are still blurry, but I don't remember meeting you...</text>
+	</string>
+	<string id="bandit_treasure_4_dialog_2">
+		<text>What you need is another drink to clear your mind...</text>
+	</string>
+	<string id="bandit_treasure_4_dialog_3">
+		<text>Another swig always does the trick...</text>
+	</string>
+	<string id="bandit_treasure_4_dialog_41">
+		<text>Let's drink to your health!</text>
+	</string>
+	<string id="bandit_treasure_4_dialog_42">
+		<text>Damn! All I have is an empty bottle...</text>
+	</string>
+	<string id="bandit_treasure_4_dialog_5">
+		<text>U-u-uh... my health is getting better with every drop...</text>
+	</string>
+	<string id="bandit_treasure_4_dialog_6">
+		<text>Now that you're feeling better, is there any hiding places you know about?</text>
+	</string>
+	<string id="bandit_treasure_4_dialog_71">
+		<text>Don't speak so loudly, I watched Borov execute six men he suspected of stealing from him... I know of a stash, but I dont dare take it. If you get caught...I dont know you. Stop by later and I might have something else</text>
+	</string>
+	<string id="bandit_treasure_4_dialog_73">
+		<text>All Borov's caches have been found or moved. He doesn't trust anybody...</text>
+	</string>
+	<string id="bandit_treasure_4_dialog_81">
+		<text>I won't rat you out!</text>
+	</string>
+	<string id="bandit_treasure_4_dialog_82">
+		<text>That's okay, I have to go now...</text>
+	</string>
+	<string id="neitral_treasure_1_dialog_0">
+		<text>Greetings, brother... How is it going for you?</text>
+	</string>
+	<string id="neitral_treasure_1_dialog_1">
+		<text>This place is not what I expected... Does it ever get easier?</text>
+	</string>
+	<string id="neitral_treasure_1_dialog_2">
+		<text>Yes and no. Let's talk over a drink. You'll feel better...</text>
+	</string>
+	<string id="neitral_treasure_1_dialog_3">
+		<text>A drink is just what I need...</text>
+	</string>
+	<string id="neitral_treasure_1_dialog_41">
+		<text>Well here's to the Zone...</text>
+	</string>
+	<string id="neitral_treasure_1_dialog_42">
+		<text>Poured himself a man...</text>
+	</string>
+	<string id="neitral_treasure_1_dialog_5">
+		<text>Strong... Cures all that ails me... My worries are fading...</text>
+	</string>
+	<string id="neitral_treasure_1_dialog_6">
+		<text>Do you have you any leads on hidden loot? I don't mind travelling...</text>
+	</string>
+	<string id="neitral_treasure_1_dialog_71">
+		<text>Recently, Wolf pulled a stalker out of an anomaly, not much of him remained... But... in his backpack was a note with co-ordinates. It appears he had hidden loot there... But Wolf told me I'm not experienced enough to go there. Here's the co-ordinates - write them down...</text>
+	</string>
+	<string id="neitral_treasure_1_dialog_73">
+		<text>No, I just came here recently and have not ventured very deep into the zone... Come back in a week. Maybe by then I will have something to share...</text>
+	</string>
+	<string id="neitral_treasure_1_dialog_81">
+		<text>Thanks for the tip... I will have a look...</text>
+	</string>
+	<string id="neitral_treasure_1_dialog_82">
+		<text>That is fine, we will talk again later...</text>
+	</string>
+	<string id="neitral_treasure_2_dialog_0">
+		<text>Hello, how is life treating you?</text>
+	</string>
+	<string id="neitral_treasure_2_dialog_1">
+		<text>Hello... So-so. It could be better...</text>
+	</string>
+	<string id="neitral_treasure_2_dialog_2">
+		<text>Would a stiff drink put a smile on that face?...</text>
+	</string>
+	<string id="neitral_treasure_2_dialog_3">
+		<text>It sure would! My luck has already changed for the better...</text>
+	</string>
+	<string id="neitral_treasure_2_dialog_41">
+		<text>Let's drink to bravery and good fortune!...</text>
+	</string>
+	<string id="neitral_treasure_2_dialog_42">
+		<text>Shit, I'll have to get more vodka from Sid...</text>
+	</string>
+	<string id="neitral_treasure_2_dialog_5">
+		<text>Yes, to bravery! and to the fallen... May our fortunes rise together!</text>
+	</string>
+	<string id="neitral_treasure_2_dialog_6">
+		<text>Speaking of good fortune... Do you have any information to share?</text>
+	</string>
+	<string id="neitral_treasure_2_dialog_71">
+		<text>Recently a pair of stalkers came to see Sid... I was sleeping right outside Sid's door at the time. Well, I was not actually sleeping, I could hear what was going on ... They wanted to buy some equipment on credit, claiming they knew of a rich cache and that payment would be made when they retreived the goods. They even described the place where it was hidden... But Sid would not give them anything. I thought I would go get it myself, but I dont have all the necessary gear... Here is the place...If you find a lot of loot - don't forget about me...</text>
+	</string>
+	<string id="neitral_treasure_2_dialog_73">
+		<text>Nothing to tell really. Good fortune is a campfire and a hot meal...</text>
+	</string>
+	<string id="neitral_treasure_2_dialog_81">
+		<text>If it's a good stash, I'll not forget you...</text>
+	</string>
+	<string id="neitral_treasure_2_dialog_82">
+		<text>Maybe you will hear something later...</text>
+	</string>
+	<string id="neitral_treasure_3_dialog_0">
+		<text>Why so gloomy? Do you need any help?</text>
+	</string>
+	<string id="neitral_treasure_3_dialog_1">
+		<text>Is this place supposed to be fun? I'm having a bad day...</text>
+	</string>
+	<string id="neitral_treasure_3_dialog_2">
+		<text>Well let's change the mood, a drink will help...</text>
+	</string>
+	<string id="neitral_treasure_3_dialog_3">
+		<text>Aha, that's more like it! This will certainly help...</text>
+	</string>
+	<string id="neitral_treasure_3_dialog_41">
+		<text>So... let's drink to... to HOPE!</text>
+	</string>
+	<string id="neitral_treasure_3_dialog_42">
+		<text>Shit! NO! I remember I had a bottle! And now it's gone!</text>
+	</string>
+	<string id="neitral_treasure_3_dialog_5">
+		<text>Thanks for making my day. It's good to know there are people like you in the Zone...</text>
+	</string>
+	<string id="neitral_treasure_3_dialog_6">
+		<text>Now that we're relaxed - do you know if there's any loot hidden nearby? Have you heard anything?</text>
+	</string>
+	<string id="neitral_treasure_3_dialog_71">
+		<text>Yes, I have heard something, but it's far from here... Several have gone to find the loot, but none have returned. I will show you on the map - here...</text>
+	</string>
+	<string id="neitral_treasure_3_dialog_73">
+		<text>No, I've not heard anything... I don't listen in to others' private conversations...</text>
+	</string>
+	<string id="neitral_treasure_3_dialog_81">
+		<text>I won't go out of my way for it, but if I'm nearby - I'll take a look...</text>
+	</string>
+	<string id="neitral_treasure_3_dialog_82">
+		<text>Well, the old saying is true. The less you know - the better you sleep...</text>
+	</string>
+	<string id="neitral_treasure_4_dialog_0">
+		<text>Hello, my friend... How's your day?</text>
+	</string>
+	<string id="neitral_treasure_4_dialog_1">
+		<text>Hello... I've not slept good for about a week. I've been having nightmares ever since my friend Vayazma got killed by boars...</text>
+	</string>
+	<string id="neitral_treasure_4_dialog_2">
+		<text>It sounds like you need a good dose of vodka for your nerves...</text>
+	</string>
+	<string id="neitral_treasure_4_dialog_3">
+		<text>That would help. Do you have any?</text>
+	</string>
+	<string id="neitral_treasure_4_dialog_41">
+		<text>Of course I do... Lets drink to Vayazma!</text>
+	</string>
+	<string id="neitral_treasure_4_dialog_42">
+		<text>I forgot to bring any with me... I'll come back later...</text>
+	</string>
+	<string id="neitral_treasure_4_dialog_5">
+		<text>That's just what I needed! I'm already feeling better... I've got a real buzz!</text>
+	</string>
+	<string id="neitral_treasure_4_dialog_6">
+		<text>Standard doctor's medicine... So, have you heard of any hiding places in the zone?</text>
+	</string>
+	<string id="neitral_treasure_4_dialog_71">
+		<text>The day before yesterday with some soldiers I shared a couple of bottles with. They usually stay in the Agroprom, but quite often run over here as Sid supplies them with their vodka... So, they told me that they have caught a zombified stalker! The commander ordered to take the creature alive, so they can sell it to some egg heads in the Great Land for experiments. If it was me, a bullet in a temple of it's head would have been better....Well, on this zombie's right hand was some sort of tattoo...but not a normal one, it was like someone cut a drawing into his flesh...a drawing of a map...</text>
+	</string>
+	<string id="neitral_treasure_4_dialog_73">
+		<text>I've heard talk of anomalies, and monsters, but nothing about loot. Everybody is keeping their secrets to themselves. Stop by another time and maybe I'll have something for you...</text>
+	</string>
+	<string id="neitral_treasure_4_dialog_81">
+		<text>Yes, damn, it is better to... No pain...</text>
+	</string>
+	<string id="neitral_treasure_4_dialog_82">
+		<text>I will return, then we'll talk...</text>
+	</string>
+	<string id="dolg_garb_treasure_1_dialog_0">
+		<text>Hello, brother... How are things going here?</text>
+	</string>
+	<string id="dolg_garb_treasure_1_dialog_1">
+		<text>Another long day of keeping mutants at bay... I'd rather have another assignment...</text>
+	</string>
+	<string id="dolg_garb_treasure_1_dialog_2">
+		<text>Come for the knowledge...? Or superiors will not allow it?</text>
+	</string>
+	<string id="dolg_garb_treasure_1_dialog_3">
+		<text>Yes, some bosses... Prapor ours - an old soldier, understands that in the zone without it impossible. So, do not menzhuysya, pour.</text>
+	</string>
+	<string id="dolg_garb_treasure_1_dialog_41">
+		<text>Well! For good people!...</text>
+	</string>
+	<string id="dolg_garb_treasure_1_dialog_42">
+		<text>Would be poured, but the last half-liter had to spend on health...</text>
+	</string>
+	<string id="dolg_garb_treasure_1_dialog_5">
+		<text>For us, that is! Eat, that's sausage...</text>
+	</string>
+	<string id="dolg_garb_treasure_1_dialog_6">
+		<text>Thanks... What's the news here? Maybe some news?</text>
+	</string>
+	<string id="dolg_garb_treasure_1_dialog_71">
+		<text>Special no news... But, of the Max Lubero heard? Caught him with korefanom bandyukov from the Dark Valley... Bullet - drugan Lubero, the trail has gone... And before that, said korefan Max managed to reset the card, on which location is indicated with a swag zanykannym... Here! Bullet asked to drive to someone there, but Prapor not allow. They say, and so men at the post a few left... In general, this is the place. Take to the bandits did not get...</text>
+	</string>
+	<string id="dolg_garb_treasure_1_dialog_73">
+		<text>Like, did not hear anything special. So... Over little things...</text>
+	</string>
+	<string id="dolg_garb_treasure_1_dialog_81">
+		<text>Okay, here you go...</text>
+	</string>
+	<string id="dolg_garb_treasure_1_dialog_82">
+		<text>Well, Till you get... I'll see you...</text>
+	</string>
+	<string id="dolg_garb_treasure_2_dialog_0">
+		<text>Hail, soldier!</text>
+	</string>
+	<string id="dolg_garb_treasure_2_dialog_1">
+		<text>And you there too... Where are you from such a draw?</text>
+	</string>
+	<string id="dolg_garb_treasure_2_dialog_2">
+		<text>Yes, so tread softly Zone... You, how about a hundred grams?</text>
+	</string>
+	<string id="dolg_garb_treasure_2_dialog_3">
+		<text>What a question! Two hundred grams more will not hurt anyone...</text>
+	</string>
+	<string id="dolg_garb_treasure_2_dialog_41">
+		<text>Hold two hundred fifty and no snacks...</text>
+	</string>
+	<string id="dolg_garb_treasure_2_dialog_42">
+		<text>I am right now, arts bartender go and come back...</text>
+	</string>
+	<string id="dolg_garb_treasure_2_dialog_5">
+		<text>Ha, normul went... Why the snack such nectar...</text>
+	</string>
+	<string id="dolg_garb_treasure_2_dialog_6">
+		<text>At exactly good for Mr... only translate... Tell a four-thread...</text>
+	</string>
+	<string id="dolg_garb_treasure_2_dialog_71">
+		<text>The other day Bes stayed here, good man, though a lone... No offense, okay?... We did a bit of ammunition helped, talked about - about this... He has nothing of value was not, he talked about the found cache and taken. Khabar, however, was not there... But judging by the signs, there's often someone hides good. If you wish to reconnoiter...</text>
+	</string>
+	<string id="dolg_garb_treasure_2_dialog_73">
+		<text>Yes, Che tell... Zone, zone it is. If not, we would have long contagion has spread around the world...</text>
+	</string>
+	<string id="dolg_garb_treasure_2_dialog_81">
+		<text>I'll try to explore...</text>
+	</string>
+	<string id="dolg_garb_treasure_2_dialog_82">
+		<text>Well am the savior of the world...</text>
+	</string>
+	<string id="dolg_garb_treasure_3_dialog_0">
+		<text>Hi, man! Something to your face is familiar. We have never met?</text>
+	</string>
+	<string id="dolg_garb_treasure_3_dialog_1">
+		<text>And who knows? I only those friends with anyone, remember...</text>
+	</string>
+	<string id="dolg_garb_treasure_3_dialog_2">
+		<text>Come on, not drinking accursed for the sake of friendship for...</text>
+	</string>
+	<string id="dolg_garb_treasure_3_dialog_3">
+		<text>Well, like I remember... Come on, pour out!</text>
+	</string>
+	<string id="dolg_garb_treasure_3_dialog_41">
+		<text>So... Contains exactly... For the friendship!</text>
+	</string>
+	<string id="dolg_garb_treasure_3_dialog_42">
+		<text>Damn! No! I remember exactly, was the bubble! But no!</text>
+	</string>
+	<string id="dolg_garb_treasure_3_dialog_5">
+		<text>For trusted friends! With that, even in the Zone is not lost!...</text>
+	</string>
+	<string id="dolg_garb_treasure_3_dialog_6">
+		<text>They say you can find near the swag, have not heard?</text>
+	</string>
+	<string id="dolg_garb_treasure_3_dialog_71">
+		<text>Do not tell anyone, but you as a friend, I will. There is aiming to nychku one... Accidentally found out about her... Maybe there is nothing, and can swag and dofigischa. If you're a real friend, then share it. I think right?</text>
+	</string>
+	<string id="dolg_garb_treasure_3_dialog_73">
+		<text>Not-e, not heard... Collected all that was near and that there is more - only the shooter knows...</text>
+	</string>
+	<string id="dolg_garb_treasure_3_dialog_81">
+		<text>About what the conversation! For the other does not feel sorry for...</text>
+	</string>
+	<string id="dolg_garb_treasure_3_dialog_82">
+		<text>Shooter? Well, well... I have a question to him, the other...</text>
+	</string>
+	<string id="dolg_garb_treasure_4_dialog_0">
+		<text>Hey, let's talk, not against it?</text>
+	</string>
+	<string id="dolg_garb_treasure_4_dialog_1">
+		<text>Sit down... Than talking about...</text>
+	</string>
+	<string id="dolg_garb_treasure_4_dialog_2">
+		<text>Maybe for the lubrication of five drops?</text>
+	</string>
+	<string id="dolg_garb_treasure_4_dialog_3">
+		<text>Zakuson with me, come on, pour what you waiting for?</text>
+	</string>
+	<string id="dolg_garb_treasure_4_dialog_41">
+		<text>Keep your glasses equal, and then the edges will not see...</text>
+	</string>
+	<string id="dolg_garb_treasure_4_dialog_42">
+		<text>Zakuson that is... Her homeland, no...</text>
+	</string>
+	<string id="dolg_garb_treasure_4_dialog_5">
+		<text>Zhzhesh... Oh-oh-oh! Oiled, as oil...</text>
+	</string>
+	<string id="dolg_garb_treasure_4_dialog_6">
+		<text>Not lonely here all day to sit?</text>
+	</string>
+	<string id="dolg_garb_treasure_4_dialog_71">
+		<text>Well, no. Why miss it? Bar snack rolls, such as paying for security... Singles are often the last to share information... Again, the shoot is on something...\nHohma - 'brother recently oborzeli, the base was satisfied with... So - there is one, the wounded stalker prikidyvatsya, sends SOS to all frequencies. And then a couple Burer it ran into... This 'rennet' as soon as he heard their cries, his legs in his arms and carried, up hill and down dale... Flew straight towards us and with a running start in the prop shed - hryas! Boom, shake, smell - this fan light Khabarov fashioned to the ears... Then everything was shaking, and promised all the load with money supposedly hidden swag and put a mark on the map... Eccentric, to God... We have one ass to risk will not be for some kind of swag. We screen! Protecting the world from evil... If interested, here this his mark...</text>
+	</string>
+	<string id="dolg_garb_treasure_4_dialog_73">
+		<text>Sadly of course, but it feels when the case - protecting the world from evil!</text>
+	</string>
+	<string id="dolg_garb_treasure_4_dialog_81">
+		<text>Yes, have fun... Look at the case... Although, I think - it's messy...</text>
+	</string>
+	<string id="dolg_garb_treasure_4_dialog_82">
+		<text>Well, then I will not distract the hero...</text>
+	</string>
+	<string id="stalk_garb_treasure_1_dialog_0">
+		<text>Hello there... How's life treating you?</text>
+	</string>
+	<string id="stalk_garb_treasure_1_dialog_1">
+		<text>Bandits killed a, damn it! No nerves are not enough! Climbing and climbing!</text>
+	</string>
+	<string id="stalk_garb_treasure_1_dialog_2">
+		<text>Throw pairs... Let's relax a bit...</text>
+	</string>
+	<string id="stalk_garb_treasure_1_dialog_3">
+		<text>But I do not boil... Simple, long normal drinking was not... Pour once offered...</text>
+	</string>
+	<string id="stalk_garb_treasure_1_dialog_41">
+		<text>Come over tomorrow to see it!</text>
+	</string>
+	<string id="stalk_garb_treasure_1_dialog_42">
+		<text>Now at the very empty, swag pritaryus - take from baryg...</text>
+	</string>
+	<string id="stalk_garb_treasure_1_dialog_5">
+		<text>Come on! For death from old age!</text>
+	</string>
+	<string id="stalk_garb_treasure_1_dialog_6">
+		<text>In the of... Eased Maleh... What do they say?</text>
+	</string>
+	<string id="stalk_garb_treasure_1_dialog_71">
+		<text>Everybody is trying to keep himself in his thoughts. ZONE, brother... But I somehow heard that a couple guys leaving the military threw his swag... He was going to profit... Now do not think we'll get there... So, if you want to enjoy. Otherwise, it will disappear altogether. Those guys the other day bandits laid in the next raid... And sorry, good were the stalkers, their plank in the...</text>
+	</string>
+	<string id="stalk_garb_treasure_1_dialog_73">
+		<text>Everybody is trying to keep himself in his thoughts. ZONE, brother... Even friends try to avoid guessing at tomorrow... So as not to jinx...</text>
+	</string>
+	<string id="stalk_garb_treasure_1_dialog_81">
+		<text>Yes... Many good people are leaving...</text>
+	</string>
+	<string id="stalk_garb_treasure_1_dialog_82">
+		<text>That's right. Okay, my friend! Until tomorrow...</text>
+	</string>
+	<string id="stalk_garb_treasure_2_dialog_0">
+		<text>What can you do for the shooting was?</text>
+	</string>
+	<string id="stalk_garb_treasure_2_dialog_1">
+		<text>We shoot for fear of enemies and yourself...</text>
+	</string>
+	<string id="stalk_garb_treasure_2_dialog_2">
+		<text>Come for the bravery of two hundred and fifty?</text>
+	</string>
+	<string id="stalk_garb_treasure_2_dialog_3">
+		<text>And pour out!</text>
+	</string>
+	<string id="stalk_garb_treasure_2_dialog_41">
+		<text>Hold the two hundred and fifty! So as not to extremes!</text>
+	</string>
+	<string id="stalk_garb_treasure_2_dialog_42">
+		<text>Wait a bit... Check that's going on...</text>
+	</string>
+	<string id="stalk_garb_treasure_2_dialog_5">
+		<text>Phew! Well, crap, although a strong...</text>
+	</string>
+	<string id="stalk_garb_treasure_2_dialog_6">
+		<text>Heh, and you want a lemonade or something? What is interesting news?</text>
+	</string>
+	<string id="stalk_garb_treasure_2_dialog_71">
+		<text>Bes and his guys put a dozen looters near the swamp, then I go pay a visit... Corpses, of course, the animal thoroughly consumed, the sight of something else... I look at this mess that glitters is... Stick pulled out a small bottle, very tiny, probably a souvenir - the fifty-gram. Hmm... Apparently, this vampire swallowed it, when the smell of fried... This bottle was a piece of paper, with a card and a note about the secret Khabar... Now this card. Try to Reach, I could not...</text>
+	</string>
+	<string id="stalk_garb_treasure_2_dialog_73">
+		<text>Yes, as usual, that an anomaly has disappeared, another shot, and a third generally disappeared without a trace... Here are our 'interesting' news...</text>
+	</string>
+	<string id="stalk_garb_treasure_2_dialog_81">
+		<text>If I can get half - yours...</text>
+	</string>
+	<string id="stalk_garb_treasure_2_dialog_82">
+		<text>Okay, not limp... Prior to the meeting.</text>
+	</string>
+	<string id="stalk_garb_treasure_3_dialog_0">
+		<text>Hello. Do not mind a chat?</text>
+	</string>
+	<string id="stalk_garb_treasure_3_dialog_1">
+		<text>A Th languages some wag? If the case...?</text>
+	</string>
+	<string id="stalk_garb_treasure_3_dialog_2">
+		<text>Maybe vsprysnem dating? Is not it?</text>
+	</string>
+	<string id="stalk_garb_treasure_3_dialog_3">
+		<text>I have nothing to sprinkle... If so, you get, and not grounded in vain...</text>
+	</string>
+	<string id="stalk_garb_treasure_3_dialog_41">
+		<text>Yes, yes! Come for the kinship of souls!</text>
+	</string>
+	<string id="stalk_garb_treasure_3_dialog_42">
+		<text>Sorry, buddy, I also came to an end...</text>
+	</string>
+	<string id="stalk_garb_treasure_3_dialog_5">
+		<text>Talk a lot. Drink, as well as life, we must quiet...</text>
+	</string>
+	<string id="stalk_garb_treasure_3_dialog_6">
+		<text>Philosopher, damn it! Well, enlighten me how to live to...</text>
+	</string>
+	<string id="stalk_garb_treasure_3_dialog_71">
+		<text>Lives each in its own way, and to learn someone else's life is impossible... That Lucky Lev, (heard of him?) All boasted of what he lucky, as the women love him, that all the monsters of his bypass... Have not lived one day, all hid habarok, nychki arranged... Can not drink with him, or to unwind properly. Coast Arty, did not take local huckster, I thought on the mainland to surrender all and live like cheese in butter... And where is he now? Even a piece of hair is left... All dissolved in a Fruit Punch. And now other nychki udachniki looking... And I think - would not be happy with that swag and do not need it for those who like me, lives only one day...</text>
+	</string>
+	<string id="stalk_garb_treasure_3_dialog_73">
+		<text>Why do you educate... If there is a way of life, then you will go to them. And no, I did it and not get...</text>
+	</string>
+	<string id="stalk_garb_treasure_3_dialog_81">
+		<text>Maybe you're right... But I think so - about the future care need...</text>
+	</string>
+	<string id="stalk_garb_treasure_3_dialog_82">
+		<text>Fate, it means... And I believe in a man...</text>
+	</string>
+	<string id="stalk_garb_treasure_4_dialog_0">
+		<text>As it is, buddy?</text>
+	</string>
+	<string id="stalk_garb_treasure_4_dialog_1">
+		<text>Yes, little by little, little bit sad, though...</text>
+	</string>
+	<string id="stalk_garb_treasure_4_dialog_2">
+		<text>Come for the mood? A little bit?</text>
+	</string>
+	<string id="stalk_garb_treasure_4_dialog_3">
+		<text>With your bubble, I've had everything else...</text>
+	</string>
+	<string id="stalk_garb_treasure_4_dialog_41">
+		<text>I agree! Let's glasses...</text>
+	</string>
+	<string id="stalk_garb_treasure_4_dialog_42">
+		<text>Else and I have, no bubble...</text>
+	</string>
+	<string id="stalk_garb_treasure_4_dialog_5">
+		<text>Okay, she-devil! All the insides burned!...</text>
+	</string>
+	<string id="stalk_garb_treasure_4_dialog_6">
+		<text>Tell me that something more interesting...</text>
+	</string>
+	<string id="stalk_garb_treasure_4_dialog_71">
+		<text>I did hear a story, but I don't think it's true. I will tell you about it... Do you know a Stalker named Eureka? He recently stopped by and said he had just returned from a mission with some skilled stalkers... No telling how long he had been on his drinking binge, we could barely understand what he was saying... Our laughter made him mad, he was flashing his PDA in our faces so we could see his mark on the map to prove his story. Nobody believed him - just another snot nosed rookie from the Cordon ... What do you think?</text>
+	</string>
+	<string id="stalk_garb_treasure_4_dialog_73">
+		<text>Che is the language I Zapletal, tomorrow, that'll tell...</text>
+	</string>
+	<string id="stalk_garb_treasure_4_dialog_81">
+		<text>Not, would not have believed... Yura - still the whistler...</text>
+	</string>
+	<string id="stalk_garb_treasure_4_dialog_82">
+		<text>Then, until tomorrow, pal...</text>
+	</string>
+	<string id="stalk_bar_treasure_1_dialog_0">
+		<text>Hello. How are things going?</text>
+	</string>
+	<string id="stalk_bar_treasure_1_dialog_1">
+		<text>We have fun, you want to go to the bar, you want - with Dolzhanov triturated. Or betting at the Arena. Many rumors walk. Bar is almost in the center of the Zone is...</text>
+	</string>
+	<string id="stalk_bar_treasure_1_dialog_2">
+		<text>Can roll forward on stoparyu? For dating...</text>
+	</string>
+	<string id="stalk_bar_treasure_1_dialog_3">
+		<text>Too bad... Let's pour out, I'll take my post at the Arena, tickle nervishki...</text>
+	</string>
+	<string id="stalk_bar_treasure_1_dialog_41">
+		<text>Come for the good spirits!</text>
+	</string>
+	<string id="stalk_bar_treasure_1_dialog_42">
+		<text>During the bubble in the 100 Roentgen'll run back and... Wait!</text>
+	</string>
+	<string id="stalk_bar_treasure_1_dialog_5">
+		<text>Well, let's...</text>
+	</string>
+	<string id="stalk_bar_treasure_1_dialog_6">
+		<text>And what rumors go, something fun to say?</text>
+	</string>
+	<string id="stalk_bar_treasure_1_dialog_71">
+		<text>Yes, a lot of things... It seems there is a teleport directly to the monolith. True, the place is called at least a dozen. A new species of monsters - electricity struggling, generally ATAS... Soldiers all with svobodovts not divide the zone now and then hear - that they had stopped those, those those... A Th share something? Zone at all enough... Recently caught svobodovts and led to re-educate yourself with a basement... Psychiatrists, too, to me... So he svobodovets threw some crap in the bushes. I then slazit found his PDA, and it coordinates taynichka. There. Come together let's see what's there? Here it is...</text>
+	</string>
+	<string id="stalk_bar_treasure_1_dialog_73">
+		<text>Come the evening in the Bar, we gather, let's talk... Many useful things you can hear, but do not forget to drink stand...</text>
+	</string>
+	<string id="stalk_bar_treasure_1_dialog_81">
+		<text>Dalekova something... I still go in another direction...</text>
+	</string>
+	<string id="stalk_bar_treasure_1_dialog_82">
+		<text>Okay, I'll come...</text>
+	</string>
+	<string id="stalk_bar_treasure_2_dialog_0">
+		<text>Hello, old chap. How's life?</text>
+	</string>
+	<string id="stalk_bar_treasure_2_dialog_1">
+		<text>The key hits... On the head... Che need?</text>
+	</string>
+	<string id="stalk_bar_treasure_2_dialog_2">
+		<text>You Th angry takoy7 Come coasting for the mood?</text>
+	</string>
+	<string id="stalk_bar_treasure_2_dialog_3">
+		<text>Sick of everything already! Rolls...</text>
+	</string>
+	<string id="stalk_bar_treasure_2_dialog_41">
+		<text>Okay! Spit on all... Let's go!</text>
+	</string>
+	<string id="stalk_bar_treasure_2_dialog_42">
+		<text>I'd spoil...</text>
+	</string>
+	<string id="stalk_bar_treasure_2_dialog_5">
+		<text>Well, let's have a drink then... for old times sake...</text>
+	</string>
+	<string id="stalk_bar_treasure_2_dialog_6">
+		<text>Yes... Clean as a tear Komsomol... What sick of something?</text>
+	</string>
+	<string id="stalk_bar_treasure_2_dialog_71">
+		<text>Yes goats round one... Do good to people, and they govnischem smear... I found nychku one. I thought one goat to get together, that would have been someone's back cover... So this plague toppled the quiet, still managed to pack my gut... Ugh... People... Goats! Maybe it sumeesh ahead? That's where this cache...</text>
+	</string>
+	<string id="stalk_bar_treasure_2_dialog_73">
+		<text>Eccentrics on the letter M missing, no one can believe... And strive to make podlyanku...</text>
+	</string>
+	<string id="stalk_bar_treasure_2_dialog_81">
+		<text>I'll try, if possible. I will try to return to you much faith in people.</text>
+	</string>
+	<string id="stalk_bar_treasure_2_dialog_82">
+		<text>Evil you are, I'll go on you...</text>
+	</string>
+	<string id="stalk_bar_treasure_3_dialog_0">
+		<text>Hi, bro. We have never met?</text>
+	</string>
+	<string id="stalk_bar_treasure_3_dialog_1">
+		<text>Yes, and your still ugly... How are you?</text>
+	</string>
+	<string id="stalk_bar_treasure_3_dialog_2">
+		<text>Labeled me call me, all so-called...</text>
+	</string>
+	<string id="stalk_bar_treasure_3_dialog_3">
+		<text>Okay. Labeled, so Spot... Well...? Come for dating? There with you?</text>
+	</string>
+	<string id="stalk_bar_treasure_3_dialog_41">
+		<text>And then! Here! Strong as a mat monk...</text>
+	</string>
+	<string id="stalk_bar_treasure_3_dialog_42">
+		<text>No, no... I had to pay for the entire stock of ammunition...</text>
+	</string>
+	<string id="stalk_bar_treasure_3_dialog_5">
+		<text>Ha! True! Strong! Well, brother, labeled, and that's two more good people in the Zone has become...</text>
+	</string>
+	<string id="stalk_bar_treasure_3_dialog_6">
+		<text>They say you can find near the swag, have not heard?</text>
+	</string>
+	<string id="stalk_bar_treasure_3_dialog_71">
+		<text>Well, if you're a good person and good people should help each other, Tell you how to spirit, labeled... Zombaki Recently, something very much often wander are right here. And now, after a mystery! All approaches to the base dolgovtsami blocked, even the mouse does not crawl through, but these still appear... Mumble something, pull your hands... Horror! Last night cultural so-so relax... Bartender cattle on more debt is not poured, well, not redneck, huh? So, I zakemaril... Feel the stench is piled and gravity... I opened my eyes - so he darling! Trupak walking. I'm numb all over, arm or leg can not move... Not out of fear, of course, and so by surprise... A dohlik nasally so says something, and listened - figures like over and over again the same thing. I closed my eyes, open - no one... Only the stench left... And the figures so the head and sound, looked after - the coordinates are similar. Only far away... Here is a brother of parsley...</text>
+	</string>
+	<string id="stalk_bar_treasure_3_dialog_73">
+		<text>The whole swag, which was in the lung field, cleaned raked... Need to break through to the Zone center. They say there Klondike...</text>
+	</string>
+	<string id="stalk_bar_treasure_3_dialog_81">
+		<text>Looks like vodka was singed. Where to take it?</text>
+	</string>
+	<string id="stalk_bar_treasure_3_dialog_82">
+		<text>Klondike, you say? Well, well...</text>
+	</string>
+	<string id="stalk_bar_treasure_4_dialog_0">
+		<text>With so sadly, my friend?</text>
+	</string>
+	<string id="stalk_bar_treasure_4_dialog_1">
+		<text>So yes, I think it fell out of the Zone have to... Every day is getting worse and worse. Monsters of all the dangers and angrier, weather crap, the anomalies do not understand where... And the worst thing people zvereyut...</text>
+	</string>
+	<string id="stalk_bar_treasure_4_dialog_2">
+		<text>Okay, forget it! Let's freewheeling...</text>
+	</string>
+	<string id="stalk_bar_treasure_4_dialog_3">
+		<text>Come on... And there is, what?</text>
+	</string>
+	<string id="stalk_bar_treasure_4_dialog_41">
+		<text>Would not it be, did not offer to...</text>
+	</string>
+	<string id="stalk_bar_treasure_4_dialog_42">
+		<text>That is, the devil! There was also another bottle! Stolen!...</text>
+	</string>
+	<string id="stalk_bar_treasure_4_dialog_5">
+		<text>Ah-rr-m, Chardonnay of course, but still nothing!</text>
+	</string>
+	<string id="stalk_bar_treasure_4_dialog_6">
+		<text>Why not go for the swag?</text>
+	</string>
+	<string id="stalk_bar_treasure_4_dialog_71">
+		<text>Long story... Not in a hurry?... We Serega Earless' druzmi were together all the time in deep raids went... Sometimes to the very 'Mozgovyzhigatelya' traveled, saw these phantoms and not only...\nPlesni still a bit... Yes, but, Sergei... Ear, he shot off back in Chechnya, and there exists a nickname. How many times have we covered each other back... The latest on the best-selling Psevdogiganta ran into. Creature is not particularly dangerous, of course, if it does not shove Durikov. And then, it turned out that the creature slammed his ruchischey on the ground, earrings thrown. Well, probably not more than half a metre. And right in the jelly, the whole body... Face, hands... In short, everything... Meat, like pudding, draining from the skull... And he was in the minds of... Splash, my soul is burning... I threw it out there... And his soul left there too... Taynichok we left, I will not take it, do not want to... If you find, remember Serega...</text>
+	</string>
+	<string id="stalk_bar_treasure_4_dialog_73">
+		<text>I can not... Broke my area... Another day two, and go to get out...</text>
+	</string>
+	<string id="stalk_bar_treasure_4_dialog_81">
+		<text>Remember...</text>
+	</string>
+	<string id="stalk_bar_treasure_4_dialog_82">
+		<text>That's right... Probably...</text>
+	</string>
+	<string id="stalk_sim_treasure_1_dialog_0">
+		<text>Hello. Talk?</text>
+	</string>
+	<string id="stalk_sim_treasure_1_dialog_1">
+		<text>Hello. Why not? You, I see not one of those asshole...</text>
+	</string>
+	<string id="stalk_sim_treasure_1_dialog_2">
+		<text>No, not one of them... Come to one hundred grams?</text>
+	</string>
+	<string id="stalk_sim_treasure_1_dialog_3">
+		<text>And what...? Not bad... Pour...</text>
+	</string>
+	<string id="stalk_sim_treasure_1_dialog_41">
+		<text>Well, let's for dating...</text>
+	</string>
+	<string id="stalk_sim_treasure_1_dialog_42">
+		<text>Ah, ended rodimaya...</text>
+	</string>
+	<string id="stalk_sim_treasure_1_dialog_5">
+		<text>For dating... Huh, and where you took it... Muck golimaya...</text>
+	</string>
+	<string id="stalk_sim_treasure_1_dialog_6">
+		<text>Yes, it... Not Smirnoff! Heard in the Zone?</text>
+	</string>
+	<string id="stalk_sim_treasure_1_dialog_71">
+		<text>Well, I hear something... Like, there are caches of rich, were the victims of stalkers... Have secret caches of clan groupings, but no one said that he found this... Quite by accident, I came across the PDA, which says the place hiding. I can share with you... I myself am certainly not'll go already...</text>
+	</string>
+	<string id="stalk_sim_treasure_1_dialog_73">
+		<text>Come the evening in the Bar, we gather, let's talk... Many useful things you can hear, but do not forget to drink stand...</text>
+	</string>
+	<string id="stalk_sim_treasure_1_dialog_81">
+		<text>Thanks, I'll be in those places - check...</text>
+	</string>
+	<string id="stalk_sim_treasure_1_dialog_82">
+		<text>Okay, I'll come...</text>
+	</string>
+	<string id="stalk_sim_treasure_2_dialog_0">
+		<text>Hello, old chap. How's life?</text>
+	</string>
+	<string id="stalk_sim_treasure_2_dialog_1">
+		<text>The key hits... On the head... Che need?</text>
+	</string>
+	<string id="stalk_sim_treasure_2_dialog_2">
+		<text>You Th angry takoy7 Come coasting for the mood?</text>
+	</string>
+	<string id="stalk_sim_treasure_2_dialog_3">
+		<text>Sick of everything already! Rolls...</text>
+	</string>
+	<string id="stalk_sim_treasure_2_dialog_41">
+		<text>Okay! Spit on all... Let's go!</text>
+	</string>
+	<string id="stalk_sim_treasure_2_dialog_42">
+		<text>I'd spoil...</text>
+	</string>
+	<string id="stalk_sim_treasure_2_dialog_5">
+		<text>I've got some Vodka... let's have a drink... and chat...</text>
+	</string>
+	<string id="stalk_sim_treasure_2_dialog_6">
+		<text>Yes... Clean as a tear Komsomol... What sick of something?</text>
+	</string>
+	<string id="stalk_sim_treasure_2_dialog_71">
+		<text>Yes goats round one... Do good to people, and they govnischem smear... I found nychku one thought one goat to get together, that would be anyone's back cover... So this plague toppled the quiet, still managed to pack my gut... Ugh... People... Goats! Can sumeesh his beat? Here, here, the cache...</text>
+	</string>
+	<string id="stalk_sim_treasure_2_dialog_73">
+		<text>Eccentrics on the letter M missing, no one can believe... And strive to make podlyanku...</text>
+	</string>
+	<string id="stalk_sim_treasure_2_dialog_81">
+		<text>I'll try, if possible. I will try to regain your faith in people.</text>
+	</string>
+	<string id="stalk_sim_treasure_2_dialog_82">
+		<text>Evil you are, I'll go on you...</text>
+	</string>
+	<string id="stalk_sim_treasure_3_dialog_0">
+		<text>Hi, bro! We have never met?</text>
+	</string>
+	<string id="stalk_sim_treasure_3_dialog_1">
+		<text>Not too bad... and yourself?</text>
+	</string>
+	<string id="stalk_sim_treasure_3_dialog_2">
+		<text>Labeled me call me, all so-called...</text>
+	</string>
+	<string id="stalk_sim_treasure_3_dialog_3">
+		<text>Okay... Labeled, so Spot... Come on in dating? There with you?</text>
+	</string>
+	<string id="stalk_sim_treasure_3_dialog_41">
+		<text>And then! Here! Strong as a mat monk...</text>
+	</string>
+	<string id="stalk_sim_treasure_3_dialog_42">
+		<text>No, no... I had to pay for the entire stock of ammunition...</text>
+	</string>
+	<string id="stalk_sim_treasure_3_dialog_5">
+		<text>Ha! True! Strong! Well, my brother-labeled? That's two more good people in the Zone has become...</text>
+	</string>
+	<string id="stalk_sim_treasure_3_dialog_6">
+		<text>They say you can find near the swag. Have not heard?</text>
+	</string>
+	<string id="stalk_sim_treasure_3_dialog_71">
+		<text>Recently, I wandered to Lake Amber in Yantar, to see what was bigheads dug... Far not taken, because the brain is not official... Seen there these poor fellows - the zombie stalkers. Shoot, though, as Voroshilov arrows! Like, so it? The brain is not working? No? One of them was lying at death's door, I tried to search him. So, my mother dear! From it, falls upon a nasty kind of! Little skates are not rejected, was poisoned... His card was marked with a cache and taken... But I would not venture to go there, but I can share with you...</text>
+	</string>
+	<string id="stalk_sim_treasure_3_dialog_73">
+		<text>The whole swag, which was in the lung field, cleaned raked... Need to break through to the Zone center. They say there Klondike...</text>
+	</string>
+	<string id="stalk_sim_treasure_3_dialog_81">
+		<text>Okay, I'll risk!...</text>
+	</string>
+	<string id="stalk_sim_treasure_3_dialog_82">
+		<text>Klondike, you say? Well, well...</text>
+	</string>
+	<string id="stalk_sim_treasure_4_dialog_0">
+		<text>With so sadly, my friend?</text>
+	</string>
+	<string id="stalk_sim_treasure_4_dialog_1">
+		<text>Yeah, so... I think fell out of the Zone have to... Every day is getting worse and worse. Monsters of all the dangers and angrier, weather crap, anomaly - you can not tell where... And the worst - people zvereyut...</text>
+	</string>
+	<string id="stalk_sim_treasure_4_dialog_2">
+		<text>Okay, forget it! Better, let's freewheeling...</text>
+	</string>
+	<string id="stalk_sim_treasure_4_dialog_3">
+		<text>Come on... And there is, what?</text>
+	</string>
+	<string id="stalk_sim_treasure_4_dialog_41">
+		<text>Would not it be, did not offer to...</text>
+	</string>
+	<string id="stalk_sim_treasure_4_dialog_42">
+		<text>That is, the devil! There was also another bottle! Stolen!...</text>
+	</string>
+	<string id="stalk_sim_treasure_4_dialog_5">
+		<text>Ah-rr-m, Chardonnay, of course... But also nothing!</text>
+	</string>
+	<string id="stalk_sim_treasure_4_dialog_6">
+		<text>And what kind of swag do not you go?</text>
+	</string>
+	<string id="stalk_sim_treasure_4_dialog_71">
+		<text>It's a long story... Not in a hurry?... We Serega Earless' druzmi were together all the time in deep raids went... Sometimes to the very 'Mozgovyzhigatelya' traveled, saw these phantoms and not only...\nPlesni still a bit... Yes, but, Sergei... Ear, he shot off back in Chechnya, and there exists a nickname. How many times have we covered each other back... The latest on the best-selling Psevdogiganta narwhal, the creature is not particularly dangerous, unless of course it does not shove Durikov. And then, it turned out that the creature slammed his ruchischey on the ground. Earrings and threw... Well, probably not more than two feet and straight into a jelly, whole body... Face, hands... In short everything... Meat, like pudding, draining from the skull... And he was in the minds of... Splash, my soul is burning... I threw it out there... And his soul left there too... Taynichok we left, I will not take it, do not want to... If you find, remember Serega...</text>
+	</string>
+	<string id="stalk_sim_treasure_4_dialog_73">
+		<text>I can not... Broke my area... Another day two, and go to get out...</text>
+	</string>
+	<string id="stalk_sim_treasure_4_dialog_81">
+		<text>Remember...</text>
+	</string>
+	<string id="stalk_sim_treasure_4_dialog_82">
+		<text>That's right... Probably...</text>
+	</string>
+	<string id="freedom_1_dialog_0">
+		<text>How are things going around here these days?</text>
+	</string>
+	<string id="freedom_1_dialog_1">
+		<text>Could not be better... Recently, we drove a straw, 3 days in another world was... Sorry, over...</text>
+	</string>
+	<string id="freedom_1_dialog_2">
+		<text>Well... Yes... Of course, this is bad... May, at the pile?</text>
+	</string>
+	<string id="freedom_1_dialog_3">
+		<text>What a question! And there?</text>
+	</string>
+	<string id="freedom_1_dialog_41">
+		<text>For such a case is always there!</text>
+	</string>
+	<string id="freedom_1_dialog_42">
+		<text>In fact of the matter is that no.</text>
+	</string>
+	<string id="freedom_1_dialog_5">
+		<text>Eeh, failed, failed to notice...</text>
+	</string>
+	<string id="freedom_1_dialog_6">
+		<text>Have you heard? Stalker a few days ago came to the Bar... They say nychku reputable mercenary brushed. Joyful it was, all told, as he picked up a PDA, this mercenary somewhere here in the warehouse... The next day he had disappeared. Until now, it may have not seen... Looks like the mercenaries were removed... So...</text>
+	</string>
+	<string id="freedom_1_dialog_71">
+		<text>Yes, garbage is all... We have these mercenaries sludge, like cockroaches... We raid on the base of the debt ustaivayte. War was terrible... But to break through, and could not - Sound output, so powerful so... Brains, just boil... Tripped over a corpse dolgovtsa - flashed PDA. Well, I grabbed it... I had to escape to the Wild Territory... Entrenched in some garage, to wait release... Returned to base, I have this PDA investigated and saw the label on the map. In the from here. Check the time was not, so keep your...</text>
+	</string>
+	<string id="freedom_1_dialog_73">
+		<text>Yes, to hell with it. Nefig was to show off, and may be longer lived. Che me something to dream pulled... Come again! Let's chat about this and that...</text>
+	</string>
+	<string id="freedom_1_dialog_81">
+		<text>Hmm... Check as anything. Thank you. See you soon...</text>
+	</string>
+	<string id="freedom_1_dialog_82">
+		<text>Come here, of course... What are we talking about?</text>
+	</string>
+	<string id="freedom_2_dialog_0">
+		<text>Hello, Max! How's life?</text>
+	</string>
+	<string id="freedom_2_dialog_1">
+		<text>But somehow dumb, to replenish the ranks nobody wants... Maybe zapisheshsya in our ranks? Will live in peace...</text>
+	</string>
+	<string id="freedom_2_dialog_2">
+		<text>Well, I just think about it... Maybe butolchku missed the familiarity?</text>
+	</string>
+	<string id="freedom_2_dialog_3">
+		<text>Eeh... More to such generous people like you... And I've got for the job half a kilo of sausages preserved... Took out the elixir!</text>
+	</string>
+	<string id="freedom_2_dialog_41">
+		<text>In the by, this Ukrainian... 'Cossacks.' Keep faceted!</text>
+	</string>
+	<string id="freedom_2_dialog_42">
+		<text>I was going to Screws... If he left, Strelna...</text>
+	</string>
+	<string id="freedom_2_dialog_5">
+		<text>Brrr... My liver is not happy to be... Passed into your own business!</text>
+	</string>
+	<string id="freedom_2_dialog_6">
+		<text>Well, Max? I-uk... What's the y-you going?</text>
+	</string>
+	<string id="freedom_2_dialog_71">
+		<text>Why, Lukash recently asked to run on Barrier... Said the trouble they have there is some... Well, I took in these behold-from monkeys that sit at the fire, you see? Well, on the barrier... And there is a massive zombie attack! Pieces 50, probably... Lost only the sniper, though I thought all polyazhem. Well, zombies - tenacious bastards, so you want to kill, or not, you need... I went up, then to one, and he mumbles some numbers, repeated several times. Well, I 'helped' the poor man. When I returned, it dawned on me that these numbers - coordinates! Only here, the coordinates of what? Here...</text>
+	</string>
+	<string id="freedom_2_dialog_73">
+		<text>What is there we can proceed? Recently, a plan to bring - and-a-chumet! If you wish to purchase, please contact a miser. He knows where to take it. And you still come and chat...</text>
+	</string>
+	<string id="freedom_2_dialog_81">
+		<text>Yes, these zombies always something chanting. Pay no attention</text>
+	</string>
+	<string id="freedom_2_dialog_82">
+		<text>Well, see you soon! I need to go.</text>
+	</string>
+	<string id="freedom_3_dialog_0">
+		<text>Welcome guys! May I come in?</text>
+	</string>
+	<string id="freedom_3_dialog_1">
+		<text>Was healthy, Marked One Come on, move guys... Give the place a credible!</text>
+	</string>
+	<string id="freedom_3_dialog_2">
+		<text>Thank you for your hospitality. May, at the pile?</text>
+	</string>
+	<string id="freedom_3_dialog_3">
+		<text>That's what I understand! Vaughn, just for this case, kebab fried! Well, where is... This is the case?</text>
+	</string>
+	<string id="freedom_3_dialog_41">
+		<text>This case, I always have with you! Take this!</text>
+	</string>
+	<string id="freedom_3_dialog_42">
+		<text>Where am I stuck it...? In short, somewhere has sown. SchA to run off hunks...</text>
+	</string>
+	<string id="freedom_3_dialog_5">
+		<text>Brrr... Where did you get this bodyagi took? Tell a point? There will always take!</text>
+	</string>
+	<string id="freedom_3_dialog_6">
+		<text>Yes... Do not tell me the best of which I drank! I found it in nychke, it's not podaleku...</text>
+	</string>
+	<string id="freedom_3_dialog_71">
+		<text>Listen... And it can cook our zanykal it for a rainy day? Drink, something to do with him, so he let slip that in here, from being unloaded. He is with us a taster! Maybe it will run? Banquet will be continued!</text>
+	</string>
+	<string id="freedom_3_dialog_73">
+		<text>It is a pity, but then I bathed her drawers, the test vodichka! Well, if it is still, come on! And I - on the side.</text>
+	</string>
+	<string id="freedom_3_dialog_81">
+		<text>Yes... Cook, probably the champion drinker of the Zone... Well, see you...</text>
+	</string>
+	<string id="freedom_3_dialog_82">
+		<text>Of course, I will come... Well, Good Luck!</text>
+	</string>
+	<string id="freedom_4_dialog_0">
+		<text>Hi! That bored? What upset this?</text>
+	</string>
+	<string id="freedom_4_dialog_1">
+		<text>Hello, Marked One Yes, what is there not to miss something? No artifacts, no bab, vodka is not...</text>
+	</string>
+	<string id="freedom_4_dialog_2">
+		<text>And do not tell me... I have somewhere lying pint...</text>
+	</string>
+	<string id="freedom_4_dialog_3">
+		<text>So what are you silent? Next Fall, opens his backpack. Here, I have a pair of glasses there.</text>
+	</string>
+	<string id="freedom_4_dialog_41">
+		<text>Where did I put it? Ah, here it is! At the very bottom... Drink and for the women, and for the arts!</text>
+	</string>
+	<string id="freedom_4_dialog_42">
+		<text>Where is...? Where am I to her? Wait here a couple of minutes, schA drove at the same address, will have something to improve their health.</text>
+	</string>
+	<string id="freedom_4_dialog_5">
+		<text>Nitsche so you arsenalchik... Pokruche our will... Cups small. Well, we drink to the fair sex!</text>
+	</string>
+	<string id="freedom_4_dialog_6">
+		<text>Drink!... Uuh... Went well! Heard?</text>
+	</string>
+	<string id="freedom_4_dialog_71">
+		<text>Why, recently sent a group and I was there in the dark valley to reconnoiter the pass there, straight from the warehouse. You know, we are here, as in a cage - on the one hand 'Duty,' the other 'burner.' It was evening. Well, then. Observed the following scene - Bandos runs, runs faster than a bullet... Well, we neponyatkah. Apparently, he noticed us and we changed the vector. We bloodsucker jaw. We think that for Rambo? Here is our goggle-eyed Roman says: 'He's there no one runs, he walked with a thermal imager. We looked carefully - and in truth... behind him, as if the air distorted. He ran for twenty more metres, then we realized that things were bad. Behind him four bloodsucker! Had to put everyone, including urku. Can, a six what? In his PDA found a point on the map. Here, without comments. The poor thugs jeans all... In short, the observatory. Yes, anyone in his position would paralyze from fright.</text>
+	</string>
+	<string id="freedom_4_dialog_73">
+		<text>Constantly heard shouting, somewhere near here. Horror. And if in fact? Yaya, as it does not know what's going on here.</text>
+	</string>
+	<string id="freedom_4_dialog_81">
+		<text>Mda, nepovezlo guy. Well come on in and one for the road I went.</text>
+	</string>
+	<string id="freedom_4_dialog_82">
+		<text>Well, then, on the one for the road, and on the side, I am tired today...</text>
+	</string>
+	<string id="freedom_5_dialog_0">
+		<text>Hello, guys!</text>
+	</string>
+	<string id="freedom_5_dialog_1">
+		<text>Yes, you are not oriented so awful is the place... Contempt does not like. Not looming, sit down. What he wanted?</text>
+	</string>
+	<string id="freedom_5_dialog_2">
+		<text>Yes, I think that's a drink with the guys...</text>
+	</string>
+	<string id="freedom_5_dialog_3">
+		<text>Well, that's the way... And then, we're already freezing. Took out darling.</text>
+	</string>
+	<string id="freedom_5_dialog_41">
+		<text>Here, take.</text>
+	</string>
+	<string id="freedom_5_dialog_42">
+		<text>Guys... And I thought you were me and lodged them. Well, right now on the run to the base, zatseplyu bottle.</text>
+	</string>
+	<string id="freedom_5_dialog_5">
+		<text>Respect, not given to die from the cold... And we sit here, waiting for the guys... They went to the village cleaned den bloodsuckers... Looks like the more we will not see them... Sorry guys... MMDA.</text>
+	</string>
+	<string id="freedom_5_dialog_6">
+		<text>Aw, Snap... I have hair on my ass stand on end already... Even the vodka did not help. And what else is happening?</text>
+	</string>
+	<string id="freedom_5_dialog_71">
+		<text>Oooh, you touched a sacred theme. About this place so much legend goes. Before the release of 2006, this village was like a village newcomers as the cordon, and my brother lived there. All had lived quietly in peace... Like, suddenly, came the release of such force that survive udolie not all... Cries of... Wave mutants Purley from the barrier, one after another. Plume was ten or fifteen minutes, but it seemed that all three hours. Many then have lost their friends. The next day they sent us to pick up the corpses and bury, but we have no orders and would have done... I found my brother, you know, my brother... He lay in the basement, watching it was a pity. I took myself to the trunk (which is, you see how shiny), and PDA. In the PDA I have found a unique mark on the map. Here. And a note addressed to me, but that's personal.</text>
+	</string>
+	<string id="freedom_5_dialog_73">
+		<text>Yes, a lot of what happens here... But seldom do you come in here - here you all the Zoo area. Here and bloodsuckers, and Burer, and supervisors, and dogs, even the chimeras is drop...</text>
+	</string>
+	<string id="freedom_5_dialog_81">
+		<text>Mda, sochuvstuyu, sorry. Well, come to one for the road. I go, no cases of cranking.</text>
+	</string>
+	<string id="freedom_5_dialog_82">
+		<text>Thank you for your advice. See ya.</text>
+	</string>
+	<string id="freedom_6_dialog_0">
+		<text>Hello, lad. Have something to eat?</text>
+	</string>
+	<string id="freedom_6_dialog_1">
+		<text>There is, why?</text>
+	</string>
+	<string id="freedom_6_dialog_2">
+		<text>And there's a drink?</text>
+	</string>
+	<string id="freedom_6_dialog_3">
+		<text>Why not - that do not.</text>
+	</string>
+	<string id="freedom_6_dialog_41">
+		<text>Well. You see? What would we do without each other? Already realized the clearing... Hold a glass! For what we drink?</text>
+	</string>
+	<string id="freedom_6_dialog_42">
+		<text>Sorry, I have neither.</text>
+	</string>
+	<string id="freedom_6_dialog_5">
+		<text>Quickly, however. We'll drink for having to always have people like you. And so they have always found people like me! Come on! Uuh... On-the-orkaya plague!</text>
+	</string>
+	<string id="freedom_6_dialog_6">
+		<text>Do not say... It burns! Surely, you know what I do not know. Since?</text>
+	</string>
+	<string id="freedom_6_dialog_71">
+		<text>Well, bratella... You yourself, probably, the whole area itself has traveled... No? Did you know anything about the Dead City? No? There, the main base of mercenaries. They took me prisoner somewhere six months ago. All the rules killerskogo case - the bag on his head butt on the kettle... And they brought in an unknown direction... Brought began to elicit from me as quietly get to our base... I, of course, not a word they did not. Left me for the night in a cage. In front of me were two more... Incidentally, one very much on you look like... Th-that there were talking to the account, as there slip away... I noticed there is a map of the Zone... Point of any... Remember managed only one - here here. Then I dragged and again in the head with the butt came in the car, again with a sack on his head. Dragged out, put on the edge of the cliff and say, like - guessing last wish... And then, to my happiness, release... I had to jump. This proved to be some sort of swamp, and in the middle of the swamp - trailer in it and waited release. It turned out they brought me to Agroprom... Barely got to the house... Told everyone. Do not believe, because I was not much sober - you know, go through such...</text>
+	</string>
+	<string id="freedom_6_dialog_73">
+		<text>Oh, where am I? I was here only a week ago put the... So, Nitsche interesting here is not seen. Come back later, Che can and find out.</text>
+	</string>
+	<string id="freedom_6_dialog_81">
+		<text>I wonder... A miracle that you remained alive. Well, it happens.</text>
+	</string>
+	<string id="freedom_6_dialog_82">
+		<text>Okay. 'll Come again. Prior to the meeting</text>
+	</string>
+	<string id="freedom_7_dialog_0">
+		<text>Che wan some such?</text>
+	</string>
+	<string id="freedom_7_dialog_1">
+		<text>Vzblednulos... Holodina What a...</text>
+	</string>
+	<string id="freedom_7_dialog_2">
+		<text>But Che did not get warm?</text>
+	</string>
+	<string id="freedom_7_dialog_3">
+		<text>It would be what...</text>
+	</string>
+	<string id="freedom_7_dialog_41">
+		<text>Well, I'll help in this matter! Take this! For what we drink?</text>
+	</string>
+	<string id="freedom_7_dialog_42">
+		<text>And I freeze... Thought someone warm.</text>
+	</string>
+	<string id="freedom_7_dialog_5">
+		<text>We drink because tomorrow would have been for that drink! Uuh, strong. On biting sausage.</text>
+	</string>
+	<string id="freedom_7_dialog_6">
+		<text>'Well, thank you. Hey, where's the swag you can get hold of?</text>
+	</string>
+	<string id="freedom_7_dialog_71">
+		<text>Well, this is now all the problems. They say there habarok behind a barrier, but to be thrust back dangerously. Convinced by his experiences. There was no money, many who had... That's fate and forced to move the barrier. Go... Around the silence... I saw that something was moving ahead, well, I - for the stone. Yes, and stumbled... Found himself face to face with my old friend, he was gone long ago. And it was a semi-decomposed. When I remember, barf pulls. And once he was authoritative stalker. I've had here SHAFT-th and the PDA was able to get hold of. And he took off his backpack, why, I think, and he needed him...? Just got up and looked, Monolith communicate with mooed... Rubbing them, like 'In the name of Monolith...', ugh... I quickly move in the opposite direction... And in half an hour hit the zavarushku where we fought back from half a hundred zombies. So. In HMA found a couple of caches. Here and here. Here is me directly, on the way back, brushed, and afraid to go back to the other. I'm in those places before that never was, and go again I do not want...</text>
+	</string>
+	<string id="freedom_7_dialog_73">
+		<text>Well spoken agricultural industry when there were then used to mount the artifacts, now I do not know... Well, Marked One if anything, come.</text>
+	</string>
+	<string id="freedom_7_dialog_81">
+		<text>Lucky you. I advise you not to do more. Okay, do not sleep - freeze. Prior to the meeting.</text>
+	</string>
+	<string id="freedom_7_dialog_82">
+		<text>Well, okay. More'll come.</text>
+	</string>

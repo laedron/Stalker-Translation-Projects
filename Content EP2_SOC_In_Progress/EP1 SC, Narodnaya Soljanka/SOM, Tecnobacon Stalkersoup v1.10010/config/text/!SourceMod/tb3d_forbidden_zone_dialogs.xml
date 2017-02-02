@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- TB3D 1.1.0.0.1.0 ==>> -->
+<!-- New file for the new StalkerSoup game levels (2->3) dialogues, editing this file is allowed only for the TB3D - aleks1970 -->
+
+	<string id="forbidden_zone_0">
+		<text>forbidden zone 0</text>
+	</string>
+	<string id="forbidden_zone_1">
+		<text>forbidden zone 1</text>
+	</string>
+	<string id="forbidden_zone_2">
+		<text>forbidden zone 2</text>
+	</string>
+	<string id="forbidden_zone_3">
+		<text>forbidden zone 3</text>
+	</string>

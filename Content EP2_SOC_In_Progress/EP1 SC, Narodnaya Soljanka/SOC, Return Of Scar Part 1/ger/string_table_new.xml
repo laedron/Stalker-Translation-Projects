@@ -1,0 +1,218 @@
+<!-- Ьbersetzt am 16.06.2008 durch Wlad Geschwendt aka 777-W.L.A.D. -->
+<!-- Update am 04.03.2015 -->
+
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<string_table>
+			<string id="streloks_stick">
+		<text>"Strelok"s Speicherstick</text>
+		</string>
+				<string id="streloks_versteck">
+		<text>"Strelok"s Unterschlupf</text>
+		</string>
+				<string id="streloks_versteck_found">
+		<text>Nun habe ich den Unterschlupf von "Strelok" gefunden. Da Versteck scheint aber verlassen zu sein, hier war wohl schon lдnger keiner mehr. Ich konnte aber einen Speicherstick finden, ьber den er Informationen mit anderen Mitgliedern seiner Gruppe ausgetascht hat.\n \nJetzt kenne ich noch einen Namen - "Ghost". Wenn ich diesen "Ghost" finde, kцnnte ich durch ihn auch an "Strelok" rankommen.</text>
+		</string>
+		<string id="saharov_about_klik_desc">
+		<text>Sacharow weiЯt nicht viel ьber "ReiЯzahn's" Tod und empfiehlt mit Woronin zu sprechen.</text>
+		</string>
+		<string id="saharov_about_klik_text">
+		<text>Sacharow weiЯt nicht viel ьber "ReiЯzahn's" Tod und empfiehlt mit Woronin zu sprechen.</text>
+		</string>
+		<string id="saharov_begin">
+		<text>Sacharow. Beginn der Suche.</text>
+		</string>
+		<string id="poisk">
+		<text>Nachforschungen ьber ReiЯzahn</text>
+		</string>
+		<string id="voronin_about_klik_desc">
+		<text>Woronin meint - "ReiЯzahn" hatte wohl irgendwelche Beziehungen mit Sцldnern. Sein Rat: den Informator besuchen. Er soll auch mit Sцldnern Geschдfte machen. Vielleicht kann ich von ihm mehr erfahren...</text>
+		</string>
+		<string id="voronin_about_klik_text">
+		<text>Woronin meint - "ReiЯzahn" hatte wohl irgendwelche Beziehungen mit Sцldnern. Sein Rat: den Informator besuchen. Er soll auch mit Sцldnern Geschдfte machen. Vielleicht kann ich von ihm mehr erfahren...</text>
+		</string>
+		<string id="voronin_begin">
+		<text>Woronin. Die Nachforschungen gehen weiter.</text>
+		</string>
+		<string id="informator_begin">
+		<text>Informator. Es geht voran.</text>
+		</string>
+		<string id="informator_about_klik_text">
+		<text>Fьr Informator musste ich Thyran's PDA besorgen. Der ist ganz schцn schnell und hat dafьr fьr mich ein Treffen mit einem Typ, namens Gabriel, organisiert. Wo mich meine Ermittlungen weit hinfьhren, ist noch sehr unklar...</text>
+		</string>
+		<string id="gavr_begin">
+		<text>Gabriel.</text>
+		</string>
+		<string id="gavr_about_klik1_text">
+		<text>Soviel Zeit und Mьhe, aber ich weiЯ, praktisch, immer noch fast gar nichts... Dieser Gabriel zieht mich in seine private Auseinandersetzungen rein. Warum ich zugestimmt habe, Jobs fьr ihn zu erledigen, anstatt ihn ьber alles auszuquetschen und dann ihm sein Kopf abzudrehen - das weiЯ ich selber nicht... Sehen wir mal, womit das alles endet.</text>
+		</string>
+		<string id="gavr_begin2">
+		<text>Gabriel. Fortsetzung</text>
+		</string>
+		<string id="gavr_about_klik2_text">
+		<text>Gabriel hat mich zum "Hirnschmelzer" geschickt, damit ich fьr ihn ein paar Dokumente besorge. Seltsame Dokumente sind das, besonders die Karte. Voll mit Markierungen und Notizen. Ьberall Zahlen, Pfeile, Zeitangaben...\n \nUnd was anderes ist auch seltsam... Seit dem ich anfing nach "ReiЯzahn's" Mцrder zu suchen, begegne ich stдndig auslдndischen Sцldnern. Mich quдlt ein dunkler Verdacht... Gut, das ich aus Gewohnheit die Dokumente kopiert habe. Ich muЯ nochmal mit Freeman reden. Irgendwie ist dieser Typ undurchsichtig, und ich denke, er weiЯt mehr, als er sagt.</text>
+		</string>
+		<string id="freeman_begin">
+		<text>Freeman</text>
+		</string>
+		<string id="freeman_about_klik_text">
+		<text>Ich weiЯ nun, wer die Ermordung von "ReiЯzahn" angeordnet hat - Gabriel. Freeman half mir dabei, es zu erfahren. Jetzt bleibt nur eins - das zu tun, was Gabriel verdient hat. Bestattungsdatum steht schon fest - es liegt an mir, fьr die Leiche zu sorgen.</text>
+		</string>
+		<string id="ecolog_about_prizrak_text">
+		<text>Der Цkologe hat Zweifel daran, das "Ghost" tot ist... Habe, in seinem Auftrag, das Tagebuch von "Ghost" gefunden. Es ist im sehr schlechten Zustand - solange der Цkologe es zu entziffern versucht, werde ich mal mit dem Wirt reden...</text>
+		</string>
+		<string id="ecolog_talk">
+		<text>Цkologe. Erstes Gesprдch.</text>
+		</string>
+		<string id="prizrak">
+		<text>Die Suche nach "Ghost"</text>
+		</string>
+		<string id="barmen_about_prizrak_text">
+		<text>Wirt bestдtigte die Vermutung des Цkologen darьber, das "Ghost" nicht allein unterwegs war. Er hatte einen "Dietrich" mit, den der Wirt fьr ihn angeheuert hat. Ich werde mal nachfragen, ob der Цkologe schon irgendwas aus den Aufzeichnungen von "Ghost" herausfand...</text>
+		</string>
+		<string id="barmen_talk">
+		<text>Wirts Erzдhlung.</text>
+		</string>
+		<string id="ecolog_about_prizrak2_text">
+		<text>Der Цkologe bat mich, fьr ihn einen anderen Computer zu besorgen. Er sagte, das er ohne ihn nicht weiter arbeiten kann. Endlich konnten wir ein Teil der Aufzeichnungen lesen. "Jakut"... Ich kenne "Jakut". Es ist an der Zeit mit ihm zu reden.</text>
+		</string>
+		<string id="ecolog_talk2">
+		<text>Цkologe. Zweites Gesprдch.</text>
+		</string>
+		<string id="yakut_about_prizrak_text">
+		<text>"Jakut" schickte mich in die Agroprom-Katakomben. Ich fand da keinen, auЯer Blutsauger und seltsamen Personen, die mich zu tцten versucht haben. Ich muЯ wohl "Jakut" zu Rede stellen.</text>
+		</string>
+		<string id="yakut_talk">
+		<text>"Jakut". Erstes Gesprдch.</text>
+		</string>
+		<string id="yakut_about_prizrak2_text">
+		<text>Ich habe ihn endlich gefunden. Der Цkologe hatte Recht. "Ghost" LEBT.</text>
+		</string>
+		<string id="yakut_talk2">
+		<text>"Jakut". Zweites Gesprдch.</text>
+		</string>
+		<string id="prizrak_about_prizrak_text">
+		<text>So wie ich es verstand, machte irgendeine Organisation oder Gruppe Jagd auf "Ghost". Ich stattete ihnen ein "Freundschaftsbesuch" ab. Der Anfьhrer, mit dem Spitznamen "Tier", konnte fliehen. Macht nichts... Bald werde ich auch ihn finden.</text>
+		</string>
+		<string id="prizrak_talk">
+		<text>"Ghost". Erstes Gesprдch.</text>
+		</string>
+		<string id="prizrak_about_prizrak2_text">
+		<text>Der Feind ist besiegt. "Tier" ist tot. Nun kann ich mit ruhigen Gewissen zum "Monolith" aufbrechen.</text>
+		</string>
+		<string id="prizrak_talk2">
+		<text>"Ghost". Zweites Gesprдch.</text>
+		</string>
+		<string id="sysh_about_prizrak_text">
+		<text>Ein Brief von "Eule" an "Ghost", in dem er die Teilnahme an dem "bestellten" Hinterhalt auf "Ghost" bereut. "Eule" hatte die Aufgabe des Scharfschьtzen und sollte "Ghost" erschiessen. Eine Telepath-Attacke machte den ganzen Plan zunichte und fast alle Sцldner schlachteten sich gegenseitig ab. "Ghost" erledigte den Telepathen und rettete dem verletzten "Eule" das Leben, in dem er ihm zum Sumpfdoktor brachte. Dann verschwand "Ghost" wieder, ohne ein Wort mit "Eule" zu wechseln.\n \n"Eule" fing danach ein "neues Leben" an und wьnscht sich sehr "Ghost" zu finden und ihm alles persцnlich zu erzдhlen.</text>
+		</string>
+		<string id="sysh_talk">
+		<text>Notiz an "Ghost", geschrieben von "Eule".</text>
+		</string>
+		<string id="voen_about_group_text">
+		<text>Aufzeichnungen, die ich beim Durchsuchen der Leiche des Speznaz-Soldaten gefunden habe, weisen darauf hin, das er zu einer Einheit gehцrte, die eine Gruppe Forscher bei einer Expedition zum Zonenzentrum beschьtzt hat. \n \nDabei sind vermutlich alle umgekommen, aber er konnte sich noch bis zum Rand der Zone schleppen. Sein PDA mit Tagebuch-Kopie und der Expeditionsroute hat jetzt anscheinend ein Bandit auf der Mьllhalde. \n \nDieses PDA zu finden wдre sehr wichtig, vielleicht helfen mir die Eintrдge bei der Suche nach meinen eigenen Ich.</text>
+		</string>
+		<string id="voen_talk">
+		<text>Notizen des toten Soldaten.</text>
+		</string>
+		<string id="nauc_group">
+		<text>Die Suche nach vermissten Wissenschaftlern.</text>
+		</string>
+		<string id="bandranen_about_group_text">
+		<text>Ein Bandit, der auf der Mьllhalde im Hinterhalt einen Verletzten mimmte, hatte einen frischen Eintrag im seinem PDA. Demnach teilte ein wirklich verletzter Speznaz-Soldat mit ihm Medikamente und Verpflegung, und bat ihn sein PDA bei Militдr-Blockposten abzugeben, da er selbst die Hoffnung aufgab, zu ьbeleben. Ein wenig spдter wurde dem Banditen dieses PDA, und die Hдlfte der Beute, durch einen von Borows Leuten, der dann in Richtung Agroprom-Gebiet verschwand, abgenommen.\n \nWenn ich mal in diesem Gebiet bin, sollte ich nach dieser Person Aussschau halten und irgendwie PDA des Soldaten in meinen Besitz bringen.</text>
+		</string>
+		<string id="bandranen_talk">
+		<text>PDA des Banditen von der Mьllhalde.</text>
+		</string>
+		<string id="fraer_about_group_text">
+		<text>"Bruder" - Der Bandit aus Borows "Gang", der die Hinterhдltler auf der Mьllhalde um den Rucksack mit Wodka, Essen und dem PDA von einem Speznaz-Soldaten "erleichterte", hat mit anderen Banditen abends gesoffen. Dann ьbergab er, betrunken, den Rucksack mit dem PDA einem Anfдnger-Banditen, mit dem Auftrag, diesen in der Borows Basis abzuliefern.</text>
+		</string>
+		<string id="act_fraer_about_group_text">
+		<text>Und wo soll ich nun dieses Milchgesicht mit dem PDA suchen??? Es bleibt wohl nur eins ьbrig - auf der Mьllhalde rumzufragen. Vielleicht kann mir da einer von den stдndigen "Bewohnern" helfen.</text>
+		</string>
+		<string id="fraer_talk">
+		<text>"Bruders" PDA.</text>
+		</string>
+		<string id="act_fraer_talk">
+		<text>Schwierige Suche</text>
+		</string>
+		<string id="prapor_about_group_text">
+		<text>So, ich habe anscheinend endlich PDA des Soldaten vom Kordon gefunden. Die "Wдchter" haben den Banditen erwischt, der es hatte. Jetzt muЯ ich nur noch 10 Forscher-Medikits auftreiben, dann habe ich's in der Hand.</text>
+		</string>
+		<string id="prapor_talk">
+		<text>Erstes Gesprдch mit dem Stabsfeldwebel.</text>
+		</string>
+		<string id="narbe_about_group_text">
+		<text>Verdammt noch mal! Ich war nicht schnell genug... Bis ich die nцtige Menge Medikits fьr den Feldwebel zusammen hatte, wurde das Teil von ihm schon an jemand anderen verkauft. So wie es aussieht, interessiert der Inhalt von den Militдr-PDA auch andere Personen in der Zone.\n \nDie einzigen Hinweise, die mir Feldwebel geben konnte, sind nicht sehr informativ. Der schnellere Kдufer war wie ein Sцldner angezogen, hatte eine Narbe im Gesicht und ist Richtung Dunklen Tal verschwunden.\n \nDa werde ich wohl meine Nachforschungen in diesem Gebiet fortsetzen mьssen...</text>
+		</string>
+		<string id="narbe_talk">
+		<text>Nicht schnell genug!</text>
+		</string>
+<string id="prapor_about_group2_text">
+		<text>Habe dem Feldwebel 10 Forscher-Medikits gebracht. Bekam vom ihm den PDA. Tja, 10 gelbe fьr ein kaputtes Teil... Ich werd mal den Wirt besuchen, vielleicht findet er einen, der es reparieren kann.</text>
+		</string>
+		<string id="prapor_talk2">
+		<text>Zweites Gesprдch mit dem Stabsfeldwebel.</text>
+		</string>
+<string id="barrem_about_group_text">
+		<text>Ich weiЯ nicht, was ich schreiben soll... Durch die Blцdheit der Wirts Helfer ging der einziger "Faden" verloren. Ist es das Ende?</text>
+		</string>
+		<string id="barrem_talk">
+		<text>Gesprдch mit dem Wirt.</text>
+		</string>
+<string id="ara_about_group_text">
+		<text>Ich war im Rostok, hatte ein Gesprдch mit "Grauhaar". Er hat mir interessante Fakten berichtet... Er und seine "Kollegen" verfolgten die Wissenschaftler bis zum Radar, genauer bis zum "Roten Wald". Haben sich aber dann nicht getraut weiter zu gehen. "Hirnschmelzer" konnte jeden Moment aktiv werden. Sie kampierten dann 3 Tage lang bei den Armeelagerhдusern, aber die Forscher sind nicht mehr zurьckgekehrt. Eine nдchste Gruppe von Selbstmцrdern... Diese Eierkцpfe haben echt nicht alle Tassen... Sie hofften doch ernsthaft da durchzugehen, wo es noch keiner geschafft hat.</text>
+		</string>
+		<string id="ara_talk">
+		<text>Speicherstick des Sцldners "Ara".</text>
+		</string>	
+<string id="siv_about_group_text">
+		<text>"Grauhaars" Tagebuch-Eintrag: Kurzfassung - Er und seine "Kollegen" verfolgten eine Gruppe Wissenschaftler bis zum Radar, genauer bis zum "Roten Wald". Haben sich aber dann nicht getraut weiter zu gehen. "Hirnschmelzer" konnte jeden Moment aktiv werden. Auch fьr Ьberfall hatten sie nicht genug Krдfte, da sie nur zu fьnft waren, und die Forscher durch 15-20 Speznaz-Soldaten beschьtzt wurden. Sie kampierten dann 3 Tage lang bei den Armeelagerhдusern, aber die Forscher sind nicht mehr zurьckgekehrt.</text>
+		</string>
+		<string id="siv_talk">
+		<text>PDA des Sцldners "Grauhaar".</text>
+		</string>
+<string id="sah_about_group_text">
+		<text>Sacharow erzдhlte mir ьber die wissenschaftliche Expedition zum "Hirnschmelzer". Er vermutet, das alle Forscher tot sind. Nun ja, es bleibt mir nichts anderes ьbrig, als es persцnlich zu prьfen...</text>
+		</string>
+		<string id="sah_talk">
+		<text>Gesprдch mit Sacharow.</text>
+		</string>
+		<string id="ucen_about_group_text">
+		<text>Das war ein "schweres" Gesprдch. Ich sehe den Tod jeden Tag. Aber dem Tod direkt in die Augen zu blicken ist immer unendlich schwer... Wieviele Mдnner holst du dir noch, Zone?</text>
+		</string>
+		<string id="ucen_talk">
+		<text>Gesprдch mit dem verletzten Wissenschaftler.</text>
+		</string>
+		<string id="enc_sms">
+		<text>Private Kurzmitteilungen</text>
+		</string>
+		<string id="sms_new_dan1">
+		<text>Absender: Zahar</text>
+		</string>
+		<string id="sms_new_dan2">
+		<text>Absender: "Ghost"</text>
+		</string>
+		<string id="sms_new_dan3">
+		<text>Absender: Zahar</text>
+		</string>
+		<string id="sms_new_dan4">
+		<text>Absender: Zahar</text>
+		</string>
+		<string id="sms_new_dan1_text">
+		<text>Gezeichneter, Zachar hier! Dan wurde getцtet... Komm mal vorbei, wir haben was zu besprechen...</text>
+		</string>
+		<string id="sms_new_dan2_text">
+		<text>Gezeichneter, "Ghost" hier! Komm bei mir vorbei, wir mьssen reden...</text>
+		</string>
+		<string id="sms_new_dan3_text">
+		<text>Gezeichneter, hier ist Zachar! Dan kam ums Leben... Komm bei mir vorbei, es gibt was zu bereden...</text>
+		</string>
+		<string id="sms_new_dan4_text">
+		<text>Gezeichneter, hier ist Zachar! Dan ist umgekommen... Wenn du mal Zeit hast, solltest du hier vorbeikommen. Dann reden wir...</text>
+		</string>
+			<string id="bring_nachtstern_text">
+		<text>Mein erster Auftrag fьr den hiesigen Hдndler, um die Schulden fьr meine Rettung abzuarbeiten. Ich soll in einem bestimmten Gebiet ein "Nachtstern" finden und es dem Hдndler bringen. Wenn dieses Artefakt seinen Namen zurecht trдgt, werde ich es leicht entdecken kцnnen.\n \nDas ich unbewaffnet auf die Suche geschickt wurde, stцrt mich schon ein wenig. Da werde ich wohl bei Gefahr Beine machen mьssen.</text>
+		</string>
+		
+</string_table>

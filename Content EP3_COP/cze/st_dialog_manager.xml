@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="dm_anomalies_10">
+		<text>V Zatonu je jedno mнsto, kde jsou pod vodou ћhavэ anomбlie. Rнkб se tomu Bojler, protoћe ze zeme vychбzн spousta pбry. A pokud si myslнљ, ћe pбra nic nenн, tak mysli jeљte jednou. Zkuљenн stalkeri rнkajн, ћe takovэ vэpary te sundaj stejne dobre jako normбlnн ћбrovб anomбlie, pokud ne hur. Teplota je moћnб kapku menљн, ale provarн te to skrz naskrz do mekka. Co se tэce artefaktu, naљli normбlnн, ohnivej typ.</text>
+	</string>
+	<string id="dm_anomalies_11">
+		<text>V lomu je prej dobrэ mнsto, spousta artefaktu, i kdyћ anomбliн taky dost. Dole je spousta bublin z plynovejch anomбliн, pбlн to do ocн, i kdyћ mбљ gas masku.</text>
+	</string>
+	<string id="dm_anomalies_12">
+		<text>Popeliљte je u starэho hrbitova kousek od Kopace. Je tam spousta ћбrovejch anomбliн a obcas nejakэ zombice. Lidi se tomu snaћej vyhejbat, ale obcas se tam dajн najнt nejakэ artefakty.</text>
+	</string>
+	<string id="dm_anomalies_13">
+		<text>Na parkoviљti se prej naљly artefakty. Furt jsou tam auta z prvnн havбrie v Cernobylu - svнtн z nich radiace, aћ to nicн merбky. Navнc je tam taky hromada elektrickejch anomбliн.</text>
+	</string>
+	<string id="dm_anomalies_14">
+		<text>V Jedovatэm lesнku, kde jsou stromy ponicenэ kyselinou. Prej je tam spousta plynovejch anomбliн. V luftu je tolik plynu, ћe nevidнљ rovne, ale s trochou љtestн a zkuљenostн najdeљ artefakty.</text>
+	</string>
+	<string id="dm_anomalies_15">
+		<text>Pokud hledбљ artefakty, jdi po kyselinovejch. Ty nejsnбz najdeљ v Betonovэch lбznнch. Nebudeљ mнt moc velkou konkurenci, nikdo tam moc neleze, protoћe je to blнzko budovy Jupiteru.</text>
+	</string>
+	<string id="dm_anomalies_16">
+		<text>Kousek od Jupiteru se propadla silnice. Rнkб se tam tomu Asfalt, protoћe se silnice roztavila. V dнre je spousta anomбliн - ћбrovэ promнchanэ s gravitacnнma. A jelikoћ jsou tam dva druhy anomбliн, budou tam i ruznэ artefakty.</text>
+	</string>
+	<string id="dm_anomalies_17">
+		<text>Za cementбrnou je malej prнstav. Zmenilo se to tam na hroznou smrdнcн baћinu, voda je plnб plynovejch anomбliн. Uћ to ani nenн voda, spнљ neco jako naredenб kyselina. Drнv se tam daly obcas najнt artefakty, ale ted je to tam samej mutant.</text>
+	</string>
+	<string id="dm_anomalies_18">
+		<text>Podнvej se do starэ cementбrny. Spousta anomбliн, ale stojн to za to. Jasne, jsou mнsta, kde se dajн artefakty najнt snбz, ale hledб je tam spousta lidн. V cementбrne ti budou konkurovat akorбt tarbнci, to kdyћ vlezeљ do podzemн.</text>
+	</string>
+	<string id="dm_anomalies_19">
+		<text>Mel by ses podнvat poblнћ Dubovic. To je ta vec, co roste u kopcu, nad plynovejma anomбliema. Rнkб se tomu tak, protoћe nejakej vedбtor zkoumal kuru toho stromu a vychбzelo mu, ћe je to dub i borovice. Pokud tam chceљ ale hledat artefakty, budeљ potrebovat dobrou chemickou ochranu. A taky si vezmi spoustu munice, v tech kopcнch ћije spousta psнch smecek.</text>
+	</string>
+	<string id="dm_anomalies_2">
+		<text>Nekdy nemusнљ skбkat kvuli artefaktu do anomбliн. Prej se jeden typ dб najнt normбlne na otevrenэ ploљe. Tenhle stalker mel detektor, kterej zacal blbnout, tak se rozhodl, ћe vymenн baterky. Ale jakmile to udelal, detektor furt neco ukazoval a najednou prбsk, artefakt mu spadnul prнmo do klнna. Ten mel љtestн, co? Takovб je Zуna: nekdy te potrestб, nekdy odmenн.</text>
+	</string>
+	<string id="dm_anomalies_20">
+		<text>Slyљel jsem od zkuљenэch stalkeru, ћe se obcas artefakty dostanou ven z anomбliн. Kdyћ ti zacne detektor pнpat a ty ho vytбhneљ, ale stejne nic nevidнљ. To znamenб, ћe kolem tebe probehnul potulnej artefakt a nemб smysl ho honit, protoћe jen Zуna rozhodne, komu ho nadelн.</text>
+	</string>
+	<string id="dm_anomalies_21">
+		<text>V Pripjati zatнm nikdo artefakty nehledal. Vљichni stalkeri, co znбm, tam byli jen chvilku, takћe si radљi dбvajн pozor.</text>
+	</string>
+	<string id="dm_anomalies_22">
+		<text>Nevнm, jestli nekdo znб dobrэ mнsta. Pripjat zatнm nenн moc dobre prozkoumanб.</text>
+	</string>
+	<string id="dm_anomalies_23">
+		<text>Jб bych se podнval do podzemн. Pod mestem je prej tuna artefaktu.</text>
+	</string>
+	<string id="dm_anomalies_24">
+		<text>O tэhle oblasti nikdo nic moc nevн. Akorбt Garik obcas neco vyprбvн. Prej je tady mнsto, kde z kyselinovэ anomбlie roste popнnavэ vнno, vysokэ jako desetipatrovej barбk. Moћnб si z nбs delal srandu, ale pokud na to narazнљ, koukni tam po artefaktech.</text>
+	</string>
+	<string id="dm_anomalies_3">
+		<text>Nejjistejљн mнsto je kyselinovб baћina. Je plnб gravitacnнch anomбliн, ale ty snadno odhalнљ. Stacн koukat na vodnн hladinu a nemuћeљ je minout. Plynovэ anomбlie jsou otravnejљн, a to doslova. Kdyћ te nejakб sejme, nenн to sranda, ver mi. Proћнrб se to zbrojн rychlejc neћ koncentrovanб kyselina sнrovб.</text>
+	</string>
+	<string id="dm_anomalies_5">
+		<text>Ve vypбlenэ farme nahore na kopci je spousta anomбliн. Obcas se tam dajн najнt ohnivэ artefakty. Podнvej se do barбku: v tom, ve kterэm je po emisi nejvнc anomбliн, bude nejspнљ i nejakej artefakt.</text>
+	</string>
+	<string id="dm_anomalies_6">
+		<text>Nejspнљ je jich spousta v jeskynнch pod vypбlenou farmou. Kdyћ jdeљ po kopci s detektorem, furt rve a rve. Dostat se tam je snadnэ, stacн skocit dнrou dolu. Ale dostat se ven uћ je horљн, se vљema tema anomбliema. Vetљinou Vortexy a Kyselina. Prej je v tэ dнre i neco jako kometa. Proste plnej pytel prekvapenн, ale to znamenб, ћe tam budou i ruznэ artefakty.</text>
+	</string>
+	<string id="dm_anomalies_7">
+		<text>Videl jsi anomбlii Cirkus? Velkб trampolнna, kolem kterэ lнtajн dokola dve komety. Fakt ъћasnб podнvanб, ale nejlнp z dбlky, protoћe cirkus je horkej jako prase, je tam i spousta ћбrovejch anomбliн. Zas ale je tam taky spousta artefaktu, jen je hlнdб hnusnej ohnivej poltergeist, kterej se te pokusн osmaћit, pokud prilezeљ moc blнzko.</text>
+	</string>
+	<string id="dm_anomalies_9">
+		<text>Pokud mбљ zбjem o gravitacnн artefakty, hledej anomбlii Parбt. Najdeљ to snadno, anomбlie oћraly terйn tak dobre, ћe pulka kopce zmizela. Otevrelo se tam i pбr jeskynн a hned se v nich usadili snorkovй. Naљtestн moc casto ven nelezou.</text>
+	</string>
+	<string id="dm_anomalies_do_not_know_1">
+		<text>V Zуne, vole, v Zуne. Jen to nevzdбvej.</text>
+	</string>
+	<string id="dm_anomalies_do_not_know_2">
+		<text>Skvelб otбzka. Rekni mi, aћ zjistнљ odpoved!</text>
+	</string>
+	<string id="dm_anomalies_do_not_know_3">
+		<text>Kde, kdy, proc... pamatuj: kdyћ najdeљ naleziљte, nech si ho pro sebe.</text>
+	</string>
+	<string id="dm_anomalies_general">
+		<text>Kde bych mohl najнt nejakэ artefakty?</text>
+	</string>
+	<string id="dm_anomalies_no_more_1">
+		<text>Uћ jsem ti to rнkal.</text>
+	</string>
+	<string id="dm_anomalies_no_more_2">
+		<text>Ne, nic dalљнho nevнm.</text>
+	</string>
+	<string id="dm_anomalies_no_more_3">
+		<text>To je vљechno, co vнm. Zeptej se nekoho jinэho.</text>
+	</string>
+	<string id="dm_hello_0">
+		<text>Jak se vede?</text>
+	</string>
+	<string id="dm_hello_1">
+		<text>Zdravнm.</text>
+	</string>
+	<string id="dm_hello_10">
+		<text>Ahoj, stalkere.</text>
+	</string>
+	<string id="dm_hello_11">
+		<text>Ahoj.</text>
+	</string>
+	<string id="dm_hello_12">
+		<text>Co chceљ?</text>
+	</string>
+	<string id="dm_hello_13">
+		<text>Co je?</text>
+	</string>
+	<string id="dm_hello_14">
+		<text>Tak mluv.</text>
+	</string>
+	<string id="dm_hello_15">
+		<text>Dobrэ odpoledne, pane majore!</text>
+	</string>
+	<string id="dm_hello_16">
+		<text>Dobrэ odpoledne!</text>
+	</string>
+	<string id="dm_hello_17">
+		<text>Poslouchбm, pane majore!</text>
+	</string>
+	<string id="dm_hello_2">
+		<text>Jo, nazdar.</text>
+	</string>
+	<string id="dm_hello_3">
+		<text>Co je?</text>
+	</string>
+	<string id="dm_hello_4">
+		<text>Б, nбљ hrdina.</text>
+	</string>
+	<string id="dm_hello_5">
+		<text>Hej, stalkere, kam tak spechбљ?</text>
+	</string>
+	<string id="dm_hello_6">
+		<text>Ahoj</text>
+	</string>
+	<string id="dm_hello_7">
+		<text>Hej</text>
+	</string>
+	<string id="dm_hello_8">
+		<text>Nazdar, vole.</text>
+	</string>
+	<string id="dm_hello_9">
+		<text>Nazdбrek</text>
+	</string>
+	<string id="dm_hello_general">
+		<text>Hej!</text>
+	</string>
+	<string id="dm_help_0">
+		<text>Pomoz mi, brбcho...</text>
+	</string>
+	<string id="dm_help_1">
+		<text>Zachran me, brбcho, umнrбm...</text>
+	</string>
+	<string id="dm_help_10">
+		<text>Potrebuju zdravotnнka!</text>
+	</string>
+	<string id="dm_help_11">
+		<text>Lйkбrnicku!... rychle!</text>
+	</string>
+	<string id="dm_help_2">
+		<text>Pomoz mi, kбmo... sakra to bolн!</text>
+	</string>
+	<string id="dm_help_3">
+		<text>Dej mi lйkбrnicku... rychle, lйkбrnicku...</text>
+	</string>
+	<string id="dm_help_4">
+		<text>Vole... argh... no tak, pomoz mi!</text>
+	</string>
+	<string id="dm_help_5">
+		<text>Hej, potrebuju lйkбrnicku... rychle...</text>
+	</string>
+	<string id="dm_help_6">
+		<text>Pomoz mi, stalkere... lйkбrnicku, prosнm...</text>
+	</string>
+	<string id="dm_help_7">
+		<text>Jsem zranenej... pomoc!</text>
+	</string>
+	<string id="dm_help_8">
+		<text>Potrebuju lйkбrnicku!</text>
+	</string>
+	<string id="dm_help_9">
+		<text>Lйkбrnicku!</text>
+	</string>
+	<string id="dm_information_1">
+		<text>Slyљels neco o tэ cisticce vэchodne od Skadovska? Prej tam v noci neco divnэho svнtн... Fakt divnэho i na Zуnu. Nevнm, co to je, ale podle me mб smysl se tam jнt podнvat. Mohlo by to bэt neco cennэho, ale zas, mб smysl kvuli tomu riskovat prdel? To je otбzka...</text>
+	</string>
+	<string id="dm_information_10">
+		<text>Tady jsou jen starэ rozpadlэ vraky. Treba ta kolona vozidel u Mostu Preobraћenskйho - vљechno je tam prorezlэ skrz nasrkz, vcetne mostu. Spousta lidн by se tam rбda podнvala, ale je tam spousta snorku a anomбliн...</text>
+	</string>
+	<string id="dm_information_11">
+		<text>Slyљels, ћe Sultбn chtel prevzнt Fousбcuv kљeft? Skadovsk nenн pro jeho nenaћranou prdel dost velkэ, tak si chtel ukousnout vetљн sousto... Ale my rekli: "Nic takovэho, frajere!" Fousбc mu s naљima chlapama ukбzal, zac je toho loket. Sultбnovэm hrdlorezum tady pљenka nepokvete...</text>
+	</string>
+	<string id="dm_information_12">
+		<text>No teda, slyљels to? Ten љmejd Sultбn dostal do spбru Fousбce... nevнm, co presne mu udelal, ale ted ho mб pod palcem. Co se s tou Zуnou jen deje? Pokud to takhle pujde dбl, bude za chvнli ze Skadovsku banditskб zбkladna.</text>
+	</string>
+	<string id="dm_information_13">
+		<text>Uћ jsi slyљel o Oбze, brбcho? Prej je to mнsto, kterэ se nedб snadno najнt, a i kdyћ vнљ, kde to je, tak dostat se tam je jeљte horљн. Prej tam mб bэt nekde jezero. Kdyћ do nej vlezeљ, ze vљeho te vylйcн, vљechny rбny se ti okamћite zahojн! Ale, nemб smysl o tom jen tak kecat. Videls, kolik zelenejch stalkeru sem prichбzн, sem do centra Zуny? Nekterэ hledaj artefakty, jinэ jsou zvedavн, ale spousta jich chce najнt Oбzu. Prej je schovanб nekde tady poblнћ....</text>
+	</string>
+	<string id="dm_information_14">
+		<text>Zуna prej brzo skoncн... nekdo naљel Oбzu a sebral z nн artefakt, srdce Oбzy. Ted se Zуna presune do jinэ dimenze a ћбdnej stalker uћ se z nн nikdy nedostane... delбm si srandu, vole. Ale prej fakt naљli nejakej novej typ artefaktu. Vedбtori si s nнm prбve hrajou ve svэm bunkru.</text>
+	</string>
+	<string id="dm_information_15">
+		<text>Slyљels o Topolovi? Naљel nejakou dнru a zavedl do nн svэ chlapy. Jejich dobrodruћstvн skoncilo, kdyћ jim mozky oblbnul kontrolor. Skoncili by v nemocnici, nebejt jednoho stalkera, kterej tam s nima byl. Kdyћ se Topol probral z omбmenн, sedel ten stalker hned vedle kontrolora a odrezбval mu uљi.</text>
+	</string>
+	<string id="dm_information_16">
+		<text>Slyљels o vesnici Kopaci? Kdyћ doљlo k prvnн havбrce v Cernobylu, schytala to ta dedina tak zle, ћe se ji rozhodli celou zasypat. Ted je tam mнsto barбku jen hromada radioaktivnн hlнny. I pred havбriн to prej bylo zlovestnэ mнsto, desнm se toho, jakэ je to tam ted. Vљichni z toho majн takovej vнtr, ћe se tam nikomu nechce jнt a prozkoumat to. Ale co kdyћ se vљichni pletou? Treba je to ъplnej zlatej dul na artefakty!</text>
+	</string>
+	<string id="dm_information_17">
+		<text>Vнљ, v Janove jsou jen dva stalkeri, kterэ dokбћou vycнtit, ћe se blнћн emise. Nбљ zdravotnнk Kostihoj a Zulus, bejvalej clen Povinnosti. To bejvalej platн teprv chvilku... kdyћ Povinnost priљla do Janovskэ stanice, uћ tam byli lidi od Svobody. Jak se dalo cekat, rychle to zacalo bejt zlэ. Obe frakce utrpely velkэ ztrбty, dokonce i pбr svobodnejch stalkeru to schytalo od zatoulanejch kulku. Tehdy jim Zulus rekl, ћe se blнћн emise. Jelikoћ nemela Povinnost ani Svoboda na vэber, vyhlбsili prнmerн a zakopali se ve stanici. Kdyћ to vљechno skoncilo, odeљel Zulus z Povinnosti a usadil se u veћe poblнћ stanice.</text>
+	</string>
+	<string id="dm_information_18">
+		<text>Slyљel jsem spoustu divnejch historek... nemel bys verit kaћdэmu ћvбstu. Vypravecu je v Zуne v poslednн dobe vнc neћ mutantu. Ale co je divnэ, pбr stalkeru z Janova tvrdн, ћe videli UFO. Prej to vypadalo jako cernej talнr, tak pet metru v prumeru. Jinн tvrdej, ћe to na dбlku vypadalo jako letadlo a ћe to teda asi letadlo bylo. Co je ale zajнmavэ, jeden z ocitejch svedku je bejvalej pilot a ten tvrdн, ћe nikdy v ћivote nic takovэho nevidel.</text>
+	</string>
+	<string id="dm_information_2">
+		<text>V poslednн dobe jsem slyљel akorбt љpatnэ zprбvy. Dobrн chlapi mizej jeden za druhэm, a kdyћ najdem jejich mrtvoly, nenн v nich ani kapka krve. To musej bejt ti zasranэ upнri, kdo jinej? Fakt rбd bych naљel jejich hnнzdo a osolil ty svine olovem! Brzo budem muset chodit s ochrankou i na hajzl, vнљ? Osamelэ stalkeri to nedaj.</text>
+	</string>
+	<string id="dm_information_20">
+		<text>Slyљel jsem novou historku. Chlapi ze svobody prej sehnali PDA legendбrnнho zakladatele Povinnosti. A vнљ co? Ukбzalo se, ћe svэ chlapy podvedl, tvrdil jim, ћe je armбda v Zуne opustila. Vymyslel si to, aby si z nich mohl udelat vlastnн frakci! Ale takovэ veci v Zуne nevydrћej. Chvнli po tom se ten hrdina dostal do prostorovэ bubliny a skoncil. Tak uћ to chodн.. a to jsem premэљlel, ћe se k Povinnosti pridбm! Pche, at si ty svoje rбdoby vlasteneckэ kecy hlбsaj sami.</text>
+	</string>
+	<string id="dm_information_21">
+		<text>Ten novej oddнl Povinnosti, vљak vнљ... zjevili se jako kouzlem, z niceho nic. Uvaћuj o tom: skupina Povinnosti odejde z Janova a kdyћ se vrбtej, je jich trikrбt tolik. To se klonujou nebo co? I kdyћ od Povinnosti by se to dalo cekat. Rozeznбљ je od sebe akorбt podle vэloћek!</text>
+	</string>
+	<string id="dm_information_22">
+		<text>Ten novej oddнl Svobody, vљak vнљ... zjevili se jako kouzlem, z niceho nic. Uvaћuj o tom: skupina Povinnosti odejde z Janova a kdyћ se vrбtej, je jich trikrбt tolik. Napadlo me, ћe se mnoћej delenнm! Co myslнљ? To maj z tэ trбvy, kterou hulej, za chvнli zakorenej a pak se budou rozmnoћovat vegetativne!</text>
+	</string>
+	<string id="dm_information_23">
+		<text>Znбљ Gontu a jeho partu? Nejakou dobu je celkem pronбsledovala smula, po tom co zmizel Danila a Rejpal byl zranenej. Ale ted se jim zas darн. Delaj pro vedбtory, merej pro ne neco. Dobrэ, ne? Pohodovб prбce a navнc tak moћnб casem zнskaj oficiбlnн povolenн.</text>
+	</string>
+	<string id="dm_information_24">
+		<text>Slyљels o stalkerech, kterэm se rнkб Mнta, Torba a Grizzly? Prej maj kљeft pro vedбtory, delaj za ne nejakэ merenн. Co je to za blbost? Podle me ti vedбtori jedou v nejakэ љpнne. Ale aspon maj chlapi tedka chvilku klid. Moћnб dokonce i seћenou oficiбlnн povolenky.</text>
+	</string>
+	<string id="dm_information_25">
+		<text>Znбљ Spartaka a jeho partu? Tak ty uћ ve Skadovsku nepotkбљ, ted hlнdaj vedбtorskej bunkr. A proc ne, o mutanty se dokбћou postarat a vedej, jak zahnat bandity. Veda je duleћitб vec, ale potrebuje trochu klidu a mнru.</text>
+	</string>
+	<string id="dm_information_26">
+		<text>Videls ty ћoldбky, co se flбkajн kolem cisticky? V poslednн dobe urcite ne. Vyrazili do Jupiteru hlнdat vedбtorskej bunkr. Pred tнm to tam hlнdali nejacн jinн ћoldбci, ale neco se jim prej stalo. A to podle me nenн nic љpatnэho! Kdyћ zmizej nejacн ћoldбci, prijdou mнsto nich jinэ a taky zmizej... jeљte pбrkrбt do kola a zbavнme se vљech ћoldбku ze Zatonu.</text>
+	</string>
+	<string id="dm_information_27">
+		<text>Vedбtorskej bunkr ted prej hlнdaj odvбћnэ bojovnнci Povinnosti... co z toho asi maj? Opravdu verej, ћe se jim ti vedбtori oplatej plasmovou bouchackou, aby mohli jнt na lov tarbнku? Prd hlнdajн, bude v tom nejakб љpнna...</text>
+	</string>
+	<string id="dm_information_28">
+		<text>Vedбtorskej bunkr ted prej hlнdб Svoboda. Copak nemaj vedбtori strach, ћe jim nekdo vykourн labinu? A myslнm to doslova, haha. Ale mб to jednu vэhodu. Pokud si nekdo zkusн zaъtocit na bunkr, budou se muset nejdrнv prodrat kourovou clonou a neusmбt se k smrti!</text>
+	</string>
+	<string id="dm_information_29">
+		<text>Uћ jsi byl v Jupiteru, tovбrne na elektroniku? Pekne neprнjemnэ mнsto. Nikdo nevн, co se tam vlastne deje. Mutanti a anomбlie jsou tam jako vљude jinde... ale furt mбm pocit, ћe se tam deje neco hnusnэho. Instinkt mi rнkб, tam bude nejakej pruser.</text>
+	</string>
+	<string id="dm_information_3">
+		<text>Hele, nejseљ ty ten, kdo odhalil skadovskэho zdravotnнka? Jsem ti za to vdecnej. Taky jsem mohl skoncit jako jeho dalљн pacient... vљichni jsme si mysleli, ћe to byli mutanti, ale zjevne dokбћou bejt lidi stejnэ svine. Holt, v Zуne se vљichni ћerem navzбjem, co?</text>
+	</string>
+	<string id="dm_information_30">
+		<text>Na to bych se te mel ptбt jб. Po tom, co jsi vlezl do tech tunelu pod Jupiterem, jsem slyљel, ћe ses dostal aћ do stredu Zуny. Byl z toho porбdnej poprask. Tak tucet lidн mel sto chutн vyrazit za tebou. Nitrбk je ale uklidnil - rekl jim, ћe jsou brбny v tunelu zavrenэ a ћe on je nedokбћe otevrнt. Jasne, bylo tady pбr magoru, kterн chteli ty brбny vyhodit do luftu, ale jeљte porбd nesehnali dost dynamitu. A ani nevymysleli, jak tam dole budou dejchat.</text>
+	</string>
+	<string id="dm_information_31">
+		<text>Slyљel jsi tu novinku o Garikovi? To je stalker, kterej drнv makal pro vedбtory. Uћ nenн naruљitel, dostal oficiбlnн povolenku pro prбci v Zуne, ver tomu nebo ne! No, myslнљ si asi, ћe mel sebrat korist a vrбtit se domu, co? No mнsto toho se ten magor vydal do Pripjati. Vљichni si mysleli, ћe uћ je po nem, ale ne. Zvlбdnul to, i kdyћ stalkerum to k nicemu nebude. Narazil na nejakэ vojбky. Ted je s nima za dobre, kdyћ mб povolenku, ale normбlnн stalkeri tam stejne nesmн.</text>
+	</string>
+	<string id="dm_information_32">
+		<text>No... Svoboda a Povinnost spolu zas bojujou, tentokrбt o nejakou velkou skrэљ. Prej je tam dost vybavenн pro tri pechotnн divize. Cert vн, kdo to tam schoval, ale ta bitka, to je neco. Vydrбћdilo to vљechny stalkery v Janove, ale naљtestн se do boje nepridali, jinak by to byl masakr. Rekl bych, ћe Povinnost prohrбla, protoћe to tam ted hlнdaj oddнly Svobody.</text>
+	</string>
+	<string id="dm_information_33">
+		<text>No... Svoboda a Povinnost spolu zas bojujou, tentokrбt o nejakou velkou skrэљ. Prej je tam dost vybavenн pro tri pechotnн divize. Cert vн, kdo to tam schoval, ale ta bitka, to je neco. Vydrбћdilo to vљechny stalkery v Janove, ale naљtestн se do boje nepridali, jinak by to byl masakr. Rekl bych, ћe Svoboda prohrбla, protoћe to tam ted hlнdaj oddнly Povinnosti.</text>
+	</string>
+	<string id="dm_information_34">
+		<text>V poslednн dobe se neco stalo. Parta stalkeru zkoumala tunely pod Jupiterem a na neco narazila. Nebo spнљ na nekoho. Nejdrнv jim bouchacky samy vyletely z rukou a pak na ne zacalo lнtat vљechno svinstvo v okolн. Nemeli tuљenн, co se tam sakra stalo, ale priљli tam o dva chlapy.</text>
+	</string>
+	<string id="dm_information_35">
+		<text>V tunelech severne od Jupiteru byl prej nejakej nebezpecnej zmutovanej љmejd. Pastickбr tam poslal na pruzkum jednoho stalkera. Ukбzalo se, ћe tam meli hnнzdo bjureri. Proc meli? Protoћe ten stalker vљechny bjurery vyhubil. Sбm samojedinej... dokonce vypadal tak trochu jako ty, podle popisu, akorбt ћe byl o hlavu vetљн a nosil sebou nekolik granбtometu.</text>
+	</string>
+	<string id="dm_information_36">
+		<text>Stalkeri skoncili... z baћin vylнzaj prнљery. Stalkeri u cementбrny videli, jak s sebou potvory tбhnou jednoho z naљich. Bylo jich nejmнn tucet, obrovskэ hnusnэ svine. Vypadali jako upнri, akorбt byli dvakrбt vetљн a mnohem rychlejљн. Modlнme se, aby Pastickбr vymyslel, jak si s tema svinema poradit...</text>
+	</string>
+	<string id="dm_information_37">
+		<text>Uћ jsi slyљel o baћinnejch upнrech? Tech z baћin? No, je po nich. Pastickбr se o ne postaral. Ne osobne, najal na to nejakэ stalkery. Prej dali dohromady partu tak deseti lidн, procesali baћinu a co vyskocilo, dostalo dбvku prнmo do palice. Ted uћ tam prej neћijou ani ћбby.</text>
+	</string>
+	<string id="dm_information_38">
+		<text>Sotva se zacalo povнdat, ћe tady rбdн chimйra, tak ji nekdo oddelal. Mutanti drнv zabнjeli stalkery po tuctech, ale vypadб to, ћe se karta obracн, konecne. Taky jsem slyљel, ћe tu chimйru oddelal zkuљenej lovec, kterej zabil dohromady vнc mutantu neћ ty a jб komбru.</text>
+	</string>
+	<string id="dm_information_39">
+		<text>Uћ jsi slyљel, jakэ lidi ted verbuje Svoboda? Treba ten tэpek jmйnem Pazourek, straљnej frajer, furt se chlubil vљнm moћnэm... no a ukбzalo se, ћe je to pekne hnusnej љmejd. Nechal svэho kбmoљe zdechnout v anomбlii, sebral jeho korist a odeљel. Pozdejc se zjistilo, ћe v Zatonu ta svine nakrmila chimйru celou partou lovcu. Myslel jsem si o Svobode dobrэ veci... sakra, radљi zustanu na vlastnн pest, neћ mнt takovэ "kбmoљe".</text>
+	</string>
+	<string id="dm_information_4">
+		<text>No, prej sundali tu chimйru v Zatonu. Gontova parta s nejakэm stalkerem. Hele, nebyl jsi to nбhodou ty? Moћnб bys mi to mohl popsat z prvnн ruky? Jo a mimochodem, fakt dнk, o jednu lidoћravou bestii mнn!</text>
+	</string>
+	<string id="dm_information_40">
+		<text>Nevнm, jestli te to zajнmб, ale mбme tady Noa, nejvetљнho magora, jakэho jsi kdy potkal. Mб pekne hnusnou lod... teda prej mu ji za tejden postavila parta ilegбlu. Dбvej si na nej bacha, nejdrнv strнlн a pak se ani neobteћuje ptбt se. Do prdele s tнm debilem, to rнkбm jб.</text>
+	</string>
+	<string id="dm_information_41">
+		<text>Znбљ toho frajera Hnitэho? Pekne prбskanej tэpek. Prodбvб ty nejlepљн bouchacky љiroko daleko. By me fakt zajнmalo, jak je sem dostбvб. Chci rнct, jak sebou muћeљ tбhnout Vintara, aby si toho nekdo nevљimnul? Kam si ho narveљ? To je skoro jak nejakэ kouzlo, vole.</text>
+	</string>
+	<string id="dm_information_42">
+		<text>Povнdб se, ћe Sultбn љlбpnul do pekne hlubokэho hovna. Chtel sundat Fousбce a ovlбdnout jeho kљeft, ale ukousl si vнc, neћ dokбzal seћvejkat. Mнsto toho dostal pekne do rypбku. Cekajн ho teћkэ casy, jeho vlastnн parta se na nej koukб pekne hladove. Uћ nenн takovб teћkб vбha, jako kdysi.</text>
+	</string>
+	<string id="dm_information_43">
+		<text>Povнdб se, ћe Sultбn nejak ovlбdnul Fousбce a љйfuje jeho kљeftu. To je dobre, Sultбn mб ted vetљн moc, ale nejlepљн na tom je, ћe brzo budeme љйfovat Skadovsku podle sebe. To bude krбsa. Chceљ se schovat pred emisн? Nima problema, tavaryљ, ale naval poplatek!</text>
+	</string>
+	<string id="dm_information_44">
+		<text>Hele, uћ jsi slyљel o Oбze? Si to predstav, mнsto, kterэ te okamћite vylйcн ze vљech zranenн a nemocн. To musн bejt nejakej trik... nebo kouzlo. Ale me napadlo jeљte i neco jinэho. Povнdб se ted hodne o Oбze, ale uћ ani slovo o Plnici prбnн jak kdysi. Moћnб je Oбza necн prбnн, kterэ se naplnilo?</text>
+	</string>
+	<string id="dm_information_45">
+		<text>Mezi vedбtorama se povнdб o nejakэm artefaktu, kterej nekdo pritбhnul z Oбzy. Ale tohle je zajнmavэ, jakmile to prostudujou, budou mнt lйk na rakovinu! To je neco!</text>
+	</string>
+	<string id="dm_information_46">
+		<text>Stejnэ sracky, jen novej den... vљichni vyprбvej ty starэ historky o stredu Zуny. Jako treba tu o Oбze, coћ mб bejt mнsto, kterэ te okamћite vylйcн ze vљechno moћnэho a doplnн ti energii. To je naprosto idiotskej kec, ale dobre se to poslouchб. Zvlбљt kdyћ nekdo mluvн o tom, kde to je. Jo, prбl bych si, aby takovэ mнsto fakt existovalo... zachrбnili bysme spoustu naљich chlapu.</text>
+	</string>
+	<string id="dm_information_47">
+		<text>Slyљel jsem, ћe prej nekdo fakt naљel Oбzu. Nikdy by me nenapadlo, ћe opravdu existuje, ale fakta jsou svine. Naљli tam nejakej artefakt. Vedбtori ho prбve studujou. Moћnб podle nej udelajн nejakэ super lйcebnэ zarнzenн... naљim chlapum by se neco takovэho fakt hodilo.</text>
+	</string>
+	<string id="dm_information_48">
+		<text>Kopaci. Nic novэho v Zуne, ale pro me to novэ je. Jen si to predstav, celб dedina s barбkama zasypanэma aћ po strechy do hlнny... Tбhne se to aћ od 1986... barбky byly tak nasбklэ radiacн, ћe je radљi zahrabali. Neprнjemnб predstava...</text>
+	</string>
+	<string id="dm_information_49">
+		<text>Znбљ tu historku o tom, jak jsme s Povinnostн skoncili spolecne v Janove? Muћe za to Zulus. Tenkrбt patril k Povinnosti a dokбzal vycenichat blнћнcн se emisi jako nikdo druhej... Ale my do Janova priљli jako prvnн, teda hned po stalkerech. Sotva jsme meli cas zapбlit si pбr jointu, kdyћ se objevili ti debilnн vojбcci a zacali na nбs mбvat bouchackama. Naposled jsem takovej masakr videl na Smetбku tak pred rokem. Hromada mrtvejch na obou stranбch. A nбљ specialista na emise mezi nima, at je mu zeme lehkб. A nejednou zacal Zulus rvбt: "Emise! Blнћн se emise, krejte se!" No co jsme meli delat, vykopnout je a nechat je zdechnout? Povinnost nebo ne, furt jsou to lidi. A tak tady ted ћijem: kdyћ je ticho, hбdбme se, ale kdyћ prijde emise, sedнme bok po boku. Zulus nakonec z Povinnosti odeљel. Ted prej ћije jako poustevnнk poblнћ Janova.</text>
+	</string>
+	<string id="dm_information_5">
+		<text>Nenн to nic novэho ani tajnэho, ale technik Kardan se brzo uchlastб k smrti. Prej kdyћ priљel do Skadovsku, byl celkem v klidu, chlastal jen obcas, nebo kvuli radiaci. Ale pozdejc zacal hltat koralku jako vzteklej, znicil ho smutek, kdyћ mu chcнpli dva kamarбdi. Asi si byli fakt blнzcн.</text>
+	</string>
+	<string id="dm_information_50">
+		<text>No, znбm jednu zбbavnou historku. Jeden tэpek vyprбvel, ћe nad Janovem lнtalo Ufo. Zуna fakt dokбћe dohnat lidi k љнlenstvн, co? Jakoby jim nestacili poltergeisti a kontrolori, ne, oni proste bez starejch historek o ufounech nevydrћej. No aspon ћe tady nemбme ћбdnэ љнlenэ psioniky, co by zarнkбvali dбbla z vodky. Predstav si takovэho: "Mocnej Etanole, vyћen z koraly zlo! Zachovej jen cistej chlast!! Haha.</text>
+	</string>
+	<string id="dm_information_51">
+		<text>Slyљel jsi o vesnici Kopaci? Kdyћ doљlo k prvnнmu pruseru v Cernobylu, schytala to ta dedina tak hodne, ћe ji radљi celou zasypali. Ted jsou tam mнsto barбku jen hromady radioaktivnн hlнny. Prej to bylo i pred havбrkou straљidelnэ mнsto, cert vн, jakэ je to tam ted. Nikdo si netroufб to tam jнt zkontrolovat.</text>
+	</string>
+	<string id="dm_information_52">
+		<text>Nenн to nic novэho, ale moћnб jsi to jeљte neslyљel. Nevlezli jsme do postele se Svobodou, protoћe bysme se chteli zahrбt. Muћou za to okolnosti. Kdyћ jsme sem dorazili, vyskocila na nбs odevљad Svoboda. Ztrбty byly teћkэ na obou stranбch, ale pomalu jsme nad tema mizernejma anarchistama zнskбvali navrch... ale uprostred nejvetљнho boje Zulus ucнtil, ћe se blнћн emise. Nikdy se neplete, vнљ... Nemeli jsme na vybranou, museli jsme vyhlбsit prнmerн. Co ale nechбpu, proc Zulus po tom incidentu odeљel z Povinnosti...</text>
+	</string>
+	<string id="dm_information_53">
+		<text>Naљi pruzkumnнci nedбvno ohlбsili, ћe videli nad Janovskou stanicн neidentifikovanэ lнtajнcн objekt. Proste UFO. Neћ se zeptбљ na nejakou blbost, UFO nejni jen lнtajнcн talнr s martanama. Muћe to bэt cokoli lнtajнcнho, od kusu lepenky po meteorologickou sondu, proste to akorбt svedci nedokбzali identifikovat. Je ti to jasnэ?</text>
+	</string>
+	<string id="dm_information_54">
+		<text>Ty jsi prinesl Lokimu to PDA, co? Ty vole, to byl pruser. Legendбrnн zakladatel Povinnosti generбl Tacenko podvedl svэ vojбky, udelal z nich ъplnэ debily. Rozbil rбdio, aby se jim nikdo z venku nedovolal, a zaloћil si vlastnн partu... jen aby chcнpnul jako ъplnej retard v blbэ prostorovэ bubline! Takovou blbost by si nikdo nedokбzal vymyslet!</text>
+	</string>
+	<string id="dm_information_55">
+		<text>Videls ten novej oddнl tech blbejch vojclu? Nemuћou to bejt posily z jejich zбkladny - ideologie jim jeљte nevypбlila zbytek mozku. Ale jsou moc dobre cvicenн, aby to byli obycejnн stalkeri. Cert vн. Nemohli by bэt od Monolitu? Jб vнm, znн to blбznive!</text>
+	</string>
+	<string id="dm_information_56">
+		<text>Videls naљe novэ bojovnнky? Jo, ty jsi je sem vlastne prived, co? Seљ dobrej. A ti chlapi jsou celkem v pohode, akorбt kapku nervуznн. Za pбr mesнcu se ale jejich mozky osvobodej. Zacnou brбt nбљ zpusob ћivota vбћne a brzo budou jako my.</text>
+	</string>
+	<string id="dm_information_57">
+		<text>Mбme skvelэ novэ rekruty, oddнl drнvejљнch monolitбku. A nejsou to ћбdnн zelenбci, naopak, zkuљenн bojovnнci. Samozrejme majн v hlavбch jeљte kapku vymeteno, ale to je v pohode. Mбme na ne pripravenej zбkladnн kurz ideologie, to jim ty blbosti Monolitu z palic vyћene.</text>
+	</string>
+	<string id="dm_information_58">
+		<text>Svoboda prej naverbovala drнvejљн partu z Monolitu. Teћko tomu uverit, ale fakt maj novej oddнl a ten rozhodne nepriљel z venku. Asi jsou dost zoufalн... nebo jim ty drogy ъplne vypбlily mozky. Co naverbujou prнљte, brigбdu zombнku? Prapor bjureru?</text>
+	</string>
+	<string id="dm_information_59">
+		<text>V tэhle oblasti bude brzo zase zбkon a porбdek. Povinnost prevzala kontrolu nad klнcovejma lokacema. Zabezpecili jsme silnou pozici v Janove a u vedeckэho bunkru mбme non stop strбћnн oddнl. Je na case, aby se Svoboda sbalila a vypadla - anarchisty tady nevidнme rбdi.</text>
+	</string>
+	<string id="dm_information_6">
+		<text>Nejnovejљн div sveta - strнzlivej Kardan. Dokбћeљ tomu uverit, ћe prestal chlastat? Lidi ze Skadovsku se ho ptali, jestli se dostal k cнslu horkэ linky anonymnнch alkoholiku a on jim na to rek: "Potreboval jsem jedinэ cнslo, љedesбt dva."</text>
+	</string>
+	<string id="dm_information_60">
+		<text>Myslнm, ћe to ty jsi pomohl naљim chlapum sehnat prбci pro vedбtory, co? Dнky. Je fajn videt u bunkru naљe chlapy mнsto tech mizernejch ћoldбku. Jen tak dбl!</text>
+	</string>
+	<string id="dm_information_61">
+		<text>No hele... napakovali jsme se na skrэљi Povinnosti. Ted tu skrэљ pouћнvбme na neco lepљнho, jako vezenн pro povinnostбckэ љmejdy, mackбme z nich vљechna tajemstvн. Hehe. Jo a dнk za ten tip na poplaљnej systйm, bez posil bysme nemeli љanci.</text>
+	</string>
+	<string id="dm_information_62">
+		<text>Dalљн vнtezstvн pro Povinnost! Ti anarchisti si ukousli moc velkэ sousto... vplazili se do naљeho tajnэho skladiљte a mysleli si, ћe jim to projde. Ale prd! Prekvapili jsme je a postrнleli jako vzteklэ psy.</text>
+	</string>
+	<string id="dm_information_63">
+		<text>Nenн nic novэho, ћe je Svoboda banda mizeru, ale odhalili jsme neco zajнmavэho o jednom z jejich nejduleћitejљнch magoru. Ten hajzlнk si v Povinnosti rнkal Pazourek, ale predtнm byl stalker Strakбc. Aspon tak si rнkal, kdyћ priљel do Zatonu a mбlem zaved partu lovcu mutantum prнmo do tlamy. Navlнkl to tak, ћe je chimйra mбlem seћrala, zatнmco ta svine posbнrala jejich vybavenн a љla do Janova. Kdyћ se pridal k Povinnosti, hodil svэho partбka do anomбlie, aby mu mohl sebrat artefakt. No proste typickej Svobodбk.</text>
+	</string>
+	<string id="dm_information_7">
+		<text>Noe vede novej projekt stavby lode. Nejnovejљн atrakce v Zatonu - stalker jmйnem Noe. Zkuљenej, motivovanej a naprostej magor. Jeho poslednн љнlenej nбpad je zachrбnit vљechny stalkery pred Apokalypsou. A tak predelбvб starou bбrku na "Archu". Fakt totбlnн magor. Pokud se za nнm budeљ chtнt stavit, dej si bacha, at ho nenaљtveљ. Jinak je celkem neљkodnej.</text>
+	</string>
+	<string id="dm_information_8">
+		<text>Uћ jsi byl u Cipery? Ted je ve Skadovsku. Fakt profнk obchodnнk. Muћe ti sehnat ъplne vљechno. Teda, skoro vљechno. V poslednн dobe se soustreduje na bouchacky a obleky, ale jen ty nejlepљн! Speciбlnн kousky, experimentбlnн typy, rucne vyrбbenэ zboћн... nenн to levnэ, ale proc by taky melo? Exkluzivita za to stojн!</text>
+	</string>
+	<string id="dm_information_9">
+		<text>Vedels, ћe Navigбtor pouћнvб novou trasu mezi Zatonem a Jupiterem? Drнv to trvalo docela dlouho, musels vyљplhat na kopec, vyhnout se anomбliнm a tak dбl. Ted je to ъplnб pohoda. Nenн to ћбdnб vэprava, spнљ prochбzka parkem, navнc to trvб sotva polovinu casu. Ale Navigбtor se nechlubн, ћe by to naљel sбm, nejakej stalker mu to prej ukбzal na mape. Ne zadarmo, samozrejme, ale moc za to nechtel.</text>
+	</string>
+	<string id="dm_information_do_not_know_1">
+		<text>Abych pravdu rekl, celkem nic.</text>
+	</string>
+	<string id="dm_information_do_not_know_2">
+		<text>V Zуne je vћdycky neco novэho, stacн koukat kolem sebe.</text>
+	</string>
+	<string id="dm_information_do_not_know_3">
+		<text>No, ty seљ tady novej. A to bude asi tak vљechno.</text>
+	</string>
+	<string id="dm_information_general">
+		<text>Co je v Zуne novэho?</text>
+	</string>
+	<string id="dm_information_no_more_1">
+		<text>Nevнm o nicem dalљнm, co by te mohlo zajнmat.</text>
+	</string>
+	<string id="dm_information_no_more_2">
+		<text>Rбd bych ti jeљte neco rekl, ale nic jinэho se ke mne nedoneslo.</text>
+	</string>
+	<string id="dm_information_no_more_3">
+		<text>Rekl jsem ti vљechno, co vнm.</text>
+	</string>
+	<string id="dm_job_1">
+		<text>Hrm... Moћnб by ses mel zeptat Tetreva ve Skadovsku. Hledal nekoho, kdo by mu pнchnul s jednнm problйmem. Stalkeri mizej beze stop. Vљichni z toho vinej upнry, protoћe kdyћ uћ pak nekdo najde telo, je bez kapicky krve. Ale tohle je nejakэ divnэ... sbнraj lidi skoro kaћdej den. A to upнri normбlne nedelaj... Tetrev dokonce na ty upнry najal zkuљenэho lovce.</text>
+	</string>
+	<string id="dm_job_10">
+		<text>Vнљ, kdyћ stalker potrebuje prachy, mб dve moћnosti: najнt artefakty a prodat je prekupnнkum za 30 kopejek z rublu, nebo makat pro vedбtory. Vћdycky vymэљlej neco, co by pro ne mohl nejakej stalker udelat, at uћ je treba donэst nejakej vzбcnej artefakt, nebo zdechlinu mutanta. Ale hlavne kdyћ se s tebou zkamarбdej, muћou ti vydat oficiбlnн povolenku pro pobyt v Zуne, fakt pravou. Predstav si, jak jdeљ kolem vojenskэ pozice, s bбglem plnэm koristi, a ti blbovй ti jeљte musej salutovat! Krбsnб predstava. Bunkr vedбtoru je zбpadne od Janovskэ stanice. Uћ pro ne jeden stalker makб, ale moћnб najmou dalљнho.</text>
+	</string>
+	<string id="dm_job_11">
+		<text>Jak ъspeљnej seљ, to zбleћн na tom, co delбљ. Pokud ti nevadн lovit mutanty, budeљ mнt spoustu moћnostн. Stav se v podzemн Janova a ptej se na Pastickбre - dбvб sluљnэ prachy za likvidovбnн mutantu, ale nemuћeљ jнt odstrelit prvnнho cokla, kterэho potkбљ, a cekat odmenu. Pastickбr ti dб zakбzku na urcitэ potvory, kterэ delaj problйmy pri sbнrбnн artefaktu, nebo lezou na mнsta, kam se stalkeri schovбvaj pred emisema.</text>
+	</string>
+	<string id="dm_job_14">
+		<text>Chlapi jako ty chodej do Skadovska za Fousбcem. Nabнzн celkem sluљnэ prachy za artefakty... ale neco ti reknu, smysl pro kљeft mб nulovej. Nechce se o svэ zisky podelit s mocnejma lidma... a to se mu brzo hnusne vymstн. Chбpeљ?</text>
+	</string>
+	<string id="dm_job_15">
+		<text>Pokud potrebujeљ prachy, stav se za Hejkalem. Kљeftuje se vљнm, co chlap ve Skadovsku potrebuje - informace, bouchacky, co te napadne. Jestli mбљ neco horkэho a cennэho, jako je dokument nebo PDA nejakэho stalkera, dotбhni to Hejkalovi a dostaneљ prachy. Taky muћeљ vydelat sluљnэ prachy, kdyћ budeљ plnit jeho osobnн zakбzky. Proste se ho zeptej, co je potreba udelat.</text>
+	</string>
+	<string id="dm_job_2">
+		<text>Mel by ses stavit za Gontou. Se svou partou vyprбvн zajнmavej prнbeh. Nedбvno se u Zatonu objevila chimйra, tak Gonta se svejma lidma vyrazil za nн. Rozdelili se do dvou tэmu, aby tu bestii vystopovali a poslali jednoho lovce hledat hnнzdo upнru. Kdyћ chimйru konecne vycmuchali, bylo jich celkem mбlo, tak pribrali dalљнho stalkera Strakбce. Nevнm, co se tam podelalo, ale vetљina lidн tvrdн, ћe Strakбc prбsknul do bot, jakmile chimйru zahlнdnul. Gonta se odtamtud sotva dostal, jeden z jeho chlapu je vбћne zranenej. Ale chimйra tam furt pobнhб, takћe Gonta hledб chlapy, kterн by mu s tнm pнchli.</text>
+	</string>
+	<string id="dm_job_3">
+		<text>To je snadnэ, pokud chceљ porбdnэ prachy, musнљ za Sultбnem. To je mнstnн boss, takћe pokud nejseљ ostэchavej, neco ti dohodн.</text>
+	</string>
+	<string id="dm_job_4">
+		<text>Pokud seљ dobrej stalker, teda jestli umнљ hledat artefakty, pokecej s Fousбcem. Je tady celkem uznбvanej. Jedinej chlap ve Skadovsku, kterej ti dб za artefakty dobrou cenu. Mб kontakty na paљerбky, kterэ je vynesou ven ze Zуny. Krome toho je to dobrej chlap... vћdycky ochotnej poradit, nebo dohodit nejakou fuљku.</text>
+	</string>
+	<string id="dm_job_5">
+		<text>Ve Skadovsku je prekupnнk jmйnem Hejkal. Nenн to moc fajn chlap. Furt si steћuje, jak vљechny artefakty koncej u Fousбce a ne u nej, ale pokud potrebujeљ prachy, stav se za nнm, treba ti neco nabнdne. Ten hajzlнk nekљeftuje jen s municн. Taky ti muћe neco prozradit, prodat, koupit od tebe, nebo ti zaplatit za veci, kterэ ho zajнmajн. Najdeљ ho na druhэ prednн palube. Urcite se nejak domluvнte.</text>
+	</string>
+	<string id="dm_job_6">
+		<text>Muћeљ se zeptat Vana, poflakuje se v janovskэm baru. Nechal se chytnout od banditu, od tэ doby se uћ trikrбt zkouљel vyplatit z dluhu. Je zkuљenej, dokбћe najнt anomбlii se zavrenejma ocima... ale furt se dostбvб do nejakэho pruseru. Pбr lidн mu uћ radilo, aby se sbalil a zmizel. Zуna je moc velkб, banditi ho nenajdou, ale ten vul je aћ moc pyљnej a nechce zdrhat. A lidн, kterэ by mu byli ochotnэ pomoct s banditama, tady moc nenajde.</text>
+	</string>
+	<string id="dm_job_7">
+		<text>Vykaљli se na prбci... Banditi jsou v poslednн dobe jak urvanэ z retezu. Uveznili Mнtu a chtej za nej vэkupnэ. Mнta je jeden z prvnнch stalkeru, co se v Janove objevili, vybudoval to tady, aby se meli lidi kde schovбvat pred emisema, a ted, kdyћ potrebuje pomoc, na nej vљichni serou. Nemб smysl ptбt se Svobody nebo Povinnosti, ty maj spoustu prбce se strнlenнm se navzбjem... ale ostatnн, ti by sakra meli neco udelat! Ale co se nervuju... Mнtova vlastnн parta nevн, jak ho osvobodit. Pokud jim chceљ pomoct, stav se za Grizzlym, najdeљ ho v baru stanice.</text>
+	</string>
+	<string id="dm_job_8">
+		<text>Nitrбk, janovskej technik, potrebuje pracovnн materiбly. Je dobrej s bouchackama i elektronikou, pokud to nevнљ. Ale nekdy mu ruce nestacн, potrebuje sprбvnэ materiбly a tak se vyptбvб, kdo by mu je dones. Problйm je v tom, ћe bezpecnэ mнsta uћ jsou vybranэ a zbytek je moc nebezpecnej. Nitrбk doufб, ћe najde nekoho ochotnэho riskovat, ale urcite za to dobre zaplatн.</text>
+	</string>
+	<string id="dm_job_9">
+		<text>Strejda Jar v janovskэ stanici prej hledб mбlo zvedavэho stalkera, kterej by mu s necнm pomohl. Nevнm, proc se nezeptб svejch kбmoљu z Povinnosti... ale je to pohodovej starнk, zkus si s nнm pokecat, treba se nejak domluvнte.</text>
+	</string>
+	<string id="dm_job_do_not_know_1">
+		<text>Hrm... Nikoho takovэho neznбm.</text>
+	</string>
+	<string id="dm_job_do_not_know_2">
+		<text>To bych taky rбd vedel.</text>
+	</string>
+	<string id="dm_job_do_not_know_3">
+		<text>Jak to mбm sakra vedet?</text>
+	</string>
+	<string id="dm_job_general">
+		<text>Nevнљ o nekom, kdo by pro me mohl mнt prбci?</text>
+	</string>
+	<string id="dm_job_no_more_1">
+		<text>Na to uћ ses me ptal.</text>
+	</string>
+	<string id="dm_job_no_more_2">
+		<text>Nic novэho nevнm.</text>
+	</string>
+	<string id="dm_job_no_more_3">
+		<text>Na to uћ jsem ti odpovнdal.</text>
+	</string>
+	<string id="dm_universal_actor_exit">
+		<text>Dobrэ, dнk.</text>
+	</string>
+	<string id="dm_universal_actor_start">
+		<text>Potreboval bych poradit.</text>
+	</string>
+	<string id="dm_universal_npc_start_0">
+		<text>Povнdej.</text>
+	</string>
+	<string id="dm_universal_npc_start_1">
+		<text>Tak se vymбckni.</text>
+	</string>
+	<string id="dm_universal_npc_start_2">
+		<text>Mluv.</text>
+	</string>
+	<string id="dm_universal_npc_start_3">
+		<text>Poslouchбm.</text>
+	</string>
+	<string id="dm_wounded_general">
+		<text>Pomoc!</text>
+	</string>
+	<string id="dm_wounded_medkit">
+		<text>Vem si tuhle lйkбrnicku.</text>
+	</string>
+	<string id="dm_wounded_sorry">
+		<text>Sorry, nic nemбm.</text>
+	</string>
+	<string id="dm_traveler_bye">
+		<text>Chбpu.</text>
+	</string>
+	<string id="dm_traveler_what_are_you_doing">
+		<text>Kam se chystбљ?</text>
+	</string>
+	<string id="dm_traveler_can_i_go_with_you">
+		<text>Muћu jнt s tebou?</text>
+	</string>
+	<string id="dm_traveler_stalker_actor_companion_yes">
+		<text>Jasne. Vнc lidн, vнc srandy.</text>
+	</string>
+	<string id="dm_traveler_stalker_actor_companion_no">
+		<text>Ne, promin. Jdu svou vlastnн cestou.</text>
+	</string>
+	<string id="dm_traveler_actor_go_with_squad">
+		<text>Tak jdeme.</text>
+	</string>
+	<string id="dm_traveler_take_me_to">
+		<text>Potrebuju se nekam dostat. Muћeљ me tam za nejakou odmenu dostat?</text>
+	</string>
+	<string id="dm_traveler_stalker_where_do_you_want">
+		<text>Klidne. Kam bys chtel jнt? Stacн rнct.</text>
+	</string>
+	<string id="dm_traveler_actor_agree">
+		<text>Souhlasнm. Jdeme.</text>
+	</string>
+	<string id="dm_traveler_actor_refuse">
+		<text>Zmenil jsem nбzor.</text>
+	</string>
+	<string id="dm_traveler_stalker_i_cant_travel">
+		<text>Ne, zrovna ted mбm rozdelanou nejakou jinou prбci.</text>
+	</string>
+	<string id="dm_stalker_doing_nothing_1">
+		<text>Jen se tak poflakuju.</text>
+	</string>
+	<string id="dm_stalker_doing_nothing_2">
+		<text>Vlastne nikam, jen odpocнvбm.</text>
+	</string>
+	<string id="dm_stalker_doing_nothing_3">
+		<text>Vypadбm snad, ћe se nekam chystбm? Nerekl bych...</text>
+	</string>
+	<string id="dm_stalker_chasing_squad_monster">
+		<text>Stopuju mutanty.</text>
+	</string>
+	<string id="dm_stalker_chasing_squad_bandit">
+		<text>Sleduju pбr srбcu. Svine zasranэ...</text>
+	</string>
+	<string id="dm_stalker_chasing_squad_killer">
+		<text>Snaћнm se najнt pбr ћoldбku. Jsou to fakt svine...</text>
+	</string>
+	<string id="dm_stalker_chasing_squad_monolith">
+		<text>Povesil jsem se na partu fanatiku. Bojovnнci Monolitu, moћnб je znбљ...</text>
+	</string>
+	<string id="dm_stalker_chasing_squad_zombied">
+		<text>Snaћнm se dostat pбr zombiн. Je jich tu jako krys...</text>
+	</string>
+	<string id="dm_traveler_travel_cost">
+		<text>OK. Bude to stбt</text>
+	</string>
+	<string id="dm_traveler_actor_dont_go_with_squad">
+		<text>Vљak to znбљ, zmenil jsem nбzor.</text>
+	</string>
+	<string id="dm_traveler_actor_has_no_money">
+		<text>Tolik nemбm.</text>
+	</string>
+	<string id="dm_freedom_doing_nothing_1">
+		<text>Ou, asi nic.</text>
+	</string>
+	<string id="dm_freedom_chasing_squad_monster">
+		<text>Sleduju nekolik mutantu. Nekdo jim musн ukбzat, kam patrн.</text>
+	</string>
+	<string id="dm_freedom_chasing_squad_bandit">
+		<text>Pronбsleduju nekolik mнstnнch zlocincu.</text>
+	</string>
+	<string id="dm_freedom_chasing_squad_killer">
+		<text>Vyљel jsem si na lov ћoldбku. Musн splatit svй dluhy.</text>
+	</string>
+	<string id="dm_freedom_chasing_squad_monolith">
+		<text>Chci dostat ty љнlence z Monolitu.</text>
+	</string>
+	<string id="dm_freedom_chasing_squad_duty">
+		<text>Chci najнt pбr lidн, kterн mi dluћн.</text>
+	</string>
+	<string id="dm_duty_doing_nothing_1">
+		<text>Prбve ted nedelбm nic.</text>
+	</string>
+	<string id="dm_duty_chasing_squad_monster">
+		<text>Lovнm mutanty, snaћнm se to tady od nich vycistit.</text>
+	</string>
+	<string id="dm_duty_chasing_squad_bandit">
+		<text>Mбm prбci, sleduju skupinku banditu.</text>
+	</string>
+	<string id="dm_duty_chasing_squad_killer">
+		<text>Mэm cнlem jsou ћoldбci. Jdu po jejich stopбch.</text>
+	</string>
+	<string id="dm_duty_chasing_squad_monolith">
+		<text>Jdu po bande z Monolitu.</text>
+	</string>
+	<string id="dm_duty_chasing_squad_freedom">
+		<text>Pronбsleduju ty svine ze Svobody, uћ ted jsou z nich mrtvoly... </text>
+	</string>
+	<string id="dm_stalker_searching_artefacts_1">
+		<text>Pбtrбm po artefaktech.</text>
+	</string>
+	<string id="dm_stalker_searching_artefacts_2">
+		<text>Nesbнrбm tady houby... spнљ artefakty.</text>
+	</string>
+	<string id="dm_stalker_searching_artefacts_3">
+		<text>Hledбm artefakty.</text>
+	</string>
+	<string id="st_stalker_zat_sim_1">
+		<text>Mбm namнreno k anomбlii Horбk, k tй vedle lesнka.</text>
+	</string>
+	<string id="st_stalker_zat_sim_2">
+		<text>Vyrбћнm k severnнmu jezeru... na chvнli zmizнm z poloostrova.</text>
+	</string>
+	<string id="st_stalker_zat_sim_3">
+		<text>Mнrнm za severnн jezero – leћн tam sluљnй tбboriљte.</text>
+	</string>
+	<string id="st_stalker_zat_sim_4">
+		<text>Mнrнm do lesu za severnнm jezerem.</text>
+	</string>
+	<string id="st_stalker_zat_sim_5">
+		<text>Mбm namнreno do lesнka zбpadne od pily.</text>
+	</string>
+	<string id="st_stalker_zat_sim_6">
+		<text>Mбm namнreno ke kopci zбpadne od baћiny. Ћбdnб z bahennнch љpнn se tam ke mne nedostane.</text>
+	</string>
+	<string id="st_stalker_zat_sim_7">
+		<text>Mнrнm k vysнlacн stanici. Na zбpad od nн leћн peknй mнstecko.</text>
+	</string>
+	<string id="st_stalker_zat_sim_8">
+		<text>Mбm namнreno do lesu zбpadne od Dubovic... klidne pojd se mnou, spolecnost mi nevadн.</text>
+	</string>
+	<string id="st_stalker_zat_sim_9">
+		<text>Do lesнka mezi Ћeleznэm lesem a dнlnami</text>
+	</string>
+	<string id="st_stalker_zat_sim_10">
+		<text>Smerem k velkйmu mostu... vэchodne od nej prэ leћн bezpecnй a klidnй mнsto.</text>
+	</string>
+	<string id="st_stalker_zat_sim_11">
+		<text>K parkoviљti jiћne od starйho clunu</text>
+	</string>
+	<string id="st_stalker_zat_sim_12">
+		<text>Nic zvlбљtnнho, jen prochбzнm. Chystбm se utбborit na kopci vэchodne od Skadovska.</text>
+	</string>
+	<string id="st_stalker_zat_sim_13">
+		<text>K lesнku mezi Izumrodnojem a cerpacн stanicн.</text>
+	</string>
+	<string id="st_stalker_zat_sim_14">
+		<text>Ke kriћovatce nedaleko tovбrny na zpracovбnн odpadu.</text>
+	</string>
+	<string id="st_stalker_zat_sim_15">
+		<text>K anomбlii Horбk.</text>
+	</string>
+	<string id="st_stalker_zat_sim_16">
+		<text>K loveckй stanici. Nachбzн se tam nekolik budov, asi jsi je uћ videl. V jednй z nich jsou i pece – zajнmalo by me, co se tam vlastne delo.</text>
+	</string>
+	<string id="st_stalker_zat_sim_17">
+		<text>K lesнku zбpadne od vypбlenйho statku</text>
+	</string>
+	<string id="st_stalker_zat_sim_18">
+		<text>K lesнku vэchodne od anomбlie Horбk</text>
+	</string>
+	<string id="st_stalker_zat_sim_19">
+		<text>K pahorku jiћne od vypбlenйho statku</text>
+	</string>
+	<string id="st_stalker_zat_sim_20">
+		<text>K malйmu lesнku jiћne od vypбlenйho statku</text>
+	</string>
+	<string id="st_stalker_zat_sim_21">
+		<text>Mбm namнreno na zбpad od Skadovska... tam, kde koncн potrubн.</text>
+	</string>
+	<string id="st_stalker_zat_sim_22">
+		<text>Mбm namнreno na mнsto asi uprostred cesty mezi Skadovskem a rэpacн stanicн.</text>
+	</string>
+	<string id="st_stalker_zat_sim_23">
+		<text>K baћinбm nedaleko starйho clunu</text>
+	</string>
+	<string id="st_stalker_zat_sim_24">
+		<text>K potoku nedaleko anomбlie Jizva</text>
+	</string>
+	<string id="st_stalker_zat_sim_25">
+		<text>K cerpacн stanici.</text>
+	</string>
+	<string id="st_stalker_zat_sim_26">
+		<text>K rokli Dubovice</text>
+	</string>
+	<string id="st_stalker_zat_b55">
+		<text>Chci hledat artefakty v anomбlii Parбt.</text>
+	</string>
+	<string id="st_stalker_zat_a1">
+		<text>Mнrнm ke kopci zбpadne od anomбlie Horбk.</text>
+	</string>
+	<string id="st_stalker_zat_a23_smart_terrain">
+		<text>K anomбlii Ћeleznэ les</text>
+	</string>
+	<string id="st_stalker_zat_b100">
+		<text>Jdu hledat artefakty do anomбlie Ћeleznэ les.</text>
+	</string>
+	<string id="st_stalker_zat_b101">
+		<text>Jdu do baћin. Jasne, v tech vэparech se nebude dэchat nejlнp, ale artefakty za to stojн.</text>
+	</string>
+	<string id="st_stalker_zat_b103_merc_smart">
+		<text>Jdu do dнlen rozvodny. Nekdo mi rнkal, ћe se tam dб dobre skrэt pred emisн, takћe to vyzkouљнm.</text>
+	</string>
+	<string id="st_stalker_zat_b104_zombied">
+		<text>Asi znбљ nedalekou pilu a presne tam mбm namнreno. Chci se podнvat, jestli tam nenajdu neco zajнmavйho.</text>
+	</string>
+	<string id="st_stalker_zat_b106_smart_terrain">
+		<text>Myslel jsem, ћe bych si na chvнli odpocinul tady v letovisku Izumrudnoj. Urcite je to krбsnй mнsto... pro masoћravй divocбky! Ha Ha! Stejne si myslнm, ћe se tam na chvнli utбborнm.</text>
+	</string>
+	<string id="st_stalker_zat_b12">
+		<text>K mostu. Myslнm, ћe na mape se jmenuje Most Preobraћenskйho.</text>
+	</string>
+	<string id="st_stalker_zat_b14_smart_terrain">
+		<text>K rэpacн stanici. Vsadнm se, ћe se tam jeљte dб najit pбr cennostн.</text>
+	</string>
+	<string id="st_stalker_zat_b18">
+		<text>Ke starйmu clunu.</text>
+	</string>
+	<string id="st_stalker_zat_b20_smart_terrain">
+		<text>Chci se porozhlйdnout na vypбlenйm statku, moћnб by se tam mohlo objevit pбr artefaktu.</text>
+	</string>
+	<string id="st_stalker_zat_b28">
+		<text>K jiћnн ploљine</text>
+	</string>
+	<string id="st_stalker_zat_b33">
+		<text>K dнre u cerpacн stanice</text>
+	</string>
+	<string id="st_stalker_zat_b38">
+		<text>Mбm namнreno k vysнlacн stanici Krug – musнm najнt bezpecnй mнsto, na kterйm bych se mohl skrэt pred emisн. Bohuћel tam ale nejspнљ narazнm na spoustu prнљer.</text>
+	</string>
+	<string id="st_stalker_zat_b38u">
+		<text>Mбm namнreno k vysнlacн stanici Krug – musнm najнt bezpecnй mнsto, na kterйm bych se mohl skrэt pred emisн. Bohuћel tam ale nejspнљ narazнm na spoustu prнљer.</text>
+	</string>
+	<string id="st_stalker_zat_b39">
+		<text>Chci se podнvat za artefakty blнzko Dubovic. Doufбm, ћe cokli se zdrћн v zбtoce.</text>
+	</string>
+	<string id="st_stalker_zat_b40_smart_terrain">
+		<text>K ћumpe... vљak vнљ, tovбrne na zpracovбnн odpadu. Pred emisн jsi tam v bezpecн jako nikde jinde.</text>
+	</string>
+	<string id="st_stalker_zat_b42_smart_terrain">
+		<text>Mбm namнreno k lodnнmu molu na severnнm jezere. Jakmile se tam dostanu, uvidнm, co dбl.</text>
+	</string>
+	<string id="st_stalker_zat_b52">
+		<text>Chci se dostat k dokum s jerбby. Prэ je to peknй mнsto k tбborenн.</text>
+	</string>
+	<string id="st_stalker_zat_b53">
+		<text>Chystбm se hledat artefakty v anomбlii Horбk. Doufбm, ћe muj oblek tuhle krбtkou tropickou dovolenou preћije.</text>
+	</string>
+	<string id="st_stalker_zat_b54">
+		<text>K anomбlii Jizva</text>
+	</string>
+	<string id="st_stalker_zat_b56">
+		<text>Chci si vyzkouљet, jak moje vybavenн dokбћe vzdorovat ohni a navнc se porozhlйdnout po artefaktech. Proto mнrнm k anomбlii Cirkus.</text>
+	</string>
+	<string id="st_stalker_zat_b5_smart_terrain">
+		<text>K loveckй stanici</text>
+	</string>
+	<string id="st_stalker_zat_b7">
+		<text>Chystбm se utбborit u Љevcenka. Je tam klid od emisн a mutanti to tam s ъtoky majн sloћitejљн.</text>
+	</string>
+	<string id="st_stalker_zat_b7_stalker_raider">
+		<text>Chystбm se utбborit u Љevcenka. Je tam klid od emisн a mutanti to tam s ъtoky majн sloћitejљн.</text>
+	</string>
+	<string id="st_stalker_zat_medic_home_smart">
+		<text>Chci se dostat k dokum s jerбby. Peknй mнsto na tбborenн.</text>
+	</string>
+	<string id="st_stalker_zat_stalker_base_smart">
+		<text>Chci se zbavit svй koristi a dбt si pбr piv. Proto mнrнm do Skadovsku.</text>
+	</string>
+	<string id="st_stalker_jup_a10_smart_terrain">
+		<text>Mнrнm k vojenskйmu kontrolnнmu bodu vedle tovбrny Jupiter.</text>
+	</string>
+	<string id="st_stalker_jup_a12">
+		<text>Ke skladiљti kontejnйru</text>
+	</string>
+	<string id="st_stalker_jup_a12_merc">
+		<text>Mбm namнreno na nenбpadnй mнsto mezi skladiљtem kontejnйru a jiћnнm tunelem.</text>
+	</string>
+	<string id="st_stalker_jup_a6">
+		<text>Do stanice Janov. Konecne si odpocinu.</text>
+	</string>
+	<string id="st_stalker_jup_b1">
+		<text>K tunelu severne od vesnice Kopaci.</text>
+	</string>
+	<string id="st_stalker_jup_b19">
+		<text>Mнrнm na opravdu straљnй mнsto, do vesnice Kopaci. Nebo spнљ k tomu, co z nн zbylo. Pro jistotu jsem pribral nekolik antiradiacnнch prнpravku a munice navнc, asi je budu potrebovat.</text>
+	</string>
+	<string id="st_stalker_jup_b200">
+		<text>K cementбrne. Mel bych tam mнt dobrэ rozhled a nikdo se ke mne nemuћe priplнћit.</text>
+	</string>
+	<string id="st_stalker_jup_b200_tushkan_smart_terrain">
+		<text>K cementбrne. Porozhlйdnu se v suterйnu.</text>
+	</string>
+	<string id="st_stalker_jup_b202">
+		<text>K rozvodne nedaleko Janova</text>
+	</string>
+	<string id="st_stalker_jup_b203">
+		<text>Mнrнm na jedno mнsto nedaleko jiћnнho ћeleznicnнho tunelu.</text>
+	</string>
+	<string id="st_stalker_jup_b204">
+		<text>Mнrнm k chladicнmu zarнzenн nedaleko tovбrny Jupiter.</text>
+	</string>
+	<string id="st_stalker_jup_b205_smart_terrain">
+		<text>Mнrнm ke komplexu Volkhov, ulovнm si pбr zombie.</text>
+	</string>
+	<string id="st_stalker_jup_b205_smart_terrain_tushkano">
+		<text>Do bunkru, toho v komplexu Volkhov.</text>
+	</string>
+	<string id="st_stalker_jup_b206">
+		<text>K anomбlnнmu lesнku nedaleko lomu. Moћnб tam najdu pбr artefaktu.</text>
+	</string>
+	<string id="st_stalker_jup_b207">
+		<text>Jdu k lomu, zustalo tam pбr dodбvek stavebnнch delnнku.</text>
+	</string>
+	<string id="st_stalker_jup_b207_depot_attack">
+		<text>Mezi lomem a stanicн Janov je jedno takovй mнstecko, na kterйm bych se na chvilku ukryl.</text>
+	</string>
+	<string id="st_stalker_jup_b208">
+		<text>Mнrнm k vэchodnнmu tunelu, prochбzejнcнmu pod tovбrnou Jupiter.</text>
+	</string>
+	<string id="st_stalker_jup_b209">
+		<text>K anomбlii Asfalt. Aspon zjistнm, jestli je muj oblek ћбruvzdornэ.</text>
+	</string>
+	<string id="st_stalker_jup_b211">
+		<text>Jdu hledat artefakty k anomбlii Blata. Sehnal jsem si nejakй protijedy, bohuћel me asi nemine setkбnн s prнљerami.</text>
+	</string>
+	<string id="st_stalker_jup_b212">
+		<text>K ventilacnнmu zarнzenн mezi tovбrnou a skladiљtem kontejneru. Proc? To kdybych vedel...</text>
+	</string>
+	<string id="st_stalker_jup_b219">
+		<text>Mнrнm do dнlen v Jupiteru. Moћnб tam zjistнm, proc mб to mнsto tak љpatnou povest.</text>
+	</string>
+	<string id="st_stalker_jup_b25">
+		<text>Jdu na samй dno lomu. Stalkeri rнkajн, ћe se tam dб najнt mnoho artefaktu.</text>
+	</string>
+	<string id="st_stalker_jup_b32">
+		<text>Na parkoviљte, na kterйm stojн spousta starэch aut. Snad v elektrickэch anomбliнch najdu nejakй artefakty.</text>
+	</string>
+	<string id="st_stalker_jup_b4">
+		<text>Mezi komplexem Volkhov a skladiљtem kontejneru je jedno peknй mнstecko a presne tam mбm namнreno.</text>
+	</string>
+	<string id="st_stalker_jup_b41">
+		<text>Do bunkru vedcu</text>
+	</string>
+	<string id="st_stalker_jup_b46">
+		<text>K chladicн veћi severozбpadne od stanice Janov.</text>
+	</string>
+	<string id="st_stalker_jup_b47">
+		<text>Smerem k tovбrne Jupiter, ale nemбm v plбnu jнt dovnitr. Porozhlйdnu se po administrativnнch budovбch a pak se uvidн.</text>
+	</string>
+	<string id="st_stalker_jup_b6_anom_2">
+		<text>Jdu k anomбlii Popeliљte, nachбzн se za vesnicн Kopaci.</text>
+	</string>
+	<string id="st_stalker_jup_b8_smart_terrain">
+		<text>Mнrнm do dнlen Jupiteru. Ъdajne v tй oblasti spadl vrtulnнk, tak bych ho rбd prozkoumal.</text>
+	</string>
+	<string id="st_stalker_jup_sim_1">
+		<text>Mнrнm k polorozpadlйmu vlaku stojнcнmu mezi komplexem Volkhov a parkoviљtem.</text>
+	</string>
+	<string id="st_stalker_jup_sim_2">
+		<text>Mнrнm k jiћnнmu tunelu, abych byl v bezpecн, kdyby priљla emise.</text>
+	</string>
+	<string id="st_stalker_jup_sim_3">
+		<text>Mнrнm k jednomu mнstu mezi Janovem a vesnicн Kopaci.</text>
+	</string>
+	<string id="st_stalker_jup_sim_4">
+		<text>Mнrнm k jednomu mнstu nedaleko kanбlu, jiћne od cementбrny.</text>
+	</string>
+	<string id="st_stalker_jup_sim_5">
+		<text>Mнrнm na jedno mнsto blнzko kanбlu, severne od tovбrny Jupiter.</text>
+	</string>
+	<string id="st_stalker_jup_sim_6">
+		<text>Chystбm se prohlйdnout si lom.</text>
+	</string>
+	<string id="st_stalker_jup_sim_7">
+		<text>Chystбm se prohlйdnout si lom.</text>
+	</string>
+	<string id="st_stalker_jup_sim_8">
+		<text>Chystбm se prohlйdnout si oblast severne od Janova.</text>
+	</string>
+	<string id="st_stalker_jup_sim_9">
+		<text>Smerem ke komplexu Volkhov. Mezi komplexem a vesnicн Kopaci je jedno peknй mнsto pro rozloћenн tбbora.</text>
+	</string>
+	<string id="st_stalker_jup_sim_10">
+		<text>Ale, jen tak prochбzнm... Jdu smerem ke skladiљti kontejneru.</text>
+	</string>
+	<string id="st_stalker_jup_sim_11">
+		<text>Snaћнm se zmapovat oblast. Zrovna se chystбm zjistit, co se nachбzн jiћne od vojenskйho kontrolnнho stanoviљte.</text>
+	</string>
+	<string id="st_stalker_jup_sim_12">
+		<text>K heliportu, tomu mezi tovбrnou a skladiљtem kontejneru.</text>
+	</string>
+	<string id="st_stalker_jup_sim_13">
+		<text>Jdu na jedno mнsto u ћeleznice, jiћne od stanice Janov.</text>
+	</string>
+	<string id="st_stalker_jup_sim_14">
+		<text>Na mнsto severne od stanice Janov</text>
+	</string>
+	<string id="st_stalker_jup_sim_15">
+		<text>Do anomбlnнho lesнku</text>
+	</string>
+	<string id="st_stalker_jup_sim_16">
+		<text>Na jedno mнsto jiћne od AA komplexu</text>
+	</string>
+	<string id="st_stalker_jup_sim_17">
+		<text>K chladicнmu bazйnu hned u betonovэch lбznн</text>
+	</string>
+	<string id="st_stalker_jup_sim_18">
+		<text>Chystбm se prozkoumat okolн tovбrny.</text>
+	</string>
+	<string id="st_stalker_jup_sim_19">
+		<text>Chystбm se prozkoumat okolн tovбrny.</text>
+	</string>
+	<string id="st_stalker_pri_a15">
+		<text>Na dvur za prбdelnou</text>
+	</string>
+	<string id="st_stalker_pri_a16">
+		<text>Do prбdelny, nejbezpecnejљнho mнsta v okolн.</text>
+	</string>
+	<string id="st_stalker_pri_a17">
+		<text>Do nemocnice. Doufбm, ћe po ceste nenarazнm na ty љнlence z Monolitu...</text>
+	</string>
+	<string id="st_stalker_pri_a18_smart_terrain">
+		<text>Do knihkupectvн... Slyљel jsem, ћe se v nem dб dobre schovat pred emisн.</text>
+	</string>
+	<string id="st_stalker_pri_a20">
+		<text>Chci se podнvat na mнstnн atrakci – symbol Prбtelstvн nбrodu. Nachбzн se nedaleko knihkupectvн.</text>
+	</string>
+	<string id="st_stalker_pri_a21_smart_terrain">
+		<text>Do starйho obchodu s potravinami. Sice uћ tam neprodбvajн cerstvэ chleba, ale jako ъkryt pred emisн poslouћн dobre.</text>
+	</string>
+	<string id="st_stalker_pri_a22_smart_terrain">
+		<text>Do Beryozky</text>
+	</string>
+	<string id="st_stalker_pri_a25_smart_terrain">
+		<text>Ke starй materskй љkolce</text>
+	</string>
+	<string id="st_stalker_pri_a28">
+		<text>Na nбmestн pred kinem, poblнћ Promйteova monumentu</text>
+	</string>
+	<string id="st_stalker_pri_b301">
+		<text>Mнrнm ke љkolnн budove. Slyљel jsem, ћe se hemћн monstry, ale pomuћe v prнpade, ћe se objevн emise.</text>
+	</string>
+	<string id="st_stalker_pri_b303">
+		<text>Mнrнm ke starйmu servisu. V prvnнm patre by mela bэt anomбlie a snad i nejakй artefakty.</text>
+	</string>
+	<string id="st_stalker_pri_b304">
+		<text>Rozhlнћнm se tady. Zrovna mбm namнreno do starйho potravinбrstvн.</text>
+	</string>
+	<string id="st_stalker_pri_b304_monsters_smart_terrain">
+		<text>Rozhlнћнm se tady. Zrovna mбm namнreno do starйho potravinбrstvн.</text>
+	</string>
+	<string id="st_stalker_pri_b305_dogs">
+		<text>Prozkoumбvбm oblast. Zrovna se chystбm projнt tu budovu za ubytovnou.</text>
+	</string>
+	<string id="st_stalker_pri_b306">
+		<text>Chci se porozhlйdnout po centru verejnэch sluћeb. Myslнm, ћe se tomu rнkalo Jubilejnyj.</text>
+	</string>
+	<string id="st_stalker_pri_b307">
+		<text>Hledбm tady nejakй anomбlie. Slyљel jsem, ћe na dvore, na zбpad od љkolky, je ohnivб anomбlie.</text>
+	</string>
+	<string id="st_stalker_pri_b35_envoy">
+		<text>Бle, jen prochбzнm mestem. Zrovna mбm namнreno k ubytovne.</text>
+	</string>
+	<string id="st_stalker_pri_b35_mercs">
+		<text>Бle, jen prochбzнm mestem. Zrovna mбm namнreno k ubytovne.</text>
+	</string>
+	<string id="st_stalker_pri_b35_military">
+		<text>Бle, jen prochбzнm mestem. Zrovna mбm namнreno k ubytovne.</text>
+	</string>
+	<string id="st_stalker_pri_b36_smart_terrain">
+		<text>Jenom se tak potuluju, zrovna mбm namнreno k prнstavu u reky. Doufбm, ћe nenarazнm na ty fanatiky z Monolitu.</text>
+	</string>
+	<string id="st_stalker_pri_b302">
+		<text>Hledбm nejakй mнsto v Pripjati s furou artefaktu, kde nenarazнm na monstra a bojovnнky Monolitu... Hehe... Ted vбћne, jdu se podнvat na jednu anomбlii jiћne od prнstavu, o kterй jsem slyљel.</text>
+	</string>
+	<string id="st_stalker_pri_sim_1">
+		<text>Smerem ke kinu Promйteus.</text>
+	</string>
+	<string id="st_stalker_pri_sim_2">
+		<text>Na nбmestн pred kinem, poblнћ Promйteova monumentu.</text>
+	</string>
+	<string id="st_stalker_pri_sim_3">
+		<text>Chci se jen na chvнli ukrэt a popadnout dech. Severne od љkolky je jedno klidnй mнstecko, kterй by k tomu melo bэt ideбlnн.</text>
+	</string>
+	<string id="st_stalker_pri_sim_4">
+		<text>Jiћne od ubytovny.</text>
+	</string>
+	<string id="st_stalker_pri_sim_5">
+		<text>Mнrнm na jedno mнsto mezi љkolkou a ubytovnou.</text>
+	</string>
+	<string id="dm_anomalies_8">
+		<text>Existuje takovй mнsto - lidi mu rнkajн Jizva - na kterйm zeme vypadб, jako by do nн nekdo zasekl sekeru. Lidй tam naљli artefakty, ale jakmile tam vstoupнљ, zacnou se dнt divnй veci. Ta vec ti vleze hluboko do mozku a skoro zapomнnбљ, ћe mбљ dэchat, natoћ odtamtud rychle vypadnout.</text>
+	</string>
+	<string id="dm_anomalies_1">
+		<text>Vнљ, kde je cerpacн stanice? Je napбjena gravitacnнmi anomбliemi, pro zkuљenйho stalkera to ale nebude problйm. Stacн, kdyћ budeљ hбzet љrouby jako obvykle. Narazнљ tam i na radiaci, venku i uvnitr – jako bys prochбzel kolem obrovskй kupy obohacenйho uranu.</text>
+	</string>
+	<string id="dm_anomalies_4">
+		<text>Mбme tady starou rozvodnu, kterй se nekdy rнkб Ћeleznэ les. Pochopнљ, aћ to mнsto uvidнљ. Mнstnн rнkajн, ћe po prнchodu emise tam naљli hromadu artefaktu. Nenн to zas tak nebezpecnй, jen trochu radiace a hlavne elektrickй anomбlie... Pohybuje se tam i nekolik prнzraku, a pokud se pred nimi okamћite neukryjeљ, je po tobe.</text>
+	</string>
+	<string id="dm_job_12">
+		<text>Prбce? Abych byl uprнmnэ, o ћбdnй nevнm. Ale pokud chceљ vypomoci Svobode, zajdi za naљнm љйfem do Janova. Jdi do vэchodnнho krнdla a ptej se po Lokim – to je on. Pamatuj, ћe pokud verнљ v pokrok lidstva, ve vetљн uvedomenн a vэznam daru Zуny, rozhodne nebudeљ zklamбn.</text>
+	</string>
+	<string id="dm_job_13">
+		<text>Netuљнm. Ale pokud najdeљ neco, co nбm pomuћe v naљem boji proti Zуne a tem, kterн se domnнvajн, ћe je to spнљe dar neћ prokletн, zajdi za velitelem expedicnнch jednotek Povinnosti, jmenuje se podplukovnнk Љulga. Mб na starost stanici Janov a najdeљ ho v severnнm krнdle. Jedno vнm jiste – ћбdnйho civilistu, kterэ pomuћe Povinnosti, nemine sluљnб odmena.</text>
+	</string>
+	<string id="dm_information_19">
+		<text>Vљichni mluvн o nejakэch divnэch vecech, kterй se dejн ve starй chladicн veћi. Pokud si naladнљ beћnou frekvenci, muћeљ zaslechnout ъtrћky volбnн o pomoc, znн to jako by se nejakэ mrzбk snaћil dostat z anomбlie. Pokud se zeptбљ na souradnice, nikdo se neozve. Nejdivnejљн na tom vљem je ten zvuk. To ruљenн snad ani nejde popsat...</text>
+	</string>
+	<string id="st_stalker_zat_sim_27">
+		<text>K mнstu na pul cesty mezi Skadovskem a Љevcenkem.</text>
+	</string>
+	<string id="st_stalker_jup_a9">
+		<text>Do Jupiteru. Nejspнљ ale nepujdu moc hluboko dovnitr.</text>
+	</string>
+</string_table>

@@ -1,0 +1,230 @@
+--TB3D 1.1.0.0.0.0 optimized, Invisibility, cleanup, give info, rewrote some sections
+function my_ver() return "1.1.0.0.0.0" end
+-----------------------------------
+--Work Addon Script For People Solyanka (Spot (arrows).
+--Using developments from Another Story mod 0.2 (only a dream and zombies),
+--as well Adobe InContext damirazo (but with modifications) ..)
+--nafig rewritten all but invisible by Monnoroch
+--Spawn From the beginning urbi
+--Zombie - rewritten by Monnoroch
+--Rewritten 26/01/2016 by aleks1970
+-----------------------------------
+local translate		= game.translate_string
+
+function main()
+	if TB3D_Services.give_info("new_game_start") then
+		local spawn_point1 = vector():set(100.86578369141, 24.252939224243, 113.51148986816)
+		alife():create("m_teleport_prip",spawn_point1,211614,2180)
+		spawn_point1 = vector():set(189.60972595215, 28.664581298828, 218.32043457031)
+		alife():create("m_teleport_prip2",spawn_point1,259777,2219)
+		spawn_point1 = vector():set(-129.28868103027, 28.661260604858, 111.8306427002)
+		alife():create("m_teleport_prip3",spawn_point1,10174,2211)
+		spawn_point1 = vector():set(-78.003311157227, 52.731468200684, 490.76654052734)
+		alife():create("m_teleport_labirint1",spawn_point1,153807,2987)
+		spawn_point1 = vector():set(-222.35694885254, 56.037586212158, 180.15521240234)
+		alife():create("m_teleport_labirint2",spawn_point1,102970,2987)
+		spawn_point1 = vector():set(-403.50942993164, 87.337677001953, 175.6947479248)
+		alife():create("m_teleport_labirint3",spawn_point1,386,2912)
+		spawn_point1 = vector():set(-6.2312355041504, 13.544878005981, 21.583631515503)
+		alife():create("m_teleport_warlab1",spawn_point1,3094,3210)
+		spawn_point1 = vector():set(-75.655746459961,27.487344741821,566.55230712891)
+		alife():create("m_teleport_2_hosp_verh2",spawn_point1,7003,3060)
+		spawn_point1 = vector():set(-61.182849884033,19.134796142578,561.36962890625)
+		alife():create("m_teleport_blok_vuhod_3otsek",spawn_point1,7863,3075)
+		spawn_point1 = vector():set(-117.31464385986,1.4537422657013,242.11566162109)
+		alife():create("m_teleport_dok_prip_vuhod",spawn_point1,15745,2151)
+		spawn_point1 = vector():set(23.220762252808,20.705589294434,24.913581848145)
+		alife():create("m_teleport_final_truba",spawn_point1,262638,464)
+		spawn_point1 = vector():set(174.5347442627,8.1146535873413,594.71600341797)
+		alife():create("m_teleport_bolota_u_agru",spawn_point1,239762,3487)
+		spawn_point1 = vector():set(163.12547302246,16.26244354248,236.60681152344)
+		alife():create("m_teleport_limansk_antena",spawn_point1,61305,3021)
+		spawn_point1 = vector():set(-36.638717651367,-3.8879518508911,37.493068695068)
+		alife():create("m_teleport_vnutri_norm_taynik",spawn_point1,200314,672)
+		spawn_point1 = vector():set(-152.27732849121,-1.6294522285461,44.664749145508)
+		alife():create("m_teleport_izkanalii_dcity",spawn_point1,219201,3615)
+        alife():create("m_inventory_box39", vector():set(-85.708,38.329,617.077),3905,3066)
+	end
+end
+
+
+local zombien = false
+local info_zombien = "zombien_already"
+
+function mainw()
+	mybrains()
+	zombie()
+end
+
+function zombie()
+	if zombien then
+		level.add_pp_effector("snd_shock.ppe", 20080401, false)
+		level.add_pp_effector("psychic.ppe", 20081017, false)
+		level.add_pp_effector("psy_antenna.ppe", 20081018, false)
+		level.add_pp_effector("psi.ppe", 20081019, false)
+		level.add_pp_effector("alcohol.ppe", 20081020, false)
+	else
+		level.remove_pp_effector(20080401)
+		level.remove_pp_effector(20081017)
+		level.remove_pp_effector(20081018)
+		level.remove_pp_effector(20081019)
+		level.remove_pp_effector(20081020)
+	end
+end
+
+function mybrains()
+	if not zombien and db.actor.psy_health <= 0.4 then
+		TB3D_Services.give_info(info_zombien)
+		TB3D_Services.set_community(db.actor, "zombied", 0, 0)
+		zombien = true
+	elseif db.actor.psy_health > 0.9 and zombien then
+		TB3D_Services.remove_info(info_zombien)
+		zombien = false
+		TB3D_Services.set_community(db.actor, "actor")
+	end
+end
+
+--Invisibility in the costume
+local idle_time
+local invisible
+local tormoz = 0
+local rangeMin	= 1
+local rangeMax	= 4
+local game_time = nil
+local ini = system_ini()
+local make_inviz = false
+local not_inviz = true	-- aleks1970
+local tell_90_inviz = false
+local tell_finish_inviz = false
+local invisible_debug = false
+
+function set_invisible()
+	local outfit
+	local outfit_act = db.actor:item_in_slot(6)
+	local hud = get_hud()
+	local cs = hud:GetCustomStatic("cs_inviz")
+	if cs == nil then
+		hud:AddCustomStatic("cs_inviz", true)
+		cs = hud:GetCustomStatic("cs_inviz")
+	end
+	if (outfit_act ~= nil) and outfit_act:section()=="meceniy_outfit_new" then
+		if make_inviz == false then 
+			invisible = true
+			idle_time = 10*60	-- 27*60
+			game_time = game.get_game_time()
+			bind_stalker.hide_weapon()
+			level.add_pp_effector ("teleport.ppe", 1111, false)
+			level.set_pp_effector_factor(1111, 1.0)
+			make_inviz = true
+			not_inviz = false
+			tell_90_inviz = false
+			tell_finish_inviz = false
+		end
+		outfit = true
+	else
+		if not_inviz == false then 
+			idle_time = 1
+			invisible = false
+			game_time = game.get_game_time()
+		--	local msg = string.format("test - test") -- test aleks1970
+			local msg = string.format("")
+			if cs ~= nil then	
+				cs:wnd():SetText(msg)
+				cs = nil
+			end
+			bind_stalker.restore_weapon()
+			level.remove_pp_effector(1111)
+			not_inviz = true
+			make_inviz = false
+		end
+		outfit = false
+	end
+	if (make_inviz and not tell_finish_inviz and not not_inviz) then
+		local diff_sec = game.get_game_time():diffSec(game_time)
+		if not tell_90_inviz and diff_sec >= idle_time*0.9 then	-- ten seconds before the outfit shutdown - aleks1970
+		--	local msg = string.format(translate("You_are_invisible_invisi")) -- new choosable - text aleks1970
+			local msg = string.format(translate("You_beco_visible_invisi")) -- new choosable - text aleks1970
+			if cs ~= nil then	
+				cs:wnd():SetText(msg)
+			end
+			tell_90_inviz = true
+		end
+		if tell_90_inviz and diff_sec >= idle_time then
+			invisible = false
+			local msg = string.format(translate("You_can_see_invisi")) -- new choosable - text aleks1970
+			if cs ~= nil then	
+				cs:wnd():SetText(msg)
+			end
+			cs = nil
+			tell_finish_inviz = true
+			bind_stalker.restore_weapon()
+			level.remove_pp_effector(1111)
+		end
+	end
+	if outfit then
+		tormoz = tormoz + 1
+		if tormoz >= 4 then	-- 0,8 sec. loop - aleks1970
+			invisible_npc(invisible)
+			tormoz = 0
+		end
+	end
+end
+
+-- ------------------------------------------------------------------------------------------------------------------------------
+
+function invisible_npc(invisible)
+	if invisible_debug then
+		news_manager.amk_send_tip("invisible npc update", "meceniy outfit new", 1, 5, "pda_icon")
+	end
+	local object_all
+	local range = 0
+	for id, v in pairs (db.storage) do
+		object_all = level.object_by_id(id)
+		if object_all and object_all:alive() then 
+			local section = object_all:section()
+			local eyer = 0
+			local eyev = 120
+			if ini:line_exist(section, "eye_range") then -- 
+				eyer = ini:r_float(section, "eye_range")
+				if invisible == true then 
+					eyev = ini:r_float(section, "eye_fov")
+					range = math.floor(db.actor:position():distance_to(object_all:position())-5)
+					if range < rangeMin then range = rangeMin end
+					if range < rangeMax and look_angle(object_all) < eyev*0.5 then range = rangeMax end
+					if range > eyer then range = eyer end
+				else
+					range = eyer
+				end
+				object_all:set_range(range)	
+			end
+			if invisible_debug then
+			--	log("Object-("..section..")name-("..object_all:name()..")range-("..range..")Visibility NPC default-("..eyer..")")
+			end
+		end
+	end
+end
+
+function look_angle(npc)
+	local npc_pos = npc:bone_position("bip01_head")
+	local dir = npc:direction()
+	local actor_pos = db.actor:position()
+	local npc_pos_dir = get_dir_to_obj(npc_pos, actor_pos)
+	local ugl = yaw_degree3d(npc_pos_dir, dir) -- angle of view of the actor
+	if invisible_debug then
+	--	log("angle-("..ugl..")")
+	end
+	return ugl
+end
+
+function get_dir_to_obj(self_pos,obj_pos)
+	return obj_pos:sub(self_pos):normalize()
+end
+-- -----------------------------------------------------------------------------------------------------------------------------
+
+function prepare_for_work()
+	local iniFileName = "creatures\\game_relations.ltx"
+	local sini = ini_file(iniFileName)
+	if sini then
+		db.communities = amk.parse_ini_section_to_array_new(iniFileName, "communities_sympathy")	--download a list of groups
+	end
+end

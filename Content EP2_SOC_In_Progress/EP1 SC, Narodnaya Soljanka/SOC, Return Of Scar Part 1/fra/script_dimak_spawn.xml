@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="ansi" ?>
+<!--SCAR mod_Fr_26/02/2013-->
+<!--########################################-->
+<!--          (dimak_spawn.script)          -->
+<!--########################################-->
+
+<string id="dialog_poleteli_predban_sms">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,255,128,128]Maudite télécommande! On va où? Parachutiste à dit qu'il y avait un grotte quelque part au milieu. Bon, reste plus qu'à la chercher.\n</text>
+</string>
+
+<string id="dialog_dvd_sms">
+	<text>%c[255,160,160,160]PARACHUTISTE:\n%c[255,255,128,128]Balafré, une conversation sérieuse, mais n'essayez pas de me blâmer.\n</text>
+</string>
+
+<string id="dialog_prokljatie_sms">
+	<text>%c[255,160,160,160]:\n%c[default]Yuri Semetsky, Radar, cause de la mort: Inconnue.\n</text>
+</string>
+
+<string id="dialog_shram_prizrak_sms">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,255,128,128]Bon Dieu! C'était moi qui étais visé et pas Croc, vu la position du sniper, juste en face dans les de la maison calciné!\n</text>
+</string>
+
+<string id="dialog_x18_yes">
+	<text>%c[255,160,160,160]:\n%c[default]Porte du laboratoire X-18: Déverrouillée.\n</text>
+</string>
+
+<string id="dialog_dvd_freeplay_sms">
+	<text>%c[255,160,160,160]Moddeur "DIMAK":\n%c[255,255,128,128]\nChers joueurs!
+\nVous arrivez à la fin du 1er épisode du mod. Il se terminera, lorsque vous remettrez la somme pour soigner votre fille à Voronin, et après une séance de vidéo.
+\nMais vous avez la possibilité de jouer en Freeplay, ce qui signifie une course sur les catres de CoP, en balayant des vagues de mutants.
+\nLa première transition s'ouvrira près du camp d'Oleg, là où vous avez trouvé le sac avec les absolus dans les rochers.
+\nPour faire cette session, il est souhaitable de disposer d'un lance-flammes "Poltergeist" avec des recharges, un fusil calibre 12 automatique "Vepr-12" ou "AA-12".
+Il faut que vous disposier du Positionneur, trouvé à Agroprom, avec la quête de Looser.
+\nSi vous ne voulez pas faire le Freeplay, rendez-vous directemet à Bar et allez au Rad100 rencontrer Voronin. Mais si vous en avez le désir, vous émergerez à Zaton.
+La session du Freeplay se terminera à Pripyat-Est. Ensuite, vous vous retrouverez a Bar. Si vous acceptez, des instructions seront à vos pieds à l'arrivé dans Zaton.
+\nHardcore réussie!\n</text>
+</string>
+
+<string id="dialog_gastello_po_pri">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,255,128,128]--A TRADUIRE--\n
+	Gastello imbécile, vous qui m'avez demandé de ramasser?\n</text>
+</string>
+
+<string id="dialog_gastello_po_pri1">
+	<text>%c[255,160,160,160]GASTELLO:\n%c[255,255,128,128]--A TRADUIRE--\n
+	Je voulais le meilleur, mais quelques-uns des coups de pieds Scar. Voir ce que les hordes de monstres, bien haut polyubueshsya, puis de le faire sans moi? Souhaitez manger taranku à la bière. Je suis maintenant le premier jour que sobre, de sorte que le contrôle ASSUMEZ haha.\n</text>
+</string>
+
+<string id="dialog_gastello_po_pri2">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,255,128,128]--A TRADUIRE--\n
+	Si ce n'est pas pour Freeplay, alors je vais Gastello jeté serait vertuhi gyy.\n</text>
+</string>
+
+<string id="dialog_gastello_po_pri3">
+	<text>%c[255,160,160,160]GASTELLO:\n%c[255,255,128,128]--A TRADUIRE--\n
+	Scar, vous jamais bon qui se passe? Je suis ici parce que décidé de vous aider, parce que l'auteur du mod - Dimak, a donné des instructions pour East Pripyat, en raison voir ivre déjà haha. En bref, regardez le toit de la maison dans laquelle le document est là et la terre, mais vous ne pouvez pas se précipiter. Suffisamment de carburant pour faire frire la viande. Un autre vertuhu volé guerriers. Moins de sommeil sera ... Entendu - les propriétaires sont prêts à déplacer voenstalkerov, et que vous voulez toute la région à maîtriser. La chasse est ouverte, vous Scar. Oh, et bien, vous les ennuyer au brûleur ancienne! Ouais, en fait, que tu aurais fait si je n'ai pas? ha ha!\n</text>
+</string>
+
+<string id="dialog_begom">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,255,128,128]--A TRADUIRE--\n
+	Gastello run, run! Pour la patrie!\n</text>
+</string>
+
+
+
+<!--kumulpatch-3_31/12/2012-->
+<string id="dialog_set_metka_gruppa">
+	<text>Camp du groupe d'Oleg Tango</text>
+</string>
+<string id="dialog_raf_metka">
+	<text>Raphaël</text>
+</string>
+
+<string id="dialog_raf_metka_off">
+	<text>Raphaël</text>
+</string>
+
+<string id="dialog_metka_niva_ds">
+	<text>Niva avec les documents</text>
+</string>
+<string id="dialog_metka_niva_ds_off">
+	<text>Niva avec des documents</text>
+</string>
+
+<string id="dialog_delete_pereh_sar">
+	<text>Le rêve continue</text>
+</string>
+<string id="dialog_infa_nezab">
+	<text>%c[255,160,160,160]Créer une partition pour plus d'informations:\n%c[255,1,255,1] Ajout d'une nouvelle section, mise à jour PDA!\n</text>
+</string>
+<string id="dialog_infa_nezaba">
+	<text>%c[255,160,160,160]Section pour information:\n%c[255,1,255,1]Ecrire dans la nouvelle section de la mise à jour PDA!\n</text>
+</string>
+<string id="dialog_infa_kod_sem">
+	<text>%c[255,160,160,160]Section pour information:\n%c[255,1,255,1]Importante information d'un stalker!\n</text>
+</string>
+<string id="dialog_infa_kod_dvoechnik">
+	<text>%c[255,160,160,160]Section pour information:\n%c[255,1,255,1]Importante information d'un stalker!\n</text>
+</string>
+<string id="dialog_rad_prosnul"><!--dialog_sarcofaf_12/01/2013-->
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,255,128,128]Merde "Conscience-C"! Vous devrez avoir une conversation à coeur ouvert avec Klenov. Eh bien, maintenant vous devez aller voir la cachette...\n</text>
+</string>
+<string id="dialog_sidor_k_saharu_sms">
+	<text>%c[255,160,160,160]SIDOROVICH:\n%c[255,1,255,1]Va voir Sakharov, il saura quoi faire! Ne viens pas me voir dans cet état!\n</text>
+</string>
+
+<string id="dialog_agr_kor_sms">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,255,128,128]Dit la même chose, qui va vous désactiver l'activateur - putain d'oiseau. Pendant quelque temps, à vous de voler de vos propre ailes. Bon, pour moi c'est le moment d'aller au cordon.\n</text>
+</string>
+
+<string id="dialog_mat_agro_vojaki">
+	<text>%c[255,160,160,160]COMMANDANT:\n%c[255,255,128,128]Idiot, 2 des 4, sont nos hélicoptères. Merde, c'est le saboteur. Il tire sur notre "ventilo". Détruisez l'ennemi.\n</text>
+</string>
+
+<string id="dialog_mat_agro_vojaki_skat">
+	<text>%c[255,160,160,160]PILOTE HÉLICO n°1:\n%c[255,255,128,128]Excellent travail Lieutenant.\n</text>
+</string>
+
+<string id="dialog_mat_agro_vojaki_skat2">
+	<text>%c[255,160,160,160]PILOTE HÉLICO n°2:\n%c[255,255,128,128]Terminé, il n'y a plus de mercenaire en vie. "Zone-7", retourner à la base. Situation normalisée.\n</text>
+</string>
+
+<string id="dialog_kap_kolonka_sms">
+	<text>%c[255,160,160,160]CAPITAINE GRINKO:\n%c[255,255,128,128]C'est quoi ces explosions?\n</text><!-- Vous les avez tous explosé? -->
+</string>
+
+<string id="dialog_kap_kolonka_sms2">
+	<text>%c[255,160,160,160]LIEUTENANT SAMODUR:\n%c[255,255,128,128]Camarade Capitaine! Un fauteur de trouble tente de passer. Le blindé essaie de le toucher, mais il a, par mégarde, atteint la résreve de combustible. \n</text><!-- Camarade Capitaine - le fauteur de troubles à le champ libre. Il avait une mitrailleuse à l'avant, et accidentellement a accroché un reservoir de combustible. Bespredelschik détruire. -->
+</string>
+
+<string id="dialog_kap_kolonka_sms3">
+	<text>%c[255,160,160,160]CAPITAINE GRINKO:\n%c[255,255,128,128]Vous "essayez" de le toucher? Non de Dieu, mais détruisez le! Quelles étaient la reserve de carburants?\n</text>
+</string>
+
+<string id="dialog_kap_kolonka_sms4">
+	<text>%c[255,160,160,160]LIEUTENANT SAMODUR:\n%c[255,255,128,128]150 tonnes.\n</text>
+</string>
+
+<string id="dialog_kap_kolonka_sms5">
+	<text>%c[255,160,160,160]CAPITAINE GRINKO:\n%c[255,255,128,128]Bande d'incapables! Vous payerez chaque litres, d'une façon ou d'une autre!!!! La cour martiale pour tous!\n</text>
+</string>
+
+<string id="dialog_esc_grin_atas_sms">
+	<text>%c[255,160,160,160]CAPITAINE GRINKO:\nc[255,255,128,128]Bande de ploucs!!! Détruisez moi ce rat!!!\n</text>
+</string>
+
+<string id="dialog_sidor_metky_ubral">
+	<text>Lieu, où il faut amener la Niva.</text>
+</string>
+
+<string id="dialog_esc_dimak_ok_sms">
+	<text>%c[255,160,160,160]DIMAK:\n%c[255,255,128,128]Mission parfaitement accomplie. Le Balafré, après le combat venez me voir et on discutera des plans.\n</text>
+</string>
+
+<string id="dialog_bun_monolit_teleport">
+	<text>Contrôle de la protection</text>
+</string>
+
+<string id="dialog_bun_monolit_teleport2">
+	<text>Contrôle de la protection</text>
+</string>
+

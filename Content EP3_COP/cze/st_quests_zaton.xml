@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="zat_a2_reach_base_name">
+		<text>Bezpecн: dojdi do Skadovsku</text>
+	</string>
+	<string id="zat_a2_reach_base_text">
+		<text>Jedinэm relativne bezpecnэm mнstem v Zуne jsou velkй tбbory. Ten nejbliћљн se jmenuje Skadovsk – mel by ses tam podнvat.</text>
+	</string>
+	<string id="zat_b100_guide_maps_01_name">
+		<text>Mapy oblastн: najdi nekoho, kdo bude mнt zбjem o mapy</text>
+	</string>
+	<string id="zat_b100_guide_maps_02_name">
+		<text>Mapy oblastн: nabнdni mapy Pilotovi</text>
+	</string>
+	<string id="zat_b100_guide_maps_02_text">
+		<text>Je moћnй, ћe mнstnн pruvodce zvanэ Pilot bude mнt zбjem o mapy oblasti mezi Zatonem a Jupiterem.</text>
+	</string>
+	<string id="zat_b100_heli_2_crash_name">
+		<text>Rejnok 2: prozkoumej mнsto havбrie</text>
+	</string>
+	<string id="zat_b100_heli_2_crash_text">
+		<text>Prozkoumej mнsto havбrie Rejnoka 2.</text>
+	</string>
+	<string id="zat_b101_heli_5_crash_name">
+		<text>Rejnok 5: prozkoumej mнsto havбrie</text>
+	</string>
+	<string id="zat_b101_heli_5_crash_name_02">
+		<text>Rejnok 5: zjisti, proc elektronika vyhorela.</text>
+	</string>
+	<string id="zat_b101_heli_5_crash_name_03">
+		<text>Posбdka Rejnoka: najdi zdroj vэboje, kterэ zasбhl dva z vrtulnнku</text>
+	</string>
+	<string id="zat_b101_heli_5_crash_text">
+		<text>Prozkoumej mнsto havбrie Rejnoka 5.</text>
+	</string>
+	<string id="zat_b101_heli_5_crash_text_02">
+		<text>Musнљ najнt zdroj silnйho elektrickйho vэboje, kterэ zasбhl helikoptйru Rejnok 5.</text>
+	</string>
+	<string id="zat_b101_heli_5_crash_text_03">
+		<text>Musнљ zjistit prнcinu spбlenн elektroniky v Rejnokovi 4 a 5. Zdб se, ћe doљlo k zбsahu silnэm elektrickэm vэbojem.</text>
+	</string>
+	<string id="zat_b103_merc_bring_supplies_name">
+		<text>Jнdlo: seћen jнdlo pro ћoldбky</text>
+	</string>
+	<string id="zat_b103_merc_bring_supplies_text">
+		<text>Skupina ћoldбku v dнlnбch rozvodny te poћбdala, abys jim prinesl љest plechovek masa, klobбsy nebo chleba.</text>
+	</string>
+	<string id="zat_b103_merc_supplies_got_name">
+		<text>Jнdlo: zanes jнdlo ћoldбkum</text>
+	</string>
+	<string id="zat_b103_merc_supplies_got_text">
+		<text>Jнdlo, kterй jsi sehnal, musнљ zanйst ћoldбkum do dнlen rozvodny.</text>
+	</string>
+	<string id="zat_b103_toolkit_2_substation_workshop_name">
+		<text>Nбstroje: prozkoumej dнlny rozvodny</text>
+	</string>
+	<string id="zat_b103_toolkit_2_substation_workshop_text">
+		<text>V dнlnбch rozvodny by ъdajne mely bэt nejakй nбstroje. Moћnб najdeљ i nбradн, kterй hledajн technici.</text>
+	</string>
+	<string id="zat_b106_find_chimera_name">
+		<text>Lov chimйry: najdi spнcнho mutanta</text>
+	</string>
+	<string id="zat_b106_find_chimera_text">
+		<text>Musнљ najнt chimйru jeљte pred tнm, neћ se probudн.</text>
+	</string>
+	<string id="zat_b106_found_soroka_name">
+		<text>Hledбnн Strakбce: informuj Gontu</text>
+	</string>
+	<string id="zat_b106_found_soroka_text">
+		<text>Zdб se, ћe Strakбc – stalker, kterэ zaloћil Gontovu jednotku – se naљel. Pripojil se ke Svobode a rнkб si Pazourek.</text>
+	</string>
+	<string id="zat_b106_kill_chimera_name">
+		<text>Lov chimйry: zabij mutanta</text>
+	</string>
+	<string id="zat_b106_kill_chimera_text">
+		<text>Chimйra se probudila a mel bys jн zabнt, neћ bude pozde.</text>
+	</string>
+	<string id="zat_b106_meet_with_gonta_at_night_name">
+		<text>Lov chimйry: ve 3 hodiny rбno se v baru setkej s Gontou</text>
+	</string>
+	<string id="zat_b106_meet_with_gonta_at_night_text">
+		<text>Mel by ses jeљte pred ъsvitem setkat s Gontou a pripojit se k jeho jednotce vyrбћejнcн na lov chimйry.</text>
+	</string>
+	<string id="zat_b106_receipt_reward_name">
+		<text>Lov chimйry: informuj Pastickбre</text>
+	</string>
+	<string id="zat_b106_receipt_reward_text">
+		<text>Mel bys rнct stalkerovi jmйnem Pastickбr, ћe lov chimйry probehl ъspeљne. Mel by te odmenit.</text>
+	</string>
+	<string id="zat_b106_search_soroka_name">
+		<text>Hledбnн Strakбce: najdi stalkera</text>
+	</string>
+	<string id="zat_b106_search_soroka_text">
+		<text>Stalker jmйnem Strakбc zarнdil, aby na Gontovu jednotku zaъtocila chimйra. Byl jsi poћбdбn, abys toho parchanta naљel.</text>
+	</string>
+	<string id="zat_b107_evacuation_jupiter_name">
+		<text>Evakuacnн mнsta: prozkoumej pozici B205</text>
+	</string>
+	<string id="zat_b107_evacuation_jupiter_text">
+		<text>Na mape, kterou jsi naљel v jednom z vrtulnнku, byla vyznacena evakuacnн mнsta. Mel bys zjistit, zda vojбci  љli na pozici B205.</text>
+	</string>
+	<string id="zat_b107_evacuation_pripyat_1_name">
+		<text>Evakuacnн mнsta: prozkoumej pozici B28</text>
+	</string>
+	<string id="zat_b107_evacuation_pripyat_1_text">
+		<text>Na mape, kterou jsi naљel v jednom z vrtulnнku, byla vyznacena evakuacnн mнsta. Mel bys zjistit, zda vojбci  љli na pozici B28.</text>
+	</string>
+	<string id="zat_b107_evacuation_pripyat_2_name">
+		<text>Evakuacnн mнsto: zjisti souradnice pozice B28</text>
+	</string>
+	<string id="zat_b107_evacuation_pripyat_2_text">
+		<text>Cernб skrнnka jednoho z vrtulnнku Rejnok obsahovala nahrбvku, na kterй velitel urcil pozici pro shromбћdenн jednotky. Touto pozicн je evakuacnн mнsto B28 a tvэm ъkolem je zjistit jeho souradnice.</text>
+	</string>
+	<string id="zat_b107_evacuation_pripyat_3_name">
+		<text>Evakuacnн mнsto: dojdi na pozici B28</text>
+	</string>
+	<string id="zat_b107_evacuation_pripyat_3_text">
+		<text>Mнsto, na kterйm se vojбci majн sejнt, je v Pripjati. Najdi zpusob, jak se tam dostat.</text>
+	</string>
+	<string id="zat_b107_evacuation_zaton_name">
+		<text>Evakuacnн mнsta: prozkoumej pozici B2</text>
+	</string>
+	<string id="zat_b107_evacuation_zaton_text">
+		<text>Na mape, kterou jsi naљel v jednom z vrtulnнku, byla vyznacena evakuacnн mнsta. Mel bys zjistit, zda vojбci  љli na pozici B2.</text>
+	</string>
+	<string id="zat_b14_bring_strange_object_name">
+		<text>Zvlбљtnн ъkaz: odnes artefakt Fousбcovi</text>
+	</string>
+	<string id="zat_b14_bring_strange_object_text">
+		<text>Zdrojem tohoto zvlбљtnнho ћбru byl podobne zvlбљtnн artefakt. Fousбce by to mohlo zajнmat.</text>
+	</string>
+	<string id="zat_b14_learn_about_strange_occurrence_by_stalkers_name">
+		<text>Zvlбљtnн ъkaz: zeptej se stalkeru na artefakt</text>
+	</string>
+	<string id="zat_b14_learn_about_strange_occurrence_by_stalkers_text">
+		<text>Stalkeri by o tomto zvlбљtnнm artefaktu mohli neco vedet nebo by alespon mohli vedet o nekom, kdo se v artefaktech vyznб. Mel by sis s nimi promluvit.</text>
+	</string>
+	<string id="zat_b14_learn_about_strange_occurrence_name">
+		<text>Zvlбљtnн ъkaz: najdi zdroj zбre v rэpacн stanici.</text>
+	</string>
+	<string id="zat_b14_learn_about_strange_occurrence_text">
+		<text>V rэpacн stanici byla spatrena podivnб zбr. Fousбc te poћбdal, abys naљel jeho zdroj.</text>
+	</string>
+	<string id="zat_b14_take_artefact_name">
+		<text>Zvlбљtnн ъkaz: vezmi artefakt</text>
+	</string>
+	<string id="zat_b14_take_artefact_text">
+		<text>Zdrojem tohoto zvlбљtnнho ћбru byl podobne zvlбљtnн artefakt. Mel bys ho vzнt.</text>
+	</string>
+	<string id="zat_b14_tell_svyaznoy_about_all_name">
+		<text>Zvlбљtnн ъkaz: rekni Fousбcovi o artefaktu</text>
+	</string>
+	<string id="zat_b14_tell_svyaznoy_about_all_text">
+		<text>Zdrojem tohoto zvlбљtnнho ћбru byl podobne zvlбљtnн artefakt. Prestoћe tento artefakt nemбљ, mel bys o nem rнct Fousбcovi.</text>
+	</string>
+	<string id="zat_b20_cross_the_teleport_name">
+		<text>Cesta na ploљinu: skoc do anomбlie</text>
+	</string>
+	<string id="zat_b20_cross_the_teleport_text">
+		<text>Zdб se, ћe cesta na ploљinu vede skrz anomбlii. Musнљ do nн skocit.</text>
+	</string>
+	<string id="zat_b20_find_the_teleport_name">
+		<text>Cesta na ploљinu: najdi Noemovu tajnou cestu</text>
+	</string>
+	<string id="zat_b20_find_the_teleport_text">
+		<text>V Noemove PDA byla zmнnka o jeho "tajnй ceste" na ploљinu. Musнљ ji najнt.</text>
+	</string>
+	<string id="zat_b20_plato_talk_to_noah_name">
+		<text>Cesta na ploљinu: zjisti od Noema, jak se tam dostat</text>
+	</string>
+	<string id="zat_b20_plato_talk_to_noah_text">
+		<text>Rнkб se, ћe stalker zvanэ Noe znб cestu na ploљinu. Musнљ od nej zjistit, jak se tam dostat.</text>
+	</string>
+	<string id="zat_b22_bring_proof_name">
+		<text>Nezvestnн stalkeri: prines dukaz o tom, ћe za vљнm stojн Straљбk</text>
+	</string>
+	<string id="zat_b22_bring_proof_text">
+		<text>Musнљ odnйst PDA se Straљбkovэmi zбznamy do Skadovsku a ukбzat ho Fousбcovi. Zбznamy jasne dokazujн, ћe za mizenнm stalkeru stojн prбve tento zdravotnнk.</text>
+	</string>
+	<string id="zat_b22_find_proof_name">
+		<text>Nezvestnн stalkeri: najdi dukaz o zapojenн Straљбka</text>
+	</string>
+	<string id="zat_b22_find_proof_text">
+		<text>Musнљ zjistit, zda Straљбk nezanechal nejakэ dukaz o svйm spojenн s mizenнm stalkeru.</text>
+	</string>
+	<string id="zat_b28_heli_3_crash_name">
+		<text>Rejnok 3: prozkoumej mнsto havбrie</text>
+	</string>
+	<string id="zat_b28_heli_3_crash_text">
+		<text>Prozkoumej mнsto havбrie Rejnoka 3.</text>
+	</string>
+	<string id="zat_b29_simple_bring_text_1">
+		<text>Musнљ prinйst artefakt Fousбcovi, ale doba hбjenн uћ uplynula. Nynн budou po artefaktu pбtrat i tvн protivnнci.</text>
+	</string>
+	<string id="zat_b29_simple_bring_text_2">
+		<text>Musнљ prinйst artefakt Fousбcovi. Nezapomen, ћe po nem pбtrajн i tvн protivnнci.</text>
+	</string>
+	<string id="zat_b29_simple_bring_text_3">
+		<text>Musнљ prinйst artefakt Fousбcovi, ale povнdб se, ћe jinб skupina uћ jeden naљla. Mel bys sledovat signбl a snaћit se dokoncit ъkol drнv, neћ tvн souperi.</text>
+	</string>
+	<string id="zat_b29_simple_bring_text_4">
+		<text>Musнљ prinйst artefakt Fousбcovi, ale jinб skupina to uћ dokбzala. Za artefakt tak nynн dostaneљ jen polovicnн cбstku.</text>
+	</string>
+	<string id="zat_b29_simple_bring_text_5">
+		<text>Musнљ prinйst artefakt Fousбcovi.</text>
+	</string>
+	<string id="zat_b29_simple_bring_title_16">
+		<text>Artefakt na zakбzku: prines Gravi</text>
+	</string>
+	<string id="zat_b29_simple_bring_title_17">
+		<text>Artefakt na zakбzku: prines Oko</text>
+	</string>
+	<string id="zat_b29_simple_bring_title_18">
+		<text>Artefakt na zakбzku: prines Bublinu</text>
+	</string>
+	<string id="zat_b29_simple_bring_title_19">
+		<text>Artefakt na zakбzku: prines Skorбpku</text>
+	</string>
+	<string id="zat_b29_simple_bring_title_20">
+		<text>Artefakt na zakбzku: prines Zlatou rybku</text>
+	</string>
+	<string id="zat_b29_simple_bring_title_21">
+		<text>Artefakt na zakбzku: prines Plamen</text>
+	</string>
+	<string id="zat_b29_simple_bring_title_22">
+		<text>Artefakt na zakбzku: prines Svetluљku</text>
+	</string>
+	<string id="zat_b29_simple_bring_title_23">
+		<text>Artefakt na zakбzku: prines Vlocku</text>
+	</string>
+	<string id="zat_b29_simple_find_text_1">
+		<text>Musнљ najнt artefakt pro Fousбce, ale doba hбjenн uћ uplynula. Nynн budou po artefaktu pбtrat i tvн protivnнci.</text>
+	</string>
+	<string id="zat_b29_simple_find_text_2">
+		<text>Musнљ najнt artefakt pro Fousбce. Nezapomen, ћe po nem pбtrajн i tvн protivnнci.</text>
+	</string>
+	<string id="zat_b29_simple_find_text_3">
+		<text>Musнљ najнt artefakt pro Fousбce, ale povнdб se, ћe jinб skupina uћ jeden naљla. Mel bys sledovat signбl a snaћit se dokoncit ъkol drнv, neћ tvн protivnнci.</text>
+	</string>
+	<string id="zat_b29_simple_find_text_4">
+		<text>Musнљ najнt artefakt pro Fousбce, ale jinб skupina to uћ dokбzala. Za artefakt tak nynн dostaneљ jen polovicnн cбstku.</text>
+	</string>
+	<string id="zat_b29_simple_find_text_5">
+		<text>Musнљ najнt artefakt pro Fousбce.</text>
+	</string>
+	<string id="zat_b29_simple_find_title_16">
+		<text>Artefakt na zakбzku: najdi Gravi</text>
+	</string>
+	<string id="zat_b29_simple_find_title_17">
+		<text>Artefakt na zakбzku: najdi Oko</text>
+	</string>
+	<string id="zat_b29_simple_find_title_18">
+		<text>Artefakt na zakбzku: najdi Bublinu</text>
+	</string>
+	<string id="zat_b29_simple_find_title_19">
+		<text>Artefakt na zakбzku: najdi Skorбpku</text>
+	</string>
+	<string id="zat_b29_simple_find_title_20">
+		<text>Artefakt na zakбzku: najdi Zlatou rybku</text>
+	</string>
+	<string id="zat_b29_simple_find_title_21">
+		<text>Artefakt na zakбzku: najdi Plamen</text>
+	</string>
+	<string id="zat_b29_simple_find_title_22">
+		<text>Artefakt na zakбzku: najdi Svetluљku</text>
+	</string>
+	<string id="zat_b29_simple_find_title_23">
+		<text>Artefakt na zakбzku: najdi Vlocku</text>
+	</string>
+	<string id="zat_b30_compass_to_barmen_task_find_name">
+		<text>Kompas: najdi Noema a zjisti, kde muћeљ najнt vzбcnэ artefakt</text>
+	</string>
+	<string id="zat_b30_compass_to_barmen_task_find_text">
+		<text>Na starйm clunu musнљ najнt Noema a zjistit,  kde bys mohl zнskat vzбcnэ artefakt Kompas. Fousбc jej shбnн uћ dlouho a je proto ochoten za nej dobre zaplatit.</text>
+	</string>
+	<string id="zat_b30_compass_to_barmen_task_give_name">
+		<text>Kompas: prines artefakt Fousбcovi</text>
+	</string>
+	<string id="zat_b30_compass_to_sultan_task_find_name">
+		<text>Kompas: zjisti od Noema, kde muћeљ zнskat vzбcnэ artefakt</text>
+	</string>
+	<string id="zat_b30_compass_to_sultan_task_find_text">
+		<text>Sultбn se chce zmocnit artefaktu, po kterйm se Fousбc shбnн. Na starйm clunu musнљ najнt Noema a zjistit, kde se artefakt dб sehnat.</text>
+	</string>
+	<string id="zat_b30_compass_to_sultan_task_give_name">
+		<text>Kompas: prines artefakt Sultбnovi</text>
+	</string>
+	<string id="zat_b30_compass_to_sultan_task_give_text">
+		<text>Ten artefakt, kterэ ti Noe dal, je prбve Kompas, po kterйm se shбnн Sultбn.</text>
+	</string>
+	<string id="zat_b30_percent_task_name">
+		<text>Cernэ obchod: vyzvedni si u Fousбce svuj podнl</text>
+	</string>
+	<string id="zat_b30_percent_task_text">
+		<text>Mel by sis u Fousбce vyzvednout podнl z jeho zisku.</text>
+	</string>
+	<string id="zat_b30_sultan_task_1_name">
+		<text>Lбkavб nabнdka: promluv si se Sultбnem</text>
+	</string>
+	<string id="zat_b30_sultan_task_1_text">
+		<text>Obchodnнk Hejkal se domnнvб, ћe Fousбc neplnн svou cбst dohody a navrhuje, aby ses s pomocн obrбtil na Sultбna, mнstnнho љйfa podsvetн.</text>
+	</string>
+	<string id="zat_b30_sultan_task_2_name">
+		<text>Cernэ obchod: vem stalkerum detektory</text>
+	</string>
+	<string id="zat_b30_sultan_task_2_text">
+		<text>Musнљ udelat vљe pro to, abys stalkerum hledajнcнm artefakty pro Fousбce vzal prototypy detektoru. Pokud Fousбc nebude mнt detektory, bude muset souhlasit se Sultбnovэmi podmнnkami.</text>
+	</string>
+	<string id="zat_b30_sultan_task_3_name">
+		<text>Cernэ obchod: promluv si se Sultбnem</text>
+	</string>
+	<string id="zat_b30_sultan_task_3_text">
+		<text>Fousбc uћ nemб detektory, a proto bys sis mel promluvit se Sultбnem, zda je problйm s ostatnнmi dodavateli Fousбce vyreљen.</text>
+	</string>
+	<string id="zat_b30_sultan_task_4_name">
+		<text>Cernэ obchod: prinut Vlasбce, aby pracoval pro Sultбna</text>
+	</string>
+	<string id="zat_b30_sultan_task_4_text">
+		<text>Fousбc uћ nemб ћбdnй dodavatele ani detektory, takћe si sбm neљkrtne. Prinut ho pracovat pro Sultбna.</text>
+	</string>
+	<string id="zat_b30_sultan_task_6_name">
+		<text>Cernэ obchod: zjisti neco o aktuбlnнch obchodech Fousбce</text>
+	</string>
+	<string id="zat_b30_sultan_task_6_text">
+		<text>Musнљ zjistit, s cнm zrovna Fousбc obchoduje. To by nбm mohlo pomoci odrнznout jeho zбsobovбnн.</text>
+	</string>
+	<string id="zat_b30_sultan_task_7_name">
+		<text>Cernэ obchod: odeber stalkerum druhй detektory</text>
+	</string>
+	<string id="zat_b30_sultan_task_7_text">
+		<text>Musнљ udelat vљe pro to, abys stalkerum hledajнcнm artefakty pro Fousбce vzal prototypy detektoru. Pokud nebude mнt detektory, bude muset souhlasit se Sultбnovэmi podmнnkami.</text>
+	</string>
+	<string id="zat_b30_task_1_name">
+		<text>Lбkavб nabнdka: prines Novikovi tri detektory Veles</text>
+	</string>
+	<string id="zat_b30_task_1_text">
+		<text>Obchodnнk Hejkal ti nabнdl ъcast v lukrativnнm podniku. Tvэm ъkolem je najнt tri detektory Veles a odnйst je Novikovi do bunkru vedcu.</text>
+	</string>
+	<string id="zat_b30_task_2_name">
+		<text>Lбkavб nabнdka: pockej, aћ Hejkal dostane detektory</text>
+	</string>
+	<string id="zat_b30_task_2_text">
+		<text>Novikov prijal detektory a slнbil, ћe je nazpet Hejkalovi poљle sбm. Musнљ pockat, aћ skoncн s pracн na dektorech, a pak od nej zjisti vэsledek.</text>
+	</string>
+	<string id="zat_b30_task_3_name">
+		<text>Lбkavб nabнdka: promluv si s Hejkalem</text>
+	</string>
+	<string id="zat_b30_task_3_text">
+		<text>Obchodnнk Hejkal ti prostrednictvнm rбdia rekl, ћe mб potнћe a chtel by s tebou mluvit.</text>
+	</string>
+	<string id="zat_b30_task_4_name">
+		<text>Lбkavб nabнdka: presvedc Fousбce, aby se drћel dohody</text>
+	</string>
+	<string id="zat_b30_task_4_text">
+		<text>Obchodnнk Hejkal se domnнvб, ћe Fousбc se nedrћн dohody. Musнљ si s nнm promluvit a presvedcit ho, aby s poruљovбnнm dohody prestal.</text>
+	</string>
+	<string id="zat_b30_task_5_name">
+		<text>Lбkavб nabнdka: vyћбdej si podнl od Hejkala</text>
+	</string>
+	<string id="zat_b30_task_5_text">
+		<text>Fousбc je presvedcenэ, ћe Hejkalovi nic nedluћн. Musнљ zjistit, kdo mб pravdu a vyћбdat si od nej svuj podнl.</text>
+	</string>
+	<string id="zat_b33_zaporojec_text_01">
+		<text>Pahejl te poћбdal, abys mu prinesl jeho krabici. Ukryl ji ve starйm Zaporoћci, kterэ po zemetresenн spadl do trhliny. Pahejl se do nн bojн sestoupit, protoћe je plnб prнљer.</text>
+	</string>
+	<string id="zat_b33_zaporojec_text_02">
+		<text>Zнskal jsi Pahejlovu krabici a nynн bys ji mel zanйst jejнmu majiteli, aby mohl spravedlive rozdelit jejн obsah.</text>
+	</string>
+	<string id="zat_b38_den_of_the_bloodsucker_inform_stalkers_name">
+		<text>Doupe upнru: informuj stalkery</text>
+	</string>
+	<string id="zat_b38_den_of_the_bloodsucker_inform_stalkers_text">
+		<text>Musнљ rнct stalkerum o doupeti upнru pod vysнlacн stanicн Krug.</text>
+	</string>
+	<string id="zat_b38_den_of_the_bloodsucker_tell_barman_about_all_name">
+		<text>Doupe upнru: informuj Fousбce</text>
+	</string>
+	<string id="zat_b38_den_of_the_bloodsucker_tell_barman_about_all_text">
+		<text>Musнљ rнct Fousбcovi o doupeti upнru pod vysнlacн stanicн Krug, aby se mohl rozhodnout, jak ochrбnit stalkery.</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_clean_den_of_the_bloodsucker_name">
+		<text>Nezvestnн stalkeri: jdi za Tetrevem</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_clean_den_of_the_bloodsucker_text">
+		<text>Tetrev te poћбdal, abys s nнm prozkoumal opuљtenou vysнlacн stanici. Vљiml si upнru a chce zjistit, jestli tam nekde nenн i onen lovec.</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_deal_with_medic_name">
+		<text>Nezvestnн stalkeri: zjisti, co se stalo</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_deal_with_medic_text">
+		<text>Zdб se, ћe Straљбk nenн tak nevinnэ, jak se zdбlo. Musнљ zjistit, co se stalo.</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_find_cop_near_port_krans_name">
+		<text>Nezvestnн stalkeri: najdi Tetreva</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_find_cop_near_port_krans_text">
+		<text>Tetrev z nejakйho duvodu odeљel smerem k jerбbum v docнch. Moћnб zjistil neco o nezvestnэch stalkerech, takћe by ses za nнm mel podнvat.</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_find_out_where_is_cop_name">
+		<text>Nezvestnн stalkeri: zjisti, kde je Tetrev</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_find_out_where_is_cop_text">
+		<text>Tetrev nenн na ћбdnйm ze svэch obvyklэch mнst. Mel by ses zeptat Fousбce, kam љel.</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_find_to_be_missing_hunter_name">
+		<text>Nezvestnн stalkeri: najdi ztracenйho lovce</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_find_to_be_missing_hunter_text">
+		<text>Tetrev te poћбdal, abys mu pomohl najнt ztracenйho lovce, kterэ se prэ pokouљel nalйzt doupe upнru. Podle aktuбlnнch informacн muћou za nedбvnй mizenн stalkeru prбve upнri.</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_get_out_from_den_of_the_bloodsucker_name">
+		<text>Nezvestnн stalkeri: dostan se z doupete upнru</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_get_out_from_den_of_the_bloodsucker_text">
+		<text>V suterйnu jsi objevil doupe upнru a zjistil jsi, ћe jeho obyvatelй jsou jako omбmenй. Mel bys odsud odejнt, a to co nejtiљeji.</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_meet_cop_24h_past_name">
+		<text>Nezvestnн stalkeri: setkej se s Tetrevem</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_meet_cop_24h_past_text">
+		<text>Asi bys mel vyhledat Tetreva a promluvit si s nнm o hledбnн ztracenйho lovce.</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_meet_cop_later_name">
+		<text>Nezvestnн stalkeri: pozdeji se setkej s Tetrevem</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_meet_cop_later_text">
+		<text>Ve vysнlacн stanici nebyla po lovci Danilovi ani stopa. Tetrev se ale tнm, co jsi uvnitr zjistil, zdб bэt zmatenэ a poћбdal te, aby ses s nнm pozdeji seљel a celou zбleћitost s nнm podrobne probral.</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_meet_ment_name">
+		<text>Nezvestnн stalkeri: setkej se s Tetrevem</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_meet_ment_text">
+		<text>Na mнste, o kterйm Tetrev mluvil, byla jen mrtvэ upнr, po lovci Danilovi vљak ani stopa. Ale zdб se, ћe Tetrev zjistil neco zajнmavйho a chtel by te poћбdat, aby ses k nemu pridal.</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_tell_barmen_about_medic_text">
+		<text>Vљechno nasvedcuje tomu, ћe upнri nemajн s mizejнcнmi stalkery nic spolecnйho. Za vљнm je Straљбk, zdravotnнk ze Skadovsku.</text>
+	</string>
+	<string id="zat_b3_get_tools_1_2_name">
+		<text>Nбradн: prines Kardanovi nбradн</text>
+	</string>
+	<string id="zat_b3_get_tools_1_2_text">
+		<text>Kardan te poћбdal, abys mu sehnal dve sady nбradн: jednu pro zбkladnн ъkony a druhou pro jemnou prбci. Technik ti za nбradн zaplatн a bude s nнm schopen provбdet pokrocilejљн ъpravy zbranн a zbroje.</text>
+	</string>
+	<string id="zat_b3_get_tools_1_3_name">
+		<text>Nбradн: prines Kardanovi nбradн</text>
+	</string>
+	<string id="zat_b3_get_tools_1_3_text">
+		<text>Kardan te poћбdal, abys mu sehnal dve sady nбradн: jednu pro zбkladnн ъkony a druhou pro kalibraci. Technik ti za nбradн zaplatн a bude s nнm schopen provбdet pokrocilejљн ъpravy zbranн a zbroje.</text>
+	</string>
+	<string id="zat_b3_get_tools_1_name">
+		<text>Nбradн: prines Kardanovi nбradн</text>
+	</string>
+	<string id="zat_b3_get_tools_1_text">
+		<text>Kardan te poћбdal, abys mu sehnal sadu nбradн pro zбkladnн pracovnн ъkony. Technik ti za nбradн zaplatн a bude s nнm schopen provбdet pokrocilejљн ъpravy zbranн a zbroje.</text>
+	</string>
+	<string id="zat_b3_get_tools_2_3_name">
+		<text>Nбradн: prines Kardanovi nбradн</text>
+	</string>
+	<string id="zat_b3_get_tools_2_3_text">
+		<text>Kardan te poћбdal, abys mu sehnal dve sady nбradн: jednu pro jemnou prбci a druhou pro kalibraci. Technik ti za nбradн zaplatн a bude s nнm schopen provбdet pokrocilejљн ъpravy zbranн a zbroje.</text>
+	</string>
+	<string id="zat_b3_get_tools_2_name">
+		<text>Nбradн: prines Kardanovi nбradн</text>
+	</string>
+	<string id="zat_b3_get_tools_2_text">
+		<text>Kardan te poћбdal, abys mu sehnal sadu nбradн pro jemnй pracovnн ъkony. Technik ti za nбradн zaplatн a bude s nнm schopen provбdet pokrocilejљн ъpravy zbranн a zbroje.</text>
+	</string>
+	<string id="zat_b3_get_tools_3_name">
+		<text>Nбradн: prines Kardanovi nбradн</text>
+	</string>
+	<string id="zat_b3_get_tools_3_text">
+		<text>Kardan te poћбdal, abys mu sehnal sadu nбradн pro kalibraci. Technik ti za nбradн zaplatн a bude s nнm schopen provбdet pokrocilejљн ъpravy zbranн a zbroje.</text>
+	</string>
+	<string id="zat_b3_mechanic_toolkit_search_name">
+		<text>Nбradн: prines Kardanovi nбradн</text>
+	</string>
+	<string id="zat_b3_mechanic_toolkit_search_text">
+		<text>Kardan te poћбdal, abys mu sehnal tri sady nбradн: jednu pro zбkladnн pracovnн ъkony, druhou pro jemnou prбci a tretн pro kalibraci. Technik ti za nбradн zaplatн a bude s nнm schopen provбdet pokrocilejљн ъpravy zbranн a zbroje.</text>
+	</string>
+	<string id="zat_b40_reconnoitre_merc_camp_01_name">
+		<text>Tбbor ћoldбku: seber vљechny informace, na kterй narazнљ</text>
+	</string>
+	<string id="zat_b40_reconnoitre_merc_camp_01_text">
+		<text>Obchodnнk Hejkal slнbil, ћe za kaћdou informaci, na kterou v tбbore ћoldбku v tovбrne na zpracovбnн odpadu narazнљ, dobre zaplatн. Zajнmajн ho plбny ћoldбku.</text>
+	</string>
+	<string id="zat_b40_reconnoitre_merc_camp_02_name">
+		<text>Tбbor ћoldбku: seber vљechny informace, na kterй narazнљ</text>
+	</string>
+	<string id="zat_b40_reconnoitre_merc_camp_02_text">
+		<text>Obchodnнk Hejkal slнbil, ћe za kaћdou informaci, na kterou v tбbore ћoldбku v tovбrne na zpracovбnн odpadu narazнљ, dobre zaplatн. Zajнmajн ho plбny ћoldбku.</text>
+	</string>
+	<string id="zat_b44_tech_buddies_barge_name">
+		<text>Tri kamarбdi: zjisti, co se stalo s Bбrkou</text>
+	</string>
+	<string id="zat_b44_tech_buddies_barge_text">
+		<text>Kardan te poћбdal, abys vyrнdil omluvu jeho kamarбdovi, stalkerovi zvanйmu Bбrka. Pohбdali se, Bбrka se naљtval a odeљel neznбmo kam.</text>
+	</string>
+	<string id="zat_b44_tech_buddies_both_name">
+		<text>Tri kamarбdi: zjisti, co se stalo Bбrkovi a Vtiponovi</text>
+	</string>
+	<string id="zat_b44_tech_buddies_both_text">
+		<text>Kardan te poћбdal, abys vyrнdil omluvy jeho kamarбdum, stalkerum zvanэm Bбrka a Vtipon. Pohбdali se, oba kamarбdi se naљtvali a odeљli neznбmo kam.</text>
+	</string>
+	<string id="zat_b44_tech_buddies_joker_name">
+		<text>Tri kamarбdi: zjisti, co se stalo s Vtiponem</text>
+	</string>
+	<string id="zat_b44_tech_buddies_joker_text">
+		<text>Kardan te poћбdal, abys vyrнdil omluvu jeho kamarбdovi, stalkerovi zvanйmu Vtipon. Pohбdali se, Vtipon se naљtval a odeљel neznбmo kam.</text>
+	</string>
+	<string id="zat_b51_nimble_items_get_order_name">
+		<text>Speciбlnн objednбvka: vyzvedni zboћн</text>
+	</string>
+	<string id="zat_b51_nimble_items_get_order_text">
+		<text>Zboћн bylo doruceno, mel bys ho prevzнt od Cipery.</text>
+	</string>
+	<string id="zat_b51_nimble_items_wait_order_name">
+		<text>Speciбlnн objednбvka: cekej na dorucenн</text>
+	</string>
+	<string id="zat_b51_nimble_items_wait_order_text">
+		<text>Objednбvka byla provedena, nynн bys mel pockat, aћ bude zboћн doruceno Ciperovi.</text>
+	</string>
+	<string id="zat_b52_reputation_find_snag_name">
+		<text>Reputace: najdi Pahejla</text>
+	</string>
+	<string id="zat_b52_reputation_find_snag_text">
+		<text>Musнљ najнt Pahejla a prinutit ho, aby drћel jazyk za zuby. Cipera nikdy nedelal do kradenэch vecн, zatнmco Pahejl nenн ћбdnэ andнlek. Naposled byl viden u jerбbu v docнch, moћnб tam porбd bude.</text>
+	</string>
+	<string id="zat_b52_reputation_find_snag_text_2">
+		<text>Musнљ najнt Pahejla a prinutit ho, aby drћel jazyk za zuby. Pahejl nenн u jerбbu v docнch, banditй by ale mohli vedet, kde ho hledat.</text>
+	</string>
+	<string id="zat_b52_reputation_find_snag_text_3">
+		<text>Musнљ najнt Pahejla a prinutit ho, aby drћel jazyk za zuby. Zdб se, ћe v tom jedou i banditй, takћe by mohli vedet, kde ho hledat.</text>
+	</string>
+	<string id="zat_b52_reputation_find_snag_text_4">
+		<text>Musнљ najнt Pahejla a prinutit ho, aby drћel jazyk za zuby. Momentбlne se zdб, ћe se po nem slehla zem.</text>
+	</string>
+	<string id="zat_b52_reputation_find_snag_text_5">
+		<text>Musнљ najнt Pahejla a prinutit ho, aby drћel jazyk za zuby. Podle PDA nalezenйho u jednoho z banditu se zdб, ћe Pahejla hledajн Sultбnovi lidi. Bohuћel v nem nenн ani zmнnka o tom, kde by mohl bэt.</text>
+	</string>
+	<string id="zat_b52_reputation_know_there_snog_name">
+		<text>Reputace: zjisti, kam zmizel Pahejl</text>
+	</string>
+	<string id="zat_b52_reputation_know_there_snog_text">
+		<text>Pahejl nenн na ћбdnйm ze svэch obvyklэch mнst, takћe by ses mel zeptat mнstnнch, jestli ho nбhodou nevideli.</text>
+	</string>
+	<string id="zat_b52_reputation_know_there_snog_text_2">
+		<text>Musнљ najнt Pahejla a prinutit ho, aby drћel jazyk za zuby. Na obvyklйm mнste nenн, ale Sultбn by o nem mohl vedet vнc.</text>
+	</string>
+	<string id="zat_b52_reputation_know_there_snog_text_3">
+		<text>Musнљ najнt Pahejla a prinutit ho, aby drћel jazyk za zuby. Na obvyklйm mнste nenн, ale Fousбc by o nem mohl vedet vнc.</text>
+	</string>
+	<string id="zat_b52_reputation_tell_snag_name">
+		<text>Reputace: promluv si s Pahejlem</text>
+	</string>
+	<string id="zat_b52_reputation_tell_snag_text">
+		<text>Musнљ najнt Pahejla a prinutit ho, aby drћel jazyk za zuby. Cipera nikdy nedelal do kradenэch vecн, zatнmco Pahejl nenн ћбdnэ andнlek.</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_destroy_lair_name">
+		<text>Doupe upнru: najdi vetracн љachtu</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_destroy_lair_text">
+		<text>Najdi vetracн љachtu a vћen do doupete upнru jedovatэ plyn</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_find_gas_name">
+		<text>Doupe upнru: najdi jedovatэ plyn</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_find_gas_text">
+		<text>Ke znicenн doupete upнru budeљ potrebovat jedovatэ plyn. Hejkal by mohl vedet, kde se dб sehnat.</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_find_gas_text_2">
+		<text>Ke znicenн doupete upнru budeљ potrebovat jedovatэ plyn. Hejkal tvrdн, ћe kanystry s plynem bys mohl najнt u opuљtenйho vojenskйho konvoje.</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_get_gas_name">
+		<text>Doupe upнru: najdi klнce ke schrбnce</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_get_gas_text">
+		<text>V dokumentech, kterй jsi nalezl, se nachбzн zmнnka o klнcнch ke schrбnce s kanystry s plynem. Musнљ je najнt.</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_open_gas_box_name">
+		<text>Doupe upнru: najdi zpusob, jak odemknout schrбnku s kanystrem plynu</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_open_gas_box_text">
+		<text>Schrбnka s kanystrem plynu je zamcenб. Musнљ najнt zpusob, jak ji otevrнt.</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_place_gas_name">
+		<text>Doupe upнru: umнsti kanystr s plynem</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_place_gas_text">
+		<text>Vloћ kanystr s plynem do vetracн љachty suterйnu vysнlacн stanice. Plyn by se mel rozљнrit ve vetracн љachte, nasytit suterйn a zabнt upнry.</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_tell_stalkers_about_destroy_lair_name">
+		<text>Doupe upнru: sdel Fousбcovi, ћe doupe bylo zniceno</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_tell_stalkers_about_destroy_lair_text">
+		<text>Informuj Fousбce, ћe jsi znicil doupe upнru a zajistil tak bezpecnost stalkeru ve Skadovsku.</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_twist_vintil_name">
+		<text>Doupe upнru: otoc ventilem</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_twist_vintil_text">
+		<text>Otoc ventilem, aby se jedovatэ plyn mohl vetracн љachtou rozptэlit v suterйnu s doupetem upнru.</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_wait_destroy_name">
+		<text>Doupe upнru: pockej, dokud plyn nezapusobн</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_wait_destroy_text">
+		<text>Musнљ se ujistit, ћe se plyn rozptэlil v doupeti a ћe upнri jsou mrtvн.</text>
+	</string>
+	<string id="zat_b5_come_to_bandits_name">
+		<text>Transakce: setkej se s bandity v loveckй stanici</text>
+	</string>
+	<string id="zat_b5_come_to_bandits_text">
+		<text>Sultбn te poћбdal, aby ses zъcastnil jednбnн s obchodnнkem. Musнљ doprovodit jeho lidi a krэt je v prнpade, ћe se neco prihodн.</text>
+	</string>
+	<string id="zat_b5_come_to_dealer_name">
+		<text>Transakce: setkej se s obchodnнkem</text>
+	</string>
+	<string id="zat_b5_come_to_dealer_text">
+		<text>Hejkal ti nabнdl prбci – ochranu obchodnнka pri obchodnнm jednбnн. Obchod samozrejme nenн ъplne nejcistљн a muћe se stбt, ћe neprobehne hladce.</text>
+	</string>
+	<string id="zat_b5_come_to_stalkers_name">
+		<text>Transakce: setkej se se stalkery v loveckй stanici</text>
+	</string>
+	<string id="zat_b5_come_to_stalkers_text">
+		<text>Setkej se se stalkery v loveckй stanici a pomoz jim preruљit obchod mezi bandity a obchodnнkem se zbranemi.</text>
+	</string>
+	<string id="zat_b5_cover_dealer_name">
+		<text>Transakce: chran obchodnнka</text>
+	</string>
+	<string id="zat_b5_cover_dealer_text">
+		<text>Obchodnнk ti vysvetlil tvuj ъkol – chrбnit jej behem transakce.</text>
+	</string>
+	<string id="zat_b5_intercept_talking_name">
+		<text>Transakce: naslouchej konverzaci</text>
+	</string>
+	<string id="zat_b5_intercept_talking_text">
+		<text>Stalkeri chtejн, abys vyslechl konverzaci mezi bandity a obchodnнkem se zbranemi.</text>
+	</string>
+	<string id="zat_b5_kill_dealer_name">
+		<text>Transakce: naruљ prodej zbranн</text>
+	</string>
+	<string id="zat_b5_kill_dealer_text">
+		<text>Udelej vљe, co bude nutnй, abys naruљil obchod mezi bandity a obchodnнkem.</text>
+	</string>
+	<string id="zat_b5_kill_stalkers_name">
+		<text>Transakce: odstran svedky</text>
+	</string>
+	<string id="zat_b5_kill_stalkers_text">
+		<text>Prubeh transakce se obchodnнkovi vymkl z rukou, takћe se musнљ postarat o vљechny svedky.</text>
+	</string>
+	<string id="zat_b5_protect_dealer_name">
+		<text>Transakce: ochran obchodnнka</text>
+	</string>
+	<string id="zat_b5_protect_dealer_text">
+		<text>Musнљ ochrбnit obchodnнka. Navнc ti prikбzal, aby ses postaral o vљechny svedky obchodu, vcetne jeho klientu.</text>
+	</string>
+	<string id="zat_b5_search_body_name">
+		<text>Transakce: najdi obchodnнka</text>
+	</string>
+	<string id="zat_b5_search_body_text">
+		<text>Obchodnнk muћe mнt duleћitй informace, kterй by se pozdeji mohly hodit. Dojdi si pro ne.</text>
+	</string>
+	<string id="zat_b5_secure_bandits_name">
+		<text>Transakce: kryj bandity behem jednбnн</text>
+	</string>
+	<string id="zat_b5_secure_bandits_text">
+		<text>Zustan ostraћitэ a kryj bandity pri jednбnнch s obchodnнkem.</text>
+	</string>
+	<string id="zat_b5_speak_dealer_name">
+		<text>Transakce: promluv si s obchodnнkem</text>
+	</string>
+	<string id="zat_b5_speak_dealer_text">
+		<text>Obchod s bandity byl dokoncen, mel by sis vyzvednout svou odmenu.</text>
+	</string>
+	<string id="zat_b5_talk_barmen_name">
+		<text>Transakce: vyzvedni si u Fousбce odmenu</text>
+	</string>
+	<string id="zat_b5_talk_barmen_text">
+		<text>Fousбc ti slнbil odmenu, pokud se ti podarн naruљit transakci mezi bandity a obchodnнkem. To se ti podarilo dokonale, takћe si muћeљ dojнt pro svou odmenu.</text>
+	</string>
+	<string id="zat_b5_talk_to_sultan_name">
+		<text>Transakce: promluv si s vudcem banditu</text>
+	</string>
+	<string id="zat_b5_talk_to_sultan_text">
+		<text>Musнљ informovat vudce banditu, ћe jsi pripraven zъcastnit se transakce.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_name">
+		<text>Zбsah: rozhodni se, co udelбљ</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_raiders_name">
+		<text>Zбsah: zaъtoc na stalkery</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_stalkers_reward_name">
+		<text>Zбsah: vyzvedni si odmenu</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_stalkers_reward_text">
+		<text>Ъtok na tбbor byl odraћen, takћe si muћeљ promluvit se stalkery ohledne svй odmeny. Kdybys je o ъtoku neinformoval, pravdepodobne by meli velice teћkou pozici.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_text">
+		<text>Skupina stalkeru se pridala k banditum a okrбdб svou bэvalou rodinu. Musнљ se rozhodnout, zda se zъcastnнљ prepadenн, varujeљ stalkery, nebo se do niceho nebudeљ mнchat.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_wait_name">
+		<text>Zбsah: pockej na dohodnutэ cas</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_time_name">
+		<text>Ъder: Pockej si na sprбvnэ okamћik</text>
+	</string>
+	<string id="zat_b33_zaporojec_name">
+		<text>Neprнstupnб skrэљ: dones schrбnku Pahejlovi</text>
+	</string>
+	<string id="zat_b5_talk_stalkers_name">
+		<text>Obchod: promluv si s velitelem stalkeru.</text>
+	</string>
+	<string id="zat_b5_talk_stalkers_text">
+		<text>Obchod byl preruљen, prekupnнk zbranн je mrtev. Promluv si s velitelem stalkeru.</text>
+	</string>
+	<string id="zat_b38_disappearance_stalkers_tell_barmen_about_medic_name">
+		<text>Ztracenн stalkeri: rekni lidem na Skadovsku, co se stalo</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_open_container_text">
+		<text>Musнљ vzнt nalezenй klнce, odemknout jimi kontejner a vyndat bombu s jedovatэm plynem.</text>
+	</string>
+	<string id="zat_b57_den_of_the_bloodsucker_open_container_name">
+		<text>Pelech upнru: vyndej z kontejneru plynovou bombu</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_backstab_name">
+		<text>Nбjezd: prepadni bandity</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_backstab_text">
+		<text>Kdyћ banditum vpadneљ do zad, znacne tнm pomuћeљ brбnнcнm se stalkerum.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_meet_name">
+		<text>Nбjezd: setkej se s bandity</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_raiders_text">
+		<text>Pripoj se k banditum v nбjezdu na tбbor stalkeru.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_stalkers_name">
+		<text>Nбjezd: pripoj se k banditum</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_stalkers_text">
+		<text>Stalkeri te poћбdali o pomoc pri obrane pred bandity. Mбљ se nejprv pridat k banditum. Aћ se vrhnou do ъtoku, jednoduљe jim zacneљ strнlet do zad.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_meet_text">
+		<text>Banditi cekajн u Љevcenka. Jestli se k nim chceљ pripojit v ъtoku na stalkery, budeљ za nimi muset dojнt.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_wait_text">
+		<text>Pockej na setkбnн s bandity. Chtejн na stalkery zaъtocit po pulnoci, aћ bude porбdnб tma. Dohodnutй mнsto srazu je u Љevcenka.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_raiders_reward_name">
+		<text>Nбjezd: zajdi si pro podнl</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_raiders_reward_text">
+		<text>Ъtok na stalkery se vydaril. Zajdi si vyzvednout svuj podнl na koristi.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_time_text">
+		<text>Pockej na sprбvnэ okamћik, kdy budou banditi plne zabranн do ъtoku. Potom jim muћeљ zacнt pбlit do zad a tak pomoc Љevcenkovэm stalkerum.</text>
+	</string>
+	<string id="zat_b30_sultan_task_8_name">
+		<text>Temnэ byznys: zacni pracovat pro Fousбce</text>
+	</string>
+	<string id="zat_b30_sultan_task_8_text">
+		<text>Abys mohl stalkerum pracujнcнm pro Fousбce ukrбst prototypy detektoru, musнљ se mezi ne vetrнt. Teprv pak zjistнљ, kde se skrэvajн tvн konkurenci.</text>
+	</string>
+	<string id="zat_b33_zaporojec_text_03">
+		<text>Vezmi kontejner a odnes ho k jeho majiteli.</text>
+	</string>
+	<string id="zat_b100_guide_maps_01_text">
+		<text>V palubnнm pocнtaci Rejnoka 2 byly uloћeny mapy oblasti mezi Zatonem a Jupiterem. Treba najdeљ nekoho, komu se budou hodit.</text>
+	</string>
+	<string id="zat_b20_ask_a_stalkers_name">
+		<text>Cesta na nбhornн ploљinu: promluv si se stalkery</text>
+	</string>
+	<string id="zat_b20_ask_a_stalkers_text">
+		<text>Na nбhornн ploљinu patrne nevede ћбdnб prнmб cesta. Zeptej se mнstnнch stalkeru, zda se tam nedб dostat nejak jinak.</text>
+	</string>
+	<string id="zat_b30_compass_to_barmen_task_give_text">
+		<text>Ten artefakt, kterej ti dal Noe, nenн nic jinэho neћ Kompas, co po nem tak touћн Fousбc.</text>
+	</string>
+</string_table>

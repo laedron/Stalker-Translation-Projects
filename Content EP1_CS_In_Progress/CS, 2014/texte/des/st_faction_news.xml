@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+	<string_table>
+		<string id="st_guards_upgraded">
+			<text>Basis wurde verstдrkt.</text>
+		</string>
+		<string id="st_local_call_reject">
+			<text>Du hast bereits viel verstдrkung, was brauchst du uns?</text>
+		</string>
+		<string id="st_local_call_accept">
+			<text>Alles klar, wir werden gleich da sein!</text>
+		</string>
+		<string id="st_local_call_unav">
+			<text>In der Nдhe gibt es Keine Mдnner , die dir helfen kцnnten, sorry ...</text>
+		</string>
+		<string id="ok_we_arrived_in">
+			<text>Ok, wir sind nun bei</text>
+		</string>
+		<string id="moving_to_your_position">
+			<text>Position Дndern.</text>
+		</string>
+		<string id="st_reinf_no_faction">
+			<text>* Du musst in einer Fraktion sein, um diesen Befehl benutzen zu kцnnen. *</text>
+		</string>
+		<string id="we_cant_spare_any_more_men">
+			<text>Wir kцnnen nicht noch mehr Mдnner verlieren.</text>
+		</string>
+		<string id="sorry_but_youre_on_your_own">
+			<text>Sorry, aber das musst du auf eigene Faust machen.</text>
+		</string>
+		<string id="our_men_cant_get_to_you_the_road_is_not_safe">
+			<text>Unsere Mдnner kцnnen nicht kommen! Die StraЯe ist nicht sicher.</text>
+		</string>
+		<string id="your_squad_cannot_reach_your_position">
+			<text>* Dein Trupp kann deine Position nicht erreichen. Ьberprьfe ob es einen sicheren Zugang zwischen Ihnen und deinem Fraktionsgebiet gibt *</text>
+		</string>
+		<string id="there_are_already">
+			<text>Es gibt bereits</text>
+		</string>
+		<string id="squads_in_your_location">
+			<text>Truppen bei deinem Standort.</text>
+		</string>
+		<string id="were_not_sending_any_more_men_to_the">
+			<text>Wir schicken keine Mдnner mehr nach</text>
+		</string>
+		<string id="squads_on_their_way_to">
+			<text>Truppen auf dem Weg nach</text>
+		</string>
+		<string id="just_hold_on_an_wait_a_bit_for_them">
+			<text>Halte einfach noch ein bisschen durch.</text>
+		</string>
+		<string id="are_already_there_we_cant">
+			<text>sind schon da! Wir kцnnen keine weiteren Mдnner in das Gebiet schicken.</text>
+		</string>
+		<string id="youre_in_our_base">
+			<text>Du bist in deiner Basis! Wiso brauchst du dort Unterstьzung?!</text>
+		</string>
+		<string id="st_reinf_roger">
+			<text>Roger! Wir sind auf dem Weg</text>
+		</string>
+		<string id="st_reinf_roger2">
+			<text>Roger! Unsere Jungs sind auf dem Weg nach</text>
+		</string>
+		<string id="st_reinf_stall">
+			<text>A Trupp ist auf den weg. Halte durch!</text>
+		</string>
+		<string id="st_reinf_night">
+			<text>Sorry friend, but it's to dangerous to send out men after dark. You're on your own.</text>
+		</string>
+		<string id="st_reinf_for_defence">
+			<text>Dies ist die Basis! Wir schicken umgehend Mдnner zur Unterstьtzung!</text>
+		</string>
+		<string id="are_already_there_we_cant2">
+			<text>Wir kцnnen keine Mдnner mehr zu deinem Ort schicken. Du muss damit zurchtkommen was du hast ... ach ja ... Viel Glьck!</text>
+		</string>
+	</string_table>

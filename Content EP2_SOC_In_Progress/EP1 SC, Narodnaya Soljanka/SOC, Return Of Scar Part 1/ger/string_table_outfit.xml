@@ -1,0 +1,494 @@
+<!-- Ьbersetzt und angepasst durch Wlad Geschwendt aka 777-W.L.A.D. am 25.07.2008 -->
+<!-- Update am 06.11.2008 -->
+<!-- Letztes Update am 01.06.2016 -->
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="bandit_outfit_name">
+		<text>Banditenjacke</text>
+	</string>
+	<string id="bandit_outfit_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 7 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 46 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +5%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +5%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +10%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +8%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +10%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +10%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +5%\n%c[default]\nDie traditionelle Bekleidung eines Banditen: eine Lederjacke mit Elementen aus Kevlar. Bietet nur unzureichenden Schutz vor den tцdlichen Bedingungen der Zone.</text>
+	</string>
+
+	<string id="bandit_outfit_name_m">
+		<text>Panzerjacke</text>
+	</string>
+	<string id="bandit_outfit_description_m">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 8 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 62 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +5%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +5%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +10%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +8%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +14%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +10%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +5%\n%c[default]\nGewцhnliche schwache Banditenrьstung mit eingenдhten Metallgeflecht. Fast jeder kriegt das hin, aber nicht jeder hat die nцtige Geduld dazu.</text>
+	</string>
+
+	<string id="bandit_gaz_outfit_m1_name">
+		<text>Banditenjacke mit Gasmaske</text>
+	</string>
+	<string id="bandit_gaz_outfit_m1_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 8 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 45 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +5%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +8%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +10%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +8%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +10%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +10%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +5%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +10%\n%c[default]\nDie traditionelle Bekleidung eines Banditen: eine Lederjacke mit Elementen aus Kevlar. Bietet nur unzureichenden Schutz vor den tцdlichen Bedingungen der Zone. Leichter Schutz vor Strahlung.</text>
+	</string>
+
+	<string id="bandit_veteran_outfit_name">
+		<text>Brauner Banditenmantel</text>
+	</string>
+	<string id="bandit_veteran_outfit_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 11 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 35 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +5%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +10%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +5%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +10%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +10%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +5%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +5%\n%c[default]\nSchьtzt ein wenig besser gegen Wunden und Feuer, als eine einfache Jacke. Bekleidung "dunklerer" Veteranen. Ungenьgender Schutz, aber echtes Leder.</text>
+	</string>
+
+	<string id="bandit_master_outfit_name">
+		<text>Schwarzer Banditenmantel</text>
+	</string>
+	<string id="bandit_master_outfit_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 10 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 40 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +10%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +15%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +10%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +23%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +10%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +10%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +10%\n%c[default]\nErst von den Stalkern der "Sьnden"-Fraktion getragen. Spдter wurde so ein Mantel zum Erkennungszeichen der Strelok-Gruppe. Nur wird es von Banditen-Kommandeuren getragen. Fьr ein Mantel aus echtem Leder hat es gutes Kugelschutz.</text>
+	</string>
+
+	<string id="bandit_master_outfit_m">
+		<text>Unikaler Banditenmantel</text>
+	</string>
+	<string id="bandit_master_outfit_description_m">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 10 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 40 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +10%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +15%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +10%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +23%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +10%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +10%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +10%\n%c[255,1,255,255]Ausdauer:%c[255,1,255,1] +180\n%c[default]\nEin einzigartiger in seiner Art, schwarzer Banditenmantel. Hilft die Krдfte schneller weiderherzustellen.</text>
+	</string>
+
+	<string id="exo_bandit_outfit_name">
+		<text>Banditen-Exoskelett</text>
+	</string>
+		<string id="exo_bandit_outfit_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 20 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 165 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +25%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +25%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +25%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +38%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +15%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +15%\n%c[255,1,255,255]Elektroschock:%c[255,255,1,1] -5%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] 30%\n%c[255,1,255,255]PSI-Schutz:%c[255,1,255,1] +5%\n%c[255,1,255,255]Traglast:%c[255,1,255,1] bis +80 kg\n%c[default]\nExoskelett, von den Rьstungsmeistern aus der Gruppe von Borow produziert. Solche Exos tragen nur echte "Wiseguys" in der Zone. Markenzeichen dieser Exoskelette sind ZuverlдЯigkeit und stark erhцhte Traglast.</text>
+	</string>
+	<string id="bandit_exo_offline_descr">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 20 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 165 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +25%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +25%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +25%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +38%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +15%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +15%\n%c[255,1,255,255]Elektroschock:%c[255,255,1,1] -5%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] 30%\n%c[255,1,255,255]PSI-Schutz:%c[255,1,255,1] +5%\n%c[255,1,255,255]Traglast:%c[255,1,255,1] bis +80 kg\n%c[default]\nOhne eine Energiequelle sind Exoskelette, die in der Zone im Umlauf sind, nur eine steife Hьlle. Erst bei Verwendung einer starken Batterie kann man sich damit in Bewegung setzen.</text>
+	</string>
+	
+	<string id="exo_semezky_outfit_name">
+		<text>Exoskelett von Semetzky</text>
+	</string>
+		<string id="exo_semezky_outfit_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 19 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 170 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +25%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +25%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +25%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +38%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +15%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +15%\n%c[255,1,255,255]Elektroschock:%c[255,255,1,1] -5%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] 30%\n%c[255,1,255,255]PSI-Schutz:%c[255,1,255,1] +5%\n%c[255,1,255,255]Traglast:%c[255,1,255,1] bis +85 kg\n%c[default]\nExoskelett aus dem Vorratsversteck der Zonenlegende Semetzky. Unverkennbar ist die Tatsache, das Exoskelette der Banditen eine Kopie davon sind. Nur schlechter.</text>
+	</string>
+	<string id="sem_exo_offline_descr">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 19 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 170 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +25%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +25%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +25%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +38%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +15%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +15%\n%c[255,1,255,255]Elektroschock:%c[255,255,1,1] -5%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] 30%\n%c[255,1,255,255]PSI-Schutz:%c[255,1,255,1] +5%\n%c[255,1,255,255]Traglast:%c[255,1,255,1] bis +85 kg\n%c[default]\nOhne eine Energiequelle sind Exoskelette, die in der Zone im Umlauf sind, nur eine steife Hьlle. Erst bei Verwendung einer starken Batterie kann man sich damit in Bewegung setzen.</text>
+	</string>
+	
+
+	<string id="dolg_outfit_name">
+		<text>PSZ-9D "Wдchterpanzer"</text>
+	</string>
+	<string id="dolg_outfit_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 14 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 75 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +25%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +25%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +25%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +20%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +25%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +25%\n%c[default]\nHergestellt von einem militдrischen Forschungsinstitut in Kiew, eingesetzt von den Wдchtern. So schlicht und zuverlдssig wie das Standardmodell PSZ-9, aber dank der neuen Materialien bietet die Weste guten ballistischen Schutz auch vor Feuerwaffen. Die Weste ist verbesserungsfдhig, da sie ьber keinen Atemschutz verfьgt.</text>
+	</string>
+
+	<string id="dolg_outfit_gaz_m1_name">
+		<text>PSZ-9D-2 "Wдchterpanzer"</text>
+	</string>
+	<string id="dolg_outfit_gaz_m1_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 15 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 95 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +25%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +25%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +20%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +20%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +25%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +35%\n%c[default]\nWeiterentwicklung des Basis-Modells PSZ-9D. Diese Modifikation hat verbessertes Atemschutz.</text>
+	</string>
+
+	<string id="dolg_outfit_name_m1">
+		<text>Jдger-PSZ-9D</text>
+	</string>
+	<string id="dolg_outfit_description_m1">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 14 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 75 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +25%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +70%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +25%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +20%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +25%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +25%\n%c[default]\nPanzeranzug der Wдchter mit verbessertem Schutz gegen Bisse und Kratzer.</text>
+	</string>
+
+	<string id="dolg_scientific_outfit_name">
+		<text>PSZ-9MD "UniSchutz"</text>
+	</string>
+	<string id="dolg_scientific_outfit_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 17 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 55 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +25%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +25%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +25%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +20%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +40%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +35%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +45%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +45%\n%c[default]\nEin wunderbarer Schutzanzug fьr die Zone. Stalker wissen ihn zu schдtzen, da er exzellenten Schutz gegen Anomalien und gegen Kugeln bietet. Enthalten ist der PSZ-9D-Anzug, ein geschlossenes Atmungssystem und ein integriertes Unterdrьckungssystem gegen Anomalien. Kugelsicherheit und Splitterschutz von Qualitдt.</text>
+	</string>
+
+	<string id="dolg_black_exoskeleton_name">
+		<text>Wдchter-Exoskelett</text>
+	</string>
+	<string id="dolg_black_exoskeleton_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 19 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 120 Einheiten\n%c[255,1,255,255]Traglast:%c[255,1,255,1] bis +35 kg\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +35%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +40%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +35%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +40%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +20%\n%c[255,1,255,255]Elektroschock:%c[255,255,1,1] -5%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +25%\n%c[255,1,255,255]PSI-Schutz:%c[255,1,255,1] +10%\n%c[default]\nHergestellt von einem militдrischen Forschungsinstitut in Kiew, eingesetzt von den Wдchtern. Kampffunktionen sind verstдrkt, hohe Traglast. Eigengewicht des Anzugs ist relativ hoch.</text>
+	</string>
+	<string id="dolg_exo_offline_descr">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 19 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 120 Einheiten\n%c[255,1,255,255]Traglast:%c[255,1,255,1] bis +35 kg\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +35%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +40%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +35%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +40%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +20%\n%c[255,1,255,255]Elektroschock:%c[255,255,1,1] -5%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +25%\n%c[255,1,255,255]PSI-Schutz:%c[255,1,255,1] +10%\n%c[default]\nOhne eine Energiequelle sind Exoskelette, die in der Zone im Umlauf sind, nur eine steife Hьlle. Erst bei Verwendung einer starken Batterie kann man sich damit in Bewegung setzen.</text>
+	</string>
+
+	<string id="ecolog_outfit_name">
+		<text>Цkologen-SSP-99</text>
+	</string>
+	<string id="ecolog_outfit_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 17 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 50 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +25%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +5%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +20%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +10%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +45%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +45%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +45%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +45%\n%c[default]\nEin SSP-99-Schutzanzug fьr Forscher, der speziell fьr die Zone entworfen wurde. Er wird von Forschungsexpeditionen und den mit ihnen zusammenarbeitenden Eco-Stalkern verwendet. Er hat integrierte Luftfilter und ist klimatisiert, widersteht Hitze und Elektrizitдt und bietet guten Schutz gegen Strahlung und biologische Anomalien. Er hдlt chemisch aggressiven Umgebungen stand. Er ist kein Kampfanzug und weder sehr kugelsicher oder splitterfest.</text>
+	</string>
+
+	<string id="protection_outfit_name">
+		<text>SSP-99M-Anzug "VEGA"</text>
+	</string>
+	<string id="protection_outfit_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 18 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 50 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +25%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +25%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +30%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +20%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +45%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +45%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +45%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +45%\n%c[default]\nEin hochwertiger, modifizierter SSP-99-Anzug. Bietet verbesserten Schutz vor Kugeln und Splittern. Er wurde fьr die Wachleute entwickelt, die wissenschaftliche Expeditionen begleiten. Er bietet guten Schutz vor Strahlung und biologischen Anomalien. Er schьtzt vor chemischen Angriffen und sonstigen fьr den Kцrper schдdliche Einwirkungen.</text>
+	</string>
+
+	<string id="outfit_soldier_m1_name">
+		<text>Armee-Panzerweste</text>
+	</string>
+	<string id="outfit_soldier_m1_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 14 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 55 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +10%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +10%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +10%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +10%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +10%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +5%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +5%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +5%\n%c[default]\nStandartausrьstung eines Soldaten - leichte Panzerweste. Genьgender Schutz gegen Kugeln und Splittern. Gegen Anomalien hдlt diese Weste aber nicht lange stand.</text>
+	</string>
+
+	<string id="specops_outfit_name">
+		<text>Beryll-5M-Kampfanzug</text>
+	</string>
+	<string id="specops_outfit_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 12 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 70 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +10%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +20%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +20%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +23%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +10%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +10%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +15%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +10%\n%c[default]\nEin Beryll-5M-Kampfanzug fьr Spezialeinheiten, angepasst an die Umweltbedingungen der Zone. Er enthдlt eine kugelsichere Weste vom Typ PSZ-9A mit einer Beryllium-Beschichtung und einen Sphere-08-Helm. Er ist fьr Kampfeinsдtze in Gebieten mit hoher Strahlenbelastung konzipiert. Er bietet nur geringen Schutz vor Anomalien.</text>
+	</string>
+
+	<string id="specnaz_outfit_name_m1">
+		<text>Heilender Beryll</text>
+	</string>
+	<string id="specnaz_outfit_description_m1">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 12 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 70 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +10%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +20%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +20%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +23%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +10%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +10%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +15%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +10%\n%c[255,1,255,255]Blutung:%c[255,1,255,1] -20%\n%c[default]\nDas Gewebe dieses Anzugs ist mit einer streptozoidalen Lotion getrдnkt, die den Heilungsprozess von Wunden beschleunigt.</text>
+	</string>
+
+	<string id="stalker_outfit_name_m1">
+		<text>Heilender Stalkeranzug</text>
+	</string>
+	<string id="stalker_outfit_description_m1">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 12 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 70 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +25%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +20%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +15%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +15%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +25%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Gesundheit:%c[255,1,255,1] +600%\n%c[default]\nGerьchten zufolge trдgt Stalker "Ghost" nie ein Medkit bei sich. Bei ihm heilt alles von selbst, wie bei einem Hund. Man sagt, dass er einen ungewцhnlichen Anzug trдgt, den er aus einer Anomalie geborgen hat.</text>
+	</string>
+
+	<string id="military_outfit_name">
+		<text>Kampfanzug SKAT-9M</text>
+	</string>
+	<string id="military_outfit_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 16 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 92 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +35%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +35%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +30%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +25%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +30%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +30%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +30%\n%c[default]\nDieser kugelsichere SKAT-9M-Kampfanzug ist fьr Kampfeinsдtze in Gebieten mit anomalen Aktivitдten konzipiert worden. Er besteht aus dem schwer gepanzerten PSZ-12P-Kampfanzug, einem integrierten Schutzanzug und einem Sphere-12M-Helm. Er bietet perfekten Schutz vor Kugeln und Splittern, ohne dabei die Beweglichkeit des Soldaten zu einzuschrдnken. Dazu verfьgt er ьber ein System zum Schutz vor Anomalien.</text>
+	</string>
+
+	<string id="militaryspec_outfit_name">
+		<text>Kampfanzug SKAT-10</text>
+	</string>
+	<string id="militaryspec_outfit_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 16 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 90 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +40%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +40%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +35%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +35%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +40%\n%c[255,1,255,255]Veratzung:%c[255,1,255,1] +30%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +40%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +35%\n%c[255,1,255,255]PSI-Schutz:%c[255,1,255,1] +20\n%c[default]\nDer kugelsichere Kampfanzug wurde fьr Sturmangriffe entworfen, auf der Basis von dem beweдhrten SKAT-9M. Er bietet hervorragenden Schutz gegen Kugeln und Splittergeschosse, ohne die Beweglichkeit des Soldaten herabzusetzen. Er besteht aus dem schwer gepanzerten PSZ-12SA-Kampfanzug, einem integrierten Schutzanzug und einem Sphere-12M-Helm, Druckkompensation-System.</text>
+	</string>
+
+	<string id="exo_outfit_name">
+		<text>Exoskelett</text>
+	</string>
+	<string id="exo_outfit_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 19 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 100 Einheiten\n%c[255,1,255,255]Traglast:%c[255,1,255,1] bis +20 kg\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +45%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +40%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +40%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +30%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Elektroschock:%c[255,255,1,1] -5%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +15%\n%c[default]\nPrototyp eines Armee-Exoskelettes, wegen hohen Herstellungskosten und einiger Entwicklungsmдngel nie in Serienproduktion gegangen. Wird jedoch in kleiner Stьckzahl in illegalen Fabriken auЯerhalb der Ukraine produziert. Hierbei handelt es sich um eine Panzerung der dritten Generation. Die Entwicklungsmдngel, die zu verringerter Beweglichkeit fьhrten, wurden behoben und die Panzerung wurde verstдrkt. Sie bietet exzellenten Schutz gegen Kugel- und Streuschдden, ist jedoch wenig effizient gegen Anomalien.</text>
+	</string>
+	<string id="exo_offline_descr">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 19 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 100 Einheiten\n%c[255,1,255,255]Traglast:%c[255,1,255,1] bis +20 kg\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +45%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +40%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +40%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +30%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Elektroschock:%c[255,255,1,1] -5%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +15%\n%c[default]\nOhne eine Energiequelle sind Exoskelette, die in der Zone im Umlauf sind, nur eine steife Hьlle. Erst bei Verwendung einer starken Batterie kann man sich damit in Bewegung setzen.</text>
+	</string>
+
+	<string id="exo_outfit_name_m1">
+		<text>Modifizierter Exoskelett</text>
+	</string>
+	<string id="exo_outfit_description_m1">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 19 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 100 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +45%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +40%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +40%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +30%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Elektroschock:%c[255,255,1,1] -5%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +15%\n%c[255,1,255,255]Traglast:%c[255,1,255,1] bis +20 kg\n%c[default]\nExperimenteller Prototyp eines modifizierten Armee-Exoskelettes.</text>
+	</string>
+	<string id="m1_exo_offline_descr">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 19 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 100 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +45%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +40%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +40%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +30%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Elektroschock:%c[255,255,1,1] -5%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +15%\n%c[255,1,255,255]Traglast:%c[255,1,255,1] bis +20 kg\n%c[default]\nOhne eine Energiequelle sind Exoskelette, die in der Zone im Umlauf sind, nur eine steife Hьlle. Erst bei Verwendung einer starken Batterie kann man sich damit in Bewegung setzen.</text>
+	</string>
+
+	<string id="killer_outfit_name">
+		<text>Sцldneranzug</text>
+	</string>
+	<string id="killer_outfit_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 12 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 74 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +10%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +15%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +15%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +10%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +20%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +15%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +15%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +10%\n%c[default]\nStalkeranzug der Sцldnerfraktion. Das Design basiert auf den Anzьgen der Sonderkommandos der westlichen Armeen. Die Fasern sind speziell behandelt worden, um auch in Bewegung noch besonders stabil zu sein. Die Schutzwirkung ist etwas besser als die der schussfesten PSZ-7-Anzьge.</text>
+	</string>
+
+	<string id="killer_gaz_outfit_m1_name">
+		<text>Verbesserter Sцldneranzug</text>
+	</string>
+	<string id="killer_gaz_outfit_m1_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 15 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 82 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +10%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +15%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +15%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +10%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +15%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +10%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +15%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +25%\n%c[default]\nStalkeranzug der Sцldnerfraktion. Das Design basiert auf den Anzьgen der Sonderkommandos der westlichen Armeen. Die Fasern sind speziell behandelt worden, um auch in Bewegung noch besonders stabil zu sein. Die Schutzwirkung ist etwas besser als die der schussfesten PSZ-7-Anzьge. Schьtzt besser vor Strahlung als einfacher Sцldneranzug.</text>
+	</string>
+
+	<string id="killer_outfit_name_m1">
+		<text>Verstдrkter Sцldneranzug</text>
+	</string>
+	<string id="killer_outfit_description_m1">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 12 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 74 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +10%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +60%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +15%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +10%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +20%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +15%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +15%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +10%\n%c[default]\nDurch eingenдhten Metallgeflecht hat dieser Anzug besseren Schutz gegen Kugeln und Bisse, als einfacher Sцldneranzug.</text>
+	</string>
+
+	<string id="merc_scientific_outfit_name">
+		<text>Anzug der "Sцldner-Цkologen"</text>
+	</string>
+	<string id="merc_scientific_outfit_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 17 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 60 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +35%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +20%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +20%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] 18%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +40%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +30%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +40%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +35%\n%c[default]\nAnzug der Sцldner, die in anomalen Gebieten nach Artefakten jagen.</text>
+	</string>
+
+	<string id="killer_blue_exoskeleton_name">
+		<text>Sцldner-Exoskelett</text>
+	</string>
+	<string id="killer_blue_exoskeleton_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 19 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 100 Einheiten\n%c[255,1,255,255]Traglast:%c[255,1,255,1] bis +15 kg\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +25%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +10%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +35%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +35%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +15%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +10%\n%c[255,1,255,255]Elektroschock:%c[255,255,1,1] -5%\n%c[default]\nExperimenteller Prototyp eines Armee-Exoskelettes der NATO-Streitkrдfte. Dieses Exoskelett zдhlt zu der dritten Generation. Wird von Sцldnern verwendet. Fьr Kampfhandlungen optimiert, geringer Anomalie-Schutz.</text>
+	</string>
+	<string id="killer_exo_offline_descr">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 19 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 100 Einheiten\n%c[255,1,255,255]Traglast:%c[255,1,255,1] bis +15 kg\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +25%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +10%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +35%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +35%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +15%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +10%\n%c[255,1,255,255]Elektroschock:%c[255,255,1,1] -5%\n%c[default]\nOhne eine Energiequelle sind Exoskelette, die in der Zone im Umlauf sind, nur eine steife Hьlle. Erst bei Verwendung einer starken Batterie kann man sich damit in Bewegung setzen.</text>
+	</string>
+
+	<string id="monolit_outfit_name">
+		<text>Monolith-Anzug</text>
+	</string>
+	<string id="monolit_outfit_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 13 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 72 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +25%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +20%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +20%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +20%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +20%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +30%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +20%\n%c[default]\nStalker-Anzug der Monolith-Fraktion. Der Hersteller ist unbekannt. Seine Schutzeigenschaften sind etwas schlechter als die der kugelsicheren PSZ-9A-Militдrweste. Von der Struktur her ist er dem Anzug дhnlich, der bei neutralen Stalkern beliebt ist und eine kugelsichere Weste mit einem Strahlenschutzanzug verbindet. Er bietet einen guten Schutz unter Beschuss. Da ein Luftfilterungssystem fehlt, bietet er jedoch nur geringen Schutz gegen Anomalien.</text>
+	</string>
+
+	<string id="monolit_gaz_outfit_m1_name">
+		<text>Monolith-Anzug mit Gasmaske</text>
+	</string>
+	<string id="monolit_gaz_outfit_m1_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 15 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 80 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +30%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +20%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +20%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +25%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +30%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +30%\n%c[default]\nStalker-Anzug der Monolith-Fraktion. Der Hersteller ist unbekannt. Seine Schutzeigenschaften sind etwas schlechter als die der kugelsicheren PSZ-9A-Militдrweste. Von der Struktur her ist er dem Anzug дhnlich, der bei neutralen Stalkern beliebt ist und eine kugelsichere Weste mit einem Strahlenschutzanzug verbindet. Er bietet einen guten Schutz unter Beschuss.</text>
+	</string>
+
+	<string id="monolit_scientific_outfit_name">
+		<text>Monolith-Forscheranzug</text>
+	</string>
+	<string id="monolit_scientific_outfit_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 17 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 50 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +25%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +25%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +20%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +25%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +50%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +50%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +45%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +50%\n%c[255,1,255,255]PSI-Schutz:%c[255,1,255,1] +5%\n%c[default]\nWie bei den meisten "Monolith"-Erzeugnissen ist die Herstellungstechnologie unklar. Teile des Anzugs sind aus Materialien unbekannten Ursprungs hergestellt. Diese sind viel leichter als bekannte Analoge und schьtzen sehr gut vor Strahlung. Die anderen Eigenschaften sind vergleichbar mit Charakteristika von дhnlichen Anzьgen anderer Fraktionen.</text>
+	</string>
+
+	<string id="monolit_exoskeleton_name">
+		<text>Monolith-Exoskelett</text>
+	</string>
+	<string id="monolit_exoskeleton_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 19 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 110 Einheiten\n%c[255,1,255,255]Traglast:%c[255,1,255,1] bis +10 kg\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +40%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +40%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +40%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +45%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +50%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +35%\n%c[255,1,255,255]Elektroschock:%c[255,255,1,1] -5%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +50%\n%c[255,1,255,255]PSI-Schutz:%c[255,1,255,1] +20%\n%c[default]\nProduktionstechnologie ist unbekannt. Im Anzugmaterial wurden Teilchen eines unbekannten Metalls endeckt. Erstaunlich niedriges Eigengewicht und hohe, gleichmдЯige Schutzeigenschaften. Sehr guter Strahlungsschutz.</text>
+	</string>
+	<string id="mono_exo_offline_descr">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 19 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 110 Einheiten\n%c[255,1,255,255]Traglast:%c[255,1,255,1] bis +10 kg\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +40%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +40%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +40%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +45%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +50%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +35%\n%c[255,1,255,255]Elektroschock:%c[255,255,1,1] -5%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +50%\n%c[255,1,255,255]PSI-Schutz:%c[255,1,255,1] +20%\n%c[default]\nOhne eine Energiequelle sind Exoskelette, die in der Zone im Umlauf sind, nur eine steife Hьlle. Erst bei Verwendung einer starken Batterie kann man sich damit in Bewegung setzen.</text>
+	</string>
+
+	<string id="neytral_novice_outfit_m1_name">
+		<text>Jacke</text>
+	</string>
+	<string id="neytral_novice_outfit_m1_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 7 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 35 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +5%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +5%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +10%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +5%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +10%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +10%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +5%\n%c[default]\nEine gewцhnliche dicke Lederjacke, eine von vielen. Sie bietet leichten Schutz vor Kugeln und Splittern. Sie bietet kaum Schutz vor Anomalien und sonstigen Effekten.</text>
+	</string>
+
+	<string id="novice_gaz_outfit_m1_name">
+		<text>Jacke mit Gasmaske</text>
+	</string>
+	<string id="novice_gaz_outfit_m1_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 8 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 45 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +5%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +5%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +10%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +5%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +10%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +10%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +5%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +10%\n%c[default]\nEine einfache dicke Lederjacke, wie eine von vielen. Sie bietet leichten Schutz vor Kugeln und Splittern. Sie bietet keinerlei Schutz vor Anomalien und sonstigen Effekten. Leichter Schutz gegen Strahlung.</text>
+	</string>
+
+	<string id="outfit_soldier_name">
+		<text>Lederjacke</text>
+	</string>
+	<string id="outfit_soldier_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 7 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 42 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +5%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +5%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +10%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +5%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +10%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +10%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +5%\n%c[default]\nEine gewцhnliche dicke Lederjacke, eine von vielen. Sie bietet leichten Schutz vor Kugeln und Splittern. Sie bietet kaum Schutz vor Anomalien und sonstigen Effekten.</text>
+	</string>
+
+	<string id="novice_outfit_name_m">
+		<text>Anomale Lederjacke</text>
+	</string>
+	<string id="novice_outfit_description_m">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 7 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 35 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +5%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +5%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +10%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +5%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +10%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +10%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +5%\n%c[255,1,255,255]Gesundheit:%c[255,1,255,1] +600%\n%c[255,1,255,255]Blutung:%c[255,1,255,1] -2%\n%c[default]\nDiese Jacke gehцrte einem der Stalker, die in der Anomalie "Gallert" ums Leben gekommen sind. Nachdem der Mantel so lange in der Anomalie gelegen hat, erlangte er die Fдhigkeit, den Stoffwechsel zu beschleunigen.</text>
+	</string>
+
+	<string id="stalker_outfit_name">
+		<text>Stalkeranzug</text>
+	</string>
+	<string id="stalker_outfit_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 12 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 70 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +25%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +20%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +15%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +15%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +25%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +25%\n%c[default]\nEin Stalker-Anzug, hergestellt von "einheimischen Handwerkern". Eine effektive Kombination aus einer leichten kugelsicheren Weste und einem Anzug aus gummiertem Material. Er ist mit eingearbeiteten Kevlarplatten verstдrkt und bietet guten Schutz vor leichtem Beschuss. Letztlich ist er allerdings vцllig unbrauchbar fьr tiefgehende Raubzьge oder heikle Einsдtze in den Knotenpunkten der Zone.</text>
+	</string>
+
+	<string id="stalker_outfit_name_m3">
+		<text>Verstдrkter Stalkeranzug</text>
+	</string>
+	<string id="stalker_outfit_description_m3">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 15 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 86 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +25%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +20%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +15%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +15%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +25%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +25%\n%c[default]\nUnikaler, verstдrkter Stalkeranzug. Wer diesen modifiziert hat - ist unbekannt.</text>
+	</string>
+
+	<string id="stalker_guard_outfit_name">
+		<text>Leichter Stalkeranzug</text>
+	</string>
+	<string id="stalker_guard_outfit_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 11 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 60 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +30%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +30%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +20%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +18%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +5%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +5%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +30%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +5%\n%c[default]\nVariante des Stalkeranzugs mit verringertem Gewicht. Er besteht aus einer leichten kugelsicheren Weste mit verstдrkenden Kevlarplatten. Er bietet, fьr seinen Gewicht, einen guten Schutz vor leichten Waffen. Ist nicht sehr teuer, wird aber nirgends verkauft. Wie der in die Zone kam - unbekannt.</text>
+	</string>
+
+	<string id="neytral_gaz_outfit_m1_name">
+		<text>Modifizierter Stalkeranzug KSU-1</text>
+	</string>
+	<string id="neytral_gaz_outfit_m1_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 14 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 76 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +25%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +20%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +15%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +15%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +30%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +25%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +25%\n%c[default]\nEin Stalker-Anzug, hergestellt von "einheimischen Handwerkern". Eine effektive Kombination aus einer leichten kugelsicheren Weste und einem Anzug aus gummiertem Material. Er ist mit eingearbeiteten Kevlarplatten verstдrkt und bietet guten Schutz vor leichtem Beschuss. Letztlich ist er allerdings vцllig unbrauchbar fьr tiefgehende Raubzьge oder heikle Einsдtze in den Knotenpunkten der Zone.</text>
+	</string>
+
+	<string id="neytral_gaz_outfit_m2_name">
+		<text>Modifizierter Stalkeranzug KSU-2K</text>
+	</string>
+	<string id="neytral_gaz_outfit_m2_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 15 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 80 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +25%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +20%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +15%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +15%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +40%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +40%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +25%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +35%\n%c[default]\nModifizierter Stalkeranzug KSU-2K (K fьr Kommandeur) ist eine effektive Kombination aus einer leichten kugelsicheren Weste und einem Anzug aus gummiertem Material. Er ist mit eingearbeiteten Kevlarplatten verstдrkt und bietet guten Schutz vor leichtem Beschuss. Letztlich ist er allerdings vцllig unbrauchbar fьr tiefgehende Raubzьge oder heikle Einsдtze in den Knotenpunkten der Zone. Im Vergleich mit KSU-1 bietet es mehr Schutz gegen Strom und Sдuren.</text>
+	</string>
+
+	<string id="stalker_outfit_name_m1">
+		<text>"Ghost"-Anzug</text>
+	</string>
+	<string id="stalker_outfit_description_m1">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 12 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 73 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +25%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +20%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +15%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +15%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +25%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Gesundheit:%c[255,1,255,1] +600%\n%c[default]\nGerьchten zufolge trдgt Stalker "Ghost" nie ein Medkit bei sich. Bei ihm heilt alles von selbst, wie bei einem Hund. Man sagt, dass er einen ungewцhnlichen Anzug trдgt, den er aus einer Anomalie geborgen hat.</text>
+	</string>
+
+	<string id="stalker_outfit_name_m2">
+		<text>Touristen-Anzug</text>
+	</string>
+	<string id="stalker_outfit_description_m2">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 12 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 78 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +25%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +20%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +15%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +15%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +25%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Traglast:%c[255,1,255,1] bis +20 kg\n%c[default]\nDer Vorbesitzer dieses Dings war ein wahrer Tourist, der sich wohl stдndig auf extrem anstrengende Gewaltmдrsche am Rande der menschlichen Ausdauer begeben hat. Er wusste, wie er das zu tragende Gewicht am besten zu verteilen hatte und welchen Dingen man Vorrang geben sollte. Die Auzugstaschen und der mit Bedacht ausgewдhlte Rucksack erlauben ihrem Trдger, schwere Lasten zu transportieren.</text>
+	</string>
+
+	<string id="scientific_outfit_name">
+		<text>Schutzanzug "SEVA"</text>
+	</string>
+	<string id="scientific_outfit_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 17 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 60 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +25%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +25%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +25%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +20%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +40%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +35%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +45%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +45%\n%c[default]\nDieser Anzug wurde von einer Forschungseinrichtung in Kiew entwickelt und ist eine vorzьgliche Alternative zu den selbstgemachten Anzьgen der Stalker. Der Anzug ist eine hervorragende Kombination aus einer kugelsicheren Weste, einem geschlossenen Beatmungssystem und einem integrierten System zur Unterdrьckung anomaler Felder. Aufgrund der perfekten Materialzusammenstellung ist dieser Anzug eine erstklassige Wahl. Sein einziger Nachteil ist der Preis.</text>
+	</string>
+
+	<string id="broken_exoskeleton_name">
+		<text>Beschдdigter Exoskelett</text>
+	</string>
+	<string id="broken_exoskeleton_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 19 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 90 Einheiten\n%c[255,1,255,255]Traglast:%c[255,1,255,1] bis +5 kg\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +10%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +15%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +13%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +10%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +5%\n%c[255,1,255,255]Elektroschock:%c[255,255,1,1] -5%\n%c[default]\nDieser Exoskelett hat schon sehr starke Gebrauchsspuren, kann aber noch verwendet werden. Preis ist seine beste Eigenschaft. Die Schutzparameter sind gering.</text>
+	</string>
+	<string id="broken_exo_offline_descr">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 19 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 90 Einheiten\n%c[255,1,255,255]Traglast:%c[255,1,255,1] bis +5 kg\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +10%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +15%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +13%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +10%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +5%\n%c[255,1,255,255]Elektroschock:%c[255,255,1,1] -5%\n%c[default]\nOhne eine Energiequelle sind Exoskelette, die in der Zone im Umlauf sind, nur eine steife Hьlle. Erst bei Verwendung einer starken Batterie kann man sich damit in Bewegung setzen.</text>
+	</string>
+
+	<string id="svoboda_light_outfit_name">
+		<text>Anzug "Wind der Freiheit"</text>
+	</string>
+	<string id="svoboda_light_outfit_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 13 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 68 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +25%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +15%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +15%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +15%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +15%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +25%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +25%\n%c[default]\nLeichter Stalkeranzug, hergestellt von den Waffenmeistern der Freiheitsfraktion. Er besteht aus einer leichten kugelsicheren Weste mit verstдrkenden Kevlarplatten. Er bietet Schutz vor leichten Waffen. Das Material des Anzugs wurde mit einer speziellen Mixtur behandelt, die die Widerstandfдhigkeit gegenьber Anomalie-Aktivitдten verstдrkt.</text>
+	</string>
+
+	<string id="outfit_svoboda_gaz_m1_name">
+		<text>Anzug "Wind der Freiheit" mit Gasmaske</text>
+	</string>
+	<string id="outfit_svoboda_gaz_m1_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 14 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 78 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +25%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +15%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +15%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +15%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +15%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +30%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +30%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +30%\n%c[default]\nLeichter Stalkeranzug, hergestellt von den Waffenmeistern der Freiheitsfraktion. Er besteht aus einer leichten kugelsicheren Weste mit verstдrkenden Kevlarplatten. Er bietet Schutz vor leichten Waffen.</text>
+	</string>
+
+	<string id="svoboda_heavy_outfit_name">
+		<text>Anzug "Wache der Freiheit"</text>
+	</string>
+	<string id="svoboda_heavy_outfit_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 14 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 75 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +30%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +25%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +25%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +25%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +25%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +25%\n%c[default]\nVerstдrkter Stalker-Anzug, hergestellt von den Waffenmeistern der Freiheitsfraktion. Er besteht aus einer mittelschweren kugelsicheren Weste, die mit Zirkonium-Elementen verstдrkt ist und so auf mittlere bis lange Distanz guten Schutz vor Splittern von Gewehrmunition bietet. Das Material des Anzugs besteht aus zwei Schichten: speziell behandeltes Leder und ein Gewebe aus feuerbestдndigem Garn. Der Anzug bietet guten Schutz vor Strahlung und zahlreichen schwachen Anomalien.</text>
+	</string>
+
+	<string id="svoboda_heavy_gaz_outfit_m1_name">
+		<text>Anzug "Wache der Freiheit" mit Gasmaske</text>
+	</string>
+	<string id="svoboda_heavy_gaz_outfit_m1_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 16 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 97 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +30%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +25%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +25%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +20%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +25%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +30%\n%c[default]\nVerstдrkter Stalker-Anzug, hergestellt von den Waffenmeistern der Freiheitsfraktion.</text>
+	</string>
+
+	<string id="svoboda_outfit_name_m1">
+		<text>Anzug "Wind der Freiheit" MK-1</text>
+	</string>
+	<string id="svoboda_outfit_description_m1">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 13 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 68 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +25%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +15%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +15%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +15%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +15%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +90%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +25%\n%c[default]\nDiese Modifikation schьtzt viel besser vor Strahlung als Basis-Modell.</text>
+	</string>
+
+	<string id="freedom_scientific_outfit_name">
+		<text>Forscheranzug der "Freiheit"</text>
+	</string>
+	<string id="freedom_scientific_outfit_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 17 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 55 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +25%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +25%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +20%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +20%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +40%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +35%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +45%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +50%\n%c[default]\nHergestellt fьr oder von der "Freiheit"-Fraktion, fьr die wissenschaftliche Arbeiten in der Zone. Geschlossenes Atemkreislauf, eingebautes System fьr die Einдmpfung von anomalen Einwirkungen. Hoher Strahlungsschutz. Fьr die aktiven Kampfhandlungen aber nicht sehr geeignet.</text>
+	</string>
+
+	<string id="svoboda_exoskeleton_name">
+		<text>Exoskelett der "Freiheit"-Fraktion</text>
+	</string>
+	<string id="svoboda_exoskeleton_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 21 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 115 Einheiten\n%c[255,1,255,255]Traglast:%c[255,1,255,1] bis +25 kg\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +45%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +40%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +40%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +30%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Elektroschock:%c[255,255,1,1] -5%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +35%\n%c[default]\nDieses Exoskelett ist ein Produkt der Experimente von Waffenmeistern und Bastlern der "Freiheit".Schьtzt gut gegen Kugeln und Splittergeschosse. Vergleichbar mit "Wдchter"-Exoskelett. "Freiheit" arbeitet weiter an der Modifizierung dieses Exoskeletts.</text>
+	</string>
+	<string id="svoboda_exo_offline_descr">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 21 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 115 Einheiten\n%c[255,1,255,255]Traglast:%c[255,1,255,1] bis +25 kg\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +45%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +40%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +40%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +30%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Elektroschock:%c[255,255,1,1] -5%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +35%\n%c[default]\nOhne eine Energiequelle sind Exoskelette, die in der Zone im Umlauf sind, nur eine steife Hьlle. Erst bei Verwendung einer starken Batterie kann man sich damit in Bewegung setzen.</text>
+	</string>
+
+	<string id="outfit_gravisak_name">
+		<text>Unikaler Anti-Schwerkraft-Anzug</text>
+	</string>
+	<string id="outfit_gravisak_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 20 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 130 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,255,1,1] -20%\n%c[255,1,255,255]Explosion:%c[255,255,1,1] -50%\n%c[255,1,255,255]Verbrennung:%c[255,255,1,1] -10%\n%c[255,1,255,255]Verдtzung:%c[255,255,1,1] -20%\n%c[255,1,255,255]Elektroschock:%c[255,255,1,1] -10%\n%c[255,1,255,255]Traglast:%c[255,1,255,1] +170 kg\n%c[default]\nKampfanzug, der mit Hilfe des Antigravitation-Artefaktes "Levitator" modifiziert wurde. Erlaubt es einem viel mehr Lasten zu tragen. Ist sehr schwer und verstдrkt, bedingt durch die Modifikation, beim Tragen die Schдden.</text>
+	</string>
+
+	<string id="bandit_veteran_outfit_m1_name">
+		<text>Brauner Ledermantel</text>
+	</string>
+	<string id="bandit_veteran_outfit_m1_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 11 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 65 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +10%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +10%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +10%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +10%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +10%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +10%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +5%\n%c[default]\nSchьtzt ein wenig besser gegen Wunden und Feuer, als eine einfache Jacke. Bekleidung der Veteranen unter den Banditen. Ungenьgender Schutz, aber echtes Leder.</text>
+	</string>
+
+	<string id="neytral_exo_gaz_outfit_m1_name">
+		<text>Exoskelett-Prototyp</text>
+	</string>
+	<string id="neytral_exo_gaz_outfit_m1_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 20 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 110 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +30%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +30%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +25%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +60%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +20%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Elektroschock:%c[255,255,1,1] -5%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +15%\n%c[255,1,255,255]Traglast:%c[255,1,255,1] bis +5 kg\n%c[default]\nEiner der ersten Exoskelett-Prototypen. Ging nie in die Serie, wegen Design-Fehler und technischer Probleme.</text>
+	</string>
+	<string id="neytral_gaz_exo_offline_descr">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 20 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 110 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +30%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +30%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +25%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +60%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +20%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Elektroschock:%c[255,255,1,1] -5%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +15%\n%c[255,1,255,255]Traglast:%c[255,1,255,1] bis +5 kg\n%c[default]\nOhne eine Energiequelle sind Exoskelette, die in der Zone im Umlauf sind, nur eine steife Hьlle. Erst bei Verwendung einer starken Batterie kann man sich damit in Bewegung setzen.</text>
+	</string>
+
+	<string id="svoboda_yellow_exo_outfit_m1_name">
+		<text>Exoskelett der "Freiheit"-Fraktion M-1</text>
+	</string>
+	<string id="svoboda_yellow_exo_outfit_m1_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 22 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 130 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +45%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +40%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +40%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +30%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Elektroschock:%c[255,255,1,1] -5%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +35%\n%c[255,1,255,255]Traglast:%c[255,1,255,1] bis +15 kg\n%c[default]\nExoskelett schьtzt hervorragend gegen einfache Kugeln und Splittergeschosse. Ist aber gegen panzerbrechende Geschosse empfindlich.</text>
+	</string>
+	<string id="yellow_exo_offline_descr">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 22 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 130 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +45%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +40%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +40%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +30%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Elektroschock:%c[255,255,1,1] -5%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +35%\n%c[255,1,255,255]Traglast:%c[255,1,255,1] bis +15 kg\n%c[default]\nOhne eine Energiequelle sind Exoskelette, die in der Zone im Umlauf sind, nur eine steife Hьlle. Erst bei Verwendung einer starken Batterie kann man sich damit in Bewegung setzen.</text>
+	</string>
+
+	<string id="neytral_exo_antigas_outfit_name">
+		<text>Exoskelett Mk.1</text>
+	</string>
+	<string id="neytral_exo_antigas_outfit_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 19 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 100 Einheiten\n%c[255,1,255,255]Traglast:%c[255,1,255,1] bis +5 kg\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +30%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +30%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +25%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +25%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +20%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Elektroschock:%c[255,255,1,1] -5%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +15%\n%c[default]\nEiner der ersten Exoskelett-Prototypen. Extra fьr die Zone adaptiert, hat aber noch die Gasmaske aus der Zeiten der Sowjetunion. Traglast ist minimal, die Schutzeigenschaften sind nicht sehr hoch.</text>
+	</string>
+	<string id="neytral_antigas_exo_offline_descr">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 19 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 100 Einheiten\n%c[255,1,255,255]Traglast:%c[255,1,255,1] bis +5 kg\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +30%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +30%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +25%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +25%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +20%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Elektroschock:%c[255,255,1,1] -5%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +15%\n%c[default]\nOhne eine Energiequelle sind Exoskelette, die in der Zone im Umlauf sind, nur eine steife Hьlle. Erst bei Verwendung einer starken Batterie kann man sich damit in Bewegung setzen.</text>
+	</string>
+
+	<string id="mp_exo_outfit_description">
+		<text>Exoskelett schьtzt hervorragend gegen einfache Kugeln und Splittergeschosse. Ist aber gegen panzerbrechende Geschosse empfindlich.</text>
+	</string>
+	<string id="mp_exo_outfit_name">
+		<text>Exoskelett PNB-4UZ</text>
+	</string>
+
+	<string id="mp_military_outfit_description">
+		<text>[255,1,255,255]Traglast:%c[255,1,255,1] +5 kg\n%c%c[255,1,255,255]Aufprall:%c[255,1,255,1] +60%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +60%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +50%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +50%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +40%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +50%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +50%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +30%\n%c[default]\nDer kugelsichere Kampfanzug wurde fьr Sturmangriffe entworfen. Er bietet hervorragenden Schutz gegen Kugeln und Splittergeschosse, ohne die Beweglichkeit des Soldaten herabzusetzen. Empfindlich gegen panzerbrechende Geschosse.</text>
+	</string>
+	<string id="mp_military_outfit_name">
+		<text>Kugelsicherer Spezial-Kampfanzug.</text>
+	</string>
+
+	<string id="monolit_black_outfit_name">
+		<text>Anzug der "Monolith"-Elitekдmpfer</text>
+	</string>
+	<string id="monolit_black_outfit_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 15 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 85 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +25%\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +20%\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +20%\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +20%\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +25%\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +20%\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +30%\n%c[255,1,255,255]Gesundheit:%c[255,1,255,1] +600\n%c[255,1,255,255]Blutung:%c[255,1,255,1] -20%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +20%\n%c[default]\nDiesen Anzug tragen nur die hдrtesten Kдmpfer der "Monolith"-Gruppe. Der Hesteller ist unbekannt. Auch wenn die Schutzeigenschaften niedriger sind als bei einer Militдr-Schutzweste, so hat dieser Anzug eine Eigenschaft unbekannten Ursprungs - die Wunden des Trдgers verheilen schneller und die Blutungen stoppen fast von selbst. Schutz gegen anomalen Einwirkungen lдsst zu wьnschen ьbrig, da keine Gasmaske oder дhnliches vorhanden.</text>
+	</string>
+
+	<string id="nebo_light_outfit_name">
+		<text>Anzug "Klarer Himmel"</text>
+	</string>
+	<string id="nebo_light_outfit_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 13 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 70 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +30\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +30\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +20\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +10\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +20\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +40\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +30\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +40\n%c[255,1,255,255]PSI-Schutz:%c[255,1,255,1] +10\n%c[default]\nVon den Meistern der "Clear Sky"-Gruppe hergestellter leichter Stalker-Anzug. MдЯiger Schutz gegen Feuerwaffen. Das Gewebe des Anzugs ist mit einer Spezial-Lцsung durchtrдnkt, welche den Schutz gegen anomale Einwirkungen erhцht. Die "Clear Sky"-Anzьge werden kaum an andere Stalker oder Fraktionen verkauft und sind deshalb in der Zone sehr selten.</text>
+	</string>
+
+	<string id="nebo_heavy_outfit_name">
+		<text>Anzug "Wдchter des Himmels"</text>
+	</string>
+	<string id="nebo_heavy_outfit_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 15 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 80 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +40\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +40\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +40\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +20\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +30\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +40\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +40\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +60\n%c[255,1,255,255]PSI-Schutz:%c[255,1,255,1] +20\n%c[default]\nVon den Meistern der "Clear Sky"-Gruppe hergestellter verstдrkter Stalker-Anzug. Die Grundlage ist eine militдrische Standart-Schutzweste. Das Material des Anzugs ist zweilagig - speziell behandeltes Leder und asbestverstдrktes Gewebe. Hat gute Schutzeigenschaften gegen Strahlung und Anomalien. Die "Clear Sky"-Anzьge werden kaum an andere Stalker oder Fraktionen verkauft und sind deshalb in der Zone sehr selten.</text>
+	</string>
+
+	<string id="nebo_exo_name">
+		<text>Exoskelett der "Clear Sky"-Gruppe</text>
+	</string>
+	<string id="nebo_exo_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 19 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 130 Einheiten\n%c[255,1,255,255]Traglast:%c[255,1,255,1] bis +30 kg\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +60\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +60\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +60\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +40\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +40\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +50\n%c[255,1,255,255]Elektroschock:%c[255,255,1,1] -5%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +80\n%c[255,1,255,255]PSI-Schutz:%c[255,1,255,1] +40\n%c[default]\n"Clear Cky"-Exoskelett bietet hervorragenden Schutz gegen anomale Einwirkungen und Strahlung. Gegen panzerbrechende Munition ist er aber, wie andere Exoskelette auch, sehr empfindlich.</text>
+		</string>
+		<string id="nebo_exo_offline_descr">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 19 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 130 Einheiten\n%c[255,1,255,255]Traglast:%c[255,1,255,1] bis +30 kg\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +60\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +60\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +60\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +40\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +40\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +50\n%c[255,1,255,255]Elektroschock:%c[255,255,1,1] -5%\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +80\n%c[255,1,255,255]PSI-Schutz:%c[255,1,255,1] +40\n%c[default]\nOhne eine Energiequelle sind Exoskelette, die in der Zone im Umlauf sind, nur eine steife Hьlle. Erst bei Verwendung einer starken Batterie kann man sich damit in Bewegung setzen.</text>
+	</string>
+
+	<string id="nebo_scientific_outfit_name">
+		<text>Forscheranzug der "Clear Sky"-Gruppe</text>
+	</string>
+	<string id="nebo_scientific_outfit_description">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 17 Einheiten\n%c[255,1,255,255]Rucksack:%c[255,1,255,1] 60 Einheiten\n%c[255,1,255,255]Aufprall:%c[255,1,255,1] +50\n%c[255,1,255,255]ReiЯwunden:%c[255,1,255,1] +40\n%c[255,1,255,255]Explosion:%c[255,1,255,1] +30\n%c[255,1,255,255]Kugelsicherheit:%c[255,1,255,1] +30\n%c[255,1,255,255]Verbrennung:%c[255,1,255,1] +50\n%c[255,1,255,255]Verдtzung:%c[255,1,255,1] +50\n%c[255,1,255,255]Elektroschock:%c[255,1,255,1] +60\n%c[255,1,255,255]Strahlung:%c[255,1,255,1] +90\n%c[255,1,255,255]PSI-Schutz:%c[255,1,255,1] +50\n%c[default]\nFьr die wissenschaftliche Arbeiten bestimmter Anzug der "Clear Sky"-Gruppe. Geschlossenes Atemkreislauf, eingebautes wirkungsvolles System fьr die Einдmpfung von anomalen Einwirkungen. Sehr hoher Strahlungs- und PSI-Schutz.</text>
+	</string>
+
+</string_table>

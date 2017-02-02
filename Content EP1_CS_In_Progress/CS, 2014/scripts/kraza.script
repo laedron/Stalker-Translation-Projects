@@ -1,0 +1,42 @@
+--Автор babuin
+--Для ЧН Адаптировал Shoker
+--Для солянки адаптировал Меченый
+
+
+function kraza(npc)
+	if npc ~= nil then
+		local money = npc:money()
+		if money ~= nil and money ~=0 then
+				local deadmoney = money
+
+                        give_money(kraza_option.grub_type,money,deadmoney,npc)     
+
+			end
+		end
+	end
+
+function give_money(type,money,deadmoney,npc)
+
+if type == "rank" then
+
+local npc_rank
+
+npc_rank = ranks.get_obj_rank_name(npc)
+if npc_rank ~= nil then
+if npc_rank == "novice" and deadmoney >=300 then deadmoney=math.random(25,400)    
+elseif npc_rank == "experienced" and deadmoney >=400 then deadmoney=math.random(50,500)  
+elseif npc_rank == "veteran" and deadmoney >=500 then deadmoney=math.random(100,600) 
+elseif npc_rank == "master" and deadmoney >=600 then deadmoney=math.random(200,700)  
+end
+end
+
+db.actor:give_money(deadmoney)
+game_stats.money_quest_update(deadmoney) 
+npc:give_money(-money)
+game_stats.money_quest_update(-money)
+news_manager.send_tip(db.actor, deadmoney.." ".."Rubels eingesackt")
+end
+
+end
+
+

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="ansi" ?>
+<!--SCAR mod version Fr 18/10/2012-->
+<string_table>
+	<string id="mil_freedom_commander_7000">
+		<text>Merci Le Balafré! Je pense que nous les avons eu…. Damnés bâtards ! Ces Monolithes sont de véritables morpions, mais y’a pire encore. Dernièrement, des Mutants ont essayé de passer venant de la zone du Radar, s’ils avaient réussi, on ne serait pas là tous les deux à causer météo. Ils bougent tellement vite, que personne n’arrive à les avoir. Nous avions un lance-flammes, une super-arme contre ces bestioles, mais il ne marche plus. Peut être que Screw, notre réparateur alcoolique, pourrai le remettre en état. Mais en attendant, je ne sais pas combien d'entre nous sortirons vivant ce cet enfer?! Comme t’as pu t’en rendre compte, on n'a pas une seconde de répit! Bon, voici un peu de fric pour ton coup de main. Ca te vas?</text>
+	</string>
+	<string id="mil_freedom_commander_7001">
+		<text>Sur, du liquide ça me va.</text>
+	</string>
+	<string id="mil_freedom_commander_7002">
+		<text>T'as d'autres choses intéressantes?</text>
+	</string>
+	<string id="mil_freedom_commander_7003">
+		<text>Comme tu peux le voir, on n'est pas très riche. Mais écoute... je te donne quand même 1000 RU et ce lance- flammes hors d’usage... c'est très rare dans la Zone, et comme je te l’ai déjà dit, personne dans mon équipe n'as réussi à le refaire marcher. T’as l'air réglo, donc va voir Screw, je suis sur  qu'il saura comment le remettre en état. Crois-moi, c'est plus efficace que tout l’argent de la Zone pour combattre les mutants… quand ça marche! </text>
+	</string>
+	<string id="mil_freedom_commander_7004">
+		<text>Ça va comme ça. J’veux pas m'encombrer de ce tas de ferraille. </text>
+	</string>
+	<string id="mil_freedom_commander_7005">
+		<text>T'as tord, ce lance-flammes c'est de l'or en barre. </text>
+	</string>
+	<string id="mil_screw_flamethrower_1000">
+		<text>Eh Screw ! Viens par-là, regarde ce truc. Un lance-flammes hors d'usage. C'est tes potes qui ont fait ça, arrête de vociférer... je leurs ai donné un petit coup main, et on m'a refourgué ce machin comme remerciement. Leur chef m’a dit que tu pourrais faire quelque chose pour le rendre opérationnel. Qu'est ce que t'en pense? Tu peux? </text>
+	</string>
+	<string id="mil_screw_flamethrower_1001">
+		<text>Les enfoirés... le temps que j'aie passé sur cette merveille de lance-flammes! Les cons... j'arrive pas à croire qu'ils l'ont cassé! Le tuyau de combustion est tordu, quel merde! Ils l'ont balancé dans toutes les anomalies de la Zone? Ou Dieu à bénie une Chimère en rut! Mon ami... un sacré boulot nous attend là. J'avais déjà passé de longues nuits blanches pour fabriquer ce bijou, Mais bon, tu nous as aidés alors je vais t'aider en retour. Mais je ne le ferai certainement pas pour tes charmes et ta belle gueule. Je vais faire une liste de ce qui doit être remplacé. Pour la plupart je les ai déjà, sinon, j'en chaparderai autour de la base. Pense bien à ce qui t'attend, tu es vraiment prêt à écumer toute la Zone pour cette merveille?</text>
+	</string>
+	<string id="mil_screw_flamethrower_1002">
+		<text>Oh que Non! Pas pour ce tas de merde crevé! Je te le laisse pour la modique somme de 2500 RU, d’accord? </text>
+	</string>
+	<string id="mil_screw_flamethrower_1003">
+		<text>A ton avis, je suis là pourquoi? Dit moi de ce que tu as besoin. </text>
+	</string>
+	<string id="mil_screw_flamethrower_1004">
+		<text>Comme tu veux ! Je t'en débarrasse. </text>
+	</string>
+	<string id="mil_screw_flamethrower_1005">
+		<text>Allons-y… Voilà ce dont j’ai besoin: \n\n Avant toute chose, un artefact dénommé "Bolide". Le lance flamme nécessite plus de trous qu'un fromage suisse! Je pourrai le faire moi-même mais ça me prendrai des semaines! Mais avec un "Bolide" pas besoin d'attendre, crois-moi sur parole, c'est un des secrets de cette boule, étonnant ! Non? ... \n
+Secondo, on aura besoin d'un nouveau tube de combustion (celui que j'ai n'est bon que pour réparer la cuvette des chiottes, pas pour un lance-flammes!). Pour le tube, va voir Sidorovich... un ferrailleur assoiffé lui en aurait refourgué des tonnes...  venant de..... la Décharge! Et tu lui passeras le bonjour de ma part.\n
+Troisièmement, on aura besoin d'un manomètre, sinon la flamme se sera toi. Bon Dieu, on dirait qu'ils ont découpé le boîtier avec un ouvre boite!  Abrutis, connards... D'accord, trouves en un autre où tu peux. J'avais trouvé celui-là à Agroprom... Il y un centre de recherche là-bas, peut être que t'en trouvera un.\n
+Ensuite, on a besoin d'un brûleur, la pièce principal. Le brûleur d'origine était en Titane, Je me demande... Qui a pu le mettre dans cet état, un Nain? !.. Tu ne trouveras pas de brûleur parmi mes hommes... nul part, personne ne t'en donnera un! Y'a pas mieux pour griller les saucisses. Bien sur, tu peux essayer d’en torpiller un dans un dortoir, en cachette, mais à tes risques et périls. J'ai mieux comme solution, va voir le Barman de Rad100, C'est un gars qui ne jette rien, un vrai écureuil, il doit sûrement avoir quelque chose qui ressemble à ce qu'on cherche. Donc tu achète un brûleur, mais ne dit pas que c'est pour moi, sinon le Devoir va soupçonner que je fabrique une nouvelle arme et ils feront tout pour m’avoir! Et comme j’veux pas être emmerdé… \n Et enfin, l'élément le plus important de ce toillettage, de la Vodka... "Spiritus Vini", si tu veux, elle a touts sortes de vertus... Comme fabriquer des pièces proprement, et de nettoyer la tête occasionnellement. T'en aura? Ramène-moi un peu de Vodka, tu veux bien? Tu vois, j'aurai besoin d'une grosse motivation pour faire ce travail, quelque chose qui puisse me focaliser sur la tâche... Je dirai, cinq bouteilles seront un bon début... Peut être sept... Au Diable, ramène-m’en dix. Comme je te l'ai déjà dit, il y a beaucoup de travail à faire.\n C'est tout. Je pense que tu t'en sortiras avec honneur, t'es un Stalker, pas vrai? Ensuite, t'auras un lance-flammes rien qu'a toi... je crois en toi... Et ce qui seraient merveilleux c'est que la première chose que tu me ramènes c'est la vodka. </text>
+	</string>
+	<string id="mil_screw_flamethrower_1006">
+		<text>Rien que ça! J'espère que ça en vaudra la peine. </text>
+	</string>
+	<string id="mil_screw_flamethrower_1007">
+		<text>Crois-moi, ça en vaut. Je ne te demanderai que 5000 RU pour la réparation. Pas cher, car je t'aime bien. </text>
+	</string>
+	<string id="mil_screw_flamethrower_1008">
+		<text>Attend, tu ne m'as pas encore dit combien ça m’coutera!</text>
+	</string>
+	<string id="mil_screw_flamethrower_1009">
+		<text>Eh, soit raisonnable. Je pourrai vendre ce lance-flammes pour un million si je voulais. Mais je suis de parole, le Balafré. A ton avis... qui d'autre que moi peu faire ce genre de réparation? Allez, ne soit pas pingre! </text>
+	</string>
+	<string id="mil_screw_flamethrower_1010">
+		<text>Mouai... D’accord, j'y vais. J'espère que la vodka ne te tuera pas avant mon retour. </text>
+	</string>
+	<string id="escape_trader_flamethrower_dialog_0">
+		<text>Eh Sidorovich, j'ai des nouvelles de ton copain Screw. Il voudrait savoir si tu souviens de lui. </text>
+	</string>
+	<string id="escape_trader_flamethrower_dialog_1000">
+		<text>Screw ? Screw... Ma mémoire n'est plus aussi bonne qu'avant, Le Balafré... Mais oui, je me souviens d'un stalker qui se dénommais Screw. C’était un sacré assoiffoire de vodka. Il était capable d'assécher mon stock de vodka, si je le laissais faire. Je pensais que l'alcool l'avait tué. Mais dans ces bons jours, il m'avait vendu des choses très rares, de plus il avait des doigts de fée, un virtuose de la mécanique. Il savait tout réparer, de la télé, à la machine à laver, en passant par les armes et les détecteurs... Donc comme ça il est encore vivant? </text>
+	</string>
+	<string id="escape_trader_flamethrower_dialog_1001">
+		<text>Oui, pour le moment. C'est lui qui m'envoie, il m'a dit que tu auras sûrement ce que je cherche... j'aurai besoin de tube en inox de qualité nucléaire, pas beaucoup juste un morceau. Ce n'est pas vraiment pour moi, mais Screw me donne un coup de main pour réparer quelque chose... T'as quelques choses qui ressembleraient à ce que j'ai besoin? </text>
+	</string>
+	<string id="escape_trader_flamethrower_dialog_1002">
+		<text>Quoi? Mais pourquoi avez vous besoin de tube aussi spécial? Je ne garde que l'utile ou qui se vend! </text>
+	</string>
+	<string id="escape_trader_flamethrower_dialog_1003">
+		<text>Combien ça me couterai pour en avoir assez rapidement? </text>
+	</string>
+	<string id="escape_trader_flamethrower_dialog_1004">
+		<text>Le Balafré... est-ce que les radiations t'on rendus sourd? Je t'ai dit que je n'avais pas de tubes de cette qualité! Je peux juste te donner un indice... Tu ma redonner le sourire, en me disant que Screw était en vie. Va voir un certain Alexey Tambovsky qui se trouve quelque part à la décharge. Il a dû écumer tous les dépotoirs de déchets nucléaires de la Zone, à la recherche de pièce pour un hypothétique détecteur de mouvement biologique. Je vais te donner ses coordonnées. </text>
+	</string>
+	<string id="escape_trader_flamethrower_dialog_1005">
+		<text>Merci, vous allez vraiment me donner des conseils gratuitement? Incroyable!</text>
+	</string>
+	<string id="escape_trader_flamethrower_dialog_1006">
+		<text>Qu'est ce que tu disais? il semble que j'ai des problèmes pas qu'avec ma mémoire... </text>
+	</string>
+	<string id="escape_trader_flamethrower_dialog_1007">
+		<text>Je disais, Merci beaucoup! Merci pour l'info. Et restez comme ça, Sidorovich. </text>
+	</string>
+	<string id="escape_trader_flamethrower_dialog_1008">
+		<text>Ouais, ma santé n'est plus aussi bonne qu'avant. </text>
+	</string>
+	<string id="gar_flamethrower_0">
+		<text>Salut, qu'est ce que tu veux? </text>
+	</string>
+	<string id="gar_flamethrower_1000">
+		<text>Sidorovich m'a dit que t'aurais des trucs comme des tubes qualité nucléaire. </text>
+	</string>
+	<string id="gar_flamethrower_1001">
+		<text>... qualité nucléaire, rien que ça? Hmm... J'en ai vu au sommet d'une colline de déchets très radioactifs. A cause du rayonnement, et sans tenue de protection adéquate, je n'ai pu ramasser que ce qui avait de la valeur, avant d'être irradié. Mais j'ai gardé les coordonnées de l'endroit, au cas ou. Si t'est vraiment intéressé, je te les donnerai pour pas grand chose. Ecoute... donne-moi juste une dose d'anti-rad et je te dis précisément où ça se trouve, Okay? </text>
+	</string>
+	<string id="gar_flamethrower_1002">
+		<text>Très bien, mais je n'ai pas d'Antirad sur moi. Tu es tout seul. Je chercherai ce tube moi-même. </text>
+	</string>
+	<string id="gar_flamethrower_1003">
+		<text>D'accord, t'aurai dû être plus prudent. Tiens. </text>
+	</string>
+	<string id="gar_flamethrower_1004">
+		<text>Passe-moi ton PDA. Bien, regarde c'est là ce que tu veux, je l'ai marqué. Je suis sur que les tubes sont là, personne n'aurait pu les voler. Va là-bas. </text>
+	</string>
+	<string id="gar_flamethrower_1005">
+		<text>Merci beaucoup. Bonne chance pour ton nouveau détecteur. </text>
+	</string>
+	<string id="barmen_flamethrower_task_0">
+		<text>Salut. Ecoute, tu pourrais me vendre un bon brûleur tubulaire? </text>
+	</string>
+	<string id="barmen_flamethrower_task_1000">
+		<text>Un brûleur? ... tubulaire? Question intéressante. Tu m'embarrasse là, et pourquoi faire exactement? </text>
+	</string>
+	<string id="barmen_flamethrower_task_1001">
+		<text>J'ai prévu de me faire des grillades au clair de Lune! </text>
+	</string>
+	<string id="barmen_flamethrower_task_1002">
+		<text>Tu me prends pour un con? Ok, ok, en fin de compte ça ne me regarde pas, c'est tes oignons. J'en ai bien un, en très bon état de fonctionnement. Je te le laisse pour 250 RU. </text>
+	</string>
+	<string id="barmen_flamethrower_task_1003">
+		<text>250 pour ça? Oublie. J'en trouverai un autre moi-même. </text>
+	</string>
+	<string id="barmen_flamethrower_task_1004">
+		<text>C'est correct, tiens l'argent. </text>
+	</string>
+	<string id="parts_completed_0">
+		<text>Tu as toutes les pièces? Et surtout la vodka. </text>
+	</string>
+	<string id="parts_completed_1000">
+		<text>J'ai tout, et aussi ta maudite vodka. Alors commence à bosser! J'attends ce lance-flammes avec autant d'impatience que toi ta vodka! </text>
+	</string>
+	<string id="parts_completed_1001">
+		<text>T'inquiète bonhomme! Je m'y met de suite. Laisse-moi un jour et t'aura ton joujou. </text>
+	</string>
+	<string id="parts_completed_1002">
+		<text>Top là. J'attendrai. </text>
+	</string>
+	<string id="parts_completed_10111">
+		<text>Et bien, Elles en sont où ces réparations? Tu as presque fini? </text>
+	</string>
+	<string id="parts_completed_1003">
+		<text>Whoa, Leleuu Balalalafrééé... Heh-heh, c'ment va mon po..pote !? qu'est ce tu'm veux? ...Ah ouai! Le lance .........flemme... tu croyai..rk que j'vais fin..hik ? heurkkk...., dézolé, j'crois qu'j'ai trÔp picollé c'te nuit, j'ai perrrdu la nono..tion du temps...</text>
+	</string>
+	<string id="parts_completed_1004">
+		<text>Tu te fout de moi? Tu disais qu'un petit coup t'aiderait à te focaliser sur la tache. C'est toi la tache!!! T’as intérêt de décuiter rapidement, sinon c'est autre chose que je vais focaliser!! Je repasserai une fois que tu auras déssoulé. </text>
+	</string>
+	<string id="parts_completed_1013">
+		<text>Et bien, tu es sobre? Où en est mon lance-flammes? </text>
+	</string>
+	<string id="parts_completed_1005">
+		<text>C'est bon, j'ai décuvé, désolé... Voici ton lance-flammes! </text>
+	</string>
+	<string id="parts_completed_1006">
+		<text>je ne rêve pas! ? J'aurai jamais cru que tu le réparerais. Il a de la gueule, laisse moi le toucher. </text>
+	</string>
+	<string id="parts_completed_1007">
+		<text>Pas touche, je ne suis pas bourré aujourd'hui. On avait un marché... 10000 RU pour la réparation, tu t'en souviens? </text>
+	</string>
+	<string id="parts_completed_1008">
+		<text>Quoi!? Une partie de ton cerveau est partie dans tes vomis ou quoi? C'est 5000 RU. Ou bien, si tu préfères, je raconte au Devoir les menus de ta cuisine que tu fais ici. </text>
+	</string>
+	<string id="parts_completed_1009">
+		<text>Bon ça va, calme-toi, c'est 5000 RU... Prends ton lance-flammes. Maintenant tu va rendre la vie de certain plus légère. Ah! J’oubliai de préciser, y'a autre chose... le réservoir est suffisant pour une autonomie d'environ une minute de torchère. Quand il sera vide... Reviens me voir et je te rechargerai en carburant, pas gratuitement bien sur. C’est pas aussi simple qu'on le crois, tu dois te souvenir de ça. J'aurai besoin d'un jerrycan d'essence et d'une bonbonne de gaz colloïde, pour une recharge complète du lance-flammes. Je pourrai te fournir ces deux ingrédients, mais ça risque de te coûter un paquet de fric. </text>
+	</string>
+	<string id="parts_completed_1010">
+		<text>...gaz homoroïde? Et ça se trouve où? </text>
+	</string>
+	<string id="parts_completed_1011">
+		<text>Gaz colloïde, Que j'ai dit! Les Intellos en avaient ramenés avec eux dans la Zone pour faire des expériences. C'est parfait pour stabiliser et enflammer l'essence. T'en trouvera surtout à Agroprom, mais parfois on en trouve ailleurs. Le mieux c'est d'en avoir d'avance avant d'en avoir besoin. N'oublie pas un jerrycan d'essence et une bonbonne de ce damné gaz Colloïde. </text>
+	</string>
+	<string id="parts_completed_1012">
+		<text>Super, je l'ai. Merci. Fait toi plaisir avec le restant de vodka. </text>
+	</string>
+	<string id="mil_screw_flamethrower_text">
+		<text>Voyons la liste que Screw m'a donnée: \n\n
+1. Artefact "Bolide". \n
+2. Tube de qualité nucléaire. Voir Sidorovich, peut être qu'il en a.\n
+3. Manomètre. Fouiller dans le Centre de Recherche d'Agroprom.\n
+4. Brûleur (tubulaire. Demander au barman de Rad100.\n
+5. Dix bouteilles de vodka pour cet alcoolique de Screw.\n\n
+Ca va être une très longue journée... </text>
+	</string>
+	<string id="trubka_descr">
+		<text>Tube en acier de qualité nucléaire. Un peu tordu, mais semble convenir pour le lance-flammes. </text>
+	</string>
+	<string id="gorelka_descr">
+		<text>Brûleur tubulaire. D'après ce que disent les stalkers, les saucisses sont excellentes lorsqu'elles sont grillées avec ça. C'est nécessaire pour catalyser le mélange à haute température de l'essence et du gaz dans le lance-flammes. </text>
+	</string>
+	<string id="manometr_descr">
+		<text>Instrument de mesure de pression. Robustesse soviétique du temps de la guerre froide. Le verre est dépoli, mais il semble être en bon état de fonctionnement. Il devrait marcher correctement sur le lance-flammes. </text>
+	</string>
+	<string id="flama_descr">
+		<text>Pitoyable objet. Qui sait la puissance que pourrai avoir cette chose, si elle était en bon état de fonctionnement. Mais peut-être qu'un bon spécialiste sera en mesure de le réparer. Où trouver un tel spécialiste? </text>
+	</string>
+	<string id="flame_descr">
+		<text>Arme artisanale, fabriqué par Screw, basé sur le model militaire du lance-flammes. C'est une arme dévastatrice dans les combats rapprochés. La meilleure utilisation c'est contre les hordes de monstres mutants. Avec une recharge pleine, on a environ une minute de flamme. </text>
+	</string>
+	<string id="flame_no_parts_0">
+		<text>Zut, j'ai dû oublier quelque chose. Je reviendrai. </text>
+	</string>
+	<string id="item_flamethrower_bad_name">
+		<text>Lance flamme hors d'usage</text>
+	</string>
+	<string id="manometr">
+		<text>Manomètre</text>
+	</string>
+	<string id="trubka">
+		<text>Tube</text>
+	</string>
+	<string id="gorelka">
+		<text>Brûleur</text>
+	</string>
+	<string id="flamethrower_basic">
+		<text>Lance-flammes – arme artisanale, mais fabriqué avec le plus grand soin. Il peut être recharger par Screw, le dépanneur de la base de la faction "Liberté". Cette une pièce unique, et les ingrédients pour recharger l'arme sont rares aussi. Une recharge est constituée d'essence (le plus courant, c'est en jerrycan) et d'un gaz spécial le "Gaz Colloïde" (stocké dans une bonbonne. D'après son concepteur, on trouvera ce gaz au Centre de Recherche d'Agroprom, mais il en existerait ailleurs. Screw peu fournir ces deux ingrédients, mais très cher. De plus il a toujours besoin de bouteilles de vodka pour sa consommation personnel. </text>
+	</string>
+<!--//-->
+	<string id="alexey_tambovsky">
+		<text>Alexey Tambovsky</text>
+	</string>
+
+	</string_table>

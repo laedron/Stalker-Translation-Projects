@@ -1,0 +1,23 @@
+<!-- Update am 22.06.2008 -->
+
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="pri_followers_start_dlg_21">
+		<text>Wir gehen die StraЯe entlang. Wenn etwas passiert, dann gib mir Deckung.</text>
+	</string>
+	<string id="pri_followers_start_dlg_211">
+		<text>In Ordnung.</text>
+	</string>
+	<string id="pri_followers_start_dlg_31">
+		<text>Danke fьr die Hilfe, "Gezeichneter". Das war ein schwerer Kampf. Wir werden hier rasten.\n \nFalls du weitergehen willst, erzдhle ich dir mehr ьber diese Gegend. Wenn du umkehrst und nach rechts abbiegst, erreichst du den Busbahnhof. Aber da ist ein offenes und nicht sicheres Gelдnde.\n \nWenn du weitergehst, kommst du zum Hotel. Rechts davon befindet sich die "Monolith"-Basis. Diese Typen kennen keine Grenzen. Hinter der Basis befindet sich das Stadion. Unser Plan ist es, durch dieses Stadion zum AKW durchzudringen. Das ist alles.</text>
+	</string>
+	<string id="pri_followers_start_dlg_311">
+		<text>Danke.</text>
+	</string>
+	<string id="pri_followers_start_dlg_41">
+		<text>Danke fьr die Hilfe. Viel Glьck.</text>
+	</string>
+	<string id="pri_followers_start_dlg_411">
+		<text>Bis dann.</text>
+	</string>
+</string_table>

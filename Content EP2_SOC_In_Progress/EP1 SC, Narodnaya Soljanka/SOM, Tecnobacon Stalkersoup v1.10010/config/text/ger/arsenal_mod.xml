@@ -1,0 +1,563 @@
+<!-- Ьbersetzt durch Wlad Geschwendt aka 777-W.L.A.D. -->
+<!-- Letztes Update und Ergдnzungen am 25.04.2014 -->
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ars-ak47">
+		<text>AK-47</text>
+	</string>
+	<string id="ars-ak47_camo1">
+		<text>AK-47 "Camouflage"</text>
+	</string>
+	<string id="ars-ak47_m1">
+		<text>AK-47 "Mini-Dragunov"</text>
+	</string>
+	<string id="ars-aks47">
+		<text>AKS-47</text>
+	</string>
+	<string id="ars-ak74">
+		<text>AK-74</text>
+	</string>
+	<string id="ars-aks74">
+		<text>AKS-74</text>
+	</string>
+	<string id="ars-aks74_m1">
+		<text>AKS-74 "Cobra"</text>
+	</string>
+	<string id="ars-aks74_m1_camo1">
+		<text>AKS-74 "Cobra-Camouflage"</text>
+	</string>
+	<string id="ars-ak74m">
+		<text>AK-74M</text>
+	</string>
+	<string id="ars-ak101">
+		<text>AK-101</text>
+	</string>
+	<string id="ars-ak102">
+		<text>AK-102</text>
+	</string>
+	<string id="ars-ak103">
+		<text>AK-103</text>
+	</string>
+	<string id="ars-ak104">
+		<text>AK-104</text>
+	</string>
+	<string id="ars-ak105">
+		<text>AK-105</text>
+	</string>
+	<string id="ars-ak107">
+		<text>AK-107</text>
+	</string>
+	<string id="ars-ak108">
+		<text>AK-108</text>
+	</string>
+	<string id="ars-akm">
+		<text>AKM</text>
+	</string>
+	<string id="ars-akms">
+		<text>AKMS</text>
+	</string>
+	<string id="ars-aks74u">
+		<text>AKS-74U</text>
+	</string>
+	<string id="ars-aks74u_m1_camo1">
+		<text>AKS-74U "Sturm"</text>
+	</string>
+	<string id="ars-an94">
+		<text>AN-94 "Abakan"</text>
+	</string>
+	<string id="ars-ak5">
+		<text>Bofors AK5</text>
+	</string>
+	<string id="ars-aug_a1">
+		<text>Steyr AUG A1</text>
+	</string>
+	<string id="ars-aug_a2">
+		<text>Steyr AUG A2</text>
+	</string>
+	<string id="ars-famas_f1">
+		<text>FA MAS F1</text>
+	</string>
+	<string id="ars-famas_g2">
+		<text>FA MAS G2</text>
+	</string>
+	<string id="ars-famas_p3">
+		<text>FA MAS Prototype 3</text>
+	</string>
+	<string id="ars-fnc">
+		<text>FN FNC</text>
+	</string>
+	<string id="ars-g36">
+		<text>HK G36</text>
+	</string>
+	<string id="ars-g36c">
+		<text>HK G36-C</text>
+	</string>
+	<string id="ars-g36e">
+		<text>HK G36-E</text>
+	</string>
+	<string id="ars-g36k">
+		<text>HK G36K "Kurz"</text>
+	</string>
+	<string id="ars-galil_ar">
+		<text>IMI Galil AR</text>
+	</string>
+	<string id="ars-galil_arm">
+		<text>IMI Galil ARM</text>
+	</string>
+	<string id="ars-galil_mar">
+		<text>IMI Galil MAR</text>
+	</string>
+	<string id="ars-hk416">
+		<text>HK 416</text>
+	</string>
+	<string id="ars-lr300ml">
+		<text>Z-M LR300 ML</text>
+	</string>
+	<string id="ars-m4a1">
+		<text>Colt M4A1</text>
+	</string>
+	<string id="ars-m16a1">
+		<text>Colt M16A1</text>
+	</string>
+	<string id="ars-m16a2">
+		<text>Colt M16A2</text>
+	</string>
+	<string id="ars-m16a3">
+		<text>Colt M16A3</text>
+	</string>
+	<string id="ars-m16a4">
+		<text>Colt M16A4</text>
+	</string>
+	<string id="ars-vz58">
+		<text>CZ SA Vz.58</text>
+	</string>
+	<string id="ars-rk95">
+		<text>Valmet Rk.95</text>
+	</string>
+	<string id="ars-rk95_camo1">
+		<text>Valmet Rk.95 "Camouflage"</text>
+	</string>
+	<string id="ars-sg550">
+		<text>SIG SG550</text>
+	</string>
+	<string id="ars-sg551">
+		<text>SIG SG551</text>
+	</string>
+	<string id="ars-sg552">
+		<text>SIG SG552 "Commando"</text>
+	</string>
+	<string id="ars-xm8">
+		<text>HK XM8</text>
+	</string>
+	<string id="ars-xm177e2">
+		<text>Colt XM177E2</text>
+	</string>
+	<string id="ars-mg36">
+		<text>HK MG36</text>
+	</string>
+	<string id="ars-rpk74">
+		<text>RPK-74</text>
+	</string>
+	<string id="ars-xm8_para">
+		<text>HK XM8 Para</text>
+	</string>
+	<string id="ars-aps">
+		<text>APS</text>
+	</string>
+	<string id="ars-beretta92">
+		<text>Beretta 92</text>
+	</string>
+	<string id="ars-cz52">
+		<text>CZ.52</text>
+	</string>
+	<string id="ars-deagle">
+		<text>Desert Eagle .50AE</text>
+	</string>
+	<string id="ars-fort12">
+		<text>Fort-12</text>
+	</string>
+	<string id="ars-glock18c_sk1">
+		<text>Glock 18C</text>
+	</string>
+	<string id="ars-glock18c_sk2">
+		<text>Glock 18C "Expert"</text>
+	</string>
+	<string id="ars-gsh18">
+		<text>GSch-18</text>
+	</string>
+	<string id="ars-m1911a1">
+		<text>Colt Government M1911A1</text>
+	</string>
+	<string id="ars-m1935hp_mk3">
+		<text>FN Browning M1935 High-Power Mk.III</text>
+	</string>
+	<string id="ars-mp444-9x18">
+		<text>MP-444 "Baghira" 9x18</text>
+	</string>
+	<string id="ars-mp444-9x19">
+		<text>MP-444 "Baghira" 9x19</text>
+	</string>
+	<string id="ars-oc33">
+		<text>OC-33 "Pernatsch"</text>
+	</string>
+	<string id="ars-p38">
+		<text>Walther P38</text>
+	</string>
+	<string id="ars-p99">
+		<text>Walther P99</text>
+	</string>
+	<string id="ars-p220">
+		<text>SIG-SAUER P220</text>
+	</string>
+	<string id="ars-pb">
+		<text>PB</text>
+	</string>
+	<string id="ars-pm">
+		<text>PM</text>
+	</string>
+	<string id="ars-tt33">
+		<text>TT-33</text>
+	</string>
+	<string id="ars-usp45c">
+		<text>HK USP-45 Compact</text>
+	</string>
+	<string id="ars-sayga12k">
+		<text>Sajga 12K</text>
+	</string>
+	<string id="ars-ppd40">
+		<text>PPD-40</text>
+	</string>
+	<string id="ars-ppsh41">
+		<text>PPSch-41 Maschinenpistole</text>
+	</string>
+	<string id="ars-sr25_mk11_mod0">
+		<text>Knights SR25 Mk.11 Mod.0</text>
+	</string>
+	<string id="ars-hk417">
+		<text>HK 417 Sniper</text>
+	</string>
+	<string id="ars-galatz">
+		<text>IMI Galatz</text>
+	</string>
+	<string id="ars-svd">
+		<text>Dragunov SVD Grundmodel</text>
+	</string>
+	<string id="ars-acog">
+		<text>Zielfernrohr ACOG</text>
+	</string>
+	<string id="ars-aug_a1_scope">
+		<text>Zielfernrohr-Linse AUG-77 Optics</text>
+	</string>
+	<string id="ars-g36_scope">
+		<text>Zielfernrohr-Linse G36 Optics</text>
+	</string>
+	<string id="ars-scope1">
+		<text>Zielfernrohr M16</text>
+	</string>
+	<string id="ars-sil_9_p">
+		<text>Schalldдmpfer M9-P</text>
+	</string>
+	<string id="ars-sil_762_p">
+		<text>Schalldдmpfer M7.62-P</text>
+	</string>
+	<string id="ars-sil_9_pb">
+		<text>Schalldдmpfer 6P9</text>
+	</string>
+	<string id="ars-sil_545_ar">
+		<text>Schalldдmpfer M5.45-A</text>
+	</string>
+	<string id="ars-sil_556_ar">
+		<text>Schalldдmpfer M5.56-A</text>
+	</string>
+	<string id="ars-sil_762_ar">
+		<text>Schalldдmpfer M7.62-A</text>
+	</string>
+	<string id="ars-sil_762_pms">
+		<text>Schalldдmpfer M7.62-PMS</text>
+	</string>
+	<string id="ars-sil_1143_p">
+		<text>Schalldдmpfer M11.43-P</text>
+	</string>
+	<string id="ars-50_ae">
+		<text>.50 AE Munition</text>
+	</string>
+	<string id="ars-7.62x25_p">
+		<text>7.62x25 mm P-Munition</text>
+	</string>
+	<string id="ars-7.62x25_ps">
+		<text>7.62x25 mm PS-Munition</text>
+	</string>
+	<string id="ars-7.62x39_fmj">
+		<text>7.62x39 mm FMJ</text>
+	</string>
+	<string id="ars-7.62x39_ap">
+		<text>7.62x39 mm AP</text>
+	</string>
+	<string id="ars-7.62x51_fmj">
+		<text>7.62x51 mm NATO Munition</text>
+	</string>
+	<string id="ars-7.62x51_ap">
+		<text>7.62x51 mm NATO AP-Munition</text>
+	</string>
+	<string id="enc_arsenal_ak47">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 18.5 Einheiten%c[default].\n \n"Kalaschnikow"-Sturmgewehr, Modell des Jahres 1947 fьr die Munition 7,62x39 mm. Einfache und zuverlдssige Waffe, bedingt durch die preiswerte Produktion nicht ganz so prдzise und bequem wie AK-74.\n \nMunition:\nStandart 7,62x39 mm\nPanzerbrechend 7,62x39 mm AP</text>
+	</string>
+	<string id="enc_arsenal_ak47_camo1">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 18.5 Einheiten%c[default].\n \nAK-47, in Tarnfarben gehalten.\n \nMunition:\nStandart 7,62x39 mm\nPanzerbrechend 7,62x39 mm AP</text>
+	</string>
+	<string id="enc_arsenal_ak47_m1">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 18.5 Einheiten%c[default].\n \nRumдnisches Sturmgewehr, auf der Basis der AK-47.\n \nMunition:\nStandart 7,62x39 mm\nPanzerbrechend 7,62x39 mm AP</text>
+	</string>
+	<string id="enc_arsenal_aks47">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 18 Einheiten%c[default].\n \n"Kalaschnikow"-Sturmgewehr, Modell des Jahres 1947 fьr die Munition 7,62x39 mm. Einfache und zuverlдssige Waffe, bedingt durch die preiswerte Produktion nicht ganz so prдzise und bequem wie AK-74. In der Zone ist es eine seltene Waffe, da sie nicht mehr in der Armee verwendet wird.\n \nMunition:\nStandart 7,62x39 mm\nPanzerbrechend 7,62x39 mm AP</text>
+	</string>
+	<string id="enc_arsenal_ak74">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 16.5 Einheiten%c[default].\n \n"Kalaschnikow"-Sturmgewehr, Modell von 1974. Es handelt sich um eine einfache und zuverlдssige Waffe, doch die billige Herstellung geht zu Lasten von Ergonomie und Genauigkeit. In der Zone ist es die Hauptwaffe der Armeestalker und vieler Einzelkдmpfer.\n \nMunition:\nStandart 5.45x39 mm\nPanzerbrechend 5.45x39 mm AP</text>
+	</string>
+	<string id="enc_arsenal_aks74">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 16.5 Einheiten%c[default].\n \nSturmgewehr mit abklappbarem Kolben, Modell von 1974. Es handelt sich um eine einfache und zuverlдssige Waffe, doch die billige Herstellung geht zu Lasten von Ergonomie und Genauigkeit. In der Zone ist es die Hauptwaffe der Armeestalker und vieler Einzelkдmpfer.\n \nMunition:\nStandart 5.45x39mm\nPanzerbrechend 5.45x39mm AP</text>
+	</string>
+	<string id="enc_arsenal_aks74_m1">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 17 Einheiten%c[default].\n \nAKS-74 mit Collimator-Zielvorrichtung "Cobra EKP-8-02"\n \nMunition:\nStandart 5.45x39mm\nPanzerbrechend 5.45x39mm AP</text>
+	</string>
+	<string id="enc_arsenal_aks74_m1_camo1">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 17 Einheiten%c[default].\n \nAKS-74 mit Collimator-Zielvorrichtung "Cobra EKP-8-02" und in Tarnfarben gehalten.\n \nMunition:\nStandart 5.45x39mm\nPanzerbrechend 5.45x39mm AP</text>
+	</string>
+	<string id="enc_arsenal_ak74m">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 16.5 Einheiten%c[default].\n \nSpдtere AK-74 Variante, eingefьhrt Anfang der 90er Jahre des 20. Jahrhunderts. Das Gewehr besitzt eine aus Plastik gefertigte abklappbare Schulterstutze, sowie Montagemoglichkeiten auf der linken Systemseite fur diverse Zieloptiken. Eine gute Waffe fьr Nachtausflьge in die Zone, da komplett schwarz gehalten.\n \nMunition:\nStandart 5.45x39mm\nPanzerbrechend 5.45x39mm AP</text>
+	</string>
+	<string id="enc_arsenal_ak101">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 16.5 Einheiten%c[default].\n \nDieses Sturmgehwehr wurde, wie auch die ganze "100er"-Serie, in erster Linie fьr den Export produziert. Es ist eine Modifikation des AK-74M fьr die NATO-Munition 5.56x45.\n \nMunition:\nStandart 5.56x45mm SS109\nPanzerbrechend 5.56x45mm AP</text>
+	</string>
+	<string id="enc_arsenal_ak102">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 16 Einheiten%c[default].\n \n"Gekьrztes" AK-101. Leicht, bequem, zuverlдssig - eine gute Wahl.\n \nMunition:\nStandart 5.56x45mm SS109\nPanzerbrechend 5.56x45mm AP</text>
+	</string>
+	<string id="enc_arsenal_ak103">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 16.5 Einheiten%c[default].\n \nDieses Sturmgehwehr wurde, wie auch die ganze "100er"-Serie, in erster Linie fьr den Export produziert. Es ist eine Modifikation des AK-74M fьr die russische Patrone mit Kaliber 7.62x39.\n \nMunition:\nStandart 7,62x39 mm\nPanzerbrechend 7,62x39 mm AP</text>
+	</string>
+	<string id="enc_arsenal_ak104">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 15.5 Einheiten%c[default].\n \n"Gekьrztes" AK-103. Leicht, bequem, zuverlдssig - eine gute Wahl.\n \nMunition:\nStandart 7,62x39 mm\nPanzerbrechend 7,62x39 mm AP</text>
+	</string>
+	<string id="enc_arsenal_ak105">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 16 Einheiten%c[default].\n \n"Gekьrztes" AK-74M. Leicht, bequem, zuverlдssig - eine gute Wahl.\n \nMunition:\nStandart 5.45x39mm\nPanzerbrechend 5.45x39mm AP</text>
+	</string>
+	<string id="enc_arsenal_ak107">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 16.5 Einheiten%c[default].\n \nAK-107 hat eine so genannte "synchronisierte Automatik". Dabei handelt es sich um ein System mit zwei Gaskolben statt wie gewohnlich mit einem. Dadurch wird der RuckstoЯ stark verringert. Hohe SchuЯfolge und Genauigkeit, niedriege Streuung. Fьr den russischen Kaliber 5.45x39 mm.\n \nMunition:\nStandart 5.45x39mm\nPanzerbrechend 5.45x39mm AP</text>
+	</string>
+	<string id="enc_arsenal_ak108">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 16.5 Einheiten%c[default].\n \nAK-108 ist eine Export-Variante des AK-107. Hat eine so genannte "synchronisierte Automatik". Dabei handelt es sich um ein System mit zwei Gaskolben statt wie gewohnlich mit einem. Dadurch wird der RuckstoЯ stark verringert. Hohe SchuЯfolge und Genauigkeit, niedriege Streuung. VerschieЯt NATO-Kaliber 5.56x45 mm.\n \nMunition:\nStandart 5.56x45mm SS109\nPanzerbrechend 5.56x45mm AP</text>
+	</string>
+	<string id="enc_arsenal_akm">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 16.5 Einheiten%c[default].\n \nAKM ist die 1959 modernesierte Variante des AK-47. Leichter, robuster und genauer, als AK-47. In der Zone, wegen der Zuverlдssigkeit und einfacher Bedienung, von Anfдngern und Veteranen gleichermaЯen geschдtzt.\n \nMunition:\nStandart 7,62x39 mm\nPanzerbrechend 7,62x39 mm AP</text>
+	</string>
+	<string id="enc_arsenal_akms">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 17 Einheiten%c[default].\n \nAKMS ist die modernesierte Variante des AK-47 mit einer klappbarer Schulterstьtze. In der Zone, wegen der Zuverlдssigkeit und einfacher Bedienung, von Anfдngern und Veteranen gleichermaЯen geschдtzt.\n \nMunition:\nStandart 7,62x39 mm\nPanzerbrechend 7,62x39 mm AP</text>
+	</string>
+	<string id="enc_arsenal_aks74u">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 13.5 Einheiten%c[default].\n \nGrцЯe und Gewicht des AKS-74U sind mit einer Maschinenpistole vergleichbar, doch durch seine Mechanik sowie die zu verwendende Munition ist es bei den Sturmgewehren einzuordnen. Seine Vorteile sind seine geringe GrцЯe, die bei Kдmpfen in Gebдuden oder dichten Wдldern nьtzlich ist, und seine relativ starke Panzerbrechung. Von Nachteil sind hauptsдchlich die begrenzte Genauigkeit und schnelle Ьberhitzung der Waffe, wenn FeuerstцЯe abgefeuert werden.\n \nMunition:\nStandart 5.45x39 mm\nPanzerbrechend 5.45x39 mm AP</text>
+	</string>
+	<string id="enc_arsenal_aks74u_m1_camo1">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 14 Einheiten%c[default].\n \nModifikation des AKS-74U. Ausgestattet mit Collimator-Zielvorrichtung "Cobra EKR-8-02" und in Tarnfarben gehalten. Der lдngerer Lauf erlaubt es, ein Granatwerfer GP-25 "Kostjer" zu montieren.\n \nMunition:\nStandart 5.45x39mm\nPanzerbrechend 5.45x39mm AP</text>
+	</string>
+	<string id="enc_arsenal_an94">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 14.5 Einheiten%c[default].\n \nDie Waffe von Eliteeinheiten der russischen Armee. Sie wurde entwickelt, um das AK-74 abzulцsen. Sowohl der interne Mechanismus als auch Lauf und Laufhьlse des Obokans sind beweglich, um den RьckstoЯ zu vermindern und die Prдzision zu erhцhen.\n \nMunition:\nStandart 5.45x39 mm\nPanzerbrechend 5.45x39 mm AP</text>
+	</string>
+	<string id="enc_arsenal_ak5">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 17.5 Einheiten%c[default].\n \nAK5 ist ein schwedischer Maschinenkarabiner. Als Basis beim Bau diente das belgische FN FNC.\n \nMunition:\nStandart 5.56x45mm SS109\nPanzerbrechend 5.56x45mm AP</text>
+	</string>
+	<string id="enc_arsenal_aug_a1">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 17.5 Einheiten%c[default].\n \nEin цsterreichisches Sturmgewehr. Eine Bullpup-Konstruktion mit festem optischen Visier mit 1,5facher VergrцЯerung.\n \nMunition:\nStandart 5.56x45mm SS109\nPanzerbrechend 5.56x45mm AP</text>
+	</string>
+	<string id="enc_arsenal_aug_a2">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 17 Einheiten%c[default].\n \nEin цsterreichisches Sturmgewehr. Eine Bullpup-Konstruktion mit Picatinny-Schiene fьr Zielfernrohre.\n \nMunition:\nStandart 5.56x45mm SS109\nPanzerbrechend 5.56x45mm AP</text>
+	</string>
+	<string id="enc_arsenal_famas_f1">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 17.5 Einheiten%c[default].\n \nFA MAS ist das Standardsturmgewehr verschiedener franzцsischer Streitkrafte. Das Gewehr ist eine Bullpup-Konstruktion, das Magazin ist also hinter dem Griffstuck und dem Abzug gelagert. F1 ist das erste Gewehr in der FA MAS-Serie.\n \nMunition:\nStandart 5.56x45mm SS109\nPanzerbrechend 5.56x45mm AP</text>
+	</string>
+	<string id="enc_arsenal_famas_g2">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 17.5 Einheiten%c[default].\n \nModifikation des FA MAS F1 mit Standart-M16-Magazin fьr 30 Patronen. Hohe SchuЯfolge und Bullpup-Konstruktion machten die Waffe einigermaЯen populдr.\n \nMunition:\nStandart 5.56x45mm SS109\nPanzerbrechend 5.56x45mm AP</text>
+	</string>
+	<string id="enc_arsenal_famas_p3">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 17 Einheiten%c[default].\n \nPrototyp eines neuen Sturmgewehrs aus der FA MAS Serie. Sehr seltene Waffe in der Zone.\n \nMunition:\nStandart 5.56x45mm SS109\nPanzerbrechend 5.56x45mm AP</text>
+	</string>
+	<string id="enc_arsenal_fnc">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 18 Einheiten%c[default].\n \nBelgisches Sturmgewehr, welches in den 80er Jahren des 20. Jahrhunderts an verschiedene Polizeikrдfte der Welt, auch in USA, geliefert wurde. Obwohl diese Waffe sich durchaus mit vergleichbaren Gewehren messen kann, hat sie keine groЯe Verbreitung erreicht, da zum Zeitpunkt des Erscheinen auf dem Markt der Bedarf durch viele andere Gewehre schon gedeckt war.\n \nMunition:\nStandart 5.56x45mm SS109\nPanzerbrechend 5.56x45mm AP</text>
+	</string>
+	<string id="enc_arsenal_g36">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 17.5 Einheiten%c[default].\n \nEin deutsches Sturmgewehr, ein Paradebeispiel moderner Bewaffnung: leicht, zuverlдssig und ergonomisch.\n \nMunition:\nStandart 5.56x45mm SS109\nPanzerbrechend 5.56x45mm AP</text>
+	</string>
+	<string id="enc_arsenal_g36c">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 13.5 Einheiten%c[default].\n \nModifikation des deutschen Sturmgewehrs G36, mit universeller Picatinny-Schiene. Der Lauf ist, im Vergleich zu G36K, um nochmal 9 cm kьrzer.\n \nMunition:\nStandart 5.56x45mm SS109\nPanzerbrechend 5.56x45mm AP</text>
+	</string>
+	<string id="enc_arsenal_g36e">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 17 Einheiten%c[default].\n \nExport-Variante des deutschen Sturmgewehrs G36, ohne fester Collimator-Zielvorrichtung.\n \nMunition:\nStandart 5.56x45mm SS109\nPanzerbrechend 5.56x45mm AP</text>
+	</string>
+	<string id="enc_arsenal_g36k">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 16.5 Einheiten%c[default].\n \nModifikation des deutschen Sturmgewehrs G36, mit universeller Picatinny-Schiene und kьrzerem Lauf.\n \nMunition:\nStandart 5.56x45mm SS109\nPanzerbrechend 5.56x45mm AP</text>
+	</string>
+	<string id="enc_arsenal_galil_ar">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 18 Einheiten%c[default].\n \nEin Sturmgewehr der israelischen Armee. Basiert maЯgeblich auf der Konstruktion der sowjetischen AK-47, verschieЯt jedoch die NATO-Standardmunition des Kalibers 5,56 mm. Eine zuverlдЯige und pflegeleichte Waffe.\n \nMunition:\nStandart 5.56x45mm SS109\nPanzerbrechend 5.56x45mm AP</text>
+	</string>
+	<string id="enc_arsenal_galil_arm">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 18.5 Einheiten%c[default].\n \nEin Sturmgewehr der israelischen Armee. Basiert maЯgeblich auf der Konstruktion der sowjetischen AK-47. ARM ist eine Variante als leichtes MG. Eine zuverlдЯige und pflegeleichte Waffe.\n \nMunition:\nStandart 5.56x45mm SS109\nPanzerbrechend 5.56x45mm AP</text>
+	</string>
+	<string id="enc_arsenal_galil_mar">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 14 Einheiten%c[default].\n \nVerkьrzte Variante des israelischen Sturmgewehrs IMI Galil AR.\n \nMunition:\nStandart 5.56x45mm SS109\nPanzerbrechend 5.56x45mm AP</text>
+	</string>
+	<string id="enc_arsenal_hk416">
+		<text>HK416 ist ein vollautomatischer Schnellfeuerkarabiner des deutschen Waffenherstellers Heckler und Koch. Sieht zwar den Gewehren der AR15\M16\M4 Serie дhnlich, hat aber ein Gasdrucklader mit rotierendem Verschlusskopf, дhnlich dem des HK G36. Die ZuverlдЯigkeit und Ladehemmungen-Resistenz wurde dadurch entscheidend erhцht.</text>
+	</string>
+	<string id="enc_arsenal_lr300ml">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 16.5 Einheiten%c[default].\n \nEin leichtes Gewehr mit einer effektiven Reichweite von bis zu 300 Metern. Eine Weiterentwicklung der AR15\M16 Reihe. Durch den auЯergewцhnlich leichtgдngigen Abzug, die hohe Ergonomie sowie das geringe Gewicht ist die Waffe hцchst prдzise. Sie ist, allerdings, stark empfindlich bei Schmutz und unter schwierigen Einsatzbedingungen nicht immer geeignet.\n \nMunition:\nStandart 5.56x45mm SS109\nPanzerbrechend 5.56x45mm AP</text>
+	</string>
+	<string id="enc_arsenal_m4a1">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 15.5 Einheiten%c[default].\n \nDieser Karabiner wurde 1996 auf der Basis von M16A3 fьr die speziellen Einsatzkrдfte der US-Armee entwickelt. Im Vergleich zu M16A3 wurde der vollautomatischer Feuermodus wieder eingefьhrt.</text>
+	</string>
+	<string id="enc_arsenal_m16a1">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 16 Einheiten%c[default].\n \nGewehr M16 (auch unter ziviler Bezeichnung AR15 bekannt) war Anfang 70er Jahre des 20. Jahrhunderts als Hauptkonkurent von AK/AKM-Gewehren positioniert. M16 war komfortabler und bequemer in Benutzung, sowie genauer im Einzelfeuermodus. Andererseits brauchte M16 viel Pflege und qualitativ hohe Patronen. Aufgrund des geringeren RuckstoЯes beim Dauerfeuer verleitet M16 den Schьtzen zu sehr hohem Munitionsverbrauch und wird oft als "personliches Maschinengewehr" missbraucht.\n \nMunition:\nStandart 5.56x45mm SS109\nPanzerbrechend 5.56x45mm AP</text>
+	</string>
+	<string id="enc_arsenal_m16a2">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 17.5 Einheiten%c[default].\n \nEine weitere Modifikation des M16A1 Sturmgewehrs. Hat einen schwereren Lauf, hat einen Schussmodus der Dreier-Salve statt Dauerfeuer. Die Megazinkapazitдt wurde auf 30 Stьck erhцht.</text>
+	</string>
+	<string id="enc_arsenal_m16a3">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 17.5 Einheiten%c[default].\n \nEine weitere Modifikation des M16A1 Sturmgewehrs. Hat einen schwereren Lauf, hat einen Schussmodus der Dreier-Salve statt Dauerfeuer. Die Megazinkapazitдt wurde auf 30 Stьck erhцht.</text>
+	</string>
+	<string id="enc_arsenal_m16a4">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 17.5 Einheiten%c[default].\n \nEine weitere Modifikation des M16A1 Sturmgewehrs. Hat einen schwereren Lauf, hat einen Schussmodus der Dreier-Salve statt Dauerfeuer. Die Megazinkapazitдt wurde auf 30 Stьck erhцht.</text>
+	</string>
+	<string id="enc_arsenal_vz58">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 16 Einheiten%c[default].\n \nDiese Waffe hat zwar eine дuЯere Дhnlichkeit mit einem AK-Sturmgewehr, ist aber eine Eigenentwicklung der tschechischer Waffenschmiede. Im Vergleich mit AK hat sie eine hohere SchuЯfolge.\n \nMunition:\nStandart 7,62x39 mm\nPanzerbrechend 7,62x39 mm AP</text>
+	</string>
+	<string id="enc_arsenal_rk95">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 18.5 Einheiten%c[default].\n \nDiese Waffe ist eine Weiterentwicklung des finnischen Sturmgewehrs Valmet Rk.62, welches eine Lizenz-Kopie der AK-47 mit Ergonomie-Verдnderungen ist, und geschichtlich wie technisch eng mit IMI Galil verwandt war.\n \nMunition:\nStandart 7,62x39 mm\nPanzerbrechend 7,62x39 mm AP</text>
+	</string>
+	<string id="enc_arsenal_rk95_camo1">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 18.5 Einheiten%c[default].\n \nDiese Waffe ist eine Weiterentwicklung des finnischen Sturmgewehrs Valmet Rk.62, welches eine Lizenz-Kopie der AK-47 mit Ergonomie-Verдnderungen ist, und geschichtlich wie technisch eng mit IMI Galil verwandt war. Variante mit Tarnfarben.\n \nMunition:\nStandart 7,62x39 mm\nPanzerbrechend 7,62x39 mm AP</text>
+	</string>
+	<string id="enc_arsenal_sg550">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 18 Einheiten%c[default].\n \nEin relativ neues Sturmgewehr, Anfang der 80er Jahre des 20. Jarhunderts in der Schweiz entwickelt. Ihre Prдzision, der sanfte RьckstoЯ und die hohe Zuverlдssigkeit machen diese Waffe sehr beliebt.\n \nMunition:\nStandart 5.56x45mm SS109\nPanzerbrechend 5.56x45mm AP</text>
+	</string>
+	<string id="enc_arsenal_sg551">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 16.5 Einheiten%c[default].\n \nVerkьrzte Variante des Sturmgewehrs SIG SG550.\n \nMunition:\nStandart 5.56x45mm SS109\nPanzerbrechend 5.56x45mm AP</text>
+	</string>
+	<string id="enc_arsenal_sg552">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 16 Einheiten%c[default].\n \nKurz-Variante des Sturmgewehrs SIG SG550. Fьr Sondereinsatz-Krдfte und Hдuser-Kдmpfe.\n \nMunition:\nStandart 5.56x45mm SS109\nPanzerbrechend 5.56x45mm AP</text>
+	</string>
+	<string id="enc_arsenal_xm8">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 15 Einheiten%c[default].\n \nXM8 ist ein Sturmgewehr, das mal beinah das M16A2 in der amerikanischen Armee abgelцst hдtte. Eine sehr seltene Schusswaffe, mit guten Charakteristiken.\n \nMunition:\nStandart 5.56x45mm SS109\nPanzerbrechend 5.56x45mm AP</text>
+		</string>
+	<string id="enc_arsenal_xm177e2">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 16.5 Einheiten%c[default].\n \nXM177E2 ist ein Karabiner, entwickelt in der USA als Ablцsung fьr CAR-15.\n \nMunition:\nStandart 5.56x45mm SS109\nPanzerbrechend 5.56x45mm AP</text>
+	</string>
+	<string id="enc_arsenal_mg36">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 19 Einheiten%c[default].\n \nLeichtes Maschinengehwehr, entwickelt auf der Basis des G36. Wird mit Trommelmagazin fьr 100 Patronen bestьckt.\n \nMunition:\nStandart 5.56x45mm SS109\nPanzerbrechend 5.56x45mm AP</text>
+	</string>
+	<string id="enc_arsenal_rpk74">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 20.5 Einheiten%c[default].\n \nLeichtes Kalaschnikow-Maschinengewehr, auf der Basis des AK-74. Verwendet werden Trommelmagazine fьr 75 Patronen.\n \nMunition:\nStandart 5.45x39mm\nPanzerbrechend 5.45x39mm AP</text>
+	</string>
+	<string id="enc_arsenal_xm8_para">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 17 Einheiten%c[default].\n \nVariante der Sturmgewehrs XM8 mit Trommelmagazin und schwereren Lauf. Diese Modifikationen verwandeln diese Waffe zum vollwertigen Maschienengewehr.\n \nMunition:\nStandart 5.56x45mm SS109\nPanzerbrechend 5.56x45mm AP</text>
+	</string>
+	<string id="enc_arsenal_aps">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 4.5 Einheiten%c[default].\n \nStetschkin APS wurde in der Sowjetunion 1951 eingefьhrt, zusammen mit der Makarow Pistole (PM). Die APS sollte vor allem bei Besatzungen von gepanzerten Fahrzeugen und als persцnliche Waffe bei hцheren Offizieren Verwendung finden.\n \nMunition:\nStandart 9x18mm\nVerbessert 9x18mm P</text>
+	</string>
+	<string id="enc_arsenal_beretta92">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 4 Einheiten%c[default].\n \nNicht nur beim amerikanischen Militдr und Polizeiapparat, auch im Rest der Welt kommt diese Waffe zum Einsatz. Sie ist wegen ihrer starken Geschosse und den hohen Kapazitдten des Magazins ebenso beliebt bei Kriminellen.\n \nMunition:\nStandart 9x19mm Parabellum\nVerbessert 9x19mm PBP</text>
+	</string>
+	<string id="enc_arsenal_cz52">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 4 Einheiten%c[default].\n \nDiese Pistole wurde 1952 entwickelt und in der tschechoslowakischen Armee verwendet.\n \nMunition:\nStandart 7.62x25 mm P\nPanzerbrechend 7.62x25 mm PS</text>
+	</string>
+	<string id="enc_arsenal_deagle">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 6 Einheiten%c[default].\n \nDie richtige Waffe fьr richtige Helden. Sie ist schwer, groЯ und zerstцrerisch. Preis und GrцЯe machen sie in der Zone eher unbeliebt. Und schlieЯlich jagt man hier auch nicht tдglich Elefanten!</text>
+	</string>
+	<string id="enc_arsenal_fort12">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 3 Einheiten%c[default].\n \nEine Polizeipistole aus ukrainischer Fertigung, welche die PM ablцste. Im Vergleich zu anderen Pistolen wurden Prдzision, Ergonomie und die Kapazitдt des Magazins verbessert. Sie ist jedoch nicht so zuverlдssig.\n \nMunition:\nStandart 9x18mm\nVerbessert 9x18mm "P"</text>
+	</string>
+	<string id="enc_arsenal_glock18c_sk1">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 3.5 Einheiten%c[default].\n \nGlock 18 Pistole wurde durch die Firma Glock fьr die цsterreichische Armee entwickelt. Dabei kam eine bequeme umd zuverlдssige Waffe heraus, welche weltweit geschдtzt wird. Diese Variante ist eine Halb-Automatik mit 3-SchuЯ Folge.\n \nMunition:\nStandart 9x19mm Parabellum\nVerbessert 9x19mm PBP</text>
+	</string>
+	<string id="enc_arsenal_glock18c_sk2">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 5.5 Einheiten%c[default].\n \nGlock 18 Pistole wurde durch die Firma Glock fьr die цsterreichische Armee entwickelt. Dabei kam eine bequeme umd zuverlдssige Waffe heraus, welche weltweit geschдtzt wird. Diese Variante ist eine Voll-Automatik mit erweitertem Magazin fьr 31 Patronen.\n \nMunition:\nStandart 9x19mm Parabellum\nVerbessert 9x19mm PBP</text>
+	</string>
+	<string id="enc_arsenal_gsh18">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 3.5 Einheiten%c[default].\n \nPistole GSch-18 wurde Ende der 90er Jahre des 20. Jahrhunderts im Kostruktionsbьro von Grjasew und Schipunow entwickelt. 18 steht fьr die Magazinkapazitдt. Die Vorzьge von GSch-18 sind fьr seine Klasse sehr nidriges Gewicht, groЯes Magazin, niedrig liegender Lauf und niedrige Streuung.\n \nMunition:\nStandart 9x19mm Parabellum\nVerbessert 9x19mm PBP</text>
+	</string>
+	<string id="enc_arsenal_m1911a1">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 4 Einheiten%c[default].\n \nEine groЯartige Waffe, die sich in jedem Konflikt des 20. Jahrhunderts ehrenvoll prдsentiert und das neue Jahrhundert zuversichtlich begonnen hat. Die eher geringe Kapazitдt des Magazins wird durch die durchschlagskrдftigen Geschosse teilweise wettgemacht.\n \nMunition:\nStandart .45 ACP\nVerbessert .45 ACP Hydroschock</text>
+	</string>
+	<string id="enc_arsenal_m1935hp_mk3">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 4 Einheiten%c[default].\n \nModerne Modifikation der, schon seit 1935 produzierter, belgischen Pistole FN Browning HP (High Power 1935).\n \nMunition:\nStandart 9x19mm Parabellum\nVerbessert 9x19mm PBP</text>
+	</string>
+	<string id="enc_arsenal_mp444-9x18">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 3.5 Einheiten%c[default].\n \nPistole MP-444 "Baghira" wird fьr die Armee- und Polizeikrдfte produziert. Der Rahmen wird aus Kuststoff gegossen, in dem die wichtigsten Metallteile schon beim Guss eingebettet werden. Die MP-444 wird fьr mehrere Kaliber hergestellt. Diese hier ist die Variante fьr Patrone 9x18.\n \nMunition:\nStandart 9x18mm\nVerbessert 9x18mm "P"</text>
+	</string>
+	<string id="enc_arsenal_mp444-9x19">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 3.5 Einheiten%c[default].\n \nPistole MP-444 "Baghira" wird fьr die Armee- und Polizeikrдfte produziert. Der Rahmen wird aus Kuststoff gegossen, in dem die wichtigsten Metallteile schon beim Guss eingebettet werden. Die MP-444 wird fьr mehrere Kaliber hergestellt. Diese hier ist die Variante fьr Patrone 9x19.\n \nMunition:\nStandart 9x19mm Parabellum\nVerbessert 9x19mm PBP</text>
+	</string>
+	<string id="enc_arsenal_oc33">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 6.5 Einheiten%c[default].\n \nAutomatic-Pistole OC-33 "Pernatsch" wurde Mitte 90er Jahre des 20. Jahrhunderts von Stetschkin-Konstruktionsbьro entwickelt, als Ersatz fьr die veralterte und nicht mehr produzierte APS-"Stetschkin"-Pistole.\n \nMunition:\nStandart 9x18mm\nVerbessert 9x18mm "P"</text>
+	</string>
+	<string id="enc_arsenal_p38">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 3.5 Einheiten%c[default].\n \nDie Walther P38 war mal eine Standard-Dienstpistole der Wehrmacht. Sie wurde Mitte der 30er Jahre des 20. Jahrhunderts entwickelt, als Ersatz fur die in der Herstellung sehr aufwendigen und daher teuren Pistole 08. Im Jahre 1938 wurde die P38 bei der Wehrmacht eingefuhrt und bis 1945 in groЯer hergestellt. P38 ist ein RuckstoЯlader mit kurz zuruckgleitendem Lauf und Schwenkriegelverschluss.\n \nMunition:\nStandart 9x19mm Parabellum\nVerbessert 9x19mm PBP</text>
+	</string>
+	<string id="enc_arsenal_p99">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 2.5 Einheiten%c[default].\n \nP99 ist eine Pistole des deutschen Waffenherstellers Walther. Die Entwicklung der Pistole begann 1994. Im Jahr 1996 erreichte sie Marktreife. Das Ziel der Entwiklung war, eine Pistole fьr Polizeikrдfte und Selbstschutz zu bauen, welche kommerziell erfolgreicher seit sollte, als der Vorgдnger P88 (der zwar ausgezeichnete Charakteristiken hatte, aber sehr teuer war).</text>
+	</string>
+	<string id="enc_arsenal_p220">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 3 Einheiten%c[default].\n \nEin Modell, das 1975 entwickelt wurde und bis heute ьberall auf der Welt Popularitдt genieЯt. Das Magazin hat nur eine geringe Kapazitдt, doch der Mechanismus ist absolut zuverlдssig. Auch von Vorteil sind die durchschlagskrдftigen Geschosse.\n Munition:\n standardmдЯig .45 ACP,\n verbessert .45 ACP Hydroschock.</text>
+	</string>
+	<string id="enc_arsenal_pb">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 4 Einheiten%c[default].\n \nEine Pistole mit einem integrierten, abnehmbaren, Schalldдmpfer, die von den sowjetischen Spezialeinheiten benutzt wurde. Und auch wenn sie mittlerweile ьberholt ist, ist sie in begabten Hдnden immer noch sehr effektiv.\n \nMunition:\nStandart 9x18mm\nVerbessert 9x18mm "P"</text>
+	</string>
+	<string id="enc_arsenal_pm">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 2.5 Einheiten%c[default].\n \nDie am weitesten verbreitete Pistole in der Zone. Sie ist ein Vermдchtnis aus der Zeit der UDSSR. Sie ist recht zuverlдssig und billig, das Magazin hat eine geringe Kapazitдt und die Waffe eine geringe Durchschlagskraft und hohe Streuung. Sie ist die Hauptwaffe der Stalker-Neulinge.\n \nMunition:\nStandart 9x18mm\nVerbessert 9x18mm "P"</text>
+	</string>
+	<string id="enc_arsenal_tt33">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 4 Einheiten%c[default].\n \nPistole TT wurde von dem legendдren Waffenkonstrukteur Fedor Tokarev entwickelt und 1933 eingefьhrt. TT-33 war, fьr die damalige Zeit, eine moderne, starke und zuverlдssige Handfeurwaffe, welche einfach zu warten und reparieren war. Hauptnachteile der TT waren fehlende direkte Sicherung, schwache Stoppwirkung der leichten 7.62 Patrone und nicht sehr bequemer Griff.\n \nMunition:\nStandart 7.62x25 mm P\nPanzerbrechend 7.62x25 mm PS</text>
+	</string>
+	<string id="enc_arsenal_usp45c">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 3 Einheiten%c[default].\n \nUSP-45 Compact, produziert von Heckler und Koch. Sehr zuverlдssige Waffe mit guter Prдzision. Nachteilig sind die Abmessungen (sogar bei der Compact-Variante), ein hoch gelegener Schwerpunkt und der massiver Verschluss.</text>
+	</string>
+	<string id="enc_arsenal_sayga12k">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 17 Einheiten%c[default].\n \nAutomatik-Karabiner mit Glattlauf "Sajga 12K". Wird als Nahkampf-Sturmwaffe verwendet. Als zuverlдssige und prдzise Waffe beliebt und empfohlen. Die 12K-Variante hat Plastikkolben von dem Sturmgehwehr AK-74M.\n \nMunition:\n12x70 Schrot\n12x76 Kugel\n12x76 Spitzgeschoss</text>
+	</string>
+	<string id="enc_arsenal_ppd40">
+		<text>Die PPD-40 ist eine russische Maschinenpistole. Als Modell PPD-34 wurde sie 1935 zwar ins Arsenal aufgenommen, aber nur in geringen Stьckzahlen gefertigt. Die meisten Exemplare wurden zudem nicht bei der Roten Armee, sondern beim NKWD eingesetzt oder an den Grenzschutz abgegeben. 1940 ьberarbeitete Degtjarjow die PPD und ersetzte das alte Stangenmagazin durch ein Trommelmagazin. PPD ist zuschie?end und verfьgt uber eine konventionelle Masse/Feder-Verriegelung. Schon Ende 1941 wurde die Produktion zugunsten der PPSch-41 aufgegeben.</text>
+	</string>
+	<string id="enc_arsenal_ppsh41">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 17.5 Einheiten%c[default].\n \nDie Maschinenpistole PPSch-41 wurde 1941 als Ersatz fьr PPD-40 entwickelt. Es war eine eifache und in der Fertigung preiswerte Waffe der Kriegszeit. PPSch-41 wurde in riesigen Mengen produziert, insgesamt wurden wohl ca. 5 bis 6 Millionen Stьck gebaut. Die Vorteile der Waffe sind hohe Reichweite und einfache Konstruktion. Als Nachteile kцnnen die GrцЯe und hohes Gewicht, sehr hohes SchuЯtempo und die Neigung zu selbstausgelцsten Schьssen beim Fall der Waffe genannt werden.\n \nMunition:\nStandart 7.62x25 mm P\nPanzerbrechend 7.62x25 mm PS</text>
+	</string>
+	<string id="enc_arsenal_sr25_mk11_mod0">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 25 Einheiten%c[default].\n \nDas SR-25 ist ein selbstladendes Scharfschutzengewehr aus den USA, dass von der Knight's Armament Company (kurz KAC) hergestellt wird. Die Abkurzung steht fur "Stoner Rifle 25". Grundlage der Entwicklung waren die AR-10/AR-15 von Eugene Stoner, der auch die M16 entwickelt hat. Das Mk.11 Mod.0 wird, analog zu Dragunov SVD, fьr SchuЯweiten bis 800 Meter verwendet, ist aber genauer und taktisch flexibler.\n \nMunition:\nStandart 7.62x51 mm NATO\nPanzerbrechend 7.62x51 mm NATO AP</text>
+	</string>
+	<string id="enc_arsenal_hk417">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 20 Einheiten%c[default].\n \nSturmgewehr HK417 im Kaliber 7.62x51 mm ist die stдrkere Version des HK416. Diese Variante ist ein 20-Zoll "Sniper"-Modell. Ausgestattet mit 6-X Ziehlfernrohr.\n \nMunition:\nStandart 7.62x51 mm NATO\nPanzerbrechend 7.62x51 mm NATO AP</text>
+	</string>
+	<string id="enc_arsenal_galatz">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 24.5 Einheiten%c[default].\n \nIMI Galatz ist ein Scharfschutzengewehr der israelischen Armee und, eigentlich, eine Modifikaton des IMI Galil Sturmgewehrs fьr die 7.62 mm NATO-Munition. Taktisch gesehen wird IMI Galatz nicht als "reines" Sniper-Gewehr verwendet, sondern als "Unterstьtzungs-Waffe", wie zum Beispiel SVU oder G3-SG1.\n \nMunition:\nStandart 7.62x51 mm NATO\nPanzerbrechend 7.62x51 mm NATO AP</text>
+	</string>
+	<string id="enc_arsenal_svd">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 21.5 Einheiten%c[default].\n \nVon 1960 an wurde diese Waffe weitgehend fьr alle Operationen der Sowjet-Armeen eingesetzt. Sie erwies sich als auЯergewцhnlich zuverlдssige und praktische Waffe. In der Zone wird sie bevorzugt von erfahrenen Stalkern der Wдchterfraktion auf der Jagd nach Mutanten eingesetzt.\n \nMunition:\nStandart 7.62x54mm 7N13\nPanzerbrechend 7.62x54mm 7N14\nPrдzisionsgeschosse 7.62x54mm 7N1</text>
+	</string>
+	<string id="enc_arsenal_50_ae">
+		<text>%c[255,1,255,255]Volumen pro Pдckchen:%c[255,1,255,1] 1.0 Einheiten%c[default].\n \nGroЯkalibrige Pistolenpatrone fьr die Desert Eagle.</text>
+	</string>
+	<string id="enc_arsenal_7.62x25_p">
+		<text>%c[255,1,255,255]Volumen pro Pдckchen:%c[255,1,255,1] 1.5 Einheiten%c[default].\n \nSowjetische Pistolenpatrone, Kaliber 7.62 mm. Standardkern mit Vollmantel.</text>
+	</string>
+	<string id="enc_arsenal_7.62x25_ps">
+		<text>%c[255,1,255,255]Volumen pro Pдckchen:%c[255,1,255,1] 1.5 Einheiten%c[default].\n \nSowjetische Pistolenpatrone, Kaliber 7.62 mm. Stahlkern mit verbesserter Panzerbrechung.</text>
+	</string>
+	<string id="enc_arsenal_7.62x39_fmj">
+		<text>Sowjetische Patrone fьr automatische Waffen, Kaliber 7.62 mm. Standardkern mit Vollmantel.</text>
+	</string>
+	<string id="enc_arsenal_7.62x39_ap">
+		<text>Sowjetische Patrone fьr automatische Waffen, Kaliber 7.62 mm. Stahlkern mit verbesserter Panzerbrechung.</text>
+	</string>
+	<string id="enc_arsenal_7.62x51_fmj">
+		<text>%c[255,1,255,255]Volumen pro Pдckchen:%c[255,1,255,1] 1.5 Einheiten%c[default].\n \nNATO-Standartpatrone fьr automatische Waffen, Kaliber 7.62 mm. Standardkern mit Vollmantel.</text>
+	</string>
+	<string id="enc_arsenal_7.62x51_ap">
+		<text>%c[255,1,255,255]Volumen pro Pдckchen:%c[255,1,255,1] 1.5 Einheiten%c[default].\n \nNATO-Standartpatrone fьr automatische Waffen, Kaliber 7.62 mm. Stahlkern mit verbesserter Panzerbrechung.</text>
+	</string>
+</string_table>

@@ -1,0 +1,1196 @@
+<!-- Ьbersetzt und angepasst durch Wlad Geschwendt aka 777-W.L.A.D. am 21.07.2008 -->
+<!-- Letztes Update am 18.12.2015 -->
+		<string id="scaintist_docs_name">
+		<text>Dokumente</text>
+		</string>
+		<string id="scaintist_docs_desc">
+		<text>Den Notizen nach, haben die Wissenschaftler ein sehr ungewцhnliches Artefakt transportiert.</text>
+		</string>
+		<string id="pda_krysyka_name">
+		<text>PDA von "Ratte"</text>
+		</string>
+		<string id="pda_krysyka_desc">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten%c[default].\n \nRattich hat vieles herausgefunden und in seinem PDA notiert. "Borow" belohnt dafьr sehr gut.</text>
+		</string>
+		<string id="mil_borov_secret_name">
+		<text>Borows Versteck</text>
+		</string>
+		<string id="mil_borov_secret_descr">
+		<text>"Borow" sagte - hier kann man viel holen.</text>
+		</string>
+		<string id="vodka_rad">
+		<text>Selbstgebrannter Wodka</text>
+		</string>
+		<string id="vodka_rad_descr">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 2.0 Einheiten%c[default].\n \nEs war mal in der Zone ein "schlauer" Hдndler, er versuchte selbstgebranntes Zeug in Original-Flaschen abzufьllen und zu verkaufen. Jetzt gibt es ihn nicht mehr - solche Tricks werden hier nicht verziehen.</text>
+		</string>
+		<string id="food_bread_rad">
+		<text>Verstrahltes Brot</text>
+		</string>
+		<string id="enc_food_bread_rad">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten%c[default].\n \nDas war mal ganz normales Brot... Jetzt ist es nur ein Stьck radioaktiver ScheiЯe. Wenn man lebensmьde ist - kann man es aufessen.</text>
+		</string>
+		<string id="food_conserva_rad">
+		<text>Radioaktive Konserve</text>
+		</string>
+		<string id="enc_food_conserva_rad">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten%c[default].\n \nDie Umgebungsstrahlung wahr wohl mal so gross, das nun sogar das Rindfleisch in der Blechdose leuchtet. Essen kann man das nicht mehr.</text>
+		</string>
+		<string id="food_kartoschka_rad">
+		<text>Verstrahlte Kartoffel</text>
+		</string>
+		<string id="food_kartoschka_bad">
+		<text>Verfaulte Kartoffel</text>
+		</string>
+		<string id="enc_food_kartoschka_rad">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten%c[default].\n \nSo verstrahlt, wie diese Kartoffel ist, kann sie nur noch einem Zweck dienen - einen neuen Tentakelmutanten zu zьchten.</text>
+		</string>
+		<string id="enc_food_kartoschka_bad">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten%c[default].\n \nVerfaulte Kartoffel. Nicht mal Schweine wьrden diese noch essen. Kann man nur noch wegwerfen.</text>
+		</string>
+		<string id="food_kolbasa_rad">
+		<text>Verseuchte Wurst</text>
+		</string>
+		<string id="enc_food_kolbasa_rad">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten%c[default].\n \nEs war mal eine gute Wurst, jetzt ist es nur noch ein radioaktives Stьck Mist. Kann man nur noch wegwerfen.</text>
+		</string>
+		<string id="food_trockenfisch_rad">
+		<text>Radioaktiver Fisch</text>
+		</string>
+		<string id="food_trockenfisch_bad">
+		<text>Verfaulter Fisch</text>
+		</string>
+		<string id="enc_food_trockenfisch_rad">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten%c[default].\n \nDieser Fisch ist so radioaktiv, das man ihn bestimmt als Nachtleuchte verwenden kann. Aber essen - nein, Danke.</text>
+		</string>
+		<string id="enc_food_trockenfisch_bad">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten%c[default].\n \nVцllig mit Schimmelpilz und Fдulnis befallener Trockenfisch. Nicht mehr essbar.</text>
+		</string>
+		<string id="val_krysyk_secret_name">
+		<text>PDA-Versteck von "Ratte</text>
+		</string>
+		<string id="val_krysyk_secret_descr">
+		<text>Hier muЯ der PDA von Rattich sein.</text>
+		</string>
+		<string id="agr_krysyk_secret_name">
+		<text>Beute-Versteck von "Ratte"</text>
+		</string>
+		<string id="agr_krysyk_secret_descr">
+		<text>Rattich hat hier Beute versteckt.</text>
+		</string>
+		<string id="bandit_treasure_1_dialog_0">
+		<text>Hey, Ombre... Wollen wir quatschen?</text>
+		</string>
+		<string id="bandit_treasure_1_dialog_1">
+		<text>Yo, sicher... Pflanz dich neben mir... Was gibts?</text>
+		</string>
+		<string id="bandit_treasure_1_dialog_2">
+		<text>Nicht, nur so... Bisschen sitzen, Schuckchen nehmen...</text>
+		</string>
+		<string id="bandit_treasure_1_dialog_3">
+		<text>Na dann, giЯ ein...</text>
+		</string>
+		<string id="bandit_treasure_1_dialog_41">
+		<text>Prost!...</text>
+		</string>
+		<string id="bandit_treasure_1_dialog_42">
+		<text>Mann, ich hab aber grad nicht da...</text>
+		</string>
+		<string id="bandit_treasure_1_dialog_5">
+		<text>U-u-uch... Das ging durch, wie geschmiert...</text>
+		</string>
+		<string id="bandit_treasure_1_dialog_6">
+		<text>Hey, Ombre... erzдhl ma-a-al was intere... hick... interessantes...</text>
+		</string>
+		<string id="bandit_treasure_1_dialog_71">
+		<text>Das erzдhl ich aber nur dir... Klar? Hab bei einer Leiche 'n PDA gefunden, da war was ьber versteckte Beute drauf... Kein Bock dahin zu latschen, weiste... Aber du bist ja voll in Ordnung, dann kannst du das haben...</text>
+		</string>
+		<string id="bandit_treasure_1_dialog_73">
+		<text>Boh ey, Bruder... Was soll hier geben?... Voll дtzend hier...</text>
+		</string>
+		<string id="bandit_treasure_1_dialog_81">
+		<text>Wenn ich mal nichts zu tun hab - gucke ich mal...</text>
+		</string>
+		<string id="bandit_treasure_1_dialog_82">
+		<text>In Ordnung, Mann... Ruf an, wenn du was Feines findest...</text>
+		</string>
+		<string id="bandit_treasure_2_dialog_0">
+		<text>Wie geht's so? Bock auf Reden?</text>
+		</string>
+		<string id="bandit_treasure_2_dialog_1">
+		<text>Yo, immer, Man... Was geht ab?..</text>
+		</string>
+		<string id="bandit_treasure_2_dialog_2">
+		<text>Hab voll Hunger, du auch?...</text>
+		</string>
+		<string id="bandit_treasure_2_dialog_3">
+		<text>Hast du was zu kippen? Dann find ich schon Paar Wьrste... No Problem...</text>
+		</string>
+		<string id="bandit_treasure_2_dialog_41">
+		<text>Na dann, auf die Brьder...</text>
+		</string>
+		<string id="bandit_treasure_2_dialog_42">
+		<text>Neee, Alter, wenn ich was hдtte....</text>
+		</string>
+		<string id="bandit_treasure_2_dialog_5">
+		<text>Auf die Brьder, Mann! Voll konkret...</text>
+		</string>
+		<string id="bandit_treasure_2_dialog_6">
+		<text>Pfeif mir mal was interessantes, Man...</text>
+		</string>
+		<string id="bandit_treasure_2_dialog_71">
+		<text>Interessantes? Hab was gehцrt auf der Versammlung, da gibts wohl noch ein Versteck, das nicht durchsucht ist... Mir ist es voll zu weit - ich kann mir auch hier einen Dummen schnappen... Kannst ja selber gucken, wenn du Bock hast...</text>
+		</string>
+		<string id="bandit_treasure_2_dialog_73">
+		<text>Fang dir einen Vogel, der kann dir was pfeifen...</text>
+		</string>
+		<string id="bandit_treasure_2_dialog_81">
+		<text>Neee, keine Lust... Wenn's nicht so weit wдre, vielleicht...</text>
+		</string>
+		<string id="bandit_treasure_2_dialog_82">
+		<text>Ist ja gut, bleib ruhig, Mann...</text>
+		</string>
+		<string id="bandit_treasure_3_dialog_0">
+		<text>Ich grьЯe euch, Brьder! Was erzдhlt ihr hier so?</text>
+		</string>
+		<string id="bandit_treasure_3_dialog_1">
+		<text>Na Tag auch. Borow sagte zwar, das wir dich in Ruhe lassen sollen, aber nicht frech werden...</text>
+		</string>
+		<string id="bandit_treasure_3_dialog_2">
+		<text>ScheiЯ langweilig ist es, ohne Wodka... Und im Bau ist jetzt grade Essenszeit, Nudeln mit SoЯe!..</text>
+		</string>
+		<string id="bandit_treasure_3_dialog_3">
+		<text>Quatsch nicht rum, sondern gieb uns lieber einen aus...</text>
+		</string>
+		<string id="bandit_treasure_3_dialog_41">
+		<text>Na gut, Brьder. Damit wir immer aufrecht halten kцnnen!</text>
+		</string>
+		<string id="bandit_treasure_3_dialog_42">
+		<text>Kein Ding, ich rede gleich Paar Worte mit Borow und dann gebe ich einen aus.</text>
+		</string>
+		<string id="bandit_treasure_3_dialog_5">
+		<text>Mmmm... Mein Respekt! Warum nicht gleich so...</text>
+		</string>
+		<string id="bandit_treasure_3_dialog_6">
+		<text>Was gibt es so Neues zu hцren? Erzдддlt man hier wa-a-a-s interessantes?</text>
+		</string>
+		<string id="bandit_treasure_3_dialog_71">
+		<text>Neues?... Ah, nix... Gestern hatten wir uns drei "Wдchter" geschnappt, die sind ja nur mutig, wenn sie sich in ihren Blockposten verschanzen... Und hier aber sofort - "Jungs, nicht doch", "ich kann euch gute Beute zeigen"... "Beute", lдcherlich... Wollen nur einen volllabern und still abhauen, und dann uns hier mit der ganzen Mannschaft ьberrennen... Hrhrhr... Und der - "Das Versteck ist ganz in der Nдhe", so ein Arsch... Egal, die kцnnen mich echt alle. Und sein Versteck auch... Klar... "in der Nдhe"! Guck.. Hier soll es sein! Ьberleg doch mal...</text>
+		</string>
+		<string id="bandit_treasure_3_dialog_73">
+		<text>Neues? Was soll hier neues geben? Jeden Tag das Gleiche...</text>
+		</string>
+		<string id="bandit_treasure_3_dialog_81">
+		<text>Ha-ha, das ist ja mindestens ein Tagesmarsch, die wollten euch verscheiЯern...</text>
+		</string>
+		<string id="bandit_treasure_3_dialog_82">
+		<text>Na dann, wenn du mal ne Pulle ьbrig hast - komm vorbei...</text>
+		</string>
+		<string id="bandit_treasure_4_dialog_0">
+		<text>Hey, wen sehe ich denn da! Kennen wir uns nicht?</text>
+		</string>
+		<string id="bandit_treasure_4_dialog_1">
+		<text>LaЯ mich, Mann... Siehst du nicht, bin voll fertig nach dem Gelage gestern...</text>
+		</string>
+		<string id="bandit_treasure_4_dialog_2">
+		<text>Dann laЯ uns doch was fьr Gesundheit tun...</text>
+		</string>
+		<string id="bandit_treasure_4_dialog_3">
+		<text>Nich mehr da, Alter... Alles ausgesoffen gestern....</text>
+		</string>
+		<string id="bandit_treasure_4_dialog_41">
+		<text>Ich hab immer was bei, Bruder... Gehts nicht ohne... Dann los!</text>
+		</string>
+		<string id="bandit_treasure_4_dialog_42">
+		<text>So ein Mist! Und ich hab auch nichts heute...</text>
+		</string>
+		<string id="bandit_treasure_4_dialog_5">
+		<text>Du bist mein Retter, Kumpel...</text>
+		</string>
+		<string id="bandit_treasure_4_dialog_6">
+		<text>Was erzдhlt man denn so bei euch? Gibt's noch gute Beuteplдtze?</text>
+		</string>
+		<string id="bandit_treasure_4_dialog_71">
+		<text>Sicher, Mann! Aber sei nicht so laut... WeiЯt du, ich sah mal, wie Borows Schuldner was versteckt hatten... Ich... ich wьrde das nicht nehmen, harte Sitten hier... Kannst dann auch mal mit Messer im Bauch wach werden... Und du - du bist gekommen, du bist gegangen... Keiner merkt's. Und wenn du mal wieder hier bist, quatsch mich mal an, dann kцnnen wir was drehen... Handschlag?</text>
+		</string>
+		<string id="bandit_treasure_4_dialog_73">
+		<text>Alles hat sich hier Borow unter den Nagel gerissen, wir kriegen nur Reste...</text>
+		</string>
+		<string id="bandit_treasure_4_dialog_81">
+		<text>Handschlag!</text>
+		</string>
+		<string id="bandit_treasure_4_dialog_82">
+		<text>Na gut, ich muЯ weiter...</text>
+		</string>
+		<string id="neitral_treasure_1_dialog_0">
+		<text>GrьЯ dich, Brьderchen... Wie siehts aus?</text>
+		</string>
+		<string id="neitral_treasure_1_dialog_1">
+		<text>Geht so... Wolltest du was, oder fragst du einfach so?</text>
+		</string>
+		<string id="neitral_treasure_1_dialog_2">
+		<text>Ach, nur so... Still ist es hier, da dachte ich wir kцnnten ein wenig sitzen und was fьr die Gesundheit tun...</text>
+		</string>
+		<string id="neitral_treasure_1_dialog_3">
+		<text>Gesundheit - das ist wichtig, dann mach mal voll den Becher...</text>
+		</string>
+		<string id="neitral_treasure_1_dialog_41">
+		<text>Na los, runter mit den drei Tropfen...</text>
+		</string>
+		<string id="neitral_treasure_1_dialog_42">
+		<text>Besser wдre es, wenn mir jemand was ausgeben wьrde...</text>
+		</string>
+		<string id="neitral_treasure_1_dialog_5">
+		<text> Mann, ist sie stark... Geht ja durch und durch... Stьck Schinken dazu wдre fein.</text>
+		</string>
+		<string id="neitral_treasure_1_dialog_6">
+		<text>Mmm-ja... Gutes Zeug... Erzдhl mal was interessantes, weiЯt du da was?</text>
+		</string>
+		<string id="neitral_treasure_1_dialog_71">
+		<text>Vor nicht so langer Zeit haben wir mit Wolf einen Stalker aus einer Anomalie gezogen, oder, besser gesagt, das was von ihm ьbrig blieb... Tja... Er hatte einen Notiezzettel mit Koordinaten dabei. Wohl ein Beuteversteck. Aber Wolf sagte, wir sollen ja gar nicht erst versuchen... Hier, schreib dir diese mal auf, falls da was lohnendes gibt - kannst ja spдter bescheid geben... Abgemacht?</text>
+		</string>
+		<string id="neitral_treasure_1_dialog_73">
+		<text>Neee, ich bin hier noch nicht lange, war noch nicht weit in der Zone... Kannst ja so in einer Woche vorbeikommen - vielleicht weiЯ ich da was neues...</text>
+		</string>
+		<string id="neitral_treasure_1_dialog_81">
+		<text>Abgemacht... Ich schaue nach...</text>
+		</string>
+		<string id="neitral_treasure_1_dialog_82">
+		<text>Na gut, wir spechen uns noch irgendwann mal...</text>
+		</string>
+		<string id="neitral_treasure_2_dialog_0">
+		<text>Ich grьЯe dich, was mach das Stalkerleben denn so?</text>
+		</string>
+		<string id="neitral_treasure_2_dialog_1">
+		<text>Sei auch gegrьЯt, Gezeichneter... Geht so... Langsam...</text>
+		</string>
+		<string id="neitral_treasure_2_dialog_2">
+		<text>Wie wдr's mit fьnf Tropfen auf die Brust? Fьr die Gesundheit...</text>
+		</string>
+		<string id="neitral_treasure_2_dialog_3">
+		<text>Wдre nicht schlecht! Gibst du einen aus?</text>
+		</string>
+		<string id="neitral_treasure_2_dialog_41">
+		<text>Na dann runter mit den 150 Gramm, fьr's tapfer sein...</text>
+		</string>
+		<string id="neitral_treasure_2_dialog_42">
+		<text>Gleich, ich hol nur schnell was bei Sidor...</text>
+		</string>
+		<string id="neitral_treasure_2_dialog_5">
+		<text>Khe-khe, so was auch... Aus was wird die gemacht? Aus Holzspдne? Kriegt man ja kaum runter...</text>
+		</string>
+		<string id="neitral_treasure_2_dialog_6">
+		<text>Hier ist alles mцglich... Erzдhl mal was...</text>
+		</string>
+		<string id="neitral_treasure_2_dialog_71">
+		<text>Vor kurzem haben ein Paar Stalker Sidor besucht... Und ich schlief da bei Sidor im Vorraum... Na ja, wirklich geschlafen hab ich nicht, nur so, mit halbem Auge... Sie wollten bei ihm wohl Ausrьstung einkaufen, aber auf Kredit, sozusagen... Sagten was davon, das sie viel beute gebunkert haben und beschrieben sogar die Lage. Aber Sidor gab nichts raus - so ein Geizhals, nicht wahr? Ich dachte, ich schaue mal da nach, aber ich traue mich irgendwie nicht... Hier ist dieses Platz, siehst du? Wenn da was schцnes liegt, vergiss mich nicht, OK?</text>
+		</string>
+		<string id="neitral_treasure_2_dialog_73">
+		<text>Was soll man da erzдhlen... Die Zone ist halt die Zone. Wьrde am liebsten abhauen hier...</text>
+		</string>
+		<string id="neitral_treasure_2_dialog_81">
+		<text>Wenn da was vom Wert drin sein wird - vergess ich schon nicht.</text>
+		</string>
+		<string id="neitral_treasure_2_dialog_82">
+		<text>Irgendwann hauen wir hier schon ab, sicher.</text>
+		</string>
+		<string id="neitral_treasure_3_dialog_0">
+		<text>Was bist du so grimmig?... Brauchst du Hilfe, oder so?</text>
+		</string>
+		<string id="neitral_treasure_3_dialog_1">
+		<text>Gibt's nicht zu lachen, Bruder... Traurig ist hier alles, zum Erschiessen...</text>
+		</string>
+		<string id="neitral_treasure_3_dialog_2">
+		<text>Dann laЯ uns mal, nicht des Saufens wegen, sondern um Stimmung zu heben...</text>
+		</string>
+		<string id="neitral_treasure_3_dialog_3">
+		<text>Ja, machen wir, komm! Vielleicht wird's leichter...</text>
+		</string>
+		<string id="neitral_treasure_3_dialog_41">
+		<text>So... Halt still den Glas... Auf die Hoffnung!</text>
+		</string>
+		<string id="neitral_treasure_3_dialog_42">
+		<text>Opps! Nichts da! Ich weiЯ genau, ich hatte noch 'n Flдschchen.... Und ist jetzt nicht da!</text>
+		</string>
+		<string id="neitral_treasure_3_dialog_5">
+		<text>Genau, darauf stoЯ ich gern an! Danke dir, Bruder... Gibt's doch noch echte Kerle in der Zone...</text>
+		</string>
+		<string id="neitral_treasure_3_dialog_6">
+		<text>Man erzдhlt - mann kцnnte in der Nдhe auf gute Beute stossen... Was gehцrt davon?</text>
+		</string>
+		<string id="neitral_treasure_3_dialog_71">
+		<text>Ja, man sagt das es, nicht weit von hier, ein Versteck gibt, wo manche Leute ihre Beute und Ausrьstung zwischenlagern. Aber keiner von denen, die es plьndern wollten, ist zurьckgekehrt. Ich zeig dir das mal auf der Karte - hier ungefдhr ist es...</text>
+		</string>
+		<string id="neitral_treasure_3_dialog_73">
+		<text>Nee-e, nichts gehцrt. Aber ich achte nicht besonders auf das, was die Gerьchteverbreiter so erzдhlen...</text>
+		</string>
+		<string id="neitral_treasure_3_dialog_81">
+		<text>Also extra gehe ich da nicht hin, aber wenn ich mal in der Nдhe bin - schaue ich mal nach.</text>
+		</string>
+		<string id="neitral_treasure_3_dialog_82">
+		<text>Ist auch richtig so, man schlдft besser, wenn man nicht zu viel weiЯ...</text>
+		</string>
+		<string id="neitral_treasure_4_dialog_0">
+		<text>Sei gegrьЯt, Mann. Was meinst du zu einem Freundschaftstrunk?</text>
+		</string>
+		<string id="neitral_treasure_4_dialog_1">
+		<text>GrьЯ dich auch... Sicher, keine Rede.</text>
+		</string>
+		<string id="neitral_treasure_4_dialog_2">
+		<text>Setzen uns gemьtlich hin, lassen die Zungen mal locker bei gutem Essen.</text>
+		</string>
+		<string id="neitral_treasure_4_dialog_3">
+		<text>Was zu essen geht auf mich. Los, mach die Glдser schon voll, auf was wartest du?</text>
+		</string>
+		<string id="neitral_treasure_4_dialog_41">
+		<text>Da ist sie, klar wie eine Trдne!</text>
+		</string>
+		<string id="neitral_treasure_4_dialog_42">
+		<text>Zu essen hab ich auch selber, aber kein Feuerwasser...</text>
+		</string>
+		<string id="neitral_treasure_4_dialog_5">
+		<text>Дch, ist die gut! Geht ja durch bis ins Hintern...</text>
+		</string>
+		<string id="neitral_treasure_4_dialog_6">
+		<text>Ja, Recht hast du... Was hцrt man so in der Zone?</text>
+		</string>
+		<string id="neitral_treasure_4_dialog_71">
+		<text>Vorgestern haben wir mit Soldaten ein paar Flдschchen geleert... SaЯen ein wenig am Feuer... Die schleichen sich oft aus Agroprom hierher, Sidor beliefert sie mit Wodka und so... Sie erzдhlten, das sie einen zombierten Stalker geschnappt haben - du kennst es ja, der brachte kein Wort raus und wollte nur ballern. Ihr Kommandeur wollte ihn lebend, damit die Eierkцpfe in der "AuЯenwelt" mit ihm Experimente anstellen kцnnen... Wenns nach mir ginge - dann lieber sofort eine Kugel in die Schlдfe bekommen... Wo war ich denn jetzt? Ach ja... Also, dieser Zombie hatte einen Zeichnung auf dem Arm, wie ein Tatoo, aber nicht ein richtiges Tatoo, sondern als ob es jemand mit einem Messer eingeritzt hat... Wie eine Karte sah es aus... Der Kommandeur hat es mit Armee-Karten verglichen - und tatsдchlich, sieht so aus als ob es in der Nдhe ein Versteck gibt... Ungefдhr hier....</text>
+		</string>
+		<string id="neitral_treasure_4_dialog_73">
+		<text>Vieles hцrt man... Ьber Anomalien, ьber Monster, alles kann man gar nicht auf einmal erzдhlen... Komm mal wieder vorbei, dann reden wir lдnger...</text>
+		</string>
+		<string id="neitral_treasure_4_dialog_81">
+		<text>Harte Sache, Mann... Meine Meinung ist - lieber sofort verrecken, ohne Qualen.</text>
+		</string>
+		<string id="neitral_treasure_4_dialog_82">
+		<text>Das werde ich machen, bestimmt...</text>
+		</string>
+		<string id="dolg_garb_treasure_1_dialog_0">
+		<text>Hallo, Bruder... Wie geht es euch hier so?</text>
+		</string>
+		<string id="dolg_garb_treasure_1_dialog_1">
+		<text>Mutanten brechen manchmal durch... Aber sonst gehts halt...</text>
+		</string>
+		<string id="dolg_garb_treasure_1_dialog_2">
+		<text>Wollen wir einen heben, so aufs Kennenlernen? Oder erlauben die Befehlshaber nichts?</text>
+		</string>
+		<string id="dolg_garb_treasure_1_dialog_3">
+		<text>Welche Befehlshaber? Unser Feldwebel ist ein alter Hase, der versteht schon das es ohne in der Zone nicht geht. Also, sei nicht zimperlich, mach voll...</text>
+		</string>
+		<string id="dolg_garb_treasure_1_dialog_41">
+		<text>Na dann! Auf gute Menschen!</text>
+		</string>
+		<string id="dolg_garb_treasure_1_dialog_42">
+		<text>Ich wьrde ja gern voll machen, aber den letzten halben Liter muЯte ich als Medizin verbrauchen.</text>
+		</string>
+		<string id="dolg_garb_treasure_1_dialog_5">
+		<text>Na dann - auf uns! Hier, Wurst hab ich auch...</text>
+		</string>
+		<string id="dolg_garb_treasure_1_dialog_6">
+		<text>Danke... Was hцrt man hier so bei euch? Gibt es irgendwelche Neuigkeiten?</text>
+		</string>
+		<string id="dolg_garb_treasure_1_dialog_71">
+		<text>Besondere Neuigkeiten gibt es nicht. Aber - hast du von Max Luber gehцrt? Ihn und seinen Kumpel haben die Banditen aus dem Dunklen Tal geschnappt. Bullet, Freund von Max, hat die Spur aufgenommen. Und vorher sagte er, das dieser Kumpel noch die Lage von einem Versteck ьbermitteln konnte. Tja... Bullet bat drum, das jemand es prьfen sollte, aber Feldwebel hat es nicht erlaubt. Sagte, das es schon so viel zu wenige Kдmpfer fьr die Wache da sind.\n \nKurz gesagt, hier ist dieser Platz - hole es ab, damit die Banditen es nicht bekommen.</text>
+		</string>
+		<string id="dolg_garb_treasure_1_dialog_73">
+		<text>Eigentlich nichts besonderes gehцrt, nur Kleinigkeiten...</text>
+		</string>
+		<string id="dolg_garb_treasure_1_dialog_81">
+		<text>Gut, hole ich ab...</text>
+		</string>
+		<string id="dolg_garb_treasure_1_dialog_82">
+		<text>Na dann, lass es dir gut gehen, wir sehen uns noch...</text>
+		</string>
+		<string id="dolg_garb_treasure_2_dialog_0">
+		<text>Ich grьЯe dich, Soldat!</text>
+		</string>
+		<string id="dolg_garb_treasure_2_dialog_1">
+		<text>Ja, du auch... Wo kommst du denn her, so einer?</text>
+		</string>
+		<string id="dolg_garb_treasure_2_dialog_2">
+		<text>Ach, ich steife nur so durch die Zone... Was denkst du ьber 100 Gramm?</text>
+		</string>
+		<string id="dolg_garb_treasure_2_dialog_3">
+		<text>Was fьr 'ne Frage! 200 Gramm haben noch keinem geschadet...</text>
+		</string>
+		<string id="dolg_garb_treasure_2_dialog_41">
+		<text>Hier hast du 250... Auf Ex!</text>
+		</string>
+		<string id="dolg_garb_treasure_2_dialog_42">
+		<text>Ich werd mal gleich ein Paar Artefakte an der Wirt verscherbeln, und komme wieder...</text>
+		</string>
+		<string id="dolg_garb_treasure_2_dialog_5">
+		<text>Heh, die ist ja gut runtergegangen... Zu so einem Nektar muЯ man nicht mal was nachessen...</text>
+		</string>
+		<string id="dolg_garb_treasure_2_dialog_6">
+		<text>Das stimmt, wird ja eh nur ScheiЯe produziert aus den guten Sachen. Erzдhl mal was...</text>
+		</string>
+		<string id="dolg_garb_treasure_2_dialog_71">
+		<text>Die Tage war hier mal Bes zu Gast bei uns, ein guter Mann, auch wenn ein Einzelgдnger... Ist nicht persцnlich gemeint, OK?... Wir haben ihm ein wenig mit Munition ausgeholfen, ein bisschen geredet... Er hatte nicht viel vom Wert, darum erzдhle er uns ьber ein geheimes Versteck. Da war aber nichts drin... Sah aber so aus, als ob jemand da цfters was zwischenlagert. Wenn du Bock hast, kannst ja versuchen herauszufinden wem der Platz gehцrt...</text>
+		</string>
+		<string id="dolg_garb_treasure_2_dialog_73">
+		<text>Was soll man da erzдhlen... Die Zone ist halt die Zone. Wenn wir nicht wдren, hдtte diese Seuche sich schon in der ganzen Welt verbreitert...</text>
+		</string>
+		<string id="dolg_garb_treasure_2_dialog_81">
+		<text>Ich versuche das herauszufinden.</text>
+		</string>
+		<string id="dolg_garb_treasure_2_dialog_82">
+		<text>Na dann, Weltretter, ich muЯ weiter...</text>
+		</string>
+		<string id="dolg_garb_treasure_3_dialog_0">
+		<text>GrьЯ dich, Man. Dein Gesicht kommt mir irgendwie bekannt vor. Haben wir uns schon mal getroffen?</text>
+		</string>
+		<string id="dolg_garb_treasure_3_dialog_1">
+		<text>Wer weiЯ... Ich kann mich nur an meine Freunde gut erinnern...</text>
+		</string>
+		<string id="dolg_garb_treasure_3_dialog_2">
+		<text>Dann las uns doch einen kippen, nicht um des Saufens wegen, sondern auf die Freundschaft...</text>
+		</string>
+		<string id="dolg_garb_treasure_3_dialog_3">
+		<text>WeiЯt du, jetzt erinnere ich mich doch auf ein Mal an dich... Mach voll die Becher!</text>
+		</string>
+		<string id="dolg_garb_treasure_3_dialog_41">
+		<text>So... Halt grade... Auf die Freundschaft!!!</text>
+		</string>
+		<string id="dolg_garb_treasure_3_dialog_42">
+		<text>Opps! Nichts da! Ich weiЯ genau, ich hatte noch 'n Flдschchen.... Und ist jetzt nicht da!</text>
+		</string>
+		<string id="dolg_garb_treasure_3_dialog_5">
+		<text>Auf zuverlдssige Freunde! Mit denen man sich sogar in der Zone sicher fьllt!</text>
+		</string>
+		<string id="dolg_garb_treasure_3_dialog_6">
+		<text>Man sagt - man kann auf gute Beute stoЯen in der Nдhe... WeiЯt du was davon?</text>
+		</string>
+		<string id="dolg_garb_treasure_3_dialog_71">
+		<text>Ich hab's noch keinem gesagt, aber dir erzдhl ich was, als Freund... Ich hab ein Hinweis auf ein Beuteversteck... Hab ich zufдllig erfahren... Vielleicht ist da auch nichts drin, vielleicht aber auch richtig gutes Zeug. Wenn du wirklich guter Freund bist, teilst du doch, oder?</text>
+		</string>
+		<string id="dolg_garb_treasure_3_dialog_73">
+		<text>Neee, nichts gehцrt... Alles, was in der Nдhe ist, wurde schon eingesammelt... Und was da weiter gibts - weiЯt der Strelok...</text>
+		</string>
+		<string id="dolg_garb_treasure_3_dialog_81">
+		<text>Keine Rede, Mann! Fьr ein Freund ist nichts zu schade....</text>
+		</string>
+		<string id="dolg_garb_treasure_3_dialog_82">
+		<text>Strelok? Aha... An ihn hab ich auch 'ne Frage, eine bestimmte...</text>
+		</string>
+		<string id="dolg_garb_treasure_4_dialog_0">
+		<text>Hallo, wollen wir ein paar Worte wechseln?</text>
+		</string>
+		<string id="dolg_garb_treasure_4_dialog_1">
+		<text>Klar doch, kein Ding.</text>
+		</string>
+		<string id="dolg_garb_treasure_4_dialog_2">
+		<text>Vielleicht nehmen wir mal fьnf Tropfen, zur Entspannung?</text>
+		</string>
+		<string id="dolg_garb_treasure_4_dialog_3">
+		<text>Zukost stelle ich, gieЯ dann ein, auf was wartest du?</text>
+		</string>
+		<string id="dolg_garb_treasure_4_dialog_41">
+		<text>Halt die Glдser grade, sonst sehe ich den Rand nicht...</text>
+		</string>
+		<string id="dolg_garb_treasure_4_dialog_42">
+		<text>Zukost hab ich auch. Aber das Wichtigste nicht...</text>
+		</string>
+		<string id="dolg_garb_treasure_4_dialog_5">
+		<text>He-he... Wow, geht runter wie Цl!</text>
+		</string>
+		<string id="dolg_garb_treasure_4_dialog_6">
+		<text>Hier hat man doch bestimmt Schwermut ohne Ende, wenn ihr hier tagelang rumsitzen mьsst?</text>
+		</string>
+		<string id="dolg_garb_treasure_4_dialog_71">
+		<text>Ach, warum denn? Wirt schickt uns Zukost, so als Bezahlung fьr die Bewachung. Stalker kommen oft vorbei, erzдhlen das Neuste. Und was zum abschiessen gibt es auch genug.\n \nLetztens gab es was zum Lachen -  das Banditenpack ist frech geworden letzte Zeit, legen Hinterhalte im Gebiet. Na ja, einer lag wohl in der Nдhe rum, hat einen Verletzten gemimmt, auf allen Frequenzen SOS gesendet. Und da sind ein paar Bьrer aufgetaucht. Dieser "Verletzter", als er die Bьrer gehцrt hat, hat dermaЯen Beine gemacht, das er hier bei uns voll gegen die Kisten knallte. Wir schnappten ihn und merkten auf einmal - er stinkt zum Abdrehen. Hat sich doch tatsдchlich die Hose vollgemacht der Schisser!\n \nZitternd bat er uns dann die Bьrer abzuknallen, hat Berge von Beute versprochen, sogar uns eine Marke auf die Karte gesetzt. So ein Dummbeutel... Die Bьrer haben wir auch so abgeknallt, und fьr irgendwelche Beute wird keiner von uns den Arsch riskieren. Wir sind die Hьrde! Wir schьtzen die Welt gegen die Zonenkreaturen!\n \nWenn du Interesse hast - hier ist diese Markierung von dem Kerl.</text>
+		</string>
+		<string id="dolg_garb_treasure_4_dialog_73">
+		<text>Ein wenig schwermьtig ist es hier schon, ja. Aber man ist ja beschдftigt - wir beschьtzen die Welt gegen die Kreaturen der Zone!</text>
+		</string>
+		<string id="dolg_garb_treasure_4_dialog_81">
+		<text>Ist ja lustig. Werde bei Gelegenheit mal nachschauen, auch wenn ich denke, das es eh 'ne Lьge ist.</text>
+		</string>
+		<string id="dolg_garb_treasure_4_dialog_82">
+		<text>Dann stцre ich den Helden nicht weiter. Mach's gut!</text>
+		</string>
+		<string id="stalk_garb_treasure_1_dialog_0">
+		<text>Hey, Bruder! Was macht das Leben?</text>
+		</string>
+		<string id="stalk_garb_treasure_1_dialog_1">
+		<text>Die verdammten Banditen, Mann... Die nerven, sag ich dir! Kommen immer wieder, wie Kakerlaken!</text>
+		</string>
+		<string id="stalk_garb_treasure_1_dialog_2">
+		<text>Komm, lass den Dampf ab. Entspannen wir uns...</text>
+		</string>
+		<string id="stalk_garb_treasure_1_dialog_3">
+		<text>Ich bin ja die Ruhe selbst, nur hatte ich schon lдnger kein vernьnftigen Stoff getrunken. GieЯ ein, wenn du schon den Vorschlag machst.</text>
+		</string>
+		<string id="stalk_garb_treasure_1_dialog_41">
+		<text>Auf das Morgen! Das wir es erleben!</text>
+		</string>
+		<string id="stalk_garb_treasure_1_dialog_42">
+		<text>Ich bin auch leer momentan. Wenn ich was erbeute, dann kaufe ich wieder beim Hдndler schцnen Stoff.</text>
+		</string>
+		<string id="stalk_garb_treasure_1_dialog_5">
+		<text>Genau! Auf den Tod durch Altersschwдche!</text>
+		</string>
+		<string id="stalk_garb_treasure_1_dialog_6">
+		<text>Soooo... Das entspannt! Was erzдhlt man hier so?</text>
+		</string>
+		<string id="stalk_garb_treasure_1_dialog_71">
+		<text>Alle halten ihre Gedanken inne, das ist hier die Zone, Bruder. Aber letztens habe ich gehцrt, das ein paar Stalker ihre Beute zurьcklassen musste, als sie die Stiernacken abschьtteln mussten. Ich wollte selbst mir die Sachen krallen, aber zu weit fьr mich. Wenn du willst, kannst du das Zeug holen, sonnst verkommt es - die Jungs sind vor zwei Tagen in einer Schiesserei mit Banditen umgekommen. Schade um sie, waren echte Kumpels.</text>
+		</string>
+		<string id="stalk_garb_treasure_1_dialog_73">
+		<text>Nicht viel. Alle halten ihre Gedanken inne, das ist hier die Zone, Bruder. Sogar meine guten Freunde erzдhlen nichts von ihren Plдnen und so. Damit das Glьck sie nicht verlдsst.</text>
+		</string>
+		<string id="stalk_garb_treasure_1_dialog_81">
+		<text>Tja... Viele gute Leute verlassen uns...</text>
+		</string>
+		<string id="stalk_garb_treasure_1_dialog_82">
+		<text>Das habe ich auch bemerkt. Na gut, mein Freund, bis Morgen dann...</text>
+		</string>
+		<string id="stalk_garb_treasure_2_dialog_0">
+		<text>Warum wurde bei euch hier geschossen?</text>
+		</string>
+		<string id="stalk_garb_treasure_2_dialog_1">
+		<text>Ach, einer von uns hat sich nur Mut gemacht...</text>
+		</string>
+		<string id="stalk_garb_treasure_2_dialog_2">
+		<text>Lass uns fьr den Mut mal 250 Gramm nehmen!</text>
+		</string>
+		<string id="stalk_garb_treasure_2_dialog_3">
+		<text>Klar, gieЯ ein!</text>
+		</string>
+		<string id="stalk_garb_treasure_2_dialog_41">
+		<text>Hier haste zweihundertfьnfzig! Darauf, das es nicht die letzten werden!</text>
+		</string>
+		<string id="stalk_garb_treasure_2_dialog_42">
+		<text>Warte ein wenig, ich werd mal erst die Gegend prьfen.</text>
+		</string>
+		<string id="stalk_garb_treasure_2_dialog_5">
+		<text>Bah... Haut ganz schцn rein, aber schmeckt abscheulig.</text>
+		</string>
+		<string id="stalk_garb_treasure_2_dialog_6">
+		<text>He-he, wolltest du 'ne Limonade, oder was? Was gibts bei euch Interessantes, erzдhl mal?</text>
+		</string>
+		<string id="stalk_garb_treasure_2_dialog_71">
+		<text>Бес со своими ребятами положили десяток мародеров возле болота, я потом туда наведался... Трупы конечно зверьё основательно перепотрошили, зрелище еще то... Смотрю в этом месиве блестит что то, палкой вытащил небольшую бутылочку, совсем миниатюрную, сувенирная наверно - грамм на пятьдесят. Мда.. Видимо этот упырь проглотил ее, когда жаренным запахло... В этой бутылочке листок бумаги был, с картой и отметкой о спрятанном хабаре... Вот эта карта, попробуй доберись, я не смог...</text>
+		</string>
+		<string id="stalk_garb_treasure_2_dialog_73">
+		<text>Alles wie immer... Einer kommt in der Anomalie um, anderer wird angeschossen, und mancher verschwindet einfach ohne jede Spur. So sehen meist unsere "interessante" Neuigkeiten.</text>
+		</string>
+		<string id="stalk_garb_treasure_2_dialog_81">
+		<text>Wenn ich da rankomme, gebe ich dir die Hдlfte ab.</text>
+		</string>
+		<string id="stalk_garb_treasure_2_dialog_82">
+		<text>Alles klar. Halt die Ohren steif. Man sieht sich.</text>
+		</string>
+		<string id="stalk_garb_treasure_3_dialog_0">
+		<text>Привет, не возражаешь перекинуться парой слов?</text>
+		</string>
+		<string id="stalk_garb_treasure_3_dialog_1">
+		<text>А че языками то трепать? Если бы по делу...</text>
+		</string>
+		<string id="stalk_garb_treasure_3_dialog_2">
+		<text>Может вспрыснем знакомство? Чем не дело?</text>
+		</string>
+		<string id="stalk_garb_treasure_3_dialog_3">
+		<text>Нечем мне вспрыскивать... Если есть, то доставай, а не мели попусту...</text>
+		</string>
+		<string id="stalk_garb_treasure_3_dialog_41">
+		<text>Klar hab ich was... Auf die Seelenverwandschaft!</text>
+		</string>
+		<string id="stalk_garb_treasure_3_dialog_42">
+		<text>Tut mir leid, Bruder, mir ist Wodka auch asgegangen...</text>
+		</string>
+		<string id="stalk_garb_treasure_3_dialog_5">
+		<text>Говоришь много, пить, как и жить - нужно тихо...</text>
+		</string>
+		<string id="stalk_garb_treasure_3_dialog_6">
+		<text>Философ, блинн! Ну просвети меня, как жить нужно...</text>
+		</string>
+		<string id="stalk_garb_treasure_3_dialog_71">
+		<text>Живет каждый по своему, и научиться чужой жизни невозможно... Вот Счастливчик Левка, слыхал наверное? Все хвалился какой он везучий, как бабы его любят, что все монстры его обходят... Не жил одним днем, все прятал хабарок, нычки устраивал... Не выпить с ним, не разъвеяться нормально, берег арты, не сдавал здешним барыгам, думал на Большой земле все сдать и жить как сыр в масле... И где он теперь? Даже клочка волос не осталось - весь в холодце растворился. А нычки теперь другие удачники ищут... А я так думаю - не будет счастья с того хабара, и не нужен он тем, кто как я, живет только одним днем... </text>
+		</string>
+		<string id="stalk_garb_treasure_3_dialog_73">
+		<text>А зачем тебя просвещать... Если есть жизненный путь - то и будешь им идти, а нет - то никак его и не получишь...</text>
+		</string>
+		<string id="stalk_garb_treasure_3_dialog_81">
+		<text>Может ты и прав, но я так думаю - о завтрашнем дне заботиться нужно...</text>
+		</string>
+		<string id="stalk_garb_treasure_3_dialog_82">
+		<text>Судьба значит... А я верю в человека...</text>
+		</string>
+		<string id="stalk_garb_treasure_4_dialog_0">
+		<text>Как оно, приятель?</text>
+		</string>
+		<string id="stalk_garb_treasure_4_dialog_1">
+		<text>Да помаленьку, немного тоскливо правда...</text>
+		</string>
+		<string id="stalk_garb_treasure_4_dialog_2">
+		<text>Давай для настроения? По чуть-чуть?</text>
+		</string>
+		<string id="stalk_garb_treasure_4_dialog_3">
+		<text>С тебя пузырь, с меня все остальное...</text>
+		</string>
+		<string id="stalk_garb_treasure_4_dialog_41">
+		<text>Einverstanden! Hol die Glдser raus...</text>
+		</string>
+		<string id="stalk_garb_treasure_4_dialog_42">
+		<text>Den "Rest" hab ich ja auch... Aber keine Flasche...</text>
+		</string>
+		<string id="stalk_garb_treasure_4_dialog_5">
+		<text>Хороша, чертовка! Все нутро прожгла!... </text>
+		</string>
+		<string id="stalk_garb_treasure_4_dialog_6">
+		<text>Erzдhl doch mal was interessantes...</text>
+		</string>
+		<string id="stalk_garb_treasure_4_dialog_71">
+		<text>Поинтереснее? Хм... Что бы соврать то... А! Ладно, расскажу как есть... Юрика знаешь? Малек совсем, попытался за хабаром наравне с опытными сталкерами ломануться... Голова у него на выпивку совсем слабая, на пробку наступит - а несет его как от ведра... Вчера сидел тут с нами, языком мел, как помелом... Разошолся, типа он всем старикам нос утрет, потому как знает где хабар занычен. Мы его на смех подняли, так он ерепениться начал - тыкать всем свой ПДА с отметкой на месте нычки. Не поверил никто конечно - откуда у сопли с Кордона такая инфра может быть... Типа вот здесь какой то хабар... Ты бы поверил?</text>
+		</string>
+		<string id="stalk_garb_treasure_4_dialog_73">
+		<text>Че то язык у меня заплетается, завтра что нибудь расскажу..</text>
+		</string>
+		<string id="stalk_garb_treasure_4_dialog_81">
+		<text>Не, не поверил бы... Юрик еще тот свистун...</text>
+		</string>
+		<string id="stalk_garb_treasure_4_dialog_82">
+		<text>Тогда до завтра, приятель...</text>
+		</string>
+		<string id="stalk_bar_treasure_1_dialog_0">
+		<text>Привет, как тут у вас?</text>
+		</string>
+		<string id="stalk_bar_treasure_1_dialog_1">
+		<text>У нас весело, хочешь иди в Бар, хочешь - с должанами перетирай или делай ставки на арене. Много слухов ходит - Бар же почти в центре Зоны находится...</text>
+		</string>
+		<string id="stalk_bar_treasure_1_dialog_2">
+		<text>Может накатим по стопарю? За знакомство...</text>
+		</string>
+		<string id="stalk_bar_treasure_1_dialog_3">
+		<text>Тоже неплохо... Давай наливай, я тебя после на арену свожу - пощекочем нервишки...</text>
+		</string>
+		<string id="stalk_bar_treasure_1_dialog_41">
+		<text>Давай, за бодрость духа!</text>
+		</string>
+		<string id="stalk_bar_treasure_1_dialog_42">
+		<text>За пузырем в "100 Рентген" сбегаю и назад... Жди!</text>
+		</string>
+		<string id="stalk_bar_treasure_1_dialog_5">
+		<text>Ну давай... </text>
+		</string>
+		<string id="stalk_bar_treasure_1_dialog_6">
+		<text>А какие слухи ходят, чего интересного говорят?</text>
+		</string>
+		<string id="stalk_bar_treasure_1_dialog_71">
+		<text>Да много чего... Вроде есть телепорт прямо к МОНОЛИТу, правда мест называют не меньше десятка. Появилась новая разновидность монстров - електричеством бьются, вообще атас... Долги все со Свободовцами не поделят Зону, то и дело слышно - то ети тех завалили, то те этих, а че делить то? Зоны на всех хватит... Недавно поймали свободовца и вели перевоспитывать к себе с подвал - психиатры тоже мне... Так тот свободовец кинул хрень какую то в кусты, я  потом слазил, нашел ПДА его, а в нем координаты тайничка. Вот. Давай вместе посмотрим - что там? Вот здесь вроде он находится...</text>
+		</string>
+		<string id="stalk_bar_treasure_1_dialog_73">
+		<text>Приходи вечерком в Бар, соберутся наши, пообщаемся... Много полезного услышать можно, только не забывай выпивку выставлять...</text>
+		</string>
+		<string id="stalk_bar_treasure_1_dialog_81">
+		<text>Далековато, я пока в другую сторону иду...</text>
+		</string>
+		<string id="stalk_bar_treasure_1_dialog_82">
+		<text>Ладно, приду...</text>
+		</string>
+		<string id="stalk_bar_treasure_2_dialog_0">
+		<text>Здорово, старина. Как жизнь?</text>
+		</string>
+		<string id="stalk_bar_treasure_2_dialog_1">
+		<text>Ключом бъет... По голове... Чё надо?</text>
+		</string>
+		<string id="stalk_bar_treasure_2_dialog_2">
+		<text>Ты че сердитый такой7 Давай накатим для настроения?</text>
+		</string>
+		<string id="stalk_bar_treasure_2_dialog_3">
+		<text>Достало уже всё! Выкатывай...</text>
+		</string>
+		<string id="stalk_bar_treasure_2_dialog_41">
+		<text>Ладно! Наплюй на все... Поехали!</text>
+		</string>
+		<string id="stalk_bar_treasure_2_dialog_42">
+		<text>Я лучше отвалю...</text>
+		</string>
+		<string id="stalk_bar_treasure_2_dialog_5">
+		<text>Ну давай... Хоть водку не разучились делать еще...</text>
+		</string>
+		<string id="stalk_bar_treasure_2_dialog_6">
+		<text>Да чистая, как слеза комсомолки... А что достало то?</text>
+		</string>
+		<string id="stalk_bar_treasure_2_dialog_71">
+		<text>Да козлы кругом одни... Делаешь добро людям, а они говнищем мажут... Нашел я нычку одну, думал с одним козлом вместе добраться, что бы было кому спину прикрыть... Так эта зараза свалила по тихому - даже еще и рюкзак мой распотрошить успела... Тьфу... Люди... Козлы! Может сумеешь его опередить? Вот здесь этот тайник...</text>
+		</string>
+		<string id="stalk_bar_treasure_2_dialog_73">
+		<text>Чудаков на букву М хватает, верить никому нельзя... Так и норовят подлянку сделать...</text>
+		</string>
+		<string id="stalk_bar_treasure_2_dialog_81">
+		<text>Попробую, если получиться - постараюсь вернуть тебе веру в людей.</text>
+		</string>
+		<string id="stalk_bar_treasure_2_dialog_82">
+		<text>Злой ты, уйду я от тебя...</text>
+		</string>
+		<string id="stalk_bar_treasure_3_dialog_0">
+		<text>Привет братан, мы раньше не встречались?</text>
+		</string>
+		<string id="stalk_bar_treasure_3_dialog_1">
+		<text>Да и твоя физия мелькала вроде, как тебя?</text>
+		</string>
+		<string id="stalk_bar_treasure_3_dialog_2">
+		<text>Nenn mich "Gezeichneter", alle nennen mich so....</text>
+		</string>
+		<string id="stalk_bar_treasure_3_dialog_3">
+		<text>Ладно, Меченный так Меченый, ну давай за знакомство? Есть с собой?</text>
+		</string>
+		<string id="stalk_bar_treasure_3_dialog_41">
+		<text>А то! Вот! Крепкая, как мат монаха...</text>
+		</string>
+		<string id="stalk_bar_treasure_3_dialog_42">
+		<text>Нет, нету... Пришлось отдать за патроны весь запас...</text>
+		</string>
+		<string id="stalk_bar_treasure_3_dialog_5">
+		<text>Ха! Правда! Крепкая! Ну что брат Меченный, вот и двумя хорошими людьми больше в Зоне стало...</text>
+		</string>
+		<string id="stalk_bar_treasure_3_dialog_6">
+		<text>Говорят - можно хабар найти недалеко, не слышал?</text>
+		</string>
+		<string id="stalk_bar_treasure_3_dialog_71">
+		<text>Ну, раз ты хороший человек, а хорошие люди должны помогать друг другу, раскажу тебе как на духу, Меченный... Зомбаки последнее время что то очень часто стали забредать прямо сюда, и вот ведь загадка - все подходы к базе долговцами перекрыты, даже мышь не пролезет, а эти все равно появляются... Бормочут чего-то, руки тянут... Жуть! Вчера ночью культурно так себе отдыхаю - бармен скотина больше в долг не наливает, ну не жлоб, а? Ну так вот, закемарил я - чувствую вонью несет и тяжесть навалилась - открываю глаза - вот он голубчик, трупак ходячий. Я оцепенел весь, не рукой не ногой двинуть не могу... Не со страху, конечно, а так, от неожиданности... А дохлик гнусаво так говорит чего-то, прислушался - цифры вроде, снова и снова одно и тоже. Я глаза закрыл, открываю - нет никого... Только вонь осталась... А цифры так в голове и звучат, после глянул - вроде на координаты похожи. Только далеко отсюда... Вот такая брат петрушка...</text>
+		</string>
+		<string id="stalk_bar_treasure_3_dialog_73">
+		<text>Весь хабар, который был в легких местах, подчистую выгребли... Нужно к центру Зоны пробиваться - говорят - там клондайк....</text>
+		</string>
+		<string id="stalk_bar_treasure_3_dialog_81">
+		<text>Видать водка паленая была, где брал?</text>
+		</string>
+		<string id="stalk_bar_treasure_3_dialog_82">
+		<text>Клондайк, говоришь? Ну-ну...</text>
+		</string>
+		<string id="stalk_bar_treasure_4_dialog_0">
+		<text>Что так невесел, друг?</text>
+		</string>
+		<string id="stalk_bar_treasure_4_dialog_1">
+		<text>Да так, думаю - валить из Зоны надо... С каждым днем все хуже и хуже. Монстры все опаснее и злее, погода дерьмовая, аномалии не поймешь где - а самое страшное - люди звереют...</text>
+		</string>
+		<string id="stalk_bar_treasure_4_dialog_2">
+		<text>Ладно, забей! Давай лучше накатим...</text>
+		</string>
+		<string id="stalk_bar_treasure_4_dialog_3">
+		<text>Ну давай, а есть что?</text>
+		</string>
+		<string id="stalk_bar_treasure_4_dialog_41">
+		<text>Не было б - не предлагал бы...</text>
+		</string>
+		<string id="stalk_bar_treasure_4_dialog_42">
+		<text>Was zum Teufel?! Ich hatte doch noch 'ne Pulle! Beklaut hat man mich...</text>
+		</string>
+		<string id="stalk_bar_treasure_4_dialog_5">
+		<text>Эх-р-р-м, не Шардонэ конечно, но тоже ничего!</text>
+		</string>
+		<string id="stalk_bar_treasure_4_dialog_6">
+		<text>А что за хабаром не идешь?</text>
+		</string>
+		<string id="stalk_bar_treasure_4_dialog_71">
+		<text>Да долгая история... Не спешишь?.. Мы с Серегой Безухим друзьми были, все время вместе в глубокие рейды ходили... Иной раз до самого мозговыжигателя добирались, видели этих фантомов и не только... \nПлесни еще чуток... Да-а, Серега... Ухо у него отстрелили еще в Чечне, оттуда и кличка такая. Сколько раз мы друг другу спины прикрывали... В последней ходке на Псевдогиганта нарвались, тварь не особо опасная - если конечно на нее не переть сдуру. А тут так получилось, что хлопнула эта тварь своей ручищей по земле, Серегу отбросило, ну наверно не больше полуметра, прямо в холодец, всем телом... Лицо, руки... Короче всё.. Мясо как кисель стекало с черепа... А он в сознании был... Плесни, душа горит... Бросил я его там... И душу свою тоже там оставил... Тайничок мы оставили, не буду я его забирать, не хочу... Если найдешь, помяни Серегу...</text>
+		</string>
+		<string id="stalk_bar_treasure_4_dialog_73">
+		<text>Не могу я... Сломала меня Зона... Еще день два и пойду выбираться...</text>
+		</string>
+		<string id="stalk_bar_treasure_4_dialog_81">
+		<text>Помяну...</text>
+		</string>
+		<string id="stalk_bar_treasure_4_dialog_82">
+		<text>Правильно... Наверное...</text>
+		</string>
+		<string id="stalk_sim_treasure_1_dialog_0">
+		<text>Здравствуй, поговорим?</text>
+		</string>
+		<string id="stalk_sim_treasure_1_dialog_1">
+		<text>Здравствуй, почему нет? Ты я смотрю не из этих говнюков...</text>
+		</string>
+		<string id="stalk_sim_treasure_1_dialog_2">
+		<text>Нет, не из них... Давай по сто грамм?</text>
+		</string>
+		<string id="stalk_sim_treasure_1_dialog_3">
+		<text>А что... Неплохо... Наливай...</text>
+		</string>
+		<string id="stalk_sim_treasure_1_dialog_41">
+		<text>Ну давай за знакомство...</text>
+		</string>
+		<string id="stalk_sim_treasure_1_dialog_42">
+		<text>Эх, кончилась родимая...</text>
+		</string>
+		<string id="stalk_sim_treasure_1_dialog_5">
+		<text>За знакомство... Хух, и где ты ее взял... Гадость голимая...</text>
+		</string>
+		<string id="stalk_sim_treasure_1_dialog_6">
+		<text>Tja, "Smirnoff" ist es nicht... Was hцrt man so in der Zone?</text>
+		</string>
+		<string id="stalk_sim_treasure_1_dialog_71">
+		<text>Ну, слышно кое что... Вроде есть тайники богатые, остались от сталкеров погибших... Есть тайные схроны клановых группировок, но никто не говорил что нашел такой... Мне совершенно случайно попался ПДА в котором отмечено место тайника, могу поделиться с тобой... Сам я наверно не дойду уже...</text>
+		</string>
+		<string id="stalk_sim_treasure_1_dialog_73">
+		<text>Приходи вечерком в Бар, соберутся наши, пообщаемся... Много полезного услышать можно, только не забывай выпивку выставлять...</text>
+		</string>
+		<string id="stalk_sim_treasure_1_dialog_81">
+		<text>Спасибо, буду в тех краях - проверю...</text>
+		</string>
+		<string id="stalk_sim_treasure_1_dialog_82">
+		<text>Ладно, приду...</text>
+		</string>
+		<string id="stalk_sim_treasure_2_dialog_0">
+		<text>Здорово, старина. Как жизнь?</text>
+		</string>
+		<string id="stalk_sim_treasure_2_dialog_1">
+		<text>Ключом бъет... По голове... Чё надо?</text>
+		</string>
+		<string id="stalk_sim_treasure_2_dialog_2">
+		<text>Ты че сердитый такой7 Давай накатим для настроения?</text>
+		</string>
+		<string id="stalk_sim_treasure_2_dialog_3">
+		<text>Достало уже всё! Выкатывай...</text>
+		</string>
+		<string id="stalk_sim_treasure_2_dialog_41">
+		<text>Ладно! Наплюй на все... Поехали!</text>
+		</string>
+		<string id="stalk_sim_treasure_2_dialog_42">
+		<text>Я лучше отвалю...</text>
+		</string>
+		<string id="stalk_sim_treasure_2_dialog_5">
+		<text>Ну давай... Хоть водку не разучились делать еще...</text>
+		</string>
+		<string id="stalk_sim_treasure_2_dialog_6">
+		<text>Да чистая, как слеза комсомолки... А что достало то?</text>
+		</string>
+		<string id="stalk_sim_treasure_2_dialog_71">
+		<text>Да козлы кругом одни... Делаешь добро людям, а они говнищем мажут... Нашел я нычку одну, думал с одним козлом вместе добраться, что бы было кому спину прикрыть... Так эта зараза свалила по тихому - даже еще и рюкзак мой распотрошить успела... Тьфу... Люди... Козлы! Может сумеешь его опередить? Вот здесь этот тайник...</text>
+		</string>
+		<string id="stalk_sim_treasure_2_dialog_73">
+		<text>Чудаков на букву М хватает, верить никому нельзя... Так и норовят подлянку сделать...</text>
+		</string>
+		<string id="stalk_sim_treasure_2_dialog_81">
+		<text>Попробую, если получиться - постараюсь вернуть тебе веру в людей.</text>
+		</string>
+		<string id="stalk_sim_treasure_2_dialog_82">
+		<text>Злой ты, уйду я от тебя...</text>
+		</string>
+		<string id="stalk_sim_treasure_3_dialog_0">
+		<text>Привет братан, мы раньше не встречались?</text>
+		</string>
+		<string id="stalk_sim_treasure_3_dialog_1">
+		<text>Да и твоя физия мелькала вроде, как тебя?</text>
+		</string>
+		<string id="stalk_sim_treasure_3_dialog_2">
+		<text>Nenn mich "Gezeichneter", alle nennen mich so....</text>
+		</string>
+		<string id="stalk_sim_treasure_3_dialog_3">
+		<text>Ладно, Меченный так Меченый, ну давай за знакомство? Есть с собой?</text>
+		</string>
+		<string id="stalk_sim_treasure_3_dialog_41">
+		<text>А то! Вот! Крепкая, как мат монаха...</text>
+		</string>
+		<string id="stalk_sim_treasure_3_dialog_42">
+		<text>Нет, нету... Пришлось отдать за патроны весь запас...</text>
+		</string>
+		<string id="stalk_sim_treasure_3_dialog_5">
+		<text>Ха! Правда! Крепкая! Ну что брат Меченный, вот и двумя хорошими людьми больше в Зоне стало...</text>
+		</string>
+		<string id="stalk_sim_treasure_3_dialog_6">
+		<text>Говорят - можно хабар найти недалеко, не слышал?</text>
+		</string>
+		<string id="stalk_sim_treasure_3_dialog_71">
+		<text>Недавно забрел я на Янтарь, посмотреть что там яйцеголовые окопались... Далеко не забирался, ибо мозг не казенный... Видел там этих бедолаг - сталкеров зомбированных. Стреляют правда как ворошиловские стрелки! Как так удается? Мозг же не работает? Нет? Один из них при смерти лежал, попытался я его обыскать - так - Мама моя родная! Из него как брызнет гадость какая-то, чуть коньки не отбросил, отравился... В общем у него карта была с отметкой о схроне... Но я туда не рискну идти, а с тобой могу поделиться...</text>
+		</string>
+		<string id="stalk_sim_treasure_3_dialog_73">
+		<text>Весь хабар, который был в легких местах, подчистую выгребли... Нужно к центру Зоны пробиваться - говорят - там клондайк....</text>
+		</string>
+		<string id="stalk_sim_treasure_3_dialog_81">
+		<text>Ладно, я рискну!...</text>
+		</string>
+		<string id="stalk_sim_treasure_3_dialog_82">
+		<text>Клондайк, говоришь? Ну-ну...</text>
+		</string>
+		<string id="stalk_sim_treasure_4_dialog_0">
+		<text>Что так невесел, друг?</text>
+		</string>
+		<string id="stalk_sim_treasure_4_dialog_1">
+		<text>Да так, думаю - валить из Зоны надо... С каждым днем все хуже и хуже. Монстры все опаснее и злее, погода дерьмовая, аномалии не поймешь где - а самое страшное - люди звереют...</text>
+		</string>
+		<string id="stalk_sim_treasure_4_dialog_2">
+		<text>Ладно, забей! Давай лучше накатим...</text>
+		</string>
+		<string id="stalk_sim_treasure_4_dialog_3">
+		<text>Ну давай, а есть что?</text>
+		</string>
+		<string id="stalk_sim_treasure_4_dialog_41">
+		<text>Не было б - не предлагал бы...</text>
+		</string>
+		<string id="stalk_sim_treasure_4_dialog_42">
+		<text>Was zum Teufel?! Ich hatte doch noch 'ne Pulle! Beklaut hat man mich...</text>
+		</string>
+		<string id="stalk_sim_treasure_4_dialog_5">
+		<text>Эх-р-р-м, не Шардонэ конечно, но тоже ничего!</text>
+		</string>
+		<string id="stalk_sim_treasure_4_dialog_6">
+		<text>А что за хабаром не идешь?</text>
+		</string>
+		<string id="stalk_sim_treasure_4_dialog_71">
+		<text>Да долгая история... Не спешишь?.. Мы с Серегой Безухим друзьми были, все время вместе в глубокие рейды ходили... Иной раз до самого мозговыжигателя добирались, видели этих фантомов и не только... \nПлесни еще чуток... Да-а, Серега... Ухо у него отстрелили еще в Чечне, оттуда и кличка такая. Сколько раз мы друг другу спины прикрывали... В последней ходке на Псевдогиганта нарвались, тварь не особо опасная - если конечно на нее не переть сдуру. А тут так получилось, что хлопнула эта тварь своей ручищей по земле, Серегу отбросило, ну наверно не больше полуметра, прямо в холодец, всем телом... Лицо, руки... Короче всё.. Мясо как кисель стекало с черепа... А он в сознании был... Плесни, душа горит... Бросил я его там... И душу свою тоже там оставил... Тайничок мы оставили, не буду я его забирать, не хочу... Если найдешь, помяни Серегу...</text>
+		</string>
+		<string id="stalk_sim_treasure_4_dialog_73">
+		<text>Не могу я... Сломала меня Зона... Еще день два и пойду выбираться...</text>
+		</string>
+		<string id="stalk_sim_treasure_4_dialog_81">
+		<text>Помяну...</text>
+		</string>
+		<string id="stalk_sim_treasure_4_dialog_82">
+		<text>Правильно... Наверное...</text>
+		</string>
+		<string id="freedom_1_dialog_0">
+		<text>Здорово, братишка? Как оно?</text>
+		</string>
+		<string id="freedom_1_dialog_1">
+		<text>Лучше не бывает... Недавно к нам такую солому загнали, 3 дня в другом мире был... Жаль кончилась...</text>
+		</string>
+		<string id="freedom_1_dialog_2">
+		<text>Ну... Да.. Это конечно плохо... Может по стопочке?</text>
+		</string>
+		<string id="freedom_1_dialog_3">
+		<text>Какой вопрос?! А есть?</text>
+		</string>
+		<string id="freedom_1_dialog_41">
+		<text>Fьr so einen Fall hab ich immer was da!</text>
+		</string>
+		<string id="freedom_1_dialog_42">
+		<text>Das ist es ja - ich hab, nдmlich, nichts...</text>
+		</string>
+		<string id="freedom_1_dialog_5">
+		<text>Ээх, провалилась, не заметил...</text>
+		</string>
+		<string id="freedom_1_dialog_6">
+		<text>Ты слыхал - сталкер какойто на днях в Бар пришел... Говорят нычку авторитетного наемника обчистил. Радостный был, всем рассказывал как он подобрал PDA этого наемника гдето сдесь, на складах... На следующие сутки он кудато пропал, и до сих пор его никто не видел, видать наемники убрали... Вот так вот</text>
+		</string>
+		<string id="freedom_1_dialog_71">
+		<text>Да фигня это все... Мы этих наемников шугаем как тараканов... Мы вот рейд на базу долга устаивали, война была - ужас, но пробиться таки не смогли - грянул выброс, да мощьный такой... мозги прямо закипели, запнулся о труп Долговца - мелькнул КПК, ну я его схватил... Пришлось спасаться на Дикой Территории... Засели в какомто гараже,переждали выброс... Вернулись на базу, я этот КПК исследовал и увидел метку на карте во-от тут, проверить времени небыло, так что вот, держи...</text>
+		</string>
+		<string id="freedom_1_dialog_73">
+		<text>Да черт с ним. Нефиг было выпендриваться, может бы и дольше прожил. Чета меня на сон потянуло... Приходи еще! Поболтаем о том о сем....</text>
+		</string>
+		<string id="freedom_1_dialog_81">
+		<text>Мда, проверю как нибудь, спасибо. До скорого...</text>
+		</string>
+		<string id="freedom_1_dialog_82">
+		<text>Подойду конечно, о чем речь?</text>
+		</string>
+		<string id="freedom_2_dialog_0">
+		<text>Здарова, Макс! Как жизня?</text>
+		</string>
+		<string id="freedom_2_dialog_1">
+		<text>Да как-то стремно, ряды пополнять никто не хочет... Может запишешься в наши ряды? Станет жить спокойнее...</text>
+		</string>
+		<string id="freedom_2_dialog_2">
+		<text>Ну я как раз об этом думаю... Может бутолчку пропустим за знакомство?</text>
+		</string>
+		<string id="freedom_2_dialog_3">
+		<text>Ээх побольше бы таких щедрых людей как ты... вот у меня как раз для такого дела пол кило колбаски сохранилось... Доставай элексир!</text>
+		</string>
+		<string id="freedom_2_dialog_41">
+		<text>Во-от, настоящая Украинская... "Казаки". Держи граненный!</text>
+		</string>
+		<string id="freedom_2_dialog_42">
+		<text>Я ка-ак раз собирался к Шурупу, шас, если у него осталось, стрельну...</text>
+		</string>
+		<string id="freedom_2_dialog_5">
+		<text>Бррр... Печень моя не рада будет... Зачет тебе в личное дело!</text>
+		</string>
+		<string id="freedom_2_dialog_6">
+		<text>Ну что, Макс? И-ик... Что тут у-у вас происходит вообще?</text>
+		</string>
+		<string id="freedom_2_dialog_71">
+		<text>Да вот, недавно Лукаш попросил сбегать на Барьер... Говорил беда у них там какая-то... Ну я прихватил во-от этих вот обезьян, которые за костром сидят, видишь? Ну и на Барьер... А так - массированная атака зомби! Штук 50 наверное... Потеряли только снайпера, хотя я думал все поляжем. Ну а зоммбированные - живучие гады, поэтому добивать хочешь-нехочешь, а нужно... Подхожу я значит к одному, а тот бормочет числа какие-то, несколько раз повторил, ну я "помог" бедняге. Когда вернулся - меня осинило, что эти цифры это координаты, только вот координаты чего? Вот тут...</text>
+		</string>
+		<string id="freedom_2_dialog_73">
+		<text>Да что тут у нас может происходить? Недавно план приносили - ачуметь! Если хочешь приобрести, то обращайся к Скряге - он знает где взять. А ты приходи еще, поболтаем...</text>
+		</string>
+		<string id="freedom_2_dialog_81">
+		<text>Да эти зомбики постоянно чтото бубнят. Необращай внимания</text>
+		</string>
+		<string id="freedom_2_dialog_82">
+		<text>Ну, до встречи! Идти мне надо.</text>
+		</string>
+		<string id="freedom_3_dialog_0">
+		<text>Приветствую мужики! Можно к вам?</text>
+		</string>
+		<string id="freedom_3_dialog_1">
+		<text>Здаровы были, Меченый! Ну ка, двинтесь парни, дайте место авторитетному!</text>
+		</string>
+		<string id="freedom_3_dialog_2">
+		<text>Спасибо за гостеприимство. Может по стопочке?</text>
+		</string>
+		<string id="freedom_3_dialog_3">
+		<text>Вот это я понимаю! Вон как раз для такого дела шашлычек жарится! Ну где "Это дело"?</text>
+		</string>
+		<string id="freedom_3_dialog_41">
+		<text>"Это дело" у меня всегда при себе! Держи! </text>
+		</string>
+		<string id="freedom_3_dialog_42">
+		<text>Куда же я ее засунул?... Короче гдето посеял. Шас к скряге сбегаю...</text>
+		</string>
+		<string id="freedom_3_dialog_5">
+		<text>Бррр... Ты где эту бодягу взял? Скажи точку - брать там всегда буду!</text>
+		</string>
+		<string id="freedom_3_dialog_6">
+		<text>Да..! Не говори - лучшая из который я пил! Я ее в нычке нашел, тут не подалеку...</text>
+		</string>
+		<string id="freedom_3_dialog_71">
+		<text>Слушай, а может это Повар наш ее заныкал на черный день? Пили как то с ним, так он проговорился что во-от тут разгружается. Он же у нас дегустатор! Может сбегаешь? Будет продолжение банкета!</text>
+		</string>
+		<string id="freedom_3_dialog_73">
+		<text>Жаль, а то бы я ящиками ее выкупил, зачетная водичка! Ну если будет еще - приходи! А я на боковую.</text>
+		</string>
+		<string id="freedom_3_dialog_81">
+		<text>Да... Повар наверное чемпион по литрболу в зоне... Ну увидимся...</text>
+		</string>
+		<string id="freedom_3_dialog_82">
+		<text>Конечно приду... ну гуд лак!</text>
+		</string>
+		<string id="freedom_4_dialog_0">
+		<text>Привет! Что скучаешь? Что расстроенный такой?</text>
+		</string>
+		<string id="freedom_4_dialog_1">
+		<text>Привет, Меченый. Да что же тут не скучать то? Артефактов нет, баб нет, водки нет...</text>
+		</string>
+		<string id="freedom_4_dialog_2">
+		<text>А не скажи... У меня гдето валялось пол литра...</text>
+		</string>
+		<string id="freedom_4_dialog_3">
+		<text>Так чтож ты молчал то? Падай рядом, вскрывай свой рюкзак. Вот у меня пара стаканчиков есть.</text>
+		</string>
+		<string id="freedom_4_dialog_41">
+		<text>Куда же я ее положил? Ах вот она - на дне самом! Выпьем и за баб, и за арты! </text>
+		</string>
+		<string id="freedom_4_dialog_42">
+		<text>Где же... куда я ее? Погоди тут пару минут шас сгоняю по одному адресу, будет чем поправить здоровье.</text>
+		</string>
+		<string id="freedom_4_dialog_5">
+		<text>Ниче так у тебя арсенальчик... Покруче нашего будет... Стаканчики маленькие. Ну пьем за прекрасный пол!</text>
+		</string>
+		<string id="freedom_4_dialog_6">
+		<text>Пьем!... уух хорошо пошла! Что слышно?</text>
+		</string>
+		<string id="freedom_4_dialog_71">
+		<text>Да вот, недавно посылали группу, и я в том числе, в Темную Долину, разведать проход туда прямо со Складов, сам понимаешь, мы тут как в клетке - с одной тороны Долг, с другой Выжигатель. Дело было по вечеру. Ну так вот наблюдали такую картину - быстрее пули бежит жиган бежит... ну мы в непонятках. Видимо он нас заметил и на нас вектор сменил - у нас челюсти поотвисали, думаем что за Рембо? Тут наш глазастый Роман говорит: "он там не один бежит", ну он м тепловизором шел. Мы пригляделись - и в правду... позади него как будто воздух искажался. Подбежал он еще на метров 20 - тут мы поняли что дело плохо - за ним 4 кровососа!!! Пришлось положить всех, включая урку. Видать шестерка какая-то. В КПК нашли точку на карте вот тут, без коментариев. У бедного бандюги джинсы все коричневые были - обсерился. Да любой бы на его месте пересрался бы с испугу.</text>
+		</string>
+		<string id="freedom_4_dialog_73">
+		<text>Постоянно слышно крики гдето тут неподалеку. Жудь прямо. А если по сути я как то не в курсе того что тут происходит.</text>
+		</string>
+		<string id="freedom_4_dialog_81">
+		<text>Мда, неповезло парню. Ну что давай на посошок и я пошел.</text>
+		</string>
+		<string id="freedom_4_dialog_82">
+		<text>Ну тогда на посошок, и на боковую, устал я сегодня...</text>
+		</string>
+		<string id="freedom_5_dialog_0">
+		<text>Здарова, мужики!</text>
+		</string>
+		<string id="freedom_5_dialog_1">
+		<text>Да не ори ты так, жудкое это место... неуважения не любит. Не маяч ты, присаживайся. Чего хотел?</text>
+		</string>
+		<string id="freedom_5_dialog_2">
+		<text>Да думал вот выпить с мужиками...</text>
+		</string>
+		<string id="freedom_5_dialog_3">
+		<text>Ну это как раз кстати, а то мы тут уже замерзли. Достовай родимую.</text>
+		</string>
+		<string id="freedom_5_dialog_41">
+		<text>Вот, держи.</text>
+		</string>
+		<string id="freedom_5_dialog_42">
+		<text>Ну мужики, я думал вы меня угостите. Ладно сбегаю щас на базу, зацеплю бутылочку.</text>
+		</string>
+		<string id="freedom_5_dialog_5">
+		<text>Уважаю, не дал умереть от холода... А мы тут сидим ждем ребят ждем... пошли в деревню зачищать логово кровососов... видать больше мы их не увидим... жаль парней... мда. </text>
+		</string>
+		<string id="freedom_5_dialog_6">
+		<text>Мда, у мня волосы на заднице дыбом уже стоят. Даже водка не помогает. А что тут еще происходит?</text>
+		</string>
+		<string id="freedom_5_dialog_71">
+		<text>Ооо, ты священную тему затронул. Про это место столько легенд ходит. До выброса 2006 года эта деревня была похожа на деревню новичков как на Кордоне, и брат мой там жил. Все жили тихо мирно... Как вдруг грянул выброс такой силы, что выжить удолось далеко не всем... крики... волны мутантов перли со стороны барьера, одна за другой. Выброс был гдето минут 10-15, а казалось все 3 часа, многие тогда потеряли своих друзей, на следующий день нас отправили забрать трупы и похоронить, да мы бы это и без приказов сделали бы... Нашел я своего брата, понимаешь, своего родного брата, лежал он в подвале, смотреть было жалко. Взял я себе его ствол, вот видишь как блестит, и КПК. В КПК я нашел единственную отметку на карте вот здесь, и еще записку адресованную мне, но это уже личное.</text>
+		</string>
+		<string id="freedom_5_dialog_73">
+		<text>Да много тут чего происходит... А вообще пореже ты сюда заходи - тут тебе весь зверинец зоны. Тут и кровососы, и бюреры, и контролеры, и собаки, даже химеры бывает заглядывают...</text>
+		</string>
+		<string id="freedom_5_dialog_81">
+		<text>Мда, сочувстую, извини. Ну давай на посошок, у меня тут дел не в проворот.</text>
+		</string>
+		<string id="freedom_5_dialog_82">
+		<text>Спасибо за совет, но как нибудь еще увидимся.</text>
+		</string>
+		<string id="freedom_6_dialog_0">
+		<text>Здарова, хлопец. Есть че закусить?</text>
+		</string>
+		<string id="freedom_6_dialog_1">
+		<text>Есть, а что?</text>
+		</string>
+		<string id="freedom_6_dialog_2">
+		<text>А есть что выпить?</text>
+		</string>
+		<string id="freedom_6_dialog_3">
+		<text>Was nicht da ist, ist nicht da...</text>
+		</string>
+		<string id="freedom_6_dialog_41">
+		<text>Ну вот видешь? Что бы мы без друг друга делали? Уже сообразили поляну... держи стакан! За что пить будем?</text>
+		</string>
+		<string id="freedom_6_dialog_42">
+		<text>Schade, ich hab auch nichts.</text>
+		</string>
+		<string id="freedom_6_dialog_5">
+		<text>Оперативно однако. Будем пить за то чтобы всегда были такие люди как ты, и чтобы они всегда находили таких людей как я! Ну давай! Уух горькая зараза!</text>
+		</string>
+		<string id="freedom_6_dialog_6">
+		<text>Не говори... Жжет! ты может быть знаешь, случаем, того, чего я не знаю, а?</text>
+		</string>
+		<string id="freedom_6_dialog_71">
+		<text>Ну, брателла, ты наверное тут всю зону сам исколесил... Нет? Ты что нибудь знаешь о Мертвом Городе? Нет? Там основная база наемников. Взяли меня в плен где-то пол года назад . Ну все по правилам киллерского дела - мешок на голову, прикладом по чайнику и повезли в неизвестном направлении... Привезли, начали выпытывать из меня как пробраться к нам на базу в тихую... ну я естественно ни слова им не сказал. Оставили меня на ночь в клетке. На против меня еще двое были... один кстати очень на тебя был похож... чета там общались на счет как оттуда слинять... заметил я там карту зоны... точки какието, ну запомнить смог только одну вот здесь вот вроде она была... потом меня выволокли и по башке дали прикладом, очнулся уже в машине, с капюшоном на голове. Выволокли, поставили на краю обрыва, говорят типа - последнее желание... и тут, к моему счастью - выброс... пришлось спрыгнуть. Это оказалось какоето болото, посреди болота - вагончик, в нем переждал выброс. Оказалось привезли они меня на Агропром... еле до дома добрался... Рассказал всем - не поверили, ибо я сильно не трезвый был, сам понимаешь, пережить такое...</text>
+		</string>
+		<string id="freedom_6_dialog_73">
+		<text>Ой, да куда мне? Я тут целыми меня сюда только неделю назад поставили, так что ниче тут интересного не видел. Приходи позже, может че и разузнаю.</text>
+		</string>
+		<string id="freedom_6_dialog_81">
+		<text>Echt interessant. Ein Wunder, das du ьberhaupt am Leben geblieben bist. Na dann, bis spдter.</text>
+		</string>
+		<string id="freedom_6_dialog_82">
+		<text>Gut, vielleicht mache ich das. Man sieht sich.</text>
+		</string>
+		<string id="freedom_7_dialog_0">
+		<text>Warum bist du denn so bleich im Gesicht?</text>
+		</string>
+		<string id="freedom_7_dialog_1">
+		<text>Saukalt ist es heute...</text>
+		</string>
+		<string id="freedom_7_dialog_2">
+		<text>Und warum wдrmst du dich nicht auf?</text>
+		</string>
+		<string id="freedom_7_dialog_3">
+		<text>Wenn ich was zum aufwдrmen hдtte...</text>
+		</string>
+		<string id="freedom_7_dialog_41">
+		<text>Da kann ich dir helfen. Ich hab was da. Auf was trinken wir?</text>
+		</string>
+		<string id="freedom_7_dialog_42">
+		<text>Ich friere heute auch. Dachte, mich wдrmt vielleicht einer auf...</text>
+		</string>
+		<string id="freedom_7_dialog_5">
+		<text>Darauf, das wir morgen noch was haben, auf was wir trinken kцnnen! Ufff, starkes Zeug! Hier, ne Wurst als Zukost...</text>
+		</string>
+		<string id="freedom_7_dialog_6">
+		<text>Danke, danke. Hцr mal, wo gibt es hier was zu holen?</text>
+		</string>
+		<string id="freedom_7_dialog_71">
+		<text>Ну с этим сейчас у всех проблемы. говорят есть хабарок за барьером, но суваться туда опасно. Убедился на соем опыте - денего небыло, много кому должен был, ну судьба вынудила двинуться за барьер. Иду... вокруг тишина... смотрю чтото впереди шевелится, ну я за камень. Запнулся, оказался лицом к лицу с давним знакомым моим, пропал он давно уже, только сейчас он уже полуразложившийся был, как вспомню блевать тянет. Ну он был авторитетным сталкером, ВАЛ-ом сумел разжиться. Ну я рюкзак с него снял, зечем, думаю, он ему нужен..? Только приподнялся - смотрю монолитовцы общаются с мычащими... Втирают им типа "Во имя монолита...", тьфу, ну я быстрым ходом в обратном направлении... и буквально через пол часа отбивались от полусотни зомбей. Вот так вот. В КПК нашел пару схронов вот тут и тут. Вот этот я по пути обчистил, а до другого в лень идти, да и нагружен был под самое нихачу, и в местах тех я не разу небыл...</text>
+		</string>
+		<string id="freedom_7_dialog_73">
+		<text>Na ja, man sagt, frьher gab es bei Agroprom Berge von Artefakten, wie es jetzt da aussieht weiЯ ich nicht. Na dann, schau mal bei uns vorbei, wenn was ist.</text>
+		</string>
+		<string id="freedom_7_dialog_81">
+		<text>Hast ja richtig Glьck gehabt. Sei nдchstes Mal lieber vorsichtiger. Na gut, ich breche wieder auf. Schlaf nicht ein, sonst erfrierst du noch. Bis dann!</text>
+		</string>
+		<string id="freedom_7_dialog_82">
+		<text>Ну ладно, зайду как нибудь.</text>
+		</string>

@@ -1,0 +1,93 @@
+--TB3D 1.1.0.0.1.0 localized give_game_news, level cleaner, name in binder , removed sak, db.spawn_net_packet/destroy_net_packet, clear callbacks, debug
+function my_ver() return "1.1.0.0.1.0" end
+-- original idea by Monnoroch
+-- base script by Malandrinus
+-- scripting by Shadowman
+local force_obinder = TB3D_Modders.use_pda_obinder				--110010, calls into game binder (alife)
+if force_binder == nil then force_binder = true end
+
+function init(obj)
+    local new_binder = my_binder(obj)
+    obj:bind_object(new_binder)
+end
+
+class "my_binder" (object_binder)
+function my_binder:__init(obj) super(obj)
+	--get_console():execute("my_binder:__init")
+end 
+
+function my_binder:reload(section)
+	--get_console():execute("my_binder:reload")
+    if force_obinder then object_binder.reload(self, section) end				--110010
+end
+
+function my_binder:reinit()
+	--get_console():execute("my_binder:reinit")
+    if force_obinder then object_binder.reinit(self) end			--110010
+	db.init_my_storage(self.object)
+    self.object:set_callback(callback.use_object, self.use_callback,   self)
+end
+
+--[[function my_binder:update(delta)
+    local actor_pos = db.actor:position()
+    local obj_pos = self.object:position()
+    local dist = actor_pos:distance_to(obj_pos)
+--    get_console():execute("my_binder:update_dist="..dist.."_delta="..delta)
+    --object_binder.update(self, delta)
+end]]
+
+function my_binder:net_spawn(data)
+    if TB3D_Modders.Global_Debug then
+		TB3D_Services.abort_alert("NET PACKET PDA: my_binder:net_spawn["..utils.to_str(self.object:name()).."]")
+	end
+	db.spawn_net_packet(self.object)											--109940
+    --db.add_obj(self.object)
+	--TB3D_Services.abort_alert("NET PACKET PDA: my_binder:net_spawn["..utils.to_str(self.object:name()).."] gps load")
+    gps_habar.on_game_load() --idler++--
+	--TB3D_Services.abort_alert("NET PACKET PDA: my_binder:net_spawn["..utils.to_str(self.object:name()).."] sak tele")
+    sak.out_teleport()
+	--//difficulty_manager.deathStatChangeDifficulty()
+	--TB3D_Services.abort_alert("NET PACKET PDA: my_binder:net_spawn["..utils.to_str(self.object:name()).."] zombie")
+	if TB3D_Modders.zombie == true then	meceniy_work.prepare_for_work() end
+    if TB3D_Modders.Global_Debug then
+		TB3D_Services.abort_alert("NET PACKET PDA: net_spawn done["..utils.to_str(self.object:name()).."]")
+	end
+	if force_obinder then
+		return object_binder.net_spawn(self, data)				--110010
+	else
+		return true
+	end
+end
+
+function my_binder:net_destroy()
+	--get_console():execute("my_binder:net_destroy")
+    self.object:set_callback(callback.use_object, nil)			--109990
+	db.destroy_net_packet(self.object)											--109940
+    if force_obinder then object_binder.net_destroy(self) end				--110010
+end
+
+--[[function my_binder:net_save_relevant()
+--    get_console():execute("my_binder:net_save_relevant")
+    return true
+end]]
+
+function my_binder:save(packet)
+    if force_obinder then object_binder.save(self, packet) end			--110010
+    xr_logic.save_obj(self.object, packet)
+    --if TB3D_Modders.Global_Debug then
+		TB3D_Services.packet_alert("NET PACKET PDA: save["..utils.to_str(self.object:name()).."] packet size["..utils.to_str(packet:w_tell()).."]")
+	--end
+end
+
+function my_binder:load(reader)
+	TB3D_Services.abort_alert("NET PACKET PDA: loading for["..utils.to_str(self.object:name()).."]")
+    if force_obinder then object_binder.load(self, reader) end			--110010
+    xr_logic.load_obj(self.object, reader)
+    --if TB3D_Modders.Global_Debug then
+		TB3D_Services.abort_alert("NET PACKET PDA: loaded for["..utils.to_str(self.object:name()).."]")
+	--end
+end
+
+--[[function my_binder:use_callback(obj, who)
+--    get_console():execute("my_binder:use_callback")
+end]]

@@ -1,0 +1,1208 @@
+<!-- Ьbersetzt am 16.06.2008 durch Wlad Geschwendt aka 777-W.L.A.D. -->
+<!-- Letztes Update und eigene Ergдnzungen am 25.02.2015 -->
+
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+		<string id="prinesi_hvost_0">
+		<text>Sei gegrьЯt! Machst du hier jetzt auch Handel hier, oder was? Hast du Sidorowitsch dafьr schon Einstand bezahlt?</text>
+		</string>
+		<string id="prinesi_hvost_1">
+		<text>Hey! Ich versuche erst seit kurzem hier ein Geschдft aufzubauen, fьr Sidorowitsch bin ich gar keine Konkurrenz. Hцr mal, du sitzt ja nicht rum, sondern bist in der Zone unterwegs, triffst auf jede Menge Mutanten.\n \nKцnntest du mir 10 Wildschweinhufen oder 10 Hundeschwдnze besorgen? Ich hab jetzt einen Kunden fьr verschiedene Mutantenteile, er macht wohl Arzneien draus. Und die Anfдnger hier sind nicht wirklich nutzlich, wenn sie ein Schwein nur sehen, so haben sie schon Hosen voll. Aber was klauen - das kцnnen sie gut.\n \nWenn du mir die Teile besorgst, so werd ich dich gut bezahlen. Verlass dich drauf.</text>
+		</string>
+		<string id="prinesi_hvost_2">
+		<text>Dan, ich habe grade ganz zufдllig Wildschweinhufen ьber. Hier.</text>
+		</string>
+		<string id="prinesi_hvost_3">
+		<text>Dan, ich habe grade ganz zufдllig Hundeschwдnze ьber. Hier.</text>
+		</string>
+		<string id="prinesi_hvost_4">
+		<text>Hufen? Das ist toll, hier die Belohnung fьr dich.</text>
+		</string>
+		<string id="prinesi_hvost_5">
+		<text>Hundeschwдnze? Na gut, wenigstens etwas. Hier ist ein wenig Munition fьr dich.</text>
+		</string>
+		<string id="prinesi_hvost_6">
+		<text>Heute bin ich leer, aber ich denke daran.</text>
+		</string>
+		<string id="prinesi_hvost2_0">
+		<text>Hi! Brauchst du noch Hundeschwдnze und Wildschweinhufen?</text>
+		</string>
+		<string id="prinesi_hvost2_1">
+		<text>Aber klar. Mein Kunde will jetzt immer Nachschub haben, das Geschдft mit Arzneien lдuft wohl gut. Meine Leute kommen gar nicht nach mit der Jagd.\n \nWenn du also Ьberschuss hast, kaufe ich es dir immer gern ab. Verlass dich drauf.</text>
+		</string>
+		<string id="prinesi_hvost2_2">
+		<text>Hier, ich habe 10 Wildschweinhufen fьr dich.</text>
+		</string>
+		<string id="prinesi_hvost2_3">
+		<text>Dan, ich hab 10 Hundeschwдnze ьber. Hier.</text>
+		</string>
+		<string id="prinesi_hvost2_4">
+		<text>Hufen? Das ist toll, hier die Belohnung fьr dich. Man merkt sofort, das du ein Meister bist.</text>
+		</string>
+		<string id="prinesi_hvost2_5">
+		<text>Hundeschwдnze? Na gut, wenigstens etwas. Hier ist ein wenig Munition fьr dich.</text>
+		</string>
+		<string id="prinesi_hvost2_6">
+		<text>Heute bin ich leer, wollte nur mal plaudern.</text>
+		</string>
+		<string id="fox_bring_0">
+		<text>Wie geht es dir so, "Fuchs"?</text>
+		</string>
+		<string id="fox_bring_1">
+		<text>Wie soll's mir denn gehen? Die verdammten Hunde lassen mich nicht in Ruhe. Vielleicht hab ich ein besonderes Geruch an mir, vielleicht sind die lдufig - was weiЯ ich...\n \nЬbrigens, "Gezeichneter" - du kцnntest mir ein Gefallen tun. Bei dem Wдchter-Blockposten auf der Mьllhalde wurde fьr mich ein Packet hinterlassen. Ein neues Exoskelett.\n \nSei so gut, bring es mir, ok? Damit hab ich mehr Schutz gegen die Kцter, und bei der Menge Stiernacken hier in der Nдhe ist mehr Panzerung auch sinnvoll. Ich wьrd ja selbst gehen, wenn ich wieder zu Krдften gekommen bin, aber ich muЯ mich hier mit jemanden treffen.\n \nFrage den Feldwebel da, er sollte bescheid wissen.</text>
+		</string>
+		<string id="fox_bring_2">
+		<text>Keine Frage. Ich sprech mal mit dem Feldwebel. Guten Menschen soll man Gutes tun.</text>
+		</string>
+		<string id="fox_give_0">
+		<text>Hier, Fuchs. Ein Exo fьr dich, neu, wie aus dem Werk. Leder riecht, Gelenke glдnzen. Ein Mдrchen von einem Anzug. Stabsfelfebel, der Schurke, wollte den nicht einfach so rausrьcken. MuЯte erst mein Leben riskieren und Blutsauger jagen. Und du weЯt ja, was es heiЯt. Genau, das meine ich...</text>
+		</string>
+		<string id="fox_give_1">
+		<text>Ich danke dir, "Gezeichneter". Sollen die alle jetzt nur kommen, dann kriegen sie den Arsch voll. Hier hast du dafьr eine schцne Kanone, feines Spielzeug.</text>
+		</string>
+		<string id="prapor_bring_jaw_0">
+		<text>Hallo Feldwebel, vor kurzem sagte mir Fuchs, das dir ein Paket hinterlassen wurde, das fьr ihn bestimmt ist. Er braucht es jetzt, also rьck's raus.</text>
+		</string>
+		<string id="prapor_bring_jaw_1">
+		<text>Ja klar... Bin ich hier die Poststelle? Einfach so geht gar nichts. Bring mir ein Blutsauger-Gebiss, dann reden wir. Als Lagerungsgebьhr, sozusagen.</text>
+		</string>
+		<string id="prapor_bring_jaw_2">
+		<text>Nicht grade anstдndig von dir, aber was soll's. Werd ich besorgen. Ich hab Fuchs mein Versprechen gegeben, und ein Mann hдlt, was er versprochen hat.</text>
+		</string>
+		<string id="prapor_give_jaw_0">
+		<text>Tag auch. Sparen wir die Fragen nach Gesundheit, ok? Hier ist das Gebiss. Kannst dir dranhдngen, dann wird sich keiner hierdurch trauen.</text>
+		</string>
+		<string id="prapor_give_jaw_1">
+		<text>Danke, "Gezeichneter". Sei nicht so sauer. Ich hab das Gebiss dringend gebraucht, ich mache nдmlich ein heilendes Likцr daraus. Das erhдlt die Manneskraft auch bei hiesigen Strahlungslevel. Das Likцr geht mir schon zu Neige, und ich bin ja nicht mehr der Jungste.</text>
+		</string>
+		<string id="informator_pda_tiran_0">
+		<text>Hallo, Informatorium. Ich hab ein Geschдft fьr dich.</text>
+		</string>
+		<string id="informator_pda_tiran_1">
+		<text>Alle haben Geschдfte fьr mich. Meine Informationen nutzt die gesamte Zone.</text>
+		</string>
+		<string id="informator_pda_tiran_2">
+		<text>Irgendwie sehe ich hier keine Menschenschlange. Beruhige dich. Woronin schickt mich zu dir, er sagt - du kцnntest wissen, WER und wofьr "ReiЯzahn" getцtet hat.</text>
+		</string>
+		<string id="informator_pda_tiran_3">
+		<text>"Gezeichneter", du bist ein bekannter Mann in der Zone, aber denkst du wirklich, das du deswegen einfach so, kostenlos, Infos von mir bekommen kannst? So lдuft das nicht... Wenn du Infos willst - bezahle. In der letzten Zeit geht ein Gerьcht um: jemand soll PDA von "Thyran", den Sцldner-Anfьhrer, gestohlen haben. Ob er noch lebte, oder schon tot war dabei - keine Ahnung. Du verstehst, bestimmt, wieviele Daten drauf gespeichert sind und was diese Wert sind? Nach diesem PDA lдuft in Moment eine richtige Jagd. Freiheit, Wдchter, Banditen - alle wollen es in die Finger bekommen. Und ich - ich weiЯ, wo und wer dieses PDA hat! Wenn du ein Spaziergang machst und mir den PDA bringst, dann mache ich fьr dich ein Treffen aus. Mit einem wichtigen Mann, der wird dir alles erzдhlen, was er weiЯt. Und er weiЯt viel, glaub mir.</text>
+		</string>
+		<string id="informator_pda_tiran_4">
+		<text>Ich liebe Spaziergдnge... Wo ist der Kerl mit dem PDA?</text>
+		</string>
+		<string id="informator_pda_tiran_5">
+		<text>Also, im Kordon tauchte ein neuer Hдndler auf, direkt unter der Nase von dem alten Arschloch Sidorowitsch. Meine Informanten berichteten, das er irgendwie in die Sache verwickelt ist, und dieses PDA wahrscheinlich er hat.</text>
+		</string>
+		<string id="informator_pda_tiran_6">
+		<text>Was denn, Dan soll es sein? Gut, ich werde Dan mal besuchen. Wenn du mich aber verscheiЯerst, so wird es dir leid tun.</text>
+		</string>
+		<string id="informator_pda_bring_0">
+		<text>Hier ist dieses PDA, was alle wollen. Aber hцr mal, ich habe Stiernacken in Sцldner-Anzьgen getroffen! Was soll das denn jetzt?</text>
+		</string>
+		<string id="informator_pda_bring_1">
+		<text>Hast es also bekommen? Respekt. Du hдlst dein Wort. Ja, die Regierungs-Jungs wollen dieses PDA auch, da sie aber die Kastanien nicht gern selbst aus dem Feuer ziehen, bezahlen sie Sцldner fьr solche Auftrдge. Oder verkleiden halt eigene Leute als Sцldner. So sieht es aus, Bruder... Nun hцr mir aufmerksam zu. In der Freiheits-Basis in den Armeelagerhдusern triffst du dich mit Gabriel. Er wird in einer der Kasernen sein. Er wird dir alles ьber "ReiЯzahn" erzдhlen.</text>
+		</string>
+		<string id="informator_pda_bring_2">
+		<text>Was zum Teufel?!... Ein Sцldner in der Freiheitsbasis? Wird die Welt jetzt vollkommen verrьckt? Oder hab ich was verpasst?</text>
+		</string>
+		<string id="informator_pda_bring_3">
+		<text>Leise! Schrei nicht so, als ob du im Zaun feststeckst! Das ist ein gefдhrlicher Kerl... Er hat Beziehungen in der AuЯenwelt. Die meisten Waffen und Ausrьstung bekommt die "Freiheit" ьber ihn. Die waschen ihm die Fьsse und trinken danach das Wasser. Lassen kein Staubkorn auf ihn herabfallen. Und Gabriel selbst ist auch ein starker Kдmpfer. Mit Drohungen oder Gewalt wirst du bei ihm nicht weit kommen. Viel Glьck!\n \nЬbrigens, hier - nimm dieses Artefakt. Die meisten hier in der Bar halten mich fьr einen Abschneider. Dabei bin ich nur einer, der sparsam und berechnend ist.</text>
+		</string>
+		<string id="informator_pda_give_0">
+		<text>Hey, Dan! Ich bin hier, um mit dir ein wichtiges Geschдft zu regeln. Eine ernste Sache, die uns beide betrifft. Ich weiЯ genau, das du ein bestimmtes PDA hast, welches ich unbedingt brauche. Gibst du es mir - dann gehen wir im Frieden unsere Wege. Wenn nicht... ist deine Entscheidung.</text>
+		</string>
+		<string id="informator_pda_give_1">
+		<text>Ist ja gut, Meister "Gezeichneter", reg dich ab, ich kenn dich ja. Ich weiЯ, das du mich leicht fertig machen kannst, und da wird auch mein Exo nicht helfen. "Ghost" persцnlich war ja dein Lehrer.\n \nHier, nimm das Ding. Hat mir ein Kerl da gelassen, damit ich es aufbewahre. Ich war ihm ein Gefallen schuldig, und konnte nicht "Nein" sagen.</text>
+		</string>
+		<string id="informator_pda_give_2">
+		<text>Drohst du mir etwa?! Ich bring dir gleich "who is who" bei. Mit einer Ladung Blei!</text>
+		</string>
+		<string id="informator_pda_give_3">
+		<text>Mann, was fьr eine Erleichterung! Glaub mir, ich hatte gar nicht vor dich zu tцten, aber ich brauche dieses PDA wirklich sehr. Danke dir, Bruder, ich werde meine Schuld irgendwann doppelt begleichen.</text>
+		</string>
+		<string id="informator_pda_give_4">
+		<text>Gut, "Gezeichneter", ich merke mir das.</text>
+		</string>
+		<string id="gavr_take_first_0">
+		<text>Bist du Gabriel? Der Informator schickte mich zu dir.</text>
+		</string>
+		<string id="gavr_take_first_1">
+		<text>Oh! "Gezeichneter" ist da... Informator schickte mir eine Nachricht, das du den oder die Mцrder von "ReiЯzahn" suchst. Ich kann dir dabei helfen, aber nicht umsonst, natьrlich. Du muЯt fьr uns ein paar Auftrдge erledigen, die nicht grade sauber sind, aber gut bezahlt werden.</text>
+		</string>
+		<string id="gavr_take_first_2">
+		<text>Mann, wie ich das satt habe! Tцte den da, tцte diesen da... Bin ich etwa ein Zonen-Terminator? Und du kommst auch sofort damit an. Und wenn ich dir was durchschieЯe, was du nicht sehr nцtig hast? Wie siehst du das?</text>
+		</string>
+		<string id="gavr_take_first_3">
+		<text>Bruder, du verstehst doch, das ich dir tot nichts nutze, oder? Lass uns einfach das Geschдft durchsprechen. Du hast dem Informator das PDA gebracht. Aus den gespeicherten Dateien geht hervor, das in unseren Reihen sich eine Ratte befindet. Und diese Ratte kein einfacher Mitglied ist, sondern einer der Anfьhrer. Direkte Beweise dafьr gibt es nicht, deswegen kann ich noch nicht meine Jungs schicken und die Sache "klдren". Kommen nur Schuldzuweisungen, gegenseitige Verdдchtigungen und Krieg in der Gruppe dabei raus. Und du, als vцllig abgedrehter Rumstreuner, kommst da sehr gelegen. "Bolzen" - so heiЯt die Ratte - ist grad in der Nдhe, im Sцldnerlager hinter dem Bauernhof. Du muЯt sein PDA auch besorgen, dann haben wir klare Beweise fьr sein Verrat. Einverstanden? Eine gute Belohnung ist selbsverstдndlich.</text> 
+		</string>
+		<string id="gavr_take_first_4">
+		<text>Abgedrehter Rumstreuner?!... Fьr sowas kцnnte dein Kopf in einer Gallert-Pfьtze landen. Gut, ьberredet. Ich werd dir den "Taschenrechner" schon bringen.</text>
+		</string>
+		<string id="gavr_bring_pda_0">
+		<text>Hцr mal, du Hьhnerstall-Adler! Wo schickst du mich denn einfach so rein? Da gab's ja mehr Scharfschьtzen als es Zombies im Jantar gibt. Du hдttest mich warnen mьssen. Hier hast du, was du wolltest.</text>
+		</string>
+		<string id="gavr_bring_pda_1">
+		<text>Deine Worte verletzen mich sehr... Ich bin nдmlich ein sehr feinsinniger Mensch, weiЯt du. Du weiЯt doch selbst, das die Zone voller Дrger und Ьberraschungen ist. Egal, du hast die Sache erledigt, hier hast du was, um dir Wodka zu leisten. Geh, wohin du willst...</text>
+		</string>
+		<string id="freeman_help_one_0">
+		<text>Sehe ich richtig?! Gordon Freeman, hцchstpersцnlich! Hat man dich aus City 17 verjagt? Ich hab mal ein Gerьcht gehцrt, das du getцtet wurdest.</text>
+		</string>
+		<string id="freeman_help_one_1">
+		<text>Oh, Marked One! Hi! Ich gleich versuchen, in eurer Sprache. Grьsse! Ich schockiert bis jetzt. Ich erste Mal gewesen in Kordon, Mr. Sidorowitsch fьr mich bezahlt Explorer. Verstehen? Wegfьhrer. Wir lange gegangen, gewesen hier, dann Factory, und dann... Oh, shit! Ein Noise, sehr lange, im Kopf direkt. Ich schaue mein Wegfьhrer und er hat glдserne Eyes, und mir schlecht im Bauch und Kopf zerbrechen.\n \nDann Nebel im Kopf, ich meinem Fьhrer etwas sagen, und er stehen rum wie ein Mast, ja. Habe gesehen Tunnel, viel Anomalien inside. Aber ich gegangen rein, damit nicht mehr zerbrechen Kopf. Und da gefallen bin. Weiter can't remember. But als ich zu mir gekommen bin wieder, hab gesehen grosses Monster. Es in der Electro-Anomalie standing and it's... It's charging... Verstehen? Wie Batterie. Ich wollte weggehen, silently... But Monster detect my presence und mich schauen und laut knurren. Ich ganz schocking weglaufen. Without detector, without armor, without bolts.\n \nOh, I'm sorry, viele Worte... Ich wollen dir vorschlagen Mission. All my Stuff ich im Tunnel gelassen. Auch my geliebte Desert Eagle, pimped for 9x39 Munition. Wenn du mir bringst wieder my Gun, i'll give you some artifacts.</text>
+		</string>
+		<string id="freeman_help_one_2">
+		<text>Freeman, reg dich ab! Seit wann redest du so viel? Allein schon weil du hier bist, werde ich dir deine "Gun" schon finden.</text>
+		</string>
+		<string id="freeman_bring_one_0">
+		<text>Hey, Gordon! Na, gehts dir wieder besser? Hier ist deine Kanone. Gefдllt mir, ein richtiger Elefanten-Killer.</text>
+		</string>
+		<string id="freeman_bring_one_1">
+		<text>Oh! "Gezeichneter"! Ja, ja, ich bin jetzt entspannt. Gastfreundschaft gut, Wodka gut, Seele entspannt gut. Wir mit "Hunter" nun Freunde sind. Gehen zusammen jagen. Fьr meine Eagle mein Respekt dir, hier Bezahlung - wie versprochen.</text>
+		</string>
+		<string id="freeman_case_help_0">
+		<text>Ich sehe, du hast dich schon eingelebt. Gefдllt es dir hier beim Wirt? Pass aber auf und trink nicht zu viel auf Bruderschaft mit dem Wдchter da. Sonst wird die Jagd ausfallen. Und jagen solltest du, am besten, mit Barin. Dieser "Hunter" da ist nur zur Dekoration hier.</text>
+		</string>
+		<string id="freeman_case_help_1">
+		<text>Sehr gute Truppe hier, sehr gastfreundlich, ja... Euere Salzgurken sind sehr schmackhaft mit Wodka, ja...\n \nMister "Gezeichneter", hab sehr wichtiges Geschдft fьr Sie. Als mein Fьhrer und ich im "Rostok" waren, wir traffen einen Mann. Wie hieЯ er? Oh! Ich weiЯ wieder - James! Er zu uns sagte, er sei auch aus Amerika.\n \nWir tranken Wodka und ich habe da gelassen mein Koffer, zu Lagerung, ja... Mein Koffer sehr wichtig fьr mich, wichtige Dokumente. Diesem James traue ich nicht sehr. Aber ich hab jetzt Angst hinzugehen. Euere Zone sehr schrecklich.\n \nBringen Sie mir Koffer wieder, Mister "Gezeichneter", bitte, ja? Bei diese Haus-Baustelle, da ein Bauwagen steht. Da James versprochen hat, auf mich zu warten.</text>
+		</string>
+		<string id="freeman_case_help_2">
+		<text>Na gut, weil du so redegewandt bist. Wie hieЯ er nochmal? James? Ich wьrde auch keinem Auslдnder in der Zone trauen.</text>
+		</string>
+		<string id="freeman_james_speak_0">
+		<text>Hi, do you speak english? HeiЯt du nicht zufдllig James, Bond James? Hehe...</text>
+		</string> 
+		<string id="freeman_james_speak_1">
+		<text>Was geht dich das an, "Scarface"? Hau bloЯ ab hier! Keine Zeit mit dir zu reden. Ich warte hier auf wichtige Leute.</text>
+		</string> 
+		<string id="freeman_james_speak_2">
+		<text>Wie hast du mich genannt?! Wer bist du denn? Kriegst gleich ein paar in die Fresse, wenn du so weiter machst!</text>
+		</string> 
+		<string id="freeman_james_speak_3">
+		<text>Boooh, du nervst! Dann muЯ halt 'ne Ladung Blei dein Maul stopfen!</text>
+		</string>
+		<string id="freeman_case_bring_0">
+		<text>Freeman, so machst du hier nicht lange! Zu wem hast du mich denn geschickt? Hab fast das Gewehr ьberhitzt bei Gesprдch mit dem Typen da. Was soll das denn? Erklдr mir das mal!</text>
+		</string>
+		<string id="freeman_case_bring_1">
+		<text>Meister "Gezeichneter", was ist passiert? Bei Ihnen alles OK? Ich verstehe nicht gut.</text>
+		</string> 
+		<string id="freeman_case_bring_2">
+		<text>Dein James ist ein Bastard! Und die vier Stinktiere, die dabei waren, rissen die Mдuler zu weit auf. Und darum lutschen die jetzt Blei-Bonbons in der Hцlle. Hier ist dein Koffer.</text>
+		</string>
+		<string id="freeman_case_bring_3">
+		<text>Mir es sehr leid tut, "Gezeichneter", ich nicht gut ihn kannte. Ich nicht gewuЯt habe, das dieser Mann ScheiЯloch ist.</text>
+		</string> 
+		<string id="gavr_doc_radar_0">
+		<text>Und, Gabriel, wie geht es weiter?</text>
+		</string>
+		<string id="gavr_doc_radar_1">
+		<text>Weiter geht es folgendermaЯen, "Gezeichneter": ein "Monolither" sollte fьr uns wichtige Dokumente besorgen. Wir haben aber vor kurzem den Kontakt zu ihm verloren. Keine Verbindung mit seinem PDA mehr. Die letzte Nachricht kam an, als er am Hirnschmelzer war. Dann kam die Eruption, und ich denke, das er sich im Hirnschmelzer-Bunker versteckte. Deine Aufgabe ist ihn zu finden und die Dokumente hierher zu bringen. Alles klar? Wir wissen ja, das du ein PSI-Helm von den Eierkцpfen bekommen hast, der dich schьtzen kann.</text>
+		</string>
+		<string id="gavr_doc_radar_2">
+		<text>Ich glaube zwar nicht, das eine Eruption fьr "Monolither" gefдhrlich wдre... Ok, Gabriel, ich werde eueren Mann suchen.</text>
+		</string> 
+		<string id="gavr_doc_radar_bring_0">
+		<text>Tja, ich hab ihn gefunden, eueren "Monolither". Nur war er schon tot und, auЯerdem, schon ein Zombie. Da war ein Telepath zugange. Eklig... Hier sind deine Docs.</text>
+		</string> 
+		<string id="gavr_doc_radar_bring_1">
+		<text>So, so... Genau das, was wir brauchen... Du bist ja ein Profi, "Gezeichneter". Ich dachte nicht, ehrlich gesagt, das du es schaffst. Die Monolither bewachen ja alle Durchgдnge sehr ernst. Na ja, hier ist dein verdienter Lohn.</text>
+		</string>  
+		<string id="bland_flash_talk_0">
+		<text>Freeman, ich muЯ mit dir reden.</text>
+		</string>
+		<string id="bland_flash_talk_1">
+		<text>Was mцchtest du, "Gezeichneter"?</text>
+		</string>
+		<string id="bland_flash_talk_2">
+		<text>Seit dem ich die Umstдnde des Todes vom "ReiЯzahn" untersuche, tauchen auf meinem Weg immer mehr Sцldner auf. Erst Gabriel, dann "Bolzen", dann haben auslдndische Sцldner versucht mich umzubringen. Du weiЯt nicht zufдllig, woher sie kommen und was hier vor sich geht? Ich habe fьr Gabriel ein Dokument besorgt und hab's mir kopiert. Schau mal rein, vielleicht verstehst du mehr als ich, was da drin steht. Obwohl ich so ein Verdacht habe, das du hier auch nicht einfach so rumhдngst.</text>
+		</string> 
+		<string id="bland_flash_talk_3">
+		<text>Ich hab hier meine eigenen Aufgaben, "Gezeichneter". So... Interessant... Ich fang an zu verstehen... Aber die Daten sind unvollstдndig. \n Hцr zu, "Gezeichneter". In dem Koffer, den du mir gebracht hast, waren, komischerweise, auch Papiere und Dokumente von James. Daraus geht hervor, das bald ein supergeheimes Treffen der Sцldner-Anfьhrer ansteht. Es soll irgendwo im Dunklen Tal stattfinden. Auch ein gewisser "Blend" kommt zu diesem Treffen. Er hat wohl die fehlenden wichtigen Daten auf seinem Speicherstick. Die Sцldner machen es oft so, sie splitten die Dokumente und teilen diese zwischen den Anfьhrern auf, damit ihre Geheimnisse besser geschьtzt sind. Wir brauchen dieses Stick, um weiter zu kommen. Und beeil dich, bald kommen da auch die anderen Anfьhrer an, dann wird die Bewachung zu stark sein.</text>
+		</string>
+		<string id="bland_flash_talk_4">
+		<text>Deine Aussprache hat sich aber plцtzlich stark verbessert, Freeman. Seltsam, seltsam... Bald wird es wohl mehr Speichersticks als Hunde in der Zone geben. Na gut, ich werde es holen. Und ich hoffe, es wird uns helfen, endlich den Mцrder zu finden.</text>
+		</string>
+		<string id="bland_flash_bring_0">
+		<text>Ich hab Blend's Speicherstick mitgebracht. Hier.</text>
+		</string>
+		<string id="bland_flash_bring_1">
+		<text>Dann lass uns den mal in den PDA stecken. Ja.. Hier... Das dachte ich mir... Also, "Gezeichneter" - so sieht's aus: eine Sцldner-Bande, die grцЯtenteils aus Auslдndern besteht, hat beschlossen den "Monolith" in ihre Gewalt zu bringen. Keine Ahnung, wofьr... Kann aber nichts Gutes sein. "ReiЯzahn" wurde von ihnen, unter Vorspielung falscher Tatsachen, rekrutiert. Er war ja einer der wenigen, die Trips in den Zonenzentrum machten. Genau so ein Mann haben die Sцldner gebraucht und die gaben ihm Auftrдge, die angeblich von den Wissenschaftlern kamen. Du weiЯt doch bestimmt, das "ReiЯzahn" sich mit Elektronik auskannte und den Kollegen im mobilen Jantar-Labor half. Aber er schцpfte mit der Zeit Verdacht und find an tiefer zu graben. Es kam raus und er wurde eliminiert. Und den Befehl dazu gab ihr Hauptkoordinator hier in der Zone. Ohne seinen Wort fдllt bei den Sцldnern keine Entscheidung. Und wer ist das wohl? Genau...\n \nHier, ьbrigens, ein Geschenk von mir, weil du ein guter Mann bist, denke ich.</text>
+		</string>
+		<string id="bland_flash_bring_2">
+		<text>Danke, Freeman. Ich hatte ja schon den Verdacht, das Gabriel eine Filzlaus ist... Nun ist es sicher. Jetzt kriegt er den Arsch aufgerissen!</text>
+		</string> 
+		<string id="bland_flash_bring_3">
+		<text>Viel Glьck, "Gezeichneter". Sei vorsichtig.</text>
+		</string> 
+		<string id="freeman_braad_one_0">
+		<text>Na, wie geht es dir bei uns hier, Freeman?</text>
+		</string>
+		<string id="freeman_braad_one_1">
+		<text>Eigentlich gar nicht schlecht, ich hab zwar noch Kopfschmerzen vom gestern, aber es ist ok. Hast du vielleicht eine Salzgurke?\n \nUnd weiЯt du, "Gezeichneter", ich hab immer davon getrдumt ein Цkologe zu werden. Und ich hab noch nie einen Blutsauger gesehen...</text>
+		</string> 
+		<string id="freeman_braad_one_2">
+		<text>Das ist hier in der Zone doch kein Problem. Ich spiele heute mal einen Zauberer. "Mumba-Jumba, Abra-Kadabra!!!". Die Blutsauger werden nun geliefert! Geh raus, schau sie dir an.
+</text>
+		</string> 
+		<string id="gavr_final_dialog_0">
+		<text>Erkennst du mich wieder, Gabriel? WeiЯt du, warum ich hier bin?</text>
+		</string>
+		<string id="gavr_final_dialog_1">
+		<text>Warte, Strelok! Las uns noch reden! Trinken wir einen, ich hab hier noch eine Flache echten Cognac liegen. Ist die Sache mit userer Basis im Dunklen Tal dein Werk?</text>
+		</string>
+		<string id="gavr_final_dialog_2">
+		<text>GieЯ ein. Ich hab jetzt alle Zeit der Welt. Du bist ja derjenige, der nicht mehr lange zu leben hat. Und ja, ich war das. Und ich gab auch deinem Mitlдufer, "Blend", die letzte Цlung. Ich hab jetzt alle BeweiЯe deiner Schuld. Warum lieЯ du meinen Freund, "ReiЯzahn", tцten?</text>
+		</string>
+		<string id="gavr_final_dialog_3">
+		<text>Er hat eine Zeit lang fьr uns gearbeitet, ohne zu wissen, um was es geht. Wir lieЯen ihn im Glauben, das er Auftrдge fьr die Eierkцpfe erledigt. Haben ihn gut bezahlt und gaben ihm anfangs harmlose Aufgaben - verschiedene Messungen, Artefakte sammeln. Das Hauptziel war aber immer "Monolith". Wir suchten Wege, um zum "Monolith" zu gelangen. Und du, Strelok, sowie "ReiЯzahn" gehцren zu den wenigen, die da waren und die Mцglichkeiten wuЯten, um dahin zu kommen. Er hat aber Verdacht geschцpft, hat rumgeschnьffelt und wollte untertauchen. Wir wollten nicht, das Infos ьber uns bekannt werden, und ich habe persцnlich den Befehl fьr die Beseitigung vom "ReiЯzahn" gegeben. Ein Scharfschьtze hat auf ihn im Blutsauger-Dorf gewartet. Rest kennst du selbst...</text>
+		</string> 
+		<string id="gavr_final_dialog_4">
+		<text>Verdammt... ist es stickig hier... Du... Bastard... du... du... hast mich vergiftet... Korruptes Arschlll....</text>
+		</string>
+		<string id="gavr_final_dialog_5">
+		<text>Ruhe dich aus, Kumpel.</text>
+		</string>
+		<string id="gavr_finalend_dialog_0">
+		<text>A-a-a-h... mein Kopf... Wo bin ich hier? Ah, ich sehe schon... Du bist ein... Was war das, was hast du mit mir gemacht?..</text>
+		</string>
+		<string id="gavr_finalend_dialog_1">
+		<text>Entspann dich, das war nur ein Schlafmittel. Ich brauch dich noch lebend. Hast du dich ausgeruht? Vergiss doch "ReiЯzahn", mach dir lieber Sorgen um dich selbst.</text>
+		</string>
+		<string id="gavr_finalend_dialog_2">
+		<text>Vergessen, sagst du?!. Einfach so alles vergessen?!! Etwa so: "ReiЯzahn, du bist ein guter Mann, wir haben so viel zusammen durchgemacht, aber jetzt muЯ ich mich um sich selbst sorgen!" Schlдgst du mir etwa sowas vor?.. Dann merke dir, du Bastard - Strelok verrдt nicht die eigenen Leute.</text>
+		</string>
+		<string id="dan_priremont_dialog_0">
+		<text>Sag mal... Kannst du Sachen reparieren? Zum Beispiel Waffen oder Anzьge?</text>
+		</string> 
+		<string id="dan_priremont_dialog_1">
+		<text>Kann ich schon... Wenn ich nicht grade auf der Jagd bin, mache ich das sozusagen als Zeitvertreib.\n \nAber wenn du mein Kunde sein willst, musst du ersmal was fьr mich tun. Besorg mir zuerst 30 gewцhnliche PDA, ich mцchte unsere Leute damit ausrьsten. Dann reden wir ьber Reparaturen.</text>
+		</string>
+		<string id="dan_priremont_dialog_2">
+		<text>Na gut, dann versuche ich diese Menge an PDA aufzutreiben, weil lange hдlt mein Anzug ohne Reparatur nicht mehr durch.</text>
+		</string>
+		<string id="dan_repair_0">
+		<text>Dan, ich hab hier Arbeit fьr dich, du muЯt mal was reparieren.</text>
+		</string>
+		<string id="dan_repair_1">
+		<text>A-ha... Dann lass mal sehen, was du da hast. Aber denk dran, zahlen kцnnen muЯt du, eine zweite дhnliche Waffe brauch ich noch. Und wenn ich schon bei was dabei bin, dann verzцgert sich dies hier noch.\n </text>
+		</string>
+		<string id="dan_repair_2">
+		<text>Repariere die Waffe im ersten Slot.</text>
+		</string>
+		<string id="dan_repair_3">
+		<text>Repariere die Waffe im zweiten Slot.</text>
+		</string>
+		<string id="dan_repair_4">
+		<text>Repariere den Anzug.</text>
+		</string>
+		<string id="dan_repair_5">
+		<text>Mann, du hast ja Preise, da dreht man ja ab! Nein, lass mal...</text>
+		</string>
+		<string id="dan_repair_6">
+		<text>Hier, alles wieder in Ordnung!</text>
+		</string>
+		<string id="dan_repair_7">
+		<text>Alles erledigt. Nimm mit.</text>
+		</string>
+		<string id="dan_repair_8">
+		<text>Hmmm. Na gut. Aber wehe du vergiЯt mich...</text>
+		</string>
+		<string id="dan_repair_9">
+		<text>Nicht schlecht, du weiЯt wie man sowas macht.</text>
+		</string>
+		<string id="dan_repair_10">
+		<text>Kannst du noch etwas reparieren?</text>
+		</string>
+		<string id="dan_repair_11">
+		<text>Natьrlich. Ich hab ja hier kaum Kunden...\n \n</text>
+		</string>
+		<string id="dan_bring_pda_0">
+		<text>So, Dan... Ich hab die PDA gebracht, wie versprochen.</text>
+		</string>
+		<string id="dan_bring_pda_1">
+		<text>Spitze! Die brauche ich wirklich.</text>
+		</string>
+		<string id="dan_trade_buck_0">
+		<text>Hцr mal... Hast du, zufдllig, Schrot-Munition? Weil ich zwar eine Flinte habe, aber Patronen dazu kaum.</text>
+		</string>
+		<string id="dan_trade_buck_1">
+		<text>Ich hab vieles, auch Schrot... Geld will ich dafьr nicht haben, aber Artefakte und Mutanten-Kцrperteile nehme ich gern.\n \nFьr ein "Steinblut" bekommst du 2 Pдckchen Schrot. Fьr ein "Gravit" - 5 Pдckchen. und wenn du mir 2 Telepathenhдnde bringst - bekommst du ganze 8 Pдckchen.</text>
+		</string>
+		<string id="dan_trade_buck_2">
+		<text>Hier, Dan - ich habe ein "Steinblut". Dann her mit dem Schrot.</text>
+		</string>
+		<string id="dan_trade_buck_3">
+		<text>Ich hab grade vorhin ein "Gravit" gefunden, Dan. Kannst du haben.</text>
+		</string>
+		<string id="dan_trade_buck_4">
+		<text>Ob du glaubst oder nicht. Aber ich habe tatsдchlich 2 Telepathenhдnde im Rucksack. Das war ein hartes Stьck Arbeit, diese aufzutreiben, du kцnntest auch bisschen mehr dafьr geben.</text>
+		</string>
+		<string id="dan_trade_buck_5">
+		<text>Hier sind die Patronen, nachzдhlen muЯt du nicht. Alles ehrlich.</text>
+		</string>
+		<string id="dan_trade_buck_6">
+		<text>Oh, ein "Gravit"! Ich hab gerade einen Kunden dafьr...</text>
+		</string>
+		<string id="dan_trade_buck_7">
+		<text>Bruder, verstehe mich auch, Schrot ist hier eine gefragte Munition. Und auЯer mir hat die nur Sidor im Angebot, also kriegst du nur die abgesprochene Anzahl.\n \nNa gut, als Present lege ich noch ein paar Flaschen Wodka drauf.</text>
+		</string>
+		<string id="dan_trade_buck_8">
+		<text>Na gut, Dan, dann mache ich mich auf die Suche nach Artefakten. Oder nach einem Telepathen. Ich brauche dringend Schrot...</text>
+		</string>
+		<string id="dan_trade_buck2_0">
+		<text>Verkaufst du noch Munition fьr die Schrotflinten, Dan? Meine Vorrдte sind wieder mal erschцpft.</text>
+		</string>
+		<string id="dan_trade_buck2_1">
+		<text>Ja, klar. An Schrot mangelt es uns Jдgern nun wirklich nicht. Mein Tarif bleibt gleich - Artefakte oder Mutanten-Kцrperteile. \n \nFьr ein "Steinblut" bekommst du 2 Pдckchen Schrot.\n \nFьr ein "Gravit" gibt es 5 Pдckchen.\n \nUnd fьr 2 Telepathenhдnde ganze 8 Pдckchen.</text>
+		</string>
+		<string id="dan_trade_buck2_2">
+		<text>Hier, Dan - ein "Steinblut". Her mit dem Schrot.</text>
+		</string>
+		<string id="dan_trade_buck2_3">
+		<text>Ich hab ein "Gravit" fьr dich gefunden, Dan. Wo ist mein Schrot?</text>
+		</string>
+		<string id="dan_trade_buck2_4">
+		<text>So, Dan... Ich hab hier 2 Telepath-Hдnde. Mit Tuschkanos schiessen kann man das wirklich nicht vergleichen, du kцnntest auch bisschen mehr dafьr geben.</text>
+		</string>
+		<string id="dan_trade_buck2_5">
+		<text>Hier sind die Patronen, nachzдhlen muЯt du nicht. Alles ehrlich.</text>
+		</string>
+		<string id="dan_trade_buck2_6">
+		<text>Oh, ein "Gravit"! Ich hab gerade einen Kunden dafьr...</text>
+		</string>
+		<string id="dan_trade_buck2_7">
+		<text>Bruder, verstehe mich auch, Schrot ist hier eine gefragte Munition. Und auЯer mir hat die nur Sidor im Angebot, also kriegst du nur die abgesprochene Anzahl. Na ja, als Present, hast du hier noch ein paar Flдschchen. Genau richtig, um die Hirnmasse zu sдubern, nach der Telepath-Sache.</text>
+		</string>
+		<string id="dan_trade_buck2_8">
+		<text>Na gut, Dan, dann mache ich mich auf die Suche nach Artefakten. Oder nach einem Telepathen. Ich brauche dringend Schrot...</text>
+		</string>
+		<string id="dan_grab_helmet_0">
+		<text>Dan, wo bist du mit deinen Gedanken?</text>
+		</string>
+		<string id="dan_grab_helmet_1">
+		<text>Hцr zu, "Gezeichneter"... Ich bekam Informationen darьber, das in Kьrze auf der Militдrbasis im Agroprom irgendeine ungewцhnliche Lieferung eintreffen soll. Was das genau ist - das ist unbekannt, aber die Basis wird nun stark bewacht. Ich kenne dich als einen Draufgдnger und du pflegst keine besondere Liebe dem Militдr gegenьber...\n \nIch schlage dir vor, uns bei dem Ьberfall auf die Basis zu helfen, bereuen wirst du es garantiert nicht. Was meinst du dazu?</text>
+		</string>
+		<string id="dan_grab_helmet_2">
+		<text>Klingt sehr nach einer Falle, Dan... Kann ich dir dabei ьberhaupt trauen?</text>
+		</string>
+		<string id="dan_grab_helmet_3">
+		<text>"Gezeichneter", fьr wen hдlst du mich denn? Die Info ist sicher, Jungs wьrden nur noch auf dich warten, ansonsten ist schon alles vorbereitet. Wenn du nach Agroprom gehst, wird da auf dich "Arhara" mit seinem Team warten. Alles erfahrene Leute, jeder schon paar Jahre hier in der Zone... Irgendwann waren sie bei der "Freiheit", aber "Arhara" hatte Streit mit Lukasch... und ging mit einem Teil der Gruppe weg in die "freie Wirtschaft".</text>
+		</string>
+		<string id="dan_grab_helmet_4">
+		<text>Na gut, Dan, abgemacht. Die Stiernacken haben mir schon viel Nerv gekostet, daher kann man sie ein wenig scheuchen...</text>
+		</string>
+		<string id="yakut_agro_helmet_0">
+		<text>Bist du "Arhara"?</text>
+		</string>
+		<string id="yakut_agro_helmet_1">
+		<text>Und du - "Gezeichneter"? Ich grьЯe dich! Wir haben nur noch auf dich gewartet. Das ist der Plan: Wir gehen durch das Sьd-Tor rein und machen "sauber". Du nimmst dir den Hauptkomplex vor, und nimmst den Eierkцpfen das Packet ab.\n \nDer Chef der Forscher-Gruppe ist Iwashenko, wahrscheinlich hat er dieses Packet bei sich.</text>
+		</string>
+		<string id="yakut_agro_helmet_2">
+		<text>Ich sehe, ich hab schon wieder die "leichteste" Aufgabe. Na ja, bin ich schon gewohnt, lass uns aufbrechen.</text>
+		</string>
+		<string id="dan_bring_helmet_0">
+		<text>Dan, das war... Da war ja echt was los im Agroprom. War ganz knapp. Hier, es ist irgendein Top-Secret-Koffer. </text>
+		</string>
+		<string id="dan_bring_helmet_1">
+		<text>So-so... Wenn ich mich nicht irre... ist das... Ich glaube, wir haben echt Riesen-Glьck! Du bist echt in Ordnung, "Gezeichneter"! Hier, dieses Honorar hast du dir wirklich verdient. Ich werde hier ein wenig rumstochern, und du kannst, am besten, spдter vorbeikommen - dann erklдre ich dir, was es mit diesen Koffer auf sich hat.\n \nUnd noch was: "Arhara" bat mich dir auszurichten, das er nochmal mit dir sprechen mцchte. Schaue bei ihm vorbei...</text>
+		</string>
+			<string id="yakut_help_0">
+		<text>Hallo, "Arhara"! Dan hat mich gebeten bei dir vorbeizuschauen. Ist was passiert?</text>
+		</string>
+		<string id="yakut_help_1">
+		<text>Es sieht so aus, "Gezeichneter": Einer meiner Leute ging in die Agroprom-Katakomben... Schon vor zwei Tagen, und ist immer noch nicht zurьck. Du kennst es ja selber, da kriechen Mutanten rum, und Banditen sind da unten auch anzutreffen. Wahrscheinlich weilt er nicht mehr unter uns... Wie ьblich in der Zone - jeder Tag kann dein letzter sein...\n \nLeider hatte er ein Notizbuch mit wichtigen Infos dabei, welche nicht in fremde Hдnde gelangen dьrfen. Kannst du es zurьckholen?</text>
+		</string>
+		<string id="yakut_help_2">
+		<text>Und warum geht ihr nicht selbst da hin? Schick doch einen von deinen Leuten...</text>
+		</string>
+		<string id="yakut_help_3">
+		<text>So viele Jungs hab ich auch nicht mehr zu Verfьgung, die Banditen und Stiernacken sind in letzter Zeit sehr aktiv, da zдhlt jede Waffe. Ich darf meine Leute keinem Risiko aussetzen. Und du bist, wie ich mich ьberzeugen konnte, ein Meister seines Faches.\n \nHilf mir, ich werde dich dafьr mit Munition bezahlen. Wir haben da einen kleinen Vorrat, die Soldaten haben's mit uns "geteilt".</text>
+		</string>
+		<string id="yakut_help_4">
+		<text>Ok, ich gehe mal hin... Munition brauche ich wirklich.</text>
+		</string>
+		<string id="yakut_help_bring_0">
+		<text>Und, wie geht es dir hier? Alles in Ordnung?</text>
+		</string>
+		<string id="yakut_help_bring_1">
+		<text>Die Soldaten lassen uns keine Ruhe. Ich glaube, wir werden unsere Position wechseln mьssen und den Camp woanders aufschlagen...\n \nUnd, hast du es gefunden?</text>
+		</string>
+		<string id="yakut_help_bring_2">
+		<text>Ja, hab ich. Hier... Du hattest Recht, dein Mann ist tot, entweder tappte er selbst in eine "Elektra", oder jemand hat "geholfen". Und Telepathen sind da unten jetzt auch, frьher waren sie nicht da...</text>
+		</string>
+		<string id="yakut_help_bring_3">
+		<text>Danke, "Gezeichneter", du hast mir echt geholfen. Hier ist die versprochene Munition. Telepathen, sagst du? Shit, dann muЯ ich mein Beute-Versteck umlegen... Danke fьr die Warnung.</text>
+		</string>
+		<string id="yakut_need_do_0">
+		<text>Was gibt's noch, "Arhara"?</text>
+		</string>
+		<string id="yakut_need_do_1">
+		<text>Ich ьberlege grade was... Ich hab im Roten Wald, beim Radar, ein Rucksack-Versteck. Neben dem Hubschrauber, da ist noch so eine Metall-Box in der Nдhe. In dem Versteck liegen verschiedene Kleinigkeiten, die kцnntest du als Bezahlung behalten. Aber das wichtigste - da liegt mein Notebook drin. Viele Dinge sind da drauf gespeichert und ich brauche ihn dringend.\n \nKцnntest du den fьr mich holen? Oder warte mal, noch besser wдre es, wenn du das Notebook bei meinen Bruder, "Jakut", ablieferst.</text>
+		</string>
+		<string id="yakut_need_do_2">
+		<text>"Arhara", weЯt du, was du da redest? Wie soll ich denn da durchkommen? Die PSI-Einwirkungen machen doch mein Hirn zu Brei.... Und was fьr ein Bruder, wo sollte ich ihn, zum Teufel, suchen?</text>
+		</string>
+		<string id="yakut_need_do_3">
+		<text>Geh doch mal zum Dan, "Gezeichneter". WeЯt du noch, wir haben im Agroprom dieses Koffer erbeutet. Da war ein ganz nutzliches Ding drin, sagt Dan. Das wird dir helfen, damit kannst du dich von der PSI-Strahlung schьtzen.</text>
+		</string>
+		<string id="yakut_need_do_4">
+		<text>Verdammt... Gut, ich treffe mich mit Dan... Ich bezweifele trotzdem stark, das dieses "Ding", von dem du mir erzдhlst, mir da helfen kann.</text>
+		</string>
+		<string id="yakut_need_do_5">
+		<text>Mach dir keine Sorgen, Kamerad... Ich weЯ, wovon ich rede. Und meinen Bruder findest du bei den Lagerhдusern, er hдngt in letzter Zeit in dem Stalker-Camp rum.</text>
+		</string>
+		<string id="yakut_done_notebook_0">
+		<text>Bist du "Jakut"? Ich hab hier den Notebook deines Bruders...</text>
+		</string>
+		<string id="yakut_done_notebook_1">
+		<text>"Gezeichneter"! Du bist am Leben, verdammt! Ich hab schon fast die Hoffnung verloren... Und den Notebook hast du auch! Mein Bruder wird sich aber freuen... Du hast uns echt sehr geholfen, "Arhara" hat dich zurecht gelobt.</text>
+		</string>
+		<string id="yakut_done_notebook_2">
+		<text>Ist ja gut, irgendwie werden wir schon quitt. Die Gegend da ist aber wirklich hдЯlich, und diese Hunde...</text>
+		</string>
+		<string id="dan_nauch_flash_0">
+		<text>Und, Dan, was war denn nun in dem Koffer, was ich dir gebracht habe?</text>
+		</string>
+		<string id="dan_nauch_flash_1">
+		<text>Junge, du hast ein Prototyp des PSI-Schutz-Helmes erbeutet! Er war zwar nicht auf die richtige Frequenz eingestellt, aber ich hab ihn fast fertig justiert. Nur mir fehlen noch ein paar Informationen... Hцr mal, du hast doch vor in X-18 Labor zu gehen? Es gibt Berichte, das man in diesem Labor die Wirkung der PSI-Strahlung auf das menschliches Gehirn erforscht hat. Da gibt es bestimmt noch Daten darьber.\n \nWenn du im Labor irgendwelche Speichersticks oder Infos findest - bring diese mir bitte. Dann kann ich den Helm in Handumdrehen justieren.</text>
+		</string>
+		<string id="dan_nauch_flash_2">
+		<text>Na ja, ich muЯ ja sowieso dahin. Dann kann ich auch fьr dich ein Speicherstick suchen. Ich muЯ dringend zum Radar, und ohne Schutzhelm kommt man da nicht durch.</text>
+		</string>
+		<string id="dan_nauch_flash_bring_0">
+		<text>GrьЯ dich, Dan! Schau mal, ich hab ein Speicherstick im Labor gefunden. Nutzt der dir was?</text>
+		</string>
+		<string id="dan_nauch_flash_bring_1">
+		<text>Lass mal sehen... Aha... So.... Genau! Das ist es, was wir brauchen, "Gezeichneter". Warte, ich justiere den Helm zu Ende. Hier, fertig! Jetzt ist dieser Helm justiert und sollte dich vor der PSI-Strahlung schьtzen. Aber da wir nicht getestet haben, kann ich natьrlich nichts garantieren...\n \nAber ich hoffe, es klappt. Viel Glьck, "Gezeichneter"!</text>
+		</string>
+		<string id="uceh_about_prizrak_0">
+		<text>Warum bist du so nachdenklich?</text>
+		</string>
+		<string id="uceh_about_prizrak_1">
+		<text>"Gezeichneter", du hast doch im Labor eine Leiche gefunden, oder? Meinst du wirklich, das es "Ghosts" Kцrper war? Ich habe wirklich Zweifel, das "Ghost" einfach so draufgehen konnte. Ich kann einfach nicht glauben, das ein so erfahrener Stalker, wie "Ghost", es nicht schaffte mit einem Telepathen fertig zu werden.\n \nUnd eins sage ich dir noch: Als "Ghost" hier auftauchte, war er nicht allein. Er kam mit einem "Dietrich"... Und dieser "Dietrich" sah "Ghost" sehr, sehr дnlich aus... Wir haben die beiden immer verwechselt. Kannst du dich selber noch genau erinnern, wie "Ghost" aussah? Nein? Das meine ich doch... Konntest du dich geirrt haben?</text>
+		</string>
+		<string id="uceh_about_prizrak_2">
+		<text>Ich kцnnte mich auch irren, aber... ich habe hier ein Foto, und er sah ihm wirklich sehr дnlich aus. Auf was, zum Teufel, willst du hinaus?</text>
+		</string>
+		<string id="uceh_about_prizrak_3">
+		<text>Vor dem Erkundungsgang von Wasiliew und "Ghost" ins Labor, haben wir abends noch ein wenig getrunken, geredet... Ьber die Zone und den Monolithen, und all das... Er erzдhlte auch was ьber sich, wobei er echt nicht viel redete - er schwieg mehr und schaute sich nur stдndig um, mit seinem "Wolfsblick" - als ob er stдndig auf irgendwas wartete...\n \nKurzgesagt - "Ghost" erzдhlte, das alle Mitglieder der Gruppe von "Strelok" gejagt werden, und er auch schon paar Mal einem Attentat entkam. War einer der Grьnde, warum er hier, im Jantar, auftauchte... Ein gottverlassener Ort, kaum einer will hier sich blicken lassen, wegen den ganzen Zombies und Schnorks... Und mal lдuft der Gefahr, selbst zu einem "zombierten" zu werden. Ich habe ьber all seine Worte nachgedacht und fragte mich: wozu brauchte "Ghost" einen "Dietrich"? Er kennt die Zone besser als wir alle, hat Gefьhl fьr Anomalien, mit dem er fast ьberall mit geschlossenen Augen durchgehen kann. Ich habe "Ghost" sogar gefragt, ob sie Brьder sind - Eine Antwort war, das sie sich erst vor Kurzem in der Bar kennenlernten.\n \nWillst du wissen, was ich denke? Ich denke, er wollte das alle glauben, das er tot ist. Und im Labor liegt nicht "Ghost", sondern sein "Dietrich"... Dafьr denken jetzt alle, das "Ghost" umkam, und er ist untergetaucht.</text>
+		</string>
+		<string id="uceh_about_prizrak_4">
+		<text>Ich weiЯ nicht... Vielleicht hast du auch Recht... Hast du eine Idee, wo er sich verstecken kцnnte?</text>
+		</string>
+		<string id="uceh_about_prizrak_5">
+		<text>Er hat mir die Koordinaten seines Beute-Verstecks im Agroprom hinterlassen. Hat es mir auf dem PDA gespeichert - sagte, das wenn er nicht zurьckkehrt, sollen die guten Dinge nicht einfach so verkommen. Auch sein Tagebuch soll, angeblich, da drin liegen.\n \nDie Lage des Verstecks kцnnte ich dir auf den PDA laden... Wenn du da mal nachschauen wьrdest - so kцnnen wir vielleicht irgendein Hinweis finden, der dir helfen wьrde "Ghost" zu finden. Falls er noch am Leben ist...</text>
+		</string>
+		<string id="uceh_about_prizrak_6">
+		<text>Im Agroprom, sagst du? Kann ich mal hingehen, es kцnnte ja was dran sein...</text>
+		</string>
+		<string id="uceh_first_prizrak_0">
+		<text>Ich fand das Versteck... Es lag auch ein Tagebuch drin. Nur wurde es ziemlich beschдdigt, man kann kaum noch was lesen. Das einzige, was ich entziffern konnte - hier, ьber irgendwelche Person: "....du findest ihn bei den Lagerhдusern, nicht weit von der Freiheit-Basis."</text>
+		</string>
+		<string id="uceh_first_prizrak_1">
+		<text>Las mich mal schauen... Ja, man versteht wirklich kaum was... WeЯt du was, "Gezeichneter". Mach doch einen Ausflug in die Bar, frage da ein wenig rum, und ich werde solange mir das Tagebuch vornehmen. Vielleicht kann ich da noch mehr rausholen....</text>
+		</string>
+		<string id="uceh_first_prizrak_2">
+		<text>Gut, ich muЯ eh in die Bar zurьck, habe noch was mit dem Wirt zu erledigen, und ein paar Sachen einkaufen sollte ich auch... Ich hoffe, du wirst mit dem Tagebuch weiterkommen...</text>
+		</string>
+		<string id="barm_about_prizrak_0">
+		<text>Hallo Wirt! Darf ich dir ein paar Fragen stellen?</text>
+		</string>
+		<string id="barm_about_prizrak_1">
+		<text>Hey, "Gezeichneter"! Frag doch, ich werde dir schon antworten, wenn ich kann...</text>
+		</string>
+		<string id="barm_about_prizrak_2">
+		<text>Hast du mal "Ghost" gesehen? Man erzдhlt, das er hier war...</text>
+		</string>
+		<string id="barm_about_prizrak_3">
+		<text>Ja, war er. Vor einem Monat, oder noch mehr... Hat mich auch besucht. Er bat mich um ein Gefallen, es geht aber nur mich und "Ghost" was an...</text>
+		</string>
+		<string id="barm_about_prizrak_4">
+		<text>Komm, Wirt, lass die Geheimnisstuerei... Ich denke, ich weiЯ, was er von dir wollte... Einen "Dietrich", der ihm дhnlich sieht. Hab ich Recht?</text>
+		</string>
+		<string id="barm_about_prizrak_5">
+		<text>Langsam, "Gezeichneter"... Fьr Informationen muЯ man bezahlen. Machen wir es so: du bringst mir einen "Symbion" und ich erzдhle dir dafьr alles, was ich darьber weiЯ.</text>
+		</string>
+		<string id="barm_about_prizrak_6">
+		<text>Du bist kein Hдndler, du bist ein Halsabschneider! Ich melde mich wieder, wenn ich was finde.</text>
+		</string>
+		<string id="barm_simb_prizrak_0">
+		<text>Na, "Geschдftsmann", wie geht's? Ich hab ein "Symbion" fьr dich...</text>
+		</string>
+		<string id="barm_simb_prizrak_1">
+		<text>Hmmm! Du erfreust mich immer wieder... Ja, "Ghost" bat mich, eine Person zu finden, die ihm einigermaЯen дhnlich sieht... Eine schwere Aufgabe, bei seinem Aussehen - ich hatte keine grosse Hoffnungen, das ich seine Bitte erfьllen kann... Aber zwei Tage spдter haben die Wдchter, nicht weit von dem sьdlichen Blockposten, einen Kerl aufgelesen. Irgendwie fьhrte er sich verdдchtig auf... Spдter stellte sich heraus, das er 3 Tage nichts gegessen hat - angeblich verlor er all seine Ausrьstung, als ihn ein Blutsauger ьberfiel und er grade so noch flehen konnte. Mir war ja egal, ob er lьgt oder nicht. Hauptsache war, das er haargenau wie "Ghost" aussah. Hab ihm was zu essen gegeben, ein wenig was von der Austьstung auch. Dann kam "Ghost" an, sie sprachen miteinander und sind dann, zusammen, in Richtung Jantar abgehauen.\n \nDas wars, seit dem hab ich keinen von beiden mehr gesehen. Und spдter hцrte man Gerьchte, das "Ghost" ins Labor gegangen ist und nicht zurьckkam. Er bat mich, keinen was ьber den "Dietrich" zu erzдhlen - also hoffe ich, das es unter uns bleibt.\n \nAch, und noch was - Die Eierkцpfe baten mich dir auszurichten, das du mal im Jantar sich blicken lassen sollst. Sie haben irgendein Anliegen an dich.</text>
+		</string>
+		<string id="barm_simb_prizrak_2">
+		<text>Du kennst mich doch - ich bin ein "schweigsamer Typ". Diese Wissenschaftler... Wenn man denen einmal hilft, wird man sie nicht mehr los... Aber trotzdem - Danke.</text>
+		</string>
+		<string id="uceh_second_prizrak_0">
+		<text>Und, konntest du schon irgendwas entziffern?</text>
+		</string>
+		<string id="uceh_second_prizrak_1">
+		<text>Ich versuche, mit uns zu Verfьgung stehenden Mitteln, das Tagebuch wiederherzustellen... Aber, ehrlich gesagt, sind die Ergebnisse nicht berauschend.\n \nHцr mal, "Gezeichneter", du kцnntest uns helfen - bei einer der letzten Eruptionen hat unser Rechner den Geist aufgegeben. Wir konnten ihn zwar wieder starten, aber er arbeitet jetzt nur sporadisch. Ein neuer ist schon bestellt. Nur war der Hubschrauber schon mehrere Tage nicht da, wahrscheinlich stцren die Blowouts, in Moment, den Flugverkehr zu stark. Und wir sind ohne Rechner wie ohne Hдnde...\n \nUnd das Tagebuch von "Ghost" kann ich auch schneller entziffern, wenn ein Computer zu Verfьgung stehen wьrde...</text>
+		</string>
+		<string id="uceh_second_prizrak_2">
+		<text>Du hast ja Wьnsche!... Wo soll ich in der Zone ein Computer auftreiben?</text>
+		</string>
+		<string id="uceh_second_prizrak_3">
+		<text>Es gibt da einen Mann - "Arhara". Er hatte mir mal einen Rechner angeboten, aber wir haben es damals nicht gebraucht und abgelehnt.</text>
+		</string>
+		<string id="uceh_second_prizrak_4">
+		<text>Aah, "Arhara"... Er ist mein alter Bekannter. Ich rede mal mit ihm.</text>
+		</string>
+		<string id="arhara_system_prizrak_0">
+		<text>Hey, "Arhara", ich war zu Besuch bei den Eierkцpfen, sie erzдhlen - du hast ein Computer?</text>
+		</string>
+		<string id="arhara_system_prizrak_1">
+		<text>Hey, "Gezeichneter"! Ich hatte mal einen... Hab ich den "Wдchtern" verkauft. Ist weg...</text>
+		</string>
+		<string id="arhara_system_prizrak_2">
+		<text>Mann... Was soll ich nun machen? Wo kann ich jetzt ein Computer auftreiben?...</text>
+		</string>
+		<string id="arhara_system_prizrak_3">
+		<text>Na ja, es gibt schon ein Ort, wo man noch Rechner findet... Labor X-18. Da sollten noch welche sein...</text>
+		</string>
+		<string id="arhara_system_prizrak_4">
+		<text>Schon wieder die Bьrer besuchen?!?... Na gut, "Arhara", ich gehe jetzt mal, hab noch viel zu erledigen. Viel Glьck!</text>
+		</string>
+		<string id="uceh_system_prizrak_0">
+		<text>Hier... Ein Computer... Wenn du wьЯtest, wie lange ich dafьr rumrennen muЯte... Ich hoffe, es war nicht umsonst.</text>
+		</string>
+		<string id="uceh_system_prizrak_1">
+		<text>Du hast uns wirklich sehr geholfen, "Gezeichneter". Wir bekamen, nдmlich, eine Nachricht, das der Hubschrauber erst in 3 Tagen wiederkommt. Und unser Rechner hat jetzt vцllig den Dienst versagt. Schau mal, ich konnte hier einen Namen lesen: "Jakut"... bei... Lagerhдuser". Wer kцnnte es sein?\n \nAch so, das hier ist fьr deine Hilfe... Ein wenig Munition fьr Sniper-Gewehr.</text>
+		</string>
+		<string id="uceh_system_prizrak_2">
+		<text>"Jakut"? Den Mann kenne ich, ich werd mal mit ihm reden...</text>
+		</string>
+		<string id="yakut_first_prizrak_0">
+		<text>Sei gegrьЯt, "Jakut". Sag mal, kanntest du "Ghost"?</text>
+		</string>
+		<string id="yakut_first_prizrak_1">
+		<text>Wie soll ich es sagen... Ich kannte ihn irgendwann mal... Aber man erzдhlt, das er doch irgendwo im X-16 verschwunden ist?</text>
+		</string>
+		<string id="yakut_first_prizrak_2">
+		<text>Kann ja sein, das er verschwunden ist, aber manche Leute denken was anderes...</text>
+		</string>
+		<string id="yakut_first_prizrak_3">
+		<text>Es gibt da ein Platz... Kannst du ja da mal nach ihm suchen. Kennst du die Katakomben unter dem Agroprom? Sollte er am Leben sein, so kцnnte er sich, meiner Meinung nach, irgendwo da uten verstecken...</text>
+		</string>
+		<string id="yakut_first_prizrak_4">
+		<text>Agroprom-Untergrund, sagst du?... Ehrlich gesagt, glaube ich es nicht - wer will sich denn im Blutsauger-Nest verstecken. Nur ein Verrьckter oder ein vцllig Abgedrehter... "Ghost" war aber, wie ich es verstehe, nichts von beidem...</text>
+		</string>
+		<string id="yakut_second_prizrak_0">
+		<text>Tja, "Jakut"... "Ghost" war da nicht. Dafьr eine feine Empfangsgesellschaft aus Banditen, Blutsaugern und noch irgendwelchen seltsamen Personen, die mich nicht mit Blumen begrьЯten. Kurzgesagt, "Jakut" - da unten war ein Hinterhalt...</text>
+		</string>
+		<string id="yakut_second_prizrak_1">
+		<text>Hmmm... So wie es aussieht, bist du nicht der einzige, der nicht an "Ghosts" Tod glaubt... Ich kenne aber noch ein Plдtzchen, beim Radar. WeiЯt du wo der Eingang ins X-10 Labor ist? Da kцnnte er noch sein. Wenn nicht - dann weiЯ ich auch nicht mehr weiter, und kann dir nicht mehr helfen...</text>
+		</string>
+		<string id="yakut_second_prizrak_2">
+		<text>Beim Radar? Verdammt, da ist jetzt betimmt alles voll mit Militдrs. Aber ich werde das trotzdem prьfen...</text>
+		</string>
+		<string id="talk_prizrak_0">
+		<text>"Ghost", bist du es!?!! Verdammt, du hast die ganze Zone um die Nase gefьhrt!</text>
+		</string>
+		<string id="talk_prizrak_1">
+		<text>Strelok! Du! Und am Leben!!! Als du vermisst wurdest - hab ich nicht geglaubt, das du gestorben bist! Wir haben so viel zusammen durchgemacht... Du warst der Beste von uns. Ich hatte einfach immer dieses Gefьhl - das du am Leben bist... Ich bin so froh dich wiederzusehen!...</text>
+		</string>
+		<string id="talk_prizrak_2">
+		<text>Ich hab so viele Fragen, aber hier ist es nicht sehr ruhig - erzдhl mir wenigstens kurz, wie du es aus dem Labor geschafft hast... Und noch was - hier wurde ich "freundlich" empfangen, und bei Agroprom hat man auf dich wohl auch gewartet... Wer ist so sauer auf dich?</text>
+		</string>
+		<string id="talk_prizrak_3">
+		<text>Du weiЯt doch selbst - ich kann nicht gut erzдhlen... Aber ich versuch's mal... Wir sind zu dritt ins Labor gegangen: Wasiliew, ich und mein "Dietrich". Ich wuЯte nicht, ob wir die Gerдte abschalten kцnnen, oder nicht. Und, eigentlich, bin ich nur da rein gegangen, um meine Verfolger zu verwirren. Du weiЯt schon ьber meinen "Dietrich" bescheid? Ja, ich weiЯ, hab jetzt eine Sьnde mehr zu tragen, der Junge tut mir immer noch leid... Ich glaubte ja nicht, das du tot bist. Ich wollte dich suchen, aber ich wurde ьbeall verfolgt. Es gab kein Platz in der Zone, wo ich mich sicher fьhlen konnte. Aber nach dem Trick mit der Leiche wurde es ruhiger... Durch bestimmte Leute erfuhr ich, das du am Leben bist. Ich wollte erst sogar dich kontaktieren, aber hatte dann doch Angst, das die Jagd wieder losgeht. Und zwar nicht nur auf mich, sonder auch auf dich.\n \nDu weЯt schon bestimmt, das es eine, sogenannte, "Rдcher"-Fraktion gibt? Ich sag dir mal was: es sind gar keine "Rдcher", es sind gewцhnliche Sцldner. Tцten diejenigen, die "bestellt" werden. Geben sich aber mit Kleinigkeiten nicht ab. Wenn du auf deren Liste stehst - kannst du, sozusagen, "stolz" sein. Genau sie haben mich auch verfolgt. Man kann ihnen kaum entkommen, sie finden dich ьberall. Keine Fraktion will mit ihnen zu tun haben, sogar "Monolither" machen einen Bogen um sie. Ich weiЯ jetzt wer deren Anfьhrer ist - einer mit dem Spitznamen "Tier". Wenn man ihn tцtet - dann wird die Gruppe zerfallen... Meine Jungs haben berichtet, das "Tier" und seine rechte Hand "Schielauge" im Rostok aufgetaucht sind. Wollen da wohl eine Hauptbasis errichten. Ich schickte schon eine Sturmgruppe hin, aber ich befьrchte, das sie ohne deine Hilfe es nicht schaffen werden. Willst du helfen? Und eins ist sehr wichtig - man muЯ nicht nur "Tier" tцten, sondern auch sein Speicherstick besorgen, da wird die Liste aller Opfer drauf sein. Wir stehen, garantiert, auch drin...</text>
+		</string>
+		<string id="talk_prizrak_4">
+		<text>Mein Freund... Dein Krieg ist mein Krieg, dein Feind ist mein Feind. Ich bin fьr alles bereit.</text>
+		</string>
+		<string id="talk_prizrak_zver_0">
+		<text>Hallo, "Ghost"... "Tier" konnte entkommen, aber ich hab sein Speicherstick. Ich glaube, da ist eine Liste drauf, von denen die schon eliminiert wurden... oder noch dran sind. Wir kцnnen wohl "stolz" sein - ich bin der Erste auf der Liste, du stehst an zweiter Stelle...</text>
+		</string>
+		<string id="talk_prizrak_zver_1">
+		<text>Entkommen, sagst du?... Ist auch egal, er kann nirgendwo hin... Fьr den Speicherstick gilt dir mein Dank. Hier, nimm das - mein eigenes "Gauss"-Gewehr, ich fand es nicht weit von dem Zonenzentrum.  Lag wohl schon eine Zeit lang in einer "Gallert"-Pfьtze. Hab's ein wenig repariert, und jetzt ist es einfach eine Super-Kanone. Die Schussfolge ist beachtenswert...</text>
+		</string>
+		<string id="talk_prizrak_zverfinal_0">
+		<text>Wie sieht's aus, "Ghost"? Wissen wir jetzt, wo "Tier" ist?</text>
+		</string>
+		<string id="talk_prizrak_zverfinal_1">
+		<text>Ja. Jetzt werden wir ihn bestimmt schnappen. Man sagt, das er sich den Regierungs-Truppen stellen will und sein Wissen gegen Geleit aus der Zone umtauschen mцchtet. Kurz gesegt: er ist jetzt im Kordon, im Militдr-Blockposten. Die Bewachung ist streng, also wird da auf dich unser kleiner Sturmtrupp warten. Die Jungs sind alle Veteranen, ehmalige Speznaz-Leute, daher solltest du ihre Hilfe annehmen. "Tier" muЯ seine Liste mit den Namen der Auftraggeber bei sich haben. Sobald du diese hast - bring sie hierher.</text>
+		</string>
+		<string id="talk_prizrak_zverfinal_2">
+		<text>Gut, dann gehe ich mal los. Hoffentlich entwischt er uns nicht wieder.</text>
+		</string>
+		<string id="talk_prizrak_after_zver_0">
+		<text>Warum so traurig? "Tier" existiert nicht mehr. Und hier ist auch eine Liste der Hintermдnner.</text>
+		</string>
+		<string id="talk_prizrak_after_zver_1">
+		<text>Mir fehlen die Worte, Strelok... Hier, diese Scharfschьtzen-Munition wirst du bestimmt noch brauchen.... Also dann, Bruder, Monolith wartet schon auf dich... Viel Glьck!</text>
+		</string>
+		<string id="yakut_ograb_0">
+		<text>Ich grьЯe dich, "Jakut"! Mir ist was Schlimmes passiert... Ich hatte mich mit Gabriel in der Wolle, da hat er mich vergiftet oder so... Mein Kopf ist immer noch wie aus Blei. Als ich zu mir kam - sie haben es wohl nich bemerkt - schaute ich mich schnell um. All mein Zeug war weg, aus den Taschen, aus dem Rucksack - alles... Na ja, nach dem ich grade so die Lage klдren konnte, hab ich sie durchsucht... Aber nichts aus meiner Ausrьstung gefunden. Wo kцnnte sie sein? Das ist doch die Freiheits-Basis, also kann das keiner, auЯer "Freiheitler" haben, oder? </text>
+		</string>
+		<string id="yakut_ograb_1">
+		<text>Ich war kьrzlich geschдftlich unterwegs, und sah, wie ein paar Sцldner ein Rucksack hinter sich schleiften. Bistimmt zwei Zentner schwer, nicht weniger. Sie gingen aber nicht duch das Tor, sonder durch das Loch in der Mauer in der Ecke. Ich wollte noch eine Salve auf sie abgeben, aber sie waren viel zu schnell aus dem Schussfeld... Also hab ich von denen abgelassen. Jetzt ist mir klar, was es fьr Rucksack war... Hцr zu, hier ist doch, nicht weit entfernt, ein Sцldnerlager - hinter dem "Vampierhausen". Geh doch da hin, vielleicht findest du deine Sache da. Und eine gute Tat erbringst du auch damit, wenn du sie da ausrдucherst - viele gute Stalker haben sie, in letzter Zeit, erledigt. Als ob es nich genug wдre, das die ganzen Monster aus dem Zentrum der Zone hierher durchdringen... Da mьssen auch diese Wegelagerer auch noch Druck machen... Und Lukasch sollte man auch ein Wцrtchen sagen! Was soll das Ganze? Das soll eine Basis sein? Sцldner fьhlen sich da wie zu Hause... Andererseits - was wundert mich das? Jeden Abend ist die Hдlfte der Wachen besoffen, und die andere Hдlfte vollgekifft...</text>
+		</string>
+		<string id="yakut_ograb_2">
+		<text>Denen werd ich's aber zeigen, was 'ne Harke ist. Warte hier auf mich, ich bin bald zurьck.</text>
+		</string>
+		<string id="yakut_ograb_done_0">
+		<text>Hey, "Jakut"! Meine Sachen hab ich wieder, nur liegen sie jetzt in einer Kiste mit Codeschloss... Vielleicht schaffst du sie zu цffnen?</text>
+		</string>
+		<string id="yakut_ograb_done_1">
+		<text>Dann lass mal sehen... Warte... Aha! Erledigt...</text>
+		</string>
+		<string id="yakut_ograb_done_2">
+		<text>DAS ist alles?! Ich hab die halbe Zone umgebracht, hunderte Leichen pflastern meinen Weg, die Blutsauger machen um mich einen weiten Bogen - und DAS ist jetzt noch alles, was ich hab?!? WO? WO ist der Rest!?!</text>
+		</string>
+		<string id="yakut_ograb_done_3">
+		<text>Beruhige dich doch, "Gezeichneter"! Du hast sie doch alle umgebracht, wer soll dir jetzt noch darauf eine Antwort geben?... Na ja, wenigstens wirst du, mit leeren Taschen, von dem Monolithen nicht unter Bolzen-Flut begraben....</text>
+		</string>
+		<string id="rost_sysh_speak_0">
+		<text>Sei gegrьЯt... Sind alle versammelt?</text>
+		</string>
+		<string id="rost_sysh_speak_1">
+		<text>Ich grьЯe dich auch, "Gezeichneter". Es sind viele, und es sind wirklich Tiere. Es wird wohl mein letzter Kampf sein... Ich fьhle es, "Gezeichneter", "Ghost" hat es mir beigebracht auf die innere Stimme zu achten. Intuition ist in der Zone hilfreicher, als jeder Detektor... Ich fьhle, das ich am besten da nicht hingehen soll - aber ich kann es "Ghost" nicht absagen. Er rettete mir drei Mal das Leben, die Zeit ist wohl da, um die Rechnung zu begleichen...</text>
+		</string>
+		<string id="rost_sysh_speak_2">
+		<text>"Eule", was sind denn das fьr Gedanken? Wir werden es schon schaffen, Bruder... Na dann, lass uns langsam anfangen.</text>
+		</string>
+		<string id="prizrak_speak_sysh_0">
+		<text>"Ghost", das hier ist fьr dich...</text>
+		</string>
+		<string id="prizrak_speak_sysh_1">
+		<text>Die Nachricht von "Eule" hat mich wirklich berьhrt... Tja... Echt schade um ihn. Hab ich auch auf dein PDA geladen, kannst du lesen, wenn du mal Zeit hast.</text>
+		</string>
+		<string id="tirex_speak_0">
+		<text>Hey, Jungs! "Ghost" schickt mich zu euch... Wie ist die Lage?</text>
+		</string>
+		<string id="tirex_speak_1">
+		<text>Oh, "Gezeichneter" ist da! Alles gut soweit, es sind zwar viele Wachen da, aber wir schaffen es schon...</text>
+		</string>
+		<string id="tirex_speak_2">
+		<text>Na gut, macht die Kippen aus, wir brechen auf. Gibt gut acht, irgendwie hab ich ein schlechtes Gefьhl bei der Sache... Zu ruhig hier alles...</text>
+		</string>
+		<string id="sahar_speak_helmet_0">
+		<text>Doktor... Folgendes... Ich hab schon ein justiertes PSI-Helm.</text>
+		</string>
+		<string id="sahar_speak_helmet_1">
+		<text>Wie bitte?! Sie haben ein justiertes PSI-Schutz-Helm? Woher haben sie sowas, mein Guter?</text>
+		</string>
+		<string id="sahar_speak_helmet_2">
+		<text>Sagen wir so - von einer bestimmten Person.</text>
+		</string>
+		<string id="sahar_speak_helmet_3">
+		<text>Kцnnten Sie mir diesen Helm geben, damit ich ihn mit meinen Messresultaten vergleichen kann? Verstehen Sie mich bitte richtig, ...дmm, "Gezeichneter", ...aber wir erforschen das PSI-Problem schon lange, und unser Helm wird sie auf jeden Fall besser schьtzen. Wir mьssen nur noch die letzten Messungen durchfьhren. Und danach gebe ich Ihnen einen von uns justierten Helm, mir dem Sie auch bis zum AKW schaffen wьrden.\n \nSind Sie einverstanden?</text>
+		</string>
+		<string id="sahar_speak_helmet_4">
+		<text>Ja, Doktor, kein Problem. Hier...</text>
+		</string>
+		<string id="sahar_speak_helmet_5">
+		<text>Nein, Doktor, in Moment kann ich ihn nicht weggeben.</text>
+		</string>
+		<string id="sahar_speak_helmet_6">
+		<text>Danke! Und hier ist dafьr ein kleines Present von mir.</text>
+		</string>
+		<string id="yakut_proverka_0">
+		<text>"Jakut", ich wьrde gern mit dir mal reden...</text>
+		</string>
+		<string id="yakut_proverka_1">
+		<text>Tut mir leid, "Gezeichneter", ich hab jetzt keine Zeit. Aber Freeman wollte mit dir sprechen. Sagte, das er mir dir noch was zu regeln hдtte, und du aber nicht zu finden bist...</text>
+		</string>
+		<string id="zahar_larger_protect_0">
+		<text>Ich grьЯe dich! Bist du Zachar? Hast du ein Job fьr mich? Ich bin viel unterwegs...</text>
+		</string>
+		<string id="zahar_larger_protect_1">
+		<text>Es gibt da wirklich was, "Gezeichneter"... Es ist aber mit Risiko verbunden. Angst?</text>
+		</string>
+		<string id="zahar_larger_protect_2">
+		<text>Zachar, machst du Scherze? Wir gehen hier jede Minute Risiken ein, also... Ein Mal mehr oder weniger... Erzдhl schon.</text>
+		</string>
+		<string id="zahar_larger_protect_3">
+		<text>Es ist keine einfache Sache, aber fьr uns sehr wichtig. Du hast ja, wahrscheinlich, gesehen, das wir die verlassene Fabrik im Kordon eingenommen haben... Das ist, sozusagen, unsere sьdliche Basis. Dan ist da der Chef. Was du nicht wissen kannst - wir haben, in Moment, einen Konflikt mit Kopfgeldjдgern.\n \nAlle Einzeilheiten sind unwichtig, es ist nur so, das unsere Jungs die Zone besser, als alle anderen, kennen. Und die "Rдcher" haben einen meiner Jungs angeheuert, damit er sie zu einem bestimmten Ort fьhrt. Unterwegs wurden sie ьberfallen, und die ganze Gruppe kam um. Nur unser Kollege ьberlebte.\n \nJetzt denken sie, das es unsere Arbeit war und machen Druck. Wir haben wenig Leute und Kampferfahrung haben sie auch nicht. Wir machen, meistens, friedliche Geschдfte - Wissenschaftlern helfen, fьr sie Artefakte und Mutantenteile besorgen. Manchmal verdienen wir uns was als Fьhrer...\n \nKurz gesagt - dieses Lager im Kordon dьrfen wir nicht verleren, aber allein schaffen wir das nicht. Kannst du helfen?</text>
+		</string>
+		<string id="zahar_larger_protect_4">
+		<text>Gut, ich schaue im Kordon vorbei und helfe den Jungs. Dan scheint ein guter Mann zu sein.</text>
+		</string>
+		<string id="zahar_larger_protect_5">
+		<text>Zahar... Wie gesagt, Angst habe ich nicht. Aber ich will nicht in die Gruppen-Konflikte reingezogen werden. Tut mir leid.</text>
+		</string>
+
+		<string id="zahar_larger_protect2_0">
+		<text>Hallo, Hazar! Alles frisch?</text>
+		</string>
+		<string id="zahar_larger_protect2_1">
+		<text>Es geht, es geht... Sag mal, hast du es dir vielleicht inzwischen anders ьberlegt? Kannst uns nicht doch in der Sache mit den "Rдchern" helfen?</text>
+		</string>
+		<string id="zahar_larger_protect2_2">
+		<text>Also, ich weiЯ nicht, Zahar... Ist schon eine brenzlige Sache, wo du mich reinziehen willst.</text>
+		</string>
+		<string id="zahar_larger_protect2_3">
+		<text>Wir wollen das Ganze ja auch im Grunde gar nicht. Wir sind eine friedliche Gruppe. Aber wenn die Kopfgeldjдger sich im Kordon einnisten, haben nicht nur wir Jдger Probleme, glaub mir.</text>
+		</string>
+		<string id="zahar_larger_protect2_4">
+		<text>Na gut, ьberedet. Ich schaue im Kordon vorbei und helfe den Jungs. Dan ist ein guter Mann.</text>
+		</string>
+		<string id="zahar_larger_protect2_5">
+		<text>Nein, Zahar. Ich habe so viele eigene Probleme, eure mьsst ihr selbst lцsen.</text>
+		</string>
+
+		<string id="dan_larger_protect_0">
+		<text>Hallo, Dan... Zachar schickte mich zu dir. Er meint, irgendwelche Idioten wollen euch auf die Pelle?</text>
+		</string>
+		<string id="dan_larger_protect_1">
+		<text>Ja, stimmt. Die Kopfgelgjдger - die nennen sich selbst "Rдcher" - sind total frech geworden. Wollen uns aus der Fabrik verjagen. Hilfst du uns?</text>
+		</string>
+		<string id="dan_larger_protect_2">
+		<text>Na klar, ich bin dabei.</text>
+		</string>
+		<string id="zahar_larger_done_0">
+		<text>Hey, Zachar! Die Schдfchen sind wohlauf, die Wцlfe sind gefьttert. Mit Blei...</text>
+		</string>
+		<string id="zahar_larger_done_1">
+		<text>Danke dir. Ich hoffe, Dan ist OK?</text>
+		</string>
+		<string id="zahar_larger_done_2">
+		<text>Gesund und munter, was soll ihm schon passieren...</text>
+		</string>
+		<string id="zahar_larger_done_3">
+		<text>Du hast uns sehr geholfen! Hier, das ist fьr deine Arbeit.</text>
+		</string>
+		<string id="dan_znakom_0">
+		<text>Hey, Kumpel! Wer bist du denn?</text>
+		</string>
+		<string id="dan_znakom_1">
+		<text>Ich bin Dan, ein Jдger. Wir haben hier eine kleine Basis organisiert - kaufen den Stalker Artefakte und Mutantenteile ab, und jagen selber auch ein bisschen. Hier laufen zwar meistens nur Neulinge rum, aber auch erfahrene Stalker kommen vorbei. Manchmal schauen sogar die Stiernacken rein...</text>
+		</string>
+		<string id="dan_znakom_2">
+		<text>Und wieso hier, im Randgebiet der Zone? Die meisten erfahrenen Stalker halten sich doch weiter nцrdlich auf, hab ich gehцrt...</text>
+		</string>
+		<string id="dan_znakom_3">
+		<text>Unsere Hauptbasis ist ja auch viel weiter im Norden, genau neben der Bar "100 Rad", dank Professor Sacharow. Er hat fьr uns ein Wort bei Woronin eingelegt. Und hier ist sozusagen ein "AuЯenlager", fьr solche Neulinge wie dich. \n \nFalls du aber irgendwann bis zur Bar schaffst und an guten Geschдften interessiert bist, kannst du dich gern an Zachar wenden, unseren Anfьhrer. Er hдlt sich meistens im Wдchter-Gebiet auf.</text>
+		</string>
+		<string id="zahar_tade_art_0">
+		<text>Hey, Mann! Brauchst du vielleicht Artefakte?</text>
+		</string>
+		<string id="zahar_tade_art_1">
+		<text>Sicher. Aber nicht alle mцglichen... Wir kaufen sie fьr die Wissenschaftler auf. In Moment werden Artefakte "Kristall" und "Fleischklumpen" gebraucht. Fьr drei "Kristalle" geben wir dir in Tausch einen anderen Artefakt der hцchsten Wirkungsstufe, fьr drei "Fleischklumpen" - eine modifizierte Waffe. Und wenn dir ein "Gravit" in die Hдnde fдllt - dafьr bekommst du 3 "Antirads".</text>
+		</string>
+		<string id="zahar_tade_art_2">
+		<text>Zachar, ich hab hier gerade 3 "Kristalle", kannst du haben.</text>
+		</string>
+		<string id="zahar_tade_art_3">
+		<text>Hab 3 "Fleischklumpen" gefunden, extra fьr dich aufgehoben.</text>
+		</string>
+		<string id="zahar_tade_art_4">
+		<text>Hier hast du ein "Gravit". Mir sind die "Antirads" ausgegangen...</text>
+		</string>
+		<string id="zahar_tade_art_5">
+		<text>Das ist ja ein Glьck! Sacharow wird zufrieden sein - 3 "Kristalle" auf ein Mal. Du bist gut, Mann!</text>
+		</string>
+		<string id="zahar_tade_art_6">
+		<text>Ich wundere mich immer, wie du es schaffst die Artefakte aufzutreiben... Meine Nichtstuer finden hцchstens mal ein "Steinblut". Willst du bei uns eisteigen? Nein? Na ja, auch egal...</text>
+		</string>
+		<string id="zahar_tade_art_7">
+		<text>Ein "Gravit"? Auch nicht schlecht... Hier sind deine "Antirads".</text>
+		</string>
+		<string id="zahar_tade_art_8">
+		<text>Diesmal bin ich leer. War grade in der Gegend - dachte, ich schaue einfach mal vorbei...</text>
+		</string>
+		<string id="zahar_ask_help_0">
+		<text>Zachar, warum so traurige Mine? Gibt's Probleme?</text>
+		</string>
+		<string id="zahar_ask_help_1">
+		<text>Ach, wir haben schon wieder Schwierigkeiten... Wir haben frьher, einmal in der Woche, die Artefakte an die Wissenschaftler ьber Rostok geliefert. Aber jetzt hat sich da eine Gruppe Sцldner eingenistet, wir haben schon zwei Convoy's verloren, und, wenn man die Bastarde da nicht vertreibt, verlieren wir noch mehr Leute. Kannst du uns helfen, "Gezeichneter"?</text>
+		</string>
+		<string id="zahar_ask_help_2">
+		<text>Zachar, das sind eure Probleme. warum ziehst du mich da mit rein?</text>
+		</string>
+		<string id="zahar_ask_help_3">
+		<text>"Gezeichneter", du weiЯt doch - unsere Leute sind keine guten Kдmpfer, wenn wir das selbst versuchen, werden viele Jungs sterben. Und die Probleme mit Kopfgeldjдgern kommen auch noch dazu... Da zдhl hier jede Waffe.\n \nIch war schon bei Woronin und bat ihn um Hilfe, aber er sagte nur, wie immer: "Kann ich nichts machen. Alle Quads sind in wichtigen Einsдtzen". Hat mich abgewimmelt... Hilf uns, Kamerad... Du willst doch auch mal die Forscher eingermaЯen sicher besuchen, oder?</text>
+		</string>
+		<string id="zahar_ask_help_4">
+		<text>Na gut, ьberredet... Ist ja fьr eine gute Sache. Winsel nicht so rum...</text>
+		</string>
+		<string id="zahar_ask_help_5">
+		<text>Nein, Zahar. Die Sache im Kordon hat mir echt gereicht. Ihr mьsst damit sebst klar kommen.</text>
+		</string>
+		<string id="zahar_ask_done_0">
+		<text>So, der Durchgang im Wildgebiet ist wieder frei. Kugeln sind ein gutes Argument...</text>
+		</string>
+		<string id="zahar_ask_done_1">
+		<text>Du hast es geschafft? GroЯartig! Jetzt kцnnen wir wieder den direkten Weg nutzen. Der Umweg ьber Agroprom war sehr lang und unbequem...</text>
+		</string>
+		<string id="zahar_ask_done_2">
+		<text>Geht mich zwar nichts an, Zachar, aber ihr solltet im Rostok, vielleicht, einen Vorposten errichen. Weil die Sцldner ja auch wiederkommen kцnnten...</text>
+		</string>
+		<string id="zahar_ask_done_3">
+		<text>Ja, das ist eine gute Idee. Das muЯ ich mir mal durch den Kopf gehen lassen. Hier, das ist fьr deine Hilfe...</text>
+		</string>
+		<string id="zahar_radar1_dialog_0">
+		<text>Hallo! Sag mal, war "Dozent" heute schon bei dir?</text>
+		</string>
+		<string id="zahar_radar1_dialog_1">
+		<text>Ja, er schaute vorhin rein, hat mir etwas vorbeigebracht. Jetzt sitzt er bestimmmt wieder in seinem Keller und schmollt, weil wir uns ein wenig gestritten haben.</text>
+		</string>
+		<string id="zahar_radar1_dialog_2">
+		<text>Aha... Hцr mal, ich weiЯ schon Beischeid ьber dieses "Etwas". Hab dem "Dozent" mit den Teilen fьr dieses "Bioradar" geholfen. Jetzt wьrde ich das dir gern abkaufen. Bist du dazu bereit, und wenn, zu welchem Preis?</text>
+		</string>
+		<string id="zahar_radar1_dialog_3">
+		<text>Du willst das Ding kaufen? Na, von mir aus. Ich kann es in der Form nicht gebrauchen, wie der Pfuscher es zusammengeschustert hat. Du musst doch tatsдchlich immer ein Teil des Mutanten an das Gerдt dranhдngen, damit es diesen in der Umgebung lokalisieren kann. Einfach so erkennt es nur das Kriechzeug, wie Ratten zum Beispiel.\n \nKurz gesagt - nichts fьr unsere Zwecke. Wenn du es haben willst, fьr 100.000 Scheine gebe ich es dir ab.</text>
+		</string>
+		<string id="zahar_radar1_dialog_41">
+		<text>100.000 Rubel?! Und dabei wдr das Ding ohne meine Hilfe noch gar nicht fertig! Nein, Zahar, ohne mich.</text>
+		</string>
+		<string id="zahar_radar1_dialog_42">
+		<text>100.000 Rubel ist ein Batzen Geld. So viel habe ich in Moment nicht bei mir.</text>
+		</string>
+		<string id="zahar_radar1_dialog_43">
+		<text>100.000? Ganz schцn happig. Ach was solls, hier hast du das Geld. Her mit dem Ding.</text>
+		</string>
+		<string id="zahar_radar1_dialog_51">
+		<text>Musst du selber wissen. Du hast gefragt, ich habe dir mein Angebot gemacht.</text>
+		</string>
+		<string id="zahar_radar1_dialog_53">
+		<text>Alles klar. Hier hast du es. Schцn mit dir Geschдfte zu machen.</text>
+		</string>
+		<string id="zahar_radar1_dialog_6">
+		<text>Man sicht sich, Zahar.</text>
+		</string>
+		<string id="zahar_radar2_dialog_0">
+		<text>Ich hab mir was ьberlegt, Zahar... Verkaufst du noch das Bioradar?</text>
+		</string>
+		<string id="zahar_radar2_dialog_1">
+		<text>Wenn sich ein Kдufer findet, gebe ich es ab, ja. Kann das Ding nicht gebrauchen, ist fьr unsere Zwecke zu umstдndlich. Mein Preis kennst du ja schon - 100.000 Rubel, ohne Verhandlungen.</text>
+		</string>
+		<string id="zahar_radar2_dialog_41">
+		<text>Und ich dachte grade, ich kцnnte den Preis ein wenig drьcken. Aber fьr 100 Riesen? Ne, lass mal.</text>
+		</string>
+		<string id="zahar_radar2_dialog_42">
+		<text>Hab so viel grade nicht bei mir. Wollte nur wissen, ob du es noch hast.</text>
+		</string>
+		<string id="zahar_radar2_dialog_43">
+		<text>Geld ist nur Papier. Ich fьnde schon Verwendung dafьr. Her mit dem Ding.</text>
+		</string>
+		<string id="zahar_radar2_dialog_51">
+		<text>Musst du selber wissen. Du hast gefragt, ich habe dir mein Angebot gemacht.</text>
+		</string>
+		<string id="zahar_radar2_dialog_53">
+		<text>Alles klar. Hier hast du es. Schцn mit dir Geschдfte zu machen.</text>
+		</string>
+		<string id="zahar_radar2_dialog_6">
+		<text>Man sicht sich, Zahar.</text>
+		</string>
+		<string id="prapor_speak_group_0">
+		<text>Na, Feldwebel, was macht der Dienst?</text>
+		</string>
+		<string id="prapor_speak_group_1">
+		<text>Hцr mal, "Gezeichneter", ich hab hier was fьr dich. Gestern haben wir hier einen Banditen geschnappt. Wollte sich an uns vorbei ins Dunkle Tal schleichen.\n \nUnd der hatte einen Rucksack bei, mit einem PDA und anderen Kram.</text>
+		</string>
+		<string id="prapor_speak_group_2">
+		<text>Und was geht mich das an?</text>
+		</string>
+		<string id="prapor_speak_group_3">
+		<text>Na, dir macht es doch wohl Spass rumzuschnьffeln und nachzuforschen, oder nicht? \n \nIch habe es nicht geschafft, diesen PDA zu starten, aber vielleicht schaffst du es. Ich gebe dir den einfach so ab, Bruder... nur... wir brauchen hier dringend Forscher-Medikits. Strahlung ьberall und so, du verstehst schon.</text>
+		</string>
+		<string id="prapor_speak_group_4">
+		<text>Wieviele denn?</text>
+		</string>
+		<string id="prapor_speak_group_5">
+		<text>20 wдren OK. Was, zu viel? Na dann wenigstens 10. Kannst du sie uns besorgen?</text>
+		</string>
+		<string id="prapor_speak_group_6">
+		<text>Du bist echt ein Geizhals... Fьr ein PDA, was wohl auch noch kaputt ist, 10 Forscher-Medikits? Egal, warte auf mich hier, ich treibe sie schon auf.</text>
+		</string>
+		<string id="prapor_speak_group_7">
+		<text>Pfff... 10 Stьck? Fьr ein PDA? Ich lass mir das durch den Kopf gehen, spдter...</text>
+		</string>
+		<string id="prapor_speak_group_8">
+		<text>Deine Sache... Aber warte nicht zu lange, sonst findet sich bestimmt ein anderer, der Interesse dran hat.</text>
+		</string>
+		<string id="prapor_done_group_0">
+		<text>Hier, Feldwebel, ich habe die Medikits fьr euch.</text>
+		</string>
+		<string id="prapor_done_group_1">
+		<text>Danke, "Gezeichneter"... Die Medikits sind ja nicht fьr mich, sondern fьr meine Jungs. Woronin ist echt geizig, verteilt die Medikamente so knapp - knapper gehts nicht mehr. Da muЯ man sich halt selbst behelfen. Meine Mannschaft muЯ versorgt werden. Hier ist dieser PDA. So wie es aussieht, ist der wirklich defekt.\n \nFrag doch beim Wirt an, er hat zwei Bastler bei sich aufgenommen, sie kцnnen wohl alles mцgliche reparieren - Hauptsache der Wodka geht ihnen nicht aus...</text>
+		</string>
+		<string id="prapor_done_group_2">
+		<text>Du hast dir aber echt Zeit gelassen mit den Medikits, "Gezeichneter". Mittlerweile ist unser Bedarf hier gedeckt. Woronin konnte eine Lieferung von auЯerhalb organisieren und schickte uns aus der Bar einen Kurier, mit Medikamenten und anderem Zeug.</text>
+		</string>
+		
+		
+		
+		<string id="prapor_medis_later_0">
+		<text>Wieviele Medikamente wolltest du noch mal haben?</text>
+		</string>
+		<string id="prapor_medis_later_1">
+		<text>10 Forscher-Medikits. Du solltest dich beeilen, wenn du diesen PDA haben willst. Sonst finde ich jemand anderen.</text>
+		</string>
+		<string id="prapor_medis_later_2">
+		<text>Alles klar, wollte ich nur nochmal genau wissen. Ich melde mich vielleicht spдter.</text>
+		</string>
+		<string id="prapor_medis_later_3">
+		<text>Kannst du ruhig machen. Soviel ist mir dieser PDA nicht wert.</text>
+		</string>
+		<string id="prapor_medis_later_4">
+		<text>Ich habe diese Menge Medikits hier. Gib schon her den PDA.</text>
+		</string>
+		<string id="prapor_medis_later_5">
+		<text>Gut, ich versuche an diese Menge Medikits ranzukommen.</text>
+		</string>
+		<string id="prapor_medis_later_10">
+		<text>Danke, "Gezeichneter"... Die Medikits sind ja nicht fьr mich, sondern fьr meine Jungs. Woronin ist echt geizig, verteilt die Medikamente so knapp - knapper gehts nicht mehr. Da muЯ man sich halt selbst behelfen. Meine Mannschaft muЯ versorgt werden. Hier ist dieser PDA. So wie es aussieht, ist der wirklich defekt.\n \nFrag doch beim Wirt an, er hat zwei Bastler bei sich aufgenommen, sie kцnnen wohl alles mцgliche reparieren - Hauptsache der Wodka geht ihnen nicht aus...</text>
+		</string>
+		<string id="prapor_medis_later_11">
+		<text>Du hast dir aber echt Zeit gelassen mit den Medikits, "Gezeichneter". Mittlerweile ist unser Bedarf hier gedeckt. Woronin konnte eine Lieferung von auЯerhalb organisieren und schickte uns aus der Bar einen Kurier, mit Medikamenten und anderem Zeug.</text>
+		</string>
+		<string id="prapor_medis_later_12">
+		<text>Na toll... Und was ist mit dem PDA, den ihr dem Banditen abgenommen habt? Hast du das Gerдt wenigstens noch?</text>
+		</string>
+		<string id="prapor_medis_later_13">
+		<text>Den PDA hab ich auch nicht mehr. Aber ich hab dich ja gewarnt, "Gezeichneter" - wenn es zu lange dauert, findet sich bestimmt ein anderer, der auf Infos und so scharf ist.\n \nHier war vor einer Weile so ein Stalker, hat auch rumgefragt wie du. Da hab ich ihm von dem PDA erzдhlt. Er bot einen guten Preis dafьr und ich hab's dann verkauft.</text>
+		</string>
+		<string id="prapor_medis_later_14">
+		<text>Verdammt! Was fьr ein Stalker? Wie sah er denn aus? WeiЯt du, wo er danach hingegangen ist?</text>
+		</string>
+		<string id="prapor_medis_later_15">
+		<text>Keine Ahnung. Ein Stalker halt. War ein wenig seltsam angezogen, so дhnlich wie die auslдndischen Sцldner, die man ab und zu trifft. Hatte eine Narbe im Gesicht.\n \nIst dann Richtung Dunklen Tal verschwunden.</text>
+		</string>
+		<string id="barmen_speak_group_0">
+		<text>Hey, Wirt! Ich habe ein Anliegen - kennst du jemanden, der diesen PDA reparieren kann?</text>
+		</string>
+		<string id="barmen_speak_group_1">
+		<text>Ich hab hier ein paar Meister, aber... du verstehst ja - einfach so geht gar nichts. Bring mir mal "Chimeras Trдnen", ich hab schon seit einem Monat die Bestellung von Sacharow dafьr rumhдngen.</text>
+		</string>
+		<string id="barmen_speak_group_2">
+		<text>Wirt, gehts dir noch gut?! Fьr's PDA reparieren "Chimeras Trдnen"??? 'Ne Verstopfung kriegst du aber nicht davon, oder? Ne-ne, das Maximum, was ich zahlen wьrde, sind "Elektras Trдnen".</text>
+		</string>
+		<string id="barmen_speak_group_3">
+		<text>Fьr jede Verstopfung gibt's ein Mittelchen. Machen wir es so: "Trдnen des Feuers" - und abgemacht.</text>
+		</string>
+		<string id="barmen_speak_group_4">
+		<text>Na gut, lass schon mal reparieren, und ich gehe "Trдnen des Feuers" suchen.</text>
+		</string>
+		<string id="barmen_done_group_0">
+		<text>Und, gibt es Erfolge? Ich hab, ьbrigens, "Trдnen des Feuers" gefunden. Hier...</text>
+		</string>
+		<string id="barmen_done_group_1">
+		<text>Hцr zu, "Gezeichneter", es ist was passiert.... Reg dich aber bloЯ nicht auf, OK? "Dozent" hatte Geburtstag, da haben meine Jungs ein wenig zu viel gebechert und, vцllig unabsichtlich, dein PDA zertreten...</text>
+		</string>
+		<string id="barmen_done_group_2">
+		<text>Wirt, was sind das denn fьr Scherze!?! Da warten Menschen auf Hilfe, wenn man sich beeilt - kann vielleicht noch jemand gerettet werden. Und deine Alkoholiker vernichten die einzige Spur???</text>
+		</string>
+		<string id="barmen_done_group_3">
+		<text>Ich verstehe dich ja, "Gezeichneter"... Die Jungs waren "ьbereifrig"... Von mir haben sie schon eine erstklassige Abreibung bekommen. Hier, als Enschдdigung bekommst du von mir eine Kiste Wodka.</text>
+		</string>
+		<string id="barmen_done_group_4">
+		<text>Mann, bist du ein Arschloch. Wirt, denkst du wirklich, das alle solche Halsabschneider wie du sind? Wodka kannst du deinen "Meistern" geben, damit sie dir auch noch die Bar kaputtschlagen. Ich gehe jetzt, hab noch viel zu tun...</text>
+		</string>
+		<string id="sahar_speak_group_0">
+		<text>Professor, ich muЯ mit Ihnen ьber eine ernste Sache reden.</text>
+		</string>
+		<string id="sahar_speak_group_1">
+		<text>Ja, "Gezeichneter", ich hцre.</text>
+		</string>
+		<string id="sahar_speak_group_2">
+		<text>Professor, vor ein paar Tagen fand ich Leiche eines Soldaten. Beim Durchsuchen fiel mir eine Notiz in die Hдnde. Da wurde irgendeine Expedition in Richtung "Hirnschmelzer" erwдhnt.</text>
+		</string>
+		<string id="sahar_speak_group_3">
+		<text>"Gezeichneter", was ich Ihnen jetzt erzдhle, darf keiner wissen. Vor ein paar Monaten hat eine Gruppe der Wissenschaftler die Erlaubniss "von oben" bekommen, den Radar-"Hirnschmelzer" zu erforschen. Ich habe es versucht, sie davon abzubringen... Erklдrte ihnen, das diese Gegend noch vцllig unsicher ist, und die Chancen am Leben zu bleiben und dabei nicht den Verstand zu verlieren, gleich Null sind. Ich habe, sozusagen, meine eigene Methode fьr die Lцsung des Problems - ich schlug vor, erst das X-16 Labor zu erforschen. Um zu erfahren, wie die Gerдte darin funktionieren und auf welche Teile des Gehirns sie einwirken. Aber man hat nicht auf mich gehцrt... Es ist schon mehr als eine Woche her, seit der letzten Nachricht von dieser Expedition. Auch wenn es sehr tragisch ist - ich vermute das Schlimmste...</text>
+		</string>
+		<string id="sahar_speak_group_4">
+		<text>Das ist seltsam, Professor... Als ich im "Hirnschmelzer"-Labor war, fand ich da keine Gruppe vor.. Eigentlich gar keine Menschen... Na ja, die "Monolither" waren da, aber ob diese Fanatiker noch Menschen sind...</text>
+		</string>
+		<string id="sahar_speak_group_5">
+		<text>Ewentuell haben Sie nicht das ganze Bunker erforscht... Sie hatten ja in dem Moment was wichtigeres zu tun. Vielleicht lohnt es sich nochmal nachzuschauen?</text>
+		</string>
+		<string id="sahar_speak_group_6">
+		<text>Wahrscheinlich haben Sie Recht, Professor. Ich werde dem auf den Grund gehen.</text>
+		</string>
+		<string id="sahar_zaniat_0">
+		<text>Doktor, ich habe ein dringendes Anliegen.</text>
+		</string>
+		<string id="sahar_zaniat_1">
+		<text>Tut mir leid, "Gezeichneter", ich bin im Moment sehr beschдftigt. Sie wollten doch zum "Hirnschmelzer"? Wir reden dann, wenn Sie wieder zurьck sind.</text>
+		</string>
+		<string id="ucen_bunker_0">
+		<text>Ist Ihnen schlecht? Sind Sie verletzt? Hier, ein Medikit!</text>
+		</string>
+		<string id="ucen_bunker_1">
+		<text>Danke, junger Mann... aber... es wird wohl... nicht mehr helfen... Meine Wirbelsдule ist... gebrochen... Die Beine auch... Die Blutsauger hier... waren "nett", und... beschlossen mich als... "Dessert" zu erhalten...</text>
+		</string>
+		<string id="ucen_bunker_2">
+		<text>Was ist mit Ihnen passiert?</text>
+		</string>
+		<string id="ucen_bunker_3">
+		<text>Wir... wir sollten den... "Hirnschmelzer"... erforschen. Eine... wahnsinnige Idee, wie es sich... herausstellte. Sacharow... wollte uns davon abhalten... Aber das ganze Geld... fьr den Projekt... und der Stolz...</text>
+		</string>
+		<string id="ucen_bunker_4">
+		<text>Sie sind voller Blut! Liegen Sie still... Lassen Sie mich die Blutungen stoppen!</text>
+		</string>
+		<string id="ucen_bunker_5">
+		<text>Das... das wird... nicht mehr helf... ersch... erschiess mich...</text>
+		</string>
+		<string id="ucen_bunker_6">
+		<text>Ich kann es nicht... Ich werde es nicht tun!</text>
+		</string>
+		<string id="ucen_bunker_7">
+		<text>Ich... flehe dich.. an... mach dem ein Ende... ich kann nicht mehr... tцte mich! Bitte...</text>
+		</string>
+		<string id="yantar_saharov_0">
+		<text>Wollten Sie noch etwas fragen, Professor?</text>
+		</string>
+		<string id="yantar_saharov_1">
+		<text>"Gezeichneter", ich brauche unbedingt das PDA von "Ghost". Das ist dieser Stalker, der fьr uns gearbeitet hat und mit Wasiliew unterwegs war. Darauf sind wertvolle Informationen ьber nicht genau erforschte Artefakte, die man nur im Zentrum der Zone findet, gespeichert. Kцnnen Sie es fьr mich irgendwie besorgen. Natьrlich werde ich Sie dafьr gut entlohnen.</text>
+		</string>
+		<string id="yantar_saharov_2">
+		<text>Wenn ich dieses PDA, geschweige den "Ghost", finde, bringe ich es Ihnen.</text>
+		</string>
+		<string id="yantar_saharov_3">
+		<text>Ich hoffe es sehr, "Gezeichneter". Fьr mich und der Welt der Wissenschaft sind diese Informationen vom bedeutenden Wert...</text>
+		</string>
+		<string id="yantar_saharov_next_0">
+		<text>Hallo Doc! Ich hab Ihnen das PDA von "Ghost" gebracht, welches Sie wollten.</text>
+		</string>
+		<string id="yantar_saharov_next_1">
+		<text>Oh, Sie haben es gefunden! Was fьr ein Glьck! Andererseits, bedeutet das wohl, das "Ghost" tot ist, oder?\n \nTrotzdem bin ich Ihnen sehr dankbar, "Gezeichneter". Hier, das ist fьr Ihre Mьhen...</text>
+		</string>
+		<string id="yantar_saharov_next_2">
+		<text>Ja, ich fand die Leiche von "Ghost" im Labor. Und dazu mцchte ich Sie was fragen, Doc... Im PDA war ein Eintrag ьber "ReiЯzahn", der in der "Streloks" Gruppe war und gestorben ist. Wissen Sie vielleicht was ьber die Umstдnde seines Todes?</text>
+		</string>
+		<string id="yantar_saharov_next_3">
+		<text>Ich weiЯ nicht viel, ehrlich gesagt. Fragen Sie besser Woronin. "Ghost" erzдhlte mir, bevor er mit Wasiliew in das unterirdische Labor ging, das er irgendwelche Geschдfte mit ihm hatte. Kann sein, das Woronin Ihnen mehr erzдhlen kann...</text>
+		</string>
+		<string id="bar_voronin_talk_0">
+		<text>Ich grьЯe Sie, General. Ich muЯ mich mit Ihnen ьber eine gewisse Person unterhalten.</text>
+		</string>
+		<string id="bar_voronin_talk_1">
+		<text>Sei auch gegrьЯt, "Gezeichneter". Was genau willst du wissen?</text>
+		</string>
+		<string id="bar_voronin_talk_2">
+		<text>Ich suche den Mцrder von Stalker namens "ReiЯzahn". Sacharow sagte mir, das Sie und "ReiЯzahn" Geschдfte machten...</text>
+		</string>
+		<string id="bar_voronin_talk_3">
+		<text>Ja, er hat mal ein paar meiner Auftrдge erledigt. Er war nдmlich einer der wenigen, die im Zentrum der Zone waren. Wir haben ja kaum Informationen darьber... Damals haben wir versucht "Ghost" als unseren Spдher zu rekrutieren, aber er nahm unser Angebot nicht an. Darum schlugen wir "ReiЯzahn" vor, fьr uns zu arbeiten und uns Informationen zu beschaffen. Das so ein Mann getцtet wurde, ist echt schade... War ein guter Kerl, wenn wir ein paar mehr von der Sorte hдtten, wьrden wir die "Freiheit" schon lдngst auslцschen...\n \nЬbrigens... Ich hдtte da einen kniffligen Auftrag fьr dich. Wir mьssen rausfinden, wer die "Freiheit" in letzter Zeit sponsert. Wir haben schon so manche Info, aber uns fehlen noch viele Daten. Es geht ein Gerьcht um, das ein Freiheitler sich vor kurzem absetzte und auch ein Speicherstick mit wichtigen Daten mitnahm. Er soll sich irgendwo in der Nдhe der Basis der "Freiheit" verstecken. Besorge uns dieses Speicherstick, und ich werde dir dafьr ein Tip geben, wer dir bei deiner Ermittlung helfen kann.\n \nUnd ein kleines Present von uns ist dir auch sicher... Einverstanden?</text>
+		</string>
+		<string id="bar_voronin_talk_4">
+		<text>Na gut, Herr General... Dann such ich mal diesen Freiheitler. Die Sache mit "ReiЯzahn" will ich unbedingt klдren.</text>
+		</string>
+		<string id="bar_voronin_next_0">
+		<text>Hey, General... Ich hab das Speicherstick. Das der Mann sich zwischen Schnorks und Chimeren versteckte, haben Sie mir aber nicht gesagt... Das war vielleicht ein Trip!</text>
+		</string>
+		<string id="bar_voronin_next_1">
+		<text>Danke, du hast uns damit sehr geholfen. Also, ich erzдhl dir mal, was ich weiЯ... Du kennst doch den Informanten, oder? Unsere Agente berichten, das dieser Mann auch Beziehungen zu Sцldnern pflegt. Es gab mal eine ungeprьfte Info, das "ReiЯzahn" eine Zeit lang irgendwas mit den Sцldnern zu tun hatte und "diskrete" Auftrдge fьr sie erledigte. Wenn das stimmen sollte, dann wird der Informator darьber mehr wissen. Das ist, eigentlich, schon alles...\n \nVergiss unser Present nicht... Viel Glьck, "Gezeichneter".</text>
+		</string>
+		<string id="bar_voronin_next_2">
+		<text>Vielen Dank fьr den Tip. Dann red ich mal ein Wцrtchen mit dem Informator.</text>
+		</string>
+		<string id="zahar_informator_pda_give_0">
+		<text>Ich grьЯe dich, Zachar... Schade um Dan...</text>
+		</string>
+		<string id="zahar_informator_pda_give_1">
+		<text>Er hat mir hier was fьr dich gelassen, "Thyrans" PDA. Man erzдhlt, du suchst es?</text>
+		</string>
+		<string id="zahar_informator_pda_give_2">
+		<text>Ja, der "Informator" bat mich, es fьr ihn zu besorgen.</text>
+		</string>
+		<string id="zahar_informator_pda_give_3">
+		<text>Na dann, 30.000 und PDA gehцrt dir.</text>
+		</string>
+		<string id="zahar_informator_pda_give_4">
+		<text>Ein wenig teuer... Aber egal, hier...</text>
+		</string>
+		<string id="zahar_informator_pda_give_5">
+		<text>Verdammt, heute hab ich nicht so viel bei mir! Ich komm spдter nochmal.</text>
+		</string>
+		<string id="zahar_dan_bring_helmet_0">
+		<text>Ich grьЯe dich, Zachar! Ich habe von Dan ein Auftrag angenommen, aber er ist ja gestorben...</text>
+		</string>
+		<string id="zahar_dan_bring_helmet_1">
+		<text>Redest du von dem Helm? Ja, ich weiЯ Bescheid. Ich rechne fьr Dan mit dir ab.... Ьbrigens, "Arhara" richtete an dich aus - du sollst bei ihn vorbeischauen.</text>
+		</string>
+		<string id="zahar_dan_nauch_flash_bring_0">
+		<text>GrьЯ dich! Ich hab hier fьr Dan ein Speicherstick besorgt, aber er ist ja... nun weiЯ ich nicht so recht, was ich tun soll.</text>
+		</string>
+		<string id="zahar_dan_nauch_flash_bring_1">
+		<text>Ja, ich weiЯ Bescheid. Gib her, ich versuche es mal... Warte... so... uhm.. hier hast du es, "Gezeichneter". Der Helm ist jetzt justiert.</text>
+		</string>
+		<string id="prizrak_tainiy_hod_0">
+		<text>Hallo, Bruder!</text>
+		</string>
+		<string id="prizrak_tainiy_hod_1">
+		<text>Warum bist du so traurig?</text>
+		</string>
+		<string id="prizrak_tainiy_hod_2">
+		<text>Frag lieber nicht, alles ScheiЯe... Da, in dem Bunker liegt ein Mann, den ich getцtet habe. Es ist ein Wissenschaftler, er sagte mir, das sie versucht haben den "Hirnschmelzer" abzuschalten - aber das Schicksal hat es wohl anders entschieden. Alle starben, und den letzten muЯte ich selber tцten...</text>
+		</string>
+		<string id="prizrak_tainiy_hod_3">
+		<text>Und du hast dieser Geschichte geglaubt? WeiЯt du warum sie hier waren? WeiЯt du, was Gabriel hier gesucht hat? Willst du es wissen, ja?\n \n Hier gibt es einen geheimen Durchgang, direkt zum Monolith. Sie wuЯten ja, das sie es durch Prypjat nicht schaffen wьrden... Da gibt es mehr "Monolither", als Ameisen. Und hier - zack! und du bist da. Am Monolith. Verstehst du jetzt, was sie hier alle wollten?</text>
+		</string>
+		<string id="prizrak_tainiy_hod_4">
+		<text>Du wuЯtest es, und hast mir nichts gesagt?</text>
+		</string>
+		<string id="prizrak_tainiy_hod_5">
+		<text>Ich wuЯte es nicht genau, es gab nur Gerьchte... Ein paar erfahrene Leute erzдhlten ьber diesen Durchgang. Aber jetzt, wo du mir alles berichtet hast - da ging mir ein Licht auf.</text>
+		</string>
+		<string id="prizrak_tainiy_hod_6">
+		<text>Und wo ist dieser geheimer Durchgang?</text>
+		</string>
+		<string id="prizrak_tainiy_hod_7">
+		<text>Das ist es ja... Ich weiЯ es nicht. Aber ich hab eine Idee... Gabriel hat ja nicht umsonst hier geschnьffelt. Frag doch mal Freeman, ich glaube, er kann uns helfen. Ich vermute, das irgendwo auch einen Plan vom "Hirnschmelzer" geben soll und jemand von den Sцldner es haben wird... Und spдter, wenn du das mit dem Plan geklдrt hast, kannst du nochmal vorbeikommen - ich hab da noch was, was ich dir vorschlagen will...</text>
+		</string>
+		<string id="prizrak_tainiy_hod_8">
+		<text>OK, ich werde mit Freeman reden, vielleicht weЯt er was ьber den Plan.</text>
+		</string>
+		<string id="freeman_tainiy_hod_0">
+		<text>Hey, Gordon! Wie gehts, wie stehts? Hast du schon das mit Gabriel gehцrt?</text>
+		</string>
+		<string id="freeman_tainiy_hod_1">
+		<text>Sure. Super Job, "Gezeichneter".</text>
+		</string>
+		<string id="freeman_tainiy_hod_2">
+		<text>Ich hab ein Anliegen an dich, aber es muЯ unter uns bleiben. Man erzдhlt, das es aus dem "Hirnschmelzer" einen Durchgang zum Monolith gibt. Um dieses zu finden, braucht man aber die Plдne vom "Hirnschmelzer". Hast du eine Idee, wer so einen Plan haben kцnnte?</text>
+		</string>
+		<string id="freeman_tainiy_hod_3">
+		<text>Als ich treffen James, er irgendein Plan hatte. Du hast mir Dokumente von James gebracht, da stehen drin HinweЯ ьber Plan und ein Name vom Sцldner - "Tamaz". Ich verstehe so - dieser "Tamaz" ist so wie Gruppenleiter bei Gabriel. Und Gabriel ьber diese Gruppe liquidieren Leute, welche nicht ihm passen. Einen Tag habe ich gehцrt - Reste von Gabriels Gang treffen sich auf Mьllhalde. Da auch "Tamaz" wird sein. Vielleicht er haben den Plan.</text>
+		</string>
+		<string id="freeman_tainiy_hod_4">
+		<text>Gut, ich gehe mal hin, und wenn ich was finde - bring ich es hierher...</text>
+		</string>
+		<string id="freeman_tainiy_hod_done_0">
+		<text>So, Freeman, ich hab die Plдne besorgt. Las uns zusammen schauen, weil ich hier nichts verstehen kann...</text>
+		</string>
+		<string id="freeman_tainiy_hod_done_1">
+		<text>OK, let's start... Hmm... Hier, "Gezeichneter", du muЯt schauen. Dieses Zimmer, wo Ausschalter ist, siehst du? Du muЯt die Treppe runter - da wird sein Durchgang.</text>
+		</string>
+		<string id="freeman_tainiy_hod_done_2">
+		<text>Danke dir, Freeman, du hast mir echt geholfen. Ich schulde dir was! Jetzt muЯ ich aber los, hab viel zu erledigen...</text>
+		</string>
+		<string id="prizrak_gold_art_0">
+		<text>"Ghost", du hattest, wie immer, Recht. Ich hab den geheimen Durchgang gefunden.</text>
+		</string>
+		<string id="prizrak_gold_art_1">
+		<text>Ich war mir sicher, das du es schaffst. Dann hдtte ich noch eine Bitte an dich, "Gezeichneter". Kannst du fьr mich mehrere seltene Artefakte besorgen? Es nennt sich "Goldener Klumpen". Man kann es nur neben dem AKW finden, wahrscheinlich musst du in dem AKW-Innenhof suchen. Wenn du mir 10 Stьck davon findest - werde ich dir ьber einen direkten Ьbergang aus AKW-2 in den Sarkophag, und zurьck, erzдhlen. Machst du das?</text>
+		</string>
+		<string id="prizrak_gold_art_2">
+		<text>"Goldener Klumpen", sagst du? Hmmm... Na gut, ich suche mal danach.</text>
+		</string>
+		<string id="prizrak_gold_art_done_0">
+		<text>Es war echt schwer, "Ghost"... Dieses Artefakt ist wirklich selten. Aber ich hab's gefunden, hier...</text>
+		</string>
+		<string id="prizrak_gold_art_done_1">
+		<text>Wow! So schnell? Du bist Spitze, Freund. Hier, schau mal, ich mach dir eine Markierung auf dem PDA. Das ist der Ьbergang aus AKW-2 in den Sarkophag... Und das ist der Rьckweg aus dem Sarkophag zum AKW-2, befindet sich in dem Raum mit dem Monolithen. MuЯt du ein wenig suchen.\n \nSo, mein Freund... Ich wьnsche dir viel Glьck!</text>
+		</string>
+		<string id="prizrak_tri_tainik_0">
+		<text>Wir haben alles erledigt, "Ghost", jetzt kцnnen wir uns wohl zu Ruhe setzen...</text>
+		</string>
+		<string id="prizrak_tri_tainik_1">
+		<text>Du wirst noch Gelegenheit haben, sich auszuruhen, "Gezeichneter". Eine Sache mьЯtest du noch erledigen. Hast du schon die Geschichte ьber den einen "Monolither" gehцrt? Nein? Also - es gab einen "Monolither", der war wohl sowas wie Wissenschaftler bei denen. Anstatt zu beten, hat er stundenlang Tagebьcher geschrieben. Keine einfache Tagebьcher, sondern mit vielen wichtigen Informationen ьber AKW, und was noch wertvoller ist - ьber Monolithen selbst. Er vermutete sogar, das Monoliht auЯerirdischen Ursprungs ist. Na ja, nachdem du im Sarkophag gewьtet, und auch noch den "Hirnschmelzer" abgeschaltet hast, wurde AKW von den Stiernacken ьberrant. Diejenigen "Monolither", welche nicht dumm waren, haebn "die Sachen gepackt" und durch geheime Pfade abgehauen. Unser "Held" auch. Aber irgendwas ist passiert unterwegs, und er muЯte seine Tagebьcher verstecken. Meine Leute hatten ihn geschnappt, und er hat alles erzдhlt... Diese Tagebьcher mцchte ich schon lange in die Hдnde bekommen... Er versteckte sie in drei verscheidenen Stellen im AKW-Innenhof. Verstehst du, um was ich dich bitten mцchte? Genau - finde diese Tagebьcher fьr mich, bitte. Es sind drei Stьck. Machst du es?</text>
+		</string>
+		<string id="prizrak_tri_tainik_2">
+		<text>Oh Mann, "Ghost", ich wollte eigentlich schon Schluss machen. Na gut, von mir aus. Diesen Gefallen tue ich dir noch...</text>
+		</string>
+		<string id="prizrak_tri_tainik_est_0">
+		<text>Ich war beim AKW, "Ghost". Hier, alle 3 Tagebьcher, wie versprochen.</text>
+		</string>
+		<string id="prizrak_tri_tainik_est_1">
+		<text>Las mal sehen... Mann, da stehen ja echt interessante Sachen drin. Gut, "Gezeichneter", du hast eine sehr wichtige Sache erledigt. Jetzt kannst du dich auch zu Ruhe setzen... Viel Glьck, Bruder!</text>
+		</string>
+
+</string_table>

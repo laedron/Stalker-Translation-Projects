@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="ansi"?>
+<!-- SCARmod_VF_13/02/2013-->
+
+<string_table>
+	<string id="sidor_niva_start_0">
+		<text>Allez! Tu vas accoucher?</text>
+	</string>
+	<string id="sidor_niva_start_1">
+		<text>Eh bien, t'es increvable, le Balafré ! Pour être honnête, j'ai eu peur de ne plus jamais te revoir sain d'esprit quand un de ces deux desperados psychotiques t'a zombifié. Mais tu es revenu d'entre les morts ; tu devras faire quelque chose avant de pouvoir aller dans la Zone Tampon.</text>
+	</string>
+	<string id="sidor_niva_start_2">
+		<text>C'est quoi encore cet embrouille ?</text>
+	</string>
+	<string id="sidor_niva_start_3">
+		<text>T'as un deal avec Voronin et on est au courant avec le Barman. Pour le bien de tous, il y un endroit qui nous est encore complétement fermé.</text>
+	</string>
+	<string id="sidor_niva_start_4">
+		<text>Explique...</text>
+	</string>
+	<string id="sidor_niva_start_5">
+		<text>Entre le Cordon et la Vallée Obscure, subsiste une Zone sombre. On l'appelle "Darkscape", c'est une espèce de nébuleuse dans tous les sens du terme. On ne sait rien! Depuis quelque temps, des bandits on réussis à s'y installer dans un endroit protégé par un rayonnement psy, comme sur la base de Borov. Comment ont-ils fait ? grâce à qui ? pourquoi ? on aimerait bien le découvrir. On a une chance d'en savoir plus grace à un informateur qui est cul et chemeise avec le chef présent sur place.</text>
+	</string>
+	<string id="sidor_niva_start_6">
+		<text>On avait remarqué cette anomalie sur la carte avec Kostya. Donc, certains bandits auraient découvert un passage pour se rendre danc cette zone ?</text>
+	</string>
+	<string id="sidor_niva_start_7">
+		<text>Si nous croyons notre informateur du Rad100, voila comment ça se présente : des copains de Borov, ont volé sous le nez de "Kostya 69", une Lada Niva Blanche dans laquelle se trouve d'importantes informations. Ils ont décidé de passer par la vallée obscure, mais ils sont restés coincés à la sortie. Là, après la transition, ils sont tombés sur un tas de troncs d'arbres, et sont restés plantés là.</text>
+	</string>
+	<string id="sidor_niva_start_8">
+		<text>Qui est "Kostya 69" et que proposes-tu ?</text>
+	</string>
+	<string id="sidor_niva_start_9">
+		<text>"Kostya 69", est un vrai cerveau, pas comme Borov. Si on intercepte les infos et les partageons avec le cerveau, on pourra travailler avec les bandits. On ne feras pas ami-ami, mais tu n'a pas besoin d'avoir des ennemis supplémentaires. Si les bandits décident d'investir "Darkscape", on connaitra le chemin d'accès. Car la seule possibilité est le tunnel ferroviaire du Cordon qui mêne à cet endroit et il est bouché, donc s'ils se décident à entrer, c'est par là qu'ils entreront.</text>
+	</string>
+	<string id="sidor_niva_start_10">
+		<text>Donc, ce que tu suggéres c'est d'intercepter la Niva et la conduire à travers tout le sud de la Zone ?</text>
+	</string>
+	<string id="sidor_niva_start_11">
+		<text>Exact  Balafré. Un "Paris-Dakar" miniature dans la Zone. L'intinéraire le plus sûr c'est: Darkscape - Cordon - Marais - Agroprom - Décharge - Repaire du Loup. Faudra ramener la bagnole ici pour que Dalnoboy puisse en extraire les infos. J'ai balisé l'endroit où devrait être la Niva à "Darkscape", tu entreras par la Vallée obscure. D'accord ?</text>
+	</string>
+	<string id="sidor_niva_start_12">
+		<text>Si ton informateur est fiable, alors je ferai le Vatanen dans la Zone !</text>
+	</string>
+	<string id="sidor_niva_start_13">
+		<text>C'est génial ! Balafré, essaie de ne pas trop faire du stock-car, ramène nous la Niva en un seul morceau. La partie la plus dangereuse sera "Darkscape", alors méfiance, prudence et reste sur la route jusqu'au Cordon.</text>
+	</string>
+
+
+	<string id="sidor_niva_done_0">
+	 <text>Tiens les clefs de ce qui reste du 4x4. Ça sera quoi la prochaine fois, ramener une mobylette de Tchernobyl ? Bon Dieu ! Je ne vais plus marcher qu'à pieds, maintenent ! J'espère que les documents n'étaient pas dans une des portières, sinon, il faudra rechercher un des gugusse qui l'a en guise de collier dans Darkscape ! De plus, il y avait deux blindés evec des citernes, et... 150 tonnes de carburant sont partis en fumée, je crois qu'il vont t'envoyer la note !</text>
+	</string>
+	<string id="sidor_niva_done_1">
+	 <text>Comme d'habitude, tu ne fais pas dans la dentelle. Prions qu'ils n'y étaient pas, sinon, tu devras y retourner, mais à pieds cette fois ci. T'as toujours la mauvaise intention de te rendre dans la Zone Tampon ?</text>
+	</string>
+	<string id="sidor_niva_done_2">
+	 <text>Je n'ai pas changé d'avis. T'as intérêt de me refiler cette putain de transition !</text>
+	</string>
+	<string id="sidor_niva_done_3">
+	 <text>En ce qui concerne la transition... Passe par l'extérieur de la zone cloturée du poste de contrôle au nord de Cordon, c'est l'endroit où t'arrives directement à partir du Bar, la transition ouverte par le groupe d'Oleg. Reste à l'extérieur de la clôture et dirige toi jusqu'au portail Sud de l'Avant Poste militaire au Cordon. Longe la cloture jusqu'à l'angle Est, puis regarde vers le sud-est. Sur la colline, tu devrais voir deux petits sapins côte à côte. Eh bien la transition est  entre ces deux arbres. \nUn conseil... Dans la Zone Tampon les règles sont similaires aux lois soviétiques de 1937. J'ai entendu dire qu'il y'a beaucoup de butin à gratter, alors je te conseille d'y aller léger, sans trop de superflus. Oh ! contrairement à ici, les gars qui gardent la Zone Tampon tirent sans sommations et ils ont des blindés, alors je te suggère de prendre un flingue avec un gros chargeur et de ne pas tirer le premier ! ils n'aiment pas ça !. \nAu fait, pourquoi tu tiens autant à aller te suicider là-bas ?</text>
+	</string>
+	<string id="sidor_niva_done_4">
+	 <text>Je dois trouver un des copains de Strelok...</text>
+	</string>
+	<string id="sidor_niva_done_5">
+	 <text>Bon, je capitule pour te décourager d'y aller. je n'ai plus qu'a t'équiper du mieux possible. Qu'est ce que tu choisis ??</text>
+	</string>
+	<string id="sidor_niva_done_6">
+	 <text>Pour être tranquille question surcharge, je vais prendre le "Gilet Gravi-sac".</text>
+	</string>
+	<string id="sidor_niva_done_7">
+	 <text>Je vais emporter le "SCAT-10" de l'Armée, c'est bon pour tout et aussi pour transporter un peu plus de matos.</text>
+	</string>
+	<string id="sidor_niva_done_8">
+	 <text>Je vais plutôt prendre des cartouches 7,62x54 Sniper et Perforante et aussi l'exosquelette des bandits.</text>
+	</string>
+	<string id="sidor_niva_done_9">
+	 <text>Qu'est ce que je ne ferai pas pour toi...un vrai petit père du peuple, que je suis.</text>
+	</string>
+	<string id="sidor_niva_done_10">
+	 <text>Heu...écoute Joseph, faudrais pas que ça te monte à la tête ! C'est ta sclérose en plaques qui te fout de la tectonique ?</text>
+	</string>
+	<string id="sidor_niva_done_11">
+	 <text>Non de Dieu !!!! Dégage de là !! j'essaie d'être gentil et toi..toi..tu te fout de mes vieux os ! Va te faire cuire un oeil de barkak dans ta Zone tampon !</text>
+	</string>
+	<string id="sidor_niva_done_12">
+	 <text>ok, ok, te fache pas, je plaisantais juste. Merci pour ton chemin de chêvres...</text>
+	</string>
+
+
+<!-- Rencontre avec Grinko, le commandant du poste de garde de la Zone Tampon -->
+	<string id="pred_zastava_dialog_0">
+	 <text>Oh, quelle surprise ! Nous pension voir Strelok nous rendant une petite visite amicale par le sentier des chêvres de Sidorovich, mais non. C'est encore un marqué, mais cette fois ci c'est le mercenaire Balafré. Qu'est-ce qui vous amène ici, mon bonhomme ?</text>
+	</string>
+	<string id="pred_zastava_dialog_1">
+	 <text>On a pas gardé les chêvres ensemble. Vous le faite très bien tout seul !</text>
+	</string>
+	<string id="pred_zastava_dialog_2">
+	 <text>Caustique avec ça. Quand je pense que j'aurais pu donner l'ordre de vous tirer dessus...tsss...tsss. Quel ingratitude le Balafré. Je pense qu'un petit séjour dans notre hôtel climatisé 5 étoiles vous fera le plus grand bien.</text>
+	</string>
+	<string id="pred_zastava_dialog_3">
+	 <text>Décidément, vous êtes tombé bien bas pour servir de garde chiourme aux "Maitres". Dans le domaine de la mesure du possible Capitaine faites-vous un accord avec les propriétaires...si vous n'êtes pas alliés ?</text>
+	</string>
+	<string id="pred_zastava_dialog_4">
+	 <text>Ah... Le Balafré...si vous saviez les suites que nous avons réservées pour les touristes du Devoir, de Voronin et des VIP du groupe de voyageur "Oleg Operator"...Nous leurs réservons un accueil agréable et personnalisé. Avec prise en charge rapide par téléportation locale, une merveille que les Maitres" nous ont donnée.</text>
+	</string>
+	<string id="pred_zastava_dialog_5">
+	 <text>"Parolé..Parolé..Parolééé...". C'est que des mots. Je suis curieux de voir ça... Vous avez des promesses commerciales...</text>
+	</string>
+	<string id="pred_zastava_dialog_6">
+	 <text>N'ayez crainte vous ne serez peut-être pas le premier "touriste", mais vous allez expérimenter cette formidable avancée technique, pas besoins d'accompagnateur, ni de temps perdu à marcher. Une balise provenant de nos amis les "Maitres" programmée pour la destination désirée, et Hop ! Vous allez être transporté dans votre suite, le temps d'un rot.</text>
+	</string>
+	<string id="pred_zastava_dialog_7">
+	 <text>Allez vous faire foutre !</text>
+	</string>
+
+
+	<string id="pred_soldat_dialog_0">
+	 <text>T'essaie de m'assommer avec un boulon ?</text>
+	</string>
+	<string id="pred_soldat_dialog_1">
+	 <text>Non!... de t'en mettre une dans la tête...</text>
+	</string>
+	<string id="pred_soldat_dialog_2">
+	 <text>Merde...</text>
+	</string>
+
+
+	<string id="doktor_pred_perehod_pda_0">
+		<text>Vous avez pris le PDA ?</text>
+	</string>
+	 <string id="doktor_pred_perehod_pda_1">
+		<text>Oui.</text>
+	</string>
+	 <string id="doktor_pred_perehod_pda_2">
+		<text>Excellent ! Donnez le moi et allons au Cordon.</text>
+	</string>
+	 <string id="doktor_pred_perehod_pda_3">
+		<text>Tenez.</text>
+	</string>
+	 <string id="doktor_pred_perehod_pda_4">
+		<text>Merde ! J'ai oublié de le récupérer.</text>
+	</string>
+
+
+	<string id="doktor_pred_start_0">
+		<text>Docteur, vous pouvez parlez ?</text>
+	</string>
+	 <string id="doktor_pred_start_1">
+		<text>Oui. Vous devez être le Balafré, vos cicatrices en témoignent. Vous devez surement vous rappelez d'un stalker abattu dans les Entrepôts Militaire nommé "Croc" et aussi d'une tache inachevée contre un certain "Strelok", il y a quelques années de ça ?</text>
+	</string>
+	 <string id="doktor_pred_start_1_1">
+		<text>Je ne m'en pas souviens.</text>
+	</string>
+	 <string id="doktor_pred_start_2">
+		<text>Je m'en souviens ! Je l'ai appelé et il a été abattu par un sniper car quelques secondes après, j'ai entendu un bruit étouffé caractéristique d'un silencieux. Il était trop tard pour distinguer qui avait tiré, mais j'ai pu repérer l'endroit d'où provenait le son. J'étais à la recherche de Strelok, j'avait besoin d'informations sur lui et les seuls noms que j'avais était "Croc" et "Spectre". Je voulais l'interroger sur Strelok, mais je n'en ai pas eu le temps. Est-ce que c'est "Spectre" qui a descendu son coéquipier ? Je ne sais pas. J'avais une photo sur mon PDA et on m'avais dit que c'était celle de "Spectre". Mais, dans le Labo X-16, j'ai trouvé un cadavre et d'après son identité c'était celui de "Spectre", mais il ne ressemblait pas à la photo.</text>
+	</string>
+	 <string id="doktor_pred_start_3">
+		<text>Ok, on verra ça plus tard. Dans l'immédiat, nous devons sortir d'ici. On a été kidnappés pour servir d'appât. Ils veulent attraper Strelok, mais c'est vous qui êtes tombé dans le piège, comme la "Taupe" ici présent capturé à Agroprom. Quelqu'un de haut placé doit avoir une sacrée dent contre Strelok, pour manigancé tout ça. Strelok a dû faire quelque chose d'assez énorme avant qu'il ne perde la mémoire, pour être autant poursuivi. \nMais revenons à des choses plus urgentes. Ils me font suffisament confiance pour que je leur prépare les repas. Un jour j'ai réussi à leur subtiliser un couteau. Lorsque vous êtes "apparu" dans la cellule j'étais d'astreinte et j'en ai profiter pour verser dans la gamelle collective un somnifère que j'ai pu faire avec les champignons qui sont présents dans la grotte. Lorsqu'ils somnolleront, commencez par attaquer le chambranle de la porte en fer, elle est déjà pas mal atteinte par la rouille, j'y ai saupoudré le pourtour avec de la poudre de cartouche de fusils que j'avais réussi à voler. Après, ça risque de chauffer, alors chacun pour soi, on se retrouve à la sortie, sur la crête à coté d'une toile de tente. Mais vous devrez récupérer mon PDA qui permet d'activer la transition au Cordon ; il est  sur l'un des gardes. Pour vos affaires, cherchez quelque part dans une grotte où il y'a une malle métallique et trois caisse en bois. Vos affaires sont dans un coffre invisible, encore un de leur "tour de magie" ; donc si vous voulez récupérer vos affaires fouillez méticuleusement la pièce, déplacez les caisses en bois si nécessaire. Des remarques ?</text>
+	</string>
+	 <string id="doktor_pred_start_4">
+		<text>Ok. On fait comme vous dites.</text>
+	</string>
+
+
+
+	<string id="semetsky_dialog_0">
+		<text>Qui êtes-vous et où suis-je ?</text>
+	</string>
+ <string id="semetsky_dialog_1">
+		<text>Je suis Yuri Semetsky et j'accomplis la volonté de l'Exhauceur de voeux, et cet endroit est appelé le Sarcophage.</text>
+	</string>
+	<string id="semetsky_dialog_2">
+		<text>L'Exhauceur de voeux n'est pas un mythe ? Alors exhauce n'importe quel voeux, "exécutant" Semetsky !</text>
+	</string>
+	<string id="semetsky_dialog_3">
+    <text>Vous êtes le seul stalker qui pourrait ouvrir la cachette sur le Radar avec mon code. Et à juste titre vous méritez de prendre le contenu de l'un des quatre voeux. Vous pouvez commander l'une de ces trois choses, si vous commandez une arme, les munitions vous seront offertes.</text>
+  </string>
+	<string id="semetsky_dialog_4">
+		<text>Plus la réparation de l'armure, magicien ?</text>
+	</string>
+ <string id="semetsky_dialog_5">
+		<text>Abracadabra ! Elle sera réparée...</text>
+	</string>
+	<string id="semetsky_dialog_6">
+		<text>Qu'il y est: Nano-armure, Saiga 12K Auto et MP-444 "Bagheera"</text>
+	</string>
+<string id="semetsky_dialog_7">
+		<text>Que ce soit là : Armure Noire comme celle de Dimon, AK-47 "Stormtrooper" et Vintorez "Voronin".</text>
+	</string>
+<string id="semetsky_dialog_8">
+		<text>Que se trouve : M14, HK G41 et Exosquelette bandits.</text>
+	</string>
+<string id="semetsky_dialog_9">
+		<text>Que la volonté veuille : Exosquelette du Devoir, Minigun et AKSU, cartouches pour SVD.</text>
+	</string>
+ <string id="semetsky_dialog_10">
+		<text>A la Grâce de Dieu...</text>
+	</string>
+	<string id="semetsky_dialog_11">
+		<text>Si vous accomplissez la volonté de l'exhauceur de voeux : où est L'exhauceur de voeux ? Et une autre question : Où se trouve le stalker surnommé Strelok ?</text>
+	</string>
+ <string id="semetsky_dialog_12">
+		<text>La seule chose que je peux dire est que l'Exhauceur et Strelok étaient en communion, très près l'un de l'autre. Si vous êtes à la recherche de la vérité, il vous faudras trouver l'un et l'autre. Sinon votre mission échouera et vous ne pourrez pas sauver la chair de votre sang.</text>
+	</string>
+	<string id="semetsky_dialog_13">
+		<text>Comment-on sort d'ici ?</text>
+	</string>
+ <string id="semetsky_dialog_14">
+    <text>Vous devez descendre dans le réacteur pour atteindre la salle du sarcophage puis montez les escaliers et dans le monolithe et atteignez la trémie de commande le plus rapidement possible. Dépéchez vous stalker !! sinon vous allez vous réveillez et votre rêve recommencera.</text>
+  </string>
+
+
+
+	<string id="oso_son_dialog_0">
+		<text>Qui êtes-vous ?</text>
+	</string>
+<string id="oso_son_dialog_1">
+		<text>Je suis un adepte de la "Conscience-C" et vous semblez être, d'après la descriptions que ma fait Lebedev, le mercenaire qui a faillit à sa tache de tuer Strelok, il y a deux ans. Suis-je dans le vrai ?</text>
+	</string>
+	<string id="oso_son_dialog_2">
+		<text>Pas tout a fait. Vous pourriez parler normalement et pas comme un alien ?</text>
+	</string>
+<string id="oso_son_dialog_3">
+		<text>Non, je ne peux pas. Six des sept modules vocaux ont été endommagés. Donc désolé pour la gêne occasionnée.</text>
+	</string>
+	<string id="oso_son_dialog_4">
+		<text>Il est clair que vos informations sont incorrectes mon contrat sur Strelok a été accompli. Sa protection Psi je l'avais désactivée, comme demandé. Que fait la "Conscience-C"?</text>
+	</string>
+<string id="oso_son_dialog_5">
+		<text>Nous disposons d'un réseau de scientifiques qui ont travaillés avec la noosphère. Au cours d'une expérience ratée, nous avons créé la Zone. La Zone était pour nous un outil très important pour les recherches scientifiques.</text>
+	</string>
+	<string id="oso_son_dialog_6">
+		<text>Le Lobotomisateur!! c'est ça votre découverte ?</text>
+	</string>
+<string id="oso_son_dialog_7">
+		<text>Pour éviter la publicité et un scandale international, ils nous est devenu nécessaire de séparer la Zone Nord et Sud, pour cela nous avions besoin d'une Barrière. Elle était très efficace contre tous les curieux, les ramassis de la société et les illumunés, mais nous n'avions par prévu qu'un stalker plus malin, puisse passer par Limansk évitant de se faire griller la cervelle. </text>
+	</string>
+	<string id="oso_son_dialog_8">
+		<text>Ouais, vous aviez un sacré bac à sable pour jouer ! Mais savez-vous ce qui nous est arrivés à Strelok et à moi, une fois la protection-Psi de Strelok désactivée ?
+		\nJe m'explique: en approchant de la centrale de TCHERNOBYL il a eu beaucoup de portails de transition. Immédiatement après le tir réussi un cataclysme s'est déclenché et puis je ne me rappelle rien. Le trou noir.</text>
+	</string>
+<string id="oso_son_dialog_9">
+		<text>Après avoir réussi l'infiltration dans la Zone interdite, Strelok est revenu, mais il est passé par le sud de Zone, via les Entrepôts Militaires. Il existait un prototype qui inhibait les effets psychique sur le cerveau, mais il n'était pas fiable. Nous avions invisagé que ce prototype serai fiabilisé et que rien n'empécherait une personne de passer. Nous n'avions pas tord, Strelok a convaincu certains scientifiques de Yantar d'améliorer le casque, ce qui fut fait. Nous avions une personne de confiance dans le sud de la zone, Lebedev. On lui avait confié comme mission de surveiller toutes les intrusions par le sud dans la Zone protégée et d'étudier les effets des émissions sur la Biosphère dans périphérie de la Barrière de protection. Dans ce but, Lebedev à créer la faction "Firmament" équipée d'appareils de mesures et d'une base logistique dans le Marais. Bien entendu, seul Lebedev était courant qu'en fait  la faction travaillait pour nous, la "Conscience-C".
+		\nUn jour, il nous a dit qu'il avait trouvé un mercenaire professionnel qui a développé l'immunité contre les effets psychiques et une très grande résistance aux émissions. Pour travailler pour la faction, ce mercenaire a demandé une somme d'argent pour le traitement de sa fille malade, nous avons accepté et donné la somme à Lebedev.
+		\nDepuis sa première mésaventure, Strelok était devenu très prudent et toutes les tentatives pour le détruire avaient échouées. Nous avions compris, que pour détruire Strelok, il nous fallait un professionnel, un mercenaire suffisamment dans le besoin pour qu'il suive nos directives par l'intermédiaire de Lebedev.</text>
+	</string>
+	<string id="oso_son_dialog_10">
+		<text>Ici, cette salope de Lebed (chienne-cygne ?), je ne lui ai rien dit sur la fille ; 
+On dirait qu'il a parlé de la cache de l'absolu dans base RE pendant son dans le délire.
+Qu'est-il arrivé ensuite ?</text>
+	</string>
+<string id="oso_son_dialog_11">
+		<text>xxxxx</text>
+	</string>
+	<string id="oso_son_dialog_12">
+		<text>
+		Il s'avère que j'ai été suspendu entre la terre et nembom plus d'un an ! Etre en colère contre toi ne suffit pas, cependant, si elle n'avait pas commencé à travailler sur des données scientifiques, il y aurait ces mystifacteurs, cela signifie que je ne savais pas alors qu'elle était dans le marais, après sa libération. Qu'est-ce que c'est le maitre des souhaits ?</text>
+	</string>
+<string id="oso_son_dialog_13">
+		<text>
+		Ce qu'on appelle le maitre des souhaits ? Il s'agit d'un gros rocher que nous avons créé dans le générateur. Plus tard on l'a mis dans un sarcophage et on l'a appelé "monolithe". Par conséquent en mettant plus d'énergies et nanogénérateurs a permit de le garder sous contrôle, créant l'illusion d'un pouvoir surnaturel,  ce qui nous fait qu'une personne simple croit au miracle comme dans un conte de fées.  Grâce à lui nous avons créé la meilleure protection qui soit  c'est à dire un groupe dit "Monolithe". Il ya un an, Archer a éclaté les nanogénérateurs du Monolith et donc placés hors de contrôle. Son sort est inconnu parce tous mes employés ont été arrêtés par le bureau du procureur militaire. J'ai réussi à les rembourser et ils ont disparus  dans les catacombes, parce j'ai pas racheté ma faute, même après une longue peine d'emprisonnement.</text>
+	</string>
+	<string id="oso_son_dialog_14">
+		<text>Je connais un "Conscience-C" qui a couru au Cordon avec ses coéquipiers. Si vous étiez connecté à générateur vous devez connaitre d.Klenova, Solvadora Misyul et les  autres ? Le Générateur a  explosé, et les employés maintenant sont au cordon.</text>
+	</string>
+<string id="oso_son_dialog_15">
+		<text>Maples et le couple Solvador-Misyul - les employés les plus talentueux. Je sais que les générateurs ont explosés. Mais pourquoi ces employés sont allés au  cordon ?</text>
+	</string>
+	<string id="oso_son_dialog_16">
+		<text>Vous avez une chance de se racheter, en fait, que passer à l'Cordon, à la sienne. Votre tête est nettement insuffisant pour une cause commune.
+Dans la région, il était un ennemi insidieux, qui allie Lebedev. Cet ennemi, vous avez besoin d'apprivoiser l'insolite, de façon unique, à savoir besoin de ramasser la clé de cet ennemi. Tout, je commence à se réveiller ...</text>
+	</string>
+
+
+
+<string id="oso_son_dialog2_0">
+		<text>Vous, qui êtes-vous?</text>
+	</string>
+<string id="oso_son_dialog2_1">
+		<text>Je suis de la "Sur-conscience», et vous, par la description de Lebedev, le mercenaire qui n'a pas réussi la tâche de détruire la flèche il ya deux ans. Je dis vrai ?</text>
+	</string>
+	<string id="oso_son_dialog2_2">
+		<text>Non c'est faux. Vous pouvez parler normalement et non pas comme un étranger ?</text>
+	</string>
+<string id="oso_son_dialog2_4">
+		<text>Non, je ne peux pas. Certaines de mes blessures ont endommagé six des sept modules vocaux. Donc désolé pour la gêne occasionnée.</text>
+	</string>
+<string id="oso_son_dialog2_5">
+		<text>Il est clair que rien n'est clair, mais le travail de la flèche, j'ai respecté. Protection psi elle a été désactivée. Que fait O-conscience?</text>
+	</string>
+	<string id="oso_son_dialog2_6">
+		<text>Brûleur cerveau - votre découverte?</text>
+	</string>
+<string id="oso_son_dialog2_7">
+		<text>Pour éviter la publicité et le scandale international, il est devenu nécessaire de diviser la zone entre le Nord et le Sud. Et pour cela nous avons besoin d'une barrière. Mais nous ne pouvons pas supposer que les spectateurs habituels curieux popret aucune protection spéciale en vertu de la forte influence psy-rayonnement, c'est à dire Brûleur sous le cerveau, dont aucun côté n'était pas là. Mais quand même trouvé un harceleur, qui a réussi à contourner le problème en Limansk.</text>
+	</string>
+	<string id="oso_son_dialog2_8">
+		<text>Il s'agit d'un jeu de tir, bien sûr, mais pouvez-vous savoir ce qui s'est passé à Strelok et pour moi quand j'ai éteint les tireurs psi-défense? Je m'explique: les approches de la catastrophe de Tchernobyl a eu beaucoup de téléports d'Eutelsat. Immédiatement après un tir réussi, a commencé la publication, et puis je ne me rappelle rien. Comme une sieste, mais ils m'ont trouvé au bout de 2 ans, 2 Intermedia certaines anomalies. Pourquoi je n'ai pas trouvé il ya un an, par exemple, et j'ai été capable de survivre? Pouvez-vous expliquer - la science de la putain?</text>
+	</string>
+<string id="oso_son_dialog2_9">
+		<text>Après avoir réussi la première traversée de la barrière tireur est revenu, mais pas au sud de la zone. Ici, je pense, que sa première défense psionique prototype n'était pas suffisamment fiable. Et nous avons réalisé que le tireur va vers le nord à n'importe quel prix, s'améliorera lorsque son prototype. Et nous n'avions pas tort. Nous avons eu notre peuple dans le sud de la zone - Lebedev. Il avait deux problèmes. Première - de suivre tous les mouvements dans la zone sud, c'est à dire de l'autre côté de la barrière. La seconde - pour étudier l'effet des émissions sur la biosphère zones périphériques, c'est- banlieue sud, avec un appareil spécial. Pour cela a été artificiellement créé un groupe appelé Clear Sky, qui ne savait même pas ce qui fonctionne pour nous. La vérité ne connaissait Lebedev. Un jour, il nous a dit qu'il avait trouvé un mercenaire professionnel, qui a développé l'immunité contre les effets psychiques et est très vybrosoustoychiv. Ensuite, il a demandé une somme d'argent pour le traitement de sa fille mercenaire, nous avons accepté et donné l'argent à Lebedev. Depuis le tireur était très prudent, et toutes les tentatives pour détruire elle avait échoué, nous avons réalisé que l'aiguille peut être détruite que par la prudence même professionnelle mercenaire.</text>
+	</string>
+	<string id="oso_son_dialog2_10">
+		<text>Ici,cette salope, je lui ai parlé de sa fille ne dit rien. On dirait qu'il a laissé échapper, et aussi, sur le cache avec l'absolu, quand il était dans le délire, les RE base. Qu'est-il arrivé ensuite?</text>
+	</string>
+<string id="oso_son_dialog2_11">
+		<text>xxxxx</text>
+	</string>
+	<string id="oso_son_dialog2_12">
+		<text>Il s'avère que j'ai été suspendu entre la terre et nembom plus d'un an? En colère contre toi ne suffit pas, cependant, si elle n'avait pas commencé à travailler sur des données scientifiques, il y aurait ces modificateurs, et cela signifie que je ne survivrai pas qu'elle était alors, dans le marais, après la libération. Qu'est-ce que - Wishmaster?</text>
+	</string>
+<string id="oso_son_dialog2_13">
+		<text>Ce qu'on appelle l'entrepreneur, il s'agit d'un gros rocher, que nous avons créé dans le générateur. Plus tard, le mettre dans un sarcophage et a appelé monolithes.
+Par conséquent mettre plus d'énergie et nanogénérateurs l'a gardé sous contrôle, créant l'illusion d'un pouvoir surnaturel qui a fait l'homme du commun croire à ce miracle comme un conte de fées. Merci à lui, nous avons créé une meilleure protection, c'est à dire Monolith groupe. Il ya un an, Archer a éclaté nanogénérateurs et Monolith hors de contrôle. Son sort est inconnu pour moi, parce tous mes employés ont été arrêtés par le bureau du procureur militaire. J'ai réussi à rembourser eux et ils disparaissent dans catacombes, parce pas racheté ma faute, même après une longue peine d'emprisonnement.</text>
+	</string>
+	<string id="oso_son_dialog2_14">
+		<text>Je connais un O-soznantsa qui a couru à l'Cordon avec ses coéquipiers. Si vous étiez connecté à un générateur, vous devez savoir d.Klenova, Solvadora Misyul et les conjoints. Générateurs explosé, et les employés maintenant sur le cordon.</text>
+	</string>
+<string id="oso_son_dialog2_15">
+		<text>Maples, et le couple Solvador Misyul - les employés les plus talentueux. Le fait que les générateurs explosé je sais. Mais pourquoi ces employés sont situées sur le cordon?</text>
+	</string>
+	<string id="oso_son_dialog2_16">
+		<text>Vous avez une chance, d'expier votre faute, c'est-à-dire que vous vous rendrez au Cordon. Votre tête(responsable), ne suffit pas simplement pour l'affaire(activité) commune. L'otage est rusé il se révèle être un allié de Lebedev, . Cet otage, il est faut l'approcher de façon discrète, unique, c'est-à-dire qu'il est nécessaire de prendre la clé(touche) de cet otage. Tout, je commencent à me réveiller ...</text>
+	</string>
+
+
+
+<string id="oso_son_dialog3_0">
+		<text>Vous, qui êtes-vous?</text>
+	</string>
+<string id="oso_son_dialog3_1">
+		<text>Je suis de la "Sur-conscience», et vous, par la description de Lebedev, le mercenaire qui n'a pas la tâche de détruire la flèche il ya deux ans. Je dis vrai?</text>
+	</string>
+<string id="oso_son_dialog3_2">
+		<text>Non, c'est faux. Pouvez-vous parler normalement et non pas comme un étranger ?</text>
+	</string>
+<string id="oso_son_dialog3_3">
+		<text>Non, je ne peux pas. Au cours de blessés ont été endommagés six des sept modules vocaux. Donc désolé pour la gêne occasionnée.</text>
+	</string>
+<string id="oso_son_dialog3_4">
+		<text>Il est clair que rien n'est clair, mais le travail de la flèche, j'ai respecté. Protection psi elle a été désactivée. Que fait O-conscience?</text>
+	</string>
+<string id="oso_son_dialog3_5">
+		<text>Nous disposons d'un réseau de scientifiques qui ont travaillé avec la noosphère. Au cours d'une expérience ratée, nous avons créé la Zone. Zone pour nous était un outil très important pour la découverte scientifique.</text>
+	</string>
+<string id="oso_son_dialog3_6">
+		<text>Brûleur cerveau - votre découverte?</text>
+	</string>
+<string id="oso_son_dialog3_7">
+		<text>Pour éviter la publicité et le scandale international, il est devenu nécessaire de diviser la zone entre le Nord et le Sud. Et pour cela nous avons besoin d'une barrière. Mais nous ne pouvons pas supposer que les spectateurs habituels curieux popret aucune protection spéciale en vertu de la forte influence psy-rayonnement, c'est à dire Brûleur sous le cerveau, dont aucun côté n'était pas là. Mais quand même trouvé un harceleur, qui a réussi à contourner le problème en Limansk.</text>
+	</string>
+<string id="oso_son_dialog3_8">
+		<text>Il s'agit d'un jeu de tir, bien sûr, mais pouvez-vous savoir ce qui s'est passé à Strelok et pour moi quand j'ai éteint les tireurs psi-défense? Je m'explique: les approches de la catastrophe de Tchernobyl a eu beaucoup de téléports d'Eutelsat. Immédiatement après un tir réussi, a commencé la publication, et puis je ne me rappelle rien. Comme une sieste, mais ils m'ont trouvé au bout de 2 ans, 2 Intermedia certaines anomalies. Pourquoi je n'ai pas trouvé il ya un an, par exemple, et j'ai été capable de survivre? Pouvez-vous expliquer - la science de la putain?</text>
+	</string>
+<string id="oso_son_dialog3_9">
+		<text>Après avoir réussi la première traversée de la barrière tireur est revenu, mais pas au sud de la zone. Ici, je pense, que sa première défense psionique prototype n'était pas suffisamment fiable. Et nous avons réalisé que le tireur va vers le nord à n'importe quel prix, s'améliorera lorsque son prototype. Et nous n'avions pas tort. Nous avons eu notre peuple dans le sud de la zone - Lebedev. Il avait deux problèmes. Première - de suivre tous les mouvements dans la zone sud, c'est à dire de l'autre côté de la barrière. La seconde - pour étudier l'effet des émissions sur la biosphère zones périphériques, c'est- banlieue sud, avec un appareil spécial. Pour cela a été artificiellement créé un groupe appelé Clear Sky, qui ne savait même pas ce qui fonctionne pour nous. La vérité ne connaissait Lebedev. Un jour, il nous a dit qu'il avait trouvé un mercenaire professionnel, qui a développé l'immunité contre les effets psychiques et est très vybrosoustoychiv. Ensuite, il a demandé une somme d'argent pour le traitement de sa fille mercenaire, nous avons accepté et donné l'argent à Lebedev. Depuis le tireur était très prudent, et toutes les tentatives pour détruire elle avait échoué, nous avons réalisé que l'aiguille peut être détruite que par la prudence même professionnelle mercenaire.</text>
+	</string>
+<string id="oso_son_dialog3_10">
+		<text>Vous avez une chance, d'expier votre faute, c'est-à-dire que vous vous rendrez au Cordon. Votre tête(responsable), ne suffit pas simplement pour l'affaire(activité) commune. L'otage est rusé il se révèle être un allié de Lebedev, . Cet otage, il est faut l'approcher de façon discrète, unique, c'est-à-dire qu'il est nécessaire de prendre la clé(touche) de cet otage. Tout, je commencent à me réveiller</text>
+	</string>
+<string id="oso_son_dialog3_11">
+		<text>xxxxx</text>
+	</string>
+<string id="oso_son_dialog3_12">
+		<text>Il s'avère que j'ai été suspendu entre la terre et nembom plus d'un an? En colère contre toi ne suffit pas, cependant, si elle n'avait pas commencé à travailler sur des données scientifiques, il y aurait ces modificateurs, et cela signifie que je ne survivrai pas qu'elle était alors, dans le marais, après la libération. Qu'est-ce que - Wishmaster?</text>
+	</string>
+<string id="oso_son_dialog3_13">
+		<text>Ce qu'on appelle l'entrepreneur, il s'agit d'un gros rocher, que nous avons créé dans le générateur. Plus tard, le mettre dans un sarcophage et a appelé monolithes.
+Par conséquent mettre plus d'énergie et nanogénérateurs l'a gardé sous contrôle, créant l'illusion d'un pouvoir surnaturel qui a fait l'homme du commun croire à ce miracle comme un conte de fées. Merci à lui, nous avons créé une meilleure protection, c'est à dire Monolith groupe. Il ya un an, Archer a éclaté nanogénérateurs et Monolith hors de contrôle. Son sort est inconnu pour moi, parce tous mes employés ont été arrêtés par le bureau du procureur militaire. J'ai réussi à rembourser d'eux et disparaissent dans catacombes, parce pas racheter ma faute, même après une longue peine d'emprisonnement.</text>
+	</string>
+<string id="oso_son_dialog3_14">
+		<text>Je connais un Conscience-C qui a couru au Cordon avec ses coéquipiers. Si vous étiez connecté à un générateur, vous devez savoir d.Klenova, Solvadora Misyul et les conjoints? Générateurs explosé, et les employés maintenant sur le cordon.</text>
+	</string>
+<string id="oso_son_dialog3_15">
+		<text>Maples, et le couple Solvador Misyul - les employés les plus talentueux. Le fait que les générateurs explosé je sais. Mais pourquoi ces employés sont situées sur le cordon?</text>
+	</string>
+<string id="oso_son_dialog3_16">
+		<text>Vous avez une chance de se racheter, en fait, que passer à l'Cordon, à la sienne. Votre tête est nettement insuffisant pour une cause commune. Dans la région, il était un ennemi insidieux, qui allie Lebedev. Cet ennemi, vous avez besoin d'apprivoiser l'insolite, de façon unique, à savoir besoin de ramasser la clé de cet ennemi. Tout, je commence à me réveiller ...</text>
+	</string>
+
+
+
+<string id="oso_son_dialog4_0">
+		<text>Vous ! qui êtes-vous ?</text>
+	</string>
+<string id="oso_son_dialog4_1">
+		<text>Je suis de la "Sur-conscience», et vous, par la description de Lebedev, le mercenaire qui n'a pas la tâche de détruire Strelok il ya deux ans. N'est-ce pas ?</text>
+	</string>
+<string id="oso_son_dialog4_2">
+		<text>Pas tout a fait. Vous pourriez parler normalement et pas comme un alien ?</text>
+	</string>
+<string id="oso_son_dialog4_3">
+		<text>Non, je ne peux pas. Six des sept modules vocaux ont été endommagés. Donc désolé pour la gêne occasionnée.</text>
+	</string>
+<string id="oso_son_dialog4_4">
+		<text>Il est clair que vos informations sont incorrectes mon contrat sur Strelok a été accompli. Sa protection Psi je l'avais désactivée, comme demandé. Que fait la "Conscience-C"?</text>
+	</string>
+<string id="oso_son_dialog4_5">
+		<text>Nous disposons d'un réseau de scientifiques qui ont travaillés avec la noosphère. Au cours d'une expérience ratée, nous avons créé la Zone. La Zone était pour nous un outil très important pour les recherches scientifiques</text>
+	</string>
+<string id="oso_son_dialog4_6">
+		<text>Le lobotomisateur ? C'est ça votre découverte ?</text>
+	</string>
+<string id="oso_son_dialog4_7">
+		<text>Pour éviter la publicité et un scandale international, ils nous est devenu nécessaire de séparer la Zone Nord et Sud, pour cela nous avions besoin d'une Barrière. Elle était très efficace contre tous les curieux, les ramassis de la société et les illumunés, mais nous n'avions par prévu qu'un stalker plus malin, puisse passer par Limansk évitant de se faire griller la cervelle.</text>
+	</string>
+<string id="oso_son_dialog4_8">
+		<text>Ouais, vous aviez un sacré bac à sable pour jouer ! Mais savez-vous ce qui nous est arrivés à Strelok et à moi, une fois la protection-Psi de Strelok désactivée ?
+		\nJe m'explique: en approchant de la centrale de TCHERNOBYL il a eu beaucoup de portails de transition. Immédiatement après le tir réussi un cataclysme s'est déclenché et puis je ne me rappelle rien. Le trou noir.</text>
+	</string>
+<string id="oso_son_dialog4_9">
+		<text>>Après avoir réussi l'infiltration dans la Zone interdite, Strelok est revenu, mais il est passé par le sud de Zone, via les Entrepôts Militaires. Il existait un prototype qui inhibait les effets psychique sur le cerveau, mais il n'était pas fiable. Nous avions invisagé que ce prototype serai fiabilisé et que rien n'empécherait une personne de passer. Nous n'avions pas tord, Strelok a convaincu certains scientifiques de Yantar d'améliorer le casque, ce qui fut fait. Nous avions une personne de confiance dans le sud de la zone, Lebedev. On lui avait confié comme mission de surveiller toutes les intrusions par le sud dans la Zone protégée et d'étudier les effets des émissions sur la Biosphère dans périphérie de la Barrière de protection. Dans ce but, Lebedev à créer la faction "Firmament" équipée d'appareils de mesures et d'une base logistique dans le Marais. Bien entendu, seul Lebedev était courant qu'en fait  la faction travaillait pour nous, la "Conscience-C".
+		\nUn jour, il nous a dit qu'il avait trouvé un mercenaire professionnel qui a développé l'immunité contre les effets psychiques et une très grande résistance aux émissions. Pour travailler pour la faction, ce mercenaire a demandé une somme d'argent pour le traitement de sa fille malade, nous avons accepté et donné la somme à Lebedev.
+		\nDepuis sa première mésaventure, Strelok était devenu très prudent et toutes les tentatives pour le détruire avaient échouées. Nous avions compris, que pour détruire Strelok, il nous fallait un professionnel, un mercenaire suffisamment dans le besoin pour qu'il suive nos directives par l'intermédiaire de Lebedev.</text>
+	</string>
+<string id="oso_son_dialog4_10">
+		<text>Ici, cette salope de chienne, je ne lui ai rien dit sur la fille ; 
+On dirait qu'il a parlé de la cache de l'absolu dans base RE pendant son dans le délire.
+Qu'est-il arrivé ensuite ?</text>
+	</string>
+<string id="oso_son_dialog4_11">
+		<text>xxxxx</text>
+	</string>
+<string id="oso_son_dialog4_12">
+		<text>Il s'avère que j'ai été suspendu entre la terre et nembom plus d'un an ! Etre en colère contre toi ne suffit pas, cependant, si elle n'avait pas commencé à travailler sur des données scientifiques, il y aurait ces mystifacteurs, cela signifie que je ne savais pas alors qu'elle était dans le marais, après sa libération. Qu'est-ce que c'est le maitre des souhaits ?</text>
+	</string>
+<string id="oso_son_dialog4_13">
+		<text>Ce qu'on appelle le maitre des souhaits ? Il s'agit d'un gros rocher que nous avons créé dans le générateur. Plus tard on l'a mis dans un sarcophage et on l'a appelé "monolithe". Par conséquent en mettant plus d'énergies et nanogénérateurs a permit de le garder sous contrôle, créant l'illusion d'un pouvoir surnaturel,  ce qui nous fait qu'une personne simple croit au miracle comme dans un conte de fées.  Grâce à lui nous avons créé la meilleure protection qui soit  c'est à dire un groupe dit "Monolithe". Il ya un an, Archer a éclaté les nanogénérateurs du Monolith et donc placés hors de contrôle. Son sort est inconnu parce tous mes employés ont été arrêtés par le bureau du procureur militaire. J'ai réussi à les rembourser et ils ont disparus  dans les catacombes, parce j'ai pas racheté ma faute, même après une longue peine d'emprisonnement</text>
+	</string>
+<string id="oso_son_dialog4_14">
+		<text>Je connais un "Conscience-C" qui a couru au Cordon avec ses coéquipiers. Si vous étiez connecté à générateur vous devez connaitre d.Klenova, Solvadora Misyul et les  autres ? Le Générateur a  explosé, et les employés maintenant sont au cordon.</text>
+	</string>
+<string id="oso_son_dialog4_15">
+		<text>Maples et le couple Solvador-Misyul - les employés les plus talentueux. Je sais que les générateurs ont explosés. Mais pourquoi ces employés sont allés au  cordon ?</text>
+	</string>
+<string id="oso_son_dialog4_16">
+		<text>Vous avez une chance de se racheter, en fait, que passer à l'Cordon, à la sienne. Votre tête est nettement insuffisant pour une cause commune.
+Dans la région, il était un ennemi insidieux, qui allie Lebedev. Cet ennemi, vous avez besoin d'apprivoiser l'insolite, de façon unique, à savoir besoin de ramasser la clé de cet ennemi. Tout, je commence à me réveiller...</text>
+	</string>
+
+
+
+<string id="voron_nozh_dialog_0">
+		<text>Pouvez-vous me vendre une hache ?</text>
+	</string>
+<string id="voron_nozh_dialog_1">
+		<text>Non. Si vous me trouvez dix bouteilles de vodka je vous donnerai un couteau, j'ai perdu un pari hier.</text>
+	</string>
+<string id="voron_nozh_dialog_2">
+		<text>Bon je vous trouverez les dix bouteilles pour fêter ça </text>
+	</string>
+
+
+
+<string id="voron_nozh_ok_dialog_0">
+		<text>Trouvez les bouteilles</text>
+	</string>
+<string id="voron_nozh_ok_dialog_1">
+		<text>Excellent !! vous m'avez sauvé ! Prenez-ça.</text>
+	</string>
+<string id="voron_nozh_ok_dialog_2">
+		<text>Ok...</text>
+	</string>
+
+
+
+<string id="klen_oso_dialog_0">
+		<text>Puis-je vous demander quelque chose ?</text>
+	</string>
+<string id="klen_oso_dialog_1">
+		<text>Voilà. J'ai fait un rêve mais qui était réel. Dans mon rêve j'ai entendu une conscience me parler un peu comme à travers un songe. Vous connaissez ça ?</text>
+	</string>
+<string id="klen_oso_dialog_2">
+		<text> Il y a eu un chef des chercheurs qui travaillait surtout sur le sarcophage après la catastrophe. Le sort lui a joué un mauvais tour : il a perdu la moitiè de la langue.Il était impossible de comprendre ce qu'il disait; il avait moins de 7 cordes vocales.</text>
+	</string>
+<string id="klen_oso_dialog_3">
+		<text>Il a dit qu'il avait été blessé par une étreinte mortelle, seul resté le 7 ème élément. Docteur à Tchernobyl, le générateur  est basé au Nord ?</text>
+	</string>
+<string id="klen_oso_dialog_4">
+		<text>Le laboratoire mobile de la station Jupiter et le laboratoire ou le lobotomisateur fut inventé.</text>
+	</string>
+<string id="klen_oso_dialog_5">
+		<text>Kostya a dit qu'(il fallait antteindre l'entrée avec les 5 petites antennes.Vous devez connaitre le tenichien qui a recodé toutes les portes.(à vérifier)</text>
+	</string>
+<string id="klen_oso_dialog_6">
+		<text>Je ne connaisais pas Kostya. Pour recoder les portes il faut s'y connaitre. La technologie ne suiffit pas. (à vérifier)</text>
+	</string>
+<string id="klen_oso_dialog_7">
+		<text>Kostya m'a roulé ! Je ne le "sentais" pas mais je lui ai donné les absolus. Je vais aller régler ça avec lui..</text>
+	</string>
+<string id="klen_oso_dialog_8">
+		<text>Non Balafré. Il faut être prudent et malin, suivons le avec le "doc vadorom" nous dirons ce que nous découvrirons</text>
+	</string>
+<string id="klen_oso_dialog_9">
+		<text>Ok!</text>
+	</string>
+
+</string_table>

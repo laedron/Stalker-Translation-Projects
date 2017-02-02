@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="ansi" ?>
+<!--SCAR mod_Fr_04/01/2013
+<string id="dialog_">
+	<text></text>
+</string>
+-->
+<string_table>
+<string id="dialog_bullet_wound">
+	<text>abattu par balles</text>
+</string>
+
+<string id="dialog_knife">
+	<text>trucidé au couteau</text>
+</string>
+
+<string id="dialog_burn">
+	<text>brûlé vif</text>
+</string>
+
+<string id="dialog_grenad">
+	<text>pulvérisé par grenade</text>
+</string>
+
+<string id="dialog_death_unknown">
+	<text>cause de la mort - inconnue</text>
+</string>
+
+<string id="dialog_died_stalker">
+	<text>Stalker mort:</text>
+</string>
+
+<string id="dialog_artefact">
+	<text>artefact </text>
+</string>
+
+<string id="dialog_count_one">
+	<text>un</text>
+</string>
+
+<string id="dialog_count_couple">
+	<text>une paire de</text>
+</string>
+
+<string id="dialog_count_little">
+	<text>quelques</text>
+</string>
+
+<string id="dialog_count_group">
+	<text>une poignés de</text>
+</string>
+
+<string id="dialog_count_big">
+	<text>un groupe de</text>
+</string>
+
+<string id="dialog_count_dozen">
+	<text>une dizaine de</text>
+</string>
+<string id="dialog_count_heap">
+	<text>un tas de</text>
+</string>
+
+<string id="dialog_dist_near">
+	<text>à côté</text>
+</string>
+
+<string id="dialog_dist_nearby">
+	<text>tout près</text>
+</string>
+
+<string id="dialog_dist_east">
+	<text>à l'est</text>
+</string>
+
+<string id="dialog_dist_northeast">
+	<text>au nord-est</text>
+</string>
+
+<string id="dialog_dist_north">
+	<text>au nord</text>
+</string>
+
+<string id="dialog_dist_northwest">
+	<text>au nord-ouest</text>
+</string>
+
+<string id="dialog_dist_west">
+	<text>à l'ouest</text>
+</string>
+
+<string id="dialog_dist_southwest">
+	<text>au sud-ouest</text>
+</string>
+
+<string id="dialog_dist_south">
+	<text>au sud</text>
+</string>
+
+<string id="dialog_dist_southeast">
+	<text>au sud-est</text>
+</string>
+
+<string id="dialog_dist_nearly">
+	<text>non loin</text>
+</string>
+
+<string id="dialog_unknown_origin">
+	<text>[source inconnue]</text>
+</string>
+
+<string id="dialog_name_semetsky">
+	<text>Yury Semetsky</text>
+</string>
+
+<string id="dialog_lost_stalker">
+	<text>Stalker mort:</text>
+</string>
+
+<string id="dialog_time_hour">
+	<text>une heure ou deux</text>
+</string>
+
+<string id="dialog_time_hours">
+	<text>une poignée d'heures</text>
+</string>
+
+<string id="dialog_time_8_hours">
+	<text>entre 6-7 heures</text>
+</string>
+
+<string id="dialog_time_morning">
+	<text>dans le matinée</text>
+</string>
+
+<string id="dialog_time_afternoon">
+	<text>dans l'après-midi</text>
+</string>
+
+<string id="dialog_time_dinner">
+	<text>en début de soirée</text>
+</string>
+
+<string id="dialog_time_evening">
+	<text>en soirée</text>
+</string>
+
+<string id="dialog_time_night">
+	<text>dans le nuit</text>
+</string>
+
+<string id="dialog_time_tom_morning">
+	<text>demain matin</text>
+</string>
+
+<string id="dialog_time_tom_afternoon">
+	<text>demain après-midi</text>
+</string>
+
+<string id="dialog_time_tom_dinner">
+	<text>demain en fin de journée</text>
+</string>
+
+<string id="dialog_time_tom_night">
+	<text>demain en soirée</text>
+</string>
+
+<string id="dialog_has_found">
+	<text>trouvé</text>
+</string>
+
+<string id="dialog_fight_with">
+	<text>se bat avec</text>
+</string>
+
+<string id="dialog_heard_horri_a">
+	<text>Entendu des cris horribles </text>
+</string>
+
+<string id="dialog_heard_horri_z">
+	<text>entendu d'horribles cris </text>
+</string>
+
+<string id="dialog_heard_roar_a">
+	<text>Entendu un rugissement terrible </text>
+</string>
+
+<string id="dialog_heard_roar_z">
+	<text>entendu un terrible rugissement</text>
+</string>
+
+<string id="dialog_novice_in_zone">
+	<text>depuis peu dans la Zone</text>
+</string>
+
+<string id="dialog_on_connect">
+	<text>Etat de la connexion:</text>
+</string>
+
+<string id="dialog_on_disconnect">
+	<text>Etat de la connexion:</text>
+</string>
+</string_table>

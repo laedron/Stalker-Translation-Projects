@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="ansi" ?>
+<!--SCAR mod_VF_19/02/2013
+Correction partielle: rongeurdos
+-->
+
+	<!--(Common)-->
+<string id="dialog_rouble_ru">
+	<text>roubles</text>
+</string>
+
+	<!--(restriction_stock.script)-->
+<string id="restriction_stock_msg_1">
+	<text>Sac à dos rempli à pleine capacite!</text>
+</string>
+<string id="restriction_stock_msg_2">
+	<text>Sac à dos, plein comme une huitre!</text>
+</string>
+<string id="restriction_stock_msg_3">
+	<text>Je vais devoir refuser, parce que le sac à dos est plein.</text>
+</string>
+<string id="restriction_stock_msg_4">
+	<text>Sac à dos n'est pas en caoutchouc!</text>
+</string>
+<string id="restriction_stock_msg_5">
+	<text>Sac à dos plein.</text>
+</string>
+<string id="restriction_stock_msg_6">
+	<text>Je n'ai nulle part où le mettre!</text>
+</string>
+<string id="restriction_stock_msg_7">
+	<text>Pour le prendre, il faudra faire de la place.</text>
+</string>
+
+
+	<!--(task_manager.script)-->
+<string id="show_reward_text">
+	<text>Pour cela, je vais vous donner:</text>
+</string>
+
+<!--amk_fly_func_13.script-->
+<string id="dialog_aes2_heli_fly_start_point2">
+	<text>%c[1,1,255,255]GASTELLO:\n%c[255,255,128,128]Strelok! Vous aussi vous ètes un Strelok! Je me souviens! Par ici amis, je vais atterrir à côté du camion de pompier, garre au souffle. Oui, c'est ça! Les ennemis dans le centre dégagent. Quelqu'un à désactivé l'émetteur...Oui, donc ce n'était pas vous, par hasard? Alors. C'est... c'est...Strelok qui l'a désactivé! Je suis déjà ivre et je vais boire à nouveau pour vous Strelok, faisons sauter ces maraudeurs.\n</text>
+</string>
+
+<!--braad_test.script-->
+<string id="dialog_start_yes">
+	<text>%c[255,160,160,160]BALAFRÉ:\n%c[255,128,255,128]Ma tête va exploser!... Quand est-ce ça s'arrêtera!\n</text>
+</string>
+<string id="braad_case_1">
+	<text>MALETTE n°1</text>
+</string>
+<string id="braad_case_2">
+	<text>MALETTE n°2</text>
+</string>
+<string id="text_dol_pulja_taynik_restr">
+	<text>Cache de Cartouche</text><!-- Stash Bullets -->
+</string>
+<string id="text_sidor_niva_meta_restr">
+	<text>Conduire la Niva au centre du cercle de localisation.</text><!-- Where you want to drive the cornfield -->
+</string>
+
+
+<!--level_new.script-->
+<string id="dialog_create_level_changer">
+	<text>Transition ouverte.</text>
+</string>
+
+<string id="dialog_strelok_teleport_zashita">
+	<text>Portail de transition de la planque activé</text>
+</string>
+
+<string id="dialog_strelok_teleport">
+	<text>Portail de transition de Strelok activé.</text>
+</string>
+
+	<!--amk_mod.script-->
+<string id="dialog_esc_spawn_star_here">
+	<text>Ici dans Cordon</text><!--Here in Cordon-->
+</string>
+ <string id="dialog_esc_spawn_star_search"><!--I think you should search. I'm pretty sure it's somewhere there.-->
+	<text>C'est dans ce coin que tu devrais chercher. Je suis sûr qu'elle y est encore.</text>
+</string>
+
+	<!--lootmoney.script-->
+<string id="dialog_lootmoney_tex_1">
+	<text>\n%c[255,255,0,0]Stalker Mort: %c[default]</text>
+</string>
+<string id="dialog_lootmoney_tex_2">
+	<text>\n%c[255,255,0,0]Argent récupéré: %c[default]</text>
+</string>
+
+<!--stco.script-->
+<string id="stco_no_signal">
+	<text>Pas de signal SP!</text>
+</string>
+<string id="stco_longitude">
+	<text>Longitude:</text>
+</string>
+<string id="stco_latitude">
+	<text>Latitude:</text>
+</string>
+<string id="stco_elevation">
+	<text>Altitude:</text>
+</string>
+<string id="stco_destination">
+	<text>Déstination:</text>
+</string>
+<string id="stco_free_time">
+	<text>Temps libre</text>
+</string>
+<string id="stco_mode">
+	<text>mode!</text>
+</string>
+
+<!--gps_habar.script-->
+<string id="gps_habar_died">
+	<text>mort</text>
+</string>
+<string id="gps_habar_alive">
+	<text>vivant</text>
+</string>
+<string id="gps_habar_days">
+	<text>jours</text>
+</string>
+<string id="gps_habar_unknown">
+	<text>"Inconnue"</text>
+</string>
+<string id="gps_habar_stalker_died">
+	<text>%c[255,255,128,128]Stalker Mort:</text>
+</string>
+<string id="gps_habar_stalker_died_gps">
+	<text>avec une balise GPS</text>
+</string>
+<string id="gps_habar_stalker_tip">
+	<text>Identification GPS du stalker</text>
+</string>
+<string id="gps_habar_empty_tip">
+	<text>Plus de butin dans la cahette. Etiquette de cachette vide.</text>
+</string>
+<string id="gps_habar_empty">
+	<text>La cachette est vide.</text>
+</string>
+<string id="gps_habar_tip">
+	<text>Etiquette et liste du butin de la cachette.</text>
+</string>
+<string id="gps_habar_gps_state_1_1">
+	<text>%c[255,255,128,128]Par le biais de</text>
+</string>
+<string id="gps_habar_gps_state_1_2">
+	<text>y compris pour les balises de localisation</text>
+</string>
+<string id="gps_habar_gps_state_1_3">
+	<text>il faudra changer la pile.</text>
+</string>
+<string id="gps_habar_gps_state_2_1">
+	<text>%c[255,255,128,128]La balise est bloqué sur</text>
+</string>
+<string id="gps_habar_gps_state_2_2">
+	<text>la batterie est HS. La connexion est perdue.</text>
+</string>

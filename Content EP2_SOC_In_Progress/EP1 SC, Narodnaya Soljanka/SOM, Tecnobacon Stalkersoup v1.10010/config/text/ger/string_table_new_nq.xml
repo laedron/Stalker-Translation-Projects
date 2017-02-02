@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+		<string id="aes_case1_desc">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 8 Einheiten%c[default].\n \nFeuerfester Aktenkoffer Nr.1. Inhalt - wahrscheinlich wertvolle Dokumente. Muss unbedingt, zusammen mit zwei anderen, an Meister Solomon ьbergeben werden.</text>
+		</string>
+		<string id="aes_case1_name">
+		<text>Feuerfester Aktenkoffer</text>
+		</string>
+		<string id="aes_case2_desc">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 8 Einheiten%c[default].\n \nFeuerfester Aktenkoffer Nr.2. Inhalt - wahrscheinlich wertvolle Dokumente. Muss unbedingt, zusammen mit zwei anderen, an Meister Solomon ьbergeben werden.</text>
+		</string>
+		<string id="aes_case2_name">
+		<text>Feuerfester Aktenkoffer</text>
+		</string>
+		<string id="aes_case3_desc">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 8 Einheiten%c[default].\n \nFeuerfester Aktenkoffer Nr.3. Inhalt - wahrscheinlich wertvolle Dokumente. Muss unbedingt, zusammen mit zwei anderen, an Meister Solomon ьbergeben werden.</text>
+		</string>
+		<string id="aes_case3_name">
+		<text>Feuerfester Aktenkoffer</text>
+		</string>
+		<string id="stranger">
+		<text>Stalker</text>
+		</string>
+		<string id="doctor_box_desc">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 17 Einheiten%c[default].\n \nSpezialcontainer fьr den Transport von Medikamenten. Eine Leiferung des "Sumpfdoktors" fьr den Meister Charon.</text>
+		</string>
+		<string id="doctor_box_name">
+		<text>Container mit Medikamenten</text>
+		</string>
+		<string id="box_food_desc">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 20 Einheiten%c[default].\n \nHozkiste, mit Konserven gefьllt. Obwohl diese bestimmt schon vor lдngerer Zeit hergestellt wurden, scheint das konservierte Fleisch noch essbar zu sein. Meister Solomon wьrde sich freuen, wenn man diese Konserven ihm ьbergibt.</text>
+		</string>
+		<string id="box_food_name">
+		<text>Hozkiste, mit Konserven gefьllt</text>
+		</string>
+		<string id="enc_sms">
+		<text>Private Kurzmitteilungen</text>
+		</string>
+		<string id="sms">
+		<text>SMS-Mitteilung</text>
+		</string>
+		<string id="sms_haron">
+		<text>Absender: Charon</text>
+		</string>
+		<string id="sms_haron_text">
+		<text>Charon hier. Melde dich schnellstens persцnlich bei mir. Ich habe einen dringenden Auftrag fьr dich.</text>
+		</string>
+		<string id="shceme_document_desc">
+		<text>Kommunikationsplдne von Prypjat und AKW. Schemen, Karten und Zeichnungen, einer ohne entsprechende Ausbildung sieht da nur schwer durch. "Ghost" sagte aber, das diese fьr ihn nьtzlich sein kцnnen.</text>
+		</string>
+		<string id="shceme_document_name">
+		<text>Kommunikationsplдne von Prypjat und AKW</text>
+		</string>
+		<string id="solomon_box_desc">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 8 Einheiten\n%c[default].\n \nEin kleiner Metallcontainer. Solomons Paket. Sollte an den Hдndler im Kordon, namens "Sidorowitsch", ьbergeben werden.</text>
+		</string>
+		<string id="solomon_box_name">
+		<text>Ein kleiner Metallcontainer</text>
+		</string>
+		<string id="zahar_pismo_desc">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 0.5 Einheiten%c[default].\n \nEin Brief, sicher in eine Kartonage eingepackt. Fьr einen Stalker namens Danila von Hazar.</text>
+		</string>
+		<string id="zahar_pismo_name">
+		<text>Hazars Brief</text>
+		</string>
+		<string id="informator_doc_desc">
+		<text>Aktenmappe mit Liste der Agenten in der Zone, welche mit Militдr zusammengearbeitet haben. Ein Stalker, der sich "Der Wisser" nennt, hat an dieser Liste grosses Interesse.</text>
+		</string>
+		<string id="informator_doc_name">
+		<text>Aktenmappe mit einer Agenten-Liste</text>
+		</string>
+		<string id="wpn-winchester_knyaz">
+		<text>Winchester von "Fьrst"</text>
+		</string>
+		<string id="enc_wpn-winchester_knyaz">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 11 Einheiten%c[default].\n \nModifiziertes "Winchester"-Gewehr, das dem Banditenanfьhrer "Fьrst" gehцrte. Er wird sich garantiert freuen, wenn man ihm dieses Gewehr zurьckbringt.</text>
+		</string>
+		<string id="labx10_computer_desc">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 12 Einheiten%c[default].\n \nComputer aus dem Labor X-10 beim Radar. An diesem hat der Anfьhrer einer Digger-Gruppe, Swiblow, grosses Interesse.</text>
+		</string>
+		<string id="labx10_computer_name">
+		<text>Computer</text>
+		</string>
+		<string id="labx10_doc_desc">
+		<text>Dokumente aus dem Labor X-10 beim Radar. Swiblow, der Anfьhrer einer Digger-Gruppe, hat grosses Interesse an diesen.</text>
+		</string>
+		<string id="labx10_doc_name">
+		<text>Dokumente aus dem Labor X-10</text>
+		</string>
+		<string id="part1_desc">
+		<text>Teil einer Karte, auf der die Lage des Beuteverstecks von der Zonenlegende Semetzky persцnlich vermerkt sein soll.</text>
+		</string>
+		<string id="part1_name">
+		<text>Kartenteil Nr.1</text>
+		</string>
+		<string id="part2_desc">
+		<text>Teil einer Karte, auf der die Lage des Beuteverstecks von der Zonenlegende Semetzky persцnlich vermerkt sein soll.</text>
+		</string>
+		<string id="part2_name">
+		<text>Kartenteil Nr.2</text>
+		</string>
+		<string id="part3_desc">
+		<text>Teil einer Karte, auf der die Lage des Beuteverstecks von der Zonenlegende Semetzky persцnlich vermerkt sein soll.</text>
+		</string>
+		<string id="part3_name">
+		<text>Kartenteil Nr.3</text>
+		</string>
+		<string id="part4_desc">
+		<text>Teil einer Karte, auf der die Lage des Beuteverstecks von der Zonenlegende Semetzky persцnlich vermerkt sein soll.</text>
+		</string>
+		<string id="part4_name">
+		<text>Kartenteil Nr.4</text>
+		</string>
+		<string id="part5_desc">
+		<text>Teil einer Karte, auf der die Lage des Beuteverstecks von der Zonenlegende Semetzky persцnlich vermerkt sein soll.</text>
+		</string>
+		<string id="part5_name">
+		<text>Kartenteil Nr.5</text>
+		</string>
+		<string id="part6_desc">
+		<text>Teil einer Karte, auf der die Lage des Beuteverstecks von der Zonenlegende Semetzky persцnlich vermerkt sein soll.</text>
+		</string>
+		<string id="part6_name">
+		<text>Kartenteil Nr.6</text>
+		</string>
+		<string id="part7_desc">
+		<text>Teil einer Karte, auf der die Lage des Beuteverstecks von der Zonenlegende Semetzky persцnlich vermerkt sein soll.</text>
+		</string>
+		<string id="part7_name">
+		<text>Kartenteil Nr.7</text>
+		</string>
+		<string id="part8_desc">
+		<text>Teil einer Karte, auf der die Lage des Beuteverstecks von der Zonenlegende Semetzky persцnlich vermerkt sein soll.</text>
+		</string>
+		<string id="part8_name">
+		<text>Kartenteil Nr.8</text>
+		</string>
+		<string id="pus_semeckii_treasure_box_desc">
+		<text>Beuteversteck der Zonenlegende Semetzky persцnlich, Gerьchten zufolge, sind sehr, sehr wertvolle Sachen drin versteckt.</text>
+		</string>
+		<string id="pus_semeckii_treasure_box_name">
+		<text>Beuteversteck von Semetzky</text>
+		</string>
+		<string id="tainik_semeckii">
+		<text>Die Suche nach dem Versteck von Semetzky.</text>
+		</string>
+		<string id="first">
+		<text>Erstes Kartenteil</text>
+		</string>
+		<string id="first_part_text">
+		<text>Sie haben den ersten Teil der Karte gefunden, auf der die Lage des Beuteverstecks von der Zonenlegende Semetzky persцnlich vermerkt sein soll.</text>
+		</string>
+		<string id="second">
+		<text>Zweites Kartenteil</text>
+		</string>
+		<string id="second_part_text">
+		<text>Sie haben den zweiten Teil der Karte gefunden, auf der die Lage des Beuteverstecks von der Zonenlegende Semetzky persцnlich vermerkt sein soll.</text>
+		</string>
+		<string id="tri">
+		<text>Drittes Kartenteil</text>
+		</string>
+		<string id="tri_part_text">
+		<text>Sie haben den dritten Teil der Karte gefunden, auf der die Lage des Beuteverstecks von der Zonenlegende Semetzky persцnlich vermerkt sein soll.</text>
+		</string>
+		<string id="four">
+		<text>Viertes Kartenteil</text>
+		</string>
+		<string id="four_part_text">
+		<text>Sie haben den vierten Teil der Karte gefunden, auf der die Lage des Beuteverstecks von der Zonenlegende Semetzky persцnlich vermerkt sein soll.</text>
+		</string>
+		<string id="five">
+		<text>Fьnftes Kartenteil</text>
+		</string>
+		<string id="five_part_text">
+		<text>Sie haben den fьnften Teil der Karte gefunden, auf der die Lage des Beuteverstecks von der Zonenlegende Semetzky persцnlich vermerkt sein soll.</text>
+		</string>
+		<string id="six">
+		<text>Sechstes Kartenteil</text>
+		</string>
+		<string id="six_part_text">
+		<text>Sie haben den sechsten Teil der Karte gefunden, auf der die Lage des Beuteverstecks von der Zonenlegende Semetzky persцnlich vermerkt sein soll.</text>
+		</string>
+		<string id="seven">
+		<text>Siebentes Kartenteil</text>
+		</string>
+		<string id="seven_part_text">
+		<text>Sie haben den siebenten Teil der Karte gefunden, auf der die Lage des Beuteverstecks von der Zonenlegende Semetzky persцnlich vermerkt sein soll.</text>
+		</string>
+		<string id="vosem">
+		<text>Achtes Kartenteil</text>
+		</string>
+		<string id="vosem_part_text">
+		<text>Sie haben den achten Teil der Karte gefunden, auf der die Lage des Beuteverstecks von der Zonenlegende Semetzky persцnlich vermerkt sein soll.</text>
+		</string>
+		<string id="new_plan_desc">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 15 Einheiten%c[default].\n \nSack mit Gras fьr "Fьrst", den Obermacker in der Bar. Marihuana?</text>
+		</string>
+		<string id="new_plan_name">
+		<text>Sack mit Gras</text>
+		</string>
+		<string id="wpn-m1891_30_scope_ucen">
+		<text>Modifiziertes Mosin-Gewehr</text>
+		</string>
+		<string id="ammo-7.62x54-ucen">
+		<text>GPS-Marker-Munition</text>
+		</string>
+		<string id="enc_weapons1_ammo_ammo-7.62x54-ucen">
+		<text>%c[255,1,255,255]Volumen pro Pдckchen:%c[255,1,255,1] 1.0 Einheiten%c[default].\n \nSpezielle Sniper-Patrone, fьr die Wissenschaftler entwickelt. Tцtet nicht, sondern setzt beim Treffer einen Mini-GPS-Marker auf das Opfer. Das hilft den Цkologen die Fauna der Zone zu erforschen.</text>
+		</string>
+		<string id="enc_weapons1_wpn-m1891_30_scope_ucen">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 20.5 Einheiten%c[default].\n \nFьr die Wissenschaftler modifiziertes Mosin-Gewehr. Verwendet nur spezielle GPS-Patronen. Jemanden daraus zu tцten ist praktisch ummцglich.</text>
+		</string>
+		<string id="text_arc_ucen_need_metka">
+		<text>Sie sollen fьr uns bitte folgende Mutanten markieren:\n Pseudoriesen - den hat man letztens im Rostok gesehen, unweit von dem abgeschossenen Hubschrauber.\n Elektro-Chimera - kann man im Dunklen Tal finden. Kennen Sie den kleinen Sumpf hinter der verlassener Fabrik, wo die Banditen sich oft aufhalten? Da direkt in der Zaunnдhe...\n Und der Blutsauger treibt sich im Kordon rum, irgendwo in der Nдhe der zerstцrten Schweinefarm.\n \n Nun zu Methode der Markierung: Sie bekommen von uns ein modif. "Mosin"-Gewehr, welches Mini-GPS-Marker verschiesst. So kцnnen sie alle 3 Mutanten markieren, ohne ihnen Schaden zuzufьgen. Und vergessen Sie nicht das Gewehr uns wiederzubringen, Sie kцnnen es eh nicht gebrauchen. Tцten kann man damit nicht und wir haben dafьr noch Verwendung.\n \nWenn alles glatt lдuft, bekommen Sie als Belohnung auf ihr PDA Information ьber einen Ьbergang Jantar-Radar. Und vergessen Sie nicht, Sie dьrfen die Versuchs-Mutanten nicht tцten, ich brauche sie lebend.</text>
+		</string>
+		<string id="af-caterpillar">
+			<text>"Herz des Telepathen"</text>
+		</string>
+		<string id="af_caterpillar-desc">
+				<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.5 Einheiten%c[default].\n \nEin sehr seltenes Artefakt. Man kann es nur mit spezieller Ausrьstung finden. Dieses Artefakt zieht magischerweise die Mutanten in seine Nдhe, besonders die Telepathen. Deswegen hat man ihm auch den Namen "Herz des Telepathen" gegeben. Dieses Artefakt schьtzt sehr gut gegen Kugelbeschuss, aber sollte euch ein Telepath angreifen - Vorsicht! Es verstдrkt die PSI-Einwirkung des Monsters auf euer Gehirn.</text>
+		</string>
+		<string id="volk_pda_name">
+			<text>PDA von "Dogge"</text>
+		</string>
+		<string id="volk_pda_desc">
+				<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten%c[default].\n \nPersцnlicher PDA von "Dogge".</text>
+		</string>
+		<string id="text_arc_krest_razborka">
+		<text>Auf der Mьllhalde, nicht weit von dem Ьbergang zum Dunklen Tal, wird ein Treffen zwischen "Kreuz" und den Leuten von Tschechow stattfinden: "Du sollst dich bedeckt halten. Tschechows Leute sind nervцs, sie haben viele Feinde... Wenn sie dich sehen, werden sie sofort anfangen rumzuballern. Da gibt es ein zerstцrtes Gebдude, bei dem Mьllhalde-Blockposten - klettere da hoch, die Sicht von da oben ist sehr gut. Versteck dich da oben und verhalte dich ruhig. Wenn alles glatt lдuft und wir im Frieden auЯernander gehen, dann packst du die Waffe weg und kommst zu mir. Sollte aber eine Schiesserei losgehen - dann knall die Bastarde ab, lass keinen am Leben. Und das Wichtigste - beschьtze "Kreuz"!\n Also - ohne meinen Signal nicht schieЯen und lass dich von denen nicht sehen. Sitze da und warte. Ich kenn dich nдmlich - du zuckst die Waffe bei jedem Anlass..."</text>
+		</string>
+		<string id="detector_kruglov">
+			<text>Kruglows Detektor</text>
+		</string>
+		<string id="detector_kruglov_desc">
+				<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten%c[default].\n \nKruglows Detektor. Mit seiner Hilfe kann man das sehr seltenes Artefakt "Herz des Telepathen" lokalisieren. Detektor muЯ dafьr auf dem Gьrtel hдngen.</text>        
+		</string>
+		<string id="book_zombi_name">
+			<text>Tagebuch des verrьckten Professors</text>
+		</string>
+		<string id="book_zombi_desc">
+				<text>Tagebuch des verrьckten Professors. So wie es aussieht, hat sich der Professor sehr fьr das Labor im Jantar interessiert, besonders fьr die Arbeit des PSI-Emitters.</text>        
+		</string>
+		<string id="notebook_x16_name">
+			<text>Notebook aus X-16</text>
+		</string>
+		<string id="notebook_x16_desc">
+				<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 8 Einheiten%c[default].\n \nNotebook aus X-16. So wie es aussieht, war X-16 frьher ein grosses Labor, aber dann gab es wohl irgendein Vorfall und alle Mitarbeiter sind geflьchtet. Manche wandern immer noch auf dem Fabrik-Gelдnde rum, aber nur noch als hirnlose Zombies.</text>
+		</string>
+		<string id="wpn_colt_ucen">
+			<text>Kruglows Colt</text>
+		</string>
+		<string id="wpn_colt_ucen_desc">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 4.5 Einheiten%c[default].\n \nKruglows Colt. Durch die Waffenmeister der Zone umgebaute Waffe, welche nur die spezielle Betдubungsmunition verschiesst.</text>
+		</string>
+		<string id="ammo_9x19_ucen">
+			<text>Цkologen-Munition</text>
+		</string>
+		<string id="ammo_9x19_ucen_desc">
+		<text>%c[255,1,255,255]Volumen pro Pдckchen:%c[255,1,255,1] 1.0 Einheiten%c[default].\n \nSpezielle Patrone fьr Цkologen. Kaliber 9x19 Munition, beim Treffer wird dem Opfer kein Schaden zugefьgt, es wird lediglich eine Zeit lang betдubt.</text>        
+		</string>
+		<string id="kruglov_case_name">
+			<text>Kruglows Aktenkoffer</text>
+		</string>
+		<string id="kruglov_case_desc">
+				<text>Kruglows Aktenkoffer fьr Solowjew.</text>        
+		</string>
+		<string id="check_name">
+			<text>Pдckchen mit Gras</text>
+		</string>
+		<string id="check_desc">
+				<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten%c[default].\n \nKleines Pдckchen mit Gras. Scheint aber weder Petersilie noch Dill zu sein.</text>     </string>
+		<string id="labx18_flash_name">
+			<text>Speicherstick eines Monolithers</text>
+		</string>
+		<string id="labx18_flash_desc">
+			<text>Speicherstick eines Monolithers, aus dem Labor X-18.</text>
+		</string>			
+		<string id="text_arc_mayor_yarofeev">
+			<text>"Wikingers" Aussage zufolge, kann man Major Jarofeew im Kordon-Blockposten finden.</text>     
+		</string>
+		<string id="text_arc_sidr_lab">
+			<text>Ins Labor beim Jantar gehen und nach Sachen suchen, die uns helfen kцnnen zu verstehen, was da vor sich ging. Dokumente, Notebooks, Computer, irgendwas... Wenn du was findest - bring alles zum "ReiЯzahn", er wird auf dich bei den Armee-Lagerhдusern warten, im Gehцf in der Nдhe. Man sagt, das im Labor selbst eine Maschine steht, welche allen Lebewesen den Hirn burzelt. Du solltest die Wissenschaftler befragen, vielleicht kцnnen sie dir helfen...</text>     
+		</string>
+		<string id="text_arc_sahar_shlem">
+			<text>Es gab einen Kollegen, wir haben frьher zusammen gearbeitet... Irgendwann fing er an sich merkwьrdig zu benehmen: schrie nachts im Schlaf, saЯ stundenlang regungslos da mit starrem Blick. Dann fiel er andere Koleggen an und wir muЯten uns von ihm trennen... Wahrscheinlich wurde sein Gehirn durch eine Emissionswelle aus dem Labor beschдdigt.\n \nDan und seine Leute brachten ihn zum Swiblow, aber man sagt das er flьchten konnte. Sie mьssen ihn finden. Er hat sich ausfьhrlich mit der Wirkung von PSI-Emissionen auf den menschliches Gehirn befasst und hat auch Tagebuch darьber gefьhrt. Es sind wertvolle Informationen, wenn sie dieses Tagebuch besorgen, kцnnte ich Ihr Schutz-Helm umjustieren.</text>     
+		</string>
+		<string id="box_black_name">
+			<text>"Black Box"</text>
+		</string>
+		<string id="box_black_desc">
+			<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 15 Einheiten%c[default].\n \n"Black Box" aus dem im Roten Wald stehenden Panzer. Vorsicht - radioaktiv verseucht!</text>     
+		</string>
+		<string id="pda_priz_name">
+		<text>PDA von "Ghost"</text>
+	</string>
+	<string id="pda_priz_desc">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten%c[default].\n \nPDA von "Ghost". Enthдlt Informationen ьber verschiedene Artefakte und deren Fundorte. Auch wird die Vernichtung der Fraktion "Der Letzte Tag" erwдhnt und die Liquidierung des Anfьhrer dieser Fraktion. Ein paar Infos ьber Monolith. Andere Daten sind verschlьsselt.</text>
+		</string>
+		<string id="sweets">
+		<text>Lutschbonbons</text>
+	</string>
+	<string id="sweets_desc">
+		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 0.5 Einheiten%c[default].\n \n In der Zone sind die Sьssigkeiten rar. Dabei mцgen auch Stalker mal was Sьsses. Schokolade schmilzt aber oft im Rucksack. Daher greifen Stalker lieber zu guten alten Lutschbonbons aus der Blechdose.</text>
+	</string>
+</string_table> 

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="ansi" ?>
+<!--SCAR mod_Fra_05/02/2013 -->
+<string_table>
+	<string id="bar_rostok">
+		<text>Bar - Rostok</text>
+	</string>
+	<string id="car_character_use">
+		<text>Ouvrir la porte ($$ACTION_USE$$)</text>
+	</string>
+	<string id="character_use">
+		<text>Parler ($$ACTION_USE$$)</text>
+	</string>
+	<string id="dead_character_use_or_drag">
+		<text>Fouiller un corps ($$ACTION_USE$$) \n Traîner un corps (MAJ. +$$ACTION_USE$$)</text>
+	</string>
+	<string id="dead_character_use">
+		<text>Fouiller un corps ($$ACTION_USE$$)</text>
+	</string>
+	<string id="general_complete_task">
+		<text>Mission accomplie :</text>
+	</string>
+	<string id="general_fail_task">
+		<text>Mission manquée :</text>
+	</string>
+	<string id="general_help">
+		<text>Vite, j'ai besoin d'un kit médical ! Je vais mourir !</text>
+	</string>
+	<string id="general_in_item">
+		<text>Objet reçu :</text>
+	</string>
+	<string id="general_in_money">
+		<text>Argent reçu :</text>
+	</string>
+	<string id="general_new_diary">
+		<text>Nouvelle entrée dans le journal.</text>
+	</string>
+	<string id="general_new_encyclopedy">
+		<text>Nouvel article dans l'encyclopédie.</text>
+	</string>
+	<string id="general_new_task">
+		<text>Nouvelle mission :</text>
+	</string>
+	<string id="general_out_item">
+		<text>Objet perdu :</text>
+	</string>
+	<string id="general_out_money">
+		<text>Argent perdu :</text>
+	</string>
+	<string id="general_update_task">
+		<text>Mission mise à jour :</text>
+	</string>
+	<string id="physic_shell_use">
+		<text>Déplacer un objet ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_codelock">
+		<text>Clavier numérique ($$ACTION_USE$$)</text>
+	</string>
+	<string id="to_aes">
+		<text>Vers Tchernobyl</text>
+	</string>
+	<string id="to_agroprom">
+		<text>Vers Agroprom</text>
+	</string>
+	<string id="to_agroprom_underground">
+		<text>Vers les catacombes</text>
+	</string>
+	<string id="to_bar">
+		<text>Vers Rostok</text>
+	</string>
+	<string id="to_darkvalley">
+		<text>Vers la Vallée obscure</text>
+	</string>
+	<string id="to_escape">
+		<text>Vers le Cordon</text>
+	</string>
+	<string id="to_garbage">
+		<text>Vers la Décharge</text>
+	</string>
+	<string id="to_military">
+		<text>Vers les entrepôts</text>
+	</string>
+	<string id="to_pripyat">
+		<text>Vers Pripyat</text>
+	</string>
+	<string id="to_radar">
+		<text>Vers le lobotomisateur</text>
+	</string>
+	<string id="to_rostok">
+		<text>Vers les Terres abandonnées - Rostok</text>
+	</string>
+	<string id="to_yantar">
+		<text>Vers Yantar</text>
+	</string>
+	<string id="st_helmet_countdown">
+		<text>Temps de Protection</text>
+	</string>
+	<string id="st_psy_danger">
+		<text>Niveau critique d'émissions psi. Quittez immédiatement la zone dangereuse.</text>
+	</string>
+	<string id="st_radiation_danger">
+		<text>Niveau de radiations dangereux. Protection requise pour passer.</text>
+	</string>
+	<string id="st_found_new_pda">
+		<text>Informations trouvées :</text>
+	</string>
+
+	<!--SCAR mod-->
+	<string id="to_jupiter">
+		<text>Vers Jupiter</text>
+	</string>
+	<string id="to_aver">
+		<text>Vers la Forêt du Loup</text>
+	</string>
+	<string id="to_pripyat_est">
+		<text>Vers le quartier Est de Pripyat</text>
+	</string>
+	<string id="to_zaton">
+		<text>Vers Zaton</text>
+	</string>
+	<string id="to_marsh">
+		<text>Au Marais</text>
+	</string>
+	<string id="to_lab_x8">
+		<text>Au labo X-8</text>
+	</string>
+<!--	<string id="to_rostok">
+		<text>Vers Rostok</text>
+	</string>-->
+	<string id="to_lab_x16">
+		<text>Au labo X-16</text>
+	</string>
+	<string id="to_jup_tunnel">
+		<text>Vers le Tunnel sous Jupiter</text>
+	</string>
+	<string id="to_pripyat_npp">
+		<text>Sur le toit de la Centrale</text>
+	</string>
+	<string id="to_darkscape">
+		<text>Vers Darkscape</text>
+	</string>
+	<string id="to_predbannik">
+		<text>Vers Zone Tampon</text>
+	</string>
+	<string id="to_19901">
+		<text>Vers Oubliettes</text> <!-- ???? -->
+	</string>
+	<string id="to_19902">
+		<text>Vers La vieille Damme</text> <!-- ???? -->
+	</string>
+
+</string_table>

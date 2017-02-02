@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+	<string_table>
+		<string id="st_repairkit">
+			<text>Reperaturset</text>
+		</string>
+		<string id="st_repairkit_descr">
+			<text>Ein Einweg-Reparaturset. Enthдlt Pistolenцl und Ersatzteile zur Wartung und Reparatur einer Vielzahl von Waffen. Auch Schutz Anzьge kцnnen bei bedarf damit bearbeitet werden.</text>
+		</string>
+	</string_table>

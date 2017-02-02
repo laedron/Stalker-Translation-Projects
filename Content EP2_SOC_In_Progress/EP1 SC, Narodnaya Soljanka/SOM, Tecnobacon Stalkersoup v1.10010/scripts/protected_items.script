@@ -1,0 +1,245 @@
+--TB3D 1.1.0.0.0.7 added ALD weapons: ["wpn_vepr12","wpn_vss_tk1","wpn_ump45_m1","wpn_fn2000_paratrooper, kat_"],
+-- bandranen_pda, get protected item, _fss, merged death_generic keep items, tb3d_gspot, zep, redone for exact only,
+-- ckts and flasks, pushka_fotik, m_car, explosive_barrel, wpn_gungauss, optimized using tags, debug, has_protected_item,
+-- playboy10, get_section, has_item, has_item_prot
+
+function my_ver() return "1.1.0.0.0.7" end
+local string_find = string.find
+local string_sub = string.sub
+
+local tag4_prot = {
+	["zep_"] = true,						--notes and bars
+	["tb3d"] = true,
+	["pda_"] = true,
+	["sac_"] = true,
+	["new_"] = true,
+	["box_"] = true,
+	["cit_"] = true,
+	["kat_"] = true,
+	["red_"] = true,
+	["case"] = true,
+	["acum"] = true,
+	["bad_"] = true
+}
+local tag5_prot = {
+	["kluch"] = true,
+	["flame"] = true,
+	["sysh_"] = true,
+	["voen_"] = true,
+	["disk_"] = true,
+	["m_car"] = true
+}
+local tag6_prot = {
+	["malyva"] = true,
+	["pribor"] = true,
+	["trubka"] = true,
+	["video_"] = true
+}
+local tag7_prot = {
+	["af_bloo"] = true,
+	["good_ps"] = true,
+	["repair_"] = true,
+	["rukzak_"] = true,
+	["microsh"] = true,
+	["noteboo"] = true,
+	["telefon"] = true,
+	["3d_razi"] = true,
+	["art_acu"] = true,
+	["land_di"] = true,
+	["old_doc"] = true,
+	["kluk_ka"] = true,
+	["dar_doc"] = true,
+	--["playboy"] = true,
+	["invento"] = true,
+	["mutant_"] = true,
+	["termos_"] = true,
+	["decoder"] = true,
+	["quest_c"] = true,
+	["quest_m"] = true,
+	["crazy_f"] = true,
+	["compute"] = true,
+	["m_dmx_b"] = true,
+	["pushka_"] = true,
+	["scainti"] = true,
+	["val_tay"] = true,							--hunt stashes
+	["af_dumm"] = true,							--hunt mushrooms
+	["explosi"] = true,							--usable vehicles, fuel cannisters
+	["gorelka"] = true,
+	["kuvalda"] = true,						--109975, sledgehammer
+	["und_pda"] = true,
+	["rad_pda"] = true,
+	["new_doc"] = true,						--110000, new_document_sniper (beast)
+	["car_key"] = true,						--110005
+	["btr_key"] = true
+}
+local tag8_prot = {
+	["fraer_pd"] = true,
+	["glushite"] = true,
+	["televizo"] = true,
+	["diplomat"] = true,
+	["dynamite"] = true,
+	["manometr"] = true,
+	["otvertka"] = true,					--109992, screwdriver
+	["tweed_bo"] = true,
+	["dosye_zv"] = true,
+	["elek_pla"] = true,					--109975, circuits
+	["nebo_cle"] = true,
+	["ammo_og-"] = true,					--TB3D 109940
+	["mono_not"] = true,
+	["wpn_flam"] = true,
+	["wpn_mp5_"] = true,
+	["wpn_rpg7"] = true,					--TB3D 109940
+	["gold_art"] = true,					--110004
+	["mushroom"] = true						--110005
+}
+local tag9_prot = {
+	["playboy10"] = true
+}
+local tag11_prot = {
+	["bland_flash"] = true,
+	["agroprom_pd"] = true,
+	["bandranen_p"] = true,
+	["detektor_am"] = true,
+	["ekza_akkumu"] = true,				--109975, circuits
+	["garbage_pda"] = true,
+	["gunslinger_"] = true,
+	["hunters_toz"] = true,
+	["kapitan_pda"] = true,
+	["klyak_fores"] = true,
+	["kolba_pusta"] = true,				--109975, flasks
+	["kruglov_fla"] = true,
+	["lekar_kalmy"] = true,
+	["nauch_flash"] = true,
+	["snotvornoe_"] = true,
+	["sniper_flas"] = true,
+	["netpacket_p"] = true,
+	["strelok_pda"] = true,
+	["esc_wounded"] = true,
+	["mil_svoboda"] = true,
+	["stukach_boo"] = true,
+	["pri_decoder"] = true,
+	["mono_dead_d"] = true,
+	["dar_pass_do"] = true,
+	["dar_pass_fl"] = true,
+	["val_key_to_"] = true,
+	["lab_x10_doc"] = true,
+	["lab_x16_doc"] = true,
+	["outfit_stal"] = true,
+	["outfit_spec"] = true,
+	["stalker_out"] = true,
+	["arhara_inst"] = true,
+	["arhara_obma"] = true,
+	["arhara_tele"] = true,
+	["bar_ecolog_"] = true,
+	["bar_lucky_p"] = true,
+	["bar_tiran_p"] = true,
+	["amk_af_nigh"] = true,
+	["amk_transmu"] = true,
+	["amk_zapiska"] = true,
+	["rad_documen"] = true,
+	["ammo_igl_ne"] = true,
+	["wpn_svd_fot"] = true,
+	["wpn_fort_m1"] = true,
+	["wpn_lr300_m"] = true,
+	["wpn_awm_new"] = true,
+	["wpn_eagle_m"] = true,
+	["wpn_sg552_f"] = true,			--TB3D 109931
+	["wpn_sledgeh"] = true,			--109975, sledgehammer
+	["wpn_gungaus"] = true,			--109991, in DV
+	["esc_outfit_"] = true,			--110000, perfected suit
+	["explosive_b"] = true,			--110005, barrels
+	["explosive_t"] = true,			--110005, nat gas tank
+	["explosive_f"] = true			--110005, fuel can
+}
+
+-- 109993 use only exact matches, now uses tags
+function obj_is_protected(sobj)
+	local result=false
+	if _g.is_disconnecting == false then							-- not while disconnect or startup
+		if TB3D_Modders.use_inventory_message == true and result == true then
+			TB3D_Services.packet_alert("protected items start")
+		end
+		if sobj then
+			if sobj.section then
+				local item_section = get_section(sobj) 						--110004
+				if item_section and item_section ~= "" then
+					if tag7_prot[string_sub(item_section, 1, 7)] then
+						result = true
+					elseif tag6_prot[string_sub(item_section, 1, 6)] then
+						result = true
+					elseif tag5_prot[string_sub(item_section, 1, 5)] then
+						result = true
+					elseif tag4_prot[string_sub(item_section, 1, 4)] then
+						result = true
+					elseif tag8_prot[string_sub(item_section, 1, 8)] then
+						result = true
+					elseif tag9_prot[string_sub(item_section, 1, 9)] then
+						result = true
+					elseif tag11_prot[string_sub(item_section, 1, 11)] then
+						result = true
+					end
+				else						--section empty
+					result = true			--physic or breakable object
+				end
+				if TB3D_Modders.use_inventory_message == true and result == true then
+					TB3D_Services.packet_alert("protected items: found protected item["..item_section.."] ["..utils.to_str(result).."]")
+				end
+			else							--no section
+				result = true				--physic or breakable object
+			end
+		else								--sobj nil
+			result = true
+		end
+	end
+	return result
+end
+
+function has_item_prot(obj, item)					--110007
+	if item then
+		if obj_is_protected(item) then
+			return true
+		end
+	end
+	return false
+end
+function obj_has_protected_item(obj)				--110007
+	if obj and obj.iterate_inventory then
+		if obj:iterate_inventory(has_item_prot, obj) then return true end
+	end
+	return false
+end
+
+function has_item(obj, item)						--110007
+	if item then
+		return true
+	end
+	return false
+end
+function obj_has_items(obj)							--110007
+	if obj and obj.iterate_inventory then
+		if obj:iterate_inventory(has_item, obj) then return true end
+	end
+	return false
+end
+
+-- Obtain the name of the section object to check, xrs_armor, tb3d_services, death_manager
+-- obj can be a game, and the server object (see. news_main.get_object_name(obj))
+function get_obj_name(obj)
+	local s_name = ""
+	if not obj then return s_name end
+	local i = 0
+	if (news_main.isGameObject(obj) and obj.section) then
+		-- s_name = obj:section()
+		i = string_find (obj:name(), tostring(obj:id())) --character number beginning id, returns nil if not found
+		if i then -- spawn objects: stori_id at the endobj:name()
+			-- get_console():execute("load ~#I#: Home id with symbol "..i)
+			s_name = string_sub(obj:name(),1,i-1)
+		else	-- stori_id not in obj:name() (in all.spawn?)
+			s_name = string_sub(obj:name(),1,-1)
+		end
+	elseif (obj.section_name) then
+		s_name = obj:section_name()
+	end
+	if (s_name == nil) then s_name = "" end	
+	return s_name
+end

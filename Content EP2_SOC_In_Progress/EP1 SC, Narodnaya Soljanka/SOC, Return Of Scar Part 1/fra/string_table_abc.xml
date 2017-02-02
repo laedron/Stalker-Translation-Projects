@@ -1,0 +1,1062 @@
+< ?xml version="1.0" encoding="ansi" ?>
+<!--SCAR mod version Fr 26/02/2013-->
+<string_table>
+<!--****************************-->
+<!-- Dialogue repair Bartender -->
+<!--****************************-->
+
+<!--****************************-->
+<!-- Novels repair the Doctor -->
+<!--****************************-->
+
+<!--***************************-->
+<!-- Screw Repair dialog start -->
+<!--***************************-->
+
+<!--********************-->
+<!-- Repair dialogs end -->
+<!--********************-->
+
+<!--*****************************************-->
+<!-- Sidorovich Factions Repair dialog start -->
+<!--*****************************************-->
+
+<!--****************************-->
+<!-- sleep -->
+<!--****************************-->
+<string id="dm_sleep_request_0">
+	<text>200 "balles".</text>
+</string>
+
+<!--****************************-->
+<!-- mutants -->
+<!--****************************-->
+<string id="mutant_deathclaw_antler_name">
+	<text>Corne de Griffemort</text>
+</string>
+<string id="mutant_deathclaw_antler_description">
+	<text>Partie très peu étudié d'un étrange mutant surnommé par les Stalkers "Griffemort". Il faudra chasser un mutant voir plus pour obtenir au moins un trophée.</text>
+</string>
+
+<string id="mutant_part_digitis_biblio_name">
+	<text>Avant bras Bibliothécaire</text>
+</string>
+<string id="mutant_part_digitis_biblio_description">
+	<text>Partie incroyablement rare d'un mutant déjà rare. Nous en étudions les propriétés. Beaucoup veulent l'acheter juste comme trophée d'une extrème rareté.</text>
+</string>
+
+<string id="mutant_rudiment_big_name">
+	<text>Sternum de Zombie femelle</text>
+</string>
+<string id="mutant_rudiment_big_description">
+	<text>Echantillon de tissu muté du sternum d'une femme Zombie. Diverses propriétés inconnues, mais il ne semble pas avoir d'influence positive ou négative. La communauté scientifique commence tout juste à étudier ces échantillons, et par conséquent vont payer le prix fort pour en obtenir.</text>
+</string>
+
+<string id="mutant_part_tarakan_strong_name">
+	<text>Ventre de "Tarakan" adulte</text>
+</string>
+<string id="mutant_part_tarakan_strong_description">
+	<text>Partie la plus charnue d'un cafard géant adulte mutant surnommé "Tarakan" dans la Zone. Très recherché pour la confection de pommades, servant à extraire les radiations et certaines hormones mutés des humains, plus efficacement qu'avec le ventre d'un jeune Tarakan.</text>
+</string>
+
+<string id="mutant_part_tarakan_name">
+	<text>Ventre de jeune "Tarakan"</text>
+</string>
+<string id="mutant_part_tarakan_description">
+	<text>Partie la plus charnue d'un cafard mutant surnommé "Tarakan" dans la Zone. Recherché pour la confection de pommades, servant à extraire les radiations et certaines hormones mutés des humains.</text>
+</string>
+
+<string id="mutant_mutant_zombie_teeth_name">
+	<text>Sternum féminin</text>
+</string>
+<string id="mutant_mutant_zombie_teeth_description">
+	<text>Partie du sternum d'une femme zombie. L'intérêt est discutable, mais se vend bien.</text>
+</string>
+<!--<string id="mutant_mutant_zombie_teeth_name">
+	<text>Dent de Zombie</text>
+</string>
+<string id="mutant_mutant_zombie_teeth_description">
+	<text>La superstition voudrais, qu'un stalker portant un collier de dents de Zombie lui porterais chance. Surtout utilisé comme "Grigri".</text>
+</string>-->
+
+<string id="mutant_mutant_spleen_rat_name">
+	<text>Fluide de Rat</text>
+</string>
+<string id="mutant_mutant_spleen_rat_description">
+	<text>Le fluide contenue dans les rats mutés de Tchernobyl, a d'incroyable effets pour le traitement anticancéreux, et des propriétés antinéoplasique.</text>
+</string>
+
+<!--****************************-->
+<!-- weapons -->
+<!--****************************-->
+<string id="wpn-tknife"><!-- pas utilsé, dans ce mod -->
+	<text>"Couteaux de lancer"</text>
+</string>
+<string id="enc_weapons1_wpn-tknife">
+	<text>Une collection de plusieurs couteaux à lancer.</text>
+</string>
+
+<!--****************************-->
+<!-- Outfits -->
+<!--****************************-->
+<string id="nano_outfit_description"><!-- string_table_outfit.xml -->
+	<text>Combinaison très rare, une seule serais présente dans la Zone, volée par un audacieux stalker dans le labo X18. Elle est une amélioration de la combinaison PSZ-9D qui a une capacité unique de protection contre tous les types de dégâts et a la capacité de guérir son propriétaire.</text>
+</string>
+<string id="nano_outfit_name">
+	<text>"Nanosuite"</text>
+</string>
+
+<!--****************************-->
+<!-- Outfits Masks -->
+<!--****************************-->
+<!--__________________________________________________________________-->
+<string id="st_time_up_kvest_done">
+	<text>Minuteur réinitialisé. Caisse trouvée.</text>
+</string>
+<string id="timer">
+	<text>Minuteur numérique. Spécialement développé pour les unités spéciales de l'Armée Rouge. Antichoc. Résistant. Immersion jusqu'à 300 mètres. Équipé avec une horloge et un chronomètre. Des stockes de ces nouvelles montres a été volée à plusieurs reprises par le chef militaire de réserve des Forces Spéciales Colonel Bibik (D Bas -3) et les négociaient en gros dans la Zone. Plusieurs fois pris la main dans sac, il a été condamné à mort trois fois, mais grâce à quelques politiciens vereux, il toujours été gracié et anmistié.</text>
+</string>
+<string id="item_timer_name">
+	<text>Minuteur numérique</text>
+</string>
+
+<string id="st_time_smert">
+	<text>Temps avant la fin</text>
+</string>
+<string id="vedma">
+	<text>Sorcières</text>
+</string>
+<string id="nebo">
+	<text>Maîtres</text>
+</string>
+<string id="enc_equip_stco">
+	<text>Équipement permettant de déterminer les coordonnées géographique, la direction et l'heure vraie.
+\nPour être précis, aligner le compas avec le réticule. Pour l'activation, placer l'objet dans l'emplacement des armes de poings. \n Composition: \n 1. Compas: magnétique \n 2. Distance: laser \n 3. Récepteur: GPS \n 4. Horloge</text>
+</string>
+<string id="enc_equip_stco_name">
+	<text>Positionneur</text>
+</string>
+
+<string id="item_doka_foto_old">
+	<text>Carte</text>
+</string>
+<string id="item_doka_foto_old_name">
+	<text>Photo</text>
+</string>
+<string id="k01_darkscape">
+	<text>"Darkscape"</text>
+</string>
+
+
+<string id="item_doka_strelka_prizrak"><!-- Note laissé par Strelok dans sa planque d'Agroprom -->
+	<text>Pardonnez moi, mes amis, mes frère, de ne pas pouvoir te donner une sépulture digne de toi. J'aurais dû rester avec vous, mais le mercenaire avec les cicatrices, me pourchasse et je voulais vous tenir loin de lui. Je ne me souvienais de rien, mais en entendant votre enregistrement, tout est devenu clair. Je suis de nouveau de retour ici pour mettre mes idées au clair. Le lobotomisateur est sésactivé et la voie vers le Nord est ouverte. Mais une fois mes affaires réglés, je reviendrai et je ferai ce qui devra être fait en votre mémoire.
+</text>
+</string>
+<string id="item_doka_strelka_prizrak_name">
+	<text>Note de Strelok</text>
+</string>
+
+<string id="item_doka_strelka_x18"><!-- Document dans le 2eme sous-sol du Labo X18 -->
+	<text>
+%c[255,1,255,1]KT 
+\n %c[default]Combien de temps prévoyez-vous de relever le défi de la modernisation de la centrale nucléaire de Tchernobyl, et si elle est capable de délivrer un plus grand nombre de Mw, sans dommage notable sur l'environnement?
+\n%c[255,1,255,1]Pr. Goryunov
+\n%c[default]Nous sommes tenus de le faire dans un laps de temps très court. Arrive l'ère de la restructuration et le besoin de le faire selon les termes. Alors que la centrale nucléaire est capable de délivrer une puissance dix fois supérieur. Grace à la fiabilité des unités de production et des système de protection de haut niveau. 
+\n%c[255,1,255,1]KT 
+\n%c[default]Je sais que l'administration centrale nucléaire de Tchernobyl, n'approuvent pas de tels modernisation dans un court laps de temps. Que pouvez-vous dire sur cela? 
+\n%c[255,1,255,1]Pr. Goryunov
+\n%c[default]Les responsable sortent de grande écoles supérieurs et n'ont pas beaucoup d'expérience pratique. Si nous écoutions ces personnes, rien ne se ferait et nous resterions à l'age de pierre. Il faut parfois prendre des décisions radical, pour faire avancer notre civilisation. Alors, en avant! 
+\n%c[255,1,255,1]KT 
+\n%c[default]Y a-t-il un tel personnage, qui prendrai cette décision?
+\n%c[255,1,255,1]Pr. Goryunov
+\n%c[default]Oui, et personne, à ma connaissance, n'a contredit sa décision. Mais vous posez trop questions qui risquent d'être préjudiciable à mon ami. Donc...
+\n%c[255,1,255,1]KT 
+\n%c[default]Bien. Passons à autre chose alors. Pourquoi avoir fait passer la voie ferré des transports spéciaux sur une distance de plus de 100kms vers la décharge, au lieu de la mener directement? Pourquoi tant de détours? Pourquoi un tel gaspillage de temps, d'énergie et d'argent? 
+\n%c[255,1,255,1]Pr. Goryunov
+\n%c[default]Vous devez comprendre, qu'une voie ferrée est tributaire du relief, il est plus commode de la faire passer sur un relief le plus plat possible, donc au final cela coute moins cher que de construire des ouvrages d'art et des tunnels, jusqu'à la décharge des déchets radioactifs à longue périodicités. 
+\n%c[255,1,255,1]KT 
+\n%c[default]D'accord. Et ma seconde question. Que pensez vous de la zone hautement radioactive ainsi créer, aura comme impacte sur le vie biologique? Il y a déjà eu des conséquences génétique dû à l'exposition aux rayons produits par les déchets. Quel est votre opinion? 
+\n%c[255,1,255,1]Pr. Goryunov
+\n%c[default]Écoutez mon jeune ami. Le complexe nucléaire de Tchernobyl a des buts aussi bien civil que militaire. Nous ne jouons pas au Docteur Folamour, comme aimerait nous le faire certains extrémiste saméricains en diffusant des vidéocassettes, dont la plupart des images dates des expériences faites chez eux dans les années 50! Donc, arrétons cette propagande diffamatoire d'une autre époque! Sur ce, je dois retourner travailler. Au plaisir de vous revoir!
+\n%c[255,1,255,1]KT 
+\n%c[default]Je vous remercie professeur de ces quelques éclaircissements. Merci de m'avoir accorder quelques minutes de votre précieux temps. Au revoir.
+</text>
+</string>
+<string id="item_doka_strelka_x18_name">
+	<text>Document trouvé dans X-18</text>
+</string>
+
+
+<string id="item_doka_strelka"><!-- Cachette sur la tour d'aiguillage d'Agroprom -->
+	<text>\nCoordonnées du téléportail: 
+\nLongitude : 24° 14' 30,17" 
+\nLatitude  : 51° 30' 55,94" 
+\nAltitude  : 187m
+	\n\nJe suis très heureux que vous ayez trouvé cette cachette qui vous permettra d'accéder facilement au sous terrain du complexe d'Agroprom, trouver ma cache personnel, et de précieuses informations. \nA l'aide de l'appareil "positionneur" qui est ici, vous deverez trouver les coordonnées de l'anomalies temporel - "téléporteur", et donc de contourner le téléportail qui bloque l'entrée au catacombe. Mais ne partez pas de la tour tout de suite. Si vous voulez aller dans le sous-terrain avec une bonne arme, alors vous pouvez sauter de cette tour sur la caténaire avec la caisse au bout. Vous trouverez là, un kit de réparation pour vos armes et de quoi faire un barbecue.Voyez la caisse sur la catenaire? Elle n'attends plus que vous, à moins que bien sûr, vous ne soyez trôt fatigué, alors bonne chance à vous heureux voyageur. 
+</text>
+</string>
+<string id="item_doka_strelka_name">
+	<text>Astuce de Strelok</text>
+</string>
+<string id="item_doka_strelka_1"><!-- planque de Strelok dans les catacombes d'Agroprom -->
+	<text>Un mercenaire avec une cicatrice, m'a pris en chasse. Il est astucieux et très dangeraux, soyez prudent. Je dois faire gaffe avec qui je communique. Je ne peut pas faire du feu, ni faire de la lumière. Je suis obligé de dormir entre deux anomalies pour me réchauffer et me protéger. Il est peu protable qu'il soit mort après m'avoir tiré dessus, par le cataclysme. J'en ai la conviction, qui'il est toujours vivant quelque part dans la Zone. Vais-je tomber un jour sur lui? Et pourquoi j'écris ça? Et si il découvre ce message? Peu m'importe, tous mes amis sont mort. Seul reste le Doc', mais je n'arrive plus à le regarder dans les yeux, j'ai trop honte, car je n'ai pas pu sauver nos amis. J'irai à cette pierre et je ferai un souhait.</text>
+</string>
+<string id="item_doka_strelka_1_name">
+	<text>Brouillon de Strelok</text>
+</string>
+
+
+<string id="item_doki_doka_mar"><!-- Dans la base des Firmament sur le bureau de Lebedev -->
+	<text>Manuscrits importants du Dr.Dumarais sur le domestication des mutants qui vivent dans la Zone.</text>
+</string>
+<string id="item_doki_doka_mar_name">
+	<text>Manuscrits du Doc'</text>
+</string>
+
+
+<string id="item_doka_strelka_mar"><!-- Cachette dans le Sac sur l'ilot dans le Marais -->
+	<text>Seul le Doc' connait cette cachette, donc il fait confiance à la personne qui la découverte. J'ai une autre cachette qui est à Pripyat à coté de la pièce éventrée au premier étage, dans l'un des deux bâtiment de l'Hôpital. Il y aura aussi une note manuscrite. Je suis allé au Nord. Je ne veux pas mettre mes deux amis au courant, car "mon" mercenaire est toujours à mes trousses et je veux qu'il les laissent tranquille.</text>
+</string>
+<string id="item_doka_strelka_mar_name">
+	<text>Note de Strelok</text>
+</string>
+
+
+<string id="item_doki_doka_borov"><!-- Doc. dans le bureau de Borov -->
+	<text>Référence technique sur des travaux scientifiques. À la fin de tous les dossiers, deux indices troublants:
+ \n1. Lac, Neva, Chien - chevalier. \n2. Terrain, Surexposition, Épée.</text>
+</string>
+<string id="item_doki_doka_borov_name">
+	<text>Document de Borov</text>
+</string>
+
+
+<string id="item_doka_freeplay">
+	<text>Unité de l'accident - C'est une allusion au code d'une des portes. Vous devez arriver au laboratoire X-8. Petits munitions que vous ne pouvez pas blesser. Est-ce que les monstres sont? Non, si loin tout va d'après plan.</text>
+</string>
+<string id="item_doka_freeplay_name">
+	<text>Astuce 1.</text>
+</string>
+
+
+<string id="item_doka_freeplay2">
+	<text>C'est des créatures, encore vypasli vous, mais je pense que vous pouvez manier ce Codlea. Alors utilisez le positioner comme besoin pour lui pour trouver un autre teleporter qui mettra hors circuit le premier atteindre l'Elbe x -8. 
+\n Coordonnées du téléportail: 
+\nLongitude : 0° 00' 13.35" 
+\nLatitude  :-0° 00' 01.'64" 
+\nAltitude  : 44m</text>
+</string>
+<string id="item_doka_freeplay2_name">
+	<text>Astuce 2.</text>
+</string>
+
+
+<string id="item_doka_freeplay3">
+	<text>Encore, ces choses vous prisleduet? Vous contrôleur du zombi? Quelle honte. Il y a une sortie! Alors utilisez le positioner comme besoin pour lui pour trouver un deuxième document qui donnera l'occasion d'enlever la première étape d'exposition et transférera au métro. 
+\n Coordonnées du téléportail: 
+\nLongitude : 0° 00' 12.90" 
+\nLatitude  :-0° 00' 07.60" 
+\nAltitude  : 45m</text>
+</string>
+<string id="item_doka_freeplay3_name">
+	<text>Astuce 3.</text>
+</string>
+
+
+<string id="item_doka_freeplay4">
+	<text>Êtes-vous immobile vivant? Remerciez Dieu, et vos compétences! Voyez le point de transition dans le métro, mais, là vous trouverez, je ne sais pas. Je sais seulement qu'il y a la sortie - à Pripyat Est. Bonne chance!</text>
+</string>
+<string id="item_doka_freeplay4_name">
+	<text>Astuce 4.</text>
+</string>
+
+
+<string id="item_doka_freeplay5">
+	<text>Bien, venir à un freeplay de fin! Est vous certains - Mourez Difficilement! Il reste seulement pour trouver le passage à la barre. 
+\nCoordonnés: 
+\nLongitude : 24° 06' 54,20" 
+\nLatitude  : 51° 29' 52,52" 
+\nAltitude  : 155m</text>
+</string>
+<string id="item_doka_freeplay5_name">
+	<text>Astuce.5.</text>
+</string>
+
+
+<string id="item_x_ray_antenna">
+	<text>Antenne satellite portative.</text>
+</string>
+<string id="item_x_ray_antenna_name">
+	<text>Antenne satellite</text>
+</string>
+
+
+<string id="strela">
+	<text>Flèche</text>
+</string>
+
+<string id="aes_case3_desc">
+	<text>Malette du groupe d'Oleg Tango.</text>
+</string>
+<string id="item_aes_case3_name">
+	<text>Malette</text>
+</string>
+
+<string id="nebo_master">
+	<text>Expert "Maîtres"</text>
+</string>
+
+<string id="st_time_kvest_proval">
+	<text>Temps avant le déclenchement du piège</text>
+</string>
+
+
+<string id="mutant_fracture_hand">
+	<text>Main d'Izlom</text>
+</string>
+<string id="mutant_fracture_hand_description">
+	<text>Les scientifiques ne s'intéressent pas directement à la même main qui nourrit et tendon synovial. Pour les raisons inconnues, le fluide qu'il contient, a des propriétés loin dépasse les propriétés de toutes les drogues de l'anticancer connues. Sa composition moléculaire est différente de l'habituel, mais avait été soumise à une exposition spécifique, les propriétés ont changé dramatiquement. Tentatives de créer un équivalent dans le labo - sans effet. Le montant vaste de 'marchandises aller à l'étranger dû à pauvreté et ruine de science ukrainienne et russe et médecine....</text>
+</string>
+<string id="bibliotekar">
+	<text>Bibliothécaire</text>
+</string>
+<string id="enc_mutant_bibliotekar">
+	<text>Un mutant rare. Beaucoup de gens ont entendu parler de lui, mais très peu de - a vu. Kontat avec être comme canaliser, fins dans la mort. C'est extrêmement tenace. L'origine - presque rien n'est su. Ils disent que c'est un des types de mutant pour fracture des raisons inconnue ou casse un produit de mutation génétique et chimère. Représente une bête énorme avec un coup très fort extrémités supérieures hypertrophiques. Capable de marcher droit, mais c'est meilleur de marcher avec l'aide de tous les membres. Donné l'occasion de dire que quelques rédige chlenorazbornye, avec un rugissement animal, et la méthode de transport - avec l'hypothèse de l'origine de la fracture. Dangereux. Si vous trouvez est préconisé pour garder une distance respectueuse.</text>
+</string>
+<string id="tarakan">
+	<text>Cafard</text>
+</string>
+<string id="enc_mutant_tarakan">
+	<text>Chernobyl cafard mutant. Par la forme - de qui il y en a deux, c'est un cafard plat régulier qui les régions exposé ont augmenté considérablement en dimension et peuvent atteindre jusqu'à 3 kg en poids. Capable de bouger rapidement. Omnivore, malodorant et fâché: pour les êtres humains et les mutants attaquez, habituellement dans les paquets. L'espèce seule n'est pas habituellement sérieuse, mais la cause des nouveaux venus bâillonne le réflexe. Paresis qui cause le corps tout à fait profond et exposé, mais est capable de percer et structure. Les glandes salivaires - est toxique, leurs puanteurs secrètes. Enflez les cafards utilisent le périmètre pour la préparation d'onguents sources rares, mais officieuses - dans l'affaire de la beauté.</text>
+</string>
+<string id="zombie_babka">
+	<text>Zombi féminin</text>
+</string>
+<string id="enc_mutant_zombie_babka">
+	<text>Ayez tous les mouvements et instincts zombis normaux, la cause est sue. Dans le cas de souris féminines élève plusieurs questions et controverse - pour les femmes, même les personnes âgées - une rareté extrême pour la Zone... D'une distance ressemble à une grand-maman typique habillée convenablement, est capable d'induire des copies exactes de la sympathie pour les fileurs inexpérimentés, alors l'attaque a découragé des nouveaux venus, en causant le dégât sérieux de griffer...</text>
+</string>
+<string id="Skelet">
+	<text>Squelette de zombie</text>
+</string>
+<string id="enc_mutant_zombie_skelet">
+	<text>Forme rare de zombis. Discutez que ce type se produit quand à maintes reprises coup anomalie du zombi ordinaire 'étoile', et vêtir alors et les Munitions ont complètement dissous, et la chair est pratiquement invisible. Acquérez la densité de l'os augmentée. À cause de ce zombi slelet vivant.</text>
+</string>
+<string id="mutant_face_tushkano">
+	<text>Tête de rat-mutant</text>
+</string>
+<string id="mutant_face_tushkano_description">
+	<text>Dans jerboa de l'intellect développé hautement, et les scientifiques essaient de comprendre comment le cerveau est placé dans un terrain minuscule d'information, et d'autres choses. De leur cerveau les scientifiques font des drogues, mais ils sont sortis de leur zone, et fileurs qui sait ce qu'ils font.</text>
+</string>
+<string id="mutant_hand_kontroler">
+	<text>Main de contrôleur</text>
+</string>
+<string id="mutant_hand_kontroler_description">
+	<text>Le Contrôleur a un capacités télépathe. Dans la distance, il peut intimider seulement et crée plusieurs hallucinations, mais quand vous approchez plus proche, il négocie le dégât. Les scientifiques croient que leur force se trouve dans sa main, mais le reste du contrôleur de la main n'est pas isledovana.</text>
+</string>
+<string id="mutant_poltergeist_glas">
+	<text>Oeil de poltergeist</text>
+</string>
+<string id="mutant_poltergeist_glas_description">
+	<text>Personne ne sait pourquoi ils oeil du poltergeist, mais ils sont bien payés pour lui.</text>
+</string>
+<string id="mutant_psevdogigant_hand">
+	<text>Main de pseudo-géant</text>
+</string>
+<string id="mutant_psevdogigant_hand_description">
+	<text>Le psevdogigant de la main a des propriétés que les scientifiques n'ont pas dit, mais ils sont bons pour elle pour payer.</text>
+</string>
+<string id="mutant_tail_cat">
+	<text>La queue de chat</text>
+</string>
+<string id="mutant_tail_cat_description">
+	<text>Résistance de la peau subie une mutation des chats à produit chimique et effets électriques a longtemps attiré l'attention de scientifiques. À cause du manque de grosses queues Koshak a convenu le mieux pour recherche de laboratoire.</text>
+</string>
+<string id="mutant_chimera_kogot">
+	<text>Griffe de chimère</text>
+</string>
+<string id="mutant_chimera_kogot_description">
+	<text>Dans la griffe de la chimère plus fort que tout métal, donc ils sont très intéressants pour les scientifiques.</text>
+</string>
+
+<string id="sigaret">
+	<text>Cigarettes</text>
+</string>
+<string id="sigaret_s">
+	<text>Cigarettes</text>
+</string>
+<string id="enc_sigaret">
+	<text>Depuis peu dans la zone, cigarettes américaine "Lucky Luke", importé par les novices et mercenaires étrangers. Les Stalkers expérimentés, on vite arrétés de fumer cette drogue, qui diminuais les capacités de récupérations physiques. Mais ils en ont quelques uns, comme monnaies d'échange.</text>
+</string>
+
+<string id="enc_equipment_food_vodka_bochka">
+	<text>L'eau-de-vie fabriquée par Sidorovich, un ersatz de vodka distillé dans Cordon. A consommer avec modération car certains disent qu'elle rend aveugle.</text>
+</string>
+<string id="item_vodka_bochka_name">
+	<text>Vodka frelatée</text>
+</string>
+
+<string id="item_shpriz">
+	<text>Seringue avec antidote permettant d'annihiler l'étape de dégénérance céllulaire avant la zombification.</text>
+</string>
+<string id="item_shpriz_name">
+	<text>Antidote</text>
+</string>
+
+<string id="enc_kostya">
+	<text>Section "Archives"</text>
+</string>
+
+<string id="esc_kostya_dal_text">
+	<text>Le type sensible Kostya - émerveillements des travaux. C'est bon qu'il m'a fait une partie d'un tel PDA, vous pouvez oublier tout le reste, parce que la Zone ouvre avant moi, nouveaux puzzles. Il dit qu'entre le cordon et la vallée sombre est la région - le terrain mystérieux. Devez chercher un indice. Simbmon n'a pas arrêté, cuirait! Dans X-18, mentez des documents d'archives quelque part, et comme une prescription pour Simbion. Comment arriver là, je ne saurai jamais. Cherchez à répondre dans la Dark Valley. Pointes pour les codes à la porte, quelque part sur la base des bandits. Si je ne fais pas, alors tournez au nouvel os. Dans le X-18 commencer à les présenter avec, de préférence avec un bon drobanom de la boîte comme un dinosaure là, très inoffensif. Afin que les cicatrices explorent la vallée, et ainsi parcourt la région entière, à la recherche d'indices. Seulement les os, était vivant et bien - un type agréable! Est-ce que j'en ai besoin? Probablement besoin. Simbion, art bon, et la recette devra prendre. Aussi bien que possible, rendre le document à bandyuki pris d'os, et archives, si je peux trouver bien sûr. Intersno tout, mais en aidant des scientifiques, et, vous devez penser au sujet de sa fille......</text>
+</string>
+<string id="aver_ded_dal_text">
+	<text>Un étrange Grand-Père, le vieux Shukar! Assez mystérieux et renfrogné. D'après ses dires, le "monstre du Marais" serait accompagné par des bestioles très voraces.</text>
+</string>
+<string id="esc_dimak_dal_text">
+	<text>Dimak a parlé d'un artisan armurier faisant parti de son groupe, et qu'y est maintenant à Agroprom. Son nom - Looser. J'ai besoin de parler à Voronin, mais je pourrais aussi rendre visite à Looser. Voronin peut attendre.</text>
+</string>
+<string id="bar_voronin_dal_text">
+	<text>Le général Voronin m'a laissé perplexe. Je dois me rendre dans la Vallée obscure et trouver un informateur du nom de "Cartouche". Par contre, il faudra faire très attention au abords de la base bandits, il y a un sniper qui fait le guet et la zone est protégée par un rayonnement psi de toute approche directe. Mais avant tout, il faut aller voir un certain Shukar pour récupérer une arbalète et des carreaux dans le Repaire du Loup, indispensables pour la mission.</text>
+</string>
+<string id="bur_dal_text">
+	<text>La région mystérieuse appelée - "Ancienne décharge". Borov, un lieu, là, le sentier de naryl mais je... Ok, peut-être quelque chose de fil de l'eau...</text>
+</string>
+<string id="tor_dal_text">
+	<text>"Horror time", n'a pas été observé dans les régions suivantes: Zone Tampon, Cordon, Agroprom, Bar, Yantar, Entrepôts Militaire, le Repaire de Loup, Central Tchernobyl, Tchernobyl-2. Concernant les laboratoires secrets, rien n'est sure.</text>
+</string>
+<string id="tor_dal_2_text">
+	<text>Torych a donné une info sur la cachette de Semetsky qui se trouve au Radar dans la Forêt Rouge. La Cachette est une malle sous un sapin et le code aurait un lien avec la mort de "Pierre le Grand".</text>
+</string>
+<string id="bar_voronin_dal2_text">
+	<text>Il faut trouver la troisième caverne dans le Repaire de Loup, dans la région Nord-Ouest. Le message de détresse semblait venir d'uns tas de rocher sur la crête à coté du camp d'Oleg Tango.</text>
+</string>
+<string id="esc_sahar_dal_text">
+	<text>A l'avenir, il faudra trouver le marchand des Entrepôts Militaire. Son nom est "Radin". Il devrait connaitre le stalker, qui a été guéri d'une leucémie, quelque part dans la zone, mais tout en restant au service de Voronin, il paie bien. Retrouver le groupe de Tango, qui devrait être dans le camp au Repaire du loup.</text>
+</string>
+<string id="dialog_name_esc_sahar_dal">
+	<text>Le miraculé de la Zone.</text>
+</string>
+
+<string id="item_pda_semets">
+	<text>PDA de Yuri Semetsky</text>
+</string>
+<string id="item_pda_semets_name">
+	<text>PDA "Semetsky"</text>
+</string>
+
+<string id="peredatchik">
+	<text>Emetteur à apporter Vassilina</text>
+</string>
+<string id="uch_doma">
+	<text>Faire la nounou pour les scientifiques - Arrghhh...</text>
+</string>
+
+<string id="esc_test_art_task">
+	<text>Buste sculpté à chercher pour Sidorovich.</text>
+</string>
+<string id="item_sidor_head_desc">
+	<text>Tête en bois de Sidorovich.</text>
+</string>
+<string id="item_sidor_head_name">
+	<text>Tête sculptée</text>
+</string>
+
+<string id="uch_privesty_a">
+	<text>Trouvé Les scientifiques égarés.</text>
+</string>
+<string id="fanat_dead">
+	<text>Tireur embusqué, fils de pute...</text>
+</string>
+<string id="gar_dima_pohod">
+	<text>Dimon est allé à la Décharge.</text>
+</string>
+<string id="killer_novice">
+	<text>Mercenaire débutant</text>
+</string>
+<string id="kostya_help">
+	<text>Traverser le Marais avec Kostya</text>
+</string>
+<string id="kostya_baza">
+	<text>Kostya le chimiste, m'a aidé pour entrer dans l'ancienne base des "Firmamant"</text>
+</string>
+<string id="dogovor_s_band">
+	<text>Petit arrangement avec les bandits</text>
+</string>
+<string id="kill_s_band">
+	<text>Destruction des Bandits</text>
+</string>
+<string id="esc_lebed_atak">
+	<text>Protéger les scientifiques du Cordon</text>
+</string>
+<string id="esc_lebed_atak2">
+	<text>Aider des militaire de l'avant poste au Cordon</text>
+</string>
+<string id="agr_lebed_atak">
+	<text>Aider des militaires à Agroprom, protéger le commandant de l'institut.</text>
+</string>
+<string id="valit_borova">
+	<text>Hachis de Borov</text>
+</string>
+<string id="ded_stvol">
+	<text>Destruction de "choses" dans le Marais</text>
+</string>
+<string id="aver_kruglov_help">
+	<text>Accompagner Kruglov au Repaire du Loup</text>
+</string>
+<string id="aver_kontrik">
+	<text>Supprimer deux contrôleurs dans la grotte</text>
+</string>
+<string id="ros_kruglov_help">
+	<text>Accompagner Kruglov à Yantar</text>
+</string>
+<string id="yan_hozjain_plen_valit">
+	<text>Sakharov libéré</text>
+</string>
+<string id="yan_hozjain_valit">
+	<text>Altercation avec les "Maitres" près du labo-bunker.</text>
+</string>
+<string id="yan_laba_diaktiv">
+	<text>Déprotéger l'entrée du laboratoire X-16</text>
+</string>
+<string id="disk_sahara">
+	<text>Empécher les "Maître"qui sont sur Radar dans le X-10, de redémarrer le lobotomisateur, et récupérer le disque de Sakharov</text>
+</string>
+<string id="val_baks_dovesty">
+	<text>Appeller, le pseudo-chien albinos, surnommé "Backs", pour désactivé la protection psy de la base de Borov et ouvrir la transition vers la Décharge.</text>
+</string>
+<string id="dvd_bazar">
+	<text>Parler à coeur ouvert avec Parachutiste et resté amis</text>
+</string>
+<string id="misul_na_agru">
+	<text>Trouvez le commandant de l'Institut d'Agroprom</text>
+</string>
+<string id="as_vodjan">
+	<text>Confirmer la destruction des trois créatures, en restant à distance.</text>
+</string>
+<string id="mogila_kluk">
+	<text>Trouver le tombe de "Croc" dans les Entrepots Militaire</text>
+</string>
+<string id="mesto_prizrak">
+	<text>Trouver le poste de tir de "Spectre". Une balle au copyright du "Balfré", mais c'est arrêté dans son copain "Croc".</text>
+</string>
+<string id="voronin_zashitit">
+	<text>Défendre le Général Voronin qui a un contrat de mort, et découvrir ce quelqu'un... paut-être le propriétaire de l'Arène.</text>
+</string>
+<string id="aver_sidor_kontrik">
+	<text>Détruit deux contrôleurs en manteau qui sévissent autour de la carrière.</text>
+</string>
+<string id="mar_lebedev_ubitt">
+	<text>Aider Lebedev à lui mettre du plomb dans la tête.</text>
+</string>
+<string id="esc_vedrolet">
+	<text>Court de pilotage au Marais.</text>
+</string>
+<string id="oleg_taynik">
+	<text>Trouvez 2 cachettes avec des absolus appartenant à Parachutiste</text>
+</string>
+<string id="oleg_keys_obshak">
+	<text>Aider le groupe d'Oleg</text>
+</string>
+<string id="gastello_help">
+	<text>Accompagner Gastello jusqu'au camp d'Oleg</text>
+</string>
+
+<string id="kod_sema_text">
+	<text>Un des 4 numéros du code est:"7". Cette info, je l'ai trouvé sur l'un des gars du groupe de "Tango", qui sortaient du "bar" pour allez à Cordon. C'était un véteran équipé d'un exosquelette bandit.</text><!--One of the numbers 4-digit code - '7' this info, I took off thug who got us with 'Tango', when they came out from the bar to the Cordon. I remember he was a bandit exoskeleton when his lads were - cloaks veterans. What - this number '7' to beat, I do not know, but infa is infa. The main thing is the 4-digit code!-->
+</string>
+<string id="kod_sema2_text">
+	<text>Un des 4 numéros du code est: "2". Cette info, je l'ai d'un bandit, "Le Moine" ou "Poker", ou d'un autre cadavre? qui sait!</text><!--One of the numbers 4-digit code - '2' this info, I took off, felts with gangster - 'sucker', felts with 'Kocherha.' What - this '2' beat, I do not know, but infa is infa. The main thing is the 4-digit code!-->
+</string>
+<string id="kod_sema3_text">
+	<text>Un des 4 numéros du code est: "1". Cette info m'a été donnée par Oleg Tango. Il m'a dit que le quatrième chiffres, c'est un stalker vétéran qui pourrais me le communiquer.</text><!--One of the numbers 4-digit code - '1' this info, I threw Oleg Tango. and explained that one of the 4-digit number, is a stalker - a veteran, but not the fact that the veteran, if I find him, will share her secret, but in any case, ask around veterans. What - this number '1' to beat, I do not know, but infa is infa. The main thing is the 4-digit code!-->
+</string>
+<string id="kod_sema4_text">
+	<text>Un des 4 numéros du code est: "5". Cette info je l'ai eu grace au module de piratage dans mon PDA.</text>
+		<!-- Un du code du 4-chiffre des nombres - 5' cette info, j'ai jeté le vétéran qui a trouvé une pointe Oleg. Cela qui - ce nombre 5' pour clouer, je ne sais pas, mais l'infa est infa. La chose principale est le code du 4-chiffre! Bien que pas à la poitrine si Semetsky qui sur le radar? Si vous avez des mains sur les 4-D nombres, vous devez compiler le code de ces chiffres, comme les portes. Hmmm! -->
+</string>
+<!--__________________________________________________________________-->
+<string id="new_book_tor_name">
+	<text>Ordinateur portable.</text>
+</string>
+<string id="new_book_tor_desc">
+	<text>Ordinateur portable du groupe Oleg Tango.</text>
+</string>
+<string id="dvoechnik_infa_text">
+	<text>J'accompagnais trois scientifiques pour aller explorer une ancienne zone obscure, dont les accès ont étés coupés, excepté en passant par une grotte. Arrivant devant celle-ci, des bandits nous sont tombés dessus. Leur chef était un certain "Borov". Il nous a promis de nous laisser la vie sauve, si nous acceptions de lui montrer le chemin pour se rendre à "Darkscape", comme certain la surnomme. N'ayant pas trop le choix, nous avons acceptés. L'un des scientifique avait une carte et une fois arrivé sur place, Borov lui prit la carte est dit à un de ses gars surnommé "As", de se débarrassé de nous. Les scientifiques ont paniqués, et dans la confusion, j'en ai profité pour m'enfuir sous les balles, sauf une qui se logea dans la cuisse. Tant bien que mal, j'ai réussis à sortir de la Zone et je me suis retrouvé à Agropro, je voulai rejoindre la base des Militaire, mais je n'avais plus de trousse de soin, ni bandage. Impossible d'arrêter l'hémorragie, je vais surement mourir.</text>
+</string>
+<string id="klen_infa_text">
+	<text>Y'a-t-il une part de vérité dans mes rêves? Je dois en parler avec "Klenov", un ancien "Conscience-C". </text>
+</string>
+
+<string id="name_vedma_0">
+	<text>Helen</text>
+</string>
+<string id="name_vedma_1">
+	<text>Anya</text>
+</string>
+<string id="name_vedma_2">
+	<text>Anfisa</text>
+</string>
+<string id="name_vedma_3">
+	<text>Angela</text>
+</string>
+<string id="name_vedma_4">
+	<text>Agony</text>
+</string>
+<string id="name_vedma_5">
+	<text>Veronica</text>
+</string>
+<string id="name_vedma_6">
+	<text>Vetch</text>
+</string>
+<string id="name_vedma_7">
+	<text>Bonia</text>
+</string>
+<string id="name_vedma_8">
+	<text>Galya</text>
+</string>
+<string id="name_vedma_9">
+	<text>Diana</text>
+</string>
+<string id="name_vedma_10">
+	<text>Dasha</text>
+</string>
+<string id="name_vedma_11">
+	<text>Dora</text>
+</string>
+<string id="name_vedma_12">
+	<text>Darling</text>
+</string>
+<string id="name_vedma_13">
+	<text>Alain</text>
+</string>
+<string id="name_vedma_14">
+	<text>Zoya</text>
+</string>
+<string id="name_vedma_15">
+	<text>Irene</text>
+</string>
+<string id="name_vedma_16">
+	<text>Jirka</text>
+</string>
+<string id="name_vedma_17">
+	<text>Inga</text>
+</string>
+<string id="name_vedma_18">
+	<text>Zhenya</text>
+</string>
+<string id="name_vedma_19">
+	<text>Eve</text>
+</string>
+<string id="name_vedma_20">
+	<text>Zinka</text>
+</string>
+<string id="name_vedma_21">
+	<text>Zulfiya</text>
+</string>
+<string id="name_vedma_22">
+	<text>Kate</text>
+</string>
+<string id="name_vedma_23">
+	<text>Karina</text>
+</string>
+<string id="name_vedma_24">
+	<text>Catboat</text>
+</string>
+<string id="name_vedma_25">
+	<text>Claudia</text>
+</string>
+<string id="name_vedma_26">
+	<text>Lera</text>
+</string>
+<string id="name_vedma_27">
+	<text>Lina</text>
+</string>
+<string id="name_vedma_28">
+	<text>Linda</text>
+</string>
+<string id="name_vedma_29">
+	<text>Liana</text>
+</string>
+<string id="name_vedma_30">
+	<text>Liza</text>
+</string>
+<string id="name_vedma_31">
+	<text>Laura</text>
+</string>
+<string id="name_vedma_32">
+	<text>Lada</text>
+</string>
+<string id="name_vedma_33">
+	<text>Luba</text>
+</string>
+<string id="name_vedma_34">
+	<text>Lyudka</text>
+</string>
+<string id="name_vedma_35">
+	<text>Lucy</text>
+</string>
+<string id="name_vedma_36">
+	<text>Lida</text>
+</string>
+<string id="name_vedma_37">
+	<text>Manka</text>
+</string>
+<string id="name_vedma_38">
+	<text>Martha</text>
+</string>
+<string id="name_vedma_39">
+	<text>Marina</text>
+</string>
+<string id="name_vedma_40">
+	<text>Nina</text>
+</string>
+<string id="name_vedma_41">
+	<text>Nona</text>
+</string>
+<string id="name_vedma_42">
+	<text>Nat</text>
+</string>
+<string id="name_vedma_43">
+	<text>Nina</text>
+</string>
+<string id="name_vedma_44">
+	<text>Nataha</text>
+</string>
+<string id="name_vedma_45">
+	<text>Olga</text>
+</string>
+<string id="name_vedma_46">
+	<text>Oksana</text>
+</string>
+<string id="name_vedma_47">
+	<text>Olesya</text>
+</string>
+<string id="name_vedma_48">
+	<text>Pasha</text>
+</string>
+<string id="name_vedma_49">
+	<text>Rimma</text>
+</string>
+<string id="name_vedma_50">
+	<text>Rita</text>
+</string>
+<string id="name_vedma_51">
+	<text>Regina</text>
+</string>
+<string id="name_vedma_52">
+	<text>Sim</text>
+</string>
+<string id="name_vedma_53">
+	<text>Sveta</text>
+</string>
+<string id="name_vedma_54">
+	<text>Sonka</text>
+</string>
+<string id="name_vedma_55">
+	<text>Dormouse</text>
+</string>
+<string id="name_vedma_56">
+	<text>Sasha</text>
+</string>
+<string id="name_vedma_57">
+	<text>Sabrina</text>
+</string>
+<string id="name_vedma_58">
+	<text>Tanya</text>
+</string>
+<string id="name_vedma_59">
+	<text>Tanya</text>
+</string>
+<string id="name_vedma_60">
+	<text>Tom</text>
+</string>
+<string id="name_vedma_61">
+	<text>Tomka</text>
+</string>
+<string id="name_vedma_62">
+	<text>Tonka</text>
+</string>
+<string id="name_vedma_63">
+	<text>Ulyana</text>
+</string>
+<string id="name_vedma_64">
+	<text>Fanny</text>
+</string>
+<string id="name_vedma_65">
+	<text>Faina</text>
+</string>
+<string id="name_vedma_66">
+	<text>Pauline</text>
+</string>
+<string id="name_vedma_67">
+	<text>Fisk</text>
+</string>
+<string id="name_vedma_68">
+	<text>Emka</text>
+</string>
+<string id="name_vedma_69">
+	<text>Julia</text>
+</string>
+<string id="name_vedma_70">
+	<text>Julia</text>
+</string>
+<string id="name_vedma_71">
+	<text>Jana</text>
+</string>
+<string id="name_vedma_72">
+	<text>Janka</text>
+</string>
+<string id="name_vedma_73">
+	<text>Katharina</text>
+</string>
+<string id="name_vedma_74">
+	<text>Milka</text>
+</string>
+<string id="name_vedma_75">
+	<text>Tanyuha</text>
+</string>
+<string id="name_vedma_76">
+	<text>Verka</text>
+</string>
+<string id="name_vedma_77">
+	<text>Gunn</text>
+</string>
+<string id="name_vedma_78">
+	<text>Valyuha</text>
+</string>
+<string id="name_vedma_79">
+	<text>Pebble</text>
+</string>
+<string id="name_vedma_80">
+	<text>Nadya</text>
+</string>
+
+<string id="lname_vedma_0">
+	<text>Howitzer</text>
+</string>
+<string id="lname_vedma_1">
+	<text>Lioness</text>
+</string>
+<string id="lname_vedma_2">
+	<text>The fatal</text>
+</string>
+<string id="lname_vedma_3">
+	<text>Armature</text>
+</string>
+<string id="lname_vedma_4">
+	<text>Killer</text>
+</string>
+<string id="lname_vedma_5">
+	<text>Eagle</text>
+</string>
+<string id="lname_vedma_6">
+	<text>Snipers</text>
+</string>
+<string id="lname_vedma_7">
+	<text>Agony</text>
+</string>
+<string id="lname_vedma_8">
+	<text>Fast</text>
+</string>
+<string id="lname_vedma_9">
+	<text>Accurate</text>
+</string>
+<string id="lname_vedma_10">
+	<text>Cobra</text>
+</string>
+<string id="lname_vedma_11">
+	<text>Blissful</text>
+</string>
+<string id="lname_vedma_12">
+	<text>Loner</text>
+</string>
+<string id="lname_vedma_13">
+	<text>Sword</text>
+</string>
+<string id="lname_vedma_14">
+	<text>Mark</text>
+</string>
+<string id="lname_vedma_15">
+	<text>Ring</text>
+</string>
+<string id="lname_vedma_16">
+	<text>Boltuha</text>
+</string>
+<string id="lname_vedma_17">
+	<text>Squeezer</text>
+</string>
+<string id="lname_vedma_18">
+	<text>Cat</text>
+</string>
+<string id="lname_vedma_19">
+	<text>Tigress</text>
+</string>
+<string id="lname_vedma_20">
+	<text>Bandolier</text>
+</string>
+<string id="lname_vedma_21">
+	<text>Steel</text>
+</string>
+<string id="lname_vedma_22">
+	<text>Kite</text>
+</string>
+<string id="lname_vedma_23">
+	<text>Tin-plate</text>
+</string>
+<string id="lname_vedma_24">
+	<text>Stretching</text>
+</string>
+<string id="lname_vedma_25">
+	<text>Atmosphere</text>
+</string>
+<string id="lname_vedma_26">
+	<text>Midwife</text>
+</string>
+<string id="lname_vedma_27">
+	<text>Spiteful</text>
+</string>
+<string id="lname_vedma_28">
+	<text>Beretta</text>
+</string>
+<string id="lname_vedma_29">
+	<text>Masyanya</text>
+</string>
+<string id="lname_vedma_30">
+	<text>Deadly</text>
+</string>
+<string id="lname_vedma_31">
+	<text>Karate</text>
+</string>
+<string id="lname_vedma_32">
+	<text>Frau</text>
+</string>
+<string id="lname_vedma_33">
+	<text>Fiery</text>
+</string>
+<string id="lname_vedma_34">
+	<text>Viper</text>
+</string>
+<string id="lname_vedma_35">
+	<text>Panther</text>
+</string>
+<string id="lname_vedma_36">
+	<text>Rassomaha</text>
+</string>
+<string id="lname_vedma_37">
+	<text>Biathlete</text>
+</string>
+<string id="lname_vedma_38">
+	<text>Guard</text>
+</string>
+<string id="lname_vedma_39">
+	<text>Damned wretch</text>
+</string>
+<string id="lname_vedma_40">
+	<text>Insidious</text>
+</string>
+<string id="lname_vedma_41">
+	<text>Witch</text>
+</string>
+<string id="lname_vedma_42">
+	<text>Terminator</text>
+</string>
+<string id="lname_vedma_43">
+	<text>Guillotine</text>
+</string>
+<string id="lname_vedma_44">
+	<text>Block</text>
+</string>
+<string id="lname_vedma_45">
+	<text>Dymovuha</text>
+</string>
+<string id="lname_vedma_46">
+	<text>She-wolf</text>
+</string>
+<string id="lname_vedma_47">
+	<text>She-bear</text>
+</string>
+<string id="lname_vedma_48">
+	<text>Mastersha</text>
+</string>
+<!-- -->
+<string id="lname_vedma_49">
+	<text>Negative</text>
+</string>
+<string id="lname_vedma_50">
+	<text>Lame</text>
+</string>
+<string id="lname_vedma_51">
+	<text>Mitrailleur</text>
+</string>
+<string id="lname_vedma_52">
+	<text>Balle</text>
+</string>
+<string id="lname_vedma_53">
+	<text>Vitesse</text>
+</string>
+<string id="lname_vedma_54">
+	<text>Arme</text>
+</string>
+<string id="lname_vedma_55">
+	<text>Anomalie</text>
+</string>
+<string id="lname_vedma_56">
+	<text>Tempète</text>
+</string>
+<string id="lname_vedma_57">
+	<text>Désastre</text>
+</string>
+<string id="lname_vedma_58">
+	<text>Elément</text>
+</string>
+<string id="lname_vedma_59">
+	<text>Rafale</text>
+</string>
+<string id="lname_vedma_60">
+	<text>Pointe</text>
+</string>
+<string id="vedma_novice">
+	<text>Sorcière, débutante</text>
+</string>
+<string id="vedma_experienced">
+	<text>Sorcière, expérimentée</text>
+</string>
+<string id="vedma_veteran">
+	<text>Sorcière, vétéran</text>
+</string>
+<string id="vedma_master">
+	<text>Sorcière, maître</text>
+</string>
+<string id="nebo_novice">
+	<text>Firmament novice</text>
+</string>
+<string id="nebo_experienced">
+	<text>Firmament expérimenté</text>
+</string>
+<string id="nebo_veteran">
+	<text>Firmament, vétéran</text>
+</string>
+<string id="nebo_master">
+	<text>Firmament maître</text>
+</string>
+<string id="strela_novice">
+	<text>Stalkers militaire, novice</text>
+</string>
+<string id="strela_experienced">
+	<text>Stalkers militaire, expérimenté</text>
+</string>
+<string id="strela_veteran">
+	<text>Stalkers militaire, vétéran</text>
+</string>
+<string id="strela_master">
+	<text>Stalkers militaire, maître</text>
+</string>
+<string id="item_trupak">
+	<text>Cadavre du présumé "Spectre", en état de décomposition très avancé.</text>
+</string>
+<string id="item_trupak_name">
+	<text>Cadavre de "Spectre"</text>
+</string>
+
+</string_table>

@@ -1,0 +1,1000 @@
+<!--SCARmod_kp3+_27/01/2013-->
+
+<!--Tracer colors:
+no_tracer 	= %c[200,200,200,200] NON
+color_0 	= %c[255,130,0,255] Orange	%c[255,255,130,0] ORANGE
+color_1 	= %c[255,255,255,255] Blanc	%c[255,255,255,255] BLANC
+color_2 	= %c[255,25,0,255] Rouge	%c[255,255,0,0] ROUGE
+color_3 	= %c[77, 255,77,255] Vert	%c[255,0,255,0] VERT
+color_4 	= %c[0,0,255,255] Bleu		%c[255,0,0,255] BLEU
+color_5 	= %c[255,255,0,150] Jaune	%c[255,255,255,0] JAUNE
+color_6 	= %c[255,0,255,255] Magenta	%c[255,255,0,255] MAGENTA
+color_7 	= %c[0,255,255,255] Cyan	%c[255,0,255,255] CYAN
+
+%c[200,200,200,200] Gris Pale
+%c[23,0,255,255] Cyan
+%c[200,200,200,23] Jaune
+-->
+
+	<string id="Ammo">
+		<text>Munitions</text>
+	</string>
+
+
+<!-- 9×18 (57-N-181S) Standard -->
+<string id="ammo-9x18-fmj">
+<text>Mun. 9×18-(57-N-181S)-Standard</text>
+</string>
+
+<string id="ammo-9x18-fmj_s">
+<text>9×18-Std.</text>
+</string>
+
+<string id="enc_weapons1_ammo_ammo-9x18-fmj">
+<text>
+\n%c[200,200,200,200]MUNITION:  9×18 (57-N-181S) Standard
+\n%c[23,0,255,255]Finesse = 		%c[200,200,200,200] x1,0
+\n%c[23,0,255,255]Dispersion = 		%c[200,200,200,200] x2,8
+\n%c[23,0,255,255]Dégats = 			%c[200,200,200,200] x1,5
+\n%c[23,0,255,255]Impulsion = 		%c[200,200,200,200] x1,5
+\n%c[23,0,255,255]Perforation = 	%c[200,200,200,200] x1,0
+\n%c[23,0,255,255]Fragment = 		%c[200,200,200,200] 1
+\n%c[23,0,255,255]Traceur = 		%c[255,0,255,255] CYAN
+\n%c[23,0,255,255]Explosive = 		%c[200,200,200,200] NON
+\n%c[200,200,200,23]DESCRIPTION:
+\n%c[200,200,200,200] Munitions blindées avec ogive perforante en acier sous une chemise en métal. Bonne puissance d'arrêt, mais inefficaces contre les protections corporelles.
+</text>
+</string>
+
+
+<!-- 9×18 (7N15)  +P+ -->
+<string id="ammo-9x18-pmm">
+<text>Mun. 9×18-(7N15)-+P+</text>
+</string>
+
+<string id="ammo-9x18-pmm_s">
+<text>9×18 +P+</text>
+</string>
+
+<string id="enc_weapons1_ammo_ammo-9x18-pmm">
+<text>
+\n%c[200,200,200,200]MUNITION:  9×18 (7N15) +P+
+\n%c[23,0,255,255]Finesse = 		%c[200,200,200,200] x1,5
+\n%c[23,0,255,255]Dispersion = 		%c[200,200,200,200] x3,0
+\n%c[23,0,255,255]Dégats = 			%c[200,200,200,200] x1,7
+\n%c[23,0,255,255]Impulsion = 		%c[200,200,200,200] x1,7
+\n%c[23,0,255,255]Perforation = 	%c[200,200,200,200] x1,3
+\n%c[23,0,255,255]Fragment = 		%c[200,200,200,200] 1
+\n%c[23,0,255,255]Traceur = 		%c[200,200,200,200] NON
+\n%c[23,0,255,255]Explosive = 		%c[200,200,200,200] NON
+\n%c[200,200,200,23]DESCRIPTION:
+\n%c[200,200,200,200] Ces munitions contiennent une balle à forte puissance d'arrêt. La désignation +P+ européenne indique qu'il s'agit de munitions à surpression, avec une augmentation de 30 % de la vitesse initiale. Inefficaces contre les protections corporelles.
+</text>
+</string>
+
+
+<!-- 9×18 (7N25) Perforante -->
+<string id="ammo-9x18-pbp">
+<text>Mun. 9×18-(7N25)-Perforante</text>
+</string>
+
+<string id="ammo-9x18-pbp_s">
+<text>9×18-BP</text>
+</string>
+
+<string id="enc_weapons1_ammo_ammo-9x18-pbp">
+<text>
+\n%c[200,200,200,200]MUNITION:  9×18 (7N25) Perforante
+\n%c[23,0,255,255]Finesse = 		%c[200,200,200,200] x1,2
+\n%c[23,0,255,255]Dispersion = 		%c[200,200,200,200] x3,0
+\n%c[23,0,255,255]Dégats = 			%c[200,200,200,200] x1,6
+\n%c[23,0,255,255]Impulsion = 		%c[200,200,200,200] x1.5
+\n%c[23,0,255,255]Perforation = 	%c[200,200,200,200] x2,0
+\n%c[23,0,255,255]Fragment = 		%c[200,200,200,200] 1
+\n%c[23,0,255,255]Traceur = 		%c[200,200,200,200] NON
+\n%c[23,0,255,255]Explosive = 		%c[200,200,200,200] NON
+\n%c[200,200,200,23]DESCRIPTION:
+\n%c[200,200,200,200] Vélocité améliorée pour cette munition avec remplacement du matériau du noyau par un plus résistant, d'où une net amélioration de la perforation. Produit pour les forces spéciales gouvernementales.
+</text>
+</string>
+
+
+
+<!--###############################################################-->
+<!-- 9×19 (FMJ) Standard -->
+<string id="ammo-9x19-fmj">
+<text>Mun. 9×19-(FMJ)-Standard</text>
+</string>
+
+<string id="ammo-9x19-fmj_s">
+<text>9×19-Std.</text>
+</string>
+
+<string id="enc_weapons1_ammo_ammo-9x19-fmj">
+<text>
+\n%c[200,200,200,200]MUNITION:  9×19 (FMJ) Standard
+\n%c[23,0,255,255]Finesse = 		%c[200,200,200,200] x1
+\n%c[23,0,255,255]Dispersion = 		%c[200,200,200,200] x2,5
+\n%c[23,0,255,255]Dégats = 			%c[200,200,200,200] x1,8
+\n%c[23,0,255,255]Impulsion = 		%c[200,200,200,200] x1,8
+\n%c[23,0,255,255]Perforation = 	%c[200,200,200,200] x1,0
+\n%c[23,0,255,255]Fragment = 		%c[200,200,200,200] 1
+\n%c[23,0,255,255]Traceur = 		%c[255,255,0,255] MAGENTA
+\n%c[23,0,255,255]Explosive = 		%c[200,200,200,200] NON
+\n%c[200,200,200,23]DESCRIPTION:
+\n%c[200,200,200,200] Ces munitions chemisées conventionnelles de 9x19 mm présentent de bonnes caractéristiques et sont simples à produire. Leur popularité est liée à l'interdiction par les conventions internationales d'utiliser de telles munitions au combat. Inefficaces contre les protections corporelles
+</text>
+</string>
+
+
+<!-- 9×19 (7N21) Perforante -->
+<string id="ammo-9x19-pbp">
+<text>Mun. 9×19 (7N21) Perforante</text>
+</string>
+
+<string id="ammo-9x19-pbp_s">
+<text>9×19-BP</text>
+</string>
+
+<string id="enc_weapons1_ammo_ammo-9x19-pbp">
+<text>
+\n%c[200,200,200,200]MUNITION:  9×19 (7N21) Perforante
+\n%c[23,0,255,255]Finesse = 		%c[200,200,200,200] x1,2
+\n%c[23,0,255,255]Dispersion = 		%c[200,200,200,200] x2,1
+\n%c[23,0,255,255]Dégats = 			%c[200,200,200,200] x1,8
+\n%c[23,0,255,255]Impulsion = 		%c[200,200,200,200] x2,1
+\n%c[23,0,255,255]Perforation = 	%c[200,200,200,200] x1,5
+\n%c[23,0,255,255]Fragment = 		%c[200,200,200,200] 1
+\n%c[23,0,255,255]Traceur = 		%c[200,200,200,200] NON
+\n%c[23,0,255,255]Explosive = 		%c[200,200,200,200] NON
+\n%c[200,200,200,23]DESCRIPTION:
+\n%c[200,200,200,200]Munitions 9x19 mm chemisées à noyau perforant et vélocité augmenté à 445-470m/s, Poids de la balle de 5,4grammes .
+</text>
+</string>
+
+
+<!-- 9×19 (7N31) Perforante +P+
+<string id="ammo_9x19_7n31">
+<text>Mun. 9×19 (7N31) Perforante</text>
+</string>
+
+<string id="ammo_9x19_7n31_s">
+<text>9×19-BP</text>
+</string>
+
+<string id="ammo_9x19_7n31_descr">
+<text>
+\n%c[200,200,200,200]MUNITION:  9×19 (7N31) Perforante
+\n%c[23,0,255,255]Finesse = 		%c[200,200,200,200] x1.2
+\n%c[23,0,255,255]Dispersion = 		%c[200,200,200,200] x1
+\n%c[23,0,255,255]Dégats = 			%c[200,200,200,200] x0,95
+\n%c[23,0,255,255]Impulsion = 		%c[200,200,200,200] x0,9
+\n%c[23,0,255,255]Perforation = 	%c[200,200,200,200] x0,38
+\n%c[23,0,255,255]Fragment = 		%c[200,200,200,200] 1
+\n%c[23,0,255,255]Traceur = 		%c[200,200,200,200] NON
+\n%c[23,0,255,255]Explosive = 		%c[200,200,200,200] NON
+\n%c[200,200,200,23]DESCRIPTION:
+\n%c[200,200,200,200] Munition 9x19 Hyper véloce jusqu'a 600m/s. Balle améliorée avec un noyau perforant allégé de 4,2grammes.
+</text>
+</string>
+-->
+
+
+<!--###############################################################-->
+<!-- 5.45×39 (7N6) Standard -->
+<string id="ammo-5.45x39-fmj">
+<text>Mun. 5,45×39 (7N6) Standard</text>
+</string>
+
+<string id="ammo-5.45x39-fmj_s">
+<text>5,45×39-Std.</text>
+</string>
+
+<string id="enc_weapons1_ammo_ammo-5.45x39-fmj">
+<text>
+\n%c[200,200,200,200]MUNITION:  5,45×39 (7N6) Standard
+\n%c[23,0,255,255]Finesse = 		%c[200,200,200,200] x1.0
+\n%c[23,0,255,255]Dispersion = 		%c[200,200,200,200] x1,5
+\n%c[23,0,255,255]Dégats = 			%c[200,200,200,200] x1,5
+\n%c[23,0,255,255]Impulsion = 		%c[200,200,200,200] x2,5
+\n%c[23,0,255,255]Perforation = 	%c[200,200,200,200] x1,0
+\n%c[23,0,255,255]Fragment = 		%c[200,200,200,200] 1
+\n%c[23,0,255,255]Traceur = 		%c[255,255,255,0] JAUNE
+\n%c[23,0,255,255]Explosive = 		%c[200,200,200,200] NON
+\n%c[200,200,200,23]DESCRIPTION:
+\n%c[200,200,200,200] Munitions militaires 5,45x39 7N6 pour les fusils d'assaut des pays du Pacte de Varsovie. Plus précises que les munitions 7,62 mm grâce à leur recul réduit et leur portée allongée.</text>
+</string>
+
+
+<!-- 5.45×39 (7N22) Perforante -->
+<string id="ammo-5.45x39-ap">
+<text>Mun. 5,45×39 (7N22) Perforante</text>
+</string>
+
+<string id="ammo-5.45x39-ap_s">
+<text>5,45×39-BP</text>
+</string>
+
+<string id="enc_weapons1_ammo_ammo-5.45x39-ap">
+<text>
+\n%c[200,200,200,200]MUNITION:  5,45×39 (7N22) Perforante
+\n%c[23,0,255,255]Finesse = 		%c[200,200,200,200] x1,3
+\n%c[23,0,255,255]Dispersion = 		%c[200,200,200,200] x1,45
+\n%c[23,0,255,255]Dégats = 			%c[200,200,200,200] x1,7
+\n%c[23,0,255,255]Impulsion = 		%c[200,200,200,200] x2,8
+\n%c[23,0,255,255]Perforation = 	%c[200,200,200,200] x2,0
+\n%c[23,0,255,255]Fragment = 		%c[200,200,200,200] 1
+\n%c[23,0,255,255]Traceur = 		%c[200,200,200,200] NON
+\n%c[23,0,255,255]Explosive = 		%c[200,200,200,200] NON
+\n%c[200,200,200,23]DESCRIPTION:
+\n%c[200,200,200,200] Munitions militaires 5,45x39 7N22 perforantes pour les fusils d'assaut des pays du Pacte de Varsovie. La balle contient une ogive perforante en alliage durci, très efficace contre les protections corporelles.
+</text>
+</string>
+
+
+<!--###############################################################-->
+<!-- 5.56×45 (SS109) Standard -->
+<string id="ammo-5.56x45-ss190">
+<text>Mun. 5,56×45 (SS109) Standard</text>
+</string>
+
+<string id="ammo-5.56x45-ss190_s">
+<text>5,56×45-Std.</text>
+</string>
+
+<string id="enc_weapons1_ammo_ammo-5.56x45-ss190">
+<text>
+\n%c[200,200,200,200]MUNITION:  5.56×45 (SS109) Standard
+\n%c[23,0,255,255]Finesse = 		%c[200,200,200,200] x1
+\n%c[23,0,255,255]Dispersion = 		%c[200,200,200,200] x1,1
+\n%c[23,0,255,255]Dégats = 			%c[200,200,200,200] x1,8
+\n%c[23,0,255,255]Impulsion = 		%c[200,200,200,200] x1,1
+\n%c[23,0,255,255]Perforation = 	%c[200,200,200,200] x1,9
+\n%c[23,0,255,255]Fragment = 		%c[200,200,200,200] 1
+\n%c[23,0,255,255]Traceur = 		%c[255,0,255,0] VERT
+\n%c[23,0,255,255]Explosive = 		%c[200,200,200,200] NON
+\n%c[200,200,200,23]DESCRIPTION:
+\n%c[200,200,200,200] Munitions 5,56x45 standard de l'OTAN également connues sous leur nom d'index, SS109. Conçues pour permettre des tirs automatiques de précision. Leurs excellentes qualités balistiques sont un héritage de leurs origines comme munitions de chasse.
+</text>
+</string>
+
+
+<!-- 5.56×45 (M995) Perforante -->
+<string id="ammo-5.56x45-ap">
+<text>Mun. 5,56×45 (M995) Perforante</text>
+</string>
+
+<string id="ammo-5.56x45-ap_s">
+<text>5,56×45-BP</text>
+</string>
+
+<string id="enc_weapons1_ammo_ammo-5.56x45-ap">
+<text>
+\n%c[200,200,200,200]MUNITION:  5,56×45 (M995) Perforante
+\n%c[23,0,255,255]Finesse = 		%c[200,200,200,200] x1,3
+\n%c[23,0,255,255]Dispersion = 		%c[200,200,200,200] x1,45
+\n%c[23,0,255,255]Dégats = 			%c[200,200,200,200] x1,7
+\n%c[23,0,255,255]Impulsion = 		%c[200,200,200,200] x2,8
+\n%c[23,0,255,255]Perforation = 	%c[200,200,200,200] x2,0
+\n%c[23,0,255,255]Fragment = 		%c[200,200,200,200] 1
+\n%c[23,0,255,255]Traceur = 		%c[200,200,200,200] NON
+\n%c[23,0,255,255]Explosive = 		%c[200,200,200,200] NON
+\n%c[200,200,200,23]DESCRIPTION:
+\n%c[200,200,200,200] Munitions militaires 5,56x45 mm (Armée américaine M995) perforantes, utilisées par la plupart des forces armées et spéciales occidentales. Très efficaces contre les protections corporelles.
+</text>
+</string>
+
+
+<!--###############################################################-->
+<!-- 5.7×28 (SS191) Standard -->
+<string id="ammo-5.7x28-fmj">
+<text>Mun. 5,7×28 (SS191) FMJ Traceur</text>
+</string>
+
+<string id="ammo-5.7x28-fmj_s">
+<text>5,7×28-FMJ</text>
+</string>
+
+<string id="enc_weapons1_ammo_ammo-5.7x28-fmj">
+<text>
+\n%c[200,200,200,200]MUNITION:  5,7×28 (SS191) Traceur
+\n%c[23,0,255,255]Finesse = 		%c[200,200,200,200] x1
+\n%c[23,0,255,255]Dispersion = 		%c[200,200,200,200] x2,4
+\n%c[23,0,255,255]Dégats = 			%c[200,200,200,200] x1,2
+\n%c[23,0,255,255]Impulsion = 		%c[200,200,200,200] x1,0
+\n%c[23,0,255,255]Perforation = 	%c[200,200,200,200] x1,10
+\n%c[23,0,255,255]Fragment = 		%c[200,200,200,200] 1
+\n%c[23,0,255,255]Traceur = 		%c[255,255,0,255] MAGENTA
+\n%c[23,0,255,255]Explosive = 		%c[200,200,200,200] NON
+\n%c[200,200,200,23]DESCRIPTION:
+\n%c[200,200,200,200]SS191 - Chemisé, Traçante: Extrapolé de la SS190, ses qualités balistiques et son ogive blindée offrent une bonne perforation qui correspond essentiellement à un usage militaire pour lequel il faut être mesure passer au travers des protections individuelles et où le pouvoir d'arrêt n'est pas fondamental. Elle est traçante jusqu'à une distance de 200m.
+</text>
+</string>
+
+
+<!-- 5.7×28 Perforante -->
+<string id="ammo-5.7x28-ap">
+<text>Mun. 5,7×28 (SS190) Perforante</text>
+</string>
+
+<string id="ammo-5.7x28-ap_s">
+<text>5,7×28-BP</text>
+</string>
+
+<string id="enc_weapons1_ammo_ammo-5.7x28-ap">
+<text>
+\n%c[200,200,200,200]MUNITION:  5,7×28 (SS190) Perforante
+\n%c[23,0,255,255]Finesse = 		%c[200,200,200,200] x1,2
+\n%c[23,0,255,255]Dispersion = 		%c[200,200,200,200] x2,2
+\n%c[23,0,255,255]Dégats = 			%c[200,200,200,200] x1,4
+\n%c[23,0,255,255]Impulsion = 		%c[200,200,200,200] x1,2
+\n%c[23,0,255,255]Perforation = 	%c[200,200,200,200] x1,35
+\n%c[23,0,255,255]Fragment = 		%c[200,200,200,200] 1
+\n%c[23,0,255,255]Traceur = 		%c[200,200,200,200] NON
+\n%c[23,0,255,255]Explosive = 		%c[200,200,200,200] NON
+\n%c[200,200,200,23]DESCRIPTION:
+\n%c[200,200,200,200]SS190 - Standard: Il s'agit de la munition standard, ses qualités balistiques et son ogive blindée offrent une bonne perforation qui correspond essentiellement à un usage militaire pour lequel il faut être mesure passer au travers des protections individuelles et où le pouvoir d'arrêt n'est pas fondamental.
+</text>
+</string>
+
+
+<!--###############################################################-->
+<!-- 7.62×54 (M44) PKM100 -->
+<string id="ammo-7.62x54r">
+<text>Mun. 7,62×54 (M44) Bande</text>
+</string>
+
+<string id="ammo-7.62x54r_s">
+<text>7,62×54-Bande</text>
+</string>
+
+<string id="enc_weapons1_ammo_ammo-7.62x54r">
+<text>
+\n%c[200,200,200,200]MUNITION: Bande de 100-7,62×54-(M44) 
+\n%c[23,0,255,255]Finesse = 		%c[200,200,200,200] x1,0
+\n%c[23,0,255,255]Dispersion = 		%c[200,200,200,200] x1,2
+\n%c[23,0,255,255]Dégats = 			%c[200,200,200,200] x1,7
+\n%c[23,0,255,255]Impulsion = 		%c[200,200,200,200] x1,6
+\n%c[23,0,255,255]Perforation = 	%c[200,200,200,200] x2,7
+\n%c[23,0,255,255]Fragment = 		%c[200,200,200,200] 1
+\n%c[23,0,255,255]Traceur = 		%c[255,255,0,0] ROUGE
+\n%c[23,0,255,255]Explosive = 		%c[200,200,200,200] NON
+\n%c[200,200,200,23]DESCRIPTION:
+\n%c[200,200,200,200] Bande de munitions traçante dotée d'un noyau standard et d'une balle chemisée.
+</text>
+</string>
+
+
+
+<!-- 7.62×54 (7N1) Standard -->
+<string id="ammo-7.62x54-7h1">
+<text>Mun. 7,62×54 (7N1) Standard</text>
+</string>
+
+<string id="ammo-7.62x54-7h1">
+<text>7,62×54-Std.</text>
+</string>
+
+<string id="enc_weapons1_ammo_ammo-7.62x54-7h1">
+<text>
+\n%c[200,200,200,200]MUNITION:  7,62×54 (7N1) Standard
+\n%c[23,0,255,255]Finesse = 		%c[200,200,200,200] x1,2
+\n%c[23,0,255,255]Dispersion = 		%c[200,200,200,200] x1,1
+\n%c[23,0,255,255]Dégats = 			%c[200,200,200,200] x1,95
+\n%c[23,0,255,255]Impulsion = 		%c[200,200,200,200] x1,4
+\n%c[23,0,255,255]Perforation = 	%c[200,200,200,200] x2,75
+\n%c[23,0,255,255]Fragment = 		%c[200,200,200,200] 1
+\n%c[23,0,255,255]Traceur = 		%c[255,255,0,0] ROUGE
+\n%c[23,0,255,255]Explosive = 		%c[200,200,200,200] NON
+\n%c[200,200,200,23]DESCRIPTION:
+\n%c[200,200,200,200] Munition dotée d'un noyau standard et d'une balle chemisée.
+</text>
+</string>
+
+
+
+<!-- 7.62×54 (7N13) Perforante -->
+<string id="ammo-7.62x54-ap">
+<text>Mun. 7,62×54 (7N13) Perforante</text>
+</string>
+
+<string id="ammo-7.62x54-ap_s">
+<text>7,62×54-BP</text>
+</string>
+
+<string id="enc_weapons1_ammo_ammo-7.62x54-ap">
+<text>
+\n%c[200,200,200,200]MUNITION:  7,62×54 (7N13) Perforante
+\n%c[23,0,255,255]Finesse = 		%c[200,200,200,200] x1,2
+\n%c[23,0,255,255]Dispersion = 		%c[200,200,200,200] x1,05
+\n%c[23,0,255,255]Dégats = 			%c[200,200,200,200] x1,95
+\n%c[23,0,255,255]Impulsion = 		%c[200,200,200,200] x1,5
+\n%c[23,0,255,255]Perforation = 	%c[200,200,200,200] x3,5
+\n%c[23,0,255,255]Fragment = 		%c[200,200,200,200] 1
+\n%c[23,0,255,255]Traceur = 		%c[200,200,200,200] NON
+\n%c[23,0,255,255]Explosive = 		%c[200,200,200,200] NON
+\n%c[200,200,200,23]DESCRIPTION:
+\n%c[200,200,200,200] Munition "7N13" avec balle à noyau perforant.
+</text>
+</string>
+
+
+
+<!-- 7.62×54 (7N14) Sniper -->
+<string id="ammo-7.62x54-7h14">
+<text>Mun. 7,62×54 (7N14) Sniper</text>
+</string>
+
+<string id="ammo-7.62x54-7h14_s">
+<text>7,62×54-Sniper</text>
+</string>
+
+<string id="enc_weapons1_ammo_ammo-7.62x54-7h14">
+<text>
+\n%c[200,200,200,200]MUNITION:  7,62×54 (7N14) Sniper
+\n%c[23,0,255,255]Finesse = 		%c[200,200,200,200] x1,4
+\n%c[23,0,255,255]Dispersion = 		%c[200,200,200,200] x0,6
+\n%c[23,0,255,255]Dégats = 			%c[200,200,200,200] x1,95
+\n%c[23,0,255,255]Impulsion = 		%c[200,200,200,200] x1,2
+\n%c[23,0,255,255]Perforation = 	%c[200,200,200,200] x3,25
+\n%c[23,0,255,255]Fragment = 		%c[200,200,200,200] 1
+\n%c[23,0,255,255]Traceur = 		%c[200,200,200,200] NON
+\n%c[23,0,255,255]Explosive = 		%c[200,200,200,200] NON
+\n%c[200,200,200,23]DESCRIPTION:
+\n%c[200,200,200,200] Munitions de précision calibre 7,62 avec ogive perforante en acier, conçues pour le SVD. Contrairement à la version standard 7N1, la 7N14 présente d'excellentes caractéristiques de pénétration et une dispersion très limitée.
+</text>
+</string>
+
+
+<!--###############################################################-->
+<!-- 9×39 (PAB9) Standard -->
+<string id="ammo-9x39-pab9">
+<text>Mun. 9×39 (PAB9) Standard</text>
+</string>
+
+<string id="ammo-9x39-pab9_s">
+<text>9×39-PAB9</text>
+</string>
+
+<string id="enc_weapons1_ammo_ammo-9x39-pab9">
+<text>
+\n%c[200,200,200,200]MUNITION:  9×39 (PAB9) Standard
+\n%c[23,0,255,255]Finesse = 		%c[200,200,200,200] x0,8
+\n%c[23,0,255,255]Dispersion = 		%c[200,200,200,200] x2,75
+\n%c[23,0,255,255]Dégats = 			%c[200,200,200,200] x1,74
+\n%c[23,0,255,255]Impulsion = 		%c[200,200,200,200] x1,5
+\n%c[23,0,255,255]Perforation = 	%c[200,200,200,200] x2,5
+\n%c[23,0,255,255]Fragment = 		%c[200,200,200,200] 1
+\n%c[23,0,255,255]Traceur = 		%c[255,0,0,255] BLEU
+\n%c[23,0,255,255]Explosive = 		%c[200,200,200,200] NON
+\n%c[200,200,200,23]DESCRIPTION:
+\n%c[200,200,200,200] Munition "PAB9" bon marché . Elle est dotée d'une balle subsonique qui, compte tenu de sa conception, peut pénétrer la lupart des gilets pare-balles.
+</text>
+</string>
+
+
+<!-- 9×39 (SP6) Perforante -->
+<string id="ammo-9x39-ap">
+<text>Mun. 9×39 (SP6) Perforante</text>
+</string>
+
+<string id="ammo-9x39-ap_s">
+<text>9×39-BP</text>
+</string>
+
+<string id="enc_weapons1_ammo_ammo-9x39-ap">
+<text>
+\n%c[200,200,200,200]MUNITION:  9×39 (SP6) Perforante
+\n%c[23,0,255,255]Finesse = 		%c[200,200,200,200] x1,0
+\n%c[23,0,255,255]Dispersion = 		%c[200,200,200,200] x1,7
+\n%c[23,0,255,255]Dégats = 			%c[200,200,200,200] x1,54
+\n%c[23,0,255,255]Impulsion = 		%c[200,200,200,200] x1,5
+\n%c[23,0,255,255]Perforation = 	%c[200,200,200,200] x4,0
+\n%c[23,0,255,255]Fragment = 		%c[200,200,200,200] 1
+\n%c[23,0,255,255]Traceur = 		%c[200,200,200,200] NON
+\n%c[23,0,255,255]Explosive = 		%c[200,200,200,200] NON
+\n%c[200,200,200,23]DESCRIPTION:
+\n%c[200,200,200,200] Munition "SP6" perforante. Elle est dotée d'une balle subsonique qui, compte tenu de sa conception, peut pénétrer la plupart des gilets pare-balles jusqu'à 400 mètres.
+</text>
+</string>
+
+
+<!-- 9×39 (SP5) Sniper -->
+<string id="ammo-9x39-sp5">
+<text>Mun. 9×39 (SP5) Sniper</text>
+</string>
+
+<string id="ammo-9x39-sp5_s">
+<text>9×39-Sniper</text>
+</string>
+
+<string id="enc_weapons1_ammo_ammo-9x39-sp5">
+<text>
+\n%c[200,200,200,200]MUNITION:  9×39 (SP5) Sniper
+\n%c[23,0,255,255]Finesse = 		%c[200,200,200,200] x1,2
+\n%c[23,0,255,255]Dispersion = 		%c[200,200,200,200] x0,8
+\n%c[23,0,255,255]Dégats = 			%c[200,200,200,200] x1,7
+\n%c[23,0,255,255]Impulsion = 		%c[200,200,200,200] x1,0
+\n%c[23,0,255,255]Perforation = 	%c[200,200,200,200] x2,7
+\n%c[23,0,255,255]Fragment = 		%c[200,200,200,200] 1
+\n%c[23,0,255,255]Traceur = 		%c[255,255,255,0] JAUNE
+\n%c[23,0,255,255]Explosive = 		%c[200,200,200,200] NON
+\n%c[200,200,200,23]DESCRIPTION:
+\n%c[200,200,200,200] Munition "SP5" sniper perforante. Elle est dotée d'une balle subsonique qui, compte tenu de son poids et de sa conception, peut pénétrer la plupart des gilets pare-balles jusqu'à 400 mètres.
+</text>
+</string>
+
+
+
+<!--###############################################################-->
+<string id="ammo-gauss">
+<text>Mun. Batteries Gauss</text>
+</string>
+<string id="ammo-gauss_s">
+<text>Bat. Gauss</text>
+</string>
+<string id="enc_weapons1_ammo_ammo-gauss">
+<text>
+\n%c[200,200,200,200]MUNITION: Batteries Gauss
+\n%c[23,0,255,255]Finesse = 		%c[200,200,200,200] x1
+\n%c[23,0,255,255]Dispersion = 		%c[200,200,200,200] x0,4
+\n%c[23,0,255,255]Dégatss = 		%c[200,200,200,200] x2
+\n%c[23,0,255,255]Impulsion = 		%c[200,200,200,200] x3
+\n%c[23,0,255,255]Perforation = 	%c[200,200,200,200] x25
+\n%c[23,0,255,255]Fragment = 		%c[200,200,200,200] 1
+\n%c[23,0,255,255]Traceur = 		%c[200,200,200,200] NON
+\n%c[23,0,255,255]Explosive = 		%c[200,200,200,200] NON
+\n%c[200,200,200,23]DESCRIPTION:
+\n%c[200,200,200,200]Batteries utilisant un fragment encapsulé de l'artefact Flash comme source d'énergie. Fabriquées à l'aide d'équipements sophistiqués.</text>
+</string>
+
+
+	<string id="super_gauss">
+		<text>Charge "S-Gauss"</text>
+	</string>
+	<string id="super_gauss_s">
+		<text>"S-Gauss"</text>
+	</string>
+	<string id="enc_weapons1_ammo_super_gauss">
+		<text>Charge expérimentale pour le prototype de l'arme "Gauss". Un fragment d'artefact "Clair de lune" en est le principal composant. Dangereux, et très instable.</text>
+	</string>
+
+
+
+
+<!--###############################################################-->
+<!-- 7.62×39 (7N6) Standard -->
+<string id="ammo-7.62x39-fmj">
+<text>Mun. 7,62×39 (57-N-231) Standard</text>
+</string>
+
+<string id="ammo-7.62x39-fmj_s">
+<text>7,62×39-Std.</text>
+</string>
+
+<string id="enc_weapons1_ammo_ammo-7.62x39-fmj">
+<text>
+\n%c[200,200,200,200]MUNITION:  7,62×39 (57-N-231) Standard
+\n%c[23,0,255,255]Finesse = 		%c[200,200,200,200] x1.0
+\n%c[23,0,255,255]Dispersion = 		%c[200,200,200,200] x1,0
+\n%c[23,0,255,255]Dégats = 			%c[200,200,200,200] x1,44
+\n%c[23,0,255,255]Impulsion = 		%c[200,200,200,200] x1,44
+\n%c[23,0,255,255]Perforation = 	%c[200,200,200,200] x2,0
+\n%c[23,0,255,255]Fragment = 		%c[200,200,200,200] 1
+\n%c[23,0,255,255]Traceur = 		%c[255,255,255,255] BLANC
+\n%c[23,0,255,255]Explosive = 		%c[200,200,200,200] NON
+\n%c[200,200,200,23]DESCRIPTION:
+\n%c[200,200,200,200]Munition "57-N-231" standard 7,62x39mm.</text>
+</string>
+
+
+<!-- 7.62×39 (7N22) Perforante -->
+<string id="ammo-7.62x39-ap">
+<text>Mun. 7,62×39 (7N23) Perforante</text>
+</string>
+
+<string id="ammo-7.62x39-ap_s">
+<text>7,62×39-BP</text>
+</string>
+
+<string id="enc_weapons1_ammo_ammo-7.62x39-ap">
+<text>
+\n%c[200,200,200,200]MUNITION:  7,62×39 (7N23) Perforante
+\n%c[23,0,255,255]Finesse = 		%c[200,200,200,200] x1,2
+\n%c[23,0,255,255]Dispersion = 		%c[200,200,200,200] x0,8
+\n%c[23,0,255,255]Dégats = 			%c[200,200,200,200] x1,44
+\n%c[23,0,255,255]Impulsion = 		%c[200,200,200,200] x1,2
+\n%c[23,0,255,255]Perforation = 	%c[200,200,200,200] x2,75
+\n%c[23,0,255,255]Fragment = 		%c[200,200,200,200] 1
+\n%c[23,0,255,255]Traceur = 		%c[200,200,200,200] NON
+\n%c[23,0,255,255]Explosive = 		%c[200,200,200,200] NON
+\n%c[200,200,200,23]DESCRIPTION:
+\n%c[200,200,200,200]Munition "7H23" à noyau perforant 7,62x39mm.
+</text>
+</string>
+
+
+
+<!--###############################################################-->
+<!-- 11.43x23-FMJ_230 gr JHP -->
+<string id="ammo-11.43x23-fmj">
+<text>Mun. 11,43x23-FMJ (230gr) JHP</text>
+</string>
+
+<string id="ammo-11.43x23-fmj_s">
+<text>11,43x23-FMJ</text>
+</string>
+
+<string id="enc_weapons1_ammo_ammo-11.43x23-fmj">
+<text>
+\n%c[200,200,200,200]MUNITION: 11,43x23-FMJ (230 gr) JHP
+\n%c[200,200,200,200]Finesse = 		%c[200,200,200,200] x1
+\n%c[200,200,200,200]Dispersion = 	%c[200,200,200,200] x2,2
+\n%c[200,200,200,200]Dégats = 		%c[200,200,200,200] x1,3
+\n%c[200,200,200,200]Impulsion = 	%c[200,200,200,200] x3,2
+\n%c[200,200,200,200]Perforation = 	%c[200,200,200,200] x1
+\n%c[200,200,200,200]Fragment = 	%c[200,200,200,200] 1
+\n%c[200,200,200,200]Traceur = 		%c[200,200,200,200] NON
+\n%c[200,200,200,200]Explosive = 	%c[200,200,200,200] NON
+\n%c[23,0,255,255]DESCRIPTION:
+\n%c[200,200,200,200]Munition chemisée de calibre .45 dont la popularité ne faiblit pas depuis plus d'un siècle. Sa balle lourde et sa charge propulsive réduite limitent la vitesse de la balle tout en augmentant sa puissance d'arrêt.
+</text>
+</string>
+
+<!-- 11.43x23-HYDRO_230 gr Hydra-Shok JHP -->
+<string id="ammo-11.43x23-hydro">
+<text>Mun. 11,43x23-Hydra-Shok JHP</text>
+</string>
+
+<string id="ammo-11.43x23-hydro_s">
+<text>11,43x23-HYDRO</text>
+</string>
+
+<string id="enc_weapons1_ammo_ammo-11.43x23-hydro">
+<text>
+\n%c[200,200,200,200]MUNITION: 11,43x23-Hydra-Shok JHP
+\n%c[200,200,200,200]Finesse = 		%c[200,200,200,200] x1
+\n%c[200,200,200,200]Dispersion = 	%c[200,200,200,200] x2,5
+\n%c[200,200,200,200]Dégats = 		%c[200,200,200,200] x2,45
+\n%c[200,200,200,200]Impulsion = 	%c[200,200,200,200] x3,8
+\n%c[200,200,200,200]Perforation = 	%c[200,200,200,200] x1,5
+\n%c[200,200,200,200]Fragment = 	%c[200,200,200,200] 1
+\n%c[200,200,200,200]Traceur = 		%c[200,200,200,200] NON
+\n%c[200,200,200,200]Explosive = 	%c[200,200,200,200] NON
+\n%c[23,0,255,255]DESCRIPTION:
+\n%c[200,200,200,200]Ces cartouches de .45 ACP inhabituelles se composent d'une balle en métal tendre comprenant un vide d'expansion et un cœur en acier, constituant ainsi un hybride de balle chemisée à tête creuse et de balle perforante. Elles bénéficient des avantages de leurs deux parents, mais aussi, évidemment, de tous leurs défauts
+</text>
+</string>
+
+
+
+<!--###############################################################-->
+<!-- 12×76 (16#00) Chevrotines -->
+<string id="ammo-12x70-buck">
+<text>12×76 (16#00) Chevrotines</text>
+</string>
+
+<string id="ammo-12x70-buck_s">
+<text>12×76-Chev.</text>
+</string>
+
+<string id="enc_weapons1_ammo_ammo-12x70-buck">
+<text>
+\n%c[200,200,200,200]MUNITION:  12×76 (16#00) Chevrotines
+\n%c[23,0,255,255]Finesse = 		%c[200,200,200,200] x0,75
+\n%c[23,0,255,255]Dispersion = 		%c[200,200,200,200] x5,0
+\n%c[23,0,255,255]Dégats = 			%c[200,200,200,200] 16x0,85
+\n%c[23,0,255,255]Impulsion = 		%c[200,200,200,200] 16x0,8
+\n%c[23,0,255,255]Perforation = 	%c[200,200,200,200] x1,0
+\n%c[23,0,255,255]Fragment = 		%c[200,200,200,200] 16
+\n%c[23,0,255,255]Traceur = 		%c[200,200,200,200] NON
+\n%c[23,0,255,255]Explosive = 		%c[200,200,200,200] NON
+\n%c[200,200,200,23]DESCRIPTION:
+\n%c[200,200,200,200] Munition 12x76 standard avec 16 chevrotines 8 mm. Effet dévastateur à courte portée. Elle est conçue pour les fusils de chasse de calibre 12. Son efficacité est optimale à moins de 30 mètres.
+</text>
+</string>
+
+
+
+<!-- 12×76 (Brenneke) Balle -->
+<string id="ammo-12x76-zhekan">
+<text>12×76 (Brenneke) Balle</text>
+</string>
+
+<string id="ammo-12x76-zhekan_s">
+<text>12×76-Balle</text>
+</string>
+
+<string id="enc_weapons1_ammo_ammo-12x76-zhekan">
+<text>
+\n%c[200,200,200,200]MUNITION:  12×76 (Brenneke) Balle
+\n%c[23,0,255,255]Finesse = 		%c[200,200,200,200] x1
+\n%c[23,0,255,255]Dispersion = 		%c[200,200,200,200] x2,8
+\n%c[23,0,255,255]Dégats = 			%c[200,200,200,200] x5,6
+\n%c[23,0,255,255]Impulsion = 		%c[200,200,200,200] x1,8
+\n%c[23,0,255,255]Perforation = 	%c[200,200,200,200] x1,0
+\n%c[23,0,255,255]Fragment = 		%c[200,200,200,200] 1
+\n%c[23,0,255,255]Traceur = 		%c[255,255,255,255] BLANC
+\n%c[23,0,255,255]Explosive = 		%c[200,200,200,200] NON
+\n%c[200,200,200,23]DESCRIPTION:
+\n%c[200,200,200,200] Munition 12x76 dotée d'une lourde balle nue. Elle est principalement utilisée pour la chasse au gros gibier. Sa balle lourde n'est pas perforante mais s'introduit dans les gilets pare-balles. Elle est conçue pour les fusils de calibre 12.
+</text>
+</string>
+
+
+
+<!-- 12×76 (Sauvestre) Flèche -->
+<string id="ammo-12x76-dart">
+<text>12×76 (Sauvestre) Flèche</text>
+</string>
+
+<string id="ammo-12x76-dart_s">
+<text>SAUVESTRE</text>
+</string>
+
+<string id="enc_weapons1_ammo_ammo-12x76-dart">
+<text>
+\n%c[200,200,200,200]MUNITION:  12×76 (Sauvestre) Flèche
+\n%c[23,0,255,255]Finesse = 		%c[200,200,200,200] x2,5
+\n%c[23,0,255,255]Dispersion = 		%c[200,200,200,200] x1,2
+\n%c[23,0,255,255]Dégats = 			%c[200,200,200,200] x6,0
+\n%c[23,0,255,255]Impulsion = 		%c[200,200,200,200] x2,4
+\n%c[23,0,255,255]Perforation = 	%c[200,200,200,200] x1,25
+\n%c[23,0,255,255]Fragment = 		%c[200,200,200,200] 1
+\n%c[23,0,255,255]Traceur = 		%c[255,255,255,255] BLANC
+\n%c[23,0,255,255]Explosive = 		%c[200,200,200,200] OUI
+\n%c[200,200,200,23]DESCRIPTION:
+\n%c[200,200,200,200] Balle à ailettes SAUVESTRE 12x76. Elle peut se stabiliser en vol, ce qui augmente sa précision. Elle est conçue pour les fusils de calibre 12. Elle est dotée d'un effet perforant et d'une portée améliorée. Elle est efficace jusqu'à une portée d'une centaine de mètre. En se fragmentant à l'impact, elle est extrènement létale. Les STALKER ont remplacé le noyau en acier, par de l'Uranium Appauvri qui se vaporise après l'impacte, d'où l'effet explosif.
+</text>
+</string>
+
+
+<!-- 12×70 (12#Palets) type Chevrotines -->
+<string id="ammo-12x70-kart">
+<text>12×70 (12#Palets) UA</text>
+</string>
+
+<string id="ammo-12x70-kart_s">
+<text>12×70-UA</text>
+</string>
+
+<string id="enc_weapons1_ammo-12x70-kart">
+<text>%c[200,200,200,200]MUNITION:  12×70 (12#Palets) UA
+\n%c[23,0,255,255]Finesse = 		%c[200,200,200,200] x0,75
+\n%c[23,0,255,255]Dispersion = 		%c[200,200,200,200] x5,75
+\n%c[23,0,255,255]Dégats = 			%c[200,200,200,200] 12x3,22
+\n%c[23,0,255,255]Impulsion = 		%c[200,200,200,200] 12x2,5
+\n%c[23,0,255,255]Perforation = 	%c[200,200,200,200] x1,5
+\n%c[23,0,255,255]Fragment = 		%c[200,200,200,200] 12
+\n%c[23,0,255,255]Traceur = 		%c[255,255,130,0] ORANGE
+\n%c[23,0,255,255]Explosive = 		%c[200,200,200,200] OUI
+\n%c[200,200,200,23]DESCRIPTION:
+\n%c[200,200,200,200]Munition 12x70 avec 12 segments d' Uranium Appauvri (une spécialitée de la Zone). Effet dévastateur à courte portée. Elle est conçue pour les fusils de calibre 12.
+</text>
+</string>
+
+
+
+<!--###############################################################-->
+<!-- 7.62×51 (M118) Standard -->
+	<string id="ars-7.62x51_fmj">
+		<text>Mun. 7,62x51 (M118) Standard</text>
+	</string>
+	<string id="ars-7.62x51_fmj_s">
+		<text>7,62x51-Std.</text>
+	</string>
+	<string id="enc_arsenal_7.62x51_fmj">
+		<text>%c[200,200,200,200]MUNITION: 7.62×51 (M118) Standard
+		\n%c[23,0,255,255]Finesse = 		%c[200,200,200,200] x1,2
+		\n%c[23,0,255,255]Dispersion = 		%c[200,200,200,200] x0,8
+		\n%c[23,0,255,255]Dégats = 			%c[200,200,200,200] x1,66
+		\n%c[23,0,255,255]Impulsion = 		%c[200,200,200,200] x1,3
+		\n%c[23,0,255,255]Perforation = 	%c[200,200,200,200] x2,8
+		\n%c[23,0,255,255]Fragment = 		%c[200,200,200,200] 1
+		\n%c[23,0,255,255]Traceur = 		%c[255,0,255,0] VERT
+		\n%c[23,0,255,255]Explosive = 		%c[200,200,200,200] NON
+		\n%c[200,200,200,23]DESCRIPTION:
+		\n%c[200,200,200,200] Munition au standard OTAN de calibre 7.62x51mm. Balle entièrement chemisée, noyau en plomb avec enveloppe en alliage de cuivre</text>
+	</string>
+
+<!-- 7.62×51 (M61) Perforante -->
+	<string id="ars-7.62x51_ap">
+		<text>Muni. 7,62x51 (M61) Perforante</text>
+	</string>
+	<string id="ars-7.62x51_ap_s">
+		<text>7,62x51-BP</text>
+	</string>
+	<string id="enc_arsenal_7.62x51_ap">
+		<text>%c[200,200,200,200]MUNITION:  7.62×51 (M61) Perforante
+		\n%c[23,0,255,255]Finesse = 		%c[200,200,200,200] x1,2
+		\n%c[23,0,255,255]Dispersion = 		%c[200,200,200,200] x0,8
+		\n%c[23,0,255,255]Dégats = 			%c[200,200,200,200] x1,73
+		\n%c[23,0,255,255]Impulsion = 		%c[200,200,200,200] x1,7
+		\n%c[23,0,255,255]Perforation = 	%c[200,200,200,200] x3,5
+		\n%c[23,0,255,255]Fragment = 		%c[200,200,200,200] 1
+		\n%c[23,0,255,255]Traceur = 		%c[200,200,200,200] NON
+		\n%c[23,0,255,255]Explosive = 		%c[200,200,200,200] NON
+		\n%c[200,200,200,23]DESCRIPTION:
+		\n%c[200,200,200,200]Munition au standard OTAN de calibre 7.62x51mm. Balle avec un noyau pénétrateur en acier trempé, enveloppé d'un alliage de cuivre.</text>
+	</string>
+
+<!-- 7.92x33 (Kurz) Standard -->
+	<string id="ammo-7.92x33-fmj">
+		<text>Mun. 7,92x33mm Kurz</text>
+	</string>
+	<string id="ammo-7.92x33-fmj_s">
+		<text>7,92x33-Kurz</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-7.92x33-fmj">
+		<text>%c[200,200,200,200]MUNITION:  7.92x33 (Kurz) Standard
+		\n%c[23,0,255,255]Finesse = 		%c[200,200,200,200] x1,2
+		\n%c[23,0,255,255]Dispersion = 		%c[200,200,200,200] x1,0
+		\n%c[23,0,255,255]Dégats = 			%c[200,200,200,200] x1,85
+		\n%c[23,0,255,255]Impulsion = 		%c[200,200,200,200] x1,3
+		\n%c[23,0,255,255]Perforation = 	%c[200,200,200,200] x2,5
+		\n%c[23,0,255,255]Fragment = 		%c[200,200,200,200] 1
+		\n%c[23,0,255,255]Traceur = 		%c[255,255,0,0] ROUGE
+		\n%c[23,0,255,255]Explosive = 		%c[200,200,200,200] NON
+		\n%c[200,200,200,23]DESCRIPTION:
+		\n%c[200,200,200,200]Munition 7,92x33mm Kurz Standard, pour les calibre d'armes allemande STG-44 "Sturmgewehr" et Mauser K-98.</text>
+	</string>
+
+<!-- 7.92x33 (Kurz) Perforante -->
+	<string id="ammo-7.92x33-ap">
+		<text>Mun. 7,92x33mm Perforante</text>
+	</string>
+	<string id="ammo-7.92x33-ap_s">
+		<text>7,92x33-BP</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-7.92x33-ap">
+		<text>%c[200,200,200,200]MUNITION:  7.92x33 (Kurz) Standard
+		\n%c[23,0,255,255]Finesse = 		%c[200,200,200,200] x1,2
+		\n%c[23,0,255,255]Dispersion = 		%c[200,200,200,200] x1,0
+		\n%c[23,0,255,255]Dégats = 			%c[200,200,200,200] x1,92
+		\n%c[23,0,255,255]Impulsion = 		%c[200,200,200,200] x1,7
+		\n%c[23,0,255,255]Perforation = 	%c[200,200,200,200] x3,4
+		\n%c[23,0,255,255]Fragment = 		%c[200,200,200,200] 1
+		\n%c[23,0,255,255]Traceur = 		%c[200,200,200,200] NON
+		\n%c[23,0,255,255]Explosive = 		%c[200,200,200,200] NON
+		\n%c[200,200,200,23]DESCRIPTION:
+		\n%c[200,200,200,200]Munition 7,92x33mm Kurz avec noyau perforant provenant de la munition 7.62x51 M61, pour les armes allemande STG-44 "Sturmgewehr" et Mauser K-98.</text>
+	</string>
+
+<!-- Mélanges Lance flamme -->
+	<string id="ammo_flame_name">
+		<text>Mélange pour Lance flamme</text>
+	</string>
+	<string id="ammo_flame_name_s">
+		<text>Mélange L.F.</text>
+	</string>
+	<string id="ars_ballon">
+		<text>Bonbonne de mélange dopé</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-balon">
+		<text>Bonbonne de mélange inflammable pour lance-flamme, spécialement dopé contre les "Poltergeist".</text>
+	</string>
+
+<!-- Carreau Arbalète -->
+	<string id="ammo-arbolt">
+		<text>Carreau d'arbalète</text>
+	</string>
+	<string id="ammo-arbolt_s">
+		<text>Carreau</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-arbolt">
+		<text>
+		\n%c[200,200,200,200]MUNITION:
+		\nCarreau à arbrier en alu, pointe Tungstène, empennage plume.
+		\n%c[23,0,255,255]Finesse = 		%c[200,200,200,200] x1,7
+		\n%c[23,0,255,255]Dispersion = 		%c[200,200,200,200] x1,5
+		\n%c[23,0,255,255]Dégats = 			%c[200,200,200,200] x4
+		\n%c[23,0,255,255]Impulsion = 		%c[200,200,200,200] x1
+		\n%c[23,0,255,255]Perforation = 	%c[200,200,200,200] x0,5
+		\n%c[23,0,255,255]Fragment = 		%c[200,200,200,200] 1
+		\n%c[23,0,255,255]Traceur = 		%c[200,200,200,200] NON
+		\n%c[23,0,255,255]Explosive = 		%c[200,200,200,200] NON
+		\n%c[200,200,200,23]DESCRIPTION:
+		\n%c[200,200,200,200] Le carreau d'arbalète est le projectile utilisé avec une arbalète, dont le fer pyramidal à quatre pans a une base carrée. Plus court (environ 30 cm) que la flèche et également plus lourd, il a un empennage réduit, fait de cuir ou de plume. Ces caractéristiques traduisent un usage en tir tendu dont l'objectif est de pénétrer les armures, pour lequel les qualités balistiques (de masse et de forme) du carreau sont excellentes.</text>
+	</string>
+
+
+	<!-- 5.56×45 Minigun -->
+	<string id="ammo-minigun">
+		<text>Boitier M134 de 3x250 5,56x45 FMJ</text>
+	</string>
+	<string id="ammo-minigun_s">
+		<text>5,56x45-M134</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-minigun">
+		<text>Boitier de 3 bandes de 250 cartouches de 5,56x45 pour le Minigun à canons rotatif M-134.</text>
+	</string>
+
+<!-- 7.62×25 (P-41) Standard -->
+	<string id="ammo-7.62x25-p">
+		<text>Mun. 7,62×25 (P-41) Standard</text>
+	</string>
+	<string id="ammo-7.62x25-p_s">
+		<text>7,62x25 FMJ</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-7.62x25-p">
+		<text>
+		\n%c[200,200,200,200]MUNITION:  7,62×25 P-41 (FMJ) Standard
+		\n%c[23,0,255,255]Finesse = 		%c[200,200,200,200] x1
+		\n%c[23,0,255,255]Dispersion = 		%c[200,200,200,200] x1,8
+		\n%c[23,0,255,255]Dégats = 			%c[200,200,200,200] x2,25
+		\n%c[23,0,255,255]Impulsion = 		%c[200,200,200,200] x1
+		\n%c[23,0,255,255]Perforation = 	%c[200,200,200,200] x1,4
+		\n%c[23,0,255,255]Fragment = 		%c[200,200,200,200] 1
+		\n%c[23,0,255,255]Traceur = 		%c[255,255,0,255] MAGENTA
+		\n%c[23,0,255,255]Explosive = 		%c[200,200,200,200] NON
+		\n%c[200,200,200,23]DESCRIPTION:
+		\n%c[200,200,200,200] Munition standard pour le pistolet TT-33 et la mitraillette PPSH-41.</text>
+	</string>
+
+<!-- 7.62×33 Perforante -->
+	<string id="ammo-7.62x25-ps">
+		<text>Mun. 7,62×25-Perforante</text>
+	</string>
+	<string id="ammo-7.62x25-ps_s">
+		<text>7,62x25 BP</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-7.62x25-ps">
+		<text>\n%c[200,200,200,200]MUNITION:  7.62×25 (AP) Perforante
+\n%c[23,0,255,255]Finesse = 		%c[200,200,200,200] x1,0
+\n%c[23,0,255,255]Dispersion = 		%c[200,200,200,200] x2,0
+\n%c[23,0,255,255]Dégats = 			%c[200,200,200,200] x2,35
+\n%c[23,0,255,255]Impulsion = 		%c[200,200,200,200] x1,05
+\n%c[23,0,255,255]Perforation = 	%c[200,200,200,200] x2,1
+\n%c[23,0,255,255]Fragment = 		%c[200,200,200,200] 1
+\n%c[23,0,255,255]Traceur = 		%c[200,200,200,200] NON
+\n%c[23,0,255,255]Explosive = 		%c[200,200,200,200] NON
+\n%c[200,200,200,23]DESCRIPTION:
+\n%c[200,200,200,200] Munition perforante pour le pistolet TT-33 et la mitraillette PPS-41.</text>
+	</string>
+
+
+
+<!--###############################################################################-->
+<!-- Grenade RPG7 -->
+	<string id="ammo-og-7b">
+		<text>Roquette PG-7V</text>
+	</string>
+	<string id="ammo-og-7b_s">
+		<text>PG-7V</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-og-7b">
+		<text>Munition hautement explosive à charge creuse pour le RPG-7. Aussi efficace contre les troupes que les blindés légers.</text>
+	</string>
+
+<!-- Grenade 40mm M406 -->
+	<string id="ammo-m209">
+		<text>Grenade 40mm M406 HE</text>
+	</string>
+	<string id="ammo-m209_s">
+		<text>M406 HE</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-m209">
+		<text>Grenades 40x46mm M406 HE (High Explosive) utilisé dans des lance-grenades légers (portatifs ou modulaires), tels que le M79, le le M203 ou avec certaines armes avec lance-grenades intégrés occidentaux (FN-F2000, AG36,...). Elles ne sont pas plus puissantes que les grenades à main.</text>
+	</string>
+
+<!-- Grenade 40mm VOG-25 -->
+	<string id="ammo-vog-25">
+		<text>Grenade 40mm VOG-25</text>
+	</string>
+	<string id="ammo-vog-25_s">
+		<text>VOG-25</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-vog-25">
+		<text>VOG-25: Grenade airburst de 40x102mm de 250g dont 48g d'explosif A-IX-1. Ayant une vitesse de 76m/s, cette grenade s'arme après 10 à 40 m de vol et son rayon mortel est de 6m. Si la grenade n'a pas explosé à l'impact, elle s'autodétruit après 14 à 19 secondes. Utilisé avec le lance-grenades intégré du Groza, le lance-grenades multitubes RG6 et le lance-grenades monté sous le canon GP-25 Kastyor ou GP-30 Obuvka. Les grenades sont chargées par la gueule et maintenues dans le tube par un ressort.</text>
+	</string>
+
+<!-- Grenade 40mm VOG-25R -->
+	<string id="ammo-vog-25p">
+		<text>Grenade VOG-25R</text>
+	</string>
+	<string id="ammo-vog-25p_s">
+		<text>VOG-25R</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-vog-25p">
+		<text>VOG-25P: Grenade 40x122mm de 278g dont 37g d'explosif Trinitrotoluène. Avant l'explosion, la grenade s'élève d'environ un mètre pour accroître son effet létal. Utilisé avec le lance-grenades intégré du Groza, le lance-grenades multitubes RG6 et le lance-grenades monté sous le canon GP-25 Kastyor ou GP-30 Obuvka. Les grenades sont chargées par la gueule et maintenues dans le tube par un ressort.</text>
+	</string>

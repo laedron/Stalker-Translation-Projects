@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<!-- AMK Dialogs-->
+	<string_table>
+<!--Диалог с Кулинаром-->
+		<string id="artem_kulinar_0">
+			<text>Sei gegrьЯt! Was brauchst du?</text>
+		</string>
+		<string id="artem_kulinar_1">
+			<text>Ich sehe, ihr habt hier eine ganze "Bar" organisiert! Rastplatz, einen Meter von dem strahlenden Mьll entfernt... Na ja...</text>
+		</string>
+		<string id="artem_kulinar_2">
+			<text>Und?!... Einen anderen Platz gibt es hier nicht dafьr... Nicht alle kцnnen rund um die Uhr in der Zone unterwegs sein... Besonders die Anfдnger nicht. Fьr manche ist schon der Gang vom Kordon zur Mьllhalde eine Heldentat! Oder hast du vergessen, wie es bei dir anfangs war?..</text>
+		</string>
+		<string id="artem_kulinar_3">
+			<text>Дhhh... Das stimmt, vieles hab ich schon vergessen... Aber hat es einen Sinn, hier einen Lager aufzuschlagen? Ein paar Kilometer weiter, sagt man, gibt's doch die Bar, da gibt es Verpflegung und Munition kann man da auch kaufen. Und hier? Diebe und Banditen schleichen herum, und die Stiernacken werden euch mit Razzien nerven.</text>
+		</string>
+		<string id="artem_kulinar_4">
+			<text>Bar, Bar... Na und? Da kommst du nicht einfach so rein, wenn ьber dich nicht wenigstens zehn Mal in den News berichtet wurde... Da sitzen erfahrene Leute, mit den Anfдngern haben die nichts am Hut. Und hier sind sie eigene Herrn. Verkaufen Artefakte, kaufen Verpflegung... Du verstehst. So eine Art Vorschule, fьr die, die noch wie Kinder in der Zone sind. Banditen?.. Keine Angst, "Grauer" hat vor kurzem mit ihnen richtig aufgerдumt, und du hast ja auch mitgeholfen. Die werden so schnell nicht wieder kommen. Und Militдrs... Da lassen wir uns auch noch was einfallen. Noch sind wir nicht so viele, aber spдter werden wir auch mit ihnen fertig...</text>
+		</string>
+		<string id="artem_kulinar_5">
+			<text>Ja? Und was macht ihr, wenn die Hubschrauber kommen?.. Na ja, auch egal... MьЯt ihr selbst wissen. Und wie kommst du auf die "edle" Idee, den Neulingen zu helfen?</text>
+		</string>
+		<string id="artem_kulinar_6">
+			<text>Das liegt in meiner Natur. So wurde ich erzogen. Ich war ja ein Koch, als ich noch in der "AuЯenwelt" lebte. Die Neulinge hier, sind wie Katzen und Hunde, die frьher von mir Essensreste an der Hintertьr bekamen... Hier kannst du aber nicht einfach so ein Tier fьttern. Dann kьmmere ich mich halt um die Anfдnger... Hab noch ein paar Beziehungen hinter dem Perimeter, da wird mir Proviant und Ausrьstung geliefert. Und mit Verlust arbeite ich, natьrlich, nicht...</text>
+		</string>
+		<string id="artem_kulinar_7">
+			<text>Kannst du mir ein Rat geben, mit wem ich hier noch Beziehungen knьpfen kann?</text>
+		</string>
+		<string id="artem_kulinar_8">
+			<text>Mit wem noch?.. Hmm... Einen haben wir hier, Witek Woron. Interessanter Kerlchen, ьbrigens.</text>
+		</string>
+		<string id="artem_kulinar_9">
+			<text>Woron? Und was ist so interessant an ihm?</text>
+		</string>
+		<string id="artem_kulinar_10">
+			<text>Ach... Der sieht wie ein typischer Anfдnger aus, aber schleppt manchmal solche Waffen an - da staunst du nur! Verschwindet ab und zu fьr mehrere Tage, und keiner weiЯ wo er ist. Und wenn er dann zurьck ist, hat er nicht mal einen Kratzer. Seltsam ist es... Als ob er sich mir der Zone in eigener Sprache unterhдlt. Vielleicht findest du mit ihm eine gemeinsames Gesprдchsthema...</text>
+		</string>
+		<string id="artem_kulinar_11">
+			<text>Verstehe. Ja, scheint eine ungewцhnliche Person zu sein... Danke fьr die Infos, ich gehe dann mal...</text>
+		</string>
+<!--Диалог с Витьком Вороном-->
+		<string id="vitek_voron_0">
+			<text>Was willst du?</text>
+		</string>
+		<string id="vitek_voron_1">
+			<text>GrьЯe dich! Ich schaue mich hier nur um. Gemьtliches Plдtzchen habt ihr hier gewдhlt...</text>
+		</string>
+		<string id="vitek_voron_2">
+			<text>Passt schon.</text>
+		</string>
+		<string id="vitek_voron_3">
+			<text>Hmm... Ich sehe, du bist nicht grad gesprдchig. Was treibst du so hier?</text>
+		</string>
+		<string id="vitek_voron_4">
+			<text>Ich mag halt kein sinnfreies Gerede. Ich ziehe Geschдft den Gesprдchen vor. Fьr mich sind Geschдfte - Waffen. Gute Waffen. Interessiert?</text>
+		</string>
+		<string id="vitek_voron_5">
+			<text>Ohne Waffen ist man in der Zone aufgeschmissen... Was kannst du denn anbieten?</text>
+		</string>
+		<string id="vitek_voron_6">
+			<text>Noch kenn ich dich nicht. Und du kennst mich nicht. Also rechne nicht mit breitem Angebot und Nachlдssen...</text>
+		</string>
+		<string id="vitek_voron_7">
+			<text>Harte Worte. Na gut, lass uns mal schauen, was du hast...</text>
+		</string>
+	</string_table>

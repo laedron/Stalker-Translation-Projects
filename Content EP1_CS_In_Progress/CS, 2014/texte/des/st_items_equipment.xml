@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+	<string_table>
+		<string id="st_antirad">
+			<text>Strahlungshemmende Mittel</text>
+		</string>
+		<string id="st_antirad_descr">
+			<text>Eine Packung Tabletten mit aktiven Inhaltsstoffen, die dem menschlichen Kцrper dabei helfen, Radionukleotide auszuscheiden. Die Tabletten schьtzen den Kцrper nicht vor neuer Strahlung, sondern verringern nur das vorherrschende Strahlungsniveau.</text>
+		</string>
+		<string id="st_bread">
+			<text>Brot</text>
+		</string>
+		<string id="st_bread_descr">
+			<text>Man hat zwar niemals einen Bдcker in der Zone gesehen, aber dieses Brot ist nicht verstrahlt und ist sogar essbar. Zumindest sind bisher keine Beschwerden bekannt geworden.</text>
+		</string>
+		<string id="st_conserva">
+			<text>"Touristenfrьhstьck"</text>
+		</string>
+		<string id="st_conserva_descr">
+			<text>Dosenfutter aus einem Armeedepot, das von Stalkern erbeutet wurde. Wenn man dem Mindesthaltbarkeitsdatum glauben kann, mьsste es noch essbar sein.</text>
+		</string>
+		<string id="st_kolbasa">
+			<text>Diдtwurst</text>
+		</string>
+		<string id="st_kolbasa_descr">
+			<text>Diese Wurst - eine Mischung aus Hдhnchen und Soja-Ersatz - ist oft das einzige Essen am Tag fьr Stalker. Kein Gourmetessen, aber man kann ja nicht alles haben.</text>
+		</string>
+		<string id="st_beer">
+			<text>Ukrainisches Bier</text>
+		</string>
+		<string id="st_beer_descr">
+			<text>Ukrainisches Bier. Ein weiteres - neben Wodka - beliebtes Getrдnk in der Zone.</text>
+		</string>
+		<string id="st_beans">
+			<text>Gebackene Bohnen</text>
+		</string>
+		<string id="st_beans_derscr">
+			<text>Gebackene Bohnen sind ein traditionelles britisches und US-amerikanisches Gericht aus weiЯen Bohnen, die mit Tomatensauce oder Ketchup im Ofen gebacken werden. Gebackene Bohnen sind fester Bestandteil des englischen Frьhstьcks und in den USA eine beliebte Beilage beim Barbecue..</text>
+		</string>
+		<string id="st_chocolate">
+			<text>Russische Schokolade</text>
+		</string>
+		<string id="st_chocolate_derscr">
+			<text>Russische Schokolade. Sehr selten in der Zone und sehr wertvoll. Obwohl sein Geschmack nichts Besonderes ist. Bringt es viele schцne Kindheitserinnerungen zurьck, die helfen kцnnen, die Traurigkeit und den Schmerz in der harten und unbдndigen Zone zu ertragen.</text>
+		</string>
+		<string id="st_raisins">
+			<text>Rosinen</text>
+		</string>
+		<string id="st_raisins_derscr">
+			<text>Eine Packung Rosinen. Reichhaltige Ernдhrung mit vielen Vitaminen und Zucker fьr's den Kopf.</text>
+		</string>
+		<string id="st_mineral_water">
+			<text>Selter</text>
+		</string>
+		<string id="st_mineral_water_derscr">
+			<text>Selter oder auch Sprudelndes Wasser fьr durstige Stalker, es hat einige berauschende frische Wirkung, wenn man z.b mьde ist.</text>
+		</string>
+		<string id="st_medkit">
+			<text>Medkit</text>
+		</string>
+		<string id="st_medkit_descr">
+			<text>Basis-Medkit - nьtzlich fьr die Behandlung von zahlreichen Verletzungen wie z.B. Wunden, Verbrennungen, Vergiftungen etc.</text>
+		</string>
+		<string id="st_medkit_army">
+			<text>Armee-Medkit</text>
+		</string>
+		<string id="st_medkit_army_descr">
+			<text>Ein Medkit, das speziell fьr die Behandlung von kцrperlichen Verletzungen und Blutungen gedacht ist. Es ist vollgepackt mit Blutstillern, Schmerzmitteln, Antibiotika und Immunstimulanzien.</text>
+		</string>
+		<string id="st_medkit_science">
+			<text>Wissenschaftliches Medkit</text>
+		</string>
+		<string id="st_medkit_science_descr">
+			<text>Dieses Medkit ist auf die Verwendung in der Zone zugeschnitten. Es enthдlt sowohl wundheilende Prдparate als auch Mittel gegen Radionukleotide im Kцrper. Im Allgemeinen wird der Ausbruch der Strahlungskrankheit verhindert und das im Kцrper vorherrschende Strahlungsniveau gesenkt.</text>
+		</string>
+		<string id="st_corn">
+			<text>Mais Creme Suppe</text>
+		</string>
+		<string id="st_corn_descr">
+			<text>Dose Mais. Ursprьnglich in den Mittleren Westen der Vereinigten Staaten hergestellt. Dosen mit dieser Suppenartgen Mischung haben ihren Weg schon um die ganze Welt gefunden. Billig und gut abgefьllt. Die Dosen sind praktisch immun gegen Strahlung.</text>
+		</string>
+		<string id="st_weed">
+			<text>Marijuana</text>
+		</string>
+		<string id="st_weed_descr">
+			<text>Marijuana wird fьr seine heilenden und psychoaktiven Eigenschaften in der Zone Hдufig verwendet. Wenn auch nicht so gut wie das Spezielle Anti-rad oder Medikits, es ist jedoch reichlich vorhanden davon und es ist Billig. Desweiteren kann mal abschalten.</text>
+		</string>
+		<string id="st_vodka">
+			<text>Nemiroff Pepper Vodka</text>
+		</string>
+		<string id="st_vodka_descr">
+			<text>Original Wodka aus der Ukraine "Nemiroff" Honig mit Paprika 1000ml, 40%. Der Honig und der Pfeffer ist eine auserlesene und widersprьchliche Kombination, die dem Vodka den unerwarteten, sich merkenden Geschmack und den langwierigen Nachgeschmack verleiht. Ein Gaumengenuss: Probieren Sie Nemiroff Honey / Pepper mit Erdbeeren und Puderzucker! Die FruchtsьЯe zusammen mit Aroma des Honigs treffen auf die Scharfe der Chillischote.</text>
+		</string>
+		<string id="st_sausage">
+			<text>Wurst</text>
+		</string>
+		<string id="st_sausage_descr">
+			<text>Wurst ist ein Nahrungsmittel, das aus zerkleinertem Fleisch, Speck, Salz und Gewurzen, bei bestimmten Sorten auch unter Verwendung von Blut und Innereien zubereitet wird. Eine sдttigende Mahlzeit, auch wenn seine Ursprьnge .. machmal unbekannter Natur sind. Guten Hunger...</text>
+		</string>
+		<string id="st_tomato">
+			<text>Dosen Tomaten</text>
+		</string>
+		<string id="st_tomato_descr">
+			<text>Tomaten aus der Dose sind das einzige frische Gemьse in der zone. Wie andere Lebensmittel in Konserven , sind auch diese Dosen immun gegen Strahlung ... bis in die Ewigkeit.</text>
+		</string>
+		<string id="st_ration_ru">
+			<text>Russisch IRP-B Kampf Ration</text>
+		</string>
+		<string id="st_ration_ru_desc">
+			<text>Frьhstьck, Mittag-und Abendessen. ein "All in One" Paket. Kommt in einer Polymer-Box. Stillt den Hunger und Heilt den Kцrper.</text>
+		</string>
+		<string id="st_ration_ukr">
+			<text>Ukrainischen Kampf Ration</text>
+		</string>
+		<string id="st_ration_ukr_desc">
+			<text>Die ukrainische Kampfration basiert auf einer frьheren russischen Version, bestehend aus handelsьblichen Dosen mit getrockneten Nahrungsmitteln, die in einer, aus sehr dьnnen grьnen gefertigten Kunststoff Schachtel (дhnlich einem Ausgabetablett) verpackt ist. Lдsst den jedenfalls Hunger verschwinden.</text>
+		</string>
+		<string id="st_bandage">
+			<text>Verband</text>
+		</string>
+		<string id="st_bandage_descr">
+			<text>Verbandsmaterial, das dabei hilft, Blutungen zu stoppen.</text>
+		</string>
+		<string id="st_energy_drink">
+			<text>Energy-Drink</text>
+		</string>
+		<string id="st_energy_drink_descr">
+			<text>Wird hдufig von Stalkern auf langen Reisen getrunken, wenn keine Pausen eingelegt werden kцnnen. Das Getrдnk enthдlt leicht verdauliche Kohlenhydrate sowie bestimmte Wirkstoffe, die die Adrenalinausschьttung im Kцrper erhцhen.</text>
+		</string>
+		<string id="st_detector1">
+			<text>Echo-Detektor</text>
+		</string>
+		<string id="st_detector1_descr">
+			<text>Dieser Detektor fьr Anomalien, der ьber einen eingebauten Geiger-Zдhler verfьgt, gibt ein Alarmsignal aus, wenn man sich einer Anomalie nдhert. Er kann auch Artefakte aufspьren und zeigt die Entfernung zum nдchsten Artefakt an. Im geschlossenen Zustand registriert das Gerдt nur Radioaktivitдt und Anomalien. Um in den Suchmodus zu gelangen, muss die vordere Abdeckung (Antennen) geцffnet werden.</text>
+		</string>
+		<string id="st_detector2">
+			<text>Peil-Detektor</text>
+		</string>
+		<string id="st_detector2_descr">
+			<text>Dieser Detektor fьr Anomalien, der ьber einen eingebauten Geiger-Zдhler verfьgt, kann auch Artefakte aufspьren. Er misst nicht nur die Entfernung zu einem Artefakt, sondern gibt auch die Richtung an. Im geschlossenen Zustand registriert das Gerдt nur Radioaktivitдt und Anomalien. Um in den Suchmodus zu gelangen, muss die vordere Abdeckung (Antennen) geцffnet werden.</text>
+		</string>
+		<string id="st_detector3">
+			<text>Veles-Detektor</text>
+		</string>
+		<string id="st_detector3_descr">
+			<text>Ein Detektor der neuesten Generation, der speziell fьr das Aufspьren von Artefakten konzipiert wurde. Die Artefakte werden auf einem Bildschirm angezeigt und sind damit deutlich leichter zu finden. Das Gerдt verfьgt zudem ьber einen Geiger-Zдhler und kann auch Anomalien aufspьren. Im geschlossenen Zustand registriert das Gerдt nur Radioaktivitдt und Anomalien. Um in den Suchmodus zu gelangen, muss die vordere Abdeckung (Antennen) geцffnet werden.</text>
+		</string>
+		<string id="st_cordon_case">
+			<text>Silberkoffer</text>
+		</string>
+		<string id="st_cordon_case_descr">
+			<text>Ein kleiner, mit einem Code verschlossener Koffer. Enthдlt sehr wertvolle Informationen ьber vertrauenswьrdige Hдndler, bei denen man Artefakte loswerden kann.</text>
+		</string>
+		<string id="st_fang_pda">
+			<text>Fangs PDA</text>
+		</string>
+		<string id="st_fang_pda_descr">
+			<text>Ein tragbarer Computer. Wird in der Zone als Notizbuch sowie als Navigations-, Kommunikations- und Sprachaufnahmegerдt benutzt. Jeder PDA weist eine eindeutige ID auf, mit der er geortet werden kann.</text>
+		</string>
+		<string id="st_shukin_pda">
+			<text>Lingows PDA</text>
+		</string>
+		<string id="st_shukin_pda_descr">
+			<text>Ein tragbarer Computer. Wird in der Zone als Notizbuch sowie als Navigations-, Kommunikations- und Sprachaufnahmegerдt benutzt. Jeder PDA weist eine eindeutige ID auf, mit der er geortet werden kann.</text>
+		</string>
+		<string id="st_recorder">
+			<text>Diktiergerдt</text>
+		</string>
+		<string id="st_cooler_docs">
+			<text>Beschreibung der Kьhlanlage</text>
+		</string>
+		<string id="st_cooler_docs_descr">
+			<text>Dieser Ordner enthдlt eine detaillierte Beschreibung einer stationдren Kьhlanlage auf dem Fabrikgelдnde und Hilfestellungen fьr Problemfдlle. </text>
+		</string>
+		<string id="st_compass">
+			<text>"Kompass"</text>
+		</string>
+		<string id="st_compass_descr">
+			<text>Ein seltenes Artefakt - es ist schon einige Jahre her, seit eines davon gefunden wurde. Es kann Lьcken in Anomaliefeldern aufspьren und wirkt dadurch wie ein Kompass. Mit diesem Artefakt, so heiЯt es, kann man die kompliziertesten Anomaliefelder unbeschadet durchqueren. Allerdings wissen nur die Wenigsten, wie man richtig mit dem Kompass umgeht.</text>
+		</string>
+		<string id="st_guitar_descr">
+			<text>Siebensaitige Gitarre</text>
+		</string>
+		<string id="st_guitar_name">
+			<text>Gitarre</text>
+		</string>
+<!-- AMK Sleeping Bag start -->
+		<string id="st_sleepingbag">
+			<text>Schlafsack</text>
+		</string>
+		<string id="st_sleepingbag_descr">
+			<text>Ein tragbarer Schlafsack.</text>
+		</string>
+		<string id="st_sleepingpills">
+			<text>Schlaftabletten</text>
+		</string>
+		<string id="st_sleepingpills_descr">
+			<text>Pillen, die sofort mьde machen.</text>
+		</string>
+<!-- AMK Sleeping Bag end -->
+		<string id="mutant_flesh_eye_description">
+			<text>Das mutierte, geschwollene Auge von dem Mutanten "Flesh" verfьgt ьber eine Reihe von merkwьrdigen Eigenschaften, die wie die Fдhigkeit zur Regeneration der Pupille. Die Einzelheiten diese Bilogischen Verfahrens sind bislang unbekannt, obwohl eine solche Entdeckung sicherlich die moderne Medizin revolutionieren wьrde. Mit dem Verkauf solcher Augen an Wissenschaftler helfen sie dabei die Entdeckung zu beschleunigen tragen zu einem Medizinischen Wunder bei.</text>
+		</string>
+		<string id="mutant_boar_leg_description">
+			<text>Diese Hufe von Mutierten Ebern kцnnen fьr verschiedene Arzneimittel verwendet werden, beispielsweise fьr Antiradations-Serum. Die Zellen der AuЯenhautschicht regeneriert sich so schnell, dass sie bis zu einem gewissen Grad nicht durch Strahlung geschдdigt werden kцnnen. Sollte immer noch Strahlung zB durch eine Verletzung kommen, dann wird die Strahlung durch die Fettschicht neutralisiert.</text>
+		</string>
+		<string id="mutant_dog_tail_description">
+			<text>Die mutierten Haut von Hunden in der Zone kцnnnen Elektrizitдt und chemische Stoffe wiederstehen. Die Wissenschaft interessiert sich schon sehr lange dafьr. Dieser Schwanz ist fast fettfrei und daher besonders fьr wissenschaftliche Zwecke geeignet.</text>
+		</string>
+		<string id="mutant_cat_tail_description">
+			<text>Die mutierten Haut von Katzen in der Zone kцnnen auch Elektrizitдt und Sehr vielen Chemischen Stoffen wiederstehen. Die Wissenschaft interessiert sich  sehr Dafьr. Dieser Schwanz ist fettfrei und daher besonders wertvoll fьr wissenschaftliche Zwecke geeignet.</text>
+		</string>
+		<string id="mutant_psevdodog_tail_description">
+			<text>Die mutierten Haut von Pseudo Hunden in der Zone kцnnen sehr vielen Anomalien wiederstehen. Die Wissenschaft hegt ein grosse interesse daran. Dieser Schwanz wird von vielen Viren bewohnt. Das legt nahe warum es den Pseudo Hund noch Wiederstandsfдhiger gegen verschieden Umwelt einflцЯe macht. Eines dieser Vieren haben die Eigenschaften und eine Дhnlichkeit mit dem Tollwutvirus, was ein Grund fьr die erhцhte "Zuverlдssigkeit" sein kцnnte.</text>
+		</string>
+		<string id="mutant_krovosos_jaw_description">
+			<text>Der Kiefer des Bloodsuckers hat eine spezielle Drьse, die ein Enzym produziert, das die Haut auflцsen und die Blutgerinnung stoppen kann. Es wдre ein Meilenstein, die Zusammensetzung dieses Enzyms zu entschlьsseln, aber aufgrund des gefдhrlichen Spenders dieser medizinischen Bedeutung ist der Fortschritt sehr langsam.</text>
+		</string>
+		<string id="mutant_burer_hand_description">
+			<text>Die Hдnder der Burer haben einen sehr hohe widerstand gegen Strahlung. Desweiteren beherbergen sie noch mehr Fдhigkeiten. Diese sidn aber noch weitesgehend unbekannt. Verhцkern sie die Hдnde und helfen sie damit der Wissenschaft diese Rдtsel zu lцsen.</text>
+		</string>
+		<string id="mutant_zombie_hand_description">
+			<text>Besondere Fдhigkeiten der Zombies werden noch erforscht.... oder gesucht. Bis jetzt konnte niemand etwas von "herrausragender" Bedeutung finden, sind halt Zombies ... aber Sie kцnnen einige Wissenschaftler unterstьtzen, indem Sie die Hдnde der Zombies der verkaufen.</text>
+		</string>
+		<string id="mutant_snork_leg_description">
+			<text>Die FьЯe der Snork's haben sehr elastische Sehnen und Muskeln. Das erklдrt die unglaublichen groЯen Sprьnge dieser Kreaturen. Die Wissenschaftler suchen noch nach nutzbringenden Mцglichkeiten, sie zu benutzen. Die Typen sind auf jedenfall dankbar fьr jeden FuЯ, den die bekommen.</text>
+		</string>
+		<string id="mutant_hand_kontroler_description">
+			<text>Nur sehr wenige ьberleben den Angriff eines Controllers und sind danach noch in einem Zustand wo sich einige z.b die Hдnde abhacken. AuЯerdem gibt es in der Zone nur wenige Controller.Das macht die Hдnde eines Controllers fьr die Wissenschaftler noch wertvoller. Bisher ist es nur bekannt, dass Controller ihre Hдnder so gut wie nie benutzen und stattdessen zu 99% immer ihre PSI-Fдhigkeiten sich durchzusetzen.. warum und wie ....weiЯ wohl keiner. Es gibt  bis jetzt nicht einmal eine wirkliche Verwendung fьr diese Hдnde, vielleicht suchen die Wissenschaftler an der Falschen stelle. Egal.. Verkaufen.</text>
+		</string>
+		<string id="mutant_face_tushkano_description">
+			<text>Bisher gibt es keine erkenntnisse zu diesen Mutanten. Der einzige Unterschied zu seinen Verwandten ist sein hoher Blutgeist und der bessere Sinn. Allerdings versuchen Wissenschaftler, den Ursprung dieser Mutation, schon sehr lange herauszufinden. Hilf der Wissenschaft, eine Antwort auf dieses Mysterium zu finden.</text>
+		</string>
+		<string id="mutant_poltergeist_glas_description">
+			<text>Augen dieser Mutanten sind sehr selten und enthalten besondere Fдhigkeiten.Viele Wissenschaftler experimentiren mit diesen Augen. Sie versuche das Biologische Matierial auf andere Objekte zu ьbertragen. Es geht das Gerьcht um das ein Wissenschaftler es einmal geschafft hдtte sein Aznug Unsichtbar zu machen in dem er sehr hohe Mengen von dem Biologischen Matierial auf den Anzuf ьbertrug. Naja.. Nachdem er Verschwand hцrten die Kollegen entsetzliche Schreie. Dann soll er plцtzlich in wieder erschienen sein worauf sich darauf folgend eine Elektrische Ladung ausbreitete. Dann war er weg und man hцrte diese Laute die man den Plotergiestern hцren kann. Die Wissenschaftler glauben der der Kollge sich ein dieser Anomalien verwandelt hat.</text>
+		</string>
+		<string id="mutant_psevdogigant_hand_description">
+			<text>Pseudogiganten Teile gelten nicht nur als Trophдe fьr Stalker sondern sind auch besonders wertvoll fьr die Wissenschaft. Pseudogiganten produzieren grosse Schockwellen die in einem Radius verherrenden Schaden anrichten kцnnen. Wissenschaftler experimentieren mit Kцrperteilen von Pseudogiganten um daraus eine Impuls Waffe zu Entwickeln. Durch den Druck und den expiermenten mit dieser Waffe hat es den ein oder anderen "Freiwilligen" schon mal den Arm abgerissen.</text>
+		</string>
+		<string id="mutant_chimera_kogot_description">
+			<text>Die Chimдre mit ihren zwei Kцlpfen ist wohl eines der Gefдhrlichsten Mutanten die die Zone je hervorgebracht hat. Durch die Doppelte eigenschaft Regeneriert sich das Tier sehr Schnell. Zudem beszitzt es ein ьberaus gutes   Jagdinstinkt und ist sehr schnell. Interressant sind seine Krallen. So hart und undurchdringlich wie Dimanten aber  dennoch Biologisch. Wьrde man den Gentischen Aufbau entschlьsseln, wдre man imstande Biollige und Kostengьnstige aber sehr undurchdringliche Schutzanzuьge herzustellen.</text>
+		</string>
+		<string id="st_csky_descr">
+			<text>Abzeichen von einem "Clear Sky" Mitglied. Alle Abzeichen kцnnen verkauft werden.</text>
+		</string>
+		<string id="st_csky_patch">
+			<text>Clear Sky Abzeichen</text>
+		</string>
+		<string id="st_freedom_descr">
+			<text>Das Abzeichen von einem "Freiheitler".  Alle Abzeichen kцnnen verkauft werden.</text>
+		</string>
+		<string id="st_freedom_patch">
+			<text>Freiheitler Abezeichen</text>
+		</string>
+		<string id="st_loner_descr">
+			<text>Abzeichen von einem "Einzelgдnger".  Alle Abzeichen kцnnen verkauft werden.</text>
+		</string>
+		<string id="st_loner_patch">
+			<text>Einzelgдnger Patch</text>
+		</string>
+		<string id="st_bandit_descr">
+			<text>Der Flicken von einem "Bandit". Alle Flicken (Abzeichen, Patches) kцnnen verkauft werden.</text>
+		</string>
+		<string id="st_bandit_patch">
+			<text>Bandit Flicken</text>
+		</string>
+		<string id="st_dolg_descr">
+			<text>Zeichen der "Wдchter".  Alle Abzeichen kцnnen verkauft werden.</text>
+		</string>
+		<string id="st_dolg_patch">
+			<text>Wдchter Abzeichen</text>
+		</string>
+		<string id="st_army_descr">
+			<text>Abzeichen von einem "Ukrainischen Militдr" Soldat.  Alle Abzeichen kцnnen verkauft werden.</text>
+		</string>
+		<string id="st_army_patch">
+			<text>Ukrainischen Militдr Zeichen</text>
+		</string>
+		<string id="st_merc_descr">
+			<text>Der Flicken eines "Sцldner's". Alle Flicken (Abzeichen, Patches) kцnnen verkauft werden.</text>
+		</string>
+		<string id="st_merc_patch">
+			<text>Sцldner Flicken</text>
+		</string>
+		<string id="st_renegade_descr">
+			<text>Das Abzeichen eines Abtrьnnigen Stalker's. Alle Abzeichen kцnnen verkauft werden.</text>
+		</string>
+		<string id="st_renegade_patch">
+			<text>Flicken eines Abtrьnnigen</text>
+		</string>
+		<string id="st_backpack">
+			<text>Militдr Trekking Rucksack</text>
+		</string>
+		<string id="st_backpack_descr">
+			<text>Ein Stabiler und Robuster Militдr Rucksack zur Aufbewahrung von Gegenstдnden. Dieser Rucksack enthдlt eine GPS Tracker. So finde man diesen Rucksack ьberall. Schьtz die verstauten Gegnstдnde vor Nдsse und feuchtigkeit. Schьtzt aber nicht vor potenzielle Plьnderer. \nTip: An einsamen Orten Verstecken.</text>
+		</string>
+		<string id="st_backpack_take">
+			<text>Mitnehmen</text>
+		</string>
+		<string id="st_backpack_take_descr">
+			<text>Den Trekking Rucksack verpacken und mitnehmen.</text>
+		</string>
+		<string id="st_player_stash">
+			<text>Trekking Rucksack</text>
+		</string>
+<!-- Added Helmets-->
+		<string id="st_helmet_bubble">
+			<text>Schutz Helm</text>
+		</string>
+		<string id="st_helmet_bubble_descr">
+			<text>Ein Schutzhelm mit einem Luftdichten Visier. Vorgesehen fьr den Schutz gegen Anomlien. Das Design stammt vom  FIFV (Foschrungs Institut fьr Verteidigung). Die selben Entwickler die auch den SEVA Schutzanzug herstellten. Der Helm kann mit anderen Anzьgen Kombiniert werden. Wie z.b mit dem Militдr Anzug fьr Operationen in Gebiete mit satrken Anomalien.\n%c[255,238,153,26]• %c[default]Strahlenschutz: %c[255,1,128,54]+10\n%c[255,238,153,26]• %c[default]Chemischer Schutz: %c[255,1,128,54]+19\n%c[255,238,153,26]• %c[default]Psi-Schutz: %c[255,1,128,54]+14\n%c[255,238,153,26]• %c[default]Als Schutzweste: %c[255,1,128,54]+10%</text>
+		</string>
+		<string id="st_helmet_respirator">
+			<text>E0-19 PBF Gas Maske</text>
+		</string>
+		<string id="st_helmet_respirator_descr">
+			<text>Eine Russische Standard Gas Maske aus Kunstoff und Gummi. Filtert Radioaktive Partikel und Gistige Substanzen. Durch die Verbreitung und einfache Handhabung wird diese Maske viel von Neulingen und Veteranen getragen. Bietet kein PSI Schutz.\n%c[255,238,153,26]• %c[default]Strahlenschutz: %c[255,1,128,54]+5\n%c[255,238,153,26]• %c[default]Chemischer Schutz: %c[255,1,128,54]+12\n%c[255,238,153,26]• %c[default] PSI Schutz: %c[255,1,128,54]0</text>
+		</string>
+		<string id="st_helmet_respirator2">
+			<text>AM40 Gas Maske</text>
+		</string>
+		<string id="st_helmet_respirator2_descr">
+			<text>Eine Gas Maske aus Kunstoff und Gummi. Hergetellt im Westen. Filtert Radioaktive Partikel und Gistige Substanzen. Nicht sehr verbreitet. Wird viel von Sцldnern getragen. Bietet kein PSI Schutz. Ausgestattet mit einem Nachtsicht Gerдt der Ersten Generation\n%c[255,238,153,26]• %c[default]Strahlenschutz: %c[255,1,128,54]+5\n%c[255,238,153,26]• %c[default]Chemischer Schutz: %c[255,1,128,54]+12\n%c[255,238,153,26]• %c[default] PSI Schutz: %c[255,1,128,54]0\n%c[255,238,153,26]• %c[default]Nachsicht Gerдt: %c[255,1,128,54]1ste Generation</text>
+		</string>
+		<string id="st_helmet_sphere08">
+			<text>Sphere 08 Helm</text>
+		</string>
+		<string id="st_helmet_sphere08_descr">
+			<text>Ein Standard Militдr Helm der viel von Trupp Fьherern getragen wird bei  Strategische Operationen. Ausgestattet mit Kommunikations Einheiten, Display, Scanner sowie mit einem Nachsichtgerдt der 2ten Generation. Sowie einer Atemschutzmaske. Der Helm ist mit mehrschichtigem Kevlar Verstдrkt um unter anderen auch die empfindlichen Elektronischen Bauiteile zu schьtzen.n%c[255,238,153,26]• %c[default]Strahlenschutz: %c[255,1,128,54]+7\n%c[255,238,153,26]• %c[default]Chemischer Schutz: %c[255,1,128,54]+14\n%c[255,238,153,26]• %c[default]PSI Schutz: %c[255,1,128,54]+8\n%c[255,238,153,26]• %c[default]Panzerung: %c[255,1,128,54]+35%\n%c[255,238,153,26]• %c[default]Nachtsicht Gerдt: %c[255,1,128,54]2te Generation</text>
+		</string>
+		<string id="st_helmet_sphere12">
+			<text>Sphere 12M Helm</text>
+		</string>
+		<string id="st_helmet_sphere12_descr">
+			<text>Eine Aluminium/ Titan Helm mit Stoff Ьberzogen. Der Sphere-12M Helm kommt ehemals aus einer PSZ Spetsnaz Rьstung. Beeinhaltet zusдtzliche Taschen fьr Ausrьstungs Gegenstдnde sowie eine Atemschutzmaske. Enthдlt ein Nachtsicht Gerдt der 2ten Generation und beitet den Maximalen Kopfschutz.\n%c[255,238,153,26]• %c[default]Strahlenschutz: %c[255,1,128,54]+7\n%c[255,238,153,26]• %c[default]Chemischer Schutz: %c[255,1,128,54]+15\n%c[255,238,153,26]• %c[default]Psi-Schutz: %c[255,1,128,54]+8\n%c[255,238,153,26]• %c[default]Panzerung: %c[255,1,128,54]+40%\n%c[255,238,153,26]• %c[default]Nachtsicht Gerдt: %c[255,1,128,54]2te Generation</text>
+		</string>
+		<string id="st_helmet_steel">
+			<text>Stahl Helm</text>
+		</string>
+		<string id="st_helmet_steel_descr">
+			<text>Ein Schlichter und veralteter Stahl Helm. Beeinhaltet ein Nachtsicht Gerдt der ersten Generation. Bietet keinen besonderen Schutz gegen Anomalien oder Strahlung. Einigermassen gut gepanzert. Dieser Helm war nie besonders beliebt in der Zone ausser bei Kleinen Fraktions Gefechten mit Stalker die sich kein anderen Schutz leisten konnten.\n%c[255,238,153,26]• %c[default]Panzerung: %c[255,1,128,54]+20%\n%c[255,238,153,26]• %c[default]Nachtsicht Gerдt: %c[255,1,128,54]1ste Generation</text>
+		</string>
+		<string id="mag_info">
+<text complex_mode="1" vert_align="l">Munition-Liste:</text>
+		</string>
+		<string id="enc_amk_metka">
+			<text>Ein GPS-Locator um Markierte Verstecke Zukьnftig abzurufen.</text>
+		</string>
+		<string id="amk_metka">
+<text complex_mode="1" vert_align="l">GPS Locator Tag</text>
+		</string>
+	</string_table>

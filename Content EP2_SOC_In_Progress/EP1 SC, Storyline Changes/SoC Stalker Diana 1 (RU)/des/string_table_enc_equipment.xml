@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+	<string_table>
+		<string id="Antirad">
+			<text>Strahlenschutzmittel</text>
+		</string>
+		<string id="Arm-heavy">
+			<text>Schwere Stalkerausrьstung</text>
+		</string>
+		<string id="Arm-light">
+			<text>Leichte Stalkerausrьstung</text>
+		</string>
+		<string id="Arm-medium">
+			<text>Mittlere Stalkerausrьstung</text>
+		</string>
+		<string id="bandage">
+			<text>Verbдnde</text>
+		</string>
+		<string id="Binocul">
+			<text>Fernglas</text>
+		</string>
+		<string id="Bread">
+			<text>Brot</text>
+		</string>
+		<string id="enc_equipment_energydrink_1">
+			<text>...Недавно кое-что обнаружил, если прыгнуть в этот телепорт, что в пяти шагах от стола, то окажешься прямо в центре аномального разлома... Я думаю в этом разломе, кое-что лежит. Нужно будет добыть костюм пс-3 и проверить... Если там лежит то, о чем я думаю, тогда наверняка можно будет попробовать шагнуть в аномалию... Да, вот еще что, в аномальный разлом попасть можно только через этот телепорт, так как вокруг разлома очень сильные радиоактивные и пси поля, костюм не поможет...</text>
+		</string>
+		<string id="enc_equipment_energydrink_2">
+			<text>...Если забраться на крышу камаза, того что стоит на дороге возле мастерских, можно попасть в местный бар...</text>
+		</string>
+		<string id="enc_equipment_energydrink_3">
+			<text>Братья... Я ранен и окружен бандитами, единственная моя защита от пуль, этот разлом в земле усыпанный аномалиями. Телепорт не сработал, придется идти к запасному. Артефакт у военных мы отбили. Пока группа прикрытия сдерживала вояк, я пробирался к телепорту возле мастерских, но попал в засаду.  Похоже, бандиты что-то пронюхали. Получил серьезные ранения, жаль что этот артефакт не защищает от пуль... Дождусь темноты и попробую идти дальше, если выживу... Да еще кое-что, какой-то сталкер воспользовался нашим телепортом, у него точно был артефакт, где же он его взял??? Был еще свидетель какой-то пьяный долговец, он видел, как сталкер переместился... Прощайте... СЛАВА МОНОЛИТУ...</text>
+		</string>
+		<string id="energy_drink_name_1">
+			<text>"Записка Доктора"</text>
+		</string>
+		<string id="energy_drink_short_name_1">
+			<text>...Недавно кое-что обнаружил, если прыгнуть в этот телепорт, что в пяти шагах от стола, то окажешься прямо в центре аномального разлома... Я думаю в этом разломе, кое-что лежит. Нужно будет добыть костюм пс-3 и проверить... Если там лежит то, о чем я думаю, тогда наверняка можно будет попробовать шагнуть в аномалию... Да, вот еще что, в аномальный разлом попасть можно только через этот телепорт, так как вокруг разлома очень сильные радиоактивные и пси поля, костюм не поможет...</text>
+		</string>
+		<string id="energy_drink_name_2">
+			<text>"Записка военного"</text>
+		</string>
+		<string id="energy_drink_short_name_2">
+			<text>...Если забраться на крышу камаза, того что стоит на дороге возле мастерских, можно попасть в местный бар...</text>
+		</string>
+		<string id="energy_drink_name_3">
+			<text>"Записка монолитовца"</text>
+		</string>
+		<string id="energy_drink_short_name_3">
+			<text>Братья... Я ранен и окружен бандитами, единственная моя защита от пуль, этот разлом в земле усыпанный аномалиями. Телепорт не сработал, придется идти к запасному. Артефакт у военных мы отбили. Пока группа прикрытия сдерживала вояк, я пробирался к телепорту возле мастерских, но попал в засаду.  Похоже, бандиты что-то пронюхали. Получил серьезные ранения, жаль что этот артефакт не защищает от пуль... Дождусь темноты и попробую идти дальше, если выживу... Да еще кое-что, какой-то сталкер воспользовался нашим телепортом, у него точно был артефакт, где же он его взял??? Был еще свидетель какой-то пьяный долговец, он видел, как сталкер переместился... Прощайте... СЛАВА МОНОЛИТУ...</text>
+		</string>
+		<string id="cit_deadcity_maps_desc">
+			<text>Eine genaue Karte der Totenstadt mit Sцldnerpositionen.</text>
+		</string>
+		<string id="cit_deadcity_maps_name">
+			<text>Karte der Totenstadt</text>
+		</string>
+		<string id="cit_doctors_key_desc">
+			<text>Schlьssel des Doktors zum geheimen Versteck bei Prypjat</text>
+		</string>
+		<string id="cit_doctors_key_short_desc">
+			<text>Schlьssel des Doktors</text>
+		</string>
+		<string id="Conserva">
+			<text>Touristenfreude</text>
+		</string>
+		<string id="Detect1">
+			<text>Anomaliedetektor</text>
+		</string>
+		<string id="Devic">
+			<text>Instrumente und Gerдte</text>
+		</string>
+		<string id="device-PDA">
+			<text>PDA</text>
+		</string>
+		<string id="device-torch">
+			<text>Taschenlampe</text>
+		</string>
+		<string id="enc_equipment_armors_arm-heavy">
+			<text>Schutzanzug. Gewicht: 18 kg. Details: Schьtzt vor Schleim, Brennflaum, den meisten Anomalien und physischem Schaden. Torso und Rьcken haben eingebaute biometallische Platten. Zum Anzug gehцren ein luftdichter verstдrkter Plastikhelm und zwei Sauerstoffflaschen. Hinweis: Bei extensivem Gebrauch reiЯt der Anzug und wird allmдhlich unbrauchbar.</text>
+		</string>
+		<string id="enc_equipment_armors_arm-light">
+			<text>Schutzanzug. Gewicht: 8 kg. Details: Schьtzt vor schwachen Anomalien und physischem Schaden. Zum Anzug gehцrt eine Sauerstoffmaske. Hinweis: Bei extensivem Gebrauch reiЯt der Anzug und wird allmдhlich unbrauchbar.</text>
+		</string>
+		<string id="enc_equipment_armors_arm-medium">
+			<text>Schutzanzug: Gewicht:12 kg. Details: Schьtzt den Trдger vor Schleim, Brennflaum, vielen Anomalien und physischem Schaden. Zum Anzug gehцren ein luftdichter Helm und eine Sauerstoffflasche. Hinweis: Bei extensivem Gebrauch reiЯt der Anzug und wird allmдhlich unbrauchbar.</text>
+		</string>
+		<string id="enc_equipment_armors_sci2">
+			<text>Ein roter S.C.A.P.E.-Anzug mit luftdichtem Helm. Gewicht: 11 kg. Beschreibung: Schьtzt vor Feuer, Sдure, Giftgas, verschiedenen Anomalien, Brennflaum und physischem Schaden. Mit zwei Sauerstoffflaschen. Hinweis: Bei extensivem Gebrauch reiЯt der Anzug und wird allmдhlich unbrauchbar.</text>
+		</string>
+		<string id="enc_equipment_devic_binocul1">
+			<text>Militдrisches Fernglas</text>
+		</string>
+		<string id="enc_equipment_devic_detect1">
+			<text>Ein Gerдt zur Ortung von Anomalien und Stцrungen. Zeigt deren Nдhe akkustisch an. Muss am Gьrtel befestigt und aktiviert werden, damit es funktioniert.</text>
+		</string>
+		<string id="enc_equipment_devic_device-PDA1">
+			<text>Persцnlicher Digitaler Assistent - unverzichtbar in der Zone.</text>
+		</string>
+		<string id="enc_equipment_devic_device-torch1">
+			<text>Eine starke Taschenlampe. Sehr nьtzlich in dunklen Bereichen.</text>
+		</string>
+		<string id="enc_equipment_devic_device-torch1_m1">
+			<text>Eine starke Taschenlampe. Dank eines modernen Transformators wurde die Aufladezeit der Akkus verkьrzt.</text>
+		</string>
+		<string id="enc_equipment_energydrink">
+			<text>Dies ist ein hervorragender Energiedrink aus Koffein, Taurin und erfrischenden Vitaminen. Genau das Richtige, wenn man im Stehen einschlдft!</text>
+		</string>
+		<string id="enc_equipment_food_bread1">
+			<text>Schwer zu sagen, wer es schafft, in der Zone Brot zu backen, aber das Brot ist unverseucht und gut essbar. Jedenfalls hat sich noch kein Stalker darьber beschwert.</text>
+		</string>
+		<string id="enc_equipment_food_conserva1">
+			<text>Konservennahrung, das Stalker aus einem Militдrlagerhaus gestohlen haben. Das Haltbarkeitsdatum ist noch nicht abgelaufen.</text>
+		</string>
+		<string id="enc_equipment_food_kolbasa1">
+			<text>Die Nдhrstoffwurst aus Huhn und Soja ist mangels Alternativen fьr einen Stalker oft Frьhstьck, Mittag- und Abendessen in einem.</text>
+		</string>
+		<string id="enc_equipment_food_vodka1">
+			<text>Wodka vom Hersteller GSC. Sьffig, hilft spьrbar gegen die Auswirkung der Strahlung, sollte aber aus offensichtlichen Grьnden nur in MaЯen genossen werden.</text>
+		</string>
+		<string id="enc_equipment_medi_antirad1">
+			<text>Reduziert die Strahlungswirkung.</text>
+		</string>
+		<string id="enc_equipment_medi_bandage1">
+			<text>Verbдnde. Stillen Blutungen.</text>
+		</string>
+		<string id="enc_equipment_medi_medkit1">
+			<text>Ein Allzweck-Medkit. Man behandelt damit verschiedene Arten von Verletzungen - Wunden, Verbrennungen, Giftunfдlle, usw.</text>
+		</string>
+		<string id="enc_equipment_medi_medkit2">
+			<text>Ein spezielles Medkit gegen physischen Schaden und Blutverlust. Darin enthalten sind ein blutgerinnendes Mittel, Antibiotika, Immunstimulatoren und Schmerzmittel.</text>
+		</string>
+		<string id="enc_equipment_medi_medkit3">
+			<text>Medkit, speziell entworfen fьr die Zone. Das Kit enthдlt Mittel zur Wundheilung wie zur Eliminierung von Radionukliden aus dem Kцrper. Verhindert das Entstehen der Strahlenkrankheit und senkt die Dosis der gesamtabsorbierten Strahlung.</text>
+		</string>
+		<string id="energy_drink_name">
+			<text>Energiedrink</text>
+		</string>
+		<string id="energy_drink_short_name">
+			<text>Energiedrink</text>
+		</string>
+		<string id="Equipment">
+			<text>Ausrьstung & Nahrung</text>
+		</string>
+		<string id="Food">
+			<text>Nahrung</text>
+		</string>
+		<string id="Kolbasa">
+			<text>Nдhrstoffwurst</text>
+		</string>
+		<string id="Medi">
+			<text>Medikamente</text>
+		</string>
+		<string id="Medkit">
+			<text>Medkit</text>
+		</string>
+		<string id="Medkit_army">
+			<text>Armee-Medikit</text>
+		</string>
+		<string id="Medkit_scientific">
+			<text>Forschungs-Medikit</text>
+		</string>
+		<string id="Sci2">
+			<text>EXP-4</text>
+		</string>
+		<string id="Vodka">
+			<text>Kosakenwodka</text>
+		</string>
+		<string id="st_detector">
+			<text>Anomaliedetektor</text>
+		</string>
+		<string id="st_detector_descr">
+			<text>Zur Erkennung von Anomaliezonen und extremer radioaktiver Verseuchung.</text>
+		</string>
+		<string id="st_grenade_gd5">
+			<text>Rauchgranate</text>
+		</string>
+	</string_table>

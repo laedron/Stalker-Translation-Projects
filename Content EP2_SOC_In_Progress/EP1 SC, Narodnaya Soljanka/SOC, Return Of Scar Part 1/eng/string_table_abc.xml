@@ -1,0 +1,2091 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- DR edited-->
+<!--********************************-->
+<!-- Sidorovicha dialogue about mending -->
+<!--********************************-->
+<string_table>
+<!--****************************-->
+<!-- Dialogue fix Barkeep -->
+<!--****************************-->
+<string id="bar_trader_repair_0">
+	<text>Barkeep do you know a good mechanic for repairs?</text>
+</string>
+ 
+<string id="bar_trader_repair_1">
+	<text>I do not do this type of work. But in the kitchen I have a stalker that works for grub. He is good with weapon technology. So if something appeals to me, and I will give him a job.  Something you want to fixed? \n\n Prices for repair are:</text>
+</string>
+ 
+<string id="bar_trader_repair_2">
+	<text>Pistol repair.</text>
+</string>
+ 
+<string id="bar_trader_repair_3">
+	<text>Assault weapon repair.</text>
+</string>
+ 
+<string id="bar_trader_repair_4">
+	<text>Armor repair.</text>
+</string>
+ 
+<string id="bar_trader_repair_5">
+	<text>Sorry that's way too much, maybe another time when you are desperate for work.</text>
+</string>
+ 
+<string id="bar_trader_repair_6">
+	<text>That's it, just like new!</text>
+</string>
+ 
+<string id="bar_trader_repair_7">
+	<text>Done! Almost like brand new!</text>
+</string>
+ 
+<string id="bar_trader_repair_8">
+	<text>Wow! Your repair guy is awesome, tell him thanks!</text>
+</string>
+ 
+<string id="bar_trader_repair_9">
+	<text>Very good indeed!</text>
+</string>
+ 
+<string id="bar_trader_repair_10">
+	<text>Can he fix anything else?</text>
+</string>
+ 
+<string id="bar_trader_repair_11">
+	<text>He sure can! \n\n Prices for repairs are:</text>
+</string>
+ 
+<!--****************************-->
+<!-- Novels repair the Doctor -->
+<!--****************************-->
+<string id="yantar_trader_repair_0">
+	<text>Can you repair some equipment?</text>
+</string>
+ 
+<string id="yantar_trader_repair_1">
+	<text>Sometimes, when I have enough parts. I like to study things and to tinker with technology. But I have too few tools so repairs are just my hobby. So I think it will not come cheap. \n\n List of repairs:</text>
+</string>
+ 
+<string id="yantar_trader_repair_2">
+	<text>I think I can fix your weapon for a little money.</text>
+</string>
+ 
+<string id="yantar_trader_repair_3">
+	<text>Please repair my weapon. See why the bolt jams.</text>
+</string>
+ 
+<string id="yantar_trader_repair_4">
+	<text>Patch up my armor. Otherwise I will be walking around naked.\n\n</text>
+</string>
+ 
+<string id="yantar_trader_repair_5">
+	<text>%c[255,255,128,1]Buggers! I think I left some money in a sock. Well I'll go look for it.</text>
+</string>
+ 
+<string id="yantar_trader_repair_6">
+	<text>Wait a minute ... I think I have all the parts.</text>
+</string>
+ 
+<string id="yantar_trader_repair_7">
+	<text>Now let us check your armor. There is some damage... and... more damage here, here and here. Well that should do it. It's done!</text>
+</string>
+ 
+<string id="yantar_trader_repair_8">
+	<text>Excellent! It won't be necessary to look for a replacement.</text>
+</string>
+ 
+<string id="yantar_trader_repair_9">
+	<text>Well despite all of these patches the repairs looks like new. Keep a few rubles for beer!</text>
+</string>
+ 
+<string id="yantar_trader_repair_10">
+	<text>Can you fix something else?</text>
+</string>
+ 
+<string id="yantar_trader_repair_11">
+	<text>I think I can help you, this screw should be replaced. What else do you want done?</text>
+</string>
+ 
+<!--***************************-->
+<!--Screw Repair dialog start-->
+<!--***************************-->
+<string id="mil_trader_repair_0">
+	<text>Sorry to bother you, I was thinking that you might be able to fix something. So how much will it cost?</text>
+</string>
+ 
+<string id="mil_trader_repair_1">
+	<text>He he he ... but do not worry, you will not leave without your pants. Prices here are divine. So what do you want fixed? \n\n My rates:</text>
+</string>
+ 
+<string id="mil_trader_repair_2">
+	<text>Repair my gun, it fails when using.</text>
+</string>
+ 
+<string id="mil_trader_repair_3">
+	<text>Take care of my gun. I've been warned of some Burer that soon will visit.</text>
+</string>
+ 
+<string id="mil_trader_repair_4">
+	<text>Armor is all screwed up. It has yet to be fixed?</text>
+</string>
+ 
+<string id="mil_trader_repair_5">
+	<text>Damn, I have a hole in my pocket, and all my money is gone. I'll have to back track and hopefully find my money.</text>
+</string>
+ 
+<string id="mil_trader_repair_6">
+	<text>I replaced some parts and polished with a cloth, so here you go and be careful with this toy!</text>
+</string>
+ 
+<string id="mil_trader_repair_7">
+	<text>Scar, why you so called? </text>
+</string>
+ 
+<string id="mil_trader_repair_8">
+	<text>Just like new! Good work!</text>
+</string>
+ 
+<string id="mil_trader_repair_9">
+	<text>Well, you're a fucking joker ... well at least the armor is properly patched, and the rest I do not care about.</text>
+</string>
+ 
+<string id="mil_trader_repair_10">
+	<text>Anything else you can fix?</text>
+</string>
+ 
+<string id="mil_trader_repair_11">
+	<text>Of course I can, but do not forget to pay, I do not work on credit. \n\n My rates:</text>
+</string>
+ 
+<!--********************-->
+<!--Repair dialogs end-->
+<!--********************-->
+<!--*****************************************-->
+<!--Sidorovich Factions Repair dialog start-->
+<!--*****************************************-->
+<string id="list_factions_repair_0">
+	<text>Repair relations with the duty of:</text>
+</string>
+ 
+<string id="list_factions_repair_1">
+	<text>Join Duty:</text>
+</string>
+ 
+<string id="list_factions_repair_2">
+	<text>Repair relations with Freedom:</text>
+</string>
+ 
+<string id="list_factions_repair_3">
+	<text>Join Freedom:</text>
+</string>
+ 
+<string id="list_factions_repair_4">
+	<text>Repair relations with some stalkers:</text>
+</string>
+ 
+<string id="list_factions_repair_5">
+	<text>Join Monolith:</text>
+</string>
+ 
+<string id="list_factions_repair_6">
+	<text>Join Military:</text>
+</string>
+ 
+<string id="list_factions_repair_7">
+	<text>Join Bandits:</text>
+</string>
+ 
+<string id="list_factions_repair_8">
+	<text>Join Mercenaries:</text>
+</string>
+ 
+<string id="list_factions_repair_9">
+	<text>Leave the group:</text>
+</string>
+ 
+<string id="list_factions_repair_10">
+	<text>Join Ecologists:</text>
+</string>
+ 
+<string id="escape_trader_factions_0">
+	<text>Don't you have relationships with other groups?</text>
+</string>
+ 
+<string id="escape_trader_factions_1">
+	<text>Who you think I am? You are just a tad nosey!</text>
+</string>
+ 
+<string id="escape_trader_factions_2">
+	<text>Dolgovtsev is hunting for my head, can't you get along with them?</text>
+</string>
+ 
+<string id="escape_trader_factions_3">
+	<text>I want to join Duty, will you help?</text>
+</string>
+ 
+<string id="escape_trader_factions_4">
+	<text>Svobodov pursued me everywhere, help settle a relationship with him?</text>
+</string>
+ 
+<string id="escape_trader_factions_5">
+	<text>I want to join Freedom</text>
+</string>
+ 
+<string id="escape_trader_factions_6">
+	<text>Stalkers are hunting for me, help me!</text>
+</string>
+ 
+<string id="escape_trader_factions_7">
+	<text>Do not mention it.</text>
+</string>
+ 
+<string id="escape_trader_factions_8">
+	<text>Okay, but these services are not cheap. The more you have problems with the groups, the more will it cost to restore a relationship with them. \n So, I'll now check your status ... \n Done. \n Are you sure about what you want to do?</text>
+</string>
+ 
+<string id="escape_trader_factions_9">
+	<text>Wait, now I'll send them a message. \n\n Here is their answer. Now everything is in order.</text>
+</string>
+ 
+<string id="escape_trader_factions_10">
+	<text>Yes, I want to restore relations with Duty.</text>
+</string>
+ 
+<string id="escape_trader_factions_11">
+	<text>Yes, enroll me in Duty.</text>
+</string>
+ 
+<string id="escape_trader_factions_12">
+	<text>Yes, to restore relations with Freedom.</text>
+</string>
+ 
+<string id="escape_trader_factions_13">
+	<text>I want to be free, long live Freedom!</text>
+</string>
+ 
+<string id="escape_trader_factions_14">
+	<text>Yes, I want to restore relations with the stalkers.</text>
+</string>
+ 
+<string id="escape_trader_factions_15">
+	<text>Thank you!</text>
+</string>
+ 
+<string id="escape_trader_factions_16">
+	<text>I have heard the call of the Monolith. Can I identify them?</text>
+</string>
+ 
+<string id="escape_trader_factions_17">
+	<text>Yes, I want to join the Monolith!</text>
+</string>
+ 
+<string id="escape_trader_factions_18">
+	<text>I've heard that the military announced they need some new members, and I do not want to miss this opportunity!</text>
+</string>
+ 
+<string id="escape_trader_factions_19">
+	<text>Yes sir, I'm sure!</text>
+</string>
+ 
+<string id="escape_trader_factions_20">
+	<text>Beats me, perhaps go to the bandits.</text>
+</string>
+ 
+<string id="escape_trader_factions_21">
+	<text>I have spoken twice, I will not repeat. Understand?</text>
+</string>
+ 
+<string id="escape_trader_factions_22">
+	<text>I can no longer live like this, I want to be a loner!</text>
+</string>
+ 
+<string id="escape_trader_factions_23">
+	<text>Yes, I said so.</text>
+</string>
+ 
+<string id="escape_trader_factions_24">
+	<text>Can you advise on how to join the Mercenaries?</text>
+</string>
+ 
+<string id="escape_trader_factions_25">
+	<text>Yes, I want to be a Mercenary.</text>
+</string>
+ 
+<string id="escape_trader_factions_26">
+	<text>Can you assist with an introduction to the Ecologists?</text>
+</string>
+ 
+<string id="escape_trader_factions_27">
+	<text>Yes, I want to be an Ecologist.</text>
+</string>
+ 
+<!--****************************-->
+<!--sleep-->
+<!--****************************-->
+<string id="dm_sleep_request_0">
+	<text>200 rubles.</text>
+</string>
+ 
+<!--****************************-->
+<!--mutants-->
+<!--****************************-->
+<string id="chimera_weak">
+	<text>Chimera</text>
+</string>
+ 
+<string id="fracture_weak">
+	<text>Fracture</text>
+</string>
+ 
+<string id="cat_weak">
+	<text>Cat</text>
+</string>
+ 
+<string id="Burer">
+	<text>Burer</text>
+</string>
+ 
+<string id="enc_mutant_burer_general">
+	<text>Ugly yellow-white dwarf lives in dungeons, does not like to appear in the light. Arrange the trap stalkers, scientists and military. Overlaps with the outputs of various large debris, rubble and beams. It dwarfs are very powerful hand, they may tear their prey, strong intellect and high response. Dwarfs are at war with blind dogs. The character dwarfs are extremely nasty, panicky anger causes them to make wild and unexpected things. Their character with intelligence makes them one of the most dangerous opponents in the zone. They have highly developed premonition and telekinetic abilities. Premonition helps to feel the enemy, and to assume its location. Telekinesis allows you to manipulate objects on a large enough distance to throw them at the enemy or to conduct reconnaissance.</text>
+</string>
+ 
+<string id="mutant_burer_hand_description">
+	<text>Burer hand acquired a number of properties, the most useful of which is a strong resistance to radiation. The details of this mechanism are uncertain. You can contribute to science by selling hand byurera scientists for research.</text>
+</string>
+ 
+<string id="Chimera">
+	<text>Chimera</text>
+</string>
+ 
+<string id="enc_mutant_chimera_general">
+	<text>The result of genetic experiments on the program 'Universal animal advocate.' A very clever and cunning creature, hiding, goes from the back, in a move reminiscent of a panther. Duplicate system of internal organs and the brain makes an additional process of killing is very problematic. The only worthy opponents in the Zone - dogs and psevdogigant.</text>
+</string>
+ 
+<string id="Fracture">
+	<text>Fracture</text>
+</string>
+ 
+<string id="enc_mutant_fracture_general">
+	<text>Whether the result of the experiments, or feedback on the remaining areas of people. In the kinks limb hypertrophy, a person close to human. Heather. Slouches and hides under his pseudo-cloak. From a distance, like the humpback stroller. Trying to lure stalkers conversation or request. At a time when the stalker turns his back, straightens and attacks hypertrophied limb. If you share a meal, you can find interesting information about the Zone. The break is eating rats, dogs, flesh. With some likely to pursue the player.</text>
+</string>
+ 
+<string id="Cat">
+	<text>Cat</text>
+</string>
+ 
+<string id="enc_mutant_cat_general">
+	<text>Cats are not only adapted to the radiation in the Zone, but also gained some useful skills. Radiation is almost did not change their appearance. Individually weak, but encountering a pack better put a bullet in the forehead. Otherwise be worse ..</text>
+</string>
+ 
+<string id="mutant_zombie_hand">
+	<text>Zombie Hand</text>
+</string>
+ 
+<string id="mutant_zombie_hand_description">
+	<text>Properties zombie hands are bing investigated. You can make a contribution to science, having sold it to scientists for research.</text>
+</string>
+ 
+<string id="mutant_boar_leg1">
+	<text>Chimera Foot</text>
+</string>
+ 
+<string id="mutant_boar_leg1_description">
+	<text>Chimera foot skin has a very high tensile strength that they want to artificially replicate in military outfits. Very expensive trophy.</text>
+</string>
+ 
+<string id="mutant_flesh_eye1">
+	<text>Fracture Eye</text>
+</string>
+ 
+<string id="mutant_flesh_eye1_description">
+	<text>Very appreciated the increased crystal eyes after which the mutation in this individual has acquired a number of interesting properties.</text>
+</string>
+ 
+<string id="mutant_flesh_eye2">
+	<text>Jerboa Carcass</text>
+</string>
+ 
+<string id="mutant_flesh_eye2_description">
+	<text>Bought up by scientists to study. Due to the fact that the population-candy huge and strong enough threat they pose not valued very highly and the weight decent.</text>
+</string>
+ 
+<string id="mutant_flesh_eye3">
+	<text>Psevdogigant Brain</text>
+</string>
+ 
+<string id="mutant_flesh_eye3_description">
+	<text>Absolutely tasty brain psevdogigant prized for its medical properties. You just need to cook and eat it.</text>
+</string>
+ 
+<string id="mutant_flesh_eye4">
+	<text>Poltergeist Heart</text>
+</string>
+ 
+<string id="mutant_flesh_eye4_description">
+	<text>Biological generator of electric fields. Fully understood, but still continues to buy podeshevke.</text>
+</string>
+ 
+<string id="mutant_psevdodog_tail1">
+	<text>Cat Wool</text>
+</string>
+ 
+<string id="mutant_psevdodog_tail1_description">
+	<text>Strong mutated cat wool, like dogs, to the chemical and electrical effects have long attracted the attention of scientists. Many labs are struggling with the mystery of the wool.</text>
+</string>
+ 
+<string id="mutant_flesh_eye5">
+	<text>Extraction of Crows</text>
+</string>
+ 
+<string id="mutant_flesh_eye5_description">
+	<text>Currently concidered a rumor.</text>
+</string>
+ 
+<string id="mutant_flesh_eye6">
+	<text>Cluster of Energy</text>
+</string>
+ 
+<string id="mutant_flesh_eye6_description">
+	<text>The indispensable Cluster of Energy thing.</text>
+</string>
+ 
+<!--****************************-->
+<!--weapons-->
+<!--****************************-->
+<string id="wpn-winchester_rad">
+	<text>Winchester 'radiated'</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-winrad">
+	<text>This weapon is one of 5 weapons were found in 'Dead City'. The place was full of garbage and radiation. Metal will be highly radioactive, and any ammo that gets in contact with a weapon will also radioactive. This weapon is not for rookies, use this weapon, you have at least one artifact slow radiation. Shooting \n Ammunition: \n 12x70, a piece of metal \n 12x76, dart \n 12x76.</text>
+</string>
+ 
+<string id="wpn-fn2000_rad">
+	<text>FN2000 'radiated'</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-fnrad">
+	<text>This weapon is one of 5 weapons were found in 'Dead City', the place was full of garbage and radiation, the metal will be highly radioactive, and any ammo that gets in contact with this weapon will also radioactive. This weapon is not for rookies, use this weapon, you have at least one artifact slow radiation. \n Ammunition: \n standard 5.56x45 mm SS109, \n armor-piercing 5.56x45 millimeter ap.</text>
+</string>
+ 
+<string id="wpn-vintorez_rad">
+	<text>Vintorez 'radiated</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-vinrad">
+	<text>This weapon is one of 5 weapons were found in 'Dead City', the place was full of garbage and radiation, the metal will be highly radioactive, and any ammo that gets in contact with this weapon will also radioactive. This weapon is not for rookies, use this weapon, you have at least one artifact slow radiation. \n Ammunition: \n standard 9x39 mm PAB-9, \n armor-piercing 9x39 mm SP-6, sniper 9x39 mm SP-5</text>
+</string>
+ 
+<string id="wpn-g36_rad">
+	<text>G36 'radiated'</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-g36rad">
+	<text>This weapon is one of 5 weapons were found in 'Dead City', the place was full of garbage and radiation, the metal will be highly radioactive, and any ammo that gets in contact with this weapon will also radioactive. This weapon is not for rookies, use this weapon, you have at least one artifact slow radiation. \n Ammunition: \n standard 5.56x45 mm SS109, \n armor-piercing 5.56x45 millimeter ap.</text>
+</string>
+ 
+<string id="wpn-lr300_rad">
+	<text>LR300 'radiated'</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-lr300rad">
+	<text>This weapon is one of 5 weapons were found in 'Dead City', the place was full of garbage and radiation, the metal will be highly radioactive, and any ammo that gets in contact with this weapon will also radioactive. This weapon is not for rookies, use this weapon, you have at least one artifact slow radiation. \n Ammunition: \n standard 5.56x45 mm SS109, \n armor-piercing 5.56x45 millimeter ap.</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-mp5_m3">
+	<text>A highly modified version of MP5, was found in a stash Cabrobro's. One of the best weapons in the type of gun submachine, there is more light than the orignal and is perfect for use as a 'pistol'. \n Ammunition: \n standard 9x18 mm FMJ, \n improved 9x18 millimeter pmm.</text>
+</string>
+ 
+<string id="wpn-mp5_m3">
+	<text>Gold MP5 9x18</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-mpg">
+	<text>Gold MP5, a real beast, it is made of real gold so it is accurate and reliable, however, and he is very heavy. \n Ammunition: \n standard 9x19 mm all-metal, \n improved 9x19 mm PB1c, \n standard 9x8 mm all-metal, \n improved 9x18 mm PMM.</text>
+</string>
+ 
+<string id="wpn-mpg">
+	<text>High Speed Automatic MP5G</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-nifem">
+	<text>Hunting Knife</text>
+</string>
+ 
+<string id="wpn-nifem">
+	<text>Scalp Cuts</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-nifen">
+	<text>Hunting Knife</text>
+</string>
+ 
+<string id="wpn-nifen">
+	<text>Butcher's knife</text>
+</string>
+ 
+<string id="wpn-gungauss">
+	<text>Gauss Gun</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-gungauss">
+	<text>The principle of Gauss gun is based on the electromagnetic acceleration of bodies with magnetic properties. This model uses an unusual concept - not accelerate the bullet itself, as in other modern samples Gauss weapons, as an anchor, which pushes the bullet. In this way possible not only to improve military specification (since the anchor is made of special materials), but also to move the nonmagnetic bullet. On a normal lead shot.</text>
+</string>
+ 
+<string id="wpn-gungauss_m1">
+	<text>Automatic Gauss Gun</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-gungauss_m1">
+	<text>The principle of Gauss-auto pistol based on the electromagnetic acceleration of bodies with magnetic properties. This model uses an unusual concept - not accelerate the bullet itself, as in other modern samples Gauss weapons, as an anchor, which pushes the bullet. In this way possible not only to improve military specification (since the anchor is made of special materials), but also to move the nonmagnetic bullet. And the rate of increase.</text>
+</string>
+ 
+<string id="wpn-sgauss">
+	<text>Super Gauss</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-sgauss">
+	<text>Improved version of the Gauss weapons, created by scientists Zone. It is more optimal power consumption, resulting in virtually no recoil, but slowly recharged as it requires more time to stabilize energy. \n Ammunition: 2-mm Gauss ammo.</text>
+</string>
+ 
+<string id="wpn-lr301">
+	<text>TRS 301</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-lr301">
+	<text>A modified version of the rifle LR 300, with increased effective range of up to 1000 meters and more deadly, even if the screw on a silencer. This is the best sniper rifle in the Zone in all respects. \n Ammunition: \n standard 5.56x45 mm SS109, \n standard 5.45x39 mm, \n 5.56x45 mm armor-BP, \n penetrating 5.45x39 mm AP.</text>
+</string>
+ 
+<string id="ammo-sgauss">
+	<text>Sub-Gauss bullets</text>
+</string>
+ 
+<string id="enc_weapons1_ammo_ammo-sgauss">
+	<text>The energy cell to recharge the Super Gauss rifle. The energy source is taken in part from the artifact Vspyshkat.</text>
+</string>
+ 
+<string id="wpn-walther_speed">
+	<text>Automatic Walther</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-walther_speed">
+	<text>A good automatic. High Tech with a large magazine and high accuracy, especially good with 9 mm armor-piercing ammunition. \n Ammunition: \n standard 9x19 mm armor-piercing, \n 9x19 mm PB1c improved.</text>
+</string>
+ 
+<string id="wpn-beretta_speed">
+	<text>Automatic Beretta</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-beretta_speed">
+	<text>Automatic pistol, standing on army has around the world. It is also popular among criminals because of their excellent combat performance. \n Ammunition: \n standard 9x19 mm armor-piercing, \n improved 9x19 mm PBS.</text>
+</string>
+ 
+<string id="wpn-tknife">
+	<text>Throwing Knives</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-tknife">
+	<text>Set of a thousand knives for throwing.</text>
+</string>
+ 
+<string id="wpn-sknife">
+	<text>Black Bolt Artifact</text>
+</string>
+ 
+<string id="enc_weapons1_wpn-sknife">
+	<text>This is a special artifact that had once been an ordinary piece of metal, but in consequence of the impact of emissions acquired deadly new properties. Throw distance of 10 meters.</text>
+</string>
+ 
+<!--****************************-->
+<!--Outfits-->
+<!--****************************-->
+<string id="lethalspeed_outfit_description_m1">
+	<text>According to rumors, he belonged to the Brazilian stalker with a strange name 'artifact.s' who visited Chernobyl and begged Wishmaster perfect protective suit. Among stalkers are legends about the speed of movement in that suit. Where did the owner is not known, but the suit was found near the Sarcophagus. The suit material is made of high-strength materials unknown to science. Monolith believe believe that it is made of the finest artifacts zone. It is equipped with a night vision device and protect you from any nepriyatnosti.Tkan impregnated with colloidal mass of artifacts and therefore allows to carry 231 kg more than the found and increases the rate of escape from dangerous areas.</text>
+</string>
+ 
+<string id="lethalspeed_outfit_name_m1">
+	<text>Lightning</text>
+</string>
+ 
+<string id="lethalspeed_outfit_description_m2">
+	<text>Scientists have tried to copy protection suit 'Lightning', but they came out only a rough kopiya.Tkan impregnated colloidal mass of artifacts and therefore can carry 210 kg more weight and increases the rate of escape from dangerous areas. It has fewer features, is heavier and has a different color.</text>
+</string>
+ 
+<string id="lethalspeed_outfit_name_m2">
+	<text>Dark X18</text>
+</string>
+ 
+<string id="outfit_svoboda_antigas_m1_name">
+	<text>Wind of Freedom Outfit</text>
+</string>
+ 
+<string id="outfit_svoboda_antigas_m1_description">
+	<text>Light protective suit equipped with a gas mask stalker. Produced gunsmiths group Liberty. It consists of a military body armor with Kevlar plates vrezannymm. Can protect the weak damage. The structure of the costume is covered with a special compound that enhances protection against anomalies.</text>
+</string>
+ 
+<string id="outfit_svoboda_antigas_lethalspeed_name">
+	<text>Wind of Freedom 'Partizan' Outfit</text>
+</string>
+ 
+<string id="outfit_svoboda_antigas_lethalspeed_description">
+	<text>Light protective suit equipped with a gas mask stalker. Produced gunsmiths group Liberty. It consists of a military body armor with Kevlar plates vrezannymm. Can protect the weak damage. The structure of the costume is covered with a special compound that enhances protection against anomaliy.Tkan impregnated colloidal mass of artifacts and therefore can carry 147 pounds more on alcohol and corned beef and increases the rate of escape from the warehouses.</text>
+</string>
+ 
+<string id="dolg_outfit_antigas_m1_name">
+	<text>CCL-9D Duty Armor</text>
+</string>
+ 
+<string id="dolg_outfit_antigas_m1_description">
+	<text>Created once one of Kiev defense technology research center has been put on the production group debt. Similar to the standard model of the protective suit CCL-9 with a gas mask, but is made of stronger materials. Provides good protection against various types of damage.</text>
+</string>
+ 
+<string id="wpn_binoc_m">
+	<text>Binoculars</text>
+</string>
+ 
+<string id="wpn_binoc_m_s">
+	<text>Scientific Binoculars</text>
+</string>
+ 
+<string id="enc_equipment_devic_binoc_m">
+	<text>Scientific binoculars. Zumm 10x. Built-in detector Recognition of hostile elements. Equipped with a sound sensor. It is extremely necessary thing in the Zone.</text>
+</string>
+ 
+<string id="neytral_antigas_outfit_m1_description">
+	<text>Stalker suit with a gas mask. The effective combination of light body armor and military rubber suit with reinforced Kevlar plates provides effective protection against firearms.</text>
+</string>
+ 
+<string id="neytral_antigas_outfit_m1_name">
+	<text>Stalker suit with mask</text>
+</string>
+ 
+<string id="neytral_antigas_lethalspeed_name">
+	<text>Stalker suit with gas mask 'Magpie'</text>
+</string>
+ 
+<string id="novice_antigas_lethalspeed_description">
+	<text>Stalker suit with a gas mask. The effective combination of light body armor and military rubber suit with reinforced Kevlar plates provides effective protection against fire oruzhiya.Tkan impregnated colloidal mass of artifacts and therefore can carry a 42 kg found more cargo and increases the rate of escape from dangerous areas.</text>
+</string>
+ 
+<string id="novice_antigas_lethalspeed_name">
+	<text>Stalker suit with gas mask 'Sparrow'</text>
+</string>
+ 
+<string id="novice_antigas_outfit_m1_name">
+	<text>Vest with gas mask</text>
+</string>
+ 
+<string id="novice_antigas_outfit_m1_description">
+	<text>Slightly improved thin vest, equipped with gas masks. Slightly increases the protection against bullets.</text>
+</string>
+ 
+<string id="svoboda_yellow_exo_outfit_m1_name">
+	<text>Exoskeleton Cargo 'Donkey'</text>
+</string>
+ 
+<string id="svoboda_yellow_exo_outfit_m1_description">
+	<text>The prototype military exoskeleton to carry additional loads. This second generation exoskeleton. Provides excellent protection from bullets. Has little protection from anomalies.</text>
+</string>
+ 
+<string id="killer_antigas_outfit_m1_name">
+	<text>Mercenary Outfit</text>
+</string>
+ 
+<string id="killer_antigas_outfit_m1_description">
+	<text>Modified stalker suit from Mercenaries, has built a gas mask. Outfit design was the foundation of costumes used by special forces of the Western armies. Has a little more improved security features than a military body armor CCL-7.</text>
+</string>
+ 
+<string id="killer_antigas_lethalspeed_name">
+	<text>Mercenary Outfit 'Swift'</text>
+</string>
+ 
+<string id="killer_antigas_lethalspeed_description">
+	<text>Modified stalker suit from Mercenaries, has built a gas mask. Outfit design was the foundation of costumes used by special forces of the Western armies. Has a little more improved security features than a military body armor CCL-7. The fabric is impregnated colloidal mass of artifacts and therefore can carry more than 84 kg of stolen goods, and increases the rate of escape from predsledovateley.</text>
+</string>
+ 
+<string id="neytral_novice_outfit_m1_name">
+	<text>Vest</text>
+</string>
+ 
+<string id="neytral_novice_outfit_m1_description">
+	<text>The usual thin vest, one of many. Gives little protection from weak poverzhdeny. Does not protect against anomalies and artifacts.</text>
+</string>
+ 
+<string id="neytral_novice_outfit_m1_name">
+	<text>Vest</text>
+</string>
+ 
+<string id="neytral_novice_outfit_m1_description">
+	<text>The usual thin vest, one of many. Gives little protection from weak poverzhdeny. Does not protect against anomalies and artifacts.</text>
+</string>
+ 
+<string id="svoboda_heavy_antigas_outfit_m1_name">
+	<text>Freedom Outfit 'Defender'</text>
+</string>
+ 
+<string id="svoboda_heavy_antigas_outfit_m1_description">
+	<text>Modified stalker suit with a gas mask, manufactured by gunsmiths group Liberty. It is made of high strength military body armor tserkoniumnyh interspersed with elements that give good protection against bullets at medium to long range. The suit material consists of two layers: the bulletproof and covered with asbestos. Provides good protection from radiation and weak manifestations anmaly.</text>
+</string>
+ 
+<string id="bandit_veteran_outfit_m1_name">
+	<text>Bandit leather jacket</text>
+</string>
+ 
+<string id="bandit_veteran_outfit_m1_description">
+	<text>Leather jacket bandits interspersed reinforced Kevlar. Provides bandits comfortable existence in the zone.</text>
+</string>
+ 
+<string id="bandit_antigas_outfit_m1_description">
+	<text>Traditional jacket Bandit jacket consists of a leather jacket with Kevlar protection. This model is equipped with gas masks.</text>
+</string>
+ 
+<string id="bandit_antigas_lethalspeed_name">
+	<text>Bandit Kevlar jacket with a mask 'Natural'</text>
+</string>
+ 
+<string id="bandit_antigas_lethalspeed_description">
+	<text>Traditional jacket Bandit jacket consists of a leather jacket with Kevlar protection. This model is equipped with gas masks. The fabric is impregnated colloidal mass of artifacts and therefore can carry a 63 kg more vodka and loot and increases the rate of escape from predsledovateley.</text>
+</string>
+ 
+<string id="bandit_lethalspeed_name">
+	<text>Bandit jacket with a mask 'Natural</text>
+</string>
+ 
+<string id="monolit_antigas_outfit_m1_description">
+	<text>Stalkersky suit the grouping Monolith has built-in protection system of anomalies. His defensive capabilities is slightly worse than that of the military body armor CCL-9A. Characteristics similar to those of the majority of costumes neutral stalkers, who combine the qualities of body armor and anti-radiation suits. Very good protection from bullets.</text>
+</string>
+ 
+<string id="monolit_antigas_lethalspeed_name">
+	<text>Monolith Outfit 'Swallow'</text>
+</string>
+ 
+<string id="monolit_antigas_lethalspeed_description">
+	<text>Stalkersky suit the grouping Monolith has built-in protection system of anomalies. His defensive capabilities is slightly worse than that of the military body armor CCL-9A. Characteristics similar to those of the majority of costumes neutral stalkers, who combine the qualities of body armor and anti-radiation suits. Very good protection from bullets. The fabric is impregnated colloidal mass of artifacts and therefore can carry 168 kg more weapons and increases the speed of the curious.</text>
+</string>
+ 
+<string id="monolit_antigas_outfit_m1_name">
+	<text>Monolith Outfit</text>
+</string>
+ 
+<string id="neytral_exo_antigas_outfit_m1_name">
+	<text>Exoskeleton Mark 1</text>
+</string>
+ 
+<string id="neytral_exo_antigas_outfit_m1_description">
+	<text>The first prototype military exoskeleton, which was never put into production because of the high cost of materials. This first generation exoskeleton. This version has only the basic functions of its series, such as increased mobility and good protection from all types of damage.</text>
+</string>
+ 
+<string id="nano_outfit_description">
+	<text>Very rare costume, existing in a single copy in the zone. The former owner of the costume - a cunning stalker who stole the costume from the lab x18. This is the first prototype Nanozaschitnogo costume, based on a suit CCL-9D. Has a unique protective ability from all types of damage and has the ability to heal its owner.</text>
+</string>
+ 
+<string id="nano_outfit_name">
+	<text>Nano-Shielding Outfit</text>
+</string>
+ 
+<!--****************************-->
+<!-- Outfits MASKS -->
+<!--****************************-->
+<string id="gaz_bandit_description">
+	<text>Traditional clothing bandit - leather jacket with sewn-armor elements. Provides protection, it is insufficient in harsh areas. \n Protection: \n Burn: 10 %\n Electric Shock: 10 %\n Impact: 10 %\n Rupture: 15 %\n Radiation: 0 %\n Chemical Burn: 10 %\n Explosion: 10 %\n Bulletproof Cap: 15%</text>
+</string>
+ 
+<string id="gaz_bandit_outfit_name">
+	<text>Camouflage 'Sniper'</text>
+</string>
+ 
+<string id="gaz_soldier_description">
+	<text>Regular army outfit. The set includes a knitted mask. Ineffective against abnormal and other effects.</text>
+</string>
+ 
+<string id="gaz_soldier_name">
+	<text>Regular Army Equipment</text>
+</string>
+ 
+<string id="gaz_bandit_name">
+	<text>Bandit jacket with mask</text>
+</string>
+ 
+<string id="gaz_darkb_name">
+	<text>Dark Cloak</text>
+</string>
+ 
+<string id="gaz_darkb_description">
+	<text>Dark Cloak of the 'dark' veterans. Protection against abnormal effects is insufficient, but the bullets saves. In the cloak of protection Mail web.</text>
+</string>
+ 
+<string id="gaz_abc_dark_name">
+	<text>Brown Cloak</text>
+</string>
+ 
+<string id="gaz_abc_dark_description">
+	<text>Brown cloak 'light' veterans. Protection against abnormal impact of efforts, but the bullet makes the medium. In the cloak sewn extra pockets.</text>
+</string>
+ 
+<string id="gaz_bandit_outfit_description">
+	<text>Camouflaged sniper cloak. Protection against abnormal effects is insufficient. Extra pockets.</text>
+</string>
+ 
+<string id="gaz_spetsnaz_name">
+	<text>Special Forces</text>
+</string>
+ 
+<string id="gaz_spetsnaz_description">
+	<text>Spetsnaz suit of armor is based on well-proven in Zone SKAT-9M, especially for special forces commanders. The basis: a heavy suit of armor army series ZSHB-13P helmet and built-in compensation scam-13P. Provides excellent protection from the bullet and shrapnel hits, it does not reduce the mobility of the soldier. In the presence of a balanced system of protection against abnormal exposure. Protection against telepathic influence.</text>
+</string>
+ 
+<string id="gaz_dolg_description">
+	<text>Produced by one of the defense of Kiev Institute of custom groups 'Debt.' The simplicity and reliability of the base model CCL-9, combined with new material provides good protection against a variety of harmful effects, including gunshot injuries. Because of the lack of respiratory protective body armor needs some work. \n Protection: \n Burn: 50 %\n Electric Shock: 50 %\n Impact: 50 %\n Rupture: 50 %\n Radiation: 50 %\n Chemical Burn: 50 %\n Explosion: 40 %\n Bulletproof Cap: 40%</text>
+</string>
+ 
+<string id="gaz_dolg_name">
+	<text>CCL-Mask 'Duty Armor'</text>
+</string>
+ 
+<string id="gaz_neytral_description">
+	<text>Coverall masked neutral stalker. For based samples SWAT gear Western armies. Due to the special fabric treatment enhanced the stability of armor in the physical displacement of the plates. According to the characteristics of the protective body armor is slightly larger than the army CCL-7 series. \n Protection: \n Burn: 30 %\n Electric Shock: 30 %\n Impact: 30 %\n Rupture: 30 %\n Radiation: 30 %\n Chemical Burn: 20 %\n Explosion: 25 %\n Bulletproof Cap: 20%</text>
+</string>
+ 
+<string id="gaz_killer_description">
+	<text>Coverall stalker from the group 'Mercenaries' with a mask. It is based on samples of equipment Special Forces Western armies. Due to the special fabric treatment enhanced the stability of armor in the physical displacement of the plates. According to the characteristics of the protective body armor is slightly larger than the army CCL-7 series. \n Protection: \n Burn: 30 %\n Electric Shock: 30 %\n Impact: 30 %\n Rupture: 30 %\n Radiation: 30 %\n Chemical Burn: 20 %\n Explosion: 25 %\n Bulletproof Cap: 20%</text>
+</string>
+ 
+<string id="gaz_neytral_name">
+	<text>Overalls with regular mask</text>
+</string>
+ 
+<string id="gaz_killer_name">
+	<text>Overalls with mercenary mask</text>
+</string>
+ 
+<string id="gaz_monolit_description">
+	<text>Jumpsuit with mask stalker factions 'Monolith', the manufacturer is unknown. On protective characteristics slightly inferior army body armor series CCL-9a. According to the structure resembles a widespread among neutral stalkers overalls, which is connected to the body armor suit Radiation Protection. Good protection against small arms weak. Protection against abnormal activity is poor due to lack of air filtration systems. \n Protection: \n Burn: 50 %\n Electric Shock: 60 %\n Impact: 50 %\n Rupture: 40 %\n Radiation: 50 %\n Chemical Burn: 50 %\n Explosion: 40 %\n Bulletproof Cap: 40%</text>
+</string>
+ 
+<string id="gaz_monolit_name">
+	<text>Overalls with Monolith mask</text>
+</string>
+ 
+<string id="gaz_novice_description">
+	<text>Normal thick padded jacket with knitted mask any lot. Slightly increases protivopulevuyu and fragmentation protection. Ineffective against abnormal and other effects. \n Protection: \n Burn: 10 %\n Electric Shock: 10 %\n Impact: 10 %\n Rupture: 10 %\n Radiation: 0 %\n Chemical Burn: 10 %\n Explosion: 10 %\n Bulletproof Cap: 15%</text>
+</string>
+ 
+<string id="gaz_novice_name">
+	<text>Padded jacket with mask</text>
+</string>
+ 
+<string id="gaz_novice2_name">
+	<text>Leather jacket with mask</text>
+</string>
+ 
+<string id="gaz_novice2_description">
+	<text>Leather jacket with knitted mask any lot. Slightly increases protivopulevuyu and fragmentation protection. Ineffective against abnormal and other effects. \n Protection: \n Burn: 10 %\n Electric Shock: 10 %\n Impact: 10 %\n Rupture: 10 %\n Radiation: 0 %\n Chemical Burn: 10 %\n Explosion: 10 %\n Bulletproof Cap: 15%</text>
+</string>
+ 
+<string id="gaz_novice_name">
+	<text>Jacket with mask</text>
+</string>
+ 
+<string id="gaz_svoboda_name">
+	<text>Overalls with Freedom mask</text>
+</string>
+ 
+<string id="gaz_svoboda_description">
+	<text>Produced by artisans group 'Freedom' light stalker suit with knitted mask. Easy military body armor and overhead reinforcing Kevlar plates. Able to protect the weak from the weapon. The fabric is treated with a special compound jumpsuit, which increases resistance to abnormal activity.</text>
+</string>
+ 
+<string id="st_time_up_kvest_done">
+	<text>Timer in the case will reset the trap.</text>
+</string>
+ 
+<string id="timer">
+	<text>Electronic clock. Especially designed for special ulouse of the Russian Army. Shockproof. Waterproof. Maintain dive to 300 meters. Equipped with a timer and a stopwatch. Batch of new watches have been repeatedly stolen military stalker Scout warehouse Special Forces Colonel Bibika (Base D-3) and wholesale traders the Zone. For these crimes Scout was offerd to death three times, but thanks to the notorious syndrome 'Fear of Death', a stalker managed to survive the enforcement of offers</text>
+</string>
+ 
+<string id="st_time_smert">
+	<text>Time to Death</text>
+</string>
+ 
+<string id="vedma">
+	<text>Witches</text>
+</string>
+ 
+<string id="nebo">
+	<text>Masters</text>
+</string>
+ 
+<string id="enc_equip_stco">
+	<text>The system of determining the geographic coordinates, directions and true solar time. For accurate compass work to the horizontal position of the device, which is achieved by coincidence cross compass. Activating the device is in a pistol slot. \n Composition devaysa: \n 1. Magnetic compass \n 2. Laser Rangefinder \n 3. GPS receiver \n 4. Watch</text>
+</string>
+ 
+<string id="item_doka_foto_old">
+	<text>Map</text>
+</string>
+ 
+<string id="k01_darkscape">
+	<text>Darkscape</text>
+</string>
+ 
+<string id="item_doka_strelka_prizrak">
+	<text>I'm sorry brother, I can not bury you. That's my fault. You did not have to leave. I just wanted to confuse the hiring of Scar. I do not remember anything, but listening to your record, it has become clear. I am here for the second time. burner disabled, and opened the way to the north. How to complete all cases, be sure to bury your brother.</text>
+</string>
+ 
+<string id="item_doka_strelka_x18">
+	<text>%c[255,1,255,1]  K-t \n %c[default] How long do you plan to solve the problem by upgrading Chernobyl, and can it produce increased amounts of MW without causing much damage to the environment? \n %c[255,1,255,1] Prof. Goryunov \n %c[default] We must do it in a short time. The era of perestroika and should be done according to established deadlines. The fact that nuclear power is capable of delivering more than ten times - it's obvious. Reliability of power and specials. protection at the highest level. \n %c[255,1,255,1] K-t \n %c[default] I am aware that the administration of Chernobyl does not approve such upgrades in a short time. What do you say to that? \n %c[255,1,255,1] Prof. Goryunov \n %c[default] In higher education authorities, and basically a lot of practice, but in practice one does not build a civilization, and the administration, not the head of our party, so 
+that Nothing on the site should not stand. Forward! \n %c[255,1,255,1] K-t \n %c[default] But there is also a doer, the person in charge? \n %c[255,1,255,1] Prof. Goryunov \n %c[default] from the responsibility of my friend, no one has left. Even we are. That is, write in the article too much and just answer the fullest extent of the law. Too many questions to ask. \n %c[255,1,255,1] K-t \n %c[default] or how to export radioactive waste laid railway track along the Pripyat River, which is longer than the order of 100 km? Why not lead the way directly? \n %c[255,1,255,1] Prof. Goryunov \n %c[default] You have to understand that the railway easier to build on a flat surface, rather than to equate the rocky highlands. Next, set up tunnels to transport hazardous cargo on a special landfill, where the goods are to be disposed of malware using artificial anomalous zones. \n %c[
+255,1,255,1] K-t \n %c[default] All right. And a couple of questions - Do not you think that your artificial anomalous zones will not cope with the rapid replenishment of radioactive waste? How do you take care of the locals? There is some evidence of different types of mutations of the guesswork radioactive background. You do not think about the consequences? \n %c[255,1,255,1] Prof. Goryunov \n %c[default] NPP is both civilian and military purposes. Here, everything is left to chance. About the party took care of the local population. And as for the nonsense mutation and all, you'd better not watch American horror films on video cassettes that are like a plague fell upon our great country. All I need to work. See you there! \n %c[255,1,255,1] K-t \n %c[default] I would like to believe you as a young experienced. Thank you highlighted a couple of minutes. See you there!</text>
+</string>
+ 
+<string id="item_doka_strelka">
+	<text>I am very glad that you found this cache, which means that you can easily get to the Agricultural Industry Underground to find my hiding place of the deceased group 'Arrow', as well as valuable information. With the help of this device and the coordinates - teleport into the underground. Yes, do not hurry away from the tower, check the roof. If you want to go into the underground which has good supplies, then you can take a chance to jump from this tower to the railway metal works over the tracks. A kit, which you will find there, you can fix your guns. See the box on the metal works? Supplies, unless of course you are to weak to jump., Good luck to you wanderer. \n This is the teleport coordinates: \n Longitude 24° 14' 30" .17 \n Latitude 51° 30' 55" .94 \n Altitude 187m</text>
+</string>
+ 
+<string id="item_doka_strelka_1">
+	<text>For me hunting a mercenary with a scar on his face is fun. Crafty, very dangerous, must be careful. No campfires/barbecues might be seen. The probability that he died in that release when he shot at me is very small. No one has seen him though, but something tells me that he is still alive. Will I survive, that's the question? But why am I writing this? Maybe the mercenary finds this note? Yes, perhaps I need to leave it. Will he survive me or not, I do not care anymore. My friends were killed. Only the Doctor is left, but I feel ashamed to look him in the eye, as my friends I did not save. I go to the big stone and make a wish.</text>
+</string>
+ 
+<string id="item_doki_doka_mar">
+	<text>Important manuscripts of the Doctor about exploring and taming mutants that where created by the Zone.</text>
+</string>
+ 
+<string id="item_doka_strelka_mar">
+	<text>About this stash only Swamp Doctor knows, but if you do not, the doctor can see you much confidence. The next stash need to find the same without a Positioner, but only prompt it to Pripyat in one of two grocery stores. In the stash will also be a note. I went to the North. Friends will not say anything, because my enemy with a scar on his face eludes me, and I do not want to implicate his friends.</text>
+</string>
+ 
+<string id="item_doki_doka_borov">
+	<text>Technical reference for research, at the end of all the records - two obscure clues. 1. Lake, Nevsky, dog - a knight. 2. Field, Relight, Sword.</text>
+</string>
+ 
+<string id="item_doka_freeplay">
+	<text>The accident, the power unit. This is a hint for the code of one door. You need to get to Laboratory X-8. A little ammo won't hurt. See any mutants? No?! So far everything is going according to plan.</text>
+</string>
+ 
+<string id="item_doka_freeplay2">
+	<text>Mutants, mutants and more mutants. I think you can handle them. Use the GPS-Positioner to find a second teleport which will bypass the first to get into Lab x-8. \n Here are the teleport coordinates: \n Longitude 0° 00' 13" .35 \n Latitude -0° 00' 01" .64 \n Altitiude 44m</text>
+</string>
+ 
+<string id="item_doka_freeplay3">
+	<text>Again, these creatures are tenacious! Are you a brainwashed Controller? What a shame! There is a way out! Then use the Positioner. You need to find a second document which will provide an opportunity to remove the first stage of irradiation, and will transport to the subway. \n This is the teleport coordinates: \n Longitude 0° 00' 12".90 \n Latitude -0° 00' 07" .60 \n Altitude of 45m</text>
+</string>
+ 
+<string id="item_doka_freeplay4">
+	<text>Are you still alive? Thank God! Your skills must be awesome! See the transition in the subway, what is waiting for you who knows. I only know that there is a way out to Eastern Pripyat. Good luck!</text>
+</string>
+ 
+<string id="item_doka_freeplay5">
+	<text>Well, coming to an end of Freeplay! You are indisputably a 'Die Hard'! What remains only to find the passage to the Bar. \n Here are the coordinates: \n Longitude 24° 06' 54" .20 \n Latitude 51° 29' 52" .52 \n Altitude 155m</text>
+</string>
+ 
+<string id="item_x_ray_antenna">
+	<text>Portable satellite antenna.</text>
+</string>
+ 
+<string id="strela">
+	<text>Arrow</text>
+</string>
+ 
+<string id="aes_case3_desc">
+	<text>Case with swag belonging to Oleg Tango's group</text>
+</string>
+ 
+<string id="aver">
+	<text>Wolf's Lair</text>
+</string>
+ 
+<string id="marsh">
+	<text>Marshes</text>
+</string>
+ 
+<string id="jupiter">
+	<text>Jupiter</text>
+</string>
+ 
+<string id="zaton">
+	<text>Zaton</text>
+</string>
+ 
+<string id="pripyat">
+	<text>Eastern Pripyat</text>
+</string>
+ 
+<string id="jupiter_underground">
+	<text>Jupiter Viaducts</text>
+</string>
+ 
+<string id="labx8">
+	<text>Laboratory X-8</text>
+</string>
+ 
+<string id="nebo_master">
+	<text>Leader of Master</text>
+</string>
+ 
+<string id="st_time_kvest_proval">
+	<text>Time to trip the trap.</text>
+</string>
+ 
+<string id="mutant_fracture_hand">
+	<text>Fracture Hand</text>
+</string>
+ 
+<string id="mutant_fracture_hand_description">
+	<text>Scientists are not directly interested in the hand itself, but the tendons and synovial channels. For unknown reasons the fluid which it contains has properties far exceeding the properties of all the known anticancer. The molecular structure of it is no different from the usual, but suffering the effects of a specific exposure, the properties have changed. Attempts to create an analogue in the laboratory have failed. The vast amount of goods to go abroad due to the devastation and poverty of both Ukrainian and Russian science and medicine.</text>
+</string>
+ 
+<string id="bibliotekar">
+	<text>Librarian</text>
+</string>
+ 
+<string id="enc_mutant_bibliotekar">
+	<text>Rare mutant. Many people have heard about it, but very few have seen it. Contact with such a creature as the rule is, ends in death. It is extremely tenacious. The origin almost nothing is known. Rumor has it that this is one of the subtypes of the mutated reasons unknown fracture or break a product of genetic mutations and chimeras. Represents a huge beast with a very strong blow hypertrophied upper extremities. Able to walk upright, but better is moved by all the limbs. Given the opportunity to say a few words chlenorazbornye, along with an animal roar, and the mode of transportation support the hypothesis of the origin of the fracture. Dangerous. Upon detection is highly recommended to keep a respectful distance.</text>
+</string>
+ 
+<string id="tarakan">
+	<text>Cockroach</text>
+</string>
+ 
+<string id="enc_mutant_tarakan">
+	<text>Mutated Chernobyl cockroach. In view of which there are two, it normal apartment cockroach that exposed areas increased significantly in size and can reach up to 3 kg weight. Able to move quickly. Omnivorous, smelly and angry: for humans and mutants attack, usually in packs. Single individuals are usually not dangerous, but the cause of the rookies gag reflex. Deals pretty deep paresis on exposed body, but can bite and fabric. Salivary gland are poisonous, their secret stinks. The belly of cockroaches used for the preparation of the perimeter of scarce ointments, but unofficial sources in the beauty business.</text>
+</string>
+ 
+<string id="zombie_babka">
+	<text>Female Zombie</text>
+</string>
+ 
+<string id="enc_mutant_zombie_babka">
+	<text>Have all the movements and instincts of ordinary zombies, the cause of which is known. In the case of female individuals raises a number of questions and controversy - in fact women, even old age - an extreme rarity for the Zone ... From a distance, look like a typical granny Doctor.ssed appropriately, are able to evoke sympathy remarks inexperienced stalkers, then attack discouraged rookies, causing serious damage to the nails ...</text>
+</string>
+ 
+<string id="Skelet">
+	<text>Zombie Skeleton</text>
+</string>
+ 
+<string id="enc_mutant_zombie_skelet">
+	<text>A rare type of zombie. Argue that this type occurs with repeated contact with the zombies in the usual anomaly 'Star', then clothing and ammunition are completely dissolved and the flesh becomes almost invisible. The bones acquired increased density. Because of this zombie looks like a living slelet.</text>
+</string>
+ 
+<string id="mutant_face_tushkano">
+	<text>Jerboa Head</text>
+</string>
+ 
+<string id="mutant_face_tushkano_description">
+	<text>Jerboa has highly developed intellect, and scientists are trying to figure out how to fit in the tiny brain of a large amount of information, and other things. Of their brain scientists, but they are taken out of their zone, and stalkers who knows what they are doing.</text>
+</string>
+ 
+<string id="mutant_hand_kontroler">
+	<text>Controller Hand</text>
+</string>
+ 
+<string id="mutant_hand_kontroler_description">
+	<text>The controller has psi abilities. From a distance, he can only intimidate, and create a variety of hallucinations, but when you approach closer, it deals damage. Scientists believe that their strength lies in his hand, but before the end of the hand controller is not understood.</text>
+</string>
+ 
+<string id="mutant_poltergeist_glas">
+	<text>Poltergeist Eye</text>
+</string>
+ 
+<string id="mutant_poltergeist_glas_description">
+	<text>No one knows why they they are valuable, but they are well paid for it.</text>
+</string>
+ 
+<string id="mutant_psevdogigant_hand">
+	<text>Pseudogiant Hand</text>
+</string>
+ 
+<string id="mutant_psevdogigant_hand_description">
+	<text>Hand of Pseudogiant has properties that scientists have not told, but they are good for her to pay.</text>
+</string>
+ 
+<string id="mutant_tail_cat">
+	<text>Cat Tail</text>
+</string>
+ 
+<string id="mutant_tail_cat_description">
+	<text>Resistance of the Pellicle, mutated cats to a chemical and electrical effects have long attracted the attention of scientists. Because of the lack of fat tails koshak most suitable for laboratory studies.</text>
+</string>
+ 
+<string id="mutant_chimera_kogot">
+	<text>Chimera Talon</text>
+</string>
+ 
+<string id="mutant_chimera_kogot_description">
+	<text>In chimera claw stronger than any metal, so they are very interesting to scientists.</text>
+</string>
+ 
+<string id="sigaret">
+	<text>Cigarette</text>
+</string>
+ 
+<string id="sigaret_s">
+	<text>Cigarette</text>
+</string>
+
+ <!-- DR show on map -->
+<string id="predbannik">
+	<text>Peacekeeping</text>
+</string>
+ 
+<string id="enc_sigaret">
+	<text>Nice, when he was, Lucky Strike cigarettes of American Tobacco Company, popavschie the Zone by adapting suspicious individuals from the People's thistle. There are, basically, for beginners, recently caught inside the perimeter. We experienced stalkers no authority, as zamaterev, they quickly weaned from the habit to run fast from bloodsuckers, wild boars and other living creatures mutated.</text>
+</string>
+ 
+<string id="enc_equipment_food_vodka_bochka">
+	<text>Moonshine made Sidorovich. The product, which can not be considered a substitute for, unlike stalker vodka, from which after a good Doctor.nking can be discarded sandals.</text>
+</string>
+ 
+<string id="item_shpriz">
+	<text>Syringe with the antidote, by which, it can be deduced from the initial stage of zombies.</text>
+</string>
+ 
+<string id="enc_kostya">
+	<text>Section 'Archives'</text>
+</string>
+ 
+<string id="esc_kostya_dal_text">
+	<text>Difficult guy Kostya - works wonders. It's good that he has created a section I on the PDA, you can forget everything else, because zone opens before me, new puzzles. He says that between Cordon and Dark Valley is the area - the mysterious terrain. We must look for a clue. Simbmon not prevented, would cook! In the x-18, lie somewhere archival documents, and as a prescription for Simbion. How to get there, I'll never know. Seek to answer in the Dark Valley. Tips on codes to the door, somewhere on the base of the bandits. If you do not find it, then turn to the new Coast. In the X-18 to get there, having at itself, preferably with a good buckshot Doctor.banom as there is a dinosaur, a very harmless. So, Scar, will explore the valley, so - roam across the countryside in search of clues. Just to Kostya was alive and well - a nice guy! Do I need it? Probably need. Simbion, art good, and the recipe will need to pick up. It is also possible to return the document to bandyuki taken from bones, and archives, if I can find of course. Intersno all, but for now will help scholars, and, you need to think about his daughter.</text>
+</string>
+ 
+<string id="aver_ded_dal_text">
+	<text>Strange Shchukar is! See, patted his life, no less than me. He says that 'miracle MUDO' it disappears somewhere at night. If you have to wait for the morning. Perhaps the monsters at night, too dormant, although some wander. Hungry you see.</text>
+</string>
+ 
+<string id="esc_dimak_dal_text">
+	<text>Dimak talked about some gunsmiths with their group, and the fact that he now Agroprom. His name - Losers. I need to Voronin, but you can visit the Losers. Voronin can wait.</text>
+</string>
+ 
+<string id="bar_voronin_dal_text">
+	<text>General Voronin puzzled. To find in the dark valley of his intelligence - A bullet that is in the Northeast part of the dark valley, and even in maskhalate, and at the same time, you have to be very careful, because Sniper not asleep, and runs some zone psi artificial radiation, but before that, you need to find in grandfather Shchukar Wolf's Lair to get the crossbow to accomplish the mission.</text>
+</string>
+ 
+<string id="bur_dal_text">
+	<text>A mysterious land called - 'The old dump.' Hog, some place, dig up the trail there, but I do it ..... Okay, maybe something thread splyvet ...</text>
+</string>
+ 
+<string id="tor_dal_text">
+	<text>Hour of Horror has not been observed in the following locations: Peacekeeping, Cordon, Garbage, Agroprom, Bar, Amber, Army Depots, Wolf's Lair, Chernobyl-1, Chernobyl-2, and no one knows whether it happens at the secret laboratory.</text>
+</string>
+ 
+<string id="tor_dal_2_text">
+	<text>Torych gave a tip to Semetsky's cache, which is in the Radar in the Red Forest. Hiding place in the trunk.</text>
+</string>
+ 
+<string id="bar_voronin_dal2_text">
+	<text>Need to find a fourth cave in the Wolf's Lair in the North West area, quite a ways from Oleg's Tango camp. There is a buried stalker there with his mask on his grave cross near a boulder.</text>
+</string>
+ 
+<string id="esc_sahar_dal_text">
+	<text>It is necessary in the future to find the merchant in Army Warehouses. His name is Skinflint. He probably knows the whereabouts of the stalker who recovered from cancer of the blood, while working with Voronin, and he gives the green light to go on a holiday with Oleg's Tango group, which is planned to camp in Wolf's Lair.</text>
+</string>
+ 
+<string id="item_pda_semets">
+	<text>PDA of Yuri Semetsky</text>
+</string>
+ 
+<string id="peredatchik">
+	<text>Transmitter needed by Vasilina.</text>
+</string>
+ 
+<string id="uch_doma">
+	<text>Escort scientists to rookie camp.</text>
+</string>
+ 
+<string id="esc_test_art_task">
+	<text>Find a wax head for Sidorovich.</text>
+</string>
+ 
+<string id="uch_privesty_a">
+	<text>Find the lost scientists.</text>
+</string>
+ 
+<string id="fanat_dead">
+	<text>Sniper's mother.</text>
+</string>
+ 
+<string id="gar_dima_pohod">
+	<text>Go with Dimon to the radioactive pile.</text>
+</string>
+ 
+<string id="killer_novice">
+	<text>Mercenary, novice</text>
+</string>
+ 
+<string id="kostya_help">
+	<text>Go through the swamps with Kostya.</text>
+</string>
+ 
+<string id="kostya_baza">
+	<text>Magician Kostya will help you get to the 'Clear Sky' base.</text>
+</string>
+ 
+<string id="dogovor_s_band">
+	<text>Negotiate with the experienced bandits.</text>
+</string>
+ 
+<string id="kill_s_band">
+	<text>Kill the bandits.</text>
+</string>
+ 
+<string id="esc_lebed_atak">
+	<text>Defend scientists in Cordon.</text>
+</string>
+ 
+<string id="esc_lebed_atak2">
+	<text>Help at the checkpoint in Cordon.</text>
+</string>
+ 
+<string id="agr_lebed_atak">
+	<text>Help protect Agroprom warriors from brutal mercs. Get Spetsnaz watch.</text>
+</string>
+ 
+<string id="valit_borova">
+	<text>Kill Hog.</text>
+</string>
+ 
+<string id="ded_stvol">
+	<text>Kill swamp mutant.</text>
+</string>
+ 
+<string id="aver_kruglov_help">
+	<text>Kruglov accompanied to Wolf's Lair.</text>
+</string>
+ 
+<string id="aver_kontrik">
+	<text>Killed the 2 controllers in a cave.</text>
+</string>
+ 
+<string id="ros_kruglov_help">
+	<text>Kruglov brought to Amber.</text>
+</string>
+ 
+<string id="yan_hozjain_plen_valit">
+	<text>Freed Sakharov.</text>
+</string>
+ 
+<string id="yan_hozjain_valit">
+	<text>Cleaning of the home near the bunker.</text>
+</string>
+ 
+<string id="yan_laba_diaktiv">
+	<text>Disabled the protection to Laboratory X-16</text>
+</string>
+ 
+<string id="disk_sahara">
+	<text>Get the Master's disk from x-10, took it to Sakharov's.</text>
+</string>
+ 
+<string id="val_baks_dovesty">
+	<text>A trained Psi dog named 'Bax' which helps disable the bandit base Psi protection, and opens a way to Garbage from Dark Valley.</text>
+</string>
+ 
+<string id="dvd_bazar">
+	<text>We talked with Airborne from the heart and have remained friends.</text>
+</string>
+ 
+<string id="misul_na_agru">
+	<text>Find commander in Agroprom</text>
+</string>
+ 
+<string id="as_vodjan">
+	<text>Controlled by Kirill, were shot while that of 3 water</text>
+</string>
+ 
+<string id="mogila_kluk">
+	<text>Fang found the tomb in Army Warehouses</text>
+</string>
+ 
+<string id="mesto_prizrak">
+	<text>He found the place where Ghost was shot by Fang. The bullet was meant for Scar, but landed in the Fang.</text>
+</string>
+ 
+<string id="voronin_zashitit">
+	<text>Defended General Voronin's death, and it would be from the former owner of the Arena.</text>
+</string>
+ 
+<string id="aver_sidor_kontrik">
+	<text>Destroyed two controllers wearing cloaks who managed to slightly brainwash Scar.</text>
+</string>
+ 
+<string id="mar_lebedev_ubitt">
+	<text>Did Lebedev go to the hereafter.</text>
+</string>
+ 
+<string id="esc_vedrolet">
+	<text>Scar flies helicopter.</text>
+</string>
+ 
+<string id="oleg_taynik">
+	<text>Found 2 caches which had absolutes belonging to Scar.</text>
+</string>
+ 
+<string id="oleg_keys_obshak">
+	<text>Helped Oleg's Tango group get back their stash.</text>
+</string>
+ 
+<string id="gastello_help">
+	<text>Helped bring drunk Gastello Oleg's Tango camp.</text>
+</string>
+ 
+<string id="kod_sema_text">
+	<text>One of the digits 4-digit code - '7', I took off a corpse. What this number '7' is for I do not know, but infa is infa. The main thing is getting the 4-digit code!</text>
+</string>
+ 
+<string id="kod_sema2_text">
+	<text>One of the digits 4-digit code - '2', I took off a bandit - 'guy., or omitted from, 'Kocherha', and maybe with another corpse. What this number '2' is for I do not know, but infa is infa. The main thing is getting the 4-digit code!</text>
+</string>
+ 
+<string id="kod_sema3_text">
+	<text>One of the digits 4-digit code - '1', I took off, and can buy it? I do not remember. What this number '1' is for I do not know, but infa is infa. The main thing is getting the 4-digit code!</text>
+</string>
+ 
+<string id="kod_sema4_text">
+	<text>One of the digits 4-digit code - '5', I took from the hacking module in my PDA. What this number '5' is for I do not know, but infa is infa. The main thing is getting the 4-digit code!</text>
+</string>
+ 
+<string id="new_book_tor_name">
+	<text>Oleg's Laptop.</text>
+</string>
+ 
+<string id="new_book_tor_desc">
+	<text>Oleg's Tango group's laptop.</text>
+</string>
+ 
+<string id="dvoechnik_infa_text">
+	<text>The guide was accompanied by three scientists to explore an old abandoned territory that you can get to through a cave. I went with them as a security guard. Before entering the cave we caught up with bandits. Their leader I found out right away was Borov. They promised that they will not touch us if we show them the hostile territory where fenced in radioactive hills are. We agreed. We had a map of the Explorer and after we went out to move to the area Hog took the map and said one word 'ACE' and ordered his guys to kill us. I was able to shoot my way out, but I was injured. I only had one first aid kit, so I was bleeding a little. Somehow I found a way to Agricultural Industry. I went to the military. They helped my stop the bleeding.</text>
+</string>
+ 
+<string id="klen_infa_text">
+	<text>Need to talk to Klenov, a former member of 'C-Consiousness'. Is there some truth to my dreams?</text>
+</string>
+ 
+ 
+<string id="name_vedma_0">
+	<text>Helen</text>
+</string>
+ 
+<string id="name_vedma_1">
+	<text>Anya</text>
+</string>
+ 
+<string id="name_vedma_2">
+	<text>Anfisa</text>
+</string>
+ 
+<string id="name_vedma_3">
+	<text>Angela</text>
+</string>
+ 
+<string id="name_vedma_4">
+	<text>Agony</text>
+</string>
+ 
+<string id="name_vedma_5">
+	<text>Veronica</text>
+</string>
+ 
+<string id="name_vedma_6">
+	<text>Vetch</text>
+</string>
+ 
+<string id="name_vedma_7">
+	<text>Bonia</text>
+</string>
+ 
+<string id="name_vedma_8">
+	<text>Galya</text>
+</string>
+ 
+<string id="name_vedma_9">
+	<text>Diana</text>
+</string>
+ 
+<string id="name_vedma_10">
+	<text>Dasha</text>
+</string>
+ 
+<string id="name_vedma_11">
+	<text>Dora</text>
+</string>
+ 
+<string id="name_vedma_12">
+	<text>Darling</text>
+</string>
+ 
+<string id="name_vedma_13">
+	<text>Alain</text>
+</string>
+ 
+<string id="name_vedma_14">
+	<text>Zoya</text>
+</string>
+ 
+<string id="name_vedma_15">
+	<text>Irene</text>
+</string>
+ 
+<string id="name_vedma_16">
+	<text>Ira</text>
+</string>
+ 
+<string id="name_vedma_17">
+	<text>Inga</text>
+</string>
+ 
+<string id="name_vedma_18">
+	<text>Zhenya</text>
+</string>
+ 
+<string id="name_vedma_19">
+	<text>Eve</text>
+</string>
+ 
+<string id="name_vedma_20">
+	<text>Zinka</text>
+</string>
+ 
+<string id="name_vedma_21">
+	<text>Zulfiyya</text>
+</string>
+ 
+<string id="name_vedma_22">
+	<text>Katya</text>
+</string>
+ 
+<string id="name_vedma_23">
+	<text>Karina</text>
+</string>
+ 
+<string id="name_vedma_24">
+	<text>Catboat</text>
+</string>
+ 
+<string id="name_vedma_25">
+	<text>Claudia</text>
+</string>
+ 
+<string id="name_vedma_26">
+	<text>Lera</text>
+</string>
+ 
+<string id="name_vedma_27">
+	<text>Lina</text>
+</string>
+ 
+<string id="name_vedma_28">
+	<text>Linda</text>
+</string>
+ 
+<string id="name_vedma_29">
+	<text>Liana</text>
+</string>
+ 
+<string id="name_vedma_30">
+	<text>Liza</text>
+</string>
+ 
+<string id="name_vedma_31">
+	<text>Laura</text>
+</string>
+ 
+<string id="name_vedma_32">
+	<text>Lada</text>
+</string>
+ 
+<string id="name_vedma_33">
+	<text>Luba</text>
+</string>
+ 
+<string id="name_vedma_34">
+	<text>Lyudka</text>
+</string>
+ 
+<string id="name_vedma_35">
+	<text>Lucy</text>
+</string>
+ 
+<string id="name_vedma_36">
+	<text>Lida</text>
+</string>
+ 
+<string id="name_vedma_37">
+	<text>Manka</text>
+</string>
+ 
+<string id="name_vedma_38">
+	<text>Martha</text>
+</string>
+ 
+<string id="name_vedma_39">
+	<text>Marina</text>
+</string>
+ 
+<string id="name_vedma_40">
+	<text>Nina</text>
+</string>
+ 
+<string id="name_vedma_41">
+	<text>Nona</text>
+</string>
+ 
+<string id="name_vedma_42">
+	<text>Nata</text>
+</string>
+ 
+<string id="name_vedma_43">
+	<text>Nina</text>
+</string>
+ 
+<string id="name_vedma_44">
+	<text>Nataha</text>
+</string>
+ 
+<string id="name_vedma_45">
+	<text>Olga</text>
+</string>
+ 
+<string id="name_vedma_46">
+	<text>Oksana</text>
+</string>
+ 
+<string id="name_vedma_47">
+	<text>Olesya</text>
+</string>
+ 
+<string id="name_vedma_48">
+	<text>Pasha</text>
+</string>
+ 
+<string id="name_vedma_49">
+	<text>Rimma</text>
+</string>
+ 
+<string id="name_vedma_50">
+	<text>Rita</text>
+</string>
+ 
+<string id="name_vedma_51">
+	<text>Regina</text>
+</string>
+ 
+<string id="name_vedma_52">
+	<text>Sim</text>
+</string>
+ 
+<string id="name_vedma_53">
+	<text>Sveta</text>
+</string>
+ 
+<string id="name_vedma_54">
+	<text>Sonya</text>
+</string>
+ 
+<string id="name_vedma_55">
+	<text>Dormouse</text>
+</string>
+ 
+<string id="name_vedma_56">
+	<text>Sasha</text>
+</string>
+ 
+<string id="name_vedma_57">
+	<text>Sabrina</text>
+</string>
+ 
+<string id="name_vedma_58">
+	<text>Tanya</text>
+</string>
+ 
+<string id="name_vedma_59">
+	<text>Tatyana</text>
+</string>
+ 
+<string id="name_vedma_60">
+	<text>Tom</text>
+</string>
+ 
+<string id="name_vedma_61">
+	<text>Tomka</text>
+</string>
+ 
+<string id="name_vedma_62">
+	<text>Tonka</text>
+</string>
+ 
+<string id="name_vedma_63">
+	<text>Ulyana</text>
+</string>
+ 
+<string id="name_vedma_64">
+	<text>Fanny</text>
+</string>
+ 
+<string id="name_vedma_65">
+	<text>Faina</text>
+</string>
+ 
+<string id="name_vedma_66">
+	<text>Pauline</text>
+</string>
+ 
+<string id="name_vedma_67">
+	<text>Fisk</text>
+</string>
+ 
+<string id="name_vedma_68">
+	<text>Emka</text>
+</string>
+ 
+<string id="name_vedma_69">
+	<text>Julia</text>
+</string>
+ 
+<string id="name_vedma_70">
+	<text>Juliette</text>
+</string>
+ 
+<string id="name_vedma_71">
+	<text>Jana</text>
+</string>
+ 
+<string id="name_vedma_72">
+	<text>Janka</text>
+</string>
+ 
+<string id="name_vedma_73">
+	<text>Katharina</text>
+</string>
+ 
+<string id="name_vedma_74">
+	<text>Milka</text>
+</string>
+ 
+<string id="name_vedma_75">
+	<text>Tanyuha</text>
+</string>
+ 
+<string id="name_vedma_76">
+	<text>Verka</text>
+</string>
+ 
+<string id="name_vedma_77">
+	<text>Gunn</text>
+</string>
+ 
+<string id="name_vedma_78">
+	<text>Valyuh</text>
+</string>
+ 
+<string id="name_vedma_79">
+	<text>Shingle</text>
+</string>
+ 
+<string id="name_vedma_80">
+	<text>Nadya</text>
+</string>
+ 
+<string id="lname_vedma_0">
+	<text>Howitzer</text>
+</string>
+ 
+<string id="lname_vedma_1">
+	<text>Lioness</text>
+</string>
+ 
+<string id="lname_vedma_2">
+	<text>Fatal</text>
+</string>
+ 
+<string id="lname_vedma_3">
+	<text>Fittings</text>
+</string>
+ 
+<string id="lname_vedma_4">
+	<text>Killer</text>
+</string>
+ 
+<string id="lname_vedma_5">
+	<text>Eagle</text>
+</string>
+ 
+<string id="lname_vedma_6">
+	<text>Sniper</text>
+</string>
+ 
+<string id="lname_vedma_7">
+	<text>Agony</text>
+</string>
+ 
+<string id="lname_vedma_8">
+	<text>Fast</text>
+</string>
+ 
+<string id="lname_vedma_9">
+	<text>Accurate</text>
+</string>
+ 
+<string id="lname_vedma_10">
+	<text>Cobra</text>
+</string>
+ 
+<string id="lname_vedma_11">
+	<text>Blissful</text>
+</string>
+ 
+<string id="lname_vedma_12">
+	<text>Loner</text>
+</string>
+ 
+<string id="lname_vedma_13">
+	<text>Sword</text>
+</string>
+ 
+<string id="lname_vedma_14">
+	<text>Notch</text>
+</string>
+ 
+<string id="lname_vedma_15">
+	<text>Ring</text>
+</string>
+ 
+<string id="lname_vedma_16">
+	<text>Boltuha</text>
+</string>
+ 
+<string id="lname_vedma_17">
+	<text>Squeezer</text>
+</string>
+ 
+<string id="lname_vedma_18">
+	<text>Cat</text>
+</string>
+ 
+<string id="lname_vedma_19">
+	<text>Tigress</text>
+</string>
+ 
+<string id="lname_vedma_20">
+	<text>Bandolier</text>
+</string>
+ 
+<string id="lname_vedma_21">
+	<text>Steel</text>
+</string>
+ 
+<string id="lname_vedma_22">
+	<text>Kite</text>
+</string>
+ 
+<string id="lname_vedma_23">
+	<text>Tinlate</text>
+</string>
+ 
+<string id="lname_vedma_24">
+	<text>Bracing</text>
+</string>
+ 
+<string id="lname_vedma_25">
+	<text>Atmosphere</text>
+</string>
+ 
+<string id="lname_vedma_26">
+	<text>Midwife</text>
+</string>
+ 
+<string id="lname_vedma_27">
+	<text>Evil</text>
+</string>
+ 
+<string id="lname_vedma_28">
+	<text>Beretta</text>
+</string>
+ 
+<string id="lname_vedma_29">
+	<text>Masjanja</text>
+</string>
+ 
+<string id="lname_vedma_30">
+	<text>Deadly</text>
+</string>
+ 
+<string id="lname_vedma_31">
+	<text>Karate</text>
+</string>
+ 
+<string id="lname_vedma_32">
+	<text>Frau</text>
+</string>
+ 
+<string id="lname_vedma_33">
+	<text>Fiery</text>
+</string>
+ 
+<string id="lname_vedma_34">
+	<text>Viper</text>
+</string>
+ 
+<string id="lname_vedma_35">
+	<text>Panther</text>
+</string>
+ 
+<string id="lname_vedma_36">
+	<text>Rassomaha</text>
+</string>
+ 
+<string id="lname_vedma_37">
+	<text>Biathlon</text>
+</string>
+ 
+<string id="lname_vedma_38">
+	<text>Guard</text>
+</string>
+ 
+<string id="lname_vedma_39">
+	<text>Wretch</text>
+</string>
+ 
+<string id="lname_vedma_40">
+	<text>Insidious</text>
+</string>
+ 
+<string id="lname_vedma_41">
+	<text>Witch</text>
+</string>
+ 
+<string id="lname_vedma_42">
+	<text>Terminator</text>
+</string>
+ 
+<string id="lname_vedma_43">
+	<text>Guillotine</text>
+</string>
+ 
+<string id="lname_vedma_44">
+	<text>Scaffold</text>
+</string>
+ 
+<string id="lname_vedma_45">
+	<text>Vote Now</text>
+</string>
+ 
+<string id="lname_vedma_46">
+	<text>She-wolf</text>
+</string>
+ 
+<string id="lname_vedma_47">
+	<text>Sheba</text>
+</string>
+ 
+<string id="lname_vedma_48">
+	<text>Mastersha</text>
+</string>
+ 
+<string id="lname_vedma_49">
+	<text>Negative</text>
+</string>
+ 
+<string id="lname_vedma_50">
+	<text>Blade</text>
+</string>
+ 
+<string id="lname_vedma_51">
+	<text>Pulemetchitsa</text>
+</string>
+ 
+<string id="lname_vedma_52">
+	<text>Bullet</text>
+</string>
+ 
+<string id="lname_vedma_53">
+	<text>Skorostrel</text>
+</string>
+ 
+<string id="lname_vedma_54">
+	<text>Gun</text>
+</string>
+ 
+<string id="lname_vedma_55">
+	<text>Anomaly</text>
+</string>
+ 
+<string id="lname_vedma_56">
+	<text>Storm</text>
+</string>
+ 
+<string id="lname_vedma_57">
+	<text>Disaster</text>
+</string>
+ 
+<string id="lname_vedma_58">
+	<text>Element</text>
+</string>
+ 
+<string id="lname_vedma_59">
+	<text>Flurry</text>
+</string>
+ 
+<string id="lname_vedma_60">
+	<text>Stud</text>
+</string>
+ 
+<string id="vedma_novice">
+	<text>Witch, novice</text>
+</string>
+ 
+<string id="vedma_experienced">
+	<text>Witch, experienced</text>
+</string>
+ 
+<string id="vedma_veteran">
+	<text>Witch, veteran</text>
+</string>
+ 
+<string id="vedma_master">
+	<text>Witch, master</text>
+</string>
+ 
+<string id="nebo_novice">
+	<text>Master, novice</text>
+</string>
+ 
+<string id="nebo_experienced">
+	<text>Master, experienced</text>
+</string>
+ 
+<string id="nebo_veteran">
+	<text>Master, veteran</text>
+</string>
+ 
+<string id="nebo_master">
+	<text>Master, master</text>
+</string>
+ 
+<string id="strela_novice">
+	<text>Military, novice</text>
+</string>
+ 
+<string id="strela_experienced">
+	<text>Military, experienced</text>
+</string>
+ 
+<string id="strela_veteran">
+	<text>Military, veteran</text>
+</string>
+ 
+<string id="strela_master">
+	<text>Military, master</text>
+</string>
+ 
+<string id="item_trupak">
+	<text>Partially decomposed corpse of Ghost</text>
+</string>
+
+
+ 
+<string id="enc_zone_artifact_af-medusa_d">
+	<text>%c[255,255,255,255] Radiation %c[255,255,1,1] 3 \n %c[255,255,255,255] Bullet Resistance %c[255,1,255,1] 2 %\n\n %c[255,224,224,160] artifact resulting in anomalies ' Springboard. ' It is a compressed and intricately curved strong gravity remains of plants and foliage. When worn on a belt artifact shows little effect of the protective field that reduces damage from small arms. Slightly radioactive. Sale price is low because of the far-reaching enough. The interest in the artifact exhibit scientific organizations. %c[default]</text>
+</string>
+ 
+<string id="enc_zone_artifact_af-cristall-flower_d">
+	<text>%c[255,255,255,255] Radiation %c[255,255,1,1] 5 \n %c[255,255,255,255] Bullet Resistance %c[255,1,255,1] 4 %\n\n %c[255,224,224,160] is born in the anomaly 'Springboard' . This artifact can be found in a few areas of the Zone. Specks of metallic compounds give a beautiful play of light. Examining this artifact near the campfire at night remarkably calm. %c[default]</text>
+</string>
+ 
+<string id="enc_zone_artifact_af-night-star_d">
+	<text>%c[255,255,255,255] Radiation %c[255,255,1,1] 10 \n %c[255,255,255,255] Bullet Resistance %c[255,1,255,1] 6 %\n\n %c[255,224,224,160] Artifact, rarely resulting in anomalies 'Springboard.' Education with a beautiful mirrored surface and colored phosphorescent highlights. At night illuminate a greenish light all around you within 1-2 meters, for which he received such a name for stalkers. It is a compressed and intricately curved strong gravity remains of plants, soil and anything else that gets in the close proximity of the anomaly. When worn on a belt artifact shows the effect of the protective field that reduces damage from small arms. But it is an artifact of highly radioactive, so long wearing contraindicated. Sale price is very high. The interest in the artifact exhibit scientific organizations and the military. %c[default]</text>
+</string>
+ 
+<string id="enc_zone_artifact_af-vyvert_d">
+	<text>%c[255,255,255,255] Radiation %c[255,255,1,1] 3 \n %c[255,255,255,255] Beat %c[255,1,255,1] 2 %\n %c[255,255,255,255] gap %c[255,1,255,1] 2 %\n\n %c[255,224,224,160] artifact resulting in anomalies 'Funnel'. It is a compressed and intricately curved strong gravity remains of plants, soil, and other small objects that fall within the close proximity of the anomaly. When worn on the belt a little artifact increases immune to the effects of gravity anomalies, such as a 'springboard' and increased protection against attacks of animals (from cuts). Sale price is low because of the far-reaching enough. The interest in the artifact exhibit scientific organizations. %c[default]</text>
+</string>
+ 
+<string id="enc_zone_artifact_af-gravi_d">
+	<text>%c[255,255,255,255] Radiation %c[255,255,1,1] 5 \n %c[255,255,255,255] Beat %c[255,1,255,1] 5 %\n %c[255,255,255,255] gap %c[255,1,255,1] 5 %\n\n %c[255,224,224,160] A beautiful artifact, resulting in anomalies 'Funnel'. It is a compressed and intricately curved strong gravity remains of plants, soil and anything else that gets in the close proximity of the anomaly. When worn on a belt artifact increases immune to the effects of gravity anomalies, such as a 'springboard' and increased protection against attacks of animals (from cuts). Sale price and the probability of the average. The interest in the artifact exhibit scientific organizations, collectors and jewelers. %c[default]</text>
+</string>
+ 
+<string id="enc_zone_artifact_af-gold-fish_d">
+	<text>%c[255,255,255,255] Radiation %c[255,255,1,1] 10 \n %c[255,255,255,255] Beat %c[255,1,255,1] 8 %\n %c[255,255,255,255] gap %c[255,1,255,1] 8 %\n\n %c[255,224,224,160] Artifact, rarely appearing in the anomaly 'Funnel'. Beautiful formation with a smooth surface. At night, lights up the space around them within a radius of 1-2 meters. It is a compressed and intricately curved metal strong gravity with a mixture of everything that generally falls to the anomaly at the time of discharge. When worn on a belt artifact increases immune to the effects of gravity anomalies, such as a 'springboard' and increased protection against attacks of animals (from cuts). Sale price is very high. The interest in the artifact exhibit scientific organizations, collectors and jewelers. %c[default]</text>
+</string>
+ 
+<string id="enc_zone_artifact_af-drops_d">
+	<text>%c[255,255,255,255] Radiation %c[255,1,255,1] -5 \n %c[255,255,255,255] Endurance %c[255,255,1,1] -73 \n\n %c[255,224,224,160] artifact that appears next to the anomaly 'hot.' Small teardrop-shaped formation with cracked glossy surface. Stalkers say that wearing this artifact is reduced radiation levels in the body, but due to the strong heat worsens endurance. Price low. The interest in the artifact exhibit collectors and jewelers. %c[default]</text>
+</string>
+ 
+<string id="enc_zone_artifact_af-fireball_d">
+	<text>%c[255,255,255,255] Radiation %c[255,1,255,1] -10 \n %c[255,255,255,255] Endurance %c[255,255,1,1] -36 \n\n %c[255,224,224,160] artifact often found near anomalies 'hot.' A semi-transparent reddish spherical formation. Stalkers say that wearing the artifact reduces the level of radiation in the body. But due to strong heat worsens endurance. The price is average. The interest in the artifact exhibit collectors and jewelers. %c[default]</text>
+</string>
+ 
+<string id="enc_zone_artifact_af-cristall_d">
+	<text>%c[255,255,255,255] Radiation %c[255,1,255,1] -15 \n %c[255,255,255,255] Endurance %c[255,255,1,1] -27 \n\n %c[255,224,224,160] artifact is extremely rare to find near the anomaly 'hot.' Its name accurately describes the shape of the artifact - a large crystal iridescent reddish color. Stalkers say that when it is worn significantly reduced the level of radiation in the body. But, alas, the artifact does not help endurance. The price is high. The interest in the artifact exhibit scientific organizations. %c[default]</text>
+</string>
+ 
+<string id="enc_zone_artifact_af-blood_d">
+	<text>%c[255,255,255,255] Health %c[255,1,255,1] 100 %\n %c[255,255,255,255] Radiation %c[255,1,255,1] -3 \n %c[255,255,255,255] Beat %c[255,255,1 , 1] -3 %\n %c[255,255,255,255] gap %c[255,255,1,1] -3 %\n %c[255,255,255,255] Radiation %c[255,1,255,1] 3 %\n\n %c[255,224,224,160] artifact resulting anomalies in 'Whirligig.' Is an ugly reddish formation of pressed and intricately curved polymerized residues of plants, soil, flesh and bones of the victims of stalkers and mutants. When worn on a belt artifact mysteriously slightly accelerates the healing of wounds. At the same time uhudschaetsya resistance to physical damage. Stalkers have a belief that this artifact is power lost in the anomaly of people. Sale price is low because of the far-reaching enough. The interest in the artifact exhibit doctors and all sorts of religious cults. %c[default]</text>
+</string>
+ 
+<string id="enc_zone_artifact_af-mincer-meat_d">
+	<text>%c[255,255,255,255] Health %c[255,1,255,1] 200 %\n %c[255,255,255,255] Radiation %c[255,1,255,1] -5 \n %c[255,255,255,255] Beat %c[255,255,1 , 1] -5 %\n %c[255,255,255,255] gap %c[255,255,1,1] -5 %\n %c[255,255,255,255] Radiation %c[255,1,255,1] 5 %\n\n %c[255,224,224,160] artifact resulting anomalies in 'Whirligig.' Is an ugly yellowish formation of pressed and intricately curved polymerized residue of the flesh and bones of dead creatures. When worn on a belt artifact mysteriously slightly accelerates the healing process. Stalkers have a belief that this artifact is power lost in the anomaly of people. At the same time uhudschaetsya resistance to physical damage. Sale price and the probability of the average. The interest in the artifact exhibit doctors and all sorts of religious cults. %c[default]</text>
+</string>
+ 
+<string id="enc_zone_artifact_af-soul_d">
+	<text>%c[255,255,255,255] Health %c[255,1,255,1] 300 %\n %c[255,255,255,255] Radiation %c[255,1,255,1] -10 \n %c[255,255,255,255] Beat %c[255,255,1 , 1] -7 %\n %c[255,255,255,255] gap %c[255,255,1,1] -7 %\n %c[255,255,255,255] Radiation %c[255,1,255,1] 10 %\n\n %c[255,224,224,160] Very rare artifact, resulting in anomalies 'Whirligig.' It is a yellowish-red, brilliant education of pressed and intricately curved polymerized residue of living for fresh flesh. Stalkers have a belief that this artifact signed anomalies in the souls of the dead people. When worn on a belt artifact mysteriously within seconds fully restored health. At the same time, much worse resistance to physical povrezhdeniyam.Tsena sales are very high. Basically artifact appears in the anomalies, which absorb a large number of organic objects. The interest in the artifact exhibit doctors and all sorts of religious cults. %c[default]</text>
+</string>
+ 
+<string id="enc_zone_artifact_af-electra-sparkler_d">
+	<text>%c[255,255,255,255] Endurance %c[255,1,255,1] 27 \n %c[255,255,255,255] Electroshock %c[255,255,1,1] -10 %\n %c[255,255,255,255] Radiation %c[255,255,1 , 1] -10 %\n\n %c[255,224,224,160] artifact resulting anomalies in 'Elektra.' A semi-transparent amorphous very easy to education, rarely emitting around a small spark. Wearing an artifact on the belt slightly increases stamina, but it makes a person vulnerable to electricity. The price is average. The interest in the artifact exhibit scientific organizations, collectors and jewelers. %c[default]</text>
+</string>
+ 
+<string id="enc_zone_artifact_af-electra-flash_d">
+	<text>%c[255,255,255,255] Endurance %c[255,1,255,1] 64 \n %c[255,255,255,255] Electroshock %c[255,255,1,1] -10 %\n %c[255,255,255,255] Radiation %c[255,255,1 , 1] -10 %\n\n %c[255,224,224,160] artifact resulting in anomalies 'Elektra.' Easy translucent amorphous formation with flashing rays of light from within, rarely emitting around a small spark. Wearing an artifact on the belt slightly increases stamina, but it makes a person vulnerable to electricity. The price is high. The interest in the artifact exhibit scientific organizations, collectors and jewelers. %c[default]</text>
+</string>
+ 
+<string id="enc_zone_artifact_af-electra-moonlight_d">
+	<text>%c[255,255,255,255] Endurance %c[255,1,255,1] 100 \n %c[255,255,255,255] Electroshock %c[255,255,1,1] -10 %\n %c[255,255,255,255] Radiation %c[255,255,1 , 1] -10 %\n\n %c[255,224,224,160] artifact is rarely detected some anomalies 'Elektra.' Easy translucent amorphous formation with luminous core emits around a small spark. Wearing an artifact on the belt significantly increases endurance. But if it enters the anomaly of 'Elektra' chances of survival for a person wearing this artifact remains low. The price is very high. The interest in the artifact exhibit scientific organizations, collectors and jewelers. %c[default]</text>
+</string>
+ 
+<string id="enc_zone_artifact_af-ameba-slime_d">
+	<text>%c[255,255,255,255] Bleeding %c[255,1,255,1] -66 %\n %c[255,255,255,255] Burn %c[255,255,1,1] -20 %\n %c[255,255,255,255] Chemical burns %c[ 255,255,1,1] -10 %\n\n %c[255,224,224,160] artifact can be found next to the anomaly 'Jellyfish.. It is a translucent jelly-like formation. When worn on a belt artifact decreases the chance of losing a lot of blood with severe injuries, but this increases the vulnerability to any kind of burns. Price low. The interest in the artifact exhibit scientific organizations. %c[default]</text>
+</string>
+ 
+<string id="enc_zone_artifact_af-ameba-slug_d">
+	<text>%c[255,255,255,255] Bleeding %c[255,1,255,1] -133 %\n %c[255,255,255,255] Burn %c[255,255,1,1] -10 %\n %c[255,255,255,255] Chemical burns %c[ 255,255,1,1] -10 %\n\n %c[255,224,224,160] This artifact is most often found near the anomalies 'Jellyfish.. Wearing this translucent jelly-like formation on the belt reduces the risk of losing large amounts of blood with severe injuries, but makes a person vulnerable to any kind of burns. The price is average. The interest in the artifact exhibit scientific organizations. %c[default]</text>
+</string>
+ 
+<string id="enc_zone_artifact_af-ameba-mica_d">
+	<text>%c[255,255,255,255] Bleeding %c[255,1,255,1] -233 %\n %c[255,255,255,255] Burn %c[255,255,1,1] -5 %\n %c[255,255,255,255] Chemical burns %c[ 255,255,1,1] -10 %\n\n %c[255,224,224,160] artifact resulting in anomalies 'Jellyfish.. When worn on a belt artifact decreases the chance of losing a lot of blood with severe injuries, but this increases the vulnerability to any kind of burns. The price is high. The interest in the artifact exhibit scientific organizations. %c[default]</text>
+</string>
+ 
+<string id="enc_zone_artifact_af-dummy-spring_d">
+	<text>%c[255,255,255,255] Beat %c[255,1,255,1] 10 %\n\n %c[255,224,224,160] The origin of the artifact is not known. It is a two hard Doctor.ve, coupled with viscous mucus. He can move independently, making small jumps due to the variable gravitational field. When worn on the belt slightly reduces the likelihood of serious injury or impact. Sale price is very high. The interest in the artifact exhibit scientific organizations. %c[default]</text>
+</string>
+ 
+<string id="enc_zone_artifact_af-dummy-dummy_d">
+	<text>%c[255,255,255,255] Beat %c[255,1,255,1] 4 %\n\n %c[255,224,224,160] The origin of the artifact is not known. Two hard Doctor.ves, linked together by mucus. Artifact slightly reduces damage from all types of gravity anomalies absorbing the shock waves. Sale price is high. The interest in the artifact exhibit scientific organizations. %c[default]</text>
+</string>
+ 
+<string id="enc_zone_artifact_af-dummy-battery_d">
+	<text>%c[255,255,255,255] Electroshock %c[255,1,255,1] 15 %\n\n %c[255,224,224,160] The origin of the artifact is not known. Ribbed excellent education. Very useful artifact for its support. Improves all the characteristics of radiation resistance and susceptibility to electricity. It seems that the artifact amplifies any processes that take place around it. Sale price is enormous. Of particular interest to the artifact exhibit scientific organizations. %c[default]</text>
+</string>
+ 
+<string id="enc_zone_artifact_af-dummy-pellicle_d">
+	<text>%c[255,255,255,255] Chemical burns %c[255,1,255,1] 15 %\n\n %c[255,224,224,160] This artifact is so rare that many researchers are not even aware that such a substance can exist in the wild. Rejects corrosive chemical components. %c[default]</text>
+</string>
+ 
+<string id="enc_zone_artifact_af-dummy-glassbeads_d">
+	<text>%c[255,255,255,255] Bullet Resistance %c[255,1,255,1] 5 %\n\n %c[255,224,224,160] Wonderful artifact, take care of it. It is good because it has only positive quality (unique phenomenon, since only positive effects tend to have absolutes and rare hyper modificationy). Scientists are scratching their gray heads over how these properties can be obtained in the laboratory. Artifact little protection against bullets. Are showing interest in him, perhaps, by all and sundry. %c[default]</text>
+</string>
+ 
+<string id="enc_zone_artifact_af-rusty-thorn_d">
+	<text>%c[255,255,255,255] Radiation %c[255,1,255,1] -5 \n %c[255,255,255,255] Bleeding %c[255,255,1,1] 100 %\n\n %c[255,224,224,160] The artifact is very common to find anomalies near the 'rusty hair.' It outputs radiation from the human body. However, in people with weakened immune systems are also an artifact causes severe bleeding. The price is low. The interest in the artifact exhibit scientific organizations, collectors and jewelers. %c[default]</text>
+</string>
+ 
+<string id="enc_zone_artifact_af-rusty-kristall_d">
+	<text>%c[255,255,255,255] Radiation %c[255,1,255,1] -10 \n %c[255,255,255,255] Bleeding %c[255,255,1,1] 100 %\n\n %c[255,224,224,160] artifact can be found next to the anomaly 'Rusty hair.' It displays radiation from the human body, but at the same time opens the bleeding, so that when wearing this artifact must be careful not to forget about its negative effects. The price is average. The interest in the artifact exhibit scientific organizations, collectors and jewelers. %c[default]</text>
+</string>
+ 
+<string id="enc_zone_artifact_af-rusty-sea-urchin_d">
+	<text>%c[255,255,255,255] Radiation %c[255,1,255,1] -20 \n %c[255,255,255,255] Bleeding %c[255,255,1,1] 100 %\n\n %c[255,224,224,160] artifact often found near of anomalies 'Rusty hair.' It outputs radiation from the human body. However, the continued use of this artifact the person has the risk of losing a lot of blood. The price is high. The interest in the artifact exhibit scientific organizations, collectors and jewelers. %c[default]</text>
+</string>
+ 
+<string id="enc_zone_artifact_af-fuzz-kolobok_d">
+	<text>%c[255,255,255,255] gap %c[255,1,255,1] 4 %\n\n %c[255,224,224,160] artifact of unknown origin. Scientists still can not solve the recipe for this miracle Zone. When worn on the belt increases the body's resistance to tearing. Radioactive. The price is very high. Of particular interest to the artifact exhibit physicians. %c[default]</text>
+</string>
+ 
+</string_table>

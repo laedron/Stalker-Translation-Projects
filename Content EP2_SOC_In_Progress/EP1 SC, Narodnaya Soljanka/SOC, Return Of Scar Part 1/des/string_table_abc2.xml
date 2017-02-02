@@ -1,0 +1,446 @@
+<string_table>
+<!--****************************-->
+<!-- Sleeping Bag -->
+<!--****************************-->
+	<string id="enc_equipment_abc_bag">
+		<text>Gutes Hypnotikum дuЯerst wichtig fьr lange Wanderungen.</text>
+	</string>
+	<string id="abc_bag">
+		<text>Packung Schlaf Tabletten N2</text>
+	</string>
+	<string id="unlimited_time_id">
+		<text>Dauer</text>
+	</string>
+	<string id="one_hour_id">
+		<text>1/4 Tablette</text>
+	</string>
+	<string id="tree_hours_id">
+		<text>1/2 Tablette</text>
+	</string>
+	<string id="nine_hours_id">
+		<text>1 Tablette</text>
+	</string>
+	<string id="sleep_cap_id">
+		<text>Schlafen:</text>
+	</string>
+	<string id="ui_invs_leep_exit">
+		<text>Bin nicht Mьde</text>
+	</string>
+<!--****************************-->
+<!-- ABC Repair Tools -->
+<!--****************************-->
+	<string id="enc_equipment_abc_kit">
+		<text>Werkzeuge Reparatur-Kit von der Firma ABC.</text>
+	</string>
+	<string id="abc_kit">
+		<text>Werkzeugreparatursatz</text>
+	</string>
+	<string id="weapon_repair">
+		<text>Reparatur von Waffen:</text>
+	</string>
+	<string id="automatic_slot">
+		<text>Automatisch</text>
+	</string>
+	<string id="suit_control">
+		<text>Steuerung Des Anzugs:</text>
+	</string>
+	<string id="repair_cap_id">
+		<text>Reparatur Utensilien:</text>
+	</string>
+	<string id="remove_hemelt_id">
+		<text>Helm Abnehmen</text>
+	</string>
+	<string id="add_hemelt_id">
+		<text>Helm Aufsetzen</text>
+	</string>
+	<string id="repair_suit_id">
+		<text>Anzug Reparieren</text>
+	</string>
+	<string id="helmet_removed_id">
+		<text>Helm Reparieren</text>
+	</string>
+	<string id="helmet_added_id">
+		<text>Helm hinzugefьgt</text>
+	</string>
+	<string id="suit_noneedrepair_id">
+		<text>Reperatur nicht Notwendig. Zustand:</text>
+	</string>
+	<string id="suit_repaired_id">
+		<text>Anzug Repariert:</text>
+	</string>
+	<string id="suit_cantrepair_id">
+		<text>Dir fehlt es an Erfahrung und Fдhigkeiten.</text>
+	</string>
+	<string id="weapon_noneedrepair_id">
+		<text>Reperatur nicht Notwendig. Zustand:</text>
+	</string>
+	<string id="weapon_repaired_id">
+		<text>Waffe Repariert:</text>
+	</string>
+	<string id="weapon_cantrepair_id">
+		<text>Dir fehlt es an Fдhigkeiten und Erfahrung.</text>
+	</string>
+	<string id="abc_portal_id">
+		<text>Teleporter</text>
+	</string>
+	<string id="abc_yes_id">
+		<text>Ja</text>
+	</string>
+	<string id="abc_no_id">
+		<text>Nein</text>
+	</string>
+<!--****************************-->
+<!-- Money looting -->
+<!--****************************-->
+<!--**********************************************************-->
+<!-- Enc. Story - BLOW, Portals, Inferno, Chernobyl, Weather  -->
+<!--**********************************************************-->
+	<string id="Blowout-waves">
+		<text>Blowout Welle</text>
+	</string>
+	<string id="enc_blowout_waves-story">
+		<text>"волны ДУНОВЕНИЯ обдува" будет результатом регулярных интервалов при огромные волны энергии психотропных и gravitional подметут через зону, причиняя было вызвано "дуновением из". Reuslt будет аномалия powerfull приходит в форму 5 волн изменяя всю окружающую среду зон почти зона сердечника. \n \n волны может предусматривать все с радиацией, земным стартом для того чтобы сотрясать, вспышки появляется, повороты неба красные, после этого чернота, белизна и много других производят эффект "столб-Duht", которые могут причинить: людские перегласовки, светомаскировки, alucinations и много других неизвестные deadly влияния. \n \n там будет никакое безопасное место для ДУНОВЕНИЯ, некоторые stalkers предпочитают сослаться оно как "нагрузка BLOM"(Big мутантов или обдув мутантов), потому что земной старт, котор нужно сотрясать и модели каждый мутант идут снаружи их пряча мест. дурачок \n \n теми верят то безопасно в плохом подвале, вы можете только быть безопасны в реальных дзотах или подземных тоннелях. Когда ДУНОВЕНИЕ идет случиться, make sure вы иметь пакет anti-radiation, водочки, достаточного ammo и вашего оружия готовых! и не посмотрите к небу, вам смогите стать слепым, только дурачок сделал бы то.</text>
+	</string>
+	<string id="Portals">
+		<text>Portale</text>
+	</string>
+	<string id="enc_portals-story">
+		<text>Аномалия Powerfull может раскрыть портальное к по-разному местам. Stalkers верит что т Portals может быть окном к другому размеру, факция Monolith верит это смогло быть ими дорога к раю и другие говорят что может даже быть стробом Inferno. \n несколько \n испытанное Stalkers сообщало bizarre случаи после того как портальное творение и видело, что bizarre твари приходят от его, но никакие видели миф Inferno, возможно потому что те которые увидели, никогда come back. \n \n осведомленно, что-нибыдь может прийти от портального.</text>
+	</string>
+	<string id="Inferno">
+		<text>Inferno</text>
+	</string>
+	<string id="enc_inferno-story">
+		<text>Dieser Mythos wurde 1986 geboren, gleich nach der ersten Atomkatastrophe von Tschernobyl.\n \nIn Ukrainianischer Sprache ist Chernobyl der Name von wormwood (Wermut). Dieses Wort zeugt von der grossen Glдubigkeit der Bevцlkerung. Ein Teil der  dieser vorwiegend religiцsen Leute liegt im biblischen Buch der Offenbarung - welches das Ende der Welt verkьndet ...\n \nREV 8:10 And the third angel sounded, and there fell a great star from heaven, burning as it were a lamp, and it fell upon the third part of the rivers, and upon the fountains of waters;\n \nREV 8:11 And the name of the star is called Wormwood: and the third part of the waters became wormwood; and many men died of the waters, because they were made bitter.\n \ndaher ist die Tatsache, dass religiцses Stalkers glaubt, dass die "Hцlle gemacht aka Inferno Mann" seit 1986 since then, viele Menschen gesehen und bizzare Dinge, von Geistern und Verдnderungen "tote Wanderer" und die Leute des Tieres glaubt, es wird becuae, zum Inferno hier.\nenc_inferno-story</text>
+	</string>
+	<string id="Story-1986">
+		<text>Das Jahr 1986</text>
+	</string>
+	<string id="enc_disaster-story">
+		<text>Am Freitag Abend den 25. April 1986 bereitete die Reaktor Mannschaft von Chernobyl-4 einen Test fьr den nдchsten Tag vor um zu sehen wie lange die Turbinen sich noch drehen und Strom produzieren wenn es keine Energiezufuhr mehr gibt. Es war ein gefдhrlicher Test, aber er wurde auch schon frьher ausgefьhrt. Als einen Teil der Vorbereitungen manipulierten sie einige kritische Kontrollsysteme - inclusive der automatischen Sicherheitsabschaltung.\n \nKurz nach 1:00 Uhr in der Nacht am 26. April, entwich ein Teil des Kьhlwassers und die Temperatur fing an zu steigen.\n \nUm 1:23 in der Nacht begann der Operator damit den Reaktor in den Low Power Modus herunterzufahren und ein Dominoeffekt vorhersehbarer Fehler setzte sich wie eine Woge fort. Eine schreckliche Explosion, die die 1000 Tonnen schwere Reaktorkuppel emporschleuderte!\n \nEinige der 211 Kontrollinstrumente schmolzen und dann eine zweite Explosion, welche das Unverstдndnis der Experten hervorrief. Durch diese Explosion wurde ermцglich dass radioaktives Цl austritt und Luft eintritt. Mehrere Tonnen graphithдltiger Isolierblцcke entzьnden sich.\n \nWenn Graphin einmal zu brennen beginnt ist es immer schwer es wieder zu lцschen. Es dauerte neun Tage und es wurden ca. 5000 Tonnen Sand, Bor, Dolomit und Lehm verbraucht die von Hubschraubern aus abgeworfen wurden, um den Brand zu lцschen. Die Radioaktive Strahlung war so hoch dass viele der tapferen Piloten starben.\n \nEs war dieses brennende Graphit, das es so hoher Radioaktivitдt ermцglichte in die Atmosphдre zu gelangen und dass es auch noch viele tausend km entfernt im Ausland gemessen werden konnte.\n \nDer Vorfall ist nur durch eine Reihe falscher menschlicher Reaktionen und der unvollkommenen Technologie erklдrbar.\n \nIn Beibehaltung der langjдhrigen Tradition des sowjetischen Rechts wurden alle Personen inhaftiert die in dieser Schicht arbeiteten.\n \nSogar der Mann, der in letzter Sekunde diese Kettenreaktion verhindern wollte wurde zu 14Jahren Gefдngnis verurteilt. Er starb 3 Wochen nach dem Urteil!\n \nRadioaktivitдt wird es die nдchsten 48.000 Jahre in Chernobyl geben, aber die Menschheit kann schon nach 600 Jahren damit beginnen die Gegend wieder zu besiedeln. - plus/minus 3 Jahrhunderte. Die Experten sagen das sich dann die meisten gefдhrlichen Elemente abgebaut haben werden. - oder sich kontinuierlich in der restlichen Atmosphдre, dem Boden und dem Wasser verteilt haben werden. Wenn es unserer Regierung irgendwie mit finanziellen und politischen Mitteln gelingt, ist es sicher frьher mцglich die Contaminationen zu bereinigen. Andernfalls haben unsere weit entfernten Nachkommen darauf zu warten dass sich die Radioaktivitдt zu einem ertrдglichen Mass zurьckbildet. Wenn wir die kьrzeste Zeitspanne annehmen sind das 300 Jahre ... einige Wissenschaftler sagen es wird lдnger als 900 Jahre dauern.</text>
+	</string>
+	<string id="Chaotic">
+		<text>Chaotisches Wetter</text>
+	</string>
+	<string id="enc_weather-story">
+		<text>Должно волны обдува и массивнейшая радиация в атмосфере, погода в зоне стали вполне хаотическими, один час это смогло быть совершенным ясным небом и в следующем часе это смогло быть весьма штормом, вы можете испытать маленькие светомаскировки и белый шум во время тех изменяет.</text>
+	</string>
+<!--****************************-->
+<!-- Cabrobro NPC 				-->
+<!--****************************-->
+	<string id="esc_speed_bio">
+		<text>Dimon kam in die Zone, um seinen Vater zu finden.</text>
+	</string>
+	<string id="esc_speed_name">
+		<text>Dimon</text>
+	</string>
+<!--****************************-->
+<!-- Wish Granter				-->
+<!--****************************-->
+	<string id="abc_wish_desire_1">
+		<text>Ich mцchte, dass die Zone verschwindet.</text>
+	</string>
+	<string id="abc_wish_desire_2">
+		<text>Ich mцchte reich sein.</text>
+	</string>
+	<string id="abc_wish_desire_3">
+		<text>Ich will die Welt beherrschen.</text>
+	</string>
+	<string id="abc_wish_desire_4">
+		<text>Die Menschheit muss kontrolliert werden.</text>
+	</string>
+	<string id="abc_wish_desire_5">
+		<text>Ich will Unsterblichkeit.</text>
+	</string>
+	<string id="abc_wish_desire_6">
+		<text>Ich will die perfekte Ausrьstung.</text>
+	</string>
+	<string id="abc_wish_desire_7">
+		<text>Ich will ein perfektes Artefakt.</text>
+	</string>
+	<string id="abc_wish_granter">
+		<text>Wunschgцnner</text>
+	</string>
+	<string id="abc_wish_speak">
+		<text>Nur ein Wunsch am Tag ist erlaubt</text>
+	</string>
+	<string id="abc_no_desire">
+		<text>OK, ich komme spдter wieder.</text>
+	</string>
+	<string id="abc_wish_granter">
+		<text>Желание Granter</text>
+	</string>
+	<string id="abc_wish_granted">
+		<text>Опасность 1-го уровня</text>
+	</string>
+	<string id="abc_wish_remember">
+		<text>Сработал телепорт - "Y"</text>
+	</string>
+	<string id="abc_wish_vendetta_1">
+		<text>Нет, вы одни должно исчезнуть.</text>
+	</string>
+	<string id="abc_wish_vendetta_3">
+		<text>Нет, нас много и мы идем управлять вами.</text>
+	</string>
+	<string id="abc_wish_vendetta_4">
+		<text>Mankind уже controlled и поэтому вы будете.</text>
+	</string>
+	<string id="abc_wish_vendetta_5">
+		<text>Взятие оно твоим, я дает вам бессмертную армию.</text>
+	</string>
+<!--****************************-->
+<!-- Nano Artifact Upgrade -->
+<!--****************************-->
+	<string id="suit-power-upgrade">
+		<text>Lifting Force</text>
+	</string>
+	<string id="suit-power-upgrade_desc">
+		<text>High-tech artifact Nano: Increase power suit.</text>
+	</string>
+	<string id="suit-health-upgrade">
+		<text>Ascent Health</text>
+	</string>
+	<string id="des-health-upgrade">
+		<text>High-tech Nano Artifact: Erhцht die Zell Regeneration.</text>
+	</string>
+	<string id="suit-kev1-upgrade">
+		<text>Kevlar Verstдrkung 10%</text>
+	</string>
+	<string id="des-kev1-upgrade">
+		<text>High-tech Nano Artifakt: Verstдrkt den Kevlar um +10%.</text>
+	</string>
+	<string id="suit-kev2-upgrade">
+		<text>Kevlar Verstдrkung 20%</text>
+	</string>
+	<string id="des-kev2-upgrade">
+		<text>High-tech Nano Artifakt: Verstдrkt den Kevlar um +20%.</text>
+	</string>
+	<string id="suit-kev3-upgrade">
+		<text>Kevlar Verstдrkung 30%</text>
+	</string>
+	<string id="des-kev3-upgrade">
+		<text>High-tech Nano Artifakt: Verstдrkt den Kevlar um +30%.</text>
+	</string>
+<!--****************************-->
+<!-- 	Artifacts				-->
+<!--****************************-->
+	<string id="af-electra-teleport">
+		<text>Чёрная дыра</text>
+	</string>
+	<string id="enc_zone_artifact_af-electra-teleport">
+		<text>%c[255,255,255,255]Strahlung:%c[255,255,255,255]Gesundheit:%c[255,255,255,255]Ausdauer:%c[255,255,255,255]Elektrizitдt:%c[255,255,255,255]Verдtzung:%c[255,255,255,255]Aufprall:%c[255,255,255,255]ReiЯer:%c[255,255,255,255]Panzerkappe:%c[255,224,224,160]Das Artefakt "Portal" ist ein Anomalie erzeugendes Artefakt das ein sogennantes Schwarzes Loch erzeugt. Es ist nicht sehr stabil. Stalker gaben ihm den Namen "Black Hole". Weil einige Stalker verschwanden sobald sie durchgingen. Das Artefakt selbst ist in der Wissenschaft ist noch nicht sehr weit erforscht. Man weiЯ, kann es aber noch nicht erklдren, es baut eine verbindung zu einem anderen Portal auf. Wie diese Verbindung ensteht ist man noch dabei das zu erforschen%c[default]</text>
+	</string>
+	<string id="af-repair-battery">
+		<text>Batterie "Akku" Reparatur</text>
+	</string>
+	<string id="enc_zone_artifact_af-repair-battery">
+		<text>The beginning of this subject shrouded in scientific mystery. It is clear that it is made in terms of dielectric elements, but science does not know the physical conditions in which it was formed, one of insteresting properties that it can repair weapons and suits.</text>
+	</string>
+	<string id="af_wish-granter">
+		<text>"Wunsch Gцnner"</text>
+	</string>
+	<string id="des_wish-granter">
+		<text>%c[255,255,255,255]Strahlung:%c[255,255,255,255]Gesundheit:%c[255,255,255,255]Ausdauer:%c[255,255,255,255]Elektrizitдt:%c[255,255,255,255]Verдtzung:%c[255,255,255,255]Aufprall:%c[255,255,255,255]ReiЯer:%c[255,255,255,255]Panzerkappe:%c[255,224,224,160]Das Artefakt "Wunsch Gцnner". Perfekt fьr Unterwegs das jeden Wunsch erfьllt.%c[default]</text>
+	</string>
+<!--****************************-->
+<!-- 	ABC News and Zombied    -->
+<!--****************************-->
+	<string id="abc_bar_news">
+		<text>Anzeige/Werbung: Von einem Streifzug zurьckkehrt? Dann  kommen SIE jetzt in die Bar. Zum Entspannen und Erholen. Alle Preise um 30% reduziert. Solange der Vorrat reicht!!! </text>
+	</string>
+	<string id="abc_gar_news">
+		<text>Hцrt ihr mich? ... Vorsicht an alle. Auf der Mьllhalde ist ein Unbekannter Gegner erschienen. </text>
+	</string>
+	<string id="abc_agr_news">
+		<text>An alle Einzelgдnger ... Stalker ... Vorsicht. Bei der Forschungs- Station in Agroprom erschien ein Unbekannter Gegener. </text>
+	</string>
+	<string id="abc_dar_news">
+		<text>Scar? ... In Dark Valley gibt es einen weiteren Banditen Clan. </text>
+	</string>
+	<string id="abc_ros_news">
+		<text>An die Zone: Von Rostock ausgehend gibt es eine Viren Infektion  die Sexuell ьbertragbar ist. Warnung an die Fraktion "Hexen".</text>
+	</string>
+	<string id="abc_brain_news">
+		<text>Stalker Scar! Unser Labor wurde Infiltriert. Es schein das einer unser Mitarbeiter nicht Sauber ist. Wir wurde darьber in Kennntis gesetzt das einer unserer PSI Schutz protypen an andere Fraktionen verkauft wurde!! </text>
+	</string>
+	<string id="abc_rad_news">
+		<text>Achtung an alle! In Radar erschien eine grosse Anzahl feindlicher Gruppen.</text>
+	</string>
+	<string id="abc_bun_news">
+		<text>Scar! In X-10, sind ausser die "Monolithen", ist das noch jemand erschien. Vorsicht!</text>
+	</string>
+	<string id="abc_pri_news">
+		<text>Brьder! Tod den Unglдubigen!  Ruhm und Ehre fьr die Monolithen.</text>
+	</string>
+	<string id="abc_pry_news">
+		<text>Macht euch bereit und schickt die "Hexen" auf den Scheiterhaufen! </text>
+	</string>
+	<string id="abc_sar_news">
+		<text>Brьder! Zeigt dem es dem Unglдubigen Gesindel! Ruhm fьr die Monolithen.</text>
+	</string>
+	<string id="abc_mil_news">
+		<text>Die Pflicht ruft. Helft uns gegen die Mutanten.</text>
+	</string>
+	<string id="fre_abc_reply">
+		<text>Hey Wirt. Danke fьr die Gastfreundschaft.</text>
+	</string>
+	<string id="dol_abc_reply">
+		<text>Fьr Ruhm und Ehre. Danke Wirt. Die Zeit wird kommen..</text>
+	</string>
+	<string id="ban_abc_reply_2">
+		<text>ДОЛГ, РИСУЙТЕ НОГИ СО СВАЛКИ..\nDEBT draw FEET from the landfill...\nban_abc_reply_2</text>
+	</string>
+	<string id="ban_abc_reply_3">
+		<text>КРОТ, ЗАРОЙСЯ ЛУЧШЕ..\nMOLE, ZAROYSYA better...\nban_abc_reply_3</text>
+	</string>
+	<string id="ved_abc_reply_11">
+		<text>КОЗЛЫ! УРОДЫ! ВЕШАЙТЕСЬ..\nGOATS! Scary! We hang...\nved_abc_reply_11</text>
+	</string>
+	<string id="mon_abc_reply_11">
+		<text>Tod den "Hexen"!</text>
+	</string>
+	<string id="mil_abc_reply_11">
+		<text>Verdammt sollen diese Schlampen seien... Lasst die Hexen nicht vorbei.</text>
+	</string>
+	<string id="kil_abc_reply_11">
+		<text>Lцscht die Stalker aus.</text>
+	</string>
+	<string id="dol_abc_reply_11">
+		<text>ВАЛИТЕ САМИ УРОДЫ!\nBring down SAMI freak!\ndol_abc_reply_11</text>
+	</string>
+	<string id="ban_abc_reply_11">
+		<text>ВАЛИТЕ САМИ УРОДЫ!!\nBring down SAMI freak!\nban_abc_reply_11</text>
+	</string>
+	<string id="ved_abc_reply_3">
+		<text>КОЗЛЫ! УРОДЫ! ВЕШАЙТЕСЬ..</text>
+	</string>
+	<string id="kil_abc_reply_3">
+		<text>ГАСИ ВОЯК....</text>
+	</string>
+	<string id="ban_abc_reply_5">
+		<text>ТЫ ЧО ВОРОНА ГУНДОСИШЬ! ПРИДЁМ В БАР,И НАТОЛКАЕМ ТЕБЕ В ГУДОК ЖЁСТКИХ ДИСКОВ, ФЛЕШЕК И ТВОЙ ЛИЧНЫЙ ПДА!\nDU MIT KRДHE ГУНДОСИШЬ! KOMMEN IN DIE BAR,UND НАТОЛКАЕМ DIR IN DEN PIEP FESTPLATTEN, FLASH-LAUFWERKE UND DEIN PERSЦNLICHES PDA!\nban_abc_reply_5</text>
+	</string>
+	<string id="ban_abc_reply_8">
+		<text>Э, ФРАЕРА МОНОЛИТОВСКИЕ? ВАШЕ ДАВЛЕНИЕ ИСТЕКЛО! ВАЛИТЕ!</text>
+	</string>
+	<string id="ban_abc_reply_6">
+		<text>Э, ПРОФЭССОР! ТЫ НАМ ПСИ ЗАЩИТУ ПРИГОТОВИЛ? ЕСЛИ НЕТ, ТОГДА МЫ НА ТЕБЕ САМИ БУДЕМ ПРОВОДИТЬ ОПЫТЫ!</text>
+	</string>
+	<string id="ban_abc_reply_7">
+		<text>Э, ПРОФЭССОР! ТЫ ЧО НАМ ПАРИЛ,ЧТО ПСИ ЗАЩИТЫ НЕТ? А У ТВОИХ ГОБЛИНОВ ПОЧЕМУ ТО ЕСТЬ! ПОЧЕМУ НЕ НАСТРОЕНЫЙ? ЕСЛИ КТО ИЗ НАС ОБЕРНЁТСЯ В ЗОМБЯ, ТО МЫ ИЗ ТЕБЯ И ТВОИХ ФУФЛЫЖНИКОВ СДЕЛАЕМ ЗОМБЕЙ ТОЛЬКО БЕЗ РУК И НОГ! ТЫ ПОНЯЛ ПРОФЭССОР?</text>
+	</string>
+	<string id="abc_zat_news">
+		<text>Vorsicht, Scar!</text>
+	</string>
+	<string id="ved_abc_reply_55">
+		<text>Jemand in das Gebit eingedrungen. Findet ihn.</text>
+	</string>
+	<string id="mon_abc_reply_3">
+		<text>ВСЕМ ХАНА! МОНОЛИИИИИИИИИИИИИТ!</text>
+	</string>
+	<string id="ved_abc_reply_5">
+		<text>БАРМЕН! СКОРО БУДЕТ ТЕБЕ ВАРФАЛАМЕЕВСКАЯ НОЧЬ, ВИСЕТЬ БУДЕШЬ....</text>
+	</string>
+	<string id="mil_abc_reply_5">
+		<text>ТЫ ТРУП БАРМЕН! СКОРО ДО ТЕБЯ ДОБЕРЁМСЯ!</text>
+	</string>
+	<string id="ved_abc_reply_7">
+		<text>DU BIST EIN TOTER WISSENSCHAFTLER..DU BIST EIN ZOMBIE...</text>
+	</string>
+	<string id="ved_abc_reply_8">
+		<text>ДОРОГУ ВЕДЬМАМ..ХАНА МОНОЛИТУ!..</text>
+	</string>
+	<string id="mil_abc_reply_8">
+		<text>ВАЛИ СУК МОНОЛИТОВСКИХ!</text>
+	</string>
+	<string id="dol_abc_reply_8">
+		<text>МОНОЛИТУ ПИ...ДЕЦ!</text>
+	</string>
+	<string id="dol_abc_reply_1">
+		<text>СИДОРОВИЧ! НЕ ССЫ СВОИ!</text>
+	</string>
+	<string id="abc_news_zombied">
+		<text>Ach du scheiЯe! Scar ist ein Zombie</text>
+	</string>
+	<string id="abc_need_anti">
+		<text>Ich habe das Gegenmittel!</text>
+	</string>
+	<string id="abc_need_anti_money">
+		<text>Ich geb dir das "Antizombin" fьr 15.000 Rubel.</text>
+	</string>
+	<string id="abc_give_anti">
+		<text>Was fьr ein Halsabschneider, ok ... gib her das zeug.</text>
+	</string>
+	<string id="abc_give_anti_nope">
+		<text>Puhh.. Sieht im Moment ein bisschen mau aus. Spдter. Ok.</text>
+	</string>
+	<string id="yantar_general_ucheniy_story_0">
+		<text>Были Хозяины, да сплыли, так что можете не волноваться, правда двери разнесло и улетели неизвестно куда. Взрыв был мощный подобный атомному, слава богу вы живы остались. Вы знали Стрелка?\nyantar_general_ucheniy_story_0\nstring_table_abc2.xml</text>
+	</string>
+	<string id="yantar_general_ucheniy_story_1">
+		<text>Да уж, трехануло меня в соседнюю комнату. Хорошо ещё бункер надёжный, а двери, придёться заказывать. \nСтрелка год назад все узнали. А Вам Сидорович рассказывал?</text>
+	</string>
+	<string id="yantar_general_ucheniy_story_2">
+		<text>Нет. От него только ехидные воспоминания о Стрелке, и больше ничего.</text>
+	</string>
+	<string id="yantar_general_ucheniy_story_22">
+		<text>Так что Вы хотите узнать?</text>
+	</string>
+	<string id="yantar_general_ucheniy_story_23">
+		<text>Как он, отключил выжигатель мозгов?</text>
+	</string>
+	<string id="yantar_general_ucheniy_story_24">
+		<text>Да, он отключил не только выжигатель мозгов, но и установку, что находится в лаборатории Х-16, но позже оказалось зря.</text>
+	</string>
+	<string id="yantar_general_ucheniy_story_25">
+		<text>А почему зря?</text>
+	</string>
+	<string id="yantar_general_ucheniy_story_26">
+		<text>Стрелок сначала отключил установки, что находятся в Х-16, нашёл там погибшего друга, сталкера по прозвищу "Призрак", так же видеозапись, оставленную другом, и тем не менее этим вернул себе память, которую потерял он 2-мя годами назад, проникнув к центру зоны...Вот, отключив установки, он нам сильно помог и мы его поддержали чем могли. Далее ему удалось отключить выжигатель мозгов в лаборатории Х-10 на Радаре, и тем самым заработал у всех кланов сталкерский авторитет, и у военных в том числе.</text>
+	</string>
+	<string id="yantar_general_ucheniy_story_27">
+		<text>Дальше.</text>
+	</string>
+	<string id="yantar_general_ucheniy_story_28">
+		<text>Дальше, о его судьбе ничего не слыхивал. Полгода назад все заговорили о новом жестоком клане, с которым вам Шрам удалось уже встретиться. Сначала думали просто слухи, и Яна Марковна не верила в это. Говорил ей,- не летай в Затон, но она упёртая. Боюсь за неё. Что сейчас будет с ней? </text>
+	</string>
+	<string id="yantar_general_ucheniy_story_29">
+		<text>Жену захватили в заложники не здесь?</text>
+	</string>
+	<string id="yantar_general_ucheniy_story_291">
+		<text>Нет не здесь. Яна работала в Затоне последние полгода и однажды мне пришло сообщение, что она захвачена. Мне было сказано, даже тяжко вспоминать, что если я сбегу или просто откажусь на этих Хозяинов работать, то они будут присылать мне Яну по кусочкам, и тем самым мне пришлось отдать им все ключи от янтаря, т.е. большенство научных формул. Их цель как я подумал сразу - это получить максимальную защиту от зоны и зону расширить за пределы возможности. Тем не менее им удалось запустить установки заново. С выжигателем мозгов пока у них ничего не вышло, но боюсь они его вот-вот запустят по новой. А вы что, знали Стрелка?</text>
+	</string>
+	<string id="yantar_general_ucheniy_story_292">
+		<text>Вот те на!!! Мне предстоит заново пройти путь Стрелка. Я виноватым себя чуствую перед ним. 2 года назад я будучи наёмником гнался по пятам Стрелка, и моя задача была его достать любой ценой и на ЧАЭС догнал, а теперь...Ладно профессор, чем смогу, тем помогу. Вдруг удастся освободить вашу жену? Главное не падать духом и верить профессор.</text>
+	</string>
+	<string id="yantar_general_ucheniy_story_33">
+		<text>Хочется верить. Да, чуть не забыл. Запишу вам в ПДА рецептик один, обязательно прочтите.</text>
+	</string>
+	<string id="yantar_general_ucheniy_story2_0">
+		<text>Профессор, мне нужно знать, есть ли способы лечения рака крови, и что вам об этом известно?</text>
+	</string>
+	<string id="yantar_general_ucheniy_story2_1">
+		<text>Для чего вам это? Что-то новенькое - наёмник интересуется лечением таких болезней....</text>
+	</string>
+	<string id="yantar_general_ucheniy_story2_2">
+		<text>Дочь больна. Пойми Проф, очень нужно! Я уже перебрал все способы, но ничего не помогает, а сколько продержусь в Зоне - кто может сказать... На меня и так охоту открыли, а дочь, без моей помощи умрет. Сейчас она в Германии, но денег кучу надо. Лебедев намекнул о сталкере, который избавился от злосчастной болезни как у моей дочери, прямо в зоне.</text>
+	</string>
+	<string id="yantar_general_ucheniy_story2_3">
+		<text>Хорошо, хорошо! Не нервничайте. Был один случай, но сам я с этим сталкером не общался, и как зовут, к сожалению не запомнил. Мне о нем рассказывал торговец Скряга - свободовец. Дескать этого сталкера загнали в район аномалий стая кабанов. Он возвращался из рейда, и артефакты с собой были. Кончились патроны, ну он в панике, навешал на себя все арты и попер через аномалии, мол так и так помирать, но через аномалии есть шанс пройти. И вы не поверите, Шрам, но он прошёл!</text>
+	</string>
+	<string id="yantar_general_ucheniy_story2_4">
+		<text>Проф, это конечно интересно, но я о другом спрашивал!..</text>
+	</string>
+	<string id="yantar_general_ucheniy_story2_5">
+		<text>Да, да, Шрам! Я и подвожу вас к тому, о чём вы спросили. У этого сталкера тоже был рак крови, но после этого происшествия он пошёл на поправку.</text>
+	</string>
+	<string id="yantar_general_ucheniy_story2_6">
+		<text>Понятно, только пока плохо представляю, как мне это использовать?</text>
+	</string>
+	<string id="yantar_general_ucheniy_story2_7">
+		<text>Шрам, вы разыщите этого сталкера, и распросите его подробно: какие арты, какие аномалии он прошел. В идеале конечно, было бы лучше мне самому с ним побеседовать, и провести обследования, но если не получится его уговорить придти ко мне, то хотя бы расспросить... Получите информацию, Шрам, и сразу ко мне, а я попытаюсь смоделировать схожую ситуацию. Для начала спросите у Скряги, где искать этого сталкера.</text>
+	</string>
+	<string id="yantar_general_ucheniy_story2_8">
+		<text>Ладно, спасибо и на этом. Спрошу Скрягу при встрече...</text>
+	</string>
+</string_table>

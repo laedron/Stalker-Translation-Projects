@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+	<string_table>
+		<string id="list_trader_repair_0">
+			<text>Kosten der Waffenreparatur im Slot 1: </text>
+		</string>
+		<string id="list_trader_repair_1">
+			<text>Kosten der Waffenreparatur im Slot 2: </text>
+		</string>
+		<string id="list_trader_repair_2">
+			<text>Kosten der Anzug-Reparatur: </text>
+		</string>
+<!--********************************-->
+<!-- Sidorovich Repair dialog start -->
+<!--********************************-->
+		<string id="escape_trader_repair_0">
+			<text>Sidorowitsch, machst du auch Waffen- und Anzugreparaturen?</text>
+		</string>
+		<string id="escape_trader_repair_1">
+			<text>Ach... Meinst du die Knarre, die da hinten eingespannt ist? Ja, das wird ein Prachtstьck. Aber auch teuer. Sei aber gewarnt - das ist alles nicht billig, je kaputter - desto teuerer. AuЯerdem brauche ich eine дhnliche Waffe, aus der ich die Ersatzteile entnehmen kann. Und wenn du schon was in Reparatur hast, dauert es sowieso lдnger. Also, laЯ mal sehen was du da hast...	</text>
+		</string>
+		<string id="escape_trader_repair_2">
+			<text>Repariere die erste Waffe.</text>
+		</string>
+		<string id="escape_trader_repair_3">
+			<text>Repariere die zweite Waffe.</text>
+		</string>
+		<string id="escape_trader_repair_4">
+			<text>Repariere den Anzug.</text>
+		</string>
+		<string id="escape_trader_repair_5">
+			<text>Verflucht, das Geld ist aber wieder knapp. Ich komme mal spдter wieder.</text>
+		</string>
+		<string id="escape_trader_repair_6">
+			<text>Ok, ich melde mich bei dir sobald ich fertig bin! \n \nDas dauert ein wenig, so etwa 6-8 Stunden.</text>
+		</string>
+		<string id="escape_trader_repair_7">
+			<text>Tja, Scar...du wurdest ja ganz schцn durchgeschьttelt. So...irgendwo hatte ich doch Panzerplatten... Ah, da sind die...Hier rein und hier... Ufff.\n \nSo! Wie neu!</text>
+		</string>
+		<string id="escape_trader_repair_8">
+			<text>Hmmm. Na gut. Aber wehe du vergiЯt mich...</text>
+		</string>
+		<string id="escape_trader_repair_9">
+			<text>Meisterhaft gearbeitet, das ist dieses Geld wert.</text>
+		</string>
+		<string id="escape_trader_repair_10">
+			<text>Kannst du noch was reparieren?</text>
+		</string>
+		<string id="escape_trader_repair_11">
+			<text>Na los, zeig nochmal her...</text>
+		</string>
+<!--****************************-->
+<!-- Doctor Repair dialog start -->
+<!--****************************-->
+		<string id="yantar_trader_repair_0">
+			<text>Machen Sie auch Reparaturen?</text>
+		</string>
+		<string id="yantar_trader_repair_1">
+			<text>Da muЯ ich ein Blick drauf werfen. Wir haben hier die nцtige Ausrьstung dafьr. Billig wird das aber nicht, je kaputter - desto teuerer. Ich brauche auch noch eine zweite, дhnliche Waffe, aus der ich die Ersatzteile entnehmen kann. Ist schon was in Reparatur bei mir dauert es allerdings lдnger. Na dann laЯ mal sehen was du da hast...	</text>
+		</string>
+		<string id="yantar_trader_repair_2">
+			<text>Reparieren Sie die erste Waffe.</text>
+		</string>
+		<string id="yantar_trader_repair_3">
+			<text>Reparieren Sie die zweite Waffe.</text>
+		</string>
+		<string id="yantar_trader_repair_4">
+			<text>Reparieren Sie den Anzug.</text>
+		</string>
+		<string id="yantar_trader_repair_5">
+			<text>Ich bin knapp bei Kasse. Ich komm spдter noch mal.</text>
+		</string>
+		<string id="yantar_trader_repair_6">
+			<text>Warten Sie ein wenig...\n \nIch glaube, das war's. Hier, bitte!</text>
+		</string>
+		<string id="yantar_trader_repair_7">
+			<text>Panzerplatten sind hier Mangelware, Aber ich hab einen kleinen Vorrat. Warten Sie hier...\n \nSo, mit gutem Gewissen...</text>
+		</string>
+		<string id="yantar_trader_repair_8">
+			<text>Aber vergessen sie nicht mir bescheid zu geben wenn sie fertig sind...</text>
+		</string>
+		<string id="yantar_trader_repair_9">
+			<text>Ihr Gewissen bleibt sauber. 1+ fьr diese Arbeit!</text>
+		</string>
+		<string id="yantar_trader_repair_10">
+			<text>Kцnnen Sie noch was reparieren?</text>
+		</string>
+		<string id="yantar_trader_repair_11">
+			<text>Ja, solange der Computer noch rechnet... Wenn's schnell geht...\n \n</text>
+		</string>
+<!--***************************-->
+<!-- Screw Repair dialog start -->
+<!--***************************-->
+		<string id="mil_trader_repair_0">
+			<text>Hey, ich sehe da Werkzeug! Machst du Reparaturen?</text>
+		</string>
+		<string id="mil_trader_repair_1">
+			<text>Ja, so nebenbei... Mach's kurz! Was brauchst du? Meine Arbeit ist aber nicht billig... Ach ja, ne дhnliche Waffe zum auseinander nehmen brauche ich noch ... ach und wenn ich schon was von dir hab dann dauert es natьrlich noch lдnger, ich mach ja Eins nach dem Anderen. Also?\n	</text>
+		</string>
+		<string id="mil_trader_repair_2">
+			<text>Repariere die erste Waffe.</text>
+		</string>
+		<string id="mil_trader_repair_3">
+			<text>Repariere die zweite Waffe.</text>
+		</string>
+		<string id="mil_trader_repair_4">
+			<text>Repariere den Anzug.</text>
+		</string>
+		<string id="mil_trader_repair_5">
+			<text>Hmm, da reicht mein Geld aber nicht... Nдchstes Mal, ok?</text>
+		</string>
+		<string id="mil_trader_repair_6">
+			<text>So, ein paar Teile ausgewechselt, gesдubert und geschmiert...\n \nKannst nun noch lange nutzen.</text>
+		</string>
+		<string id="mil_trader_repair_7">
+			<text>Hmmm, Scar... Hast du irgendwo ein Schild mit "SchieЯt auf mich!" drauf? Hey, ist nur ein Witz... Gib schon her! \n \nFьr dich Panzerplatten frisch aus der Presse. Und das Schildchen hab ich auch geschwдrzt!	</text>
+		</string>
+		<string id="mil_trader_repair_8">
+			<text>Hmmm. Na gut. Aber wehe du vergiЯt mich...</text>
+		</string>
+		<string id="mil_trader_repair_9">
+			<text>Witzbold... Aber andererseits... Sieht jetzt sogar besser aus!</text>
+		</string>
+		<string id="mil_trader_repair_10">
+			<text>Kannst du noch was machen?</text>
+		</string>
+		<string id="mil_trader_repair_11">
+			<text>Sicher, solange die Bezahlung stimmt! Ein Deckel gibt's nur beim Wirt, nicht bei mir.\n \n</text>
+		</string>
+<!--********************-->
+<!-- Repair dialogs end -->
+<!--********************-->
+	</string_table>

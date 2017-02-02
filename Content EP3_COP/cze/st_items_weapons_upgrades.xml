@@ -1,0 +1,2022 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_prop_bullet_speed">
+		<text>Plochost</text>
+	</string>
+	<string id="st_prop_calibre">
+		<text>Kalibr</text>
+	</string>
+	<string id="st_prop_recoil">
+		<text>Zpetnэ rбz</text>
+	</string>
+	<string id="st_prop_reliability">
+		<text>Spolehlivost</text>
+	</string>
+	<string id="st_prop_scope_1.6x">
+		<text>Reflexivnн optika 1.6x</text>
+	</string>
+	<string id="st_prop_scope_4x">
+		<text>Optika 4x</text>
+	</string>
+	<string id="st_prop_silencer">
+		<text>Tlumic</text>
+	</string>
+	<string id="st_prop_underbarrel_slot">
+		<text>Podvesnэ systйm</text>
+	</string>
+	<string id="st_prop_weight">
+		<text>Hm.</text>
+	</string>
+	<string id="st_up_add_a1_descr">
+		<text>Externн vэvrty umoћnujн instalaci tlumice.</text>
+	</string>
+	<string id="st_up_add_a1_name">
+		<text>Externн vэvrty hlavne</text>
+	</string>
+	<string id="st_up_add_a2_descr">
+		<text>Instalacnн liљta pro optiku.</text>
+	</string>
+	<string id="st_up_add_a2_name">
+		<text>Optickб liљta</text>
+	</string>
+	<string id="st_up_add_a3_descr">
+		<text>Instalacnн liљta pro podvesnэ granбtomet.</text>
+	</string>
+	<string id="st_up_add_a3_name">
+		<text>Podvesnб liљta</text>
+	</string>
+	<string id="st_up_add_a4_descr">
+		<text>Nahrazuje standardnн zбsobnнk vetљнm.</text>
+	</string>
+	<string id="st_up_add_a4_name">
+		<text>Zvэљenб kapacita zбsobnнku</text>
+	</string>
+	<string id="st_up_add_b1_descr">
+		<text>Komplexnн zmena mechanickэch cбstн zbrane, kterб umoћnuje zmenit puvodnн kalibr, nicmйne cenou za modifikaci je snнћenб spolehlivost.</text>
+	</string>
+	<string id="st_up_add_b1_name">
+		<text>Zmenit kalibr na 5x45</text>
+	</string>
+	<string id="st_up_add_b2_descr">
+		<text>Komplexnн zmena mechanickэch cбstн zbrane, kterб umoћnuje zmenit puvodnн kalibr, nicmйne cenou za modifikaci je snнћenб spolehlivost.</text>
+	</string>
+	<string id="st_up_add_b2_name">
+		<text>Zmenit kalibr na 5x56</text>
+	</string>
+	<string id="st_up_add_b3_descr">
+		<text>Komplexnн zmena mechanickэch cбstн zbrane, kterб umoћnuje zmenit puvodnн kalibr, nicmйne cenou za modifikaci je snнћenб spolehlivost.</text>
+	</string>
+	<string id="st_up_add_b3_name">
+		<text>Zmenit kalibr na 9x18</text>
+	</string>
+	<string id="st_up_add_b4_descr">
+		<text>Komplexnн zmena mechanickэch cбstн zbrane, kterб umoћnuje zmenit puvodnн kalibr, nicmйne cenou za modifikaci je snнћenб spolehlivost.</text>
+	</string>
+	<string id="st_up_add_b4_name">
+		<text>Zmenit kalibr na 9x19</text>
+	</string>
+	<string id="st_up_addd_a1_descr">
+		<text>Zvэљenн kapacity zбsobnнku, aniћ by byla zvetљena dйlka zbrane</text>
+	</string>
+	<string id="st_up_addd_a1_name">
+		<text>Zvэљenн kapacity zбsobnнku</text>
+	</string>
+	<string id="st_up_addh_a1_descr">
+		<text>Nбbojovб skrнnka s vetљн kapacitou vyrobenб z lehkэch polykarbonбtu, coћ trochu vyvaћuje nбrust vбhy.</text>
+	</string>
+	<string id="st_up_addh_a1_name">
+		<text>Zvэљenб kapacita zбsobnнku</text>
+	</string>
+	<string id="st_up_arm_a1_descr">
+		<text>Dalљн titanovй plбty znacne zvyљujн odolnost osobnн zbroje.</text>
+	</string>
+	<string id="st_up_arm_a1_name">
+		<text>Dalљн hlinнkovй/titanovй plбty </text>
+	</string>
+	<string id="st_up_arm_a2_descr">
+		<text>Posнlenй plбty, kterй vydrћн dйle, ackoli nejsou tak odolnй.</text>
+	</string>
+	<string id="st_up_arm_a2_name">
+		<text>Kevlarovй plбty</text>
+	</string>
+	<string id="st_up_arm_a3_descr">
+		<text>Slitina hlinнku a titanu umoћnuje snнћenн tнhy titanovэch plбtu pouћнvanэch pro vylepљenн osobnнch zbrojн.</text>
+	</string>
+	<string id="st_up_arm_a3_name">
+		<text>Hlinнkovo-titanovй plбty</text>
+	</string>
+	<string id="st_up_arm_a4_descr">
+		<text>Titan je normбlne prнliљ teћkэ, neћ aby ho bylo moћnй pouћнvat v osobnнch zbrojнch, ale nekdy se pouћнvб na exoskeletonech.</text>
+	</string>
+	<string id="st_up_arm_a4_name">
+		<text>Pevnй titanovй komponenty</text>
+	</string>
+	<string id="st_up_arm_a5_descr">
+		<text>Nahrazenн kovu uhlнkovэmi vlбkny umoћnuje snнћit hmotnost osobnн zbroje, aniћ by se redukovala ъcinnost.</text>
+	</string>
+	<string id="st_up_arm_a5_name">
+		<text>Nahrazenн kovovэch cбstн uhlнkovэmi vlбkny</text>
+	</string>
+	<string id="st_up_arm_a6_descr">
+		<text>Kevlar patrн mezi nejbeћneji pouћнvanй materiбly pro neprustrelnй vesty.</text>
+	</string>
+	<string id="st_up_arm_a6_name">
+		<text>Kevlarovй plбty</text>
+	</string>
+	<string id="st_up_arm_a7_descr">
+		<text>Polykarbonбt dokбћe zastavit kulku z pistole, ackoli je lehkэ jako plast.</text>
+	</string>
+	<string id="st_up_arm_a7_name">
+		<text>Polykarbonбtovй plбty</text>
+	</string>
+	<string id="st_up_arm_a8_descr">
+		<text>Keramickй plбty dlouho nevydrћн, ale jsou odolnejљн neћ kevlar a nabнzн lepљн ochranu.</text>
+	</string>
+	<string id="st_up_arm_a8_name">
+		<text>Instalace keramickэch plбtu</text>
+	</string>
+	<string id="st_up_arm_a9_descr">
+		<text>Jednoduchй ocelovй plбty zaљitй do kabбtu.</text>
+	</string>
+	<string id="st_up_arm_a9_name">
+		<text>Ocelovй plбty</text>
+	</string>
+	<string id="st_up_arm_b1_descr">
+		<text>Keramickб vnejљн vrstva dokбћe odrazit pruraznй kulky, kterй nezasбhnou pancйrovбnн pod prнmэm ъhlem. Kulky prнmэch zбsahu se nбrazem do vrstvy rozpadnou.</text>
+	</string>
+	<string id="st_up_arm_b1_name">
+		<text>Vnejљн keramickб vrstva</text>
+	</string>
+	<string id="st_up_arm_b2_descr">
+		<text>Dalљн internн pancйrovбnн pro prнpad, ћe by byla proraћena vnejљн ochrana.</text>
+	</string>
+	<string id="st_up_arm_b2_name">
+		<text>Zdvojenб ochrannб vrstva</text>
+	</string>
+	<string id="st_up_arm_b3_descr">
+		<text>Zbroj s vnitrnнm pancйrovбnнm, kterй rozptyluje nбraz na vetљн oblasti.</text>
+	</string>
+	<string id="st_up_arm_b3_name">
+		<text>Kompenzacnн element</text>
+	</string>
+	<string id="st_up_arm_b4_descr">
+		<text>Kostra dokбћe zastavit strelu z pistole i v prнpade, ћe je hlavnн pancйrovбnн poљkozenй.</text>
+	</string>
+	<string id="st_up_arm_b4_name">
+		<text>Obrnenб kostra</text>
+	</string>
+	<string id="st_up_arm_b5_descr">
+		<text>Tenkй vrstvy pancйrovбnн jsou preloћeny nekolikrбt pres sebe, aby se zvэљila odolnost zbroje.</text>
+	</string>
+	<string id="st_up_arm_b5_name">
+		<text>Segmentovanб ochrana</text>
+	</string>
+	<string id="st_up_arm_b6_descr">
+		<text>Ackoli vнce plбtu neznamenб lepљн ochranu, zarucujн vetљн trvanlivost</text>
+	</string>
+	<string id="st_up_arm_b6_name">
+		<text>Druhб zбloћnн vrstva</text>
+	</string>
+	<string id="st_up_arm_b7_descr">
+		<text>Mobilnн plбty chrбnн klouby pred zranenнm.</text>
+	</string>
+	<string id="st_up_arm_b7_name">
+		<text>Instalace mobilnнch plбtu pro klouby</text>
+	</string>
+	<string id="st_up_arm_b8_descr">
+		<text>Lehcн hlinнkovб kostra nahrazuje ocelovou.</text>
+	</string>
+	<string id="st_up_arm_b8_name">
+		<text>Lehcн hlinнkovб kostra</text>
+	</string>
+	<string id="st_up_arm_b9_descr">
+		<text>Zesнlenй vloћky sniћujн ъcinky nбrazu strel na telo.</text>
+	</string>
+	<string id="st_up_arm_b9_name">
+		<text>Zesнlenй koћenй vloћky</text>
+	</string>
+	<string id="st_up_arm_c10_descr">
+		<text>Dalљн keramickй vrstvy se silikonovou amortizacн.</text>
+	</string>
+	<string id="st_up_arm_c10_name">
+		<text>Posнlenй keramickй plбty</text>
+	</string>
+	<string id="st_up_arm_c11_descr">
+		<text>Pouћitн lehcнch materiбlu sniћuje hmotnost zbroje.</text>
+	</string>
+	<string id="st_up_arm_c11_name">
+		<text>Instalace lehcнch syntetickэch a plastovэch komponentu</text>
+	</string>
+	<string id="st_up_arm_c12_descr">
+		<text>Ackoli jsou titanovй plбty prнliљ teћkй, neћ aby je mohl nosit normбlnн vojбk, exoskeleton a jeho mocnй servomotory tнhu snadno zvlбdnou.</text>
+	</string>
+	<string id="st_up_arm_c12_name">
+		<text>Titanovй pancйrovбnн</text>
+	</string>
+	<string id="st_up_arm_c13_descr">
+		<text>SBK-RKhZ.m.II - speciбlnн radiochemickэ ochrannэ bojovэ oblek verze dve.</text>
+	</string>
+	<string id="st_up_arm_c13_name">
+		<text>Neprodyљnэ antiradiacnн ochrannэ oblek SBK-RKhZ.m.II</text>
+	</string>
+	<string id="st_up_arm_c1_descr">
+		<text>Toto vylepљenн nбrocnй na prбci i cas nenн prнliљ populбrnн, ackoli uћ mnoha lidem zachrбnilo ћivot.</text>
+	</string>
+	<string id="st_up_arm_c1_name">
+		<text>Vљitб krouћkovб koљile</text>
+	</string>
+	<string id="st_up_arm_c2_descr">
+		<text>Љupinovэ systйm sloћenэ z prekrэvajнcнch se keramickэch plбtu, kterй znemoћnujн, aby byl nositel zasaћen na stejnй mнsto.</text>
+	</string>
+	<string id="st_up_arm_c2_name">
+		<text>Ochrannй keramickй љupiny</text>
+	</string>
+	<string id="st_up_arm_c3_descr">
+		<text>Oblek posнlenэ lбtkou Sovereign se stбvб tйmer nepoљkoditelnэ mechanickэm namбhбnнm.</text>
+	</string>
+	<string id="st_up_arm_c3_name">
+		<text>Nбnos lбtky Sovereign</text>
+	</string>
+	<string id="st_up_arm_c4_descr">
+		<text>Keramika znacne oslabuje nбrazy kulek zachycenнm jejich kinetickй energie.</text>
+	</string>
+	<string id="st_up_arm_c4_name">
+		<text>Aplikace keramickй vrstvy na plбty</text>
+	</string>
+	<string id="st_up_arm_c5_descr">
+		<text>Posнlenб matrice s beryliem mнsto hlinнku patrн k nejspolehlivejљнm zpusobum, jak ochrбnit vojбky v boji.</text>
+	</string>
+	<string id="st_up_arm_c6_descr">
+		<text>Keramika znacne oslabuje nбrazy kulek zachycenнm jejich kinetickй energie.</text>
+	</string>
+	<string id="st_up_arm_c6_name">
+		<text>Keramickб vrstva na plбtech</text>
+	</string>
+	<string id="st_up_arm_c7_descr">
+		<text>Uhlнkovб vlбkna patrн mezi nejodolnejљн materiбly, kterй se pouћнvajн na konstrukci letadel.</text>
+	</string>
+	<string id="st_up_arm_c8_descr">
+		<text>Kombinace vrstev polymeru a keramickйho povlaku</text>
+	</string>
+	<string id="st_up_arm_c8_name">
+		<text>Kombinovanй potaћenн plбtu</text>
+	</string>
+	<string id="st_up_arm_c9_descr">
+		<text>Domбcн technologie, kterб patrн mezi nejnovejљн vynбlezy v oblasti osobnн ochrany - pokrytн povrchu umelэm safнrem.</text>
+	</string>
+	<string id="st_up_autd_a1_descr">
+		<text>Nastavenн komponentu sniћuje pravdepodobnost zaseknutн zbrane.</text>
+	</string>
+	<string id="st_up_autd_a1_name">
+		<text>Nastavenн komponentu</text>
+	</string>
+	<string id="st_up_autd_a2_descr">
+		<text>Plastickй komponenty jsou ted v mуde, staly se velmi populбrnнm vylepљenнm</text>
+	</string>
+	<string id="st_up_autd_a2_name">
+		<text>Polymateriбlovй komponenty</text>
+	</string>
+	<string id="st_up_autd_b1_descr">
+		<text>Nнzkoimpulsovэ palebnэ mechanismus zajiљtuje menљн zpetnэ rбz neћ u starљнch verzн.</text>
+	</string>
+	<string id="st_up_autd_b1_name">
+		<text>Nнzkoimpulsovэ palebnэ mechanismus</text>
+	</string>
+	<string id="st_up_autd_b2_descr">
+		<text>Dнky presnйmu umнstenн strely v komore pred vэstrelem kulka letн rovneji a lйpe zasahuje cнl.</text>
+	</string>
+	<string id="st_up_autd_b2_name">
+		<text>Instalace pozicnнho systйmu strely</text>
+	</string>
+	<string id="st_up_autd_b3_descr">
+		<text>Upravenэ posuvnэ zбver sniћuje zpetnэ rбz a zlepљuje soustrel.</text>
+	</string>
+	<string id="st_up_autd_b3_name">
+		<text>Polovolnэ posuvnэ zбver</text>
+	</string>
+	<string id="st_up_autd_b4_descr">
+		<text>Instalace dalљнho plynovйho vбlce sniћuje zбteћ na zбver a umoћnuje tak znacnй zvэљenн kadence.</text>
+	</string>
+	<string id="st_up_autd_b4_name">
+		<text>Instalace dalљнho plynovйho vбlce</text>
+	</string>
+	<string id="st_up_autd_b5_descr">
+		<text>Rucne natahovanб brokovnice je vybavena systйmem nabнjenн zpetnэm rбzem, takћe muћe strнlet poloautomaticky.</text>
+	</string>
+	<string id="st_up_autd_b5_name">
+		<text>Poloautomatickй nabнjenн</text>
+	</string>
+	<string id="st_up_autd_c1_descr">
+		<text>Komponenty chrбnenй speciбlnнm postrikem sniћujн pravdepodobnost selhбnн zbrane.</text>
+	</string>
+	<string id="st_up_autd_c1_name">
+		<text>Ochrannэ postrik komponentu</text>
+	</string>
+	<string id="st_up_autd_c2_descr">
+		<text>Pri vэstrelu otevrou soucбstky hlaven a umoћnн kulce vyletet, pak se pohybem predpaћbн zase uzavre.</text>
+	</string>
+	<string id="st_up_autd_c2_name">
+		<text>Systйm uzavнrбnн hlavne</text>
+	</string>
+	<string id="st_up_autd_c3_descr">
+		<text>Inerciбlnн automatickэ systйm umoћnuje konverzi pumpovacнho mechanismu brokovnic na samonabнjecн.</text>
+	</string>
+	<string id="st_up_autd_c3_name">
+		<text>Instalace inerciбlnнho automatickйho systйmu</text>
+	</string>
+	<string id="st_up_autd_c4_descr">
+		<text>Unifikovanэ modul zpetnйho rбzu patrн mezi nejlepљн technologickб reљenн problйmu sniћovбnн zpetnйho rбzu.</text>
+	</string>
+	<string id="st_up_autd_c4_name">
+		<text>Unifikovanэ modul zpetnйho rбzu</text>
+	</string>
+	<string id="st_up_autd_c5_descr">
+		<text>Automatickэ usmernovac kulek zvyљuje presnost zbrane.</text>
+	</string>
+	<string id="st_up_autd_c5_name">
+		<text>Instalace automatickйho usmernovace</text>
+	</string>
+	<string id="st_up_auth_a1_descr">
+		<text>Na zбveru se pohybuje aktivnн protivбha a cбstecne kompenzuje zpetnэ rбz.</text>
+	</string>
+	<string id="st_up_auth_a1_name">
+		<text>Pridбnн aktivnн protivбhy</text>
+	</string>
+	<string id="st_up_auth_b1_descr">
+		<text>Instalace kompenzacnнho systйmu sniћuje zpetnэ rбz zbrane.</text>
+	</string>
+	<string id="st_up_auth_b1_name">
+		<text>Instalace kompenzacnнho systйmu</text>
+	</string>
+	<string id="st_up_auth_c1_descr">
+		<text>Nahrazenн zбveru zbrane vhodnejљнm designem s vyљљн kadencн.</text>
+	</string>
+	<string id="st_up_auth_c1_name">
+		<text>Otevrenэ zбver</text>
+	</string>
+	<string id="st_up_auth_c2_descr">
+		<text>Pri vэstrelu se protivбha pohybuje proti smeru pohybu zбvertu a umoћnuje tak pohodlnejљн strelbu kulometem.</text>
+	</string>
+	<string id="st_up_auth_c2_name">
+		<text>Instalace samoregulovanй protivбhy</text>
+	</string>
+	<string id="st_up_auto_a1_descr">
+		<text>Do zбveru je pridбna aktivnн protivбha, kterб sniћuje zpetnэ rбz.</text>
+	</string>
+	<string id="st_up_auto_a1_name">
+		<text>Instalace mobilnн protivбhy</text>
+	</string>
+	<string id="st_up_auto_a2_descr">
+		<text>Plastickй komponenty jsou ted v mуde, staly se velmi populбrnнm vylepљenнm</text>
+	</string>
+	<string id="st_up_auto_a2_name">
+		<text>Nбrazuvzdornй polymerovй komponenty pro pohyblivй cбsti</text>
+	</string>
+	<string id="st_up_auto_b1_descr">
+		<text>Instalace speciбlnнho mechanismu, kterэ chrбnн zbran pred zneciљtenнm.</text>
+	</string>
+	<string id="st_up_auto_b1_name">
+		<text>Automatickэ dvoupozicnн plynovэ regulбtor</text>
+	</string>
+	<string id="st_up_auto_b2_descr">
+		<text>Speciбlnн soucбst neprodyљne uzavнrб hlaven a zvyљuje tak tlak pri vэstrelu.</text>
+	</string>
+	<string id="st_up_auto_b2_name">
+		<text>Instalace uzбveru hlavne</text>
+	</string>
+	<string id="st_up_auto_b3_descr">
+		<text>Synchronizacnн soucбst zlepљujнcн plochost letu strely.</text>
+	</string>
+	<string id="st_up_auto_b3_name">
+		<text>Synchronizacnн systйm</text>
+	</string>
+	<string id="st_up_auto_b4_descr">
+		<text>Soucбstka instalovanб do zadnн cбsti podavace sniћuje rychlost zбveru. Zlepљuje efektivitu mнrenй strelby.</text>
+	</string>
+	<string id="st_up_auto_b4_name">
+		<text>Mechanismus setrvacnйho zpoћdenн</text>
+	</string>
+	<string id="st_up_auto_c1_descr">
+		<text>Speciбlnн soucбst nainstalovanб v zбveru zmekcuje pohyb zбveru a sniћuje zpetnэ rбz.</text>
+	</string>
+	<string id="st_up_auto_c1_name">
+		<text>Instalace zбverovй brzdy</text>
+	</string>
+	<string id="st_up_auto_c2_descr">
+		<text>Integrovanй vylepљenн normбlne pouћнvanй pro odstrelovacskй puљky, jelikoћ znacne zvyљuje hmotnost zbrane.</text>
+	</string>
+	<string id="st_up_auto_c2_name">
+		<text>Zamontovanэ amortizacnн systйm zpetnйho rбzu</text>
+	</string>
+	<string id="st_up_auto_c3_descr">
+		<text>Instalace mechanismu s pohyblivэmi soucбstmi, kterй zvyљujн rychlost nabнjenн zbrane.</text>
+	</string>
+	<string id="st_up_auto_c3_name">
+		<text>Automatickй nabнjenн</text>
+	</string>
+	<string id="st_up_auto_c4_descr">
+		<text>Vylepљenн pohyblivэch cбstн zbrane, kterй vyћaduje nahrazenн velkйho mnoћstvн soucбstek. Zlepљuje presnost.</text>
+	</string>
+	<string id="st_up_auto_c4_name">
+		<text>Vyvбћenэ protinбrazovэ systйm</text>
+	</string>
+	<string id="st_up_auto_c5_descr">
+		<text>Syntentickэ komponent umнstenэ pred zбverem pusobн proti pohybu zбveru a vylepљuje presnost strelby.</text>
+	</string>
+	<string id="st_up_auto_c5_name">
+		<text>Brzdнcн systйm zбveru</text>
+	</string>
+	<string id="st_up_auto_c6_descr">
+		<text>Spojka napojenб na hlaven, kterб pri pohybu hlavne automaticky otvнrб dalљн kompenzacnн otvory.</text>
+	</string>
+	<string id="st_up_auto_c6_name">
+		<text>Instalace systйmu chytrй kompenzace</text>
+	</string>
+	<string id="st_up_auts_a1_descr">
+		<text>Modernizace umoћnujнcн hladљн chod spouљte, coћ je duleћitй pro odstrelovace.</text>
+	</string>
+	<string id="st_up_auts_a1_name">
+		<text>Instalace regulбtoru spouљte</text>
+	</string>
+	<string id="st_up_auts_a2_descr">
+		<text>Tato soucбst umoћnuje strelci lйpe cнtit pohyb pri vэstrelu a zvyљuje tak presnost zbrane.</text>
+	</string>
+	<string id="st_up_auts_a2_name">
+		<text>Instalace zpetnй vazby ve spouљti</text>
+	</string>
+	<string id="st_up_auts_b1_descr">
+		<text>Pohyblivэ zбver casto pouћнvanэ v zбpadnнch zbranнch sniћuje zpetnэ rбz a zlepљuje soustrel.</text>
+	</string>
+	<string id="st_up_auts_b1_name">
+		<text>Polovolnэ pohyblivэ zбver</text>
+	</string>
+	<string id="st_up_auts_b2_descr">
+		<text>Speciбlnн mechanismus, kterэ pri vэstrelu pohltн cбst zpetnйho rбzu, takћe je strelba pohodlnejљн.</text>
+	</string>
+	<string id="st_up_auts_b2_name">
+		<text>Palebnэ amortizacnн systйm</text>
+	</string>
+	<string id="st_up_auts_b3_descr">
+		<text>Jelikoћ jsou odstrelovacskй puљky nбrocnejљн na ъdrћbu neћ beћnй zbrane, je moћnй vybavit je trнpozicnнm regulбtorem plynoventilacnнho systйmu.</text>
+	</string>
+	<string id="st_up_auts_b3_name">
+		<text>Instalace automatickйho trнpozicnнho plynoventilacnнho systйmu</text>
+	</string>
+	<string id="st_up_auts_c1_descr">
+		<text>Nanesenб vrstva zabranuje ъniku energie a zvyљuje sнlu udelenou kulce.</text>
+	</string>
+	<string id="st_up_auts_c1_name">
+		<text>Povrchovб ъprava pohyblivэch soucбstн</text>
+	</string>
+	<string id="st_up_auts_c2_descr">
+		<text>Ъprava nabнjecнho mechanismu umoћnuje vedenн automatickй strelby z odstrelovacskй puљky.</text>
+	</string>
+	<string id="st_up_auts_c2_name">
+		<text>Modifikace samonabнjecнho systйmu</text>
+	</string>
+	<string id="st_up_auts_c3_descr">
+		<text>Zбverovб brzda zpoћduje pohyb zбveru a zvyљuje presnost strelby.</text>
+	</string>
+	<string id="st_up_auts_c3_name">
+		<text>Instalace zбverovй brzdy</text>
+	</string>
+	<string id="st_up_bar_a1_descr">
+		<text>Nahrazenн hlavne prodlouћenou variantou, kterб umoћnuje ploљљн drбhu letu kulek.</text>
+	</string>
+	<string id="st_up_bar_a1_name">
+		<text>Delљн hlaven</text>
+	</string>
+	<string id="st_up_bar_a2_descr">
+		<text>Eliminace expanznн komory a lepљн predpaћbн umoћnuje zlepљit presnost strelby.</text>
+	</string>
+	<string id="st_up_bar_a2_name">
+		<text>Instalace "plovoucн" hlavne</text>
+	</string>
+	<string id="st_up_bar_a3_descr">
+		<text>Tato modifikace sniћuje ъnavu materiбlu hlavne pri dlouhй strelbe.</text>
+	</string>
+	<string id="st_up_bar_a3_name">
+		<text>Instalace hlavne s chladicem</text>
+	</string>
+	<string id="st_up_bar_b1_descr">
+		<text>Nahrazenн zastaralй soucбsti modernejљн, kterб lйpe sniћuje zpetnэ rбz</text>
+	</string>
+	<string id="st_up_bar_b1_name">
+		<text>Optimalizovanб kompenzacnн ъstovб brzda</text>
+	</string>
+	<string id="st_up_bar_b2_descr">
+		<text>Instalace hlavne s dalљнmi vybrouљenэmi kanбlky, zvyљujнcн rychlost strely a presnost zbrane, nicmйne nбsledkem modifikace se silne zvyљuje zpetnэ rбz.</text>
+	</string>
+	<string id="st_up_bar_b2_name">
+		<text>Dalљн kanбlky v hlavni</text>
+	</string>
+	<string id="st_up_bar_b3_descr">
+		<text>Tato hlaven mб zvэљit plochu ъcinku pri boji zblнzka a nenн tedy vhodnб pro vedenн presnй palby. Dнky zjednoduљenйmu vэvrtu hlavne je moћnб palba vyљљн kadencн.</text>
+	</string>
+	<string id="st_up_bar_b3_name">
+		<text>Instalace hlavne se zjednoduљenou vrtanou cбstн</text>
+	</string>
+	<string id="st_up_bar_c1_descr">
+		<text>Polygonбlnн vэvrt vetљinou zvyљuje presnost</text>
+	</string>
+	<string id="st_up_bar_c1_name">
+		<text>Instalace hlavne s polygonбlnнm vэvrtem</text>
+	</string>
+	<string id="st_up_bar_c2_descr">
+		<text>Umoћnuje snнћenн tepelnйho namбhбnн hlavne a zvэљenн kadence.</text>
+	</string>
+	<string id="st_up_bar_c2_name">
+		<text>Sinusoidnн vэvrt hlavne</text>
+	</string>
+	<string id="st_up_bar_c3_descr">
+		<text>Zvlбљtnн nбhradnн hlaven pro zbrane s dobrou balistickou charakteristikou, zvyљuje jejich presnost.</text>
+	</string>
+	<string id="st_up_bar_c3_name">
+		<text>Vrtanй odstrelovacskй kanбlky</text>
+	</string>
+	<string id="st_up_bard_a1_descr">
+		<text>Velmi odolnй materiбly s menљн ъnavou materiбlu, hlaven vydrћн delљн pouћнvбnн.</text>
+	</string>
+	<string id="st_up_bard_a1_name">
+		<text>Hlaven z odolnэch slitin</text>
+	</string>
+	<string id="st_up_bard_b1_descr">
+		<text>Ochrannэ povlak chrбnн vnitrek hlavne pred mechanickэm poљkozenнm.</text>
+	</string>
+	<string id="st_up_bard_b1_name">
+		<text>Ochrannэ povlak vnitrku hlavne</text>
+	</string>
+	<string id="st_up_bard_b2_descr">
+		<text>Syntetickэ povlak vnitrku hlavne zlepљuje soustrel.</text>
+	</string>
+	<string id="st_up_bard_b2_name">
+		<text>Syntetickэ povlak hlavne</text>
+	</string>
+	<string id="st_up_bard_b3_descr">
+		<text>Nahrazenн hlavne prodlouћenou variantou, kterб umoћnuje ploљљн drбhu letu kulek.</text>
+	</string>
+	<string id="st_up_bard_b3_name">
+		<text>Delљн hlaven</text>
+	</string>
+	<string id="st_up_bard_b4_descr">
+		<text>Pouћitн plynoventilacnнch kanбlku v hlavni zabranuje usazovбnн necistot a takй sniћuje zpetnэ rбz.</text>
+	</string>
+	<string id="st_up_bard_b4_name">
+		<text>Plynoventilacnн kanбly</text>
+	</string>
+	<string id="st_up_bard_b5_descr">
+		<text>Nahrazenн hlavne prodlouћenou variantou, kterб umoћnuje ploљљн drбhu letu kulek.</text>
+	</string>
+	<string id="st_up_bard_b5_name">
+		<text>Prodlouћenб hlaven</text>
+	</string>
+	<string id="st_up_bard_b6_descr">
+		<text>Naprбљenб vrstva zabranuje prehrнvбnн hlavne, maskuje materiбlovй defekty a znacne zvyљuje ћivotnost hlavne.</text>
+	</string>
+	<string id="st_up_bard_b6_name">
+		<text>Aplikace ochrannйho nбnosu na vnitrek hlavne</text>
+	</string>
+	<string id="st_up_bard_c1_descr">
+		<text>Systйm vyvбћenн hlavne obsahuje nekolik pohyblivэch pнstu, kterй zvyљujн stabilitu zbrane.</text>
+	</string>
+	<string id="st_up_bard_c1_name">
+		<text>Systйm vyvбћenн hlavne</text>
+	</string>
+	<string id="st_up_bard_c2_descr">
+		<text>Vэvrt v hlavni znemoћnuje strelbu broky, ale zнskanб presnost tuto nevэhodu vyvaћuje.</text>
+	</string>
+	<string id="st_up_bard_c2_name">
+		<text>Hlaven s vэvrtem</text>
+	</string>
+	<string id="st_up_bard_c3_descr">
+		<text>Zъћenн hlavne polymateriбly umoћnuje zvэљenн tlaku v hlavni a zvyљuje tak rychlost kulky.</text>
+	</string>
+	<string id="st_up_bard_c3_name">
+		<text>Dynamickэ zeљtihlovac hlavne</text>
+	</string>
+	<string id="st_up_bard_c4_descr">
+		<text>Cylindrickэ vэvrt hlavne napomбhб zvэљenн kadence, aniћ by se ovlivnila presnost.</text>
+	</string>
+	<string id="st_up_bard_c4_name">
+		<text>Cylindrickэ vэvrt hlavne</text>
+	</string>
+	<string id="st_up_bard_c5_descr">
+		<text>Pri vэstrelu se aktivnн protivбha automaticky pohybuje, aby vyrovnala cбst zpetnйho rбzu.</text>
+	</string>
+	<string id="st_up_bard_c5_name">
+		<text>Pridбnн protivбhy k hlavni</text>
+	</string>
+	<string id="st_up_barp_a1_descr">
+		<text>Nahrazenн beћnй hlavne delљн, kterб poskytuje lepљн presnost a soustrel, ale sniћuje kadenci.</text>
+	</string>
+	<string id="st_up_barp_a1_name">
+		<text>Dlouhб hlaven</text>
+	</string>
+	<string id="st_up_barp_a2_descr">
+		<text>Perforace hlavne sniћuje zpetnэ rбz, jelikoћ spaliny mohou snбze unikat ven.</text>
+	</string>
+	<string id="st_up_barp_a2_name">
+		<text>Derovanб hlaven</text>
+	</string>
+	<string id="st_up_barp_a3_descr">
+		<text>Zkrбcenб hlaven zvyљuje kadenci zbrane, aniћ by trpela prнmocarost a presnost strelby.</text>
+	</string>
+	<string id="st_up_barp_a3_name">
+		<text>Zkrбcenб hlaven</text>
+	</string>
+	<string id="st_up_barp_b1_descr">
+		<text>Chromovбnн zvyљuje ћivotnost hlavne.</text>
+	</string>
+	<string id="st_up_barp_b1_name">
+		<text>Chromovбnн vnitrnн plochy hlavne</text>
+	</string>
+	<string id="st_up_barp_b2_descr">
+		<text>Separбtor absorbuje cбst zpetnйho rбzu.</text>
+	</string>
+	<string id="st_up_barp_b2_name">
+		<text>Pridбnн gumovйho separбtoru</text>
+	</string>
+	<string id="st_up_barp_b3_descr">
+		<text>Zjednoduљenй drбћkovбnн je uћitecnй v boji zblнzka, kdy je kadence duleћitejљн neћ presnost.</text>
+	</string>
+	<string id="st_up_barp_b3_name">
+		<text>Montбћ hlavne se zjednoduљenэm drбћkovбnнm</text>
+	</string>
+	<string id="st_up_barp_b4_descr">
+		<text>Montбћ hlavne s doplnkovou zбvitovou trubicн zvyљuje rychlost strely a presnost zbrane na ъkor silnejљнho zpetnйho rбzu.</text>
+	</string>
+	<string id="st_up_barp_b4_name">
+		<text>Doplnkovб zбvitovб trubice v hlavni</text>
+	</string>
+	<string id="st_up_barp_b5_descr">
+		<text>Snнћenн hmotnosti hlavne mб za nбsledek znatelnй zmenљenн zpetnйho rбzu.</text>
+	</string>
+	<string id="st_up_barp_b5_name">
+		<text>Premнstenн kompenzбtoru/tlumice ohne na rбm zbrane</text>
+	</string>
+	<string id="st_up_barp_c1_descr">
+		<text>Umoћnuje snнћenн tepelnйho zatнћenн hlavne a zvyљuje kadenci, aniћ by doљlo ke zhorљenн prнmocarosti strelby.</text>
+	</string>
+	<string id="st_up_barp_c1_name">
+		<text>Sinusiodovй drбћkovбnн hlavne</text>
+	</string>
+	<string id="st_up_barp_c2_descr">
+		<text>Polygonбlnн drбћkovбnн obvykle vede ke zvэљenн presnosti odstrelovacнch puљek.</text>
+	</string>
+	<string id="st_up_barp_c2_name">
+		<text>Montбћ hlavne s polygonбlnнm drбћkovбnнm</text>
+	</string>
+	<string id="st_up_barp_c3_descr">
+		<text>Vzduchovэ posilovac umoћnuje vyuћнt  energie zpetnйho rбzu k vytvorenн vyљљнho tlaku v hlavni, cнmћ dochбzн ke zvэљenн ъstovй rychlosti.</text>
+	</string>
+	<string id="st_up_barp_c3_name">
+		<text>Montбћ vzduchovйho posilovace</text>
+	</string>
+	<string id="st_up_exo_a1_descr">
+		<text>Zarнzenн s prнdavnэmi servomotory umoћnujн zvэљit nosnost.</text>
+	</string>
+	<string id="st_up_exo_a1_name">
+		<text>Prнdavnй servomotory</text>
+	</string>
+	<string id="st_up_exo_b1_descr">
+		<text>Vэsledek vэvoje techniku Svobody, kterн jako prvnн priљli s nбhradou kovu karbonovэmi vlбkny za ъcelem snнћenн hmotnosti exoskeletu.</text>
+	</string>
+	<string id="st_up_exo_b1_name">
+		<text>Nбhrada kovovэch cбstн karbonovэmi vlбkny</text>
+	</string>
+	<string id="st_up_exo_b2_descr">
+		<text>Pancйrovбnн chrбnн kritickй cбsti exoskeletu pred poљkozenнm presnэmi zбsahy.</text>
+	</string>
+	<string id="st_up_exo_b2_name">
+		<text>Pancйrovбnн pohonovэch soustav</text>
+	</string>
+	<string id="st_up_exo_c1_descr">
+		<text>Systйm pro usnadnenн pohybu vyuћнvб vratnэch pruћin a kloubu, kterй pro zvэљenн efektivity motoru vyuћнvajн vlastnн tнhu exoskeletu.</text>
+	</string>
+	<string id="st_up_exo_c1_name">
+		<text>Systйm pro usnadnenн pohybu  "Chodec"</text>
+	</string>
+	<string id="st_up_exo_c2_descr">
+		<text>Montбћ hydraulickэch posilovacu je ъprava, kterб delн exoskelet tretн a ctvrtй generace. Umoћnuje behбnн v exoskeletu.</text>
+	</string>
+	<string id="st_up_exo_c2_name">
+		<text>Montбћ hydraulickэch posilovacu k pohonovэm soustavбm</text>
+	</string>
+	<string id="st_up_kom_a1_descr">
+		<text>Vloћky z tkaniny chrбnн tkбn v prнpade nбrazu do zbroje.</text>
+	</string>
+	<string id="st_up_kom_a1_name">
+		<text>Vnejљн vrstva z tkaniny</text>
+	</string>
+	<string id="st_up_kom_a2_descr">
+		<text>Silikonovй vэztuhy jsou efektivnejљн neћ jejich gumovй verze, nebot lйpe absorbujн rбzy.</text>
+	</string>
+	<string id="st_up_kom_a2_name">
+		<text>Silikonovй vэztuhy</text>
+	</string>
+	<string id="st_up_kom_a3_descr">
+		<text>Tkanina, spony a vэztuhy jsou kvuli snнћenн hmotnosti zbroje nahrazeny lehcнmi syntetickэmi materiбly.</text>
+	</string>
+	<string id="st_up_kom_a3_name">
+		<text>Lehcн syntetickй a polymernн materiбly</text>
+	</string>
+	<string id="st_up_kom_a4_descr">
+		<text>Pogumovбnн zabranuje poљkozenн vaziva v prнpade ъderu do zbroje.</text>
+	</string>
+	<string id="st_up_kom_a4_name">
+		<text>Pogumovanб ochrannб vrstva</text>
+	</string>
+	<string id="st_up_kom_a5_descr">
+		<text>Vnitrnн vrstva pomuћe v prнpade, ћe dojde k poruљenн vnejљн vrstvy.</text>
+	</string>
+	<string id="st_up_kom_a6_descr">
+		<text>Vнcevrstvй polykarbonovй, silikonovй a karbonovй vloћky pro prнpad proniknutн cizнho telesa zbrojн.</text>
+	</string>
+	<string id="st_up_kom_a6_name">
+		<text>Ochrannй polymernн vloћky</text>
+	</string>
+	<string id="st_up_kom_a7_descr">
+		<text>Vzduchotesnэ oblek Svobody urcenэ k hledбnн artefaktu v oblastech anomбliн.</text>
+	</string>
+	<string id="st_up_kom_a7_name">
+		<text>Ochrannэ oblek pro hledбnн anomбliн</text>
+	</string>
+	<string id="st_up_kom_a8_descr">
+		<text>Vzduchotesnб vrstva ze syntetickйho materiбlu pro prнpad poљkozenн vnejљн vrstvy.</text>
+	</string>
+	<string id="st_up_kom_a8_name">
+		<text>Syntetickб vrstva</text>
+	</string>
+	<string id="st_up_kom_b10_descr">
+		<text>Nekolik ergonomickэch ъprav vyuћнvajнcнch gumovй konstrukce, kterй umoћnujн zachovбnн pohyblivosti i pri noљenн mohutnй zbroje.</text>
+	</string>
+	<string id="st_up_kom_b10_name">
+		<text>Gumovэ oblek</text>
+	</string>
+	<string id="st_up_kom_b11_descr">
+		<text>Konstantan poskytuje elektrickou izolaci a mб velice vysokэ bod tavenн.</text>
+	</string>
+	<string id="st_up_kom_b11_name">
+		<text>Konstantanovй termoizolacnн vloћky</text>
+	</string>
+	<string id="st_up_kom_b12_descr">
+		<text>Olovo poskytuje spolehlivou ochranu pred radiacн, nebot absorbuje vљechny jejн druhy.</text>
+	</string>
+	<string id="st_up_kom_b12_name">
+		<text>Pridбnн olova do obleku</text>
+	</string>
+	<string id="st_up_kom_b1_descr">
+		<text>Zбkladnн ochrana pokoћky pred deљtem a ћнravinami.</text>
+	</string>
+	<string id="st_up_kom_b1_name">
+		<text>Plбtenэ oblek</text>
+	</string>
+	<string id="st_up_kom_b2_descr">
+		<text>Tkanina ze ћбruvzdornйho materiбlu je oblнbenб mezi stalkery pбtrajнcнmi po ohnivэch artefaktech.</text>
+	</string>
+	<string id="st_up_kom_b2_name">
+		<text>Tkanina ze ћбruvzdornйho materiбlu</text>
+	</string>
+	<string id="st_up_kom_b3_descr">
+		<text>Magnesiovй vloћky poskytujн ochranu pred tepelnэm zranenнm.</text>
+	</string>
+	<string id="st_up_kom_b3_name">
+		<text>Magnesiovй vloћky</text>
+	</string>
+	<string id="st_up_kom_b4_descr">
+		<text>Dokonce i jednoduchб vnitrnн vrstva z plastu muћe chrбnit pred chemikбliemi a elektrinou.</text>
+	</string>
+	<string id="st_up_kom_b4_name">
+		<text>Vzduchotesnб vnitrnн vrstva z plastu</text>
+	</string>
+	<string id="st_up_kom_b5_descr">
+		<text>Tkanina, spony a vэztuhy jsou nahrazeny lehcнmi syntetickэmi materiбly, dнky kterэm je zbroj lehcн.</text>
+	</string>
+	<string id="st_up_kom_b5_name">
+		<text>Nбhrada tkaniny syntetickэmi materiбly</text>
+	</string>
+	<string id="st_up_kom_b6_descr">
+		<text>Plexisklo absorbuje dva druhy zбrenн a je lehcн neћ olovo.</text>
+	</string>
+	<string id="st_up_kom_b6_name">
+		<text>Vnitrnн vrstva z plexiskla pro ochranu pred zбrenнm</text>
+	</string>
+	<string id="st_up_kom_b7_descr">
+		<text>Spolehlivб ochrana pred chemikбliemi a elektrinou</text>
+	</string>
+	<string id="st_up_kom_b7_name">
+		<text>Vzduchotesnб vnitrnн vrstva z pruћnйho plastu</text>
+	</string>
+	<string id="st_up_kom_b8_descr">
+		<text>Tenkб vrstva konstantanu poskytuje izolaci proti elektrine.</text>
+	</string>
+	<string id="st_up_kom_b8_name">
+		<text>Vnitrnн izolacnн vrstva s prнmesн konstantanu</text>
+	</string>
+	<string id="st_up_kom_b9_descr">
+		<text>Sklenenй vlбkno se vyuћнvб v oblecнch pouћнvanэch tэmy urcenэmi pro boj s prнrodnнmi katastrofami.</text>
+	</string>
+	<string id="st_up_kom_b9_name">
+		<text>Tepelnб ochrana ze sklenenйho vlбkna</text>
+	</string>
+	<string id="st_up_kom_c1_descr">
+		<text>Impregnovanб tkanina mб za ъkol chrбnit pred otravou chemikбliemi.</text>
+	</string>
+	<string id="st_up_kom_c1_name">
+		<text>Odev z impregnovanй tkaniny</text>
+	</string>
+	<string id="st_up_kom_c2_descr">
+		<text>Guma poskytuje zбkladnн ochranu pri prнmйm vystavenн radiaci</text>
+	</string>
+	<string id="st_up_kom_c2_name">
+		<text>Odev z pogumovanй tkaniny</text>
+	</string>
+	<string id="st_up_kom_c3_descr">
+		<text>Pouћнvбn v oblecнch pro zvэљenн ћivotnosti</text>
+	</string>
+	<string id="st_up_kom_c3_name">
+		<text>Vysoce odolnэ ochrannэ rбm</text>
+	</string>
+	<string id="st_up_kom_c4_descr">
+		<text>Nikl je pro vyuћitн ve vloћkбch zbroje dostatecne ћбruvzdornэ</text>
+	</string>
+	<string id="st_up_kom_c4_name">
+		<text>Ћбruvzdornэ oblek s niklovэmi vloћkami</text>
+	</string>
+	<string id="st_up_kom_c5_descr">
+		<text>Slitina niklu a horcнku se pouћнvб v oblecнch chrбnнcнch pred ъrazy elektrickэm љokem.</text>
+	</string>
+	<string id="st_up_kom_c5_name">
+		<text>Izolacnн oblek s manganovou vloћkou</text>
+	</string>
+	<string id="st_up_kom_c6_descr">
+		<text>Vzduchotesnэ oblek s antikoroznн vrstvou a kevlarovэm plбtovбnнm.</text>
+	</string>
+	<string id="st_up_kom_c6_name">
+		<text>Obrnenэ oblek "Druhб kuћe“</text>
+	</string>
+	<string id="st_up_kom_c7_descr">
+		<text>Oblek z nejmodernejљнch polymeru, drнve uћнvanэch vэzkumnэm institutem v Kyjeve za ъcelem vэvoje obleku Ekologu s dutinami naplnenэmi bizmutem.</text>
+	</string>
+	<string id="st_up_kom_c7_name">
+		<text>Oblek Ekologu z polymeru s bizmutovэmi vloћkami</text>
+	</string>
+	<string id="st_up_kom_c8_descr">
+		<text>Olovenб sнtovina poskytuje neproniknutelnou ochranu pred radiacн a chemikбliemi bez omezenн pohyblivosti.</text>
+	</string>
+	<string id="st_up_kom_c8_name">
+		<text>Ochrannэ oblek z plexiskla s ohebnou olovenou sнtovinou</text>
+	</string>
+	<string id="st_up_kom_c9_descr">
+		<text>Vэsledek tuzemskйho vэvoje po katastrofe v Cernobylu. Vyuћнvб se v exoskeletech proti selhбnн elektroniky.</text>
+	</string>
+	<string id="st_up_kom_c9_name">
+		<text>Evakuacnн oblek s olovenэmi vloћkami</text>
+	</string>
+	<string id="st_up_opt_a1_descr">
+		<text>Montбћ ъtocnйho zamerovace pro boj zblнzka</text>
+	</string>
+	<string id="st_up_opt_a1_name">
+		<text>Reflexnн mнridlo 1.6x</text>
+	</string>
+	<string id="st_up_opt_a2_descr">
+		<text>Montбћ optickйho zamerovace pro boj na strednн a velkй vzdбlenosti</text>
+	</string>
+	<string id="st_up_opt_a2_name">
+		<text>Optickэ zamerovac 4.0x</text>
+	</string>
+	<string id="st_up_opt_a3_descr">
+		<text>Montбћ optickйho zamerovace pro boj na velkй vzdбlenosti</text>
+	</string>
+	<string id="st_up_opt_a3_name">
+		<text>Optickэ zamerovac 5.0x</text>
+	</string>
+	<string id="st_up_opt_a4_descr">
+		<text>Montбћ optickйho zamerovace pro boj na velkй vzdбlenosti</text>
+	</string>
+	<string id="st_up_opt_a4_name">
+		<text>Optickэ zamerovac 6.0x</text>
+	</string>
+	<string id="st_up_opt_b1_descr">
+		<text>Ъprava ъtocnэch zbranн s reflexnнm mнridlem spocнvajнcн ve zvetљenн kontrastu mнridla ve ћlutй oblasti svetelnйho spektra. Duleћitй pri boji ve љpatnэch svetelnэch podmнnkбch a zatemnelэch budovбch.</text>
+	</string>
+	<string id="st_up_opt_b1_name">
+		<text>Zvэљenн kontrastu mнridla</text>
+	</string>
+	<string id="st_up_opt_c1_descr">
+		<text>Termohledн uћivateli umoћnuje detekovat a identifikovat zdroje tepelnйho zбrenн.</text>
+	</string>
+	<string id="st_up_opt_c1_name">
+		<text>Optickй rozpoznбvбnн cнlu</text>
+	</string>
+	<string id="st_up_opt_c2_descr">
+		<text>Zarнzenн pro nocnн videnн od svйho vzniku zachrбnilo mnoho sniperu.</text>
+	</string>
+	<string id="st_up_opt_c2_name">
+		<text>Montбћ zarнzenн pro nocnн videnн</text>
+	</string>
+	<string id="st_up_opt_c3_descr">
+		<text>Modifikace umoћnuje snadnou ъpravu mнridla podle palebnй vzdбlenosti.</text>
+	</string>
+	<string id="st_up_opt_c3_name">
+		<text>Nastavitelnэ dбlkomer mнridla</text>
+	</string>
+	<string id="st_up_pri_a1_descr">
+		<text>Pneumatickб paћba umoћnuje zmenљit zpetnэ rбz pri dбvkovй strelbe</text>
+	</string>
+	<string id="st_up_pri_a1_name">
+		<text>Pneumatickб paћba</text>
+	</string>
+	<string id="st_up_pri_b1_descr">
+		<text>Prenosnб bedernн podpera znacne sniћuje vliv zpetnйho rбzu na telo.</text>
+	</string>
+	<string id="st_up_pri_b1_name">
+		<text>Montбћ bedernн podpery</text>
+	</string>
+	<string id="st_up_pri_b2_descr">
+		<text>Modernejљн paћba, kterб bere v ъvahu specifickou fyziologii lidskйho tela.</text>
+	</string>
+	<string id="st_up_pri_b2_name">
+		<text>Ergonomickб paћba</text>
+	</string>
+	<string id="st_up_pri_c1_descr">
+		<text>Pri vypбlenн strely se cбst prachovйho plynu odvбdн z hlavne do dutiny za zбverem, kterэ se tak pri pohybu zpбtky plynule zastavн.</text>
+	</string>
+	<string id="st_up_pri_c1_name">
+		<text>Montбћ zбsobnнku plynu k zбvernйmu mechanismu</text>
+	</string>
+	<string id="st_up_pri_c2_descr">
+		<text>Cбstecnй prodlouћenн tela zбveru do paћby zvэљн prнmocarost strelby za cenu vetљнho zpetnйho rбzu.</text>
+	</string>
+	<string id="st_up_pri_c2_name">
+		<text>Prodlouћenн tela zбveru do paћby</text>
+	</string>
+	<string id="st_up_pri_c3_descr">
+		<text>Montбћ prenosnйho dнlu do paћby, kterэ pri strelbe pusobн proti rбzu.</text>
+	</string>
+	<string id="st_up_pri_c3_name">
+		<text>Prenosnй protizбvaћн</text>
+	</string>
+	<string id="st_up_prih_a1_descr">
+		<text>Vetљн podpera umoћnuje presnejљн strelbu.</text>
+	</string>
+	<string id="st_up_prih_a1_name">
+		<text>Zvetљenб podpera</text>
+	</string>
+	<string id="st_up_prih_b1_descr">
+		<text>Zesнlenэ pruћinovэ tlumic rбzu sniћuje efekt zpetnйho rбzu pri strelbe ze zbrane.</text>
+	</string>
+	<string id="st_up_prih_b1_name">
+		<text>Integrovanэ pruћinovэ tlumic rбzu</text>
+	</string>
+	<string id="st_up_prih_c1_descr">
+		<text>Jнmka plynu ze zбvernй komory umнstenб v paћbe zbrane znacne sniћuje intenzitu zpetnйho rбzu.</text>
+	</string>
+	<string id="st_up_prih_c1_name">
+		<text>Prнdavnэ zбsobnнk plynu zбvernй komory</text>
+	</string>
+	<string id="st_up_pris_a1_descr">
+		<text>Pogumovanб soucбst sniћujнcн intenzitu zpetnйho rбzu se casto vyuћнvб v sйriove vyrбbenэch paћbбch pro odstrelovacн puљky vetљнch kalibru.</text>
+	</string>
+	<string id="st_up_pris_a1_name">
+		<text>Zesнlenб paћba</text>
+	</string>
+	<string id="st_up_pris_b1_descr">
+		<text>Nastavitelnб paћba s lнcnн podloћkou je uћitecnб pri strelbe z pohodlnэch i nepohodlnэch pozic.</text>
+	</string>
+	<string id="st_up_pris_b1_name">
+		<text>Nastavitelnб paћba s lнcnн podloћkou</text>
+	</string>
+	<string id="st_up_pris_c1_descr">
+		<text>Tlumic pro zbrane velkйho kalibru silne tlumнcн zpetnй rбzy uloћenб v paћbe.</text>
+	</string>
+	<string id="st_up_pris_c1_name">
+		<text>Hydraulickэ tlumic rбzu v paћbe</text>
+	</string>
+	<string id="st_up_res_a1_descr">
+		<text>Aktivnн filtry dokбћou odolat i agresivnнm chemikбliнm.</text>
+	</string>
+	<string id="st_up_res_a1_name">
+		<text>Aktivnн filtry</text>
+	</string>
+	<string id="st_up_res_a2_descr">
+		<text>Zapnutэ pбs pri testech poskytoval cбstecnou ochranu pred prнmэmi ъcinky psн-zбrenн.</text>
+	</string>
+	<string id="st_up_res_a2_name">
+		<text>Ochrannэ pбs z dvojice ocelovэch mrнћek proti psн-zбrenн</text>
+	</string>
+	<string id="st_up_res_a3_descr">
+		<text>Maska pro pohyb v kontaminovanйm prostredн nebo v podmнnkбch kritickэch teplot, at uћ prнliљ vysokэch ci nнzkэch.</text>
+	</string>
+	<string id="st_up_res_b1_descr">
+		<text>Pouћitн stнnenйho plбљte.</text>
+	</string>
+	<string id="st_up_res_b1_name">
+		<text>Pouћitн stнnenйho plбљte.</text>
+	</string>
+	<string id="st_up_res_b2_descr">
+		<text>Filtr s vyztuћenэm antikoroznнm plбљtem s prнdavnou vrstvou odpuzujнcн jedy.</text>
+	</string>
+	<string id="st_up_res_b2_name">
+		<text>Filtr pro prбci v zamorenэch prostredнch</text>
+	</string>
+	<string id="st_up_res_b3_descr">
+		<text>Maska z plexiskla poskytuje cбstecnou ochranu pred zбrenнm.</text>
+	</string>
+	<string id="st_up_res_b3_name">
+		<text>Maska z plexiskla</text>
+	</string>
+	<string id="st_up_res_b4_descr">
+		<text>Maska z plexiskla poskytuje cбstecnou ochranu pred zбrenнm.</text>
+	</string>
+	<string id="st_up_res_b4_name">
+		<text>Dэchacн maska z plexiskla</text>
+	</string>
+	<string id="st_up_res_b5_descr">
+		<text>Dэchacн prнstroj pro ъplnй zamezenн prнstupu jedu.</text>
+	</string>
+	<string id="st_up_res_b5_name">
+		<text>Impregnovanб dэchacн maska</text>
+	</string>
+	<string id="st_up_res_c1_descr">
+		<text>Mrнћka z berylia a hlinнku poskytuje skvelou ochranu bez vэraznйho zvэљenн hmotnosti prilby.</text>
+	</string>
+	<string id="st_up_res_c1_name">
+		<text>Plechy z berylia a hlinнku</text>
+	</string>
+	<string id="st_up_res_c2_descr">
+		<text>Mrнћka z berylia a titanu poskytuje efektivnejљн ochranu bez vэraznйho zvэљenн hmotnosti.</text>
+	</string>
+	<string id="st_up_res_c2_name">
+		<text>Plechy z berylia a titanu</text>
+	</string>
+	<string id="st_up_res_c3_descr">
+		<text>Vylepљenй filtry udrћujн stбlou ъroven dodбvky kyslнku bez ohledu na stupen zamorenн okolн.</text>
+	</string>
+	<string id="st_up_res_c3_name">
+		<text>Montбћ vylepљenэch filtru pro vedeckou prбci</text>
+	</string>
+	<string id="st_up_res_c4_descr">
+		<text>Hi-tech ochrana proti psн-zбrenн, kterou ъdajne vynalezl vedec jmйnem Sacharov.</text>
+	</string>
+	<string id="st_up_res_c4_name">
+		<text>Montбћ pбsu Psi-Dome</text>
+	</string>
+	<string id="st_up_res_c5_descr">
+		<text>Ochrannэ slitinovэ rбm proti poљkozenн teplem a elektrickэm proudem.</text>
+	</string>
+	<string id="st_up_res_c5_name">
+		<text>Konstantanovб celnн zbroj "Bourlivбk"</text>
+	</string>
+	<string id="st_up_res_c6_descr">
+		<text>Dodatecnб zbroj pro zvэљenн ћivotnosti prilby</text>
+	</string>
+	<string id="st_up_res_c6_name">
+		<text>Vyztuћenй telo prilby</text>
+	</string>
+	<string id="st_up_res_c7_descr">
+		<text>Filtr s dodatecnэm cistнcнm povlakem a systйmem pro odpuzovбnн jedu</text>
+	</string>
+	<string id="st_up_res_c7_name">
+		<text>Vylepљenэ dэchacн prнstroj pro nбrocnй podmнnky</text>
+	</string>
+	<string id="st_up_resp_a1_descr">
+		<text>Montбћ zarнzenн pro nocnн videnн pro operace v noci nebo za zhorљenэch svetelnэch podmнnek</text>
+	</string>
+	<string id="st_up_resp_a1_name">
+		<text>Zarнzenн pro nocnн videnн prvnн generace</text>
+	</string>
+	<string id="st_up_resp_a2_descr">
+		<text>Systйm schopnэ prejнt na uzavrenэ dэchacн okruh v prнpade kritickйho zamorenн vzduchu radioaktivnнmi nebo chemickэmi cбsticemi</text>
+	</string>
+	<string id="st_up_resp_a2_name">
+		<text>Systйm pro predchбzenн radioaktivnнm a chemickэm hrozbбm</text>
+	</string>
+	<string id="st_up_resp_a3_name">
+		<text>Cistнcн a dэchacн maska "Pбra"</text>
+	</string>
+	<string id="st_up_resp_b1_descr">
+		<text>Montбћ pokrocilejљнho zarнzenн pro nocnн videnн pro operace v naprostй tme</text>
+	</string>
+	<string id="st_up_resp_b1_name">
+		<text>Zarнzenн pro nocnн videnн druhй generace</text>
+	</string>
+	<string id="st_up_resp_b2_descr">
+		<text>Termohledн umoћnuje najнt a rozpoznat zdroje tepelnйho zбrenн.</text>
+	</string>
+	<string id="st_up_resp_b2_name">
+		<text>Automatickй optickй rozpoznбvбnн cнlu</text>
+	</string>
+	<string id="st_up_resp_b3_descr">
+		<text>Vedeckй vlnovй zarнzenн vytvorenй za ъcelem prбce v anomбlnнch oblastech se zбrenнm psн.</text>
+	</string>
+	<string id="st_up_resp_b3_name">
+		<text>Psн-stimulбtor "Veљtec"</text>
+	</string>
+	<string id="st_up_resp_c1_descr">
+		<text>Montбћ pokrocilejљнho zarнzenн pro nocnн videnн pro operace v naprostй tme</text>
+	</string>
+	<string id="st_up_resp_c1_name">
+		<text>Zarнzenн pro nocnн videnн tretн generace</text>
+	</string>
+	<string id="st_up_resp_c2_descr">
+		<text>Ionizovanй cбstice vzduchu se dнky elektrine pohybujн mezi elektrodami systйmu opacnэm smerem neћ elektrony, cнmћ vznikб iontovэ vнtr.</text>
+	</string>
+	<string id="st_up_resp_c2_name">
+		<text>Chladнcн systйm "Iontovэ vнtr"</text>
+	</string>
+	<string id="st_up_resp_c3_descr">
+		<text>Infracervenэ skener umoћnuje odhalit blнzkй lidskй bytosti.</text>
+	</string>
+	<string id="st_up_resp_c3_name">
+		<text>Infracervenэ skener</text>
+	</string>
+	<string id="st_up_resp_c4_descr">
+		<text>SPB – VPZ.v.IV, psychologickэ bezpecnostnн vlnovэ systйm na ochranu pred psionickэm zбrenнm, ctvrtб verze.</text>
+	</string>
+	<string id="st_up_resp_c4_name">
+		<text>Bojovэ systйm SPB – VPZ.v.IV</text>
+	</string>
+	<string id="st_up_ret_a1_descr">
+		<text>Vyztuћenб pruћina zvyљuje rychlost strely.</text>
+	</string>
+	<string id="st_up_ret_a1_name">
+		<text>Vyztuћenб pruћina ъdernнku</text>
+	</string>
+	<string id="st_up_ret_a2_descr">
+		<text>Montбћ vэztuh na pohyblivй cбsti mechanismu zpusobuje, ћe pri strelbe se hlaven mйne odchyluje od cнle.</text>
+	</string>
+	<string id="st_up_ret_a2_name">
+		<text>Zpevnenн vratnйho mechanismu</text>
+	</string>
+	<string id="st_up_ret_a3_descr">
+		<text>Montбћ dalљн pruћiny s opacnэm vinutнm pro zmenљenн zpetnйho rбzu bez ztrбty prнmocarosti strelby.</text>
+	</string>
+	<string id="st_up_ret_a3_name">
+		<text>Prнdavnб vratnб pruћina</text>
+	</string>
+	<string id="st_up_ret_b1_descr">
+		<text>Ochrannэ plбљt zvyљuje spolehlivost a predevљнm zajiљtuje vzduchotesnost vratnйho mechanismu, coћ sniћuje energetickй ztrбty.</text>
+	</string>
+	<string id="st_up_ret_b1_name">
+		<text>Ochrannэ plбљt vratnйho mechanismu</text>
+	</string>
+	<string id="st_up_ret_b2_descr">
+		<text>Titanovй tyce jsou schopny snйst mnohem vyљљн kadenci neћ klasickй tyce.</text>
+	</string>
+	<string id="st_up_ret_b2_name">
+		<text>Titanovй tyce vratnйho mechanismu</text>
+	</string>
+	<string id="st_up_ret_b3_descr">
+		<text>Umelэ dнl pripevnenэ k hlavni zajiљtuje, ћe se soucбstky pohybujн poћadovanэm zpusobem, coћ zvyљuje presnost.</text>
+	</string>
+	<string id="st_up_ret_b3_name">
+		<text>Pridбnн rovnovбћnйho elementu</text>
+	</string>
+	<string id="st_up_ret_c1_descr">
+		<text>Vyztuћenн objнmky umoћnuje pouћitн vyљљнho tlaku v hlavni, cнmћ se zvyљuje rychlost strely.</text>
+	</string>
+	<string id="st_up_ret_c1_name">
+		<text>Vyztuћenн objнmky vratnйho mechanismu</text>
+	</string>
+	<string id="st_up_ret_c2_descr">
+		<text>Zбvornнk, kterэ je otevнrбn plyny a zavнrбn vratnэm mechanismem, umoћnuje, aby byla cбst energie plynu vyuћita k obsluze vratnйho mechanismu.</text>
+	</string>
+	<string id="st_up_ret_c2_name">
+		<text>Montбћ rozvodnйho zбvornнku</text>
+	</string>
+	<string id="st_up_ret_c3_descr">
+		<text>Nбhrada vratnйho mechanismu mnohem vэkonnejљн verzн sestбvajнcн z dvou vodнcнch tycн a vratnэch pruћin. Zvyљuje kadenci zbrane.</text>
+	</string>
+	<string id="st_up_ret_c3_name">
+		<text>Prechod na dvoutycovэ systйm</text>
+	</string>
+	<string id="st_up_roun_a1_descr">
+		<text>Speciбlnн ъnikovй kanбlky pro plyn kolem bubnovйho zбsobnнku sniћujн zpetnэ rбz zbrane.</text>
+	</string>
+	<string id="st_up_roun_a1_name">
+		<text>Vyuћitн energie plynu</text>
+	</string>
+	<string id="st_up_roun_a2_descr">
+		<text>Pridбnн љikmэch drбћek do bubnovйho zбsobnнku zrychluje otбcenн mechanismu vyuћнvajнcнho energie plynu.</text>
+	</string>
+	<string id="st_up_roun_a2_name">
+		<text>Pridбnн љikmэch drбћek do bubnovйho zбsobnнku</text>
+	</string>
+	<string id="st_up_stk_a1_descr">
+		<text>Vэhodou tйto standardnн evropskй modifikace je snнћenб hmotnost bez omezenн spolehlivosti.</text>
+	</string>
+	<string id="st_up_stk_a1_name">
+		<text>Paћba z nбrazuvzdornйho polymeru</text>
+	</string>
+	<string id="st_up_stk_a2_descr">
+		<text>Dнky vysoce odolnйmu pouzdru zбveru vydrћн ъtocnй puљky i kaћdodennн pouћнvбnн v nбrocnэch podmнnkбch boje.</text>
+	</string>
+	<string id="st_up_stk_a2_name">
+		<text>Vysoce odolnэ slitinovэ zбsobnнk</text>
+	</string>
+	<string id="st_up_stk_a3_descr">
+		<text>Pridбnн hmotnosti na prednн stranu pouzdra zбveru pomбhб redukovat zpetnэ rбz.</text>
+	</string>
+	<string id="st_up_stk_a3_name">
+		<text>Pridбnн protizбvaћн na ocelovй telo</text>
+	</string>
+	<string id="st_up_stk_b1_descr">
+		<text>Instalace chladнcнho plбљte pomбhб kompenzovat teplo vznikajнcн dнky zvэљenй kadenci zbrane.</text>
+	</string>
+	<string id="st_up_stk_b1_name">
+		<text>Prнdavnэ chladнcн plбљt</text>
+	</string>
+	<string id="st_up_stk_b2_descr">
+		<text>Pohodlnejљн tvar rukojeti umoћnuje lepљн drћenн zbrane v prнpade strelby na pohybujнcн se cнl.</text>
+	</string>
+	<string id="st_up_stk_b2_name">
+		<text>Ergonomickэ tvar zбsobnнku</text>
+	</string>
+	<string id="st_up_stk_c1_descr">
+		<text>Modifikace vyuћнvanб pouze u zbranн s bull-pup konfiguracн usnadnujнcн ъdrћbu zbrane</text>
+	</string>
+	<string id="st_up_stk_c1_name">
+		<text>Modulovй pouzdro zбveru</text>
+	</string>
+	<string id="st_up_stk_c2_descr">
+		<text>Tento postrik chrбnн hlaven pred prehrбtнm, odstranuje vэrobnн vady a vэrazne zvyљuje ћivotnost hlavne.</text>
+	</string>
+	<string id="st_up_stk_c2_name">
+		<text>Postrik pouzdra zбveru vyhlazujнcн rэhy a nerovnosti</text>
+	</string>
+	<string id="st_up_stk_c3_descr">
+		<text>V љikmй rukojeti je zabudovбn lehkэ prenosnэ element, kterэ zbran stabilizuje pri strelbe vytvorenнm sнly pusobнcн proti zpetnйmu rбzu.</text>
+	</string>
+	<string id="st_up_stk_c3_name">
+		<text>Љikmб rukojet</text>
+	</string>
+	<string id="st_up_stvd_a1_descr">
+		<text>Dutina v rukojeti mб za nбsledek snнћenн hmotnosti zbrane.</text>
+	</string>
+	<string id="st_up_stvd_a1_name">
+		<text>Dutб rukojet</text>
+	</string>
+	<string id="st_up_stvd_a2_descr">
+		<text>Odlehcenб verze standardnн paћby</text>
+	</string>
+	<string id="st_up_stvd_a2_name">
+		<text>Lehcн paћba</text>
+	</string>
+	<string id="st_up_stvd_a3_descr">
+		<text>Pouћitн lehcнch polymernнch materiбlu umoћnuje snнћenн hmotnosti zbrane.</text>
+	</string>
+	<string id="st_up_stvd_a3_name">
+		<text>Nбrazuvzdornб paћba z polymeru</text>
+	</string>
+	<string id="st_up_stvd_b1_descr">
+		<text>Pridбnн hmoty ke zbrani za ъcelem zmenљenн zpetnйho rбzu</text>
+	</string>
+	<string id="st_up_stvd_b1_name">
+		<text>Pridбnн protizбvaћн</text>
+	</string>
+	<string id="st_up_stvd_b2_descr">
+		<text>Modernejљн a pohodlnejљн rukojet usnadnuje drћenн zbrane.</text>
+	</string>
+	<string id="st_up_stvd_b2_name">
+		<text>Ergonomickб rukojet</text>
+	</string>
+	<string id="st_up_stvd_b3_descr">
+		<text>Tlumenб rukojet sniћuje intenzitu zpetnйho rбzu.</text>
+	</string>
+	<string id="st_up_stvd_b3_name">
+		<text>Tlumenб rukojet</text>
+	</string>
+	<string id="st_up_stvd_b4_descr">
+		<text>Modernejљн a pohodlnejљн paћba usnadnuje drћenн zbrane.</text>
+	</string>
+	<string id="st_up_stvd_b4_name">
+		<text>Ergonomickб paћba</text>
+	</string>
+	<string id="st_up_stvd_b5_descr">
+		<text>Speciбlnн nбter chrбnн zbran pred ъcinky љkodlivэch lбtek.</text>
+	</string>
+	<string id="st_up_stvd_b5_name">
+		<text>Ochrannэ nбter</text>
+	</string>
+	<string id="st_up_stvd_c1_descr">
+		<text>Rtutovэ pohlcovac rбzu se nachбzн v paћbe zbrane a cбstecne sniћuje zpetnэ rбz pri strelbe.</text>
+	</string>
+	<string id="st_up_stvd_c1_name">
+		<text>Rtutovэ pohlcovac rбzu</text>
+	</string>
+	<string id="st_up_stvd_c2_descr">
+		<text>Volne pohyblivй  protirбzovй zбvaћн, kterй se pri vэstrelu pohybuje smerem od zбveru a absorbuje cбst zpetnйho rбzu.</text>
+	</string>
+	<string id="st_up_stvd_c2_name">
+		<text>Pridбnн protirбzovйho zбvaћн</text>
+	</string>
+	<string id="st_up_stvh_a1_descr">
+		<text>Zmena materiбlu sniћuje opotrebenн hlavne vlivem nekonstantnнho rozloћenн teploty behem vэstrelu, dнky cemuћ je moћnй zvэљit kadenci zbrane.</text>
+	</string>
+	<string id="st_up_stvh_a1_name">
+		<text>Vysoce odolnй ћбruvzdornй slitiny</text>
+	</string>
+	<string id="st_up_stvh_b1_descr">
+		<text>Duleћitб ъprava, kterб behem strelby chrбnн zbran pred vlivy teploty vzduchu.</text>
+	</string>
+	<string id="st_up_stvh_b1_name">
+		<text>Pridбnн termoregulacnнho plбљte</text>
+	</string>
+	<string id="st_up_stvh_b2_descr">
+		<text>Technologickй vylepљenн vyћadujнcн extrйmnн zrucnost, aby na hlavni nedochбzelo k tvorbe prehrбtэch mнst.</text>
+	</string>
+	<string id="st_up_stvh_b2_name">
+		<text>Vnejљн ћebrovбnн hlavne</text>
+	</string>
+	<string id="st_up_stvh_c1_descr">
+		<text>Nбhrada hlavne modernejљн verzн umoћnuje vэraznй zvэљenн presnosti.</text>
+	</string>
+	<string id="st_up_stvh_c1_name">
+		<text>Zmena geometrie hlavne</text>
+	</string>
+	<string id="st_up_stvp_a1_descr">
+		<text>Drahй telo zbrane, kterй neco vydrћн</text>
+	</string>
+	<string id="st_up_stvp_a1_name">
+		<text>Titanovй telo</text>
+	</string>
+	<string id="st_up_stvp_a2_descr">
+		<text>Toto telo je spolehlivejљн neћ telo z kompozitnнch materiбlu.</text>
+	</string>
+	<string id="st_up_stvp_a2_name">
+		<text>Pevnй ocelovй telo</text>
+	</string>
+	<string id="st_up_stvp_b1_descr">
+		<text>Technickб nбhrada tela pistole lehcнm materiбlem nijak neovlivnuje spolehlivost zbrane.</text>
+	</string>
+	<string id="st_up_stvp_b1_name">
+		<text>Telo pistole z polymeru</text>
+	</string>
+	<string id="st_up_stvp_b2_descr">
+		<text>Modernejљн a pohodlnejљн rukojet usnadnuje drћenн zbrane.</text>
+	</string>
+	<string id="st_up_stvp_b2_name">
+		<text>Ergonomickб rukojet</text>
+	</string>
+	<string id="st_up_stvp_b3_descr">
+		<text>Tlumenб rukojet sniћuje intenzitu zpetnйho rбzu.</text>
+	</string>
+	<string id="st_up_stvp_b3_name">
+		<text>Tlumenб rukojet</text>
+	</string>
+	<string id="st_up_stvp_b4_descr">
+		<text>Ochrannй vyztuћenн by melo ochrбnit zbran pred necistotami a poљkozenнm nбrazy.</text>
+	</string>
+	<string id="st_up_stvp_b4_name">
+		<text>Ochrannй vyztuћenн tela</text>
+	</string>
+	<string id="st_up_stvp_b5_descr">
+		<text>Dнky zmenбm v zadnн cбsti mб rukojet ergonomictejљн tvar.</text>
+	</string>
+	<string id="st_up_stvp_b5_name">
+		<text>Vэmena rukojeti s rovnou zadnн stranou</text>
+	</string>
+	<string id="st_up_stvp_b6_descr">
+		<text>Moћnost volby vhodnй dйlky rukojeti zvyљuje jejн ergonomii.</text>
+	</string>
+	<string id="st_up_stvp_b6_name">
+		<text>Nastavitelnб rukojet</text>
+	</string>
+	<string id="st_up_stvp_c1_descr">
+		<text>Tato ъprava je moћnб jen v prнpade, ћe do rukojeti byla vmontovбna zpetnб pruћina.</text>
+	</string>
+	<string id="st_up_stvp_c1_name">
+		<text>Montбћ tlumicнho elementu vratnй pruћiny</text>
+	</string>
+	<string id="st_up_stvp_c2_descr">
+		<text>Moћnost vэberu vhodnйho krytu zvyљuje ergonomii rukojeti.</text>
+	</string>
+	<string id="st_up_stvp_c2_name">
+		<text>Tvarove upravenб rukojet s vymenitelnэmi kryty</text>
+	</string>
+	<string id="st_up_stvs_a1_descr">
+		<text>Urceno pro casto pouћнvanй zbrane, chrбnн plбљt pred opotrebenнm.</text>
+	</string>
+	<string id="st_up_stvs_a1_name">
+		<text>Montбћ derovanйho ocelovйho plбљte</text>
+	</string>
+	<string id="st_up_stvs_b1_descr">
+		<text>Technologicky sloћitejљн komponent s vэraznejљнm tlumenнm zpetnэch rбzu neћ u beћnэch automatickэch zbranн.</text>
+	</string>
+	<string id="st_up_stvs_b1_name">
+		<text>Efektivnн ъstovб brzda</text>
+	</string>
+	<string id="st_up_stvs_b2_descr">
+		<text>Modernejљн hlaven vhodnб pro odstrelovacн puљky urcenй pro velmi velkй vzdбlenosti.</text>
+	</string>
+	<string id="st_up_stvs_b2_name">
+		<text>Montбћ teћkй hlavne s polygonбlnнm drбћkovбnнm</text>
+	</string>
+	<string id="st_up_stvs_b3_descr">
+		<text>Podйlnй kovбnн hlavne ji chrбnн pred prehrбtнm a zanesenнm necistotami.</text>
+	</string>
+	<string id="st_up_stvs_b3_name">
+		<text>Podйlnй kovбnн hlavne</text>
+	</string>
+	<string id="st_up_stvs_c1_descr">
+		<text>Integrovanэ tlumic a tlumic ohne, nutnэ pro tichэ boj</text>
+	</string>
+	<string id="st_up_stvs_c1_name">
+		<text>Montбћ integrovanйho tlumice</text>
+	</string>
+	<string id="st_up_stvs_c2_descr">
+		<text>Sinusoidnн drбћkovбnн komory hlavne se obvykle pouћнvб v ъtocnэch zbranнch pro zvэљenн kadence.</text>
+	</string>
+	<string id="st_up_stvs_c2_name">
+		<text>Sinusoidnн drбћkovбnн komory hlavne</text>
+	</string>
+	<string id="st_up_tch_a1_descr">
+		<text>Vstrikovac generace A, vyvinutэ vэzkumnэm institutem v Kyjeve, do krevnнho obehu pravidelne vstrikuje malй mnoћstvн adrenalinu, coћ muћe bэt nebezpecnй, ale v prнpade nouze muћe zachrбnit ћivot.</text>
+	</string>
+	<string id="st_up_tch_a1_name">
+		<text>Vstrikovac adrenalinu</text>
+	</string>
+	<string id="st_up_tch_a2_descr">
+		<text>Systйm pro odstranenн kapalin s jedy z cisticнho filtru</text>
+	</string>
+	<string id="st_up_tch_a2_name">
+		<text>Systйm pro odstranenн jedu</text>
+	</string>
+	<string id="st_up_tch_a3_descr">
+		<text>Vэsledek vэvoje vedeckй skupiny Cistй nebe. Vlnovэ vysнlac malэch rozmeru pripevnenэ na zбdech, kterэ pri stбlйm noљenн efektivne zvyљuje rychlost srбћenн krve.</text>
+	</string>
+	<string id="st_up_tch_a3_name">
+		<text>Hemostimulбtor "Paprsek"</text>
+	</string>
+	<string id="st_up_tch_a4_descr">
+		<text>Systйm, kterэ napбjн vnejљн povrch obleku elektrinou a odpuzuje tak radioaktivnн a chemickй cбstice.</text>
+	</string>
+	<string id="st_up_tch_a4_name">
+		<text>Integrovanэ proticбsticovэ systйm</text>
+	</string>
+	<string id="st_up_tch_b1_descr">
+		<text>Vstrikovac generace B, kterэ do krevnнho obehu dodбvб koagulacnн prostredek v prнpade, ћe znatelne poklesne krevnн tlak.</text>
+	</string>
+	<string id="st_up_tch_b1_name">
+		<text>Vstrikovac hemoglobinu "Hydra"</text>
+	</string>
+	<string id="st_up_tch_b2_descr">
+		<text>Tento systйm predchбzн vycerpбnн organismu tнm, ћe neustбle udrћuje optimбlnн teplotu tela.</text>
+	</string>
+	<string id="st_up_tch_b2_name">
+		<text>Montбћ termoregulacnнho systйmu</text>
+	</string>
+	<string id="st_up_tch_b3_descr">
+		<text>Tento vlnovэ vysнlac je pripevnen k hrudi a v prнpade stбlйho pouћнvбnн znatelne zvyљuje rychlost hojenн ran, sнlu imunnнho systйmu a prбh bolesti.</text>
+	</string>
+	<string id="st_up_tch_b3_name">
+		<text>Biostimulбtor "Slunce"</text>
+	</string>
+	<string id="st_up_tch_b4_descr">
+		<text>Vedeckй vlnovй zarнzenн vyvinutй pro prбci v oblastech anomбliн s psн-zбrenнm.</text>
+	</string>
+	<string id="st_up_tch_b4_name">
+		<text>Psн-stimulбtor "Oracle"</text>
+	</string>
+	<string id="st_up_tch_c1_descr">
+		<text>Vstrikovac generace C dodбvб do krevnнho obehu neurcitou bojovou smes, kterб posiluje regeneraci a tlumн bolest.</text>
+	</string>
+	<string id="st_up_tch_c1_name">
+		<text>Regeneracnн systйm "Fйnix"</text>
+	</string>
+	<string id="st_up_tch_c2_descr">
+		<text>Integrovanэ systйm, kterэ monitoruje zdravotnн stav nositele a v prнpade potreby mu dodбvб vitamнny, adrenalin a anabolickй lбtky.</text>
+	</string>
+	<string id="st_up_tch_c2_name">
+		<text>Montбћ podpurnйho ћivotnнho systйmu</text>
+	</string>
+	<string id="st_up_tch_c3_descr">
+		<text>Tento vlnovэ vysнlac je pripevnen ke krku a prestoћe jsou je jeho mechanismus a princip cinnosti neznбmй, mб velice uklidnujнcн ъcinky.</text>
+	</string>
+	<string id="st_up_tch_c3_name">
+		<text>Neurostimulбtor "Lesk"</text>
+	</string>
+	<string id="st_up_usm_a1_descr">
+		<text>Ъkolem kompenzбtoru ъdernнku je pohltit cбst zpetnйho rбzu, cнmћ se zlepљн presnost dбvkovй strelby.</text>
+	</string>
+	<string id="st_up_usm_a1_name">
+		<text>Kompenzбtor ъdernнku</text>
+	</string>
+	<string id="st_up_usm_a2_descr">
+		<text>Jedna z nejjednoduљљнch a nejoblнbenejљнch modifikacн, kterб umoћnuje snнћenн odporu spouљte. Jednoduchй a uћitecnй.</text>
+	</string>
+	<string id="st_up_usm_a2_name">
+		<text>Mekkб spouљt</text>
+	</string>
+	<string id="st_up_usm_b1_descr">
+		<text>Speciбlnн volba komponentu ruznэch materiбlu dle modelu zbrane. Tyto komponenty nejsou nejlevnejљн, ale zvyљujн ћivotnost zbrane.</text>
+	</string>
+	<string id="st_up_usm_b1_name">
+		<text>Kompozitovй cбsti spouљtovйho mechanismu</text>
+	</string>
+	<string id="st_up_usm_b2_descr">
+		<text>Umoћnuje zvэљit kadenci na ъkor presnosti a spolehlivosti.</text>
+	</string>
+	<string id="st_up_usm_b2_name">
+		<text>Urychlovac spouљte</text>
+	</string>
+	<string id="st_up_usm_b3_descr">
+		<text>Odstranenн pruћiny dovoluje, aby byla prvnн strela vypбlena o pul vteriny drнve. Nenн to mnoho, presto to muћe zachrбnit ћivot.</text>
+	</string>
+	<string id="st_up_usm_b3_name">
+		<text>Bezpruћinovб samospouљt</text>
+	</string>
+	<string id="st_up_usm_c1_descr">
+		<text>Ochrannэ plбљt znemoћnuje selhбnн zbrane vlivem poruchy spouљtecнho mechanismu.</text>
+	</string>
+	<string id="st_up_usm_c1_name">
+		<text>Ochrannэ plбљt spouљtecнho mechanismu</text>
+	</string>
+	<string id="st_up_usm_c2_descr">
+		<text>Bezcepovй upevnenн umoћnuje rychlejљн doplnovбnн nбbojovй komory, coћ vэrazne zvyљuje kadenci.</text>
+	</string>
+	<string id="st_up_usm_c2_name">
+		<text>Bezcepovй upevnenн spouљtecнho mechanismu</text>
+	</string>
+	<string id="st_up_usm_c3_descr">
+		<text>V bezrбzovйm systйmu ъdernнk do nбboje neuderн, ale pronikб jнm, cнmћ je celэ prubeh vэstrelu mekcн.</text>
+	</string>
+	<string id="st_up_usm_c3_name">
+		<text>Montбћ systйmu bezrбzovйho spouљtecнho mechanismu</text>
+	</string>
+	<string id="st_up_usmp_a1_descr">
+		<text>Prvnнm stlacenнm spouљte dojde k odjiљtenн zbrane, pri dalљнch stlacenнch jiћ dochбzн k vэstrelum.</text>
+	</string>
+	<string id="st_up_usmp_a1_name">
+		<text>Dvojitб spouљt</text>
+	</string>
+	<string id="st_up_usmp_b1_descr">
+		<text>Jedna z nejjednoduљљнch a nejoblнbenejљнch modifikacн, kterб umoћnuje snнћenн odporu spouљte. Jednoduchй a uћitecnй.</text>
+	</string>
+	<string id="st_up_usmp_b1_name">
+		<text>Mekkб spouљt</text>
+	</string>
+	<string id="st_up_usmp_b2_descr">
+		<text>Cбstecnй odjiљtenн umoћnuje zvэљit presnost strelby.</text>
+	</string>
+	<string id="st_up_usmp_b2_name">
+		<text>Spouљtecн mechanismus s cбstecnэm odjiљtenнm</text>
+	</string>
+	<string id="st_up_usmp_b3_descr">
+		<text>Od prvnн aћ po poslednн strelu je potreba vyvinout stejnэ tlak na spouљt, coћ se odrбћн ve snadnejљн manipulaci se zbranн.</text>
+	</string>
+	<string id="st_up_usmp_b3_name">
+		<text>Bezpecnб spouљt</text>
+	</string>
+	<string id="st_up_usmp_b4_descr">
+		<text>Modernн ъprava, kterб predchбzн oddelenн zбverovй cбsti od tela zbrane.</text>
+	</string>
+	<string id="st_up_usmp_b4_name">
+		<text>Zvetљenэ hlavnн cep spouљte</text>
+	</string>
+	<string id="st_up_usmp_b5_descr">
+		<text>Modulovэ spouљtovэ mechanismus umoћnuje snadnejљн ъdrћbu a vэmenu jednotlivэch cбstн, navнc se zbran lйpe pouћнvб.</text>
+	</string>
+	<string id="st_up_usmp_b5_name">
+		<text>Modulovэ spouљtovэ mechanismus</text>
+	</string>
+	<string id="st_up_usmp_c1_descr">
+		<text>Odjiљtovacн element znacne sniћuje sнlu potrebnou na stlacenн spouљte, coћ zvyљuje presnost strelby.</text>
+	</string>
+	<string id="st_up_usmp_c1_name">
+		<text>Montбћ odjiљtovacнho elementu</text>
+	</string>
+	<string id="st_up_usmp_c2_descr">
+		<text>Vэsledek nejnovejљнho technologickйho vэvoje, dнky kterйmu lze jednoduchou ъpravou docнlit zmeny reћimu spouљtecнho mechanismu. Jde o dalљн krok k lepљн ergonomii a snadnйmu prizpusobenн zbrane.</text>
+	</string>
+	<string id="st_up_usmp_c2_name">
+		<text>Reћim dvojitй strelby</text>
+	</string>
+	<string id="st_up_usmp_c3_descr">
+		<text>Jakmile je vypбlena prvnн strela, k vypбlenн dalљнch strel je nutnб jen polovicnн drбha pohybu spouљte.</text>
+	</string>
+	<string id="st_up_usmp_c3_name">
+		<text>Spouљtecн mechanismus s krбtkou drбhou</text>
+	</string>
+	<string id="st_up_uti_a1_descr">
+		<text>Zarнzenн s prнdavnэmi servomotory umoћnuje zvэљit nosnost.</text>
+	</string>
+	<string id="st_up_uti_a1_name">
+		<text>Prнdavnй servomotory</text>
+	</string>
+	<string id="st_up_uti_a2_descr">
+		<text>Systйm obsahuje lбtky proti tetanu, zбnetum a streptokokum.</text>
+	</string>
+	<string id="st_up_uti_a2_name">
+		<text>Integrovanэ systйm "Polnн lйkar"</text>
+	</string>
+	<string id="st_up_uti_a3_descr">
+		<text>Vetracн systйm obleku s ochrannэm filtrem pro prбci v zamorenэch oblastech.</text>
+	</string>
+	<string id="st_up_uti_a3_name">
+		<text>Vnitrnн termoregulacnн systйm</text>
+	</string>
+	<string id="st_up_uti_a4_descr">
+		<text>Ergonomickй vylepљenн: speciбlnн ъchyty pripevnenй k obleku zpusobujн, ћe se nesenэ nбklad zdб lehcн.</text>
+	</string>
+	<string id="st_up_uti_a4_name">
+		<text>Vesta pro rozloћenн zбteћe</text>
+	</string>
+	<string id="st_up_uti_a5_descr">
+		<text>Nбdrћ s kyslнkem je nutnб pro prбci v oblastech se vzduchem kontaminovanэm chemikбliemi nebo radioaktivnнmi cбsticemi.</text>
+	</string>
+	<string id="st_up_uti_a5_name">
+		<text>Montбћ nбdrћky s kyslнkem</text>
+	</string>
+	<string id="st_up_uti_b1_descr">
+		<text>Montбћ prнdavnй schrбnky na artefakt</text>
+	</string>
+	<string id="st_up_uti_b1_name">
+		<text>Prнdavnэ prepravnн box na artefakty</text>
+	</string>
+	<string id="st_up_uti_b2_descr">
+		<text>Systйm ъchytu umoћnuje rovnomernй rozloћenн zбteћe na celй telo.</text>
+	</string>
+	<string id="st_up_uti_b2_name">
+		<text>Systйm ъchytu pro rozloћenн zбteћe</text>
+	</string>
+	<string id="st_up_uti_b3_descr">
+		<text>Zбdovэ systйm ulevuje ramenum, nebot rozklбdб zбteћ na celй telo a maximбlnн nosnost je vyљљн</text>
+	</string>
+	<string id="st_up_uti_b3_name">
+		<text>Zбdovэ systйm pro rozloћenн zбteћe</text>
+	</string>
+	<string id="st_up_uti_b4_descr">
+		<text>Systйm obsahujнcн dezinfekcnн, protitetanovй a povzbuzujнcн lбtky. Vyroben na kolene, presto bezpecnэ.</text>
+	</string>
+	<string id="st_up_uti_b4_name">
+		<text>Zabudovanб ochrana</text>
+	</string>
+	<string id="st_up_uti_b5_descr">
+		<text>Systйm obsahuje speciбlnн mrнћku nabitou nбbojem vyrovnбvajнcнm energii anomбlie, coћ sniћuje jejн nebezpecnost.</text>
+	</string>
+	<string id="st_up_uti_b5_name">
+		<text>Systйm proti pusobenн statickй elektriny "Rejnok"</text>
+	</string>
+	<string id="st_up_uti_b6_descr">
+		<text>Impregnovanб vnitrnн vrstva by mela zabrбnit otrave chemikбliemi.</text>
+	</string>
+	<string id="st_up_uti_b6_name">
+		<text>Impregnovanб vnitrnн vrstva pro ochranu pred chemikбliemi</text>
+	</string>
+	<string id="st_up_uti_b7_descr">
+		<text>Experimentбlnн model systйmu urcenйho pro dбlkovэ beh, kterэ vzhledem ke svй vysokй cene a nejistйmu pouћitн nenн mimo Zуnu pouћнvбn.</text>
+	</string>
+	<string id="st_up_uti_b7_name">
+		<text>Integrovanэ systйm "Atlet"</text>
+	</string>
+	<string id="st_up_uti_b8_descr">
+		<text>Tento systйm slouћн k odstranovбnн jedu a usazenin z dutin respirбtoru.</text>
+	</string>
+	<string id="st_up_uti_b8_name">
+		<text>Systйm pro odstranovбnн jedu</text>
+	</string>
+	<string id="st_up_uti_c1_descr">
+		<text>Montбћ prнdavnй schrбnky na artefakt</text>
+	</string>
+	<string id="st_up_uti_c1_name">
+		<text>Prнdavnб schrбnka na artefakty se dvema kapsami</text>
+	</string>
+	<string id="st_up_uti_c2_descr">
+		<text>Vojenskэ podpurnэ systйm integrovanэ do obleku, vyuћнvanэ predevљнm jednotkami Specnaz. Zahrnuje systйmy pro vstrikovбnн adrenalinu a srбћenн krve.</text>
+	</string>
+	<string id="st_up_uti_c2_name">
+		<text>Polnн podpurnэ systйm "Varyag“</text>
+	</string>
+	<string id="st_up_uti_c3_descr">
+		<text>V tomto prototypu vojenskйho podpurnйho systйmu konstruktйri pred nebezpecnэm vstrikovбnнm adrenalinu uprednostnili zahrnutн hojivэch lбtek do systйmu na srбћenн krve.</text>
+	</string>
+	<string id="st_up_uti_c3_name">
+		<text>Polnн podpurnэ systйm "Skif“</text>
+	</string>
+	<string id="st_up_zat_a1_descr">
+		<text>Tato relativne nбkladnб modifikace je beћnб v novэch generacнch zbranн.</text>
+	</string>
+	<string id="st_up_zat_a1_name">
+		<text>Montбћ pevnйho zбveru</text>
+	</string>
+	<string id="st_up_zat_a2_descr">
+		<text>Vyztuћenн zбvernй oblasti zbrane brбnн nechtenйmu rozptэlenн energie pri strelbe, coћ zlepљuje prнmocarost strely.</text>
+	</string>
+	<string id="st_up_zat_a2_name">
+		<text>Vyztuћenн zбvernй oblasti umelэmi vloћkami</text>
+	</string>
+	<string id="st_up_zat_a3_descr">
+		<text>Ackoliv tomu nбzev nenapovнdб, ъprava se tэkб zбveru, nebot prбve on musн vydrћet nбsledky zvэљenй kadence.</text>
+	</string>
+	<string id="st_up_zat_a3_name">
+		<text>Zrychlenб samospouљt</text>
+	</string>
+	<string id="st_up_zat_b1_descr">
+		<text>Plynovэ ventil s elementem, kterэ se pohybuje stejnou rychlostн, prejнmб cбst zpetnйho rбzu.</text>
+	</string>
+	<string id="st_up_zat_b1_name">
+		<text>Montбћ plynovйho ventilu s pohyblivэm elementem</text>
+	</string>
+	<string id="st_up_zat_b2_descr">
+		<text>Druhэ pнst pohybuje protizбvaћнm, cнmћ dochбzн ke kompenzaci pohybovйho momentu zбvernйho mechanismu.</text>
+	</string>
+	<string id="st_up_zat_b2_name">
+		<text>Montбћ prнdavnйho plynovйho pнstu</text>
+	</string>
+	<string id="st_up_zat_b3_descr">
+		<text>Ochrannэ plбљt zvyљuje spolehlivost a predevљнm zajiљtuje vzduchotesnost, kterб brбnн nadmernэm ztrбtбm energie.</text>
+	</string>
+	<string id="st_up_zat_b3_name">
+		<text>Ochrannэ plбљt oblasti zбveru</text>
+	</string>
+	<string id="st_up_zat_b4_descr">
+		<text>Ъcelem љikmйho drбћkovбnн v pouzdru zбveru je snнћenн trenн a zachycenн malэch cбstecek, kterй by jinak mohly ucpat oblast zбveru.</text>
+	</string>
+	<string id="st_up_zat_b4_name">
+		<text>Pridбnн podйlnйho drбћkovбnн</text>
+	</string>
+	<string id="st_up_zat_b5_descr">
+		<text>Zmenљenн prumeru plynovй komory pomocн syntetickэch elementu znacne zvyљuje rychlost strely.</text>
+	</string>
+	<string id="st_up_zat_b5_name">
+		<text>Rнzenн toku energie plynu</text>
+	</string>
+	<string id="st_up_zat_b6_descr">
+		<text>Pri svйm nбvratu do pocбtecnн polohy zбver usmernuje proud vzduchu do komory hlavne, cнmћ ji chladн.</text>
+	</string>
+	<string id="st_up_zat_b6_name">
+		<text>Nucenй chlazenн</text>
+	</string>
+	<string id="st_up_zat_c1_descr">
+		<text>Zбver zbrane se pohybuje podйl hlavne a brбnн tak pohybu ъstн hornнm smerem.</text>
+	</string>
+	<string id="st_up_zat_c1_name">
+		<text>Montбћ klouzavйho zбveru</text>
+	</string>
+	<string id="st_up_zat_c2_descr">
+		<text>Montбћ plynovйho pнstu brбnн plynum v rozљirovбnн do oblasti zбveru, coћ vэrazne zvyљuje cistotu zbrane.</text>
+	</string>
+	<string id="st_up_zat_c2_name">
+		<text>Montбћ plynovйho pнstu</text>
+	</string>
+	<string id="st_up_zat_c3_descr">
+		<text>Tento systйm v oblasti zбveru jнmб cбst plynu, coћ vede ke zlepљenн pohybu zбveru.</text>
+	</string>
+	<string id="st_up_zat_c3_name">
+		<text>Systйm pro jнmбnн plynovй energie</text>
+	</string>
+	<string id="st_up_zat_c4_descr">
+		<text>Toto nahrazenн mechanismu vzduchovйho pнstu je spнљe optimalizacн, neћ vylepљenнm. Vэsledkem je znatelnй zvэљenн kadence zbrane.</text>
+	</string>
+	<string id="st_up_zat_c4_name">
+		<text>Plynovэ pнst s krбtkэm chodem</text>
+	</string>
+	<string id="st_up_zat_c5_descr">
+		<text>Posuvnэ zбvernэ systйm, casto pouћнvanэ v modernнch zbranнch, zmenљuje zpetnэ rбz a zvyљuje presnost.</text>
+	</string>
+	<string id="st_up_zat_c5_name">
+		<text>Zmena na posuvnэ systйm s uvolnenэm zбverem</text>
+	</string>
+	<string id="st_up_zath_a1_descr">
+		<text>Absorbcн cбsti tepelnй energie tato komponenta sniћujн teplotnн zmeny behem strelby.</text>
+	</string>
+	<string id="st_up_zath_a1_name">
+		<text>Komponenta pohlcujнcн teplo</text>
+	</string>
+	<string id="st_up_zath_b1_descr">
+		<text>Delљн chod plynovйho pнstu mнrne zvetљuje dйlku zbrane, ale razantne zvyљuje prнmocarost strelby.</text>
+	</string>
+	<string id="st_up_zath_b1_name">
+		<text>Plynovэ pнst s dlouhэm chodem</text>
+	</string>
+	<string id="st_up_zath_b2_descr">
+		<text>Tlumic pohyblivэch cбstн љнrн zpetnэ rбz rovnomerne po tele zbrane a dнky tomu jsou jeho ъcinky menљн.</text>
+	</string>
+	<string id="st_up_zath_b2_name">
+		<text>Montбћ tlumice pohyblivэch cбstн</text>
+	</string>
+	<string id="st_up_zath_c1_descr">
+		<text>Symetrickй nucenй chlazenн hlavne vyuћitнm cinnosti vytahovace brбnн prehrбtн zbrane.</text>
+	</string>
+	<string id="st_up_zath_c1_name">
+		<text>Systйm symetrickйho nucenйho chlazenн</text>
+	</string>
+	<string id="st_up_zatp_a1_descr">
+		<text>Umoћnuje zvэљit kadenci pomocн prнdavnйho zpetnйho rбzu bez pretнћenн ostatnнch cбstн zbrane.</text>
+	</string>
+	<string id="st_up_zatp_a1_name">
+		<text>Pohyblivэ zбver</text>
+	</string>
+	<string id="st_up_zatp_b1_descr">
+		<text>Dнky vylepљenйmu prenosu impulsu na kulku je trajektorie strely prнmejљн.</text>
+	</string>
+	<string id="st_up_zatp_b1_name">
+		<text>Systйm uzavrenн hlavne v oblasti zбveru</text>
+	</string>
+	<string id="st_up_zatp_b2_descr">
+		<text>Zmenљuje intenzitu zpetnйho rбzu zpomalenнm pohybu zбveru.</text>
+	</string>
+	<string id="st_up_zatp_b2_name">
+		<text>Systйm pro zpomalenн zpetnйho chodu zбveru</text>
+	</string>
+	<string id="st_up_zatp_b3_descr">
+		<text>Plбљt chrбnн zbran pred predcasnэm opotrebenнm.</text>
+	</string>
+	<string id="st_up_zatp_b3_name">
+		<text>Ochrannэ plбљt zбvernйho mechanismu</text>
+	</string>
+	<string id="st_up_zatp_b4_descr">
+		<text>Dнky lepљнmu prenosu hybnosti na kulku se zvyљuje prнmocarost strely.</text>
+	</string>
+	<string id="st_up_zatp_b4_name">
+		<text>Systйm naklбpenн hlavne</text>
+	</string>
+	<string id="st_up_zatp_b5_descr">
+		<text>Teћљн uzavrenэ zбver chrбnн zбvernэ mechanismus pistole pred selhбnнm.</text>
+	</string>
+	<string id="st_up_zatp_b5_name">
+		<text>Vyztuћenэ a plne uzavrenэ zбver</text>
+	</string>
+	<string id="st_up_zatp_b6_descr">
+		<text>Malэ doraz, kterэ absorbuje cбst zpetnйho rбzu</text>
+	</string>
+	<string id="st_up_zatp_b6_name">
+		<text>Polymerovэ doraz</text>
+	</string>
+	<string id="st_up_zatp_b7_descr">
+		<text>Montбћ ocelovэch vloћek pomбhб snнћit intenzitu zpetnйho rбzu.</text>
+	</string>
+	<string id="st_up_zatp_b7_name">
+		<text>Montбћ vlocek se spirбlovitэm rэhovбnнm</text>
+	</string>
+	<string id="st_up_zatp_b8_descr">
+		<text>Zvetљenнm chodu zбveru a primerenэm vyztuћenнm vratnйho mechanismu lze zlepљit prнmocarost strelby.</text>
+	</string>
+	<string id="st_up_zatp_b8_name">
+		<text>Zvetљenб dйlka chodu zбveru</text>
+	</string>
+	<string id="st_up_zatp_c1_descr">
+		<text>Krбtkэ chod znatelne zvyљuje kadenci zbrane, aniћ by doљlo ke zhorљenн prнmocarosti.</text>
+	</string>
+	<string id="st_up_zatp_c1_name">
+		<text>Montбћ zбvernйho systйmu s krбtkэm chodem</text>
+	</string>
+	<string id="st_up_zatp_c2_descr">
+		<text>Delљн chod zбveru strele dodбvб vyљљн hybnou energii.</text>
+	</string>
+	<string id="st_up_zatp_c2_name">
+		<text>Montбћ zбvernйho systйmu s dlouhэm chodem</text>
+	</string>
+	<string id="st_up_zatp_c3_descr">
+		<text>Toto nahrazenн mechanismu vzduchovйho pнstu je spнљe optimalizacн, neћ vylepљenнm. Vэsledkem je znatelnй zvэљenн kadence zbrane.</text>
+	</string>
+	<string id="st_up_zatp_c3_name">
+		<text>Montбћ systйmu pro vyuћitй energie krбtkйho chodu</text>
+	</string>
+	<string id="st_up_zatp_c4_descr">
+		<text>Montбћ tohoto modulu znacne zvyљuje presnost strelby, aniћ by trpela rychlost strely.</text>
+	</string>
+	<string id="st_up_zatp_c4_name">
+		<text>Kombinovanэ vratnэ systйm se dvema pruћinami</text>
+	</string>
+	<string id="st_up_zatp_c5_descr">
+		<text>Pridбnн kompenzacnнch otvoru znatelne sniћuje intenzitu zpetnйho rбzu.</text>
+	</string>
+	<string id="st_up_zatp_c5_name">
+		<text>Integrovanэ kompenzбtor pohybu hlavne</text>
+	</string>
+	<string id="st_up_zatp_c6_descr">
+		<text>Modernizace automatickэch komponent pistole vhodnб pro automatickэ reћim strelby.</text>
+	</string>
+	<string id="st_up_zatp_c6_name">
+		<text>Plne automatickэ reћim strelby</text>
+	</string>
+	<string id="st_up_zatp_c7_descr">
+		<text>Vylepљenн automatickэch komponent pistole vhodnй pro trнrannэ dбvkovэ reћim.</text>
+	</string>
+	<string id="st_up_zatp_c7_name">
+		<text>Trнrannэ dбvkovэ reћim</text>
+	</string>
+	<string id="st_upgr_cost">
+		<text>Cena</text>
+	</string>
+	<string id="st_upgr_disable">
+		<text>Nelze namontovat</text>
+	</string>
+	<string id="st_upgr_installed">
+		<text>Namontovбno</text>
+	</string>
+	<string id="st_upgrade_install">
+		<text>Opravdu chceљ provйst tuto modifikaci?</text>
+	</string>
+	<string id="st_prop_autolock">
+		<text>Systйm rozpoznбvбnн cнlu</text>
+	</string>
+	<string id="st_prop_autolockscope">
+		<text>Systйm rozpoznбvбnн cнlu</text>
+	</string>
+	<string id="st_prop_scope_5x">
+		<text>x5 optickэ zamerovac</text>
+	</string>
+	<string id="st_prop_scope_6x">
+		<text>x6 optickэ zamerovac</text>
+	</string>
+	<string id="st_prop_scanner">
+		<text>Infracervenэ skener</text>
+	</string>
+	<string id="st_prop_weightoutfit">
+		<text>Hmotnost zbroje</text>
+	</string>
+	<string id="st_prop_night_vision_2">
+		<text>Nocnн videnн 2. generace</text>
+	</string>
+	<string id="st_prop_night_vision_3">
+		<text>Nocnн videnн 3. generace</text>
+	</string>
+	<string id="st_prop_scope_attach">
+		<text>Drћбk opt. zamerovace</text>
+	</string>
+	<string id="st_int_silencer">
+		<text>Integrovanэ tlumic</text>
+	</string>
+	<string id="st_prop_grenade_launcher">
+		<text>Podveљenэ granбtomet</text>
+	</string>
+	<string id="st_prop_restore_bleeding">
+		<text>Lйcba zranenн</text>
+	</string>
+	<string id="st_prop_restore_health">
+		<text>Obnova zdravн</text>
+	</string>
+	<string id="st_prop_night_vision">
+		<text>Noktovizor 1. generace</text>
+	</string>
+	<string id="st_prop_scope">
+		<text>Nastavitelnб mнridla</text>
+	</string>
+	<string id="st_prop_contrast">
+		<text>Vysoce kontrastnн mнridlo</text>
+	</string>
+	<string id="st_prop_sprint">
+		<text>Servoposilovace</text>
+	</string>
+	<string id="st_prop_durability">
+		<text>Odolnost obleku</text>
+	</string>
+	<string id="st_gauss_cannot_be_repaired">
+		<text>Nikdo porбdne nevн, jak tato zbran funguje. Dokud o nн nezjistнљ vнc, nebude moћnй ji opravit.</text>
+	</string>
+	<string id="st_upgr_cant_do">
+		<text>Tuto modifikaci nedokбћe technik provйst</text>
+	</string>
+	<string id="st_upgr_group">
+		<text>Tato soucбstka je jiћ modifikovanб</text>
+	</string>
+	<string id="st_upgr_enough_money">
+		<text>Nemбљ dost penez</text>
+	</string>
+	<string id="st_no_buck">
+		<text>Nepouћнvб munici</text>
+	</string>
+	<string id="st_auto_fire">
+		<text>Reћim automatickй palby</text>
+	</string>
+	<string id="st_semi_auto_fire">
+		<text>Reћim dбvky trн vэstrelu</text>
+	</string>
+	<string id="st_prop_artefact">
+		<text>Pocet kontejneru</text>
+	</string>
+	<string id="st_upgr_vodka">
+		<text>technik potrebuje vodku</text>
+	</string>
+	<string id="st_upgr_toolkit_1">
+		<text>technik potrebuje nбradн na zбkladnн prбci</text>
+	</string>
+	<string id="st_upgr_toolkit_2">
+		<text>technik potrebuje nбradн na jemnou prбci</text>
+	</string>
+	<string id="st_upgr_toolkit_3">
+		<text>technik potrebuje nбradн na kalibraci</text>
+	</string>
+	<string id="st_upgr_condlist">
+		<text>technik potrebuje podrobnejљн informace</text>
+	</string>
+	<string id="st_upgr_parents">
+		<text>vyћaduje predchozн modifikace</text>
+	</string>
+	<string id="st_up_arm_c9_name">
+		<text>Ochrannэ nбter „Pбsovec“ na bбzi safнrovэch krystalku</text>
+	</string>
+	<string id="st_up_arm_c5_name">
+		<text>Vyztuћenб titanovб a beryliovб struktura</text>
+	</string>
+	<string id="st_up_arm_c7_name">
+		<text>Potah z uhlнkovэch vlбken</text>
+	</string>
+	<string id="st_up_kom_a5_name">
+		<text>Pogumovanэ podklad</text>
+	</string>
+</string_table>

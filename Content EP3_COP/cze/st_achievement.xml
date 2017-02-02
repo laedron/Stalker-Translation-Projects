@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_achievement_10_descr">
+		<text>Tvuj neprнtel se musн cнtit opravdu ponнћene, kdyћ se nechal uћ desetkrбt po sobe zabнt, aniћ by mezitнm zabil tebe! Ty to vљak nedelбљ z krutosti - chceљ mu jen dбt prнleћitost k procvicovбnн.</text>
+	</string>
+	<string id="st_achievement_10_name">
+		<text>Jeљte musнљ dozrбt</text>
+	</string>
+	<string id="st_achievement_11_descr">
+		<text>Smrt ti krбcн v patбch! Dokбћeљ zabнt dve mouchy jednou ranou... obe je prostrelit Gaussovou puљkou.</text>
+	</string>
+	<string id="st_achievement_11_name">
+		<text>Љpнz</text>
+	</string>
+	<string id="st_achievement_12_descr">
+		<text>Tvuj klidnэ a vypocнtavэ prнstup je zhoubou neprбtel. Povedlo se ti zasбhnout dva cнle, kaћdэ jednou patronou z dvouhlavnovй brokovnice. A to vљe behem jen nekolika vterin!</text>
+	</string>
+	<string id="st_achievement_12_name">
+		<text>Dve rбny, dve tela</text>
+	</string>
+	<string id="st_achievement_13_descr">
+		<text>Vнљ vљechno, co musн sprбvnэ stalker umet. Proto jsi taky prvnн stalkerovskou legendou!</text>
+	</string>
+	<string id="st_achievement_13_name">
+		<text>Spolecenskэ љplhoun</text>
+	</string>
+	<string id="st_achievement_14_descr">
+		<text>Dobэvat se dovnitr exoskeletu noћem? Ano, tvэm konнckem je stanovovat si obtнћnй cнle a potom je prekonбvat.</text>
+	</string>
+	<string id="st_achievement_14_name">
+		<text>Otvнrбk na konzervy</text>
+	</string>
+	<string id="st_achievement_15_descr">
+		<text>Mysleli si, ћe uћ te dostali, ale jak љeredne se jen mэlili! Povedlo se ti oddelat jich pet v rade, prestoћe uћ ti smrt љlapala na paty.</text>
+	</string>
+	<string id="st_achievement_15_name">
+		<text>Nezmar</text>
+	</string>
+	<string id="st_achievement_16_descr">
+		<text>To ale byla adrenalinovб jнzda! Umнљ zasypat neprбtele smrљtн kulek - pet zбrezu v peti vterinбch. Neuveritelnй!</text>
+	</string>
+	<string id="st_achievement_16_name">
+		<text>Nespoutanэ hnev</text>
+	</string>
+	<string id="st_achievement_17_descr">
+		<text>No teda! Mбљ ъchvatnou muљku! Bez jedinйho ъmrtн se to podarilo strelit dva neprбtele do oka.</text>
+	</string>
+	<string id="st_achievement_17_name">
+		<text>Trefa do bнlйho</text>
+	</string>
+	<string id="st_achievement_18_descr">
+		<text>Jen at se schovбvajн za rohy, jen at si nastraћujн lйcky, tebe to nezastavн. Dokбћeљ sundat pohybujнcн se cнl, klidne i bez mнrenн!</text>
+	</string>
+	<string id="st_achievement_18_name">
+		<text>Bleskovй reflexy</text>
+	</string>
+	<string id="st_achievement_19_descr">
+		<text>Muћe si utнkat, jak se mu zachce. Tvoje vэstrely ho nakonec doћenou.</text>
+	</string>
+	<string id="st_achievement_19_name">
+		<text>Zastavte beћce</text>
+	</string>
+	<string id="st_achievement_1_descr">
+		<text>Povedlo se ti bez zemrenн oddelat dvacet prбtel v rade! Tomu se rнkб krvavб lбzen!</text>
+	</string>
+	<string id="st_achievement_1_name">
+		<text>Masakr</text>
+	</string>
+	<string id="st_achievement_20_descr">
+		<text>Ano, byli sice tri, a ano, meli odstrelovacskй puљky. Ale ne, tvэm schopnostem se vyrovnat nedokбzali.</text>
+	</string>
+	<string id="st_achievement_20_name">
+		<text>Ostrostrelec</text>
+	</string>
+	<string id="st_achievement_21_descr">
+		<text>Barbarskй metody jsou dobrй leda tak pro neprбtele. Ty dokбћeљ s prehledem vyhrбt a nevystrelit u toho jedinou rбnu.</text>
+	</string>
+	<string id="st_achievement_21_name">
+		<text>Posel mнru</text>
+	</string>
+	<string id="st_achievement_22_descr">
+		<text>Skutecnйmu odstrelovaci nedelб vzdбlenost problйm. Dovedeљ trefit cнl o velikosti mince na 120 metru.</text>
+	</string>
+	<string id="st_achievement_22_name">
+		<text>Smrtнcн presnost</text>
+	</string>
+	<string id="st_achievement_23_descr">
+		<text>Neprнtel te sice nakonec dostal, ale ten odjiљtenэ granбt ho pak docela prekvapil!</text>
+	</string>
+	<string id="st_achievement_23_name">
+		<text>Tu mбљ neco na pamбtku</text>
+	</string>
+	<string id="st_achievement_24_descr">
+		<text>Povraћdili ti kбmoљe a tvou pomstu si objektivne zaslouћili. Mrtvoly trн neprбtel za tri mrtvй kamarбdy - hezky spravedlive.</text>
+	</string>
+	<string id="st_achievement_24_name">
+		<text>Mstitel</text>
+	</string>
+	<string id="st_achievement_25_descr">
+		<text>Pro svйho kamarбda jsi jako strбћnэ andel! Uћ dvakrбt dнky tobe unikl smrti, kdyћ nesl artefakt.</text>
+	</string>
+	<string id="st_achievement_25_name">
+		<text>Cherubнn</text>
+	</string>
+	<string id="st_achievement_26_descr">
+		<text>Povedlo se ti prece jenom zнskat pбr bodu a tнm zachrбnit nejen svou cest, ale i cest celйho vaљeho tэmu.</text>
+	</string>
+	<string id="st_achievement_26_name">
+		<text>Zachrбnce cti</text>
+	</string>
+	<string id="st_achievement_27_descr">
+		<text>Copak opravdu vнљ, kde a kdy se prнљtн artefakt objevн? Tak ci onak, povedlo se ti ho zvednout pouhэch pбr vterin po objevenн.</text>
+	</string>
+	<string id="st_achievement_27_name">
+		<text>Stalkerovskб intuice</text>
+	</string>
+	<string id="st_achievement_28_descr">
+		<text>To byla ale klika - odrovnat neprнtele poslednн kulkou v zбsobnнku! No hlavne ћe to se nakonec povedlo.</text>
+	</string>
+	<string id="st_achievement_28_name">
+		<text>Љtastlivec</text>
+	</string>
+	<string id="st_achievement_29_descr">
+		<text>Mбљ na ъcte osm neprбtel v rade. Latka je nastavena vysoko - ted at ukбћou, co v nich je.</text>
+	</string>
+	<string id="st_achievement_29_name">
+		<text>Cernб listina</text>
+	</string>
+	<string id="st_achievement_2_descr">
+		<text>Dнky tvй opatrnosti a obezretnosti te nikdo nedokбzal zabнt. Podarilo se ti celou hru zustat naћivu a zбroven zнskat pres patnбct bodu.</text>
+	</string>
+	<string id="st_achievement_2_name">
+		<text>Paranoik</text>
+	</string>
+	<string id="st_achievement_30_descr">
+		<text>Nestojнљ o nevyћбdanou pozornost, a tak za vљech okolnostн pouћнvбљ tlumic. Proc neprнteli prozrazovat, z kterй strany prilйtne smrt?</text>
+	</string>
+	<string id="st_achievement_30_name">
+		<text>Tichб smrt</text>
+	</string>
+	<string id="st_achievement_3_descr">
+		<text>Znбљ jednoduchэ zpusob jak zlikvidovat neprбtele - jednoduљe jнt a zнskat dvakrбt vнc bodu neћ kdokoliv z nich.</text>
+	</string>
+	<string id="st_achievement_3_name">
+		<text>Drtivб prevaha</text>
+	</string>
+	<string id="st_achievement_4_descr">
+		<text>Tvuj smelэ plбn na neprodlenй zнskбnн artefaktu se shledal s ъspechem! Povedlo se ti zabodovat v prvnнch trech minutбch hry.</text>
+	</string>
+	<string id="st_achievement_4_name">
+		<text>Blitzkrieg</text>
+	</string>
+	<string id="st_achievement_5_descr">
+		<text>Vaљi neprбtelй si k vэhre ani nepricichli, vyhrбli jste na plnй cбre a oni nezнskali ani jedinэ artefakt. Takhle vypadб tэmovб spoluprбce!</text>
+	</string>
+	<string id="st_achievement_5_name">
+		<text>Kanбr</text>
+	</string>
+	<string id="st_achievement_6_descr">
+		<text>Na љpicce kaћdй kategorie figurovala tatбћ osoba - ty! Nejvнc zбrezu, nejvнc zнskanэch artefaktu a nejmйne ъmrtн. Jen tak dбl!</text>
+	</string>
+	<string id="st_achievement_6_name">
+		<text>Vљestrannost</text>
+	</string>
+	<string id="st_achievement_7_descr">
+		<text>Tvй zrucnosti s noћem se nikdo nevyrovnб! Vykuchбnнm trн neprбtel behem dvaceti vterin se ti podarilo dokбzat, ћe sprбvnэ zabijбk nepotrebuje strelnэ prach.</text>
+	</string>
+	<string id="st_achievement_7_name">
+		<text>Bes</text>
+	</string>
+	<string id="st_achievement_8_descr">
+		<text>Kaћdб, byt sebelepљн zbroj mб nekde skulinku. A ty vнљ, jak tuhle skulinku najнt - proste neprнtele strelнљ do oka!</text>
+	</string>
+	<string id="st_achievement_8_name">
+		<text>Achillova pata</text>
+	</string>
+	<string id="st_achievement_9_descr">
+		<text>Z neprбtelskэch kulek si nic nedelбљ! Proste jimi bez poskvrnky projdeљ a pak to neprнteli spocнtбљ!</text>
+	</string>
+	<string id="st_achievement_9_name">
+		<text>Rychlejљн neћ vэstrel</text>
+	</string>
+	<string id="st_sp_achievement_1_descr">
+		<text>Jsi ochoten zkoumat nejnovejљн denн v Zуne. Posunul jsi naљe znalosti o Zуne o kus dбl tнm, ћe jsi naљel novй anomбlnн ъtvary, kterй veda doposud neznala.</text>
+	</string>
+	<string id="st_sp_achievement_1_name">
+		<text>Pruzkumnнk</text>
+	</string>
+	<string id="st_sp_achievement_2_hint">
+		<text>Stalkeri si te ted vбћн vнce.\nJako ocenenн tvэch cinu ti v osobnн schrбnce ve stanici Janov nechali nejakou munici.</text>
+	</string>
+	<string id="st_sp_achievement_2_descr">
+		<text>Nesnaћнљ se vyhэbat nebezpecnэm mutantum, mнsto toho je zabнjнљ a vedeљ si v tom dobre. Dobrн lovci se mezi stalkery teљн velkй ъcte.</text>
+	</string>
+	<string id="st_sp_achievement_2_name">
+		<text>Lovec mutantu</text>
+	</string>
+	<string id="st_sp_achievement_3_hint">
+		<text>Stalkeri si te ted vбћн vнce.\nJako projev uznбnн ti v osobnн schrбnce ve Skadovsku zanechali zdravotnickэ materiбl.</text>
+	</string>
+	<string id="st_sp_achievement_3_descr">
+		<text>Odhalil jsi zбhadu mizejicнch stalkeru ve Skadovsku: na vine tentokrбt nebyli mutanti, ale mnohem zбkernejљн neprнtel – clovek. Tvб ъspeљnб honba za pravdou ti vydobyla respekt mezi stalkery.</text>
+	</string>
+	<string id="st_sp_achievement_3_name">
+		<text>Detektiv</text>
+	</string>
+	<string id="st_sp_achievement_4_hint">
+		<text>Stalkeri si te ted vнc vбћн.\nPoћбdali obchodnнka Hejkala, aby ti poskytl slevu.\nFousбc ti od nynejљka nabнdne za artefakty tu nejlepљн moћnou cenu.</text>
+	</string>
+	<string id="st_sp_achievement_4_descr">
+		<text>Ukбzal jsi banditum a jejich veliteli Sultбnovi, kdo je tady љйfem, a ostatnн stalkeri si te za to oblнbili. Ve Skadovsku budeљ vћdy vнtбn.</text>
+	</string>
+	<string id="st_sp_achievement_4_name">
+		<text>Jeden z nбs</text>
+	</string>
+	<string id="st_sp_achievement_5_hint">
+		<text>Vydobyl sis respekt banditu.\nObchodnнk Hejkal ti ze strachu, ћe by mohl bэt tvэm dalљнm tercem, poskytl slevu.\nFousбc ti dle dohody bude odvбdet cбst svйho zisku.</text>
+	</string>
+	<string id="st_sp_achievement_5_descr">
+		<text>Pomohl jsi Sultбnovi prelstнt stalkery a prevzнt kontrolu nad Fousбcovэmi obchody. V Zatonu jsi ted obбvanou a respektovanou osobnostн.</text>
+	</string>
+	<string id="st_sp_achievement_5_name">
+		<text>Љйf</text>
+	</string>
+	<string id="st_sp_achievement_6_hint">
+		<text>Stalkeri se rozhodli, ћe Strakбcovu korist, kterou zнskal dнky lћнm a podvodum, predajн nekomu, kdo si ji zaslouћн. Najdeљ ji ve svй osobnн schrбnce v Janove.</text>
+	</string>
+	<string id="st_sp_achievement_6_descr">
+		<text>Predal jsi toho bнdбka spravedlnosti. Strakбc podvedl a oklamal mnoho stalkeru a ted dostal, co si zaslouћil.</text>
+	</string>
+	<string id="st_sp_achievement_6_name">
+		<text>Posel spravedlnosti</text>
+	</string>
+	<string id="st_sp_achievement_7_hint">
+		<text>Stalkeri si te ted vбћн vнce.\nBanditi se te budou snaћit dostat, kdykoliv vstoupнљ do Zуny.</text>
+	</string>
+	<string id="st_sp_achievement_7_descr">
+		<text>Naљel jsi vљechny typy artefaktu, kterй vэzkumnнci Zуny znajн. Tнm sis vydobyl respekt stalkeru a pozornost ze strany banditu.</text>
+	</string>
+	<string id="st_sp_achievement_7_name">
+		<text>Hledac artefaktu</text>
+	</string>
+	<string id="st_sp_achievement_8_hint">
+		<text>Kardan dokбћe provйst jedinecnй ъpravy, namontovбnнm hydraulickэch servomotorovэch posilovacu ti umoћnн rychlэ pohyb v exoskeletu.</text>
+	</string>
+	<string id="st_sp_achievement_8_descr">
+		<text>Kardan ted mб vљechny nбstroje, kterй by mohl potrebovat. To mu umoћnн provбdet novб a sloћitejљн vylepљenн.</text>
+	</string>
+	<string id="st_sp_achievement_8_name">
+		<text>Machr pres zbrane</text>
+	</string>
+	<string id="st_sp_achievement_9_hint">
+		<text>Nitrбk ovlбdб unikбtnн ъpravy taktickй prilby: dokбћe pridat infracervenэ skener schopnэ detekovat lidskй bytosti ve tvйm okolн.</text>
+	</string>
+	<string id="st_sp_achievement_9_descr">
+		<text>Nitrбk mб vљechny nбstroje, o kterэch by technik Zуny mohl snнt. Nynн muћe provбdet hi-tech ъpravy.</text>
+	</string>
+	<string id="st_sp_achievement_9_name">
+		<text>Hi-tech profнk</text>
+	</string>
+	<string id="st_sp_achievement_10_hint">
+		<text>Dнky svй zkuљenosti se ti darн nachбzet vzбcnй artefakty casteji.</text>
+	</string>
+	<string id="st_sp_achievement_10_descr">
+		<text>Teoreticky ve stredu Zуny nezustala ћбdnб oblast, kterou bys jeљte nenavљtнvil. Byl jsi tйmer u vљech mнstnнch anomбliн.</text>
+	</string>
+	<string id="st_sp_achievement_10_name">
+		<text>Ostrнlenэ stalker</text>
+	</string>
+	<string id="st_sp_achievement_11_hint">
+		<text>Tvй vudcovskй schopnosti zvyљujн љance tэmu na preћitн.</text>
+	</string>
+	<string id="st_sp_achievement_11_descr">
+		<text>Mel jsi na starost tэmovou prбci, proto jsi posklбdal velkou druћinu a dokбzal ji dobre vйst.</text>
+	</string>
+	<string id="st_sp_achievement_11_name">
+		<text>Vudce</text>
+	</string>
+	<string id="st_sp_achievement_12_hint">
+		<text>Svoboda, Povinnost, volnн stalkeri a dokonce i banditi jiћ poznali tvй vyjednбvacн schopnosti a dнky tomu si te vбћн.</text>
+	</string>
+	<string id="st_sp_achievement_12_descr">
+		<text>Problйmy dokбћeљ reљit bez krve. Kdo potrebuje hrubou sнlu, kdyћ stejne dobre muћe poslouћit i pбr dobre volenэch slov? Presto by sis mel dбvat pozor na lidi, kterн nejdrнv strнlejн a aћ pak se ptajн.</text>
+	</string>
+	<string id="st_sp_achievement_12_name">
+		<text>Diplomat</text>
+	</string>
+	<string id="st_sp_achievement_13_descr">
+		<text>S vedci jsi strбvil tolik casu, ћe te lidй casto povaћujн za vedeckйho pracovnнka. V bunkrech vedcu te povaћujн za jednoho ze svэch.</text>
+	</string>
+	<string id="st_sp_achievement_13_name">
+		<text>Vedeckэ pracovnнk</text>
+	</string>
+	<string id="st_sp_achievement_14_hint">
+		<text>Tvй vztahy s Povinnostн se zlepљily. Pokud se dostaneљ do problйmu, bojovnнci Povinnosti se ti pokusн pomoci.\nNitrбk, technik se vztahy k Povinnosti, ti nabнdl slevu.\nTvй vztahy se Svobodou upadly.\nHavajan, obchodnнk uprednostnujнcн Svobodu, ted za svй zboћн bude chtнt vнce.</text>
+	</string>
+	<string id="st_sp_achievement_14_descr">
+		<text>Nekolikrбt jsi Povinnosti pomohl a dнky tomu sis vydobyl uznбnн bojovnнku Povinnosti i jejich prбtel. Pamatuj vљak na to, ћe v Zуne neћijн jen prнznivci Povinnosti.</text>
+	</string>
+	<string id="st_sp_achievement_14_name">
+		<text>Prнtel Povinnosti</text>
+	</string>
+	<string id="st_sp_achievement_15_hint">
+		<text>\nTvй vztaky se Svobodou se zlepљily. Pokud se dostaneљ do potнћн, bojovnнci Svobody se ti pokusн pomoci.\nHavajan, obchodnнk se vztahem ke Svobode, ti nabнdl slevu.\nTvй vztahy s Povinnostн se zhorљily.\nNitrбk, technik uprednostnujнcн Povinnost, ted za svй sluћby bude chtнt vнce.</text>
+	</string>
+	<string id="st_sp_achievement_15_descr">
+		<text>Nekolikrбt jsi Svobode pomohl a dнky tomu sis vydobyl uznбnн bojovnнku Svobody i jejich prбtel. Pamatuj vљak na to, ћe v Zуne neћijн jen prнznivci Svobody.</text>
+	</string>
+	<string id="st_sp_achievement_15_name">
+		<text>Prнtel Svobody</text>
+	</string>
+	<string id="st_sp_achievement_16_hint">
+		<text>Stalkeri v Janove ocenujн rovnovбhu sil mezi Povinnostн a Svobodou, dнky cemuћ ti technici i obchodnнci poskytli slevu.</text>
+	</string>
+	<string id="st_sp_achievement_16_descr">
+		<text>Nepriklonil ses k ћбdnй z frakcн a vћdy vystupujeљ jako svobodnэ stalker. Nenadelal sis ћбdnй neprбtele, ale nemбљ ani prбtele.</text>
+	</string>
+	<string id="st_sp_achievement_16_name">
+		<text>Nezaujatэ</text>
+	</string>
+	<string id="st_sp_achievement_17_hint">
+		<text>Obchodnнci ti nabнzejн vzбcnejљн a draћљн zboћн.</text>
+	</string>
+	<string id="st_sp_achievement_17_descr">
+		<text>Ackoliv vнљ, co znamenб bэt љvorc, v soucasnй dobe si v oblastн financн nevedeљ љpatne. Spнљ naopak, tvoje bohatstvн je znacnй a obchodnнci si zбkaznнku tvйho postavenн velice cenн.</text>
+	</string>
+	<string id="st_sp_achievement_17_name">
+		<text>Solventnн klient</text>
+	</string>
+	<string id="st_sp_achievement_18_hint">
+		<text>Potй, co jsi zнskal poznбmky, naљel Strelec novэ duvod ћнt a dosбhnout svйho cнle, at to stojн, co to stojн.</text>
+	</string>
+	<string id="st_sp_achievement_18_descr">
+		<text>Tvб prozнravost se vyplatila: po nalezenн poznбmek ve skrэљнch Strelcovэch skupin sis je nechal, dokud jsi nenaљel jejich prбvoplatnйho majitele.</text>
+	</string>
+	<string id="st_sp_achievement_18_name">
+		<text>Strбћce tajemstvн</text>
+	</string>
+	<string id="st_sp_achievement_19_descr">
+		<text>Dнky uћitн anabolickэch pilulek jsi dokбzal preћнt emisi, aniћ by ses pred nн skryl. Ъcinky tйto udбlosti na tvou psychiku nejsou jasnй, ale v hlave mбљ podivnй ticho. Zdб se, ћe uћ nedokбћeљ slyљet konstantnн proud myљlenek.</text>
+	</string>
+	<string id="st_sp_achievement_19_name">
+		<text>Poznamenбn Zуnou</text>
+	</string>
+	<string id="st_sp_achievement_20_hint">
+		<text>Obchodnнk Hejkal ti nabнdl slevu za to, ћe jsi jeho nejlepљнm informбtorem a partnerem.</text>
+	</string>
+	<string id="st_sp_achievement_20_descr">
+		<text>Kdykoliv se ti do rukou dostanou nejakй informace, dokбћeљ najнt jejich sprбvnйho kupce. Pri prodeji informacн tem, kdo je potrebujн, samozrejme myslнљ hlavne na sebe.</text>
+	</string>
+	<string id="st_sp_achievement_20_name">
+		<text>Prekupnнk informacн</text>
+	</string>
+	<string id="st_sp_achievement_21_hint">
+		<text>Tvй vztahy se stalkery se zlepљily. Pokud se dostaneљ do potнћн, stalkeri se ti pokusн pomoci.\nZdravotnнci stalkeru souhlasili s tнm, ћe ti svй zboћн budou prodбvat za nбkupnн ceny.</text>
+	</string>
+	<string id="st_sp_achievement_21_descr">
+		<text>Kdykoliv se stalkeri dostanou do problйmu, jsi pripraven jim pomoci. Ackoliv jejich frakce nenн prнliљ jednotnб, v neoficiбlnнm bratrstvu stalkeru od nynejљka mбљ svй prбtele, kterн ti pomohou nejen v boji.</text>
+	</string>
+	<string id="st_sp_achievement_21_name">
+		<text>Prнtel stalkeru</text>
+	</string>
+	<string id="st_sp_achievement_1_hint">
+		<text>Dнky rade novэch informacн dokбzali profesori Hermann a Ozerskij vynalйzt novэ, experimentбlnн lйk na bбzi antibiotik.</text>
+	</string>
+	<string id="st_sp_achievement_19_hint">
+		<text>Jsi-li pri zdravн, muћeљ preћнt emisi i bez pouћitн lйciv.</text>
+	</string>
+	<string id="st_sp_achievement_13_hint">
+		<text>Profesoru Hermannovi pripadбљ natolik uћitecnэ, ћe ti nabнdl zdravotnickй potreby a vэbavu, kterй jsou obvykle urceny jen pro osбdku bunkru.\nNovikov si na tebe tak zvykl, ћe uћ po tobe nechce penнze za modifikacnн prбce, stacн mu jen penнze na soucбstky.</text>
+	</string>
+</string_table>

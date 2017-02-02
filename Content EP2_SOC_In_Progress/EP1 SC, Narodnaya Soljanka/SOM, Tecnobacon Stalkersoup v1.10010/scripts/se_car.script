@@ -1,0 +1,45 @@
+--TB3D 1.1.0.0.1.0 prevent nil return, debug
+function my_ver() return "1.1.0.0.1.0" end
+---------------------------------------------------------------------
+local force_obinder = TB3D_Modders.use_se_obinder				--110010, calls into game binder (alife)
+if force_binder == nil then force_binder = true end
+
+class "se_car" (cse_alife_car)
+--------------------
+function se_car:__init (section) super (section)
+	self.ini = nil
+	self.spawner_present = false
+end
+--------------------
+function se_car:can_switch_offline ()
+	if force_obinder then 
+		return cse_alife_car.can_switch_offline(self)			--110010
+	else
+		return true
+	end
+end
+--------------------
+function se_car:can_switch_online ()
+	if self.ini == nil then
+		self.ini = self:spawn_ini() 
+		self.spawner_present = self.ini:section_exist("spawner")
+	end
+	if self.ini == nil or self.spawner_present == false then 
+		if force_obinder then 
+			return cse_alife_car.can_switch_online(self)			--110010
+		else
+			return true
+		end
+	end    
+	return xr_spawner.check_spawn(self) or false
+end    
+--------------------
+
+--'Helicopter
+class "se_heli" (cse_alife_helicopter)
+--------------------
+function se_heli:__init (section) super (section)
+end
+function se_heli:keep_saved_data_anyway()
+	return true
+end

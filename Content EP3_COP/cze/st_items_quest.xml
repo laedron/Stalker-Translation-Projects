@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="jup_a9_conservation_info">
+		<text>Dokumenty s poznбmkami</text>
+	</string>
+	<string id="jup_a9_conservation_info_desc">
+		<text>V dokumentech je zmнnka o prнkazu Oddelenн 1. Po zapecetenн transportacnн komory byl podzemnн pruchod zaplnen oxidem uhlicitэm obohacenэm o nejakou chemickou prнmes. Veљkerэ personбl obdrћel prнkaz nosit v oblasti chemickй ochrannй obleky s uzavrenэmi dэchacнmi okruhy.</text>
+	</string>
+	<string id="jup_a9_delivery_info">
+		<text>Dopis ohledne dodбvky predmetu 62</text>
+	</string>
+	<string id="jup_a9_delivery_info_desc">
+		<text>S ohledem na anomбlnн aktivitu nenн preprava predmetu 62 pres otevrenй prostranstvн vhodnб. Pro prepravu pouћijte podzemnн pruchod Pripjat 1. Plбn dodбvky a nбsledujнcнho zapecetenн pruchodu byl predбn oddelenн 1.</text>
+	</string>
+	<string id="jup_a9_evacuation_info">
+		<text>Sloћka s prнkazem</text>
+	</string>
+	<string id="jup_a9_evacuation_info_desc">
+		<text>Dokument zminuje evakuaci produkcnнho komplexu z tovбrny Jupiter do podzemnн laboratore. Evakuace mela bэt projednбvбna v laboratornн sekci.</text>
+	</string>
+	<string id="jup_a9_losses_info">
+		<text>Plбn dodбvky</text>
+	</string>
+	<string id="jup_a9_losses_info_desc">
+		<text>Plбn pro dodбvky predmetu 62: 07/14 - 20 jednotek (jedna poљkozenб); 07/21 - 32 jednotek (2 poљkozeny); 07/28 - 26 jednotek (jedna poљkozena). Vyjбdrenн ohledne ztrбt behem prepravy bylo odeslбno administrative tovбrny, kopie odeslбna do opravбrenskй dнlny.</text>
+	</string>
+	<string id="jup_a9_meeting_info">
+		<text>List ze zбpisnнku</text>
+	</string>
+	<string id="jup_a9_meeting_info_desc">
+		<text>Na schuzi padlo nбsledujнcн rozhodnutн: dodбvkovб sluћba se mб soustredit na evakuaci produkcnнho komplexu predmetu 62.</text>
+	</string>
+	<string id="jup_a9_power_info">
+		<text>Zбznam smeny Povinnosti</text>
+	</string>
+	<string id="jup_a9_power_info_desc">
+		<text>...18:30 - vzduchotesnй zabezpecenн vљech sekcн podchodu P1 dokonceno. 19:00 - vzduchotesnй zabezpecenн ћeleznicnн komory dokonceno. Dvere byly zapeceteny zavarenнm. 19:45 - transportnн dvere uzavreny. Pouћitн mechanismu dverн vyћadovalo aktivaci zбloћnнho generбtoru, protoћe v podchodu jiћ byla odrнznuta energie. 20:00 - chemickб dнlna zahбjila napouљtenн podchodu plynem. 22:00 - dokonceno zapecetenн podchodu, dokumentace odeslбna oddelenн 1.</text>
+	</string>
+	<string id="jup_a9_way_info">
+		<text>Schйma podchodu </text>
+	</string>
+	<string id="jup_a9_way_info_desc">
+		<text>Schйma podchodu Pripjat 1, ukazujнcн podchod pod mestem Pripjat. V dokumentu je nekolik poznбmek: 1. Zapecetenй dvere prechodovй komory. 2. Pouћitн plynu z chemickй dнlny k zabezpecenн podchodu.</text>
+	</string>
+	<string id="jup_b1_half_artifact">
+		<text>Upravenэ izolбtor</text>
+	</string>
+	<string id="jup_b1_half_artifact_descr">
+		<text>Toto byl kdysi izolбtor. Ted je jiћ tйmer ъplne promenen na nestabilnн artefakt. Pravdepodobne je to zdroj psionickэch emisн.</text>
+	</string>
+	<string id="jup_b200_tech_materials_acetone">
+		<text>Plechovka kalafuny</text>
+	</string>
+	<string id="jup_b200_tech_materials_acetone_descr">
+		<text>Plechovka kalafuny pouћнvanй pri pбjenн. V Zуne celkem vzбcnб, coћ vysvetluje, proc mнstnн technici k opravбm zarнzenн pouћнvajн izolacku.</text>
+	</string>
+	<string id="jup_b200_tech_materials_capacitor">
+		<text>Balнcek kondenzбtoru</text>
+	</string>
+	<string id="jup_b200_tech_materials_capacitor_descr">
+		<text>Balнcek kondenzбtoru, zбkladnнch elektrickэch soucбstek. V Zуne nejsou zas tak vzбcnй, jelikoћ se pouћнvajн pro technickб vylepљenн, ale takhle velkй kapacity se normбlne nepouћнvajн.</text>
+	</string>
+	<string id="jup_b200_tech_materials_textolite">
+		<text>Cuprextit</text>
+	</string>
+	<string id="jup_b200_tech_materials_textolite_descr">
+		<text>Cuprextit tvorн zбklad tiљtenэch elektronickэch okruhu. Pocity, kterй mб amatйrskэ elektronik pri doteku nepouћitйho cuprextitu se dajн prirovnat k tomu, co cнtн spisovatel pri pohledu na prбzdnэ kus papнru.</text>
+	</string>
+	<string id="jup_b200_tech_materials_transistor">
+		<text>Krabice tranzistoru</text>
+	</string>
+	<string id="jup_b200_tech_materials_transistor_descr">
+		<text>Krabice tranzistoru - zesilovacнch polovodicu s mnoha ruznэmi pouћitнmi. Po tranzistorech touћн kaћdэ radiovэ technik v Zуne.</text>
+	</string>
+	<string id="jup_b200_tech_materials_wire">
+		<text>Role medenйho drбtu</text>
+	</string>
+	<string id="jup_b200_tech_materials_wire_descr">
+		<text>Role medenйho drбtu, vynikajнcнho vodice, slouћн zбroven i jako zdroj kovu. Proto je takovэ drбt v Zуne celkem drahэ. Vљechny nalezenй velkй rezervy medenэch drбtu uћ byly dбvno, jeљte pred katastrofou, roztaveny a prodбny do sberu.</text>
+	</string>
+	<string id="jup_b209_monster_scanner">
+		<text>Detekcnн skener mutacн</text>
+	</string>
+	<string id="jup_b209_monster_scanner_descr">
+		<text>Toto zarнzenн je zaloћeno na normбlnнm skeneru anomбlnн aktivity. Je vybaveno detektorem mutantu s krбtkэm dosahem a zбznamovэm zarнzenнm pro uklбdбnн namerenэch vэsledku. Zarнzenн obsahuje automatickэ vypнnac, kterэ se pouћije po nahrбnн dostatku dat.</text>
+	</string>
+	<string id="jup_b47_jupiter_products_info">
+		<text>Administrativnн dokumenty</text>
+	</string>
+	<string id="jup_b47_jupiter_products_info_descr">
+		<text>Sloћka dokumentu plnэch administrativnнch informacн. Podle dokumentu byly na prнkaz z centrбlnн laboratore vљechny technickй dokumenty o predmetu 62 predбny testovacн dнlne.</text>
+	</string>
+	<string id="jup_b47_merc_pda">
+		<text>Љpнnovo PDA</text>
+	</string>
+	<string id="jup_b47_merc_pda_desc">
+		<text>Mezi zprбvami se nachбzн jedna zajнmavб. Odeslal ji Љakal a znн: "Muj chlap ve vэzkumnэm institutu doporucн, abys vedl expedici. Bude muset najmout tvou partu na ochranu bunkru. Tнm to budeљ mнt snazљн. Pamatuj, klient chce, aby se k vedcum nedostaly ЋБDNЙ informace o oznacenэch objektech. Pokud se to stane, nebudeme moci opustit Zуnu. Nezklam me, Љpнno."</text>
+	</string>
+	<string id="jup_b9_blackbox">
+		<text>Cernб skrнnka</text>
+	</string>
+	<string id="jup_b9_blackbox_descr">
+		<text>Cernб skrнnka Rejnoka 1, kterб preћila havбrii. Mela by obsahovat informace o poslednнch chvнlнch letu, ackoli budou pravdepodobne zaљifrovanй.</text>
+	</string>
+	<string id="pri_a25_explosive_charge_descr">
+		<text>Vojenskй plastickй vэbuљniny s petisekundovэm casovacem</text>
+	</string>
+	<string id="pri_a25_explosive_name">
+		<text>Vэbuљniny s casovacem</text>
+	</string>
+	<string id="st_af_quest_b14_twisted">
+		<text>Upravenй kolo</text>
+	</string>
+	<string id="st_device_flash_snag">
+		<text>Snagovo PDA</text>
+	</string>
+	<string id="st_device_flash_snag_descr">
+		<text>PDA obsahuje mapu se znackou u stanice, urcujнcн skladiљte, a takй nekolik erotickэch fotografiн. Nic zvlбљtnнho.</text>
+	</string>
+	<string id="st_device_pda_port_bandit_leader">
+		<text>Banditovo PDA</text>
+	</string>
+	<string id="st_device_pda_port_bandit_leader_descr">
+		<text>Poslednн zprбva v PDA znн: "Chyt tu svini Pahejla a prived mi ho, musнm si s nнm pokecat. Je mi fuk, kde je, proste ho najdi. Pokud se bude chtнt rvбt, dej mu lekci. Sultбn."</text>
+	</string>
+	<string id="st_device_pda_zat_b5_dealer_desc">
+		<text>V tomto PDA jsou uloћeny informace o Morganovэch klientech a takй souradnice tajnйho skladiљte Povinnosti, odkud bere zbrane. Morgan prodбvб zbrane ћoldбkum a takй si zrнdil kontakt s nekэm jmйnem Sultбn. Aby Morgan zamaskoval svй stopy, rozhodl se prozradit pozici skladiљte Povinnosti. Jeho komplic Sup mel tyto informace predat. PDA takй zminuje senzor, kterэ dokбћe deaktivovat pouze Morgan. Senzor upozornн Povinnost, pokud sklad nekdo otevre. Tahle informace bude zajнmavб pro Povinnost i Svobodu.</text>
+	</string>
+	<string id="st_device_pda_zat_b5_dealer_name">
+		<text>Morganovo PDA</text>
+	</string>
+	<string id="st_jup_b10_notes_01_desc">
+		<text>Poznбmka na zadnн strane starйho dokumentu: "Duchu, beru si svй veci. Dнky za tu puљku, budu ji potrebovat. Na vэmenu tady nechбvбm nejakй Doktorovy lйky. Podarilo se mi zavйst ћoldбky, kterн me sledovali, do pasti, takћe ty lйky nebudu potrebovat... aspon doufбm. Pujdu za Tesбkem, uћ dal dohromady dekodйr. Setkбme se na obvyklйm mнste, pokud to zvlбdneљ. Strelec."</text>
+	</string>
+	<string id="st_jup_b10_notes_01_name">
+		<text>Vzkaz Duchovi</text>
+	</string>
+	<string id="st_jup_b10_notes_02_desc">
+		<text>Vzkaz na ctvereckovanйm papнre: "Strelce, nechal jsem pro vљechny prнpady v Pripajatskй skrэљi druhэ dekodйr. Zamнrнme s Duchem do Agropromu, takћe tady nechбme nejakou munici. Vezmi si, co potrebujeљ. Љtastnэ lov. Tesбk."</text>
+	</string>
+	<string id="st_jup_b10_notes_02_name">
+		<text>Vzkaz Strelci</text>
+	</string>
+	<string id="st_jup_b10_notes_03_desc">
+		<text>Vzkaz na zadnн strane starйho dokumentu: "Tesбku, uћ nemuћu cekat, jde mi v patбch celэ oddнl. Zamнrнm k Sarkofбgu sбm. Nechбm tady svou љtastnou bouchacku, uћ pro ni stejne nemбm munici. Pokud se nedokбћu vrбtit, dej ji Duchovi. Pokud se o tu bouchacku dobre postarб, postarб se ona o nej. Dбvej na sebe bacha. Strelec."</text>
+	</string>
+	<string id="st_jup_b10_notes_03_name">
+		<text>Vzkaz Tesбkovi</text>
+	</string>
+	<string id="st_jup_b10_ufo_memory_2_desc">
+		<text>Pametovэ modul z UAV. Novikov modul odblokoval, takћe mбљ prнstup k informacнm zнskanэm UAV. Mezi jinэmi jsou tam i souradnice trн rбdiovэch majбku.</text>
+	</string>
+	<string id="st_jup_b10_ufo_memory_2_name">
+		<text>Pametovэ modul (odblokovanэ)</text>
+	</string>
+	<string id="st_jup_b10_ufo_memory_desc">
+		<text>Pametovэ modul z UAV. Navzdory havбrii je modul funkcnн, ale naneљtestн je zablokovanэ.</text>
+	</string>
+	<string id="st_jup_b10_ufo_memory_name">
+		<text>Pametovэ modul (blokovanэ)</text>
+	</string>
+	<string id="st_jup_b205_sokolov_note_desc">
+		<text>Starэ rozpis strбћnнch sluћeb, s cнslem 1421 uvedenэm dole. Pres starэ text je fixou napsбno: "Porucнk V. I. Sokolov. Po havбrii vrtulnнku jsem pokracoval k evakuacnнmu bodu B205. Po dobu dvou dnu nedoљlo k ћбdnйmu pokusu o evakuaci, zustбvat na tйto pozici je prнliљ riskantnн. Rozhodl jsem se proto opustit B205 a pokracovat k mobilnн laboratori vedeckй expedice. Laborator se nachбzн severovэchodne od evakuacnнho bodu."</text>
+	</string>
+	<string id="st_jup_b205_sokolov_note_name">
+		<text>Sokolovuv vzkaz</text>
+	</string>
+	<string id="st_jup_b206_plant_desc">
+		<text>Rostlina, drнvejљн soucбst hбje, kterб byla cбstecne zmenena anomбlnн aktivitou. Hбjek na ъtok reagoval agresivne, ale rostlina samotnб se zatнm nezdб nebezpecnб.</text>
+	</string>
+	<string id="st_jup_b206_plant_name">
+		<text>Anomбlnн rostlina</text>
+	</string>
+	<string id="st_jup_b207_merc_pda_with_contract_desc">
+		<text>Poslednн zprбva na PDA je od Morgana. Jde o kontrakt na vraћdu stalkera jmйnem Degtjarev. Ke zprбve je priloћeno nekolik fotografiн. Morganovy poslednн instrukce znн: po prectenн zprбvu smazat.</text>
+	</string>
+	<string id="st_jup_b207_merc_pda_with_contract_name">
+		<text>Ћoldбkovo PDA</text>
+	</string>
+	<string id="st_jup_b32_scanner_device_desc">
+		<text>Zarнzenн kombinuje detektor artefaktu, elektrickэ zdroj a silnou vysнlacku. Zarнzenн skenuje anomбlie a urcuje typ a pocet artefaktu, kterй se objevн. Vљechny tyto informace se automaticky posнlajн do vedeckйho bunkru.</text>
+	</string>
+	<string id="st_jup_b32_scanner_device_name">
+		<text>Skener anomбlnн aktivity</text>
+	</string>
+	<string id="st_jup_b46_duty_founder_pda_desc">
+		<text>Poslednн poloћka v PDA je audio zбznam: \n"...At jdem kamkoli, vћdycky skoncнme na tom samйm mнste. Porбd si nemuћu na tu mlhu zvyknout. Je divnэ, ћe Cepurny zmizel beze stopy. Moћnб naљel cestu ven?... \nЉestэ den... doљla nбm voda... plukovnнkovi preskocilo, odprбsknul dva lidi a pak sбm sebe... ted jsem v tй zatracenй anomбlii sбm... kdybych se nepostaral, aby se nбm velitelstvн nemohlo dovolat, treba by nбs zachrбnili... a Povinnost by neexistovala. Ale co uћ. Ten kapitбn Tacenko zemrel uћ dбvno... A tenhle generбl Tacenko z Povinnosti ho bude nбsledovat... spravedlnost me dohnala..."\nZбznam je preruљenэ vэstrelem.</text>
+	</string>
+	<string id="st_jup_b46_duty_founder_pda_name">
+		<text>PDA generбla Tacenka</text>
+	</string>
+	<string id="st_lx8_service_instruction_descr">
+		<text>Manuбl popisuje, jak pouћнvat predmet 62. Instrukce zduraznujн, ћe nenн treba pocнtat pri strelbe s trajektoriн strely nebo vetrem, jelikoћ v efektivnнm dostrelu zbrane nemajн tyto podmнnky ћбdnэ vliv.\n\nTyto dokumenty se nesmн dostat do rukou jen tak nekomu. Analytiky z USS by velmi zajнmaly.</text>
+	</string>
+	<string id="st_lx8_service_instruction_name">
+		<text>Manuбl pro predmet 62</text>
+	</string>
+	<string id="st_pri_a19_american_experiment_info_descr">
+		<text>V zбpisnнku jsou detailnн popisy experimentu zkoumajнcнho ъcinky psionickйho pole na objekt na druhй strane sveta. Skupina vedcu v Karibiku signбl zachytila, ale naruљenэ. Signбl byl podivne promenen, jakoby na nem nekdo provedl korekci. Moћnй vysvetlenн by bylo, ћe je teorie noosfйry sprбvnб a zmeny provedla noosfйra.\n\nTyto dokumenty se nesmн dostat do rukou jen tak nekomu, protoћe by o ne meli velkэ zбjem analytici USS.</text>
+	</string>
+	<string id="st_pri_a19_american_experiment_info_name">
+		<text>Zбpisnнk s popisem experimentu</text>
+	</string>
+	<string id="st_pri_a19_lab_x10_info_descr">
+		<text>Dokument popisuje technickй charakteristiky antйny a jak se odliљuje od puvodne plбnovanэch hodnot. Na zadnн strane je poznбmka naznacujнcн, ћe dokument vznikl v laboratori X10.\n\nTyto dokumenty se nesmн dostat do rukou jen tak nekomu, protoћe by o ne meli velkэ zбjem analytici USS.</text>
+	</string>
+	<string id="st_pri_a19_lab_x10_info_name">
+		<text>Duhovэ emitйr, hlavnн parametry</text>
+	</string>
+	<string id="st_pri_a19_lab_x16_info_descr">
+		<text>Dokument se tэkб vedlejљнho vэsledku vэzkumu, konkrйtne objevu, ћe ћijнcн stvorenн dokбћн vytvбret smerovanй psionickй emise. V rбmci vэzkumu byl v laboratori X16 vypestovбn biologickэ vysнlac, v podstate obrovskэ mozek.\n\nTyto dokumenty se nesmн dostat do rukou jen tak nekomu, protoћe by o ne meli velkэ zбjem analytici USS.</text>
+	</string>
+	<string id="st_pri_a19_lab_x16_info_name">
+		<text>Vэzkumnй dokumenty</text>
+	</string>
+	<string id="st_pri_a19_lab_x18_info_descr">
+		<text>Hlбљenн popisuje biologickй vzorky odeslanй z laboratore X18. Vzorky byly vystaveny informacnнmu poli ruznй intenzity. Hlбљenн detailne popisuje mutace ћivэch bytostн vystavenэch emisнm.\n\nTyto dokumenty se nesmн dostat do rukou jen tak nekomu, protoћe by o ne meli velkэ zбjem analytici USS.</text>
+	</string>
+	<string id="st_pri_a19_lab_x18_info_name">
+		<text>Hlбљenн o vzorcнch</text>
+	</string>
+	<string id="st_pri_a19_lab_x7_info_descr">
+		<text>Dokumenty popisujн prevedenн vэzkumnйho tэmu a veљkerэch materiбlu do dalљн laboratore oznacovanй jako X7, kde se budou zkoumat ъcinky noosfйry. Vэzkumnэ tэm se sklбdб z: N.A. Lebedev, E.F. Kalanca a V.I. Suslov.\n\nTyto dokumenty se nesmн dostat do rukou jen tak nekomu, protoћe by o ne meli velkэ zбjem analytici USS.</text>
+	</string>
+	<string id="st_pri_a19_lab_x7_info_name">
+		<text>Prнkaz k presunu</text>
+	</string>
+	<string id="st_pri_b306_envoy_pda_desc">
+		<text>Poslednн poznбmka v PDA znн: "Naљel jsem na љestйm, technickйm patre nouzovэ generбtor. Trvalo mi dve hodiny, neћ jsem ho zprovoznil. Rбd bych ho zapnul, ale Serbin mi prikбzal sedet a nic nedelat, dokud neprivede pбr dalљнch lidн."</text>
+	</string>
+	<string id="st_pri_b306_envoy_pda_name">
+		<text>Barcukovo PDA</text>
+	</string>
+	<string id="st_pri_b35_lab_x8_key_desc">
+		<text>Cervenб magnetickб karta oznacenб jako X8.</text>
+	</string>
+	<string id="st_pri_b35_lab_x8_key_name">
+		<text>Cervenб klнcovб karta X8</text>
+	</string>
+	<string id="st_pri_b36_monolith_hiding_place_pda_desc">
+		<text>PDA obsahuje mnoho nesmyslnэch zбznamu, ale jeden je zajнmavэ: "Monolit komunikuje s prнjemcem zprбvy a prikazuje mu sesbнrat zбsoby munice a uloћit je na lokacнch, o kterэch neverнcн nevedн. Tyto lokace majн bэt oznaceny znakem Monolitu. Aћ prijdou teћkй casy, ti, kdoћ slyљн Monolit, budou teћit z jeho moudrosti... predal jsem vuli Monolitu svэm bratrum a rekl jim, kam majн umнstit munici..."</text>
+	</string>
+	<string id="st_pri_b36_monolith_hiding_place_pda_name">
+		<text>PDA bojovnнka Monolitu</text>
+	</string>
+	<string id="st_toolkit_1_desc">
+		<text>Detskб sada nбradн. K jemnй prбci nevhodnб, ale s ohledem na nedostatek nбstroju v Zуne by se mohla hodit kaћdйmu technikovi.</text>
+	</string>
+	<string id="st_toolkit_1_name">
+		<text>Nбradн pro zбkladnн prбci</text>
+	</string>
+	<string id="st_toolkit_2_desc">
+		<text>Sluљnб sada nбradн. Zjevne ji dal dohromady pro svй vlastnн pouћitн nejakэ zkuљenэ technik. Navzdory svйmu stбrн jsou nбstroje v dobrйm stavu.</text>
+	</string>
+	<string id="st_toolkit_2_name">
+		<text>Nбradн pro jemnou prбci</text>
+	</string>
+	<string id="st_toolkit_3_desc">
+		<text>Profesionбlnн sada nбradн pro jemnй ladenн. Na skrнnce je nбpis oznamujнcн, ћe bylo nбradн vyrobeno v Nemecku. Sada obsahuje tйmer vљe potrebnй k jemnйmu ladenн a kalibraci.</text>
+	</string>
+	<string id="st_toolkit_3_name">
+		<text>Kalibracnн nбradн</text>
+	</string>
+	<string id="st_zat_a23_access_card">
+		<text>Starб magnetickб karta</text>
+	</string>
+	<string id="st_zat_a23_access_card_descr">
+		<text>Kardanova magnetickб klнcovб karta. Pouћнvala se pro prнstup do testovacн dнlny predmetu 62.</text>
+	</string>
+	<string id="st_zat_a23_gauss_rifle_docs">
+		<text>Dokumenty o predmetu 62</text>
+	</string>
+	<string id="st_zat_a23_gauss_rifle_docs_descr">
+		<text>Dokumenty, kterй popisujн operacnн mechanismus a technickй charakteristiky elektromagnetickйho zarнzenн.\nV poznбmce je uvedeno: "Dokumenty musн bэt navrбceny do centrбlnн laboratore X8. Budu mнt spoustu prбce, takћe je predej sбm. Pouћij magnetickou klнcovou kartu v pripjatskйm servisnнm centru, at se dostaneљ do druhйho podzemnнho patra. Tam uћ to najdeљ. Prнstupovou kartu priklбdбm.\nN. Lebedev"\n\nTyto dokumenty se nesmн dostat do rukou jen tak nekomu, protoћe by o ne meli velkэ zбjem analytici USS.</text>
+	</string>
+	<string id="st_zat_a23_labx8_key_name">
+		<text>Ћlutб klнcovб karta X8</text>
+	</string>
+	<string id="st_zat_b12_documents_1">
+		<text>Prнkaz cнslo 562</text>
+	</string>
+	<string id="st_zat_b12_documents_2">
+		<text>Internн prнkaz c. 423</text>
+	</string>
+	<string id="st_zat_b12_key_1">
+		<text>Klнc A</text>
+	</string>
+	<string id="st_zat_b12_key_1_descr">
+		<text>Normбlnн klнc oznacenэ pнsmenem "A".</text>
+	</string>
+	<string id="st_zat_b12_key_2">
+		<text>Klнc B</text>
+	</string>
+	<string id="st_zat_b12_key_2_descr">
+		<text>Normбlnн klнc oznacenэ pнsmenem "B".</text>
+	</string>
+	<string id="st_zat_b20_noah_pda_desc">
+		<text>Jeden z audio zбznamu znн jako namluvenэ љнlencem: "Tak kde jsou ti zatracenн mutanti?! Mizernй svine se vyљplhaly nahoru na ploљinu a myslн si, ћe se k nim Noe nedostane... vsadнm se, ћe nevн o mй osobnн ceste nahoru, kolem severnн farmy... Cekб vбs kopa srandy, hovada!!"</text>
+	</string>
+	<string id="st_zat_b20_noah_pda_name">
+		<text>Noeovo PDA</text>
+	</string>
+	<string id="st_zat_b40_notebook_desc">
+		<text>Mezi hromadami spamu je jedna zprбva oznacenб jako duleћitб:\n"Vybuduj tбbor poblнћ cisticky odpadu, vљichni ъcastnнci tйhle prбce se k tobe pozdeji pridajн. Necekej na Љpнnu, protoћe ten je se svэmi lidmi v Jupiteru, na jinй misi. Armбda preruљila vљechny lety do Zуny, takћe ani z tйhle strany nenн treba ocekбvat problйmy. Aћ stalkeri najdou cestu do Pripjati, poљleme pruvodce a pockбme tam na klientovy lidi - ukбћou nбm, kde ta laborator je.\nЉakal."</text>
+	</string>
+	<string id="st_zat_b40_notebook_name">
+		<text>Ћoldбkuv notebook</text>
+	</string>
+	<string id="st_zat_b40_pda_1_desc">
+		<text>Poslednн prнchozн zprбva znн:\n"Cekбme u nejakй starй dнlny. Poslal jsem napred dva chlapy prozkoumat ti cestu. Budeme tady cekat, dokud se neobjevн klientuv kurэr, vzduch je tady mnohem cistejљн.\nTesak"</text>
+	</string>
+	<string id="st_zat_b40_pda_1_name">
+		<text>PDA ћoldбka Hбka</text>
+	</string>
+	<string id="st_zat_b40_pda_2_name">
+		<text>PDA ћoldбka Hrbбce</text>
+	</string>
+	<string id="st_zat_b57_gas_desc">
+		<text>Kanystr nebezpecnйho nervovйho plynu</text>
+	</string>
+	<string id="st_zat_b57_gas_name">
+		<text>Kanystr plynu Perin B3</text>
+	</string>
+	<string id="zat_b33_safe_container_desc">
+		<text>Krabice je uzamcena kvalitnнm zбmkem. Podle tнhy a zvuku, kterй vydбvб krabice pri potresenн, uvnitr neco je.</text>
+	</string>
+	<string id="zat_b33_safe_container_name">
+		<text>Ocelovб krabice</text>
+	</string>
+	<string id="zat_b39_joker_pda_description">
+		<text>Poznбmka v PDA: "Artefakt je urcite na strome. Odsud vidнm, ћe bych na strom mohl z kopce vyљplhat. Jen doufбm, ћe tam nejsou ћбdnн mutanti.  Je blbэ, ћe jsem sem po hбdce s Kardanem a Bбrkou musel jнt sбm, ale kdyћ jim prinesu ten artefakt, pochopн, ћe jsem mel celou dobu pravdu..."</text>
+	</string>
+	<string id="zat_b39_joker_pda_name">
+		<text>Vtiponovo PDA</text>
+	</string>
+	<string id="zat_b44_barge_pda_desc">
+		<text>Poslednн poznбmka v PDA naznacuje, ћe byl majitel PDA pekne naљtvanэ, kdyћ ji psal: "Kardan, ten starэ oћrala. Nejen ћe je to mizernэ lenoch, jakmile se napije - "tady je to lepљн, je treba bejt v pohode" - ale pak si nedб pokoj a musн do me a do Vtipone rejt, rнkat nбm, jak jsme mladэ a blbэ... pravda, Vtipon je taky peknej pitomec, nasral se, popadl svэ krбmy a zmizel. Zatнmco jsem se snaћil Kardana zklidnit, Vtipon zmizel a jб sakra nevнm kam. A co mбm tedka delat? Chlastat dбl s tнm senilnнm kretйnem? Kaљlu na nej, navнc je ta jeho vodka peknэ svinstvo. Bleh..."</text>
+	</string>
+	<string id="zat_b44_barge_pda_name">
+		<text>Bбrkovo PDA</text>
+	</string>
+	<string id="zat_b22_medic_pda_desc">
+		<text>Straљбk si ve svйm PDA vedl denнk a jeho poslednн zбznamy jsou velice zajнmavй: „Zбznam cнslo 12. Muj vэzkum brzy skoncн... Lidй v tбbore zacнnajн neco tuљit. Tetrev a Danila se chystajн na lov upнru... Netuљнm, kdy to zjistн... Musнm prebrat vљechny nбdoby s krvн, abych zjistil, kterй z nich jsou kontaminovбny a zbytek schovat... [rychle:] Nekdo prichбzн. [zvuk vypнnajнcнho se zбznamnнku nбsledovanэ jeho opetovnэm zapnutнm]. Zбznam cнslo 13... moћnб muj poslednн. Nejdrнv ten slнdнcн stalker a ted i Tetrev... To nemuћe dopadnout dobre... Prijdou si pro me, vнm to. Ale na tom nezбleћн – ta zбvislost na hemoglobinu me stejne brzy zabije. A radљi umru kulkou do hlavy neћ na luћku...“</text>
+	</string>
+	<string id="zat_b22_medic_pda">
+		<text>Strбљбkovo PDA</text>
+	</string>
+	<string id="st_zat_b12_documents_1_descr">
+		<text>Prнsne tajnй. Rozkaz # 562 velitele centrбly zodpovednйho za bezpecnost objektu # 1 R. Yu. Didenka.\nJednotka chemickй ochrany # 423 se premнstн ze sektoru B103 do sektoru A13 k provedenн testu chemickйho roztoku Perin B3 v podmнnkбch boje zblнzka. Plukovnнk P.P. Slavin, velitel jednotky, je zodpovednэ za provedenн testu. Nadporucнk K.S. Valov, zбstupce velitele jednotky, je zodpovednэ za dopravu a bezpecnost.</text>
+	</string>
+	<string id="st_zat_b12_documents_2_descr">
+		<text>Prнsne tajnй. Rozkaz plukovnнka P.P. Slavina.\nV souladu s tнmto rozkazem budou clenovй protichemickй jednotky # 423 seznбmenн s nбsledujнcнmi informacemi:\n1. Klнce k nбdobe s chemickэm roztokem Perin B3 mб plukovnнk P.P. Slavin (klнc A) a podplukovnнk K.S. Vlasov (klнc B).\n2. Razenн konvoje odpredu: vozidlo zбstupce velitele jednotky, doprovodnй vozidlo #8, APC #1, transportnн vozidlo #1, APC #3, doprovodnй vozidlo #2, vozidlo velitele jednotky (P.P. Slavin).\nKopie rozkazu bude predбna podplukovnнku K.S. Vlasovovi a vrchnнmu nadporucнku R.B. Nazarenkovi.</text>
+	</string>
+	<string id="st_zat_a23_labx8_key_descr">
+		<text>Ћlutб magnetickб karta nadepsanб X8.\n\nZa ћбdnou cenu nesmн padnout do nepovolanэch rukou, odemykб totiћ dvere k tajnй laboratori.</text>
+	</string>
+	<string id="st_jup_b202_bandit_pda">
+		<text>PDA Sultбnova posla</text>
+	</string>
+	<string id="st_jup_b202_bandit_pda_descr">
+		<text>Poslednн zprбva, kterб byla z tohoto PDA odeslбna, ze zvukovэ zбznam: „Sultбne, pekne jsem s tнm srбcem vyjebal! Ted uћ se do nбs srбt nebude!“</text>
+	</string>
+	<string id="st_af_quest_b14_twisted_descr">
+		<text>Tohle kdysi bэvalo kormidlo rнcnнho bagru. Postupem casu se zpola pretvorilo na podivnэ artefakt. Nemб ћбdnй vэraznй vlastnosti, jenom vydбvб svit a trochu radioaktivity.</text>
+	</string>
+	<string id="st_zat_b40_pda_2_desc">
+		<text>Obdrћena novб zprбva:\n„Povedlo se mi tu lakomou svini ukecat, takћe nбm prodб zbrane od svэ frakce. Nebude nбs to stбt zas tak moc, stacн, kdyћ se dopravнme do Jupiteru.\n-Sup.”</text>
+	</string>
+</string_table>
