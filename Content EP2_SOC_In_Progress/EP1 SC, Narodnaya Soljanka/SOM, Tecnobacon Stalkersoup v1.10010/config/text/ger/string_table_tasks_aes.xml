@@ -1,39 +1,41 @@
+<!-- TB3D 1.1.0.0.0.4 -->
+<!-- Edited and proofed by Sword2012. 15 Jan 16 -->
 	<string id="aes_military_task_1">
-		<text>Das Tor stürmen</text>
+		<text>Grab gate</text>
 	</string>
 	<string id="aes_military_task_10">
-		<text>Gruppe "Falke"</text>
+		<text>Group 'Hawk'</text>
 	</string>
 	<string id="aes_military_task_11">
-		<text>Gruppe "Geier"</text>
+		<text>Group 'Vulture'</text>
 	</string>
 	<string id="aes_military_task_12">
-		<text>Gruppe "Eule"</text>
+		<text>Group 'Owl'</text>
 	</string>
 	<string id="aes_military_task_13">
-		<text>Gruppe "Weihe"</text>
+		<text>Group 'Harrier'</text>
 	</string>
 	<string id="aes_military_task_2">
-		<text>Die Position halten</text>
+		<text>Foothold</text>
 	</string>
 	<string id="aes_military_task_3">
-		<text>Zum Sarkophag durchkämpfen</text>
+		<text>Break through to the Sarcophagus</text>
 	</string>
 	<string id="aes_military_task_4">
-		<text>Die Befestigungsanlagen von "Monolith 1" zerstören</text>
+		<text>Destroy defense 'Monolith 1'</text>
 	</string>
 	<string id="aes_military_task_5">
-		<text>Die Befestigungsanlagen von "Monolith 2" zerstören</text>
+		<text>Destroy defense 'Monolith 2'</text>
 	</string>
 	<string id="aes_military_task_6">
-		<text>Gruppe "Wanderfalke"</text>
+		<text>Group 'Peregrine'</text>
 	</string>
 	<string id="aes_military_task_7">
-		<text>Gruppe "Milan"</text>
+		<text>Group 'Kite'</text>
 	</string>
 	<string id="aes_military_task_8">
-		<text>Gruppe "Habicht"</text>
+		<text>Group 'Accipiter'</text>
 	</string>
 	<string id="aes_military_task_9">
-		<text>Gruppe "Turmfalke"</text>
+		<text>Group 'Kestrel'</text>
 	</string>

@@ -1,271 +1,194 @@
-<!-- Ьbersetzt und angepasst durch Wlad Geschwendt aka 777-W.L.A.D. am 26.04.2008 -->
-<!-- Update am 06.11.2008 -->
-
-<?xml version="1.0" encoding="windows-1251" ?>
-<string_table>
-
-			<string id="val_escort_nap2_dialog_0">
-		<text>Hey, Stalker! Kannst du mir helfen meinen Partner aus der Gefangenschaft der Banditen zu befreien? Er wird gleich ьberfьhrt und ich kenne einen guten Platz fьr den Hinterhalt. Wenn du mir hilfst, werde ich mich auf jeden Fall erkenntlich zeigen. Die Wдchter halten ihr Wort!</text>
-	</string>
-	
-	<string id="val_escort_nap2_dialog_1">
-		<text>Jeder hat das Recht auf die Freiheit, nicht wahr? Ich helfe dir. Los geht's!</text>
-	</string>
-	
-	<string id="val_escort_nap2_dialog_2">
-		<text>Tut mir leid, Bruder. Ich kann dir nicht helfen. Ich muss mich um meine eigenen Angelegenheiten kьmmern.</text>
-		</string>
+<?xml version="1.0" encoding="windows-1251"?> 
+<!-- TB3D 1.1.0.0.0.4 Serega, removed "string_table" - aleks1970 -->
+<!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 07 Oct 16 -->
+<!-- Corrected many generic punctuation, in-game and US/UK spelling errors - Sword2012 - 12 Dec 16 -->
 
 	<string id="val_escort_captive_dialog_11">
-		<text>Banditen, diese Hurensцhne, wollten mich zur alten Fabrik bringen. Ich weiЯ nicht, was sie dort mit mir anstellen wollten, aber vorher haben sie schon einen anderen Typen da hineingebracht, und ich habe ihn nicht wiedergesehen. Sie haben noch einen von uns: Serega. Sie halten ihn im Keller fest. In diesem groЯen Gebдude dort... ein riesiges noch nicht fertiges Gebдude.\n \nKannst du ihm helfen? Ansonsten werden sie... du weiЯt schon...</text>
+		<text>Fucking bandits! Those sons of bitches were taking me to the old factory. I've no idea what they were planning to do with me. I saw them take another guy there, a long time ago, and never saw him again. They've already got Serega, another one of ours. They keep him in the basement of their camp, that large unfinished building over there. Can you help him out? I know they're going to kill him otherwise...</text>
 	</string>
-	
 	<string id="val_escort_captive_dialog_2">
-		<text>WeiЯt du, was sie dort in der Fabrik haben?</text>
+		<text>Do you know what they've got there at the factory?</text>
 	</string>
-	
 	<string id="val_escort_captive_dialog_21">
-		<text>Ich habe nicht viel gehцrt. Alles, was ich weiЯ, ist, dass "Borow", ihr Boss, jetzt einen Teil des Schlьssels zu den Kellern dort hat. Da war wohl mal ein Labor oder so was... Ich habe gehцrt, wie sie darьber redeten, dass "Borow" ganz wild darauf sei, dort hineinzugelangen. Ihm fehlt aber noch die zweite Hдlfte des Schlьssels.\n \nДhm... wenn du darьber nachdenkst, da hineinzukommen, dann solltest du es dir noch einmal ьberlegen. Da ist alles voller Banditen.</text>
+		<text>I haven't heard much. All I know is their boss, Borov, has one of the keys to the Underground there. There used to be a lab or something. Borov wants to find out what's inside, but he can't without the second key. If you're thinking of trying to get inside the base, it's shit-full of bandits. More than anywhere else I've seen...</text>
 	</string>
-	
 	<string id="val_escort_captive_dialog_211">
-		<text>Verstanden. Danke, ich werde es im Hinterkopf behalten.</text>
+		<text>Thanks, I'll keep that in mind</text>
 	</string>
-	
 	<string id="val_escort_captive_dialog_3">
-		<text>Ich werde versuchen dem Mann zu helfen.</text>
+		<text>I'll try to help your guy</text>
 	</string>
-	
 	<string id="val_escort_captive_dialog_41">
-		<text>Das ist eine Schande mit meinem Kumpel... er war ein klasse Typ. Trotzdem bin ich dir was schuldig.</text>
+		<text>It's a real shame about my partner - he was a great guy. But still, I owe you...</text>
 	</string>
-	
 	<string id="val_escort_captive_dialog_411">
-		<text>Sowas passiert eben.</text>
+		<text>I'm sorry, but shit happens whatever you try to do...</text>
 	</string>
-	
 	<string id="val_escort_captive_dialog_51">
-		<text>Danke fьr die Hilfe!</text>
+		<text>Thanks for your help</text>
 	</string>
-	
 	<string id="val_escort_captive_dialog_511">
-		<text>Bis dann.</text>
+		<text>Bye</text>
 	</string>
-	
 	<string id="val_escort_captive_dialog_61">
-		<text>Du scherst dich wohl einen Dreck um andere Leute. Wir haben nichts zu besprechen.</text>
+		<text>You don't give a shit about anyone but yourself. Fuck off! I want nothing to do with you!</text>
 	</string>
-
 	<string id="val_escort_nap1_dialog_21">
-		<text>Danke, Bruder. Hast meinen Kumpel hier rausgeholt! Hier, nimm das - es kommt vom Grunde meines Herzens.\n \n
-		Sag mal, kannst du noch jemandem aus der Klemme helfen?</text>
+		<text>Thanks! You got my partner out! Here, please take this from the bottom of my heart</text>
 	</string>
-	
 	<string id="val_escort_nap1_dialog_2111">
-		<text>Abgemacht.</text>
+		<text>Deal</text>
 	</string>
-	
 	<string id="val_escort_nap1_dialog_212">
-		<text>Ich schдtze, du kennst diese Gegend hier gut. Was gibt es hier denn Interessantes?</text>
+		<text>I guess you know this area well. Anything interesting around here?</text>
 	</string>
-	
 	<string id="val_escort_nap1_dialog_2121">
-		<text>Im Norden ist ein Banditenlager, im Osten eine alte Fabrik, im Sьdwesten eine verlassene Schweinezucht. Und dahinter ist eine Art Tor ... was sich da genau befindet, kann ich nicht sagen. Bin nie so weit gewesen.</text>
+		<text>To the north there's a Bandit camp. To the east, an old factory. To the southwest, a deserted pig farm. And some kind of gate beyond it. I can't say what's there, I've never been that far</text>
 	</string>
-	
 	<string id="val_escort_nap1_dialog_21211">
-		<text>Kannst du mir mehr ьber das Banditenlager erzдhlen?</text>
+		<text>Can you tell me more about the Bandit camp?</text>
 	</string>
-	
 	<string id="val_escort_nap1_dialog_212111">
-		<text>Hmm, was gibt's da zu sagen ... Die haben sich genau nцrdlich von hier in einem Gebдude niedergelassen, das noch nicht fertiggestellt worden ist. Ihr Anfьhrer ist "Borow" - ein echtes Tier, dieser Bastard. Deshalb haben sie uns hierher geschickt: um ihn zu erledigen.</text>
+		<text>A load of Bandits settled in an unfinished building just north of here. Their leader's called Borov. A real animal, and a total bastard. That's why they sent us - to try and finish him off. Once he's gone, we reckon the rest will disappear fast, without the need for any more bloodshed...</text>
 	</string>
-	
 	<string id="val_escort_nap1_dialog_21212">
-		<text>Was ist das fьr eine Geschichte mit der Fabrik?</text>
+		<text>What's happening in the factory?</text>
 	</string>
-	
 	<string id="val_escort_nap1_dialog_212121">
-		<text>Wir haben herausfinden kцnnen, dass da sich irgendein Eingang in die unterirdische Raume befindet. Und dieser wird stark bewacht.</text>
+		<text>We found out that there's some kind of vault down there. Only it's guarded like friggin' Fort Knox!</text>
 	</string>
-	
 	<string id="val_escort_nap1_dialog_2121211">
-		<text>Was fьr unterirdische Raume? Was ist darin?</text>
+		<text>What kind of vault? What's inside?</text>
 	</string>
-	
 	<string id="val_escort_nap1_dialog_21212111">
-		<text>Ich weiЯ nicht, was. Ich weiЯ es nicht. Wir trauen uns nicht rein. Das einzige, was ich weiЯ, ist, dass "Borow" die Hдlfte vom Schlьssel zum Eingang besitzt.</text>
+		<text>We've no idea, but we were trying to find out. The only thing I know is that Borov has one of the keys to it</text>
 	</string>
-	
 	<string id="val_escort_nap1_dialog_21213">
-		<text>Eine echte Schweinezucht? Da sind Schweine und all so Zeug?</text>
+		<text>A real pig farm? With actual pigs?</text>
 	</string>
-	
 	<string id="val_escort_nap1_dialog_212131">
-		<text>Trдumst schon von 'nem Schnitzel, was? Verdammt, die Zone steckt voller Wildschweine! Iss etwas von denen, und du brauchst kein Blitzlicht mehr - weil du im Dunkeln von alleine leuchtest! Schon gut, schon gut, war nur ein Scherz ... Der Zuchtbetrieb wurde schon vor langem verlassen und ist jetzt das Zuhause von einigen Stalkern. Die haben allerdings keinen guten Eindruck auf mich hinterlassen, und fьr gewцhnlich kann ich mich auf meine Eindrьcke verlassen.</text>
+		<text>Nah, not any more. The farm was abandoned after all the animals died and the soil was ruined. Thinking about pork chops? Have you ever tried the boar meat from around here? I did once. You ever see those 'glow in the dark' toys? Well, after one meal, everyone knew where I'd been for a crap! Funniest thing about it was the poor bastard who thought he'd found a new artefact!\nAnyway, just a few Stalkers hang out there now. I get a bad feeling about them, though, and I usually trust my gut, even though it's been irradiated and everything...</text>
 	</string>
-	
 	<string id="val_escort_nap1_dialog_21214">
-		<text>Was ist das fьr ein Tor, von dem du gesprochen hast?</text>
+		<text>What's this gate you mentioned?</text>
 	</string>
-	
 	<string id="val_escort_nap1_dialog_212141">
-		<text>Ich weiЯ es einfach nicht. Irgendein altes Tor ... nur, dass es versperrt und gut bewacht ist. Wir sind noch nicht dahinter gewesen.</text>
+		<text>I'm not sure. It's just an old gate, except that it's kept locked and well-guarded. We haven't gone near it</text>
 	</string>
-	
 	<string id="val_escort_nap1_dialog_21215">
-		<text>Ich verstehe. Danke fьr die Informationen.</text>
+		<text>I see. Thanks</text>
 	</string>
-	
 	<string id="val_escort_nap1_dialog_212151">
-		<text>Gern geschehen! Du kannst jederzeit wiederkommen.</text>
+		<text>You're welcome! Come back any time!</text>
 	</string>
-	
 	<string id="val_escort_nap1_dialog_213">
-		<text>Ihr zwei seid alleine losgezogen?</text>
+		<text>Just the two of you on a scouting raid?</text>
 	</string>
-	
 	<string id="val_escort_nap1_dialog_2131">
-		<text>Da war noch ein anderer Typ: Serega. Ich weiЯ nicht, er ist verschwunden und ich habe nichts mehr von ihm gehцrt... Die Bande wird ihn wohl erledigt haben.</text>
+		<text>There was another guy, Sergei. I don't know. He disappeared, and I've not heard of him since</text>
 	</string>
-	
 	<string id="val_escort_nap1_dialog_214">
-		<text>Pass auf dich auf.</text>
+		<text>Take care, my friend</text>
 	</string>
-	
 	<string id="val_escort_nap1_dialog_31">
-		<text>Oh, Mann ... Was wird mit mir passieren, Kumpel? ... Danke Bruder - wenigstens hast du versucht, mir zu helfen. Und ich halte mein Wort.</text>
+		<text>So, what will happen to me now? Thank you, friend, at least you tried to help. And I do keep my word</text>
 	</string>
-	
 	<string id="val_escort_nap1_dialog_41">
-		<text>Danke fьr deine Hilfe, Stalker!</text>
+		<text>Thanks for your help! What else did you want to know?</text>
 	</string>
-	
 	<string id="val_escort_nap1_dialog_61">
-		<text>Du hast mir nicht geholfen, als ich dich darum gebeten habe. Wir haben uns nichts mehr zu sagen, also verpiss dich.</text>
+		<text>If you'd really meant to help when I asked you, someone of your obvious ability would have killed at least ONE of those Bandits...\nI don't know if you intended us to fail, but we have nothing more to discuss. Just fuck off out of here and don't come back. And remember, the Zone's a small place...</text>
 	</string>
-	
 	<string id="val_escort_nap1_dialog_611">
-		<text>Tschьss.</text>
+		<text>Bye</text>
 	</string>
-	
 	<string id="val_prisoner_hello_11">
-		<text>Hey, Kumpel! Hilf mir! Ich bin ein Spдher der "Wдchter". Hilf mir hier raus!</text>
+		<text>Hey, buddy! Help me! I'm a Duty scout. Can you help me get out?</text>
 	</string>
-	
 	<string id="val_prisoner_hello_111">
-		<text>Ich werde es versuchen.</text>
+		<text>I'll do my best...</text>
 	</string>
-	
 	<string id="val_prisoner_hello_112">
-		<text>Ich kann leider nichts fьr dich tun.</text>
+		<text>Sorry, but there's nothing I can do for you...</text>
 	</string>
-	
 	<string id="val_prisoner_hello_21">
-		<text>Danke, Bruder! Ich schulde dir was. Ich habe etwas herausgefunden - vielleicht kannst du die Information gebrauchen, wer weiЯ? ... "Borow" - dieser Durchgeknallte - hat ziemlich viele hьbsche Sachen zusammengetragen. Er hat den Teil eines Schlьssels zur unteren Etagen der Fabrik. Ich habe die Wachen plappern hцren. Sie sagten, dass da mal eine Art Labor war. Das Problem ist, dass es nicht so einfach ist, an "Borow" heranzukommen.</text>
+		<text>Thanks, brother! I owe you one. Here's something that might be of use to you. Borov, the one who calls the shots here, has collected quite a lot of goodies. He's got one of the keys to the lower levels at the old factory. I heard the guards yacking, and they said there used to be some kind of lab there. The thing is, getting close to Borov isn't easy...</text>
 	</string>
-	
 	<string id="val_prisoner_hello_211">
-		<text>Danke fьr die Informationen.</text>
+		<text>Thanks for the info</text>
 	</string>
-	
 	<string id="val_prisoner_hello_2111">
-		<text>Es gibt da noch was. Es gibt eine Methode, wie man ein "Gepresstes" und ein "Tropfen" zu einer "Steinblume" vereinen kann. Die wirfst du in die "Elektra", zusammen mit einer Konserve und einem Hundeschwanz...\n \nWird Zeit, zu unseren Jungs zurьckzugehen. Irgendwas sagt mir, dass wir von Glьck reden kцnnen, wenn wir hier lebend rauskommen...\n \nЬbrigens, hier in der Nдhe ist eine AK-47 versteckt... Auf dem Dach der Tankstelle. Gegen Mutanten ist die ganz gut...</text>
+		<text>We need to get back to our guys, but I've a feeling we'll be lucky to get out of here alive...</text>
 	</string>
-	
 	<string id="val_prisoner_hello_21111">
-		<text>Danke dir dafьr. Viel Glьck!</text>
+		<text>Good luck...</text>
 	</string>
-	
 	<string id="val_prisoner_hello_31">
-		<text>Wir mьssen von hier verschwinden, bevor diese Bastarde beschlieЯen, diesen Ort hochzunehmen! Brauchst du was? Dann hol es dir schnell!</text>
+		<text>We have to get outta here before the bastards decide to check out this place! If you want something, make it quick!</text>
 	</string>
-	
 	<string id="val_prisoner_hello_311">
-		<text>Nц, nichts.</text>
+		<text>Nope, nothing</text>
 	</string>
-	
 	<string id="val_prisoner_hello_41">
-		<text>Hey, Kumpel! Da hinten an der Wand ist ein Schalter - er цffnet die Zellentьr.</text>
+		<text>Hey! There's a switch over there on the wall. It opens the cell door...</text>
 	</string>
-	
 	<string id="val_prisoner_hello_411">
-		<text>In Ordnung, ich werde mal schauen.</text>
+		<text>Okay, I'll look</text>
 	</string>
-	
 	<string id="val_rob_dialog_11">
-		<text>Hi, brauchst du eine beeindruckende Waffe? Ich habe da in der Nдhe von Jantar etwas gefunden... eine Art Lager. Unter anderem war da dieses Gauss-Gewehr. Ich sag dir, dieses Ding ist klasse - jeder im Umkreis von 100 Metern ist so gut wie tot ... Fьr schlappe 800 wird es in einem Augenblick hier sein!</text>
+		<text>Hey, you want an awesome gun? I found this stash near Yantar - maybe one of those scientists earning a little extra...\nThere was this Gauss rifle inside, amongst other things. I'm telling you, man, this thing fucking rocks! You can take out anyone within a few hundred metres with one hit! Even a mutant! Yours for just 800...</text>
 	</string>
-	
 	<string id="val_rob_dialog_111">
-		<text>Hier ist das Geld.</text>
+		<text>Deal. Here's your money</text>
 	</string>
-	
 	<string id="val_rob_dialog_112">
-		<text>Nein, danke.</text>
+		<text>Thanks, but no thanks</text>
 	</string>
-	
 	<string id="val_rob_dialog_113">
-		<text>Nein, behalte es. An Geld ist kaum ranzukommen.</text>
+		<text>Thanks, but keep it. Money's hard to come by</text>
 	</string>
-	
 	<string id="val_rob_dialog_21">
-		<text>Hast du das Geld? Beeil dich, ich habe viele Kunden... sonst kauft es ein anderer.</text>
+		<text>Got the money? Hurry up, I've got other customers. They'll be here soon</text>
 	</string>
-	
 	<string id="val_rob_dialog_3">
-		<text>Ausgezeichnet. Warte hier, ich hole es eben.</text>
+		<text>Excellent. I've it hidden it away carefully. Wait here, I'll go get it...</text>
 	</string>
-	
 	<string id="val_rob_dialog_31">
-		<text>Ich warte.</text>
+		<text>I'm still waiting. What's the problem?</text>
 	</string>
-	
 	<string id="val_sos_dialog_11">
-		<text>Hey, gib mir ein Medikit!</text>
+		<text>Hey, gimme a medkit!</text>
 	</string>
-	
 	<string id="val_sos_dialog_111">
-		<text>Hier.</text>
+		<text>Here you are...</text>
 	</string>
-	
 	<string id="val_sos_dialog_112">
-		<text>Tut mir Leid, ich habe kein Medikit.</text>
+		<text>Sorry, I don't have one</text>
 	</string>
-	
 	<string id="val_sos_dialog_21">
-		<text>Vielen Dank, Kumpel. Du hast mir echt geholfen. Wenn ich lange genug lebe, um dich noch einmal zu treffen, werde ich dich dafьr belohnen. Alles, was ich im Moment entbehren kann, ist nur ein saftiger Tipp fьr dich. In Ordnung, sьdlich von hier gibt es einen Zuchtbetrieb, in dem einige Stalker ihr Lager aufgeschlagen haben. Einer von ihnen hat ein Gauss-Gewehr zu verkaufen, echt billig, nur 800 Rubel. Ich wollte es gerade kaufen, doch dann dies hier... Wenn du also die Kohle hast, dann geh schnell hin.</text>
+		<text>Thanks, you really bailed me out! I owe you a big favour, but all I can give you at the moment is a juicy tip. South of here, there's a farm where some Stalkers set up camp. I heard one of them's selling a working Gauss rifle for just 800. I wanted to buy it, but before I could get back with the cash I got knee deep in this shit. If you want an absolute bargain, then it's yours!</text>
 	</string>
-	
 	<string id="val_sos_dialog_211">
-		<text>Danke fьr die Information.</text>
+		<text>Thanks for the tip</text>
 	</string>
-	
 	<string id="val_escort_nap1_dialog_4111">
-		<text>Ich schulde dir was, und ich begleiche meine Schulden immer. Gehen wir.</text>
+		<text>I owe you, and I always repay my debts. Let's go</text>
 	</string>
-	
 	<string id="val_escort_nap1_dialog_41111">
-		<text>Klasse. Und jetzt reiЯen wir alle in Stьcke.</text>
+		<text>Excellent! Now let's tear 'em some new ones...</text>
 	</string>
-	
 	<string id="val_escort_nap1_dialog_4112">
-		<text>Tut mir leid, hab was anderes vor.</text>
+		<text>Sorry, I have other plans</text>
 	</string>
-	
 	<string id="val_escort_nap1_dialog_41121">
-		<text>Dann viel Glьck dabei.</text>
+		<text>Well, good luck then</text>
 	</string>
-	
 	<string id="val_escort_nap1_dialog_412">
-		<text>Mach's gut.</text>
+		<text>Bye</text>
 	</string>
-
 	<string id="dark_pulia_talk_story_0">
-		<text>Was kannst du noch erzдhlen?</text>
+		<text>Know any interesting stories?</text>
 	</string>
-	
 	<string id="dark_pulia_talk_story_1">
-		<text>Ich erzдhl dir mal vom "Steinblut". Ich bin hinter sein Geheimnis gekommen! Das war schon vor langer Zeit - ich war tief in der Zone, auf dem weg zurьck wurde ich verletzt und Geld hatte ich auch kaum noch. Da stieЯ ich auf ein Artefakt, den ich noch nicht kannte. Ich dahin - ich hatte ja Geld nцtig - und da liegt so ein Ding rum, bestimmt wertvoll... Bin noch fast in den "Lift" gerannt. Und bis ich heim kam, sind meine Wunden geheilt, echt!\n \nIm Lager hat man mir geraten, das Ding den Eierkцpfen zu zeigen. Als ich dann bei ihnen war und das Artefakt rausholte - da flippten sie fast aus und bezahlten mich fьrstlich. Kannst mir glauben oder auch nicht, ist deine Entscheidung...</text>
+		<text>Have you heard of the 'Stone Blood' artefact? I found one once! I was on my way back from a raid. I needed money desperately, so I went looking for artefacts. It was dark, and I walked straight into a moving anomaly. I was in agony, and couldn't get up. I rolled over and over, trying to get away from the bitch. Then suddenly I was staring at an artefact I'd never seen before.\nI started to crawl back to camp, but by the time I'd got there I was walking fine, and all my wounds had healed! I showed it to everyone, and they all said I should take it to the Scientists, so I did. They were really excited, and gave me a ton of money for it. Seriously, it's true...</text>
 	</string>
-</string_table>

@@ -1,52 +1,51 @@
-<!-- Angepasst und berichtigt durch Wlad Geschwendt aka 777-W.L.A.D.  -->
-
-<!-- Update am 22.06.2008 -->
-
+<!-- TB3D 1.1.0.0.0.4 -->
+<!-- Edited and proofed by Sword2012. 15 Jan 16 -->
+<!-- Names changed as commented below - Sword2012 - 31 Oct 16 -->
 	<string id="gar_angar">
-		<text>Verlassener Hangar.</text>
+		<text>Abandoned Hangar</text>
 	</string>
 	<string id="gar_bandit_agr">
-		<text>Banditenlager beim Ausgang von Agroprom.</text>
+		<text>Bandit camp</text>
 	</string>
 	<string id="gar_bandit_post">
-		<text>Banditenbasis auf der Straße nach Agroprom.</text>
+		<text>Bandits</text>
 	</string>
 	<string id="gar_bandits_leader">
-		<text>Vom Banditen-Boss angeführter Banditenangriff.</text>
+		<text>Bandit leader</text>
 	</string>
 	<string id="gar_boars_nest">
-		<text>Eine Horde Wildschweine.</text>
+		<text>Wild boars' den</text>
 	</string>
 	<string id="gar_car_graveyard">
-		<text>Fahrzeug-Schrottplatz.</text>
+		<text>Machinery Graveyard</text>
 	</string>
 	<string id="gar_dogs_in_forest">
-		<text>Wald voller Hunde</text>
+		<text>Woods full of dogs</text>
 	</string>
 	<string id="gar_dolg_blokpost">
-		<text>Wächterposten auf der Straße zur Bar.</text>
+		<text>Duty Checkpoint</text>
 	</string>
 	<string id="gar_hellcar">
-		<text>Eine Gruppe neutraler Stalker, die um Hilfe ruft.</text>
+		<text>Stalkers</text>
 	</string>
 	<string id="gar_newbie">
-		<text>Ein verängstigter und übermüdeter Anfänger.</text>
+		<text>Rookie</text>
 	</string>
 	<string id="gar_secret1">
-		<text>Das Geheimversteck des Anfängers.</text>
+		<text>Rookie's cache</text>
 	</string>
 	<string id="gar_seriy">
-		<text>Gruppe von "Grauer"</text>
+		<text>Seriy's group</text><!-- Changed 'Serly' to 'Seriy'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="gar_swamp">
-		<text>Das Modermoor.</text>
+		<text>Swamp</text>
 	</string>
 	<string id="gar_trash1">
-		<text>Abfallhaufen mit Anomalien und Artefakten.</text>
+		<text>Garbage heaps - BEWARE OF THE RADIATION</text>
 	</string>
 	<string id="gar_tunnel">
-		<text>Eisenbahntunnel.</text>
+		<text>Railway tunnel</text>
 	</string>
 	<string id="gar_wounded_help">
-		<text>SOS-Signal. Wahrscheinlich ein verwundeter Stalker.</text>
+		<text>Stalker (wounded)</text>
 	</string>

@@ -1,77 +1,78 @@
-<!-- Update am 22.06.2008 -->
-	
+<!--1.1.0.0.0.4 -->
+<!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 08 Oct 16 -->
+<!-- Corrected many generic punctuation, in-game and US/UK spelling errors - Sword2012 - 12 Dec 16 -->
 	<string id="bar_darklab_documents_txt">
-		<text>Wirt: "Die Dokumente, die du von Agroprom mitgebracht hast, klären schon einiges auf, aber einige Daten fehlen. Es gibt Hinweise, die nahe legen, dass ein Hirnschmelzer die Straße nach Norden blockiert, aber niemand weiß Genaues. Es wird außerdem ein Labor X-18 erwähnt. Der Beschreibung nach müssten das die verlassenen unterirdischen Gebäude im Dunklen Tal sein. Niemand weiß, was da zur Zeit los ist. Außerdem haben Banditen im Dunklen Tal ihr Lager aufgeschlagen.\n \nEinige Späher der Wächter sind kürzlich da hin, aber bisher haben wir nichts von ihnen gehört.\n \nUm in das Labor einzudringen, brauchst du zwei elektronische Schlüssel. Einen bekommst du von mir, aber den anderen musst du Borow abnehmen, dem Anführer der Banditen.\n \nWenn du den zweiten Schlüssel von Borow hast, musst du dich in das Labor schleichen und die Dokumente holen.</text>
+		<text>Barkeep: According to the documents you brought from Agroprom, things are starting to become clear, although some data is missing. There's evidence to suggest the presence of a 'Brain Scorcher' that blocks the road to the North, but no one knows exactly what it is. There's also mention of a Lab X-18, and its description matches the abandoned underground structures in the Dark Valley. However, its current status is unknown, and bandits have now set up a base in that area.\n Several Duty scouts went there recently, but there's been no news from them so far.\n To get inside the lab, you'll need two electronic keys - I'll give you one, but the other you'll need to get from Borov, the bandit leader, one way or another\n \nThat seems to be the only way to get at the documents...</text>
 	</string>
 	<string id="bar_darklab_documents2_txt">
-		<text>Es ist unerlässlich, die Dokumente über die Forschung aus Labor X-18 zu finden. Sie können vielleicht einiges über den Hirnschmelzer erklären.</text>
+		<text>Find the documents relating to previous research in Lab X-18. They should shed some light on the 'Brain Scorcher'</text>
 	</string>
 	<string id="dar_codedoor_1_txt">
-		<text>Ein Kombinationsschloss versperrt den Weg ins Labor. Es muss jemanden her, der die Kombination kennt.</text>
+		<text>A combination lock is blocking the way into the lab. You'll need to find someone who knows the combination</text>
 	</string>
 	<string id="dar_codedoor_2_txt">
-		<text>Da ist noch eine Tür, hinter der bestimmt etwas ist. Es muss der Code her, der die Tür öffnet.</text>
+		<text>There's another door, with something definitely behind it. You just need to find the code</text>
 	</string>
 	<string id="dar_document1">
-		<text>Der Anfang des Experiments</text>
+		<text>The first stage of the experiment</text>
 	</string>
 	<string id="dar_document2">
-		<text>Die zweite Stufe des Experiments</text>
+		<text>The second stage of the experiment</text>
 	</string>
 	<string id="dar_document3">
-		<text>Sicherheitsbericht</text>
+		<text>Security report</text>
 	</string>
 	<string id="dar_document4">
-		<text>Angriff auf das Personal</text>
+		<text>Attack on personnel</text>
 	</string>
 	<string id="dar_document5">
-		<text>Die letzte Stufe des Experiments</text>
+		<text>The third and final stage of the experiment</text>
 	</string>
 	<string id="documents_1">
-		<text>Vor einer Woche wurde beschlossen, die Intensität der Strahlung bei den Testsubjekten zu erhöhen. In den ersten paar Tagen wurde keine Veränderung festgestellt. Nach mehreren Tagen kam es zu seltsamen Metamorphosen: Haarausfall, erhöhte Aggressivität ... Mehrere Subjekte wurden buchstäblich von anderen überrannt.</text>
+		<text>A week ago, we decided to increase the radiation dosage of the test subjects. No changes were detected in the first three days. After that, however, strange metamorphoses started to occur, most notably hair loss and heightened aggressiveness. Several subjects were literally trampled over by their peers</text>
 	</string>
 	<string id="documents_2">
-		<text>Der Zustand der Subjekte hat sich stabilisiert. Der Haarbestand beträgt 10% des Ausgangswertes. Krallen und Zähne sind deutlich gewachsen. In aktiven Phasen sind sie unvorhersehbar, ihr Verhalten richtet sich aber nicht gegen die anderen. Der leitende Labortechniker A.N. Burnow spekulierte, dass dies an einer Erhöhung des Intellekts der Subjekte liegen könnte. Es wurde entschieden, die neue Modulation der PSI-Emissionen bei den Subjekten zu testen.</text>
+		<text>The subjects' condition has stabilized. Hair loss has stopped, leaving them with approximately 10% of their original follicles. Their claws and teeth have grown considerably. They exhibit seemingly random behaviour, with no sense of purpose or goal. Bursts of aggressive activity are no longer directed at their peers. Senior lab technician A.N. Burnov speculated that this may indicate an increase in the subjects' awareness. We have decided to test the new modulation algorithm of Psi-emissions on the subjects</text>
 	</string>
 	<string id="documents_3">
-		<text>Sicherheitschef: Gestern warf Sicherheitsmann G.P. Glebow den Subjekten zum Spaß ein Stück Fleisch zu. Sie rissen es in Sekunden in Stücke und verzehrten es. Dann versuchten einige, aus den Zellen auszubrechen. Die Labortechniker konnten daher nicht die benötigten Proben nehmen. G.P. Glebows Tat war zwar undurchdacht, doch ich schlage vor, dass das Wartungspersonal mit Luftgewehren oder Schutz ausgestattet wird, um sich im Notfall zu wehren.</text>
+		<text>Chief of Security: Yesterday, security guard G.P. Glebov tossed a piece of meat to the subjects, out of 'scientific curiosity'. To his surprise, every one of them sprang to life, tore it apart, and devoured it in seconds, while Glebov was lucky to escape with his life. Subsequently, several individuals have tried to break out of their cells. Because of this, our lab technicians have been unable to obtain the regular test samples. Although Glebov's actions were foolhardy, warranting disciplinary action, I propose that all maintenance personnel be equipped with defensive weapons from here on, for adequate protection in the event of an emergency</text>
 	</string>
 	<string id="documents_4">
-		<text>Sicherheitschef: Gestern wäre das Experiment fast außer Kontrolle geraten. Zwei Dutzend Testsubjekte brachen aus und haben zwei Laborräume verwüstet. Zum Glück konnte sich das Forschungspersonal oben einschließen. Wir sollten den Hauptraum des Labors räumen. Bei der Operation wurden drei Wachleute gebissen. Sie werden sich hoffentlich erholen. Ich hoffe, das Experiment ist bald vorbei.</text>
+		<text>Chief of Security: Yesterday the experiment almost got out of control. Nearly two dozen test subjects broke out of their cells and vandalised two laboratory rooms. Fortunately, the research personnel were able to lock themselves in an upstairs room. Security was ordered to clear the main laboratory room. In the course of their duties, three guards suffered bites to their bodies. Hopefully, they'll be okay but, for the sake of my men, I hope the experiment will be concluded soon</text>
 	</string>
 	<string id="documents_5">
-		<text>Gestern haben wir die Testsubjekte einer neuen Modulation von PSI-Emissionen ausgesetzt. Es war, als hätte man ihre Hirne geröstet. Ich kann mir kaum vorstellen, wie sich diese Emission auf Menschen auswirken würde. Wir haben jede Art von Emission getestet und das Ergebnis stimmt mit denen aus anderen Labors überein. Das Experiment ist abgeschlossen. In einer Woche sind wir wohl so weit, es an größeren Wesen zu testen.</text>
+		<text>Yesterday, we exposed the test subjects to the new modulation algorithm. While further conclusive examinations are necessary, early diagnoses suggest that their brains have been roasted. I can hardly imagine how this type of emission would affect humans. We have tested every type of emission using various modulation algorithms, and the results match those obtained in the other laboratories. This stage of the experiment can now be considered complete, and we should be ready to conduct it on larger creatures within a week</text>
 	</string>
 	<string id="LabX18 first key">
-		<text>Zugangsberechtigungscode der Stufe 2</text>
+		<text>2nd Level access code</text>
 	</string>
 	<string id="LabX18 second key">
-		<text>Zugangsberechtigungscode der Stufe 1</text>
+		<text>1st Level access code</text>
 	</string>
 	<string id="LabX18_information">
-		<text>Information aus X-18</text>
+		<text>Information from X-18</text>
 	</string>
 	<string id="pass_to_1st_door">
-		<text>Werter Kollege, ich bin froh, dass Sie die Zugangsberechtigung der Stufe 2 erhalten haben. Nun werden Sie endlich herausfinden, was in unserem Labor vor sich geht.\n \nIhr Zugangscode lautet 1243</text>
+		<text>Excellent. I'm glad you've received 2nd Level access. Now I can tell you what goes on in our laboratory. Your access code is 1243. Chief of Laboratory X-18, Piotr Ilyitch Kalugin</text>
 	</string>
 	<string id="pass_to_2nd_door">
-		<text>Lieber Kollege, ich möchte Sie daran erinnern, dass Sie ab morgen für die Container im Zentrallabor zuständig sind. Die Container müssen alle zwei Stunden überprüft werden. Sämtliche Berichte gehen direkt an mich.\n \nDer Zugangscode zum Zentrallabor lautet 9524\n \nPjotr Ilyitsch Kalugin, Leiter des Labors X-18.</text>
+		<text>Starting tomorrow, your job will be attending to the container in the central laboratory room. The containers must be inspected every two hours. Report everything directly to me. The code to the central laboratory room is 9524. Chief of Laboratory X-18, Piotr Ilyitch Kalugin</text>
 	</string>
 	<string id="sl_x18_dream_name">
-		<text>Ein merkwürdiger Traum</text>
+		<text>A strange dream</text>
 	</string>
 	<string id="sl_x18_dream_text">
-		<text>Ich hatte einen eigenartigen Traum. Der gewaltige Reaktor von Tschernobyl schält sich aus der Dunkelheit, alles sieht friedlich aus. Ein Mann ist zu erkennen, ich sehe ihn von hinten, im Hintergrund steht das Kraftwerk. Wind kommt auf. Plötzlich rennen Scharen von Ratten von dem Kraftwerk in alle Richtungen davon. Der Mann schießt auf die Ratten, immer noch den zu mir gedreht.\n \nPlötzlich ein Schrei: "Strelok"! Der Mann erschaudert, bleibt für einen Moment regungslos stehen und dreht sich dann langsam zu mir, aber dann... Kurz bevor ich einen Blick auf sein Gesicht werfen kann, wache ich auf.\n \nWas hat dieser Traum zu bedeuten? Ich weiß es nicht, aber ich glaube, dass ich es schon erlebt habe.</text>
+		<text>I had a strange dream. The colossal Chernobyl nuclear power plant emerges in the twilight. Everything is peaceful. A lone man appears, and I watch him from behind, against a background of trees. The wind starts to blow. Suddenly, hordes of rats begin to skitter away from the NPP in all directions. The man, his back still turned to me, starts shooting at the rats. There's an abrupt scream, "Strelok!". The man shudders, and freezes for a moment, before turning slowly in my direction. But an instant before I see his face, I wake up. What does this dream mean? I don't know, but I think it's something I've seen before...</text>
 	</string>
 	<string id="val_captive_help_txt">
-		<text>Der Wächter "Bullet" möchte, dass ich seinen Partner befreie, der von Banditen gefangen wurde. Er wird schon bald in die verlassene Fabrik eskortiert.</text>
+		<text>The Duty member, Bullet, wants me to rescue his partner who was captured by the bandits. They'll soon be escorting him to the deserted factory</text>
 	</string>
 	<string id="val_prisoner_help_art_txt">
-		<text>Wächter: "Sie haben noch einen von uns, Serega. Sie halten ihn im Keller fest ... in dem großen, unfertigen Gebäude ... Hol ihn da raus, okay? Sonst werden sie ihn auch noch töten ..."</text>
+		<text>Dutyer: They have another one of ours - Serega! They're keeping him in the cellar... There's a large building there, still under construction... Help him out for us, will you? Or they'll finish him too...</text>
 	</string>
 	<string id="val_x18_conclusion">
-		<text>Labor X-18</text>
+		<text>Lab X-18</text>
 	</string>
 	<string id="val_x18_conclusion_txt">
-		<text>Verdammt ... Labor X-18 war kein Vergnügen. Und seine derzeitigen Bewohner ... Ich hätte nicht gedacht, dass solche Dinger überhaupt existieren. Ich habe ein paar Dokumente gefunden, habe aber nicht viel davon verstanden. Sie enthielten jedoch technische Spezifikationen für ein paar Komponenten eines Kaymanow-Emitters. Interessanterweise waren die Teile für eine anderes Labor mit dem Codenamen X-16 gedacht, womöglich auch ein geheimes Labor.</text>
+		<text>Lab X-18 wasn't fun, and neither were its current residents. I didn't think things like that even existed...\nI found some documents. I didn't understand much of what was written in them, except that they contained technical specs for parts of the Kaymanov emitters.\nWhat's interesting is that those parts were destined for another lab with the codename X-16. Chances are it's a secret one, also...</text>
 	</string>

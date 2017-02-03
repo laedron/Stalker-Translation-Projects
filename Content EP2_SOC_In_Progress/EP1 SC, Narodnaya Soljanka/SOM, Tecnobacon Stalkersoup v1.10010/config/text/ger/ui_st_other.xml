@@ -1,227 +1,273 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- TB3D 1.1.0.0.0.4 startup prompts, moved _mm _mp -->
+<!-- Edited and proofed by Sword2012 for clarity, brevity, and consistency, as per comments below. 08 Oct 16 -->
+<!-- Text editing as commented below (OK)- Sword2012 - 26 Oct 16 -->
 
-<string_table>
-	<string id="id_mp_money">
-		<text>Geld</text>
-	</string>
-	<string id="mm_mp_pda_hunt">
-		<text>PDA-Bonus</text>
-	</string>
-	<string id="st_drink">
-		<text>Trinken</text>
-	</string>
-	<string id="st_mp_direct_ip">
-		<text>Direktverbindung</text>
+	<string id="ui_pda_details">
+		<text>#/details</text>
 	</string>
 	<string id="ui_mm_default">
-		<text>Standard</text>
+		<text>Default</text>
+	</string>
+	<string id="ui_mm_detail_density">
+		<text>Grass density</text>
+	</string>
+	<string id="ui_mm_r2_sun">
+		<text>Sun shadow</text>
+	</string>
+	<string id="ui_mm_r2_sun_details">
+		<text>Grass shadow</text>
 	</string>
 	<string id="ui_mm_render_2">
 		<text>Render 2</text>
 	</string>
-	<string id="ui_pda_details">
-		<text># / Details</text>
+	<string id="ui_mm_delete_existing_file_q">
+		<text>Delete file?</text><!-- Removed capital from letter F -->
 	</string>
 	<string id="ui_st_btn_cancel">
-		<text>Abbrechen</text>
+		<text>Cancel</text>
 	</string>
 	<string id="ui_st_btn_no">
-		<text>Nein</text>
+		<text>No</text>
 	</string>
 	<string id="ui_st_btn_ok">
-		<text>OK</text>
+		<text>OK</text><!-- Spelling error fixed - Sword2012 - 26 Oct 16 -->
 	</string>
 	<string id="ui_st_btn_yes">
-		<text>Ja</text>
+		<text>Yes</text>
 	</string>
 	<string id="ui_st_cant_run_r2">
-		<text>Render 2 auf diesem PC nicht ausfьhrbar.</text>
+		<text>You can't run Render 2 on your system</text><!-- Was 'on your PC' -->
 	</string>
 	<string id="ui_st_conn_invalid_host">
-		<text>Verbindungsfehler: Host ungьltig</text>
+		<text>Connection error: Invalid host</text>
 	</string>
 	<string id="ui_st_conn_invalid_pass">
-		<text>Verbindungsfehler: Passwort ungьltig</text>
+		<text>Connection error: Invalid password</text>
 	</string>
 	<string id="ui_st_conn_rejected_server">
-		<text>Verbindungsfehler: Verbindungsanfrage wurde vom Server zurьckgewiesen</text>
+		<text>Connection error: connection rejected by server</text>
 	</string>
 	<string id="ui_st_conn_sess_full">
-		<text>Verbindungsfehler: Sitzung ist voll</text>
+		<text>Connection error: session is full</text>
 	</string>
 	<string id="ui_st_days">
-		<text>Tage</text>
+		<text>Days</text>
 	</string>
 	<string id="ui_st_error">
-		<text>Fehler</text>
+		<text>Error</text>
 	</string>
 	<string id="ui_st_file_exist_owerwrite_q">
-		<text>Es existiert bereits eine Datei mit diesem Namen. Soll diese Datei ьberschrieben werden?</text>
+		<text>Overwrite file?</text><!-- Capitalised letter O -->
 	</string>
 	<string id="ui_st_file_name_is_empty">
-		<text>Der Dateiname ist leer.</text>
+		<text>Enter a file name:</text>
 	</string>
 	<string id="ui_st_hours">
-		<text>Std.</text>
+		<text>hours</text>
 	</string>
 	<string id="ui_st_leave">
-		<text>Verlassen</text>
+		<text>Leave</text>
 	</string>
 	<string id="ui_st_mins">
-		<text>Min.</text>
+		<text>mins</text>
 	</string>
 	<string id="ui_st_months">
-		<text>Monate</text>
+		<text>months</text>
 	</string>
 	<string id="ui_st_params">
-		<text>Parameter</text>
+		<text>Parameters</text>
 	</string>
 	<string id="ui_st_secs">
-		<text>Sek.</text>
-	</string>
-	<string id="ui_st_select_one_map">
-		<text>Wдhlen Sie bitte mindestens eine Karte aus.</text>
+		<text>secs</text><!-- Was 'sec.' -->
 	</string>
 	<string id="ui_st_take_all">
-		<text>Alles nehmen</text>
+		<text>Take all</text><!-- Removed capital from letter A -->
 	</string>
 	<string id="ui_st_time_remains">
-		<text>Zeit fьr die Erfьllung:</text>
+		<text>Remaining</text>
 	</string>
 	<string id="ui_st_trade">
-		<text>Handeln</text>
+		<text>Trade</text>
 	</string>
 	<string id="ui_st_voting_disabled">
-		<text>Abstimmungen sind deaktiviert</text>
+		<text>Voting is disabled</text>
 	</string>
 	<string id="ui_st_want_to_leave_game_q">
-		<text>Mцchten Sie das Spiel wirklich verlassen?</text>
+		<text>Do you really want to leave the Zone???</text><!-- Removed capitals from ZONE -->
 	</string>
 	<string id="ui_st_your_items">
-		<text>Eigene Objekte</text>
+		<text>Your items</text><!-- Removed capital from letter I -->
+	</string>
+	<string id="ui_st_description">
+		<text>Description</text>
+	</string>
+	<string id="ui_st_team1_name">
+		<text>Freedom</text>
+	</string>
+	<string id="ui_st_team2_name">
+		<text>Mercs</text>
+	</string>
+	<string id="ui_st_conn_version_differs">
+		<text>Connection error: Different version</text>
+	</string>
+	<string id="ui_st_conn_cdkey_invalid">
+		<text>Connection error: Invalid CD Key</text>
+	</string>
+	<string id="ui_st_conn_cdkey_in_use">
+		<text>Connection error: CD Key already in use</text>
+	</string>
+	<string id="ui_st_conn_cdkey_disabled">
+		<text>Connection error: Your CD Key is disabled. Contact Customer Service</text>
+	</string>
+	<string id="ui_st_conn_new_patch">
+		<text>New patch is available.\n Version: %s\n Location: %s\nDo you want to download it now?</text>
+	</string>
+	<string id="ui_st_conn_no_new_patch">
+		<text>No new patches available now</text>
+	</string>
+	<string id="ui_st_connecting_to_masterserver">
+		<text>Trying to connect to master server</text>
+	</string>
+	<string id="ui_st_patch_download_success">
+		<text>Patch was successfully downloaded. Do you want to install it?</text>
+	</string>
+	<string id="ui_st_patch_download_error">
+		<text>Unable to download the patch</text>
+	</string>
+	<string id="ui_st_load_game_confirm">
+		<text>... You are returning to the Zone ...</text>
+	</string>
+	<string id="ui_st_invalid_saved_game">
+		<text>Saved game version mismatch, or saved game is corrupted</text><!-- Added comma -->
+	</string>
+	<string id="ui_st_last_set">
+		<text>Last preset</text>
+	</string>
+	<string id="ui_st_preset1">
+		<text>Preset 1</text>
+	</string>
+	<string id="ui_st_preset2">
+		<text>Preset 2</text>
+	</string>
+	<string id="ui_st_preset3">
+		<text>Preset 3</text>
+	</string>
+	<string id="ui_st_reset">
+		<text>Reset</text>
+	</string>
+	<string id="ui_st_sell_all">
+		<text>Sell all</text><!-- Removed capital from letter A -->
 	</string>
 	<string id="st_game_over_press_jump">
-		<text> ESC-Taste drьcken, um zum Hauptmenь zu gelangen.</text>
+		<text>Press ($$ACTION_JUMP$$) to exit to Main Menu</text><!-- Was 'main menu'-->
 	</string>
 	<string id="st_level">
 		<text>Level</text>
 	</string>
 	<string id="st_opening_stream">
-		<text>Datenstrom wird geцffnet</text>
+		<text>Opening stream</text><!-- Added capital O -->
 	</string>
 	<string id="st_loading_cform">
-		<text>CFORM wird geladen</text>
+		<text>..... Searching for Enemy Entities ..</text>
 	</string>
 	<string id="st_prefetching_objects">
-		<text>Objekte werden bereitgestellt</text>
+		<text>..... Scanning for Anomalous Activity ..</text><!-- Was 'Anomolous' -->
 	</string>
 	<string id="st_creating_new_game">
-		<text>Spielstand wird geladen</text>
+		<text>..... Creating the ZONE ..</text>
 	</string>
 	<string id="st_loading_alife_simulator">
-		<text>SERVER: Alife-Simulator wird geladen</text>
+		<text>SERVER: Loading A-Life Simulator</text><!-- Was 'A-life' -->
 	</string>
 	<string id="st_server_connecting">
-		<text>SERVER: Verbindung wird hergestellt</text>
+		<text>SERVER: Connecting</text>
 	</string>
 	<string id="st_loading_saved_game">
-		<text>Spielstand wird geladen</text>
+		<text>Loading...</text>
 	</string>
 	<string id="st_validating_cdkey">
-		<text>Schlьssel wird ьberprьft</text>
+		<text>Validating CD Key</text>
 	</string>
 	<string id="st_loading_ai_objects">
-		<text>KI-Objekte werden geladen</text>
+		<text>..... Loading AI ..</text>
 	</string>
 	<string id="st_client_connecting_to">
-		<text>CLIENT: Verbindung herstellen mit</text>
+		<text>CLIENT: Connecting to</text>
 	</string>
 	<string id="st_client_spawning">
-		<text>CLIENT: Erscheinen</text>
+		<text>..... Checking Armor ..</text>
 	</string>
 	<string id="st_loading_textures">
-		<text>Texturen werden geladen</text>
+		<text>..... Detecting Anomalies ..</text>
 	</string>
 	<string id="st_client_synchronising">
-		<text>CLIENT: Synchronisieren</text>
+		<text>..... Entering the Zone ..</text>
 	</string>
 	<string id="st_server_starting">
-		<text>SERVER: Start</text>
+		<text>SERVER: Starting</text>
 	</string>
 	<string id="st_loading_shaders">
-		<text>Shader werden geladen</text>
+		<text>..... Booting up PDA ..</text>
 	</string>
 	<string id="st_loading_geometry">
-		<text>Geometrie wird geladen</text>
+		<text>..... Scanning for Artefacts ..</text>
 	</string>
 	<string id="st_loading_spatial_db">
-		<text>Raumdatenbank wird geladen</text>
+		<text>..... Equipping Gasmask ..</text>
 	</string>
 	<string id="st_loading_details">
-		<text>Details werden geladen</text>
+		<text>..... Detecting Radiation Level ..</text>
 	</string>
 	<string id="st_loading_sectors_portals">
-		<text>Sektoren & Portale werden geladen</text>
-	</string>
-	<string id="ui_st_conn_version_differs">
-		<text>Verbindungsfehler: Unterschiedliche Version.</text>
-	</string>
-	<string id="ui_st_conn_cdkey_invalid">
-		<text>Verbindungsfehler: Ungьltiger CD-Schlьssel</text>
-	</string>
-	<string id="ui_st_conn_cdkey_in_use">
-		<text>Verbindungsfehler: CD-Schlьssel wird schon genutzt.</text>
-	</string>
-	<string id="ui_st_conn_cdkey_disabled">
-		<text>Verbindungsfehler: CD-Schlьssel ist deaktiviert. Bitte Kundendienst kontaktieren.</text>
-	</string>
-	<string id="ui_st_conn_new_patch">
-		<text>Neuer Patch verfьgbar.\n Version: %s\n Ort: %s\nJetzt herunterladen?</text>
-	</string>
-	<string id="ui_st_conn_no_new_patch">
-		<text>Keine neuen Patches verfьgbar</text>
-	</string>
-	<string id="ui_mm_delete_existing_file_q">
-		<text>Spielstand lцschen?</text>
+		<text>Loading sectors and portals</text>
 	</string>
 	<string id="st_game_paused">
 		<text>Pause</text>
 	</string>
 	<string id="st_bolt">
-		<text>Bolzen</text>
+		<text>Bolt</text>
 	</string>
 	<string id="st_items">
-		<text>Gegenstдnde</text>
+		<text>Items</text>
 	</string>
 	<string id="st_video">
 		<text>Video</text>
 	</string>
 	<string id="st_audio">
-		<text>Audio</text>
+		<text>Sound</text>
 	</string>
 	<string id="st_game">
-		<text>Spiel</text>
+		<text>Game</text>
 	</string>
 	<string id="st_controll">
-		<text>Steuerung</text>
+		<text>Controls</text>
 	</string>
-	<string id="ui_st_connecting_to_masterserver">
-		<text>Verbindung zum Master-Server wird hergestellt</text>
+	<string id="st_drink">
+		<text>Drink</text>
 	</string>
-	<string id="mp_only_one_voting">
-		<text>Es ist nur eine aktive Abstimmung erlaubt.</text>
+	<string id="af_neutral">
+		<text>Artefact</text>
 	</string>
-	<string id="ui_st_patch_download_success">
-		<text>Der Patch wurde erfolgreich heruntergeladen. Mцchten Sie ihn nun installieren?</text>
+	<string id="self">
+		<text>It's you</text>
 	</string>
-	<string id="ui_st_patch_download_error">
-		<text>Es kann kein Patch heruntergeladen werden.</text>
+	<string id="friend">
+		<text>Ally</text>
 	</string>
-	<string id="ui_st_load_game_confirm">
-		<text>Das Laden des Spielstandes hat den Verlust\n von nicht gespeicherten Daten zur Folge. Fortsetzen?</text>
+	<string id="team_base_1">
+		<text>Freedom base</text><!-- Was 'Freedom's base' -->
 	</string>
-	<string id="ui_st_invalid_saved_game">
-		<text>Speicherpunkt ist beschдdigt oder hat eine falsche Version</text>
+	<string id="team_base_2">
+		<text>Merc base</text><!-- Was 'Mercs' base' -->
 	</string>
-
-</string_table>
+	<string id="switch_off">
+		<text>Switch off</text>
+	</string>
+	<string id="switch_on">
+		<text>Include</text>
+	</string>
+	<!-- Addon for "done" Word, aleks1970 -->
+	<string id="game_task_done">
+		<text>done</text>
+	</string>

@@ -1,74 +1,81 @@
-	<!-- Update am 22.06.2008 -->
-	
+<!-- TB3D 1.1.0.0.0.4 yan_find_vasilyev_task -->
+<!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 21 Jan 16 -->
+<!-- Names changed as commented below - Sword2012 - 31 Oct 16 -->
 	<string id="yan_find_ghost">
-		<text>Die Dokumente von Ghost beschaffen.</text>
+		<text>Find Ghost's documents</text>
 	</string>
 	<string id="yan_find_ghost_task">
-		<text>Die Dokumente beschaffen.</text>
+		<text>Take the documents</text>
 	</string>
-	<string id="yan_find_vasilyev_task">
-		<text>Ins Labor gelangen.</text>
+	<string id="yan_find_lab">
+		<text>Get into the laboratory</text>
 	</string>
 	<string id="yan_find_labX16">
-		<text>Ins Labor X-16 gelangen.</text>
+		<text>Get into laboratory X-16</text>
 	</string>
 	<string id="yan_find_scientist">
-		<text>Strahlenmessungen durchführen.</text>
+		<text>Take radiation measurements</text>
+	</string>
+	<string id="yan_find_vasilyev_task">
+		<text>Find the entrance to the lab</text>
 	</string>
 	<string id="yan_find_vasilyev">
-		<text>Wasiliews Leiche durchsuchen.</text>
+		<text>Search Vasiliev's corpse</text><!-- Changed 'Vasilev' to 'Vasiliev'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="yan_kill_brain">
-		<text>Den PSI-Emitter im Labor X-16 deaktivieren.</text>
+		<text>Disable the Psi-emitter</text>
 	</string>
 	<string id="yan_kill_brain_task">
-		<text>Den PSI-Emitter deaktivieren.</text>
+		<text>Disconnect the power supply to the transmitter</text>
 	</string>
 	<string id="yan_kill_brain_task_2">
-		<text>Aus dem Labor verschwinden.</text>
+		<text>Get out of the laboratory</text>
 	</string>
 	<string id="yan_provodnik_about_doctor">
-		<text>Mit Prowodnik reden.</text>
+		<text>Talk to the Guide about the Doctor</text>
 	</string>
 	<string id="yan_provodnik_task">
-		<text>Mit Prowodnik treffen.</text>
+		<text>Talk to the Guide</text>
 	</string>
 	<string id="yan_psi_zone_find">
-		<text>Kruglow zum Messpunkt geleiten.</text>
+		<text>Accompany Kruglov to the measuring place</text>
 	</string>
 	<string id="yan_psi_zone_find_semenov">
-		<text>Semenow zum Messpunkt geleiten.</text>
+		<text>Accompany Semenov to the measuring place</text>
+	</string>
+	<string id="yan_find_scientist_semenov">
+		<text>Accompany Semenov to the measuring place</text>
 	</string>
 	<string id="yan_return_to_bunker">
-		<text>Die Ergebnisse zu Sacharow bringen.</text>
+		<text>Bring the results to Sakharov</text>
 	</string>
 	<string id="yan_scientist_return">
-		<text>Mit Sacharow sprechen.</text>
+		<text>Talk to Sakharov</text>
 	</string>
 	<string id="yan_scientist_return_task">
-		<text>Mit Sacharow sprechen.</text>
+		<text>Talk to Sakharov</text>
 	</string>
 	<string id="yan_secret_tonnel">
-		<text>Durch den geheimen Tunnel verschwinden.</text>
+		<text>Get out through the secret tunnel</text>
 	</string>
 	<string id="yan_switcher_off_1">
-		<text>Das erste Kontrollmodul ausschalten.</text>
+		<text>Disconnect the first signal generator</text>
 	</string>
 	<string id="yan_switcher_off_2">
-		<text>Das zweite Kontrollmodul ausschalten.</text>
+		<text>Disconnect the second signal generator</text>
 	</string>
 	<string id="yan_switcher_off_3">
-		<text>Das dritte Kontrollmodul ausschalten.</text>
+		<text>Disconnect the third signal generator</text>
 	</string>
 	<string id="yan_talk_to_kruglov">
-		<text>Mit Kruglow sprechen</text>
+		<text>Talk to Kruglov</text>
 	</string>
 	<string id="yan_talk_to_semenov">
-		<text>Mit Semenow sprechen.</text>
+		<text>Talk to Semenov</text>
 	</string>
 	<string id="yan_vasilyev_pda">
-		<text>Wasiljews PDA</text>
+		<text>Vasiliev's PDA</text><!-- Changed 'Vasilev' to 'Vasiliev'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="yan_zombie_zone">
-		<text>Geschätzter Standort von Labor X-16.</text>
+		<text>Presumed site of laboratory X-16</text>
 	</string>

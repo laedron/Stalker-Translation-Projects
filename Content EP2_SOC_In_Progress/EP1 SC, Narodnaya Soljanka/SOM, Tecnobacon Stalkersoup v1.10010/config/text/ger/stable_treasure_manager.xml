@@ -1,1306 +1,1738 @@
-<!-- Update am 22.06.2008 -->
-
-<?xml version="1.0" encoding="windows-1251" ?>
-
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- TB3D 1.1.0.0.0.4 edits/cyrillic, line 629, 1505 removed russian char. aleks1970 -->
+<!-- Corrected many generic punctuation, in-game and US/UK spelling errors - Sword2012 - 12 Dec 16 -->
 <string_table>
-
-	<string id="pus_semeckii_treasure_box_descr">
-		<text>Wenn man den gesammelten Kartenteilen glauben soll, befindet sich hier Geheimversteck von Zonen-Legende Semetzky sebst.</text>
+	<string id="dead_city_secret_1_name">
+		<text>Fugitives Stash</text>
 	</string>
-	<string id="pus_semeckii_treasure_box_name">
-		<text>Vorratsversteck von Jury Semetzky</text>
+	<string id="dead_city_secret_1_descr">
+		<text>It's time to get out of the last day... Thugs... I'll make a stash, then I'll be on the lam - useful - little things I need badly...</text>
+	</string>
+	<string id="dead_city_secret_2_name">
+		<text>Zombie Things</text>
+	</string>
+	<string id="dead_city_secret_2_descr">
+		<text>Something, after yesterday's rendezvous with the controller somehow not on its own... Thoughts stupid and head like a brick... Put it away until their belongings here - as if they are not stupid I've done, while sick...</text>
+	</string>
+	<string id="dead_city_secret_3_name">
+		<text>Nychka Obomorok</text>
+	</string>
+	<string id="dead_city_secret_3_descr">
+		<text>Nychka - not nychka, but so far its the same jackals do not profit and not cleaned out - put it away... In this area, even with the authorities attach little importance</text>
+	</string>
+	<string id="dead_city_secret_4_name">
+		<text>Veterans Stash</text>
+	</string>
+	<string id="dead_city_secret_4_descr">
+		<text>I've collected a little. But where to put all this?? Here neither are traders, nor are other areas... The trash would be better to lie here - maybe for a better time, then I'll pick it up</text>
+	</string>
+	<string id="dead_city_secret_5_name">
+		<text>Dedkiny things</text>
+	</string>
+	<string id="dead_city_secret_5_descr">
+		<text>I'm old... The backpack is a burden to carry - not that these young Cheats... Unknown to them and the taste G victory of adrenaline when you go on a mission with one-edged... But must - leave it - can someone, and for the repose of my drink and then when he finds...</text>
+	</string>
+	<string id="atp_arhara_secret_1_name">
+		<text>Hiding place of the experienced scout</text>
+	</string>
+	<string id="atp_arhara_secret_1_descr">
+		<text>Has buried a map with transition co-ordinates. To me it already to what - this path I and so by heart I know...</text>
+	</string>
+	<string id="atp_arhara_secret_2_name">
+		<text>Zanachka Shnyry</text>
+	</string>
+	<string id="atp_arhara_secret_2_descr">
+		<text>Well blah, thieves. Where conscience thieves'? Loot it is insignificant, I would not covet at all, but I will hide. If will be still that valuable - in it I will add. I hope, so it is high so thieves will not get</text>
+	</string>
+	<string id="atp_arhara_secret_3_name">
+		<text>Loot of the Whale</text>
+	</string>
+	<string id="atp_arhara_secret_3_descr">
+		<text>Kalinin-Kalininym, and habarok I am better from its inquisitive an eye I will put by. Trunks now in deficiency. Razhivus money - guns for perimetre I will take. Speak, there now the lawlessness is created</text>
+	</string>
+	<string id="generators_arhara_secret_1_name">
+		<text>Backpack of the Monolithuanian</text>
+	</string>
+	<string id="generators_arhara_secret_1_descr">
+		<text>Lines me has pulled to move to these fanatics. Steal at them habarok - they of type speak - a sin such to store... Feet I will do from here - I will take</text>
+	</string>
+	<string id="generators_arhara_secret_2_name">
+		<text>Hiding place of the Fellow countryman</text>
+	</string>
+	<string id="generators_arhara_secret_2_descr">
+		<text>Has buried from bad and envious eyes the habarok. Let here will stay - a place deserted - nobody will reach</text>
+	</string>
+	<string id="generators_arhara_secret_3_name">
+		<text>Loot of the security guard</text>
+	</string>
+	<string id="generators_arhara_secret_3_descr">
+		<text>Has put by belongings which-what. All the same they any more be not required to their former owners, and to me - can and will fit</text>
+	</string>
+	<string id="generators_arhara_secret_4_name">
+		<text>Tajnik Fritsa</text>
+	</string>
+	<string id="generators_arhara_secret_4_descr">
+		<text>Loot it is not too bad. In its backpack constantly to drag - has not put. I will put by on the future - not for a century I in the Zone have got stuck...</text>
+	</string>
+	<string id="generators_arhara_secret_5_name">
+		<text>Unknown hiding place</text>
+	</string>
+	<string id="generators_arhara_secret_5_descr">
+		<text>Owner of this hiding place is unknown. Probably it has disappeared for a long time already in severe whirlpool of life of the Zone, having left the of loot for stalker who has casually come across a hiding place</text>
+	</string>
+	<string id="aver_arhara_secret_1_name">
+		<text>Arhara's Stash</text>
+	</string>
+	<string id="aver_arhara_secret_1_descr">
+		<text>Zahoval stuff, I hope will not find - to the people here it is a little rummaged. With itself to drag in a regional ohm...</text>
+	</string>
+	<string id="aver_arhara_secret_2_name">
+		<text>Hiding place of the Pilgrim</text>
+	</string>
+	<string id="aver_arhara_secret_2_descr">
+		<text>Loka for me new. Let habarok while will lie down - I will accustom - I will take away</text>
+	</string>
+	<string id="aver_arhara_secret_3_name">
+		<text>Hiding place of the Eremite</text>
+	</string>
+	<string id="aver_arhara_secret_3_descr">
+		<text>Have presoaked yesterday some avengers... Have taken away only the weapon - and that - unusual, therefore has put by about the best days</text>
+	</string>
+	<string id="aver_arhara_secret_4_name">
+		<text>Hiding place of the Astrologer</text>
+	</string>
+	<string id="aver_arhara_secret_4_descr">
+		<text>I Will make and in this wood Taynichok useful - all the same often here I happen... It is useful a difficult minute - habarok quite good...</text>
+	</string>
+	<string id="aver_arhara_secret_5_name">
+		<text>Hiding place of the Old man</text>
+	</string>
+	<string id="aver_arhara_secret_5_descr">
+		<text>I Will leave here Ryukzachek with Artami while at the physician I am treated. Papravlyu health - I will take away</text>
+	</string>
+	<string id="warlab_arhara_secret_1_name">
+		<text>Hiding place of Panther</text>
+	</string>
+	<string id="warlab_arhara_secret_1_descr">
+		<text>Has put by it is sensitive a loot and a spare favourite trunk. These muzhiks - such thieves, will drag off all, and Taynichok can and not find</text>
+	</string>
+	<string id="warlab_arhara_secret_2_name">
+		<text>Vitamin Hiding place</text>
+	</string>
+	<string id="warlab_arhara_secret_2_descr">
+		<text>Have come. Dogs have done some shooting. Our base. I have put by is sensitive a loot - that in a backpack superfluous not to drag yet. On the task I will go - I will take away</text>
+	</string>
+	<string id="warlab_arhara_secret_3_name">
+		<text>Tajnik Kostoloma</text>
+	</string>
+	<string id="warlab_arhara_secret_3_descr">
+		<text>Zatiharil in mine of the lift a backpack. Let the hour waits - can and it is useful. Life of the mercenary is not necessary also a penny - i.e. That will be tomorrow</text>
+	</string>
+	<string id="village_arhara_secret_1_name">
+		<text>Tajnik Mihi</text>
+	</string>
+	<string id="village_arhara_secret_1_descr">
+		<text>Figs knows, how me here has brought, but back all junk that here lumped, I can not drag off. The most unnecessary Zanychu, will be gone, so it is not a pity</text>
+	</string>
+	<string id="village_arhara_secret_2_name">
+		<text>Hiding place local</text>
+	</string>
+	<string id="village_arhara_secret_2_descr">
+		<text>Village has died out... All have imperceptibly dispersed, who-where... before any dead was established, already creep run... Not to good it. That is - I will put by, for now it is necessary to do feet from here</text>
+	</string>
+	<string id="village_arhara_secret_3_name">
+		<text>Backpack of the captain</text>
+	</string>
+	<string id="village_arhara_secret_3_descr">
+		<text>Have smoothed out yesterday the chosen square. Corpses plenty. Have kindly merged to secondhand dealers. That remains - I will put by - suddenly in maps I will be lost - will be, than a duty to give</text>
+	</string>
+	<string id="village_arhara_secret_4_name">
+		<text>Hiding place of the lieutenant</text>
+	</string>
+	<string id="village_arhara_secret_4_descr">
+		<text>Has made secluded. Sometimes it is possible to rest and have a bite and a magazine... To look through. It is necessary to support a tone. And what idiot has told, what the Zone not for women? The impotent man it, it is exact...</text>
+	</string>
+	<string id="village_ghost_secret_name">
+		<!-- ghost box - aleks1970 -->
+		<text>Hiding place of the Ghost</text>
+	</string>
+	<string id="village_ghost_secret_descr">
+		<text>I will leave here my special outfit with hope, that nobody will find it before I return to the NORTH...</text>
 	</string>
 	<string id="agr_secret_0000_descr">
-		<text>Unser Zeug ist fьrs Erste im Tunnel sicher. Der Platz ist gut - nur wenige kennen ihn und die Anomalien hindern die Leute daran reinzukommen.</text>
+		<text>our Hiding place while in a tunnel, all good lies in a pipe. There it is good, very few people about a place knows, and anomalies will discourage to climb</text>
 	</string>
 	<string id="agr_secret_0000_name">
-		<text>Geheimversteck von "Grauer"</text>
+		<text>Seris Hiding place</text>
 	</string>
 	<string id="agr_secret_0001_descr">
-		<text>Ich hab alles im Stumpf beim Tunnel versteckt. Das Loch ist gut.</text>
+		<text>In hemp has hidden, near a tunnel. A hole there the convenient</text>
 	</string>
 	<string id="agr_secret_0001_name">
-		<text>Stumpf mit einem Loch</text>
+		<text>a stub Full of holes</text>
 	</string>
 	<string id="agr_secret_0002_descr">
-		<text>Ich habe ein paar gute Sachen unter dem Kreuz beim Busch vergraben.</text>
+		<text>Under a cross, near a bush has dug a loot it is sensitive</text>
 	</string>
 	<string id="agr_secret_0002_name">
-		<text>Das Zeichen ist unter dem Kreuz.</text>
+		<text>Grist under a cross</text>
 	</string>
 	<string id="agr_secret_0003_descr">
-		<text>Der Rucksack liegt unter dem gefдllten Baum.</text>
+		<text>Has thrown off a backpack under the tumbled down tree</text>
 	</string>
 	<string id="agr_secret_0003_name">
-		<text>Rucksack unter dem Baum</text>
+		<text>Backpack under a tree</text>
 	</string>
 	<string id="agr_secret_0004_descr">
-		<text>Der Rucksack ist im Rohr bei der Fabrik. Den findet niemand.</text>
+		<text>Backpack thrust in a pipe, near factory. Nobody will find</text>
 	</string>
 	<string id="agr_secret_0004_name">
-		<text>Rucksack eines Schornsteinfegers.</text>
+		<text>Backpack of the chimney sweep</text>
 	</string>
 	<string id="agr_secret_0005_descr">
-		<text>Die Truhe ist auf dem Dach der Fabrik - da findet sie niemand. Das Problem ist nur, durch den Regen verrostet sie.</text>
+		<text>Box on a factory roof, there nobody will see. Only in the rain will rust</text>
 	</string>
 	<string id="agr_secret_0005_name">
-		<text>Truhe auf dem Dach</text>
+		<text>Box on a roof</text>
 	</string>
 	<string id="agr_secret_0006_descr">
-		<text>Es gab eine SchieЯerei, ich musste den Rucksack unter dem Waggon lassen, hinter dem Sitz. Wenigstens bin ich entkommen. Ich gehe wieder hin und hole ihn mir.</text>
+		<text>Shot, it was necessary to throw a backpack under the car, behind a wheel. But has left. Then I will take away</text>
 	</string>
 	<string id="agr_secret_0006_name">
-		<text>Rucksack des Trunkenbolds</text>
+		<text>Backpack of the drunkard</text>
 	</string>
 	<string id="agr_secret_0007_descr">
-		<text>Hab ich unter dem Kreuz versteckt, hinter den Zisternen. Du musst nur graben.</text>
+		<text>Under a cross has hidden, behind tanks. Dig a little, only be not fond</text>
 	</string>
 	<string id="agr_secret_0007_name">
-		<text>Bei den drei Zisternen</text>
+		<text>At three tanks</text>
 	</string>
 	<string id="agr_secret_0008_descr">
-		<text>Ich habe den Rucksack oben in der Fabrik verstaut, da sieht ihn keiner. Das Problem ist nur, ich weiЯ nicht mehr genau, was drin ist.</text>
+		<text>At factory has put a backpack from above, so from below not visible. Only here precisely I do not remember that in it</text>
 	</string>
 	<string id="agr_secret_0008_name">
-		<text>Rucksack ist im Bullauge</text>
+		<text>Backpack in a window</text>
 	</string>
 	<string id="agr_secret_0009_descr">
-		<text>Mein Zeug ist in einer Truhe in der Fabrik.</text>
+		<text>In factory, in a box has hidden it all</text>
 	</string>
 	<string id="agr_secret_0009_name">
-		<text>Radioaktive Truhe</text>
+		<text>Radioactive box</text>
 	</string>
 	<string id="agr_secret_0010_descr">
-		<text>In der Truhe unter der Treppe ist ein Geheimversteck.</text>
+		<text>Under a ladder in a box a hiding place</text>
 	</string>
 	<string id="agr_secret_0010_name">
-		<text>Kiste im Treppenhaus</text>
+		<text>Box in flight</text>
 	</string>
 	<string id="agr_secret_0011_descr">
-		<text>Ich habe alles in der Truhe versteckt, da sieht nie jemand nach.</text>
+		<text>In drawer has hidden, all the same anybody will not check</text>
 	</string>
 	<string id="agr_secret_0011_name">
-		<text>Fabriktruhe</text>
+		<text>Factory box</text>
 	</string>
 	<string id="agr_secret_0012_descr">
-		<text>Ich habe den Beutel aus dem Fenster geworfen. Ich hol ihn spдter.</text>
+		<text>Has thrown off a bag behind a window, I will take away it then</text>
 	</string>
 	<string id="agr_secret_0012_name">
-		<text>Der Beutel hдngt an der Strebe.</text>
+		<text>Bag on a support</text>
 	</string>
 	<string id="agr_secret_0013_descr">
-		<text>Koljan und ich waren bei Agroprom schцn spazieren, haben einen Haufen Schrott gefunden und ein paar Sachen versteckt. Die Truhe ist im Mьll.</text>
+		<text>We with Koljanom on Agroprom have not bad taken a walk, miscellaneous stuff, but something could be put by. A box have put in the garbage container</text>
 	</string>
 	<string id="agr_secret_0013_name">
-		<text>Mьlltruhe</text>
+		<text>a garbage Box</text>
 	</string>
 	<string id="agr_secret_0014_descr">
-		<text>Ich habe unter einem gefдllten Baum einen Safe gefunden. Da verstecke ich alles.</text>
+		<text>Under the tumbled down tree has found the safe while here all I will hide</text>
 	</string>
 	<string id="agr_secret_0014_name">
-		<text>Safe unter dem Baum</text>
+		<text>Safe under a tree</text>
 	</string>
 	<string id="agr_secret_0015_descr">
-		<text>Ich habe ein paar Sachen in das Rohr geworfen, die hole ich spдter. Ich hatte keine andere Wahl, sonst hдtte ich das Zeug hier. Ich hoffe, es wird nicht nass.</text>
+		<text>In a pipe has thrown things, then I will take away. It was necessary to leave, and that with itself would take away, certainly. If only have not become wet</text>
 	</string>
 	<string id="agr_secret_0015_name">
-		<text>Zeug im Rohr</text>
+		<text>Things in a pipe</text>
 	</string>
 	<string id="agr_secret_0016_descr">
-		<text>Das Zeug ist im alten Rohr, das mьssen wir den Jungs sagen. Ich kletter da nicht rein.</text>
+		<text>Kindly in an old pipe, it will be necessary to boys to tell. I there will not get</text>
 	</string>
 	<string id="agr_secret_0016_name">
-		<text>Radioaktives Rohr</text>
+		<text>Radioactive pipe</text>
 	</string>
 	<string id="agr_secret_0017_descr">
-		<text>Ich bin von der Basis abgehauen. ScheiЯ drauf, ich kletter nicht, wдhrend die Stalker schieЯen. Mein Zeug ist in einem Haufen im Rohr. Wenn sie weg sind, hole ich es.</text>
+		<text>Has run away from base, well them in a bath, to climb under bullets of stalkers. Has hidden belongings in a pipe, in a blockage. I will overstay, will not depart yet, then I will take away</text>
 	</string>
 	<string id="agr_secret_0017_name">
-		<text>Der Haufen</text>
+		<text>Blockage</text>
 	</string>
 	<string id="agr_secret_0018_descr">
-		<text>Unter dem Busch ist ein halb vergrabener Safe. Da verstecke ich alles.</text>
+		<text>Under a bush the semidug safe, here all I hide</text>
 	</string>
 	<string id="agr_secret_0018_name">
-		<text>Safe unter dem Busch</text>
+		<text>Safe under a bush</text>
 	</string>
 	<string id="agr_secret_0019_descr">
-		<text>Sie haben die Truhe unter der Strebe gefunden. Jemand hat sie den ganzen Weg vom Forschungsinstitut hergeschleift. Warten wir, und schnappen wir uns den Glьckstreffer.</text>
+		<text>Box have found out under a support, someone dragged it already from scientific research institute. We will wait for the helicopter then we will take away</text>
 	</string>
 	<string id="agr_secret_0019_name">
-		<text>Archivkiste</text>
+		<text>Archival boxing</text>
 	</string>
 	<string id="agr_secret_0020_descr">
-		<text>Mein Zeug ist in einer Eisenkapsel versteckt.</text>
+		<text>In iron fitting has hidden valuables</text>
 	</string>
 	<string id="agr_secret_0020_name">
-		<text>Unter der Falltьr</text>
+		<text>Under the hatch</text>
 	</string>
 	<string id="agr_secret_0021_descr">
-		<text>Da ist ein halb vergrabener Safe unter dem Busch - da verstecke ich alles.</text>
+		<text>Under a bush the semidug safe, there all I hide</text>
 	</string>
 	<string id="agr_secret_0021_name">
-		<text>Unter dem Busch bei der Wand</text>
+		<text>Under a bush at a wall</text>
 	</string>
 	<string id="agr_secret_0022_descr">
-		<text>Gute Truhe fьr Extra-Schrott</text>
+		<text>Convenient box that superfluous junk to dump</text>
 	</string>
 	<string id="agr_secret_0022_name">
-		<text>Truhe aus dem Forschungsinstitut</text>
+		<text>Institute box</text>
 	</string>
 	<string id="agr_secret_0023_descr">
-		<text>Alles im Safe, aber dann sind die Soldaten gekommen, und ich komm nicht mehr ran.</text>
+		<text>In the safe has hidden, and military men have come. Not to get now kindly</text>
 	</string>
 	<string id="agr_secret_0023_name">
 		<text>Agrosafe</text>
 	</string>
 	<string id="agr_secret_0024_descr">
-		<text>Mein Zeug ist im Rohr - hol ich spдter.</text>
+		<text>In a pipe has thrown belongings, then I will take away</text>
 	</string>
 	<string id="agr_secret_0024_name">
-		<text>Das Fьhrerhдuschen</text>
+		<text>a truck Body</text>
 	</string>
 	<string id="agr_secret_0025_descr">
-		<text>Zeug aus dem faulen Baumstamm nehmen.</text>
+		<text>Take away things from a smouldering log</text>
 	</string>
 	<string id="agr_secret_0025_name">
-		<text>Fauler Baumstamm</text>
+		<text>Rotten log</text>
 	</string>
 	<string id="agr_secret_0026_descr">
-		<text>Gute Truhe fьr Extra-Schrott. Das war einmal das Ausrьstungsinventar des Instituts.</text>
+		<text>Convenient box that superfluous junk to dump. Once the institute economic stock was stored in it</text>
 	</string>
 	<string id="agr_secret_0026_name">
-		<text>Zavhoz-Truhe</text>
+		<text>Box of the supply manager</text>
 	</string>
 	<string id="agr_secret_0027_descr">
-		<text>Gute Truhe fьr kleine Dinge. In so einer Truhe hatte ich zu Hause mein Werkzeug fьr Metallarbeiten.</text>
+		<text>Convenient box for small things, I in such held metalwork tools of the house</text>
 	</string>
 	<string id="agr_secret_0027_name">
-		<text>Metallarbeiteninventar</text>
+		<text>Stock of the mechanic</text>
 	</string>
 	<string id="agr_u_secret_0000_descr">
-		<text>Die Banditen verstecken etwas unter dem Rohr. Ich will wissen, was. Soweit ich das beim Reden mitbekommen habe, sind da ihre Vorrдte.</text>
+		<text>Bandits hide something under a pipe, it is necessary to visit. From conversation clearly that there their stocks</text>
 	</string>
 	<string id="agr_u_secret_0000_name">
-		<text>Gemeinsamer "Fond" der Banditen</text>
+		<text>Gangster Obshchak</text>
 	</string>
 	<string id="agr_u_secret_0001_descr">
-		<text>Der Rucksack steckt hinter Betonteilen, hab nur leichtes Gepдck. Lieber hungrig als tot.</text>
+		<text>Has hidden a backpack behind concrete pieces, I will go with light baggage. I will be better hungry, but live</text>
 	</string>
 	<string id="agr_u_secret_0001_name">
-		<text>Rucksack ist in einer SeitenstraЯe</text>
+		<text>Backpack in a back street</text>
 	</string>
 	<string id="agr_u_secret_0002_descr">
-		<text>Die Truhe ist hinter einem rostigen "Fass" im Untergrund, da ist alles drin. Mich kriegt da keiner wieder hin. Es ist ein Wunder, dass ich den Blutsauger erledigt habe. Ich weiЯ immer noch nicht, wie.</text>
+		<text>Box behind a rusty butt in a vault, all there lies. I there am not going to come back, pipes! What miracle I have knocked down that bloodsucker, till now I do not remember</text>
 	</string>
 	<string id="agr_u_secret_0002_name">
-		<text>Blutsaugertruhe</text>
+		<text>Box of the bloodsucker</text>
 	</string>
 	<string id="agr_u_secret_0003_descr">
-		<text>Hinter der Tьr sind ein paar gute Sachen. Da sollte man nicht nein sagen!</text>
+		<text>Behind a wall lies loot. I am responsible for a market!</text>
 	</string>
 	<string id="agr_u_secret_0003_name">
-		<text>Stalker-Ware</text>
+		<text>Loot of the stalker</text>
 	</string>
 	<string id="agr_u_secret_0004_descr">
-		<text>Ich habe hier ein paar Sachen ausgegraben. Ein guter Platz fьr ein Geheimversteck. Auf einem gelben Fass findet man das nie.</text>
+		<text>I here stash some values. An artful place for my hiding place. On a yellow butt, figs you will find</text>
 	</string>
 	<string id="agr_u_secret_0004_name">
-		<text>Maulwurfsloch</text>
+		<text>Hole of the mole</text>
 	</string>
 	<string id="bar_secret_0000_description">
-		<text>Der Rucksack ist bei der Basis der Wдchter. Ich hol ihn mir spдter.</text>
+		<text>Has hidden a backpack near base of "Duty". Then I will take away</text>
 	</string>
 	<string id="bar_secret_0000_name">
-		<text>Versteckter Rucksack</text>
+		<text>Hidden backpack</text>
 	</string>
 	<string id="bar_secret_0001_description">
-		<text>Hinter mir war ein groЯes Rudel Hunde her. Wenn ich den Rucksack nicht weggeworfen hдtte, hдtte ich es nie zum Tor geschafft.</text>
+		<text>big flight of dogs if the backpack has not left an outpost would not reach has pursued me</text>
 	</string>
 	<string id="bar_secret_0001_name">
-		<text>Der weggeworfene Rucksack</text>
+		<text>Left backpack</text>
 	</string>
 	<string id="bar_secret_0002_description">
-		<text>Alles, was ьbrig war, wurde unter dem Kreuz vergraben.</text>
+		<text>All that remains, have dug under a cross</text>
 	</string>
 	<string id="bar_secret_0002_name">
-		<text>Geheimversteck unter dem Kreuz</text>
+		<text>Hiding place under a cross</text>
 	</string>
 	<string id="bar_secret_0003_description">
-		<text>Mein Rucksack liegt hier - so ist es leichter.</text>
+		<text>Has thrown off here a backpack so it will be easier</text>
 	</string>
 	<string id="bar_secret_0003_name">
-		<text>Rucksack</text>
+		<text>Backpack</text>
 	</string>
 	<string id="bar_secret_0004_description">
-		<text>In einem Bunker lagert Munition der Wдchterfraktion, aber keiner passt auf die Truhe auf.</text>
+		<text>Stash of an outpost of "Duty" is stored in the bunker, but nobody watches a box</text>
 	</string>
 	<string id="bar_secret_0004_name">
-		<text>Vorrдte im Bunker</text>
+		<text>Warehouse in the bunker</text>
 	</string>
 	<string id="bar_secret_0005_description">
-		<text>Ich habe gesehen, wie ein Wдchter etwas in das Rohr beim Tor gesteckt hat.</text>
+		<text>Saw as Dolg has put something in a pipe, near an outpost</text>
 	</string>
 	<string id="bar_secret_0005_name">
-		<text>Geheimversteck</text>
+		<text>Hiding place</text>
 	</string>
 	<string id="bar_secret_0006_description">
-		<text>Das hat alles ihm gehцrt, das kann auch noch eine Weile hier bleiben.</text>
+		<text>It is all to it belonged, let while here and will lie down</text>
 	</string>
 	<string id="bar_secret_0006_name">
-		<text>Geheimversteck unter dem Kreuz</text>
+		<text>Hiding place under a cross</text>
 	</string>
 	<string id="bar_secret_0007_description">
-		<text>Ich gehe in die Bar, mein Rucksack liegt im Hangar.</text>
+		<text>I go to the bar, the backpack has left in a hangar</text>
 	</string>
 	<string id="bar_secret_0007_name">
-		<text>Rucksack</text>
+		<text>Backpack</text>
 	</string>
 	<string id="bar_secret_0008_description">
-		<text>Es geht das Gerьcht, dass auf dem Gebiet der Wдchter etwas Wertvolles im Schaltkasten versteckt ist.</text>
+		<text>Speak, in "Duty" territory, in an electroguard something valuable lies</text>
 	</string>
 	<string id="bar_secret_0008_name">
-		<text>Schaltkasten mit Geheimversteck</text>
+		<text>Electroguard with a hiding place</text>
 	</string>
 	<string id="bar_secret_0009_description">
-		<text>Die Kiste habe ich oben in den Turm vor die Wдchter gesteckt - das fдllt keinem auf.</text>
+		<text>Above towers near "Duty" has pushed box so that nobody will notice</text>
 	</string>
 	<string id="bar_secret_0009_name">
-		<text>Geheimversteck auf dem Turm</text>
+		<text>Hiding place on a tower</text>
 	</string>
 	<string id="bar_secret_0010_description">
-		<text>Versteckt im Rohr unter der Treppe.</text>
+		<text>Has hidden in a pipe under a ladder</text>
 	</string>
 	<string id="bar_secret_0010_name">
-		<text>Geheimversteck</text>
+		<text>Hiding place</text>
 	</string>
 	<string id="bar_secret_0011_description">
-		<text>Das Zeug ist nicht weit von der Bar versteckt, hinter den Anomalien - da geht keiner hin. Und selbst wenn, wьrden sie es nicht auf kriegen. Aber eigentlich ist alles ganz einfach - du ziehst nur ganz leicht an der Tьr, und alles geht auf.</text>
+		<text>Near to a bar has buried kindly, behind anomalies, nobody will steal up. And how to open do not know, and all is simple, there to hook a door it is necessary, at once and will open</text>
 	</string>
 	<string id="bar_secret_0011_name">
-		<text>Arnys Geheimversteck</text>
+		<text>Tajnik Arni</text>
 	</string>
 	<string id="bar_secret_0012_description">
-		<text>Das Zeug ist in der Nдhe der Bar vergraben.</text>
+		<text>Near to a bar has buried kindly</text>
 	</string>
 	<string id="bar_secret_0012_name">
-		<text>Geheimversteck</text>
+		<text>Hiding place</text>
 	</string>
 	<string id="bar_secret_0013_description">
-		<text>Bei der Bar, in einer Truhe</text>
+		<text>Near a bar in a box</text>
 	</string>
 	<string id="bar_secret_0013_name">
-		<text>Truhe</text>
+		<text>Box</text>
 	</string>
 	<string id="bar_secret_0014_description">
-		<text>Die Truhe ist in einer SeitenstraЯe bei der Bar versteckt.</text>
+		<text>In a back street, near a bar has put by box</text>
 	</string>
 	<string id="bar_secret_0014_name">
-		<text>Kleine Truhe</text>
+		<text>Jashchichek</text>
 	</string>
 	<string id="bar_secret_0015_description">
-		<text>Unter dem Kreuz hinter den Tannen vergraben.</text>
+		<text>Has dug under a cross, behind fur-trees</text>
 	</string>
 	<string id="bar_secret_0015_name">
-		<text>Geheimversteck</text>
+		<text>Hiding place</text>
 	</string>
 	<string id="bar_secret_0016_description">
-		<text>Unter dem Kreuz, nicht weit vom Durchgang ins Dunkle Gebiet.</text>
+		<text>Under a cross, near to pass to Wild territory</text>
 	</string>
 	<string id="bar_secret_0016_name">
-		<text>Geheimversteck</text>
+		<text>Hiding place</text>
 	</string>
 	<string id="bar_secret_0017_description">
-		<text>Die Truhe mit den Strahlenschutzmitteln ist in einem Rohr in der Arena.</text>
+		<text>In a pipe, near Arena has put by box the antiglad</text>
 	</string>
 	<string id="bar_secret_0017_name">
-		<text>Kleine Truhe</text>
+		<text>Jashchichek</text>
 	</string>
 	<string id="bar_secret_0018_description">
-		<text>Mein ScheiЯ ist in einem Rohr unter dem Turm.</text>
+		<text>Under a tower has hidden belongings in a pipe</text>
 	</string>
 	<string id="bar_secret_0018_name">
-		<text>Geheimversteck</text>
+		<text>Hiding place</text>
 	</string>
 	<string id="bar_secret_0019_description">
-		<text>Unter dem Kreuz ist ein Geheimversteck.</text>
+		<text>Under a cross a hiding place</text>
 	</string>
 	<string id="bar_secret_0019_name">
-		<text>Geheimversteck</text>
+		<text>Hiding place</text>
 	</string>
 	<string id="esc_secret_0000_descr">
-		<text>Beim Sammeln habe ich mein Armeezeug in einem Waggon versteckt. Nicht vergessen.</text>
+		<text>During a regrouping has hidden ammunition in the car. Not to forget</text>
 	</string>
 	<string id="esc_secret_0000_name">
-		<text>Waggon oberhalb der Brьcke</text>
+		<text>Car over the bridge</text>
 	</string>
 	<string id="esc_secret_0001_descr">
-		<text>Ich habe gesehen, wie eine Anomalie einen Stalker beim Eisenbahntunnel im Wald platt gemacht hat. Er hatte gutes Zeug, glaube ich.</text>
+		<text>Saw, how near a railway tunnel in wood any stalker was covered in anomaly, like a belonging quite good were</text>
 	</string>
 	<string id="esc_secret_0001_name">
-		<text>Sachen aus dem Besitz des Anomalie-Opfers</text>
+		<text>Things of the victim in anomaly</text>
 	</string>
 	<string id="esc_secret_0002_descr">
-		<text>Fьr die Bestechung ist alles unter dem Kreuz versteckt.</text>
+		<text>Near camp of bandits under a cross I have hidden loot</text>
 	</string>
 	<string id="esc_secret_0002_name">
-		<text>Das Kreuz im Banditenlager</text>
+		<text>Cross at camp Bandyukov</text>
 	</string>
 	<string id="esc_secret_0003_descr">
-		<text>Die Truhe, die von den Banditen geklaut wurde, ist im Keller des zentralen Gebдudes. Mit einer Ablenkung kommen wir dran.</text>
+		<text>box Intercepted by bandits is found out on an attic of the central house, it is necessary to prepare group and to beat off it</text>
 	</string>
 	<string id="esc_secret_0003_name">
-		<text>Lagerhaus der Banditen</text>
+		<text>Gangster warehouse</text>
 	</string>
 	<string id="esc_secret_0004_descr">
-		<text>Meine Kumpel und ich hatten mit diesen Mistviechern in Uniform zu tun, und ich habe Zeug unter der Brьcke vergraben. Da kann es erst mal bleiben.</text>
+		<text>When we with 'brother beat off from dogs in epaulets, I have buried some good under a cross. Let will lie down</text>
 	</string>
 	<string id="esc_secret_0004_name">
-		<text>Unter dem Kreuz</text>
+		<text>Under a cross</text>
 	</string>
 	<string id="esc_secret_0005_descr">
-		<text>Der Rucksack steckt im Keller. Ich komme spдter wieder - geht gerade nicht.</text>
+		<text>I have put the Backpack in an attic. I will return then, while in any way</text>
 	</string>
 	<string id="esc_secret_0005_name">
-		<text>Unterstand im Keller</text>
+		<text>Refuge in an attic</text>
 	</string>
 	<string id="esc_secret_0006_descr">
-		<text>Auf der Farm ist ein halb vergrabener Safe. Da bewahre ich jetzt alles auf.</text>
+		<text>On a farm has found the semidug safe, I will be while there to store good</text>
 	</string>
 	<string id="esc_secret_0006_name">
-		<text>Safe auf der Farm</text>
+		<text>Safe on a farm</text>
 	</string>
 	<string id="esc_secret_0007_descr">
-		<text>Ein Vцgelchen flьstert, jemand versteckt etwas im Eisenbahnwaggon auf der Brьcke. Ich muss auf dem Rьckweg da nachsehen. Wer da wohl ...</text>
+		<text>Drunks have whispered that in the car on the bridge someone something hides, it is necessary to glance on the way back. To learn who...</text>
 	</string>
 	<string id="esc_secret_0007_name">
-		<text>Behдlter im Eisenbahnwaggon</text>
+		<text>Container in the car</text>
 	</string>
 	<string id="esc_secret_0008_descr">
-		<text>Das Zeug ist gleich unter dem Dach am kleinen Haus an der Brьcke versteckt.</text>
+		<text>Has hidden the goods under the roof, in a small house near the bridge</text>
 	</string>
 	<string id="esc_secret_0008_name">
-		<text>Besitz des Schьtzen</text>
+		<text>Goods of the stalker</text>
 	</string>
 	<string id="esc_secret_0009_descr">
-		<text>Mein ScheiЯ ist in so einer Truhe, nicht weit von der Brьcke. Das war's, mir reicht's, ich hau ab aus der Zone, lebt wohl! Ich werde das Mutterland nie vergessen.</text>
+		<text>Belongings has hidden in one of boxes near to the bridge. Everything, I fasten. I leave the Zone, farewell, 'brother! I will not forget mother native</text>
 	</string>
 	<string id="esc_secret_0009_name">
-		<text>Zeug an der Brьcke</text>
+		<text>Things about the bridge</text>
 	</string>
 	<string id="esc_secret_0010_descr">
-		<text>Am Lager der Neuen hat es einen Stalker erwischt. Mal sehen, was der dabei hatte.</text>
+		<text>Near to camp of rookies any stalker has disappeared, it would be necessary to look at it kindly</text>
 	</string>
 	<string id="esc_secret_0010_name">
-		<text>Der Rucksack ist beim Dorf</text>
+		<text>Backpack near village</text>
 	</string>
 	<string id="esc_secret_0011_descr">
-		<text>Lihoi sagt, das geheime Versteck ist im Keller. Er hat zu viel erzдhlt, also haben wir ihn endgьltig zum Schweigen gebracht.</text>
+		<text>In an attic the hiding place, has learnt at Dashing. It many language learned, we also have sewn it</text>
 	</string>
 	<string id="esc_secret_0011_name">
-		<text>Keller im Dorf</text>
+		<text>Attic in village</text>
 	</string>
 	<string id="esc_secret_0012_descr">
-		<text>Im Keller ist ein tolles Versteck. Ich warte, bis jemand dort etwas hinterlegt.</text>
+		<text>Has found on an attic an excellent hiding place, I will wait, while someone there will put something</text>
 	</string>
 	<string id="esc_secret_0012_name">
-		<text>Ein guter Platz</text>
+		<text>Convenient place</text>
 	</string>
 	<string id="esc_secret_0013_descr">
-		<text>Worpal sagt, im Keller gibt es ein Geheimversteck. Unsere Mдnner waren in der Nдhe auf Erkundung. Gehen wir nachsehen.</text>
+		<text>On an attic the hiding place, has learnt from Vorpala. We spent district investigation. We will check up</text>
 	</string>
 	<string id="esc_secret_0013_name">
-		<text>Worpals Geheimversteck</text>
+		<text>Tajnik Vorpala</text>
 	</string>
 	<string id="esc_secret_0014_descr">
-		<text>Sie haben im Bьro vom Befehlshaber eine verzwickte Truhe gesehen, da ist tonnenweise wertvolles Zeug drin.</text>
+		<text>Speak, the commander has an artful box in an office, and there valuable good in bulk</text>
 	</string>
 	<string id="esc_secret_0014_name">
-		<text>Die Wertsachen des Befehlshabers</text>
+		<text>Values of the commander</text>
 	</string>
 	<string id="esc_secret_0015_descr">
-		<text>Irgendeinen Stalker hat es beim Lager der Neuen erwischt. Wir sollten uns sein Zeug ansehen. Wieso war der ьberhaupt da?</text>
+		<text>Near to camp of rookies any stalker has disappeared, it would be necessary to look that it bore. Who in general here passes them?</text>
 	</string>
 	<string id="esc_secret_0015_name">
-		<text>Am Rand einer LandstraЯe</text>
+		<text>At rural road</text>
 	</string>
 	<string id="esc_secret_0016_descr">
-		<text>Das Zeug ist im Keller der Banditen versteckt. Bis eben waren sie nicht da. Jetzt wдre es an der Zeit, in einem gьnstigen Augenblick alles einzusammeln.</text>
+		<text>On an attic at bandits has hidden loot while they were not. Now to snatch the moment and to take away</text>
 	</string>
 	<string id="esc_secret_0016_name">
-		<text>Der Rдuberkeller</text>
+		<text>Thieves' attic</text>
 	</string>
 	<string id="esc_secret_0017_descr">
-		<text>Hab das Inventar im Rohr gefunden, nicht weit von der Farm. Sobald ich meine Zeit abgesessen habe, komme ich bestimmt wieder.</text>
+		<text>Has found out stock in a pipe, near to a farm. Here the guardroom will end - I will necessarily return</text>
 	</string>
 	<string id="esc_secret_0017_name">
-		<text>Gasrohr</text>
+		<text>Gas pipe</text>
 	</string>
 	<string id="esc_secret_0018_descr">
-		<text>Meinen Rucksack habe ich beim Posten weggeworfen. Ich sollte ihn schnell holen, ehe wir woandershin abkommandiert werden.</text>
+		<text>Near to a post has thrown off a backpack, it is necessary to take away somewhat quicker while the commander has not translated us on other location</text>
 	</string>
 	<string id="esc_secret_0018_name">
-		<text>Verstecktes Zeug</text>
+		<text>Hidden things</text>
 	</string>
 	<string id="esc_secret_0019_descr">
-		<text>Ich habe die Truhe erst mal im Turm gelassen. Ich hole sie, wenn ich kann.</text>
+		<text>On a tower has temporarily left a box. I will take away, when to a smog</text>
 	</string>
 	<string id="esc_secret_0019_name">
-		<text>Turm am Kontrollpunkt</text>
+		<text>Tower on a check point</text>
 	</string>
 	<string id="gar_secret_0000_descr">
-		<text>Ich habe gesehen, wie ein Bandit sein Zeug in einer Truhe im Hangar versteckt hat. Wie komme ich da nur leise ran?</text>
+		<text>Saw, how the bandit hid the good in a hangar in a box. As though it silently to rest?</text>
 	</string>
 	<string id="gar_secret_0000_name">
-		<text>Lagerraum der Banditen</text>
+		<text>Gangster cache</text>
 	</string>
 	<string id="gar_secret_0001_descr">
-		<text>Wasja und ich wollten alles auskundschaften und plцtzlich trifft ihn eine Kugel. Ich hatte nichts damit zu tun. Das ist die verdammte Kugel. Das Zeug ist im Rohr versteckt.</text>
+		<text>We with Vase went to look on as, here Vasju and were overtaken Cop by a bullet. And I here at anything. A bullet - the silly woman. Veshchichki has buried on the crane in a pipe</text>
 	</string>
 	<string id="gar_secret_0001_name">
-		<text>Alter Kran</text>
+		<text>Old crane</text>
 	</string>
 	<string id="gar_secret_0002_descr">
-		<text>Grizzly hat es erwischt, sein ganzer Krempel liegt auf der Mьllhalde, im Eisenbahntunnel hinter der Diesellok. Schade um Grizzly.</text>
+		<text>In Garbage in a railway tunnel behind a diesel engine with all the junk it was covered with the Grizzly. It is a pity the guy</text>
 	</string>
 	<string id="gar_secret_0002_name">
-		<text>Grizzlys Zeug</text>
+		<text>Things of the Grizzly</text>
 	</string>
 	<string id="gar_secret_0003_descr">
-		<text>Das Zeug ist in einem Rohr bei der Mьllhalde.</text>
+		<text>Loot in a pipe on a dump</text>
 	</string>
 	<string id="gar_secret_0003_name">
-		<text>Rohr im Nordhaufen.</text>
+		<text>Pipe on northern heap</text>
 	</string>
 	<string id="gar_secret_0004_descr">
-		<text>Die Sachen sind auf der Mьllhalde, in einem der Rohre. Wenn du nicht weiЯt, wo genau, findest du nichts.</text>
+		<text>Things lie on a dump, in one pipe. If not to know, where it is exact, for what you will not find</text>
 	</string>
 	<string id="gar_secret_0004_name">
-		<text>Extra-Geld beim Altmetall</text>
+		<text>Grist in scrap metal</text>
 	</string>
 	<string id="gar_secret_0005_descr">
-		<text>Ich habe das Zeug in einem Metallrohr bei den beiden Zisternen versteckt. Blцderweise habe ich keine Zeit, es zu holen.</text>
+		<text>Has hidden junk in a metal pipe near two tanks. It would be necessary to take away, but there is no time</text>
 	</string>
 	<string id="gar_secret_0005_name">
-		<text>Eisenschmelze neben der Zisterne</text>
+		<text>Chugunka near tanks</text>
 	</string>
 	<string id="gar_secret_0006_descr">
-		<text>In dem radioaktiven Abfall sind ein paar gute Sachen versteckt, da, wo sich kaum jemand hin traut.</text>
+		<text>Among radioactive garbage where very few people known about it, some useful things are hidden</text>
 	</string>
 	<string id="gar_secret_0006_name">
-		<text>Rohr im Osthaufen</text>
+		<text>Pipe on east heap</text>
 	</string>
 	<string id="gar_secret_0007_descr">
-		<text>Im Tal liegt der Rucksack von irgendwem, und ьberall Anomalien auЯen rum. Wie soll man da ran kommen?</text>
+		<text>In lowland someone's backpack, round anomaly rolls. As tough it to reach?</text>
 	</string>
 	<string id="gar_secret_0007_name">
-		<text>Unbekannter Rucksack</text>
+		<text>Neutral backpack</text>
 	</string>
 	<string id="gar_secret_0008_descr">
-		<text>Den Verrдter haben wir im Sumpf erledigt, und da auch begraben. Und sein Zeug liegt unter dem Kreuz - wir hatten andere Sorgen.</text>
+		<text>we Have presoaked the informer on a bog, there it and Prikopali. And habarok it under a cross have left, not before was</text>
 	</string>
 	<string id="gar_secret_0008_name">
-		<text>Der Besitz des Ermordeten</text>
+		<text>Things killed</text>
 	</string>
 	<string id="gar_secret_0009_descr">
-		<text>In den Schatten ist ein Geheimversteck - ein guter Platz.</text>
+		<text>In hemp a hiding place, a good place</text>
 	</string>
 	<string id="gar_secret_0009_name">
-		<text>Fauler Baumstamm</text>
+		<text>Mouldering stub</text>
 	</string>
 	<string id="gar_secret_0010_descr">
-		<text>Im Wald gibt es einen Baumstamm mit einem Versteck innen drin. In dem Loch ist ein Schatz - den sollten wir holen.</text>
+		<text>In wood a log, inside - a hole. In it a treasure to take away it it is time</text>
 	</string>
 	<string id="gar_secret_0010_name">
-		<text>Baumstamm im Wald</text>
+		<text>Log in wood</text>
 	</string>
 	<string id="gar_secret_0011_descr">
-		<text>Petrenko wollte weitersagen, dass es Infos ьber das geheime Versteck der Strelok-Fraktion auf der Mьllhalde gibt. Hier im Tal gibt es einen Gulli, und mit einem Trick kriegt man den auf. Und sobald sich die Lage beruhigt hat, sehen wir uns das an.</text>
+		<text>Petrenko has told that there is an information about a hiding place of group Strelok in Garbage. Here in lowland there should be a hatch. He has told, how it should be opened artfully. As everything will calm down, it is necessary to be winded there</text>
 	</string>
 	<string id="gar_secret_0011_name">
-		<text>Lagerraum der Strelok-Fraktion</text>
+		<text>Warehouse of group Strelok</text>
 	</string>
 	<string id="gar_secret_0012_descr">
-		<text>Im Wagen versteckt. Der Lange hat gesagt, da ist ein guter Platz.</text>
+		<text>Has hidden in the car, Long spoke, a good place</text>
 	</string>
 	<string id="gar_secret_0012_name">
-		<text>Geheimversteck im Wagen.</text>
+		<text>Hiding place in the car</text>
 	</string>
 	<string id="gar_secret_0013_descr">
-		<text>Der Rucksack ist im Bus - scheint nicht aufzufallen.</text>
+		<text>In the bus has put a backpack, like imperceptible</text>
 	</string>
 	<string id="gar_secret_0013_name">
-		<text>Rucksack des Stalkers im Bus</text>
+		<text>Backpack of the stalker in the bus</text>
 	</string>
 	<string id="gar_secret_0014_descr">
-		<text>Ich hab die Vorrдte in die Truhe gepackt und die Truhe in das alte Haus um die Ecke. Keine Ahnung, was das Gebдude soll.</text>
+		<text>Stock has combined in a box, in a strange small house round the corner. Till now I will not understand, for what that construction</text>
 	</string>
 	<string id="gar_secret_0014_name">
-		<text>Verschiedene Vorrдte</text>
+		<text>Sortirnye stocks</text>
 	</string>
 	<string id="gar_secret_0015_descr">
-		<text>Halb vergraben im Mьll ist ein Safe. Da ist alles drin. Vergiss lieber nicht, worum es sich handelt.</text>
+		<text>On a heap of garbage the semidug safe, there that it all also lies. Not to forget, what exactly</text>
 	</string>
 	<string id="gar_secret_0015_name">
-		<text>Safe auf dem Sьdhaufen</text>
+		<text>Safe on a southern heap</text>
 	</string>
 	<string id="gar_secret_0016_descr">
-		<text>Das Zeug auf den Mьllhaufen im Rohr legen.</text>
+		<text>On a heap of garbage in a pipe has put loot</text>
 	</string>
 	<string id="gar_secret_0016_name">
-		<text>Lager im Altmetall</text>
+		<text>Cache in scrap metal</text>
 	</string>
 	<string id="gar_secret_0017_descr">
-		<text>Der Funkchef hat das hier durchgegeben: Rьckzug. Hab eine Truhe gefunden, das ganze Extrazeug reingepackt, und bin mit leeren Hдnden zurьck.</text>
+		<text>Commander on a portable radio set has ordered to depart. I have come across a box, have thrown off in it excess weight and have departed with light baggage</text>
 	</string>
 	<string id="gar_secret_0017_name">
-		<text>Vorrдte in der Truhe</text>
+		<text>Stock in a box</text>
 	</string>
 	<string id="gar_secret_0018_descr">
-		<text>Das Zeug ist im Rohr bei der Mьllhalde. Da wird es nicht lange bleiben.</text>
+		<text>Loot put in a pipe on a dump. Long it there will not lie</text>
 	</string>
 	<string id="gar_secret_0018_name">
-		<text>Rohr beim Bus</text>
+		<text>Pipe at the bus</text>
 	</string>
 	<string id="gar_secret_0019_descr">
-		<text>Den Rucksack kann man in den Ruinen leicht verstecken. Wenn die Banditen nicht im Weg sind, ist leicht ranzukommen.</text>
+		<text>In ruins has well hidden a backpack. I hope, will take away easily if bandits do not prevent</text>
 	</string>
 	<string id="gar_secret_0019_name">
-		<text>Rucksack in den Ruinen</text>
+		<text>Backpack in ruins</text>
 	</string>
 	<string id="gar_secret_0020_descr">
-		<text>Als die Wдchter geschossen haben, habe ich das Zeug im Eisenbahnwaggon versteckt. Ich muss da rein und es holen. Und es den Wдchtern heimzahlen.</text>
+		<text>While Dolg were shot, has put by loot in a carriage. It is necessary to come, take away somehow. And to tell thanks "Duty"</text>
 	</string>
 	<string id="gar_secret_0020_name">
-		<text>Truhe beim schwer bewachten militдrischen Posten</text>
+		<text>Box on a post</text>
 	</string>
 	<string id="gar_secret_0021_descr">
-		<text>Der Schwдchling hat angeblich bei der Mьllhalde ins Gras gebissen - wir mьssen das Zeug finden. Sonst kommen zu viele Leute mit Interesse daran.</text>
+		<text>Speak, Dohljak in Garbage, it is necessary to visit, loot to look. And that will run interested persons much</text>
 	</string>
 	<string id="gar_secret_0021_name">
-		<text>Rucksack des Schwдchlings</text>
+		<text>Rjukzak Dohljaka</text>
 	</string>
 	<string id="gar_secret_0022_descr">
-		<text>Ich verstecke das Zeug erst mal im Loch hier. Vielleicht finden sie es nicht.</text>
+		<text>In the hatch while I will hide good, perhaps will not find</text>
 	</string>
 	<string id="gar_secret_0022_name">
-		<text>Stofftasche im Loch</text>
+		<text>String-bag in the hatch</text>
 	</string>
 	<string id="gar_secret_0023_descr">
-		<text>Eine Anomalie hat bei der Rolltreppe jemanden erwischt - ich kann den Rucksack sehen, aber man kommt schwer ran.</text>
+		<text>Near a dredge someone has disappeared in anomaly, a backpack it is visible, and to get hard</text>
 	</string>
 	<string id="gar_secret_0023_name">
-		<text>Unter der Baggerschaufel</text>
+		<text>Under a ladle</text>
 	</string>
 	<string id="gar_secret_0024_descr">
-		<text>Ich habe es kaum unter die Balken geschafft, aber der Rucksack ist gut versteckt - hier klettert keiner rein.</text>
+		<text>has hardly climbed through under beams, but well the backpack has hidden, anybody here will not get</text>
 	</string>
 	<string id="gar_secret_0024_name">
-		<text>Das Extra-Geld ist unter den Betonteilen.</text>
+		<text>Grist under concrete blocks</text>
 	</string>
 	<string id="mil_secret_0000_description">
-		<text>Das Zeug ist im Baumstamm - da findet es niemand.</text>
+		<text>Has put good in a log, I think will not find</text>
 	</string>
 	<string id="mil_secret_0000_name">
-		<text>Geheimversteck im Baumstamm</text>
+		<text>Hiding place in a log</text>
 	</string>
 	<string id="mil_secret_0001_description">
-		<text>Der Krempel ist in der Schmelze.</text>
+		<text>In an oven has put by stuff</text>
 	</string>
 	<string id="mil_secret_0001_name">
-		<text>Geheimversteck in der Schmelze</text>
+		<text>Hiding place in the furnace</text>
 	</string>
 	<string id="mil_secret_0002_description">
-		<text>Der Krempel ist im KAMAZ-Bьro.</text>
+		<text>In cabin Kamaz has put by stuff</text>
 	</string>
 	<string id="mil_secret_0002_name">
-		<text>Geheimversteck bei KAMAZ</text>
+		<text>Hiding place in Kamaz</text>
 	</string>
 	<string id="mil_secret_0003_description">
-		<text>Ein paar gute Sachen sind unter dem Kreuz am Dorf vergraben.</text>
+		<text>Under a cross, near village has dug a loot it is sensitive</text>
 	</string>
 	<string id="mil_secret_0003_name">
-		<text>Schatz unter dem Kreuz</text>
+		<text>Treasure under a cross</text>
 	</string>
 	<string id="mil_secret_0004_description">
-		<text>Mein Zeug ist im Rohr, ich hole es spдter ab.</text>
+		<text>In a pipe has thrown belongings, then I will take away</text>
 	</string>
 	<string id="mil_secret_0004_name">
-		<text>Geheimversteck im Rohr</text>
+		<text>Hiding place in a pipe</text>
 	</string>
 	<string id="mil_secret_0005_description">
-		<text>Geheimversteck in der Truhe im Wasserturm</text>
+		<text>Hiding place in a water tower, in a box</text>
 	</string>
 	<string id="mil_secret_0005_name">
-		<text>Schatz im Turm</text>
+		<text>Treasure in a tower</text>
 	</string>
 	<string id="mil_secret_0006_description">
-		<text>Mein Rucksack steckt in der Schmelze, den kann ich spдter brauchen.</text>
+		<text>In an oven has put a backpack, then it is useful</text>
 	</string>
 	<string id="mil_secret_0006_name">
-		<text>Geheimversteck in der Schmelze</text>
+		<text>Oven hiding place</text>
 	</string>
 	<string id="mil_secret_0007_description">
-		<text>Das Zeug ist im Wagen in der verlassenen Stadt.</text>
+		<text>Loot has hidden in the car, in village thrown</text>
 	</string>
 	<string id="mil_secret_0007_name">
-		<text>Wagen-Geheimversteck</text>
+		<text>Auto hiding place</text>
 	</string>
 	<string id="mil_secret_0008_description">
-		<text>Der Rucksack ist in den Strahlungsruinen. Da wollte ich lieber nicht hin.</text>
+		<text>In ruins with radiation has left a backpack. Will be afraid to be put</text>
 	</string>
 	<string id="mil_secret_0008_name">
-		<text>Gefдhrliches Geheimnis</text>
+		<text>Dangerous secret</text>
 	</string>
 	<string id="mil_secret_0009_description">
-		<text>Das Zeug ist unter dem Kreuz vergraben, an einem geheimen Ort.</text>
+		<text>Has dug loot under a cross, in a secluded place</text>
 	</string>
 	<string id="mil_secret_0009_name">
-		<text>Stalker-Versteck</text>
+		<text>Cache of the stalker</text>
 	</string>
 	<string id="mil_secret_0010_description">
-		<text>Hab den Rucksack mit der Ausrьstung an einem lauschigen Plдtzchen versteckt.</text>
+		<text>Has put by a backpack in a secluded place</text>
 	</string>
 	<string id="mil_secret_0010_name">
-		<text>Rucksack mit Ausrьstung</text>
+		<text>Backpack with equipment</text>
 	</string>
 	<string id="mil_secret_0011_description">
-		<text>Hab mein Zeug im Wagen auf einem Hьgel versteckt.</text>
+		<text>Belongings has put by on a hill in the car</text>
 	</string>
 	<string id="mil_secret_0011_name">
-		<text>Geheimversteck auf Hьgel</text>
+		<text>Hiding place on a hill</text>
 	</string>
 	<string id="mil_secret_0012_description">
-		<text>Ein Hubschrauber ist bei der verlassenen Militдrbasis runtergegangen - und die Truhe steckt genau drunter. Es gibt nur ein Problem: Es gibt dort ьberall Anomalien und Strahlung.</text>
+		<text>helicopter near abandoned military base Has fallen, the box lies nearby, directly under helicopter. One trouble, anomalies and radiation around</text>
 	</string>
 	<string id="mil_secret_0012_name">
-		<text>Truhe vom Hubschrauber</text>
+		<text>Box from the helicopter</text>
 	</string>
 	<string id="mil_secret_0013_description">
-		<text>Hab das Zeug auf dem Hьgel unter dem Kreuz versteckt.</text>
+		<text>On a hill under a cross has dug loot</text>
 	</string>
 	<string id="mil_secret_0013_name">
-		<text>Geheimnis am Grabstein</text>
+		<text>Secret in a tomb</text>
 	</string>
 	<string id="mil_secret_0014_description">
-		<text>Es gibt ein Geheimversteck im Baumstumpf - ein gutes Versteck!</text>
+		<text>In hemp a hiding place, a good place</text>
 	</string>
 	<string id="mil_secret_0014_name">
-		<text>Baumstumpf-Versteck</text>
+		<text>Secret stub</text>
 	</string>
 	<string id="mil_secret_0015_description">
-		<text>Hab den Rucksack im Kranfьhrerhдuschen gelassen. Ich hol ihn spдter ab.</text>
+		<text>Has left a backpack in a crane cabin, then I will take away</text>
 	</string>
 	<string id="mil_secret_0015_name">
-		<text>Geheimversteck in groЯer Hцhe</text>
+		<text>Hiding place high altitude</text>
 	</string>
 	<string id="mil_secret_0016_description">
-		<text>Alles ist in der Truhe - in einem Eisenbahnwaggon nicht weit von der Basis. Genau nach Plan, jetzt mьssen wir nur noch warten.</text>
+		<text>All has combined in a box, in the car near to base. And agreed, now it is necessary to wait only</text>
 	</string>
 	<string id="mil_secret_0016_name">
-		<text>Das besprochene Geheimversteck</text>
+		<text>Agreed hiding place</text>
 	</string>
 	<string id="mil_secret_0017_description">
-		<text>Hab die Sachen im Baumstamm versteckt. Die finden sie sicher nicht.</text>
+		<text>Has put good in a log, I think will not find</text>
 	</string>
 	<string id="mil_secret_0017_name">
-		<text>Schatz im Baumstamm</text>
+		<text>Treasure in a log</text>
 	</string>
 	<string id="mil_secret_0018_description">
-		<text>Hab die Sachen in einem Rohr am Seeufer versteckt.</text>
+		<text>Loot has put in a pipe on the bank of lake</text>
 	</string>
 	<string id="mil_secret_0018_name">
-		<text>Rohr mit was drin</text>
+		<text>Pipe with Swag</text>
 	</string>
 	<string id="mil_secret_0019_description">
-		<text>Hab mein Zeug in einer Eisenkapsel versteckt.</text>
+		<text>In iron fitting has hidden goods</text>
 	</string>
 	<string id="mil_secret_0019_name">
-		<text>Geheimversteck des Stalkers</text>
+		<text>Hiding place of the stalker</text>
 	</string>
 	<string id="mil_secret_0020_description">
-		<text>Hab die Sachen in einem Baumstamm versteckt. Die finden sie sicher nicht.</text>
+		<text>Has put good in a log, I think will not find</text>
 	</string>
 	<string id="mil_secret_0020_name">
-		<text>Baumstamm mit was drin</text>
+		<text>Loot in a log</text>
 	</string>
 	<string id="mil_secret_0021_description">
-		<text>Gute Truhe, um Zeug drin aufzubewahren</text>
+		<text>Convenient box that superfluous junk to dump</text>
 	</string>
 	<string id="mil_secret_0021_name">
-		<text>Gute Vorratstruhe</text>
+		<text>Convenient cache</text>
 	</string>
 	<string id="mil_secret_0022_description">
-		<text>Hab den Rucksack mit dem Zeug im Tunnel versteckt.</text>
+		<text>In a tunnel has put by a backpack with Swag</text>
 	</string>
 	<string id="mil_secret_0022_name">
-		<text>Rucksack im Tunnel</text>
+		<text>Backpack in a tunnel</text>
 	</string>
 	<string id="mil_secret_0023_description">
-		<text>Gute Truhe, um Zeug drin aufzubewahren</text>
+		<text>Convenient box that superfluous junk to dump</text>
 	</string>
 	<string id="mil_secret_0023_name">
-		<text>Truhe mit Sachen</text>
+		<text>Box with good</text>
 	</string>
 	<string id="mil_secret_0024_description">
-		<text>Hab die Sachen in einem Baumstamm versteckt. Die finden sie sicher nicht.</text>
+		<text>Has put good in a log, I think will not find</text>
 	</string>
 	<string id="mil_secret_0024_name">
-		<text>Geheimversteck im Baumstamm</text>
+		<text>Hiding place in a log</text>
 	</string>
 	<string id="mil_secret_0025_description">
-		<text>Hab die Sachen in die Truhe geworfen. Ich hol sie spдter ab.</text>
+		<text>In a box has thrown good, then I will take away</text>
 	</string>
 	<string id="mil_secret_0025_name">
-		<text>Vorlдufiges Geheimversteck</text>
+		<text>Temporary hiding place</text>
 	</string>
 	<string id="mil_secret_0026_description">
-		<text>Hab die Sachen im Gulli versteckt. Die kann ich sicher noch mal brauchen.</text>
+		<text>In the hatch has buried things, will sometime be useful</text>
 	</string>
 	<string id="mil_secret_0026_name">
-		<text>Stдhlernes Geheimversteck</text>
+		<text>Steel hiding place</text>
 	</string>
 	<string id="mil_secret_0027_description">
-		<text>Hab die Sachen in die Kiste geworfen. Ich hol sie spдter ab.</text>
+		<text>In a box has thrown good, then I will take away</text>
 	</string>
 	<string id="mil_secret_0027_name">
-		<text>Truhe mit was drin</text>
+		<text>Box with Swag</text>
 	</string>
 	<string id="mil_secret_0028_description">
-		<text>Hab den Rucksack im Wagen versteckt, direkt vor den Nasen der Freiheitsleute, aber mehr Zeit hatte ich nicht.</text>
+		<text>Loot has hidden in the car near by at "Freedom", time was not to search that better</text>
 	</string>
 	<string id="mil_secret_0028_name">
-		<text>Geheimversteck im Wagen.</text>
+		<text>Hiding place in the car</text>
+	</string>
+	<string id="mil_secret_0029_description">
+		<text>Loot has hidden in the box near by "Mercenary base"...</text>
+	</string>
+	<string id="mil_secret_0029_name">
+		<text>Mercenary group stash</text>
 	</string>
 	<string id="pri_secret_0000_description">
-		<text>Hier soll ein berьhmter Stalker den Lцffel abgegeben haben und bisher hat sich niemand seine Sachen geholt.</text>
+		<text>Speak, any stalker known has disappeared here, kindly till now nobody has picked up it</text>
 	</string>
 	<string id="pri_secret_0000_name">
-		<text>Sachen des toten Stalkers</text>
+		<text>Things of the dead stalker</text>
 	</string>
 	<string id="pri_secret_0001_description">
-		<text>In der Garage soll eine Truhe voll praktischer Sachen sein.</text>
+		<text>In garage, speak, the box costs, and in it a loot mum do not grieve</text>
 	</string>
 	<string id="pri_secret_0001_name">
-		<text>Schatz in der Garage</text>
+		<text>Treasure in garage</text>
 	</string>
 	<string id="pri_secret_0002_description">
-		<text>Im Kindergarten soll eine Truhe voll praktischer Sachen sein.</text>
+		<text>In a kindergarten, speak, the box costs, and in it a loot mum do not grieve</text>
 	</string>
 	<string id="pri_secret_0002_name">
-		<text>Altes Geheimversteck</text>
+		<text>Old hiding place</text>
 	</string>
 	<string id="pri_secret_0003_description">
-		<text>Sie haben ReiЯzahn in Prypjat unter einem Monument begraben. Sein ganzes Zeug haben sie ihm gelassen. Man soll nichts von den Toten nehmen.</text>
+		<text>Fang has buried in Pripyat, under a monument. Weigh its loot has left in the same place - badly to take away from the dead</text>
 	</string>
 	<string id="pri_secret_0003_name">
-		<text>ReiЯzahns Zeug</text>
+		<text>Fang's Loot</text>
 	</string>
 	<string id="pri_secret_0004_description">
-		<text>Sie wussten von ihm nur, dass er der letzte Ьberlebende nach dem Schmelzer war. Er hat all seine Vorrдte in einem alten Supermarkt gelassen und ist dann losgezogen. Doch es lief nicht wie geplant. Er war der beste Freiheitsanfьhrer der Geschichte.</text>
+		<text>Last that it was known about it, that it has survived only one after "Scorcher". Stocks has left in any former department store and has set further. All has gone not how was planned, and after all it there was the best leader of "Freedom" for all our history</text>
 	</string>
 	<string id="pri_secret_0004_name">
-		<text>Vorrдte des Anfьhrers der Freiheitsfraktion</text>
+		<text>Stocks of the leader of "Freedom"</text>
 	</string>
 	<string id="rad_secret_0000_description">
-		<text>Das Kreuz liegt auf dem Weg zum Schmelzer. Weiter bin ich nicht gekommen, ich hab alles darunter versteckt.</text>
+		<text>Cross on the way to "Scorcher", has not gone further, has hidden all under it</text>
 	</string>
 	<string id="rad_secret_0000_name">
-		<text>Murks Schatz</text>
+		<text>Treasure Gloomy</text>
 	</string>
 	<string id="rad_secret_0001_description">
-		<text>Hier hat ein Stalker das Zeitliche gesegnet und sein Zeug liegt immer noch rum. Niemand ist bisher rangekommen.</text>
+		<text>any stalker Here was lost, loot till now rolls, anybody cannot pick up</text>
 	</string>
 	<string id="rad_secret_0001_name">
-		<text>Zeug des toten Stalkers</text>
+		<text>Loot of the dead stalker</text>
 	</string>
 	<string id="rad_secret_0002_description">
-		<text>Es soll einen halb vergrabenen Safe hier im Wald geben, mit lauter guten Sachen drin.</text>
+		<text>Speak, in wood the semidug safe is, and there a loot full</text>
 	</string>
 	<string id="rad_secret_0002_name">
-		<text>Safe mit was drin</text>
+		<text>Loot in the safe</text>
 	</string>
 	<string id="rad_secret_0003_description">
-		<text>Sie haben ihnen gesagt, sie sollen nicht ьber den Schmelzer fliegen - aber nein. Sie sind mitten im Wald gelandet und es ist unwahrscheinlich, dass jemand ьberlebt hat. Und mit ihnen ist auch der Krempel verloren, der fьr uns bestimmt war.</text>
+		<text>Spoke to them not to fly over "Scorcher", here and result. In the middle of wood have landed, hardly someone has survived. Somewhere there that have transferred to us also lies</text>
 	</string>
 	<string id="rad_secret_0003_name">
-		<text>Wдchter-Pдckchen</text>
+		<text>Parcel to "Duty"</text>
 	</string>
 	<string id="rad_secret_0004_description">
-		<text>Die Vorrдte der Fraktion, die ins Zentrum der Zone wollte, sollen noch da sein, direkt unter der Strahlung des Schmelzers. Keiner von ihnen kam zurьck und die Vorrдte warten noch immer drauf, von jemandem eingesammelt zu werden.</text>
+		<text>Speak, there was a stock of group which made the way to the Zone center directly under radiation of "Scorcher". Anybody from them has not returned, and the stock and remained to wait the one who will pick up it</text>
 	</string>
 	<string id="rad_secret_0004_name">
-		<text>Vorrдte der Tollkьhnen</text>
+		<text>Stock of group desperate</text>
 	</string>
 	<string id="rad_secret_0005_description">
-		<text>Hier soll der Anfьhrer einer ehemaligen Fraktion abgekratzt sein - und er soll jede Menge gutes Zeug dabei gehabt haben.</text>
+		<text>Speak, the leader of any former grouping, and loot at it with itself rich has disappeared here was</text>
 	</string>
 	<string id="rad_secret_0005_name">
-		<text>Zeug des Anfьhrers von ehemaliger Fraktion</text>
+		<text>Loot of the leader of grouping</text>
 	</string>
 	<string id="ros_secret_0000_description">
-		<text>Hab den Rucksack hinter der Eisenplatte versteckt.</text>
+		<text>Has put by a backpack behind iron sheet</text>
 	</string>
 	<string id="ros_secret_0000_name">
-		<text>Versteckter Rucksack</text>
+		<text>Hidden backpack</text>
 	</string>
 	<string id="ros_secret_0001_description">
-		<text>Hab das Zeug unter dem Kreuz versteckt.</text>
+		<text>Prihoval kindly under a cross</text>
 	</string>
 	<string id="ros_secret_0001_name">
-		<text>Geheimversteck unter dem Kreuz</text>
+		<text>Hiding place under a cross</text>
 	</string>
 	<string id="ros_secret_0002_description">
-		<text>Hab eine Kleinigkeit in der Truhe unter dem kleinen Haus versteckt. Nicht, dass ich das vergesse.</text>
+		<text>Has hidden something in a box, under a small house. Not to forget</text>
 	</string>
 	<string id="ros_secret_0002_name">
-		<text>Truhe unter dem kleinen Haus</text>
+		<text>Box under a small house</text>
 	</string>
 	<string id="ros_secret_0003_description">
-		<text>Hab den Rucksack unter die Treppe gepackt und dann kamen diese Idioten. Mann, wie krieg ich den jetzt zurьck?</text>
+		<text>Has put a backpack under steps, and there these reptiles have appeared. A pancake, as though to get?</text>
 	</string>
 	<string id="ros_secret_0003_name">
-		<text>Rucksack des Stalkers</text>
+		<text>Backpack of the stalker</text>
 	</string>
 	<string id="ros_secret_0004_description">
-		<text>An der Ecke hinter dem Baum ist ein halb vergrabener Safe. Da pack ich erst mal all mein Zeug rein.</text>
+		<text>Here in a corner, behind a tree the safe semidug, here my stuff also will stay</text>
 	</string>
 	<string id="ros_secret_0004_name">
-		<text>Geheimversteck hinter dem Baum</text>
+		<text>Hiding place behind a tree</text>
 	</string>
 	<string id="ros_secret_0005_description">
-		<text>Sie haben alles, was sie im Regen an sich genommen haben, in einer Truhe in der Garage versteckt.</text>
+		<text>that have grasped All during spot-check, have hidden in garage in a box</text>
 	</string>
 	<string id="ros_secret_0005_name">
-		<text>Geheimversteck in der Garage</text>
+		<text>Hiding place in garage</text>
 	</string>
 	<string id="ros_secret_0006_description">
-		<text>Hab ein paar Sachen in der Kiste hinter der Kabine versteckt.</text>
+		<text>Behind a box in a box has put by panic</text>
 	</string>
 	<string id="ros_secret_0006_name">
-		<text>Versteckte Truhe</text>
+		<text>Hidden box</text>
 	</string>
 	<string id="ros_secret_0007_description">
-		<text>Hab den Rucksack in ein Loch gesteckt. Man kann ihn von oben, glaube ich, nicht sehen.</text>
+		<text>Has put a backpack in a hole, from above like not much</text>
 	</string>
 	<string id="ros_secret_0007_name">
-		<text>Rucksack im Geheimversteck</text>
+		<text>Backpack in a hiding place</text>
 	</string>
 	<string id="ros_secret_0008_description">
-		<text>Hab die kleine Truhe an einem sicheren Ort versteckt.</text>
+		<text>Jashchichek has put by in a secluded place</text>
 	</string>
 	<string id="ros_secret_0008_name">
-		<text>Truhe an sicherem Ort</text>
+		<text>Box in a secluded place</text>
 	</string>
 	<string id="ros_secret_0009_description">
-		<text>Mein Rucksack ist oben unter dem Dach. Fьr schlechte Zeiten.</text>
+		<text>Under a roof my backpack lies. It for rainy day</text>
 	</string>
 	<string id="ros_secret_0009_name">
-		<text>Geheimversteck der Strelok</text>
+		<text>Hiding place of the stalker</text>
 	</string>
 	<string id="ros_secret_0010_description">
-		<text>In dem kleinen Haus soll es einen Safe geben und irgendwas soll drin versteckt sein.</text>
+		<text>Speak, in this small house the safe is, and in it something is put by</text>
 	</string>
 	<string id="ros_secret_0010_name">
-		<text>Safe im Haus</text>
+		<text>Safe in the house</text>
 	</string>
 	<string id="ros_secret_0011_description">
-		<text>Ich hab's im Haus in einem Rohr versteckt. Achtung, da fдllt alles auseinander!</text>
+		<text>Has hidden in a small house, in a pipe. Carefully, there all Fonit</text>
 	</string>
 	<string id="ros_secret_0011_name">
-		<text>Geheimversteck im Rohr</text>
+		<text>Hiding place in a pipe</text>
 	</string>
 	<string id="ros_secret_0012_description">
-		<text>Nimm dir aus der Truhe, worьber wir gesprochen haben. Da schaut keiner nach.</text>
+		<text>About what have agreed, you will take in drawer, there usually nobody looks</text>
 	</string>
 	<string id="ros_secret_0012_name">
-		<text>Versteckte Truhe</text>
+		<text>Hidden box</text>
 	</string>
 	<string id="ros_secret_0013_description">
-		<text>Hab alles unter dem Kreuz in einer SeitenstraЯe versteckt.</text>
+		<text>Under a cross has hidden, in a back street</text>
 	</string>
 	<string id="ros_secret_0013_name">
-		<text>Geheimversteck unter dem Kreuz</text>
+		<text>Hiding place under a cross</text>
 	</string>
 	<string id="ros_secret_0014_description">
-		<text>Sie haben die Extravorrдte unter dem Beton auf der Baustelle versteckt.</text>
+		<text>Superfluous supplies have hidden on building, under concrete</text>
 	</string>
 	<string id="ros_secret_0014_name">
-		<text>Geheimversteck unter dem Beton</text>
+		<text>Hiding place under concrete</text>
 	</string>
 	<string id="ros_secret_0015_description">
-		<text>Wir haben den Kram in die Truhe auf der Baustelle gepackt, falls wir mal schnell weg mьssen.</text>
+		<text>Loot we will put in a box on building, on a case if feet should be carried away</text>
 	</string>
 	<string id="ros_secret_0015_name">
-		<text>Geheimversteck des Glьcklichen</text>
+		<text>Hiding place of the Lucky beggar</text>
 	</string>
 	<string id="ros_secret_0016_description">
-		<text>Hab's in einer SeitenstraЯe an der Baustelle versteckt.</text>
+		<text>On building has hidden, in a back street</text>
 	</string>
 	<string id="ros_secret_0016_name">
-		<text>Fuer schlechte Tage</text>
+		<text>Nychka</text>
 	</string>
 	<string id="ros_secret_0017_description">
-		<text>Hab alles in ein Rohr gepackt, ich hol's spдter wieder raus.</text>
+		<text>Has pushed all in any pipe, then we will take away</text>
 	</string>
 	<string id="ros_secret_0017_name">
-		<text>Geheimversteck im Rohr</text>
+		<text>Hiding place in a pipe</text>
 	</string>
 	<string id="ros_secret_0018_description">
-		<text>Hab die Medizin in einer Kiste in der Nдhe der Baustelle versteckt.</text>
+		<text>Near to building has hidden medicine in a box</text>
 	</string>
 	<string id="ros_secret_0018_name">
-		<text>Truhe mit Medizin</text>
+		<text>Box with medicine</text>
 	</string>
 	<string id="ros_secret_0019_description">
-		<text>Hab die Truhe ins Kranfьhrerhдuschen geschleppt. </text>
+		<text>Have dragged a box in a crane cabin</text>
 	</string>
 	<string id="ros_secret_0019_name">
-		<text>Kiste auf dem Kran</text>
+		<text>Box on the crane</text>
 	</string>
 	<string id="ros_secret_0020_description">
-		<text>Hab mein Zeug im Gulli in der Ecke versteckt.</text>
+		<text>In a corner, for the Rig has closed the good in the hatch</text>
 	</string>
 	<string id="ros_secret_0020_name">
-		<text>Geheimversteck im Gulli</text>
+		<text>Hiding place in the hatch</text>
 	</string>
 	<string id="ros_secret_0021_description">
-		<text>War hinter dem Artefakt her und bin in eine Anomalie geraten, konnte kaum laufen. Hab den Rucksack in die Ecke geschmissen.</text>
+		<text>Has got behind an artefact and has got to anomaly, hardly I go. The backpack has thrown off in a corner, for the Rig</text>
 	</string>
 	<string id="ros_secret_0021_name">
-		<text>Weggeworfener Rucksack</text>
+		<text>Thrown backpack</text>
 	</string>
 	<string id="ros_secret_0022_description">
-		<text>Hab die Truhe direkt unter dem Dach beim Turm verstaut. Da findet sie niemand.</text>
+		<text>Above, under a roof near a tower has pushed box that nobody has noticed</text>
 	</string>
 	<string id="ros_secret_0022_name">
-		<text>Kleine Truhe unter dem Dach</text>
+		<text>Jashchichek under a roof</text>
 	</string>
 	<string id="ros_secret_0023_description">
-		<text>Wir haben alles, was wir gefunden haben, im Rohr bei der Baustelle versteckt.</text>
+		<text>that have found, have hidden in a pipe, near to building</text>
 	</string>
 	<string id="ros_secret_0023_name">
-		<text>Geheimversteck im Rohr</text>
+		<text>Hiding place in a pipe</text>
 	</string>
 	<string id="ros_secret_0024_description">
-		<text>Hab alles Zeug in den Baumstamm gepackt, da findet es sicher niemand.</text>
+		<text>Has put good in a log, I think, will not find</text>
 	</string>
 	<string id="ros_secret_0024_name">
-		<text>Geheimversteck</text>
+		<text>Hiding place</text>
 	</string>
 	<string id="ros_secret_0025_description">
-		<text>Hab den Rucksack am Kran abgelegt.</text>
+		<text>Nychkanul a backpack near the crane</text>
 	</string>
 	<string id="ros_secret_0025_name">
-		<text>Rucksack</text>
+		<text>Backpack</text>
 	</string>
 	<string id="val_secret_0000_description">
-		<text>Hab die paar Sachen unter dem Kreuz am Berg versteckt.</text>
+		<text>Under a cross, near mountain has dug a loot it is sensitive</text>
 	</string>
 	<string id="val_secret_0000_name">
-		<text>Geheimversteck unter dem Kreuz</text>
+		<text>Hiding place under a cross</text>
 	</string>
 	<string id="val_secret_0001_description">
-		<text>Hab alles Zeug in einen Baumstamm gepackt, da findet es sicher niemand.</text>
+		<text>Has put good in a log, I think, will not find</text>
 	</string>
 	<string id="val_secret_0001_name">
-		<text>Geheimversteck im Baumstamm</text>
+		<text>Hiding place in a log</text>
 	</string>
 	<string id="val_secret_0002_description">
-		<text>Hab den Rucksack unter die Brьcke gepackt. Da soll er erst mal liegen bleiben.</text>
+		<text>Under the bridge has thrust a backpack, let will lie down while</text>
 	</string>
 	<string id="val_secret_0002_name">
-		<text>Rucksack unter der Brьcke</text>
+		<text>Backpack under the bridge</text>
 	</string>
 	<string id="val_secret_0003_description">
-		<text>Hab den Rucksack in den Wagen beim Sumpf gepackt.</text>
+		<text>Have put a box in the car near a bog</text>
 	</string>
 	<string id="val_secret_0003_name">
-		<text>Wagen mit Geheimversteck</text>
+		<text>Car with a hiding place</text>
 	</string>
 	<string id="val_secret_0004_description">
-		<text>Es gibt ein Geheimversteck in einem Baumstumpf - ein gutes Versteck!</text>
+		<text>In hemp a hiding place, a good place</text>
 	</string>
 	<string id="val_secret_0004_name">
-		<text>Geheimversteck in einem Baumstumpf</text>
+		<text>Hiding place in hemp</text>
 	</string>
 	<string id="val_secret_0005_description">
-		<text>Hab eine groЯe Truhe auf dem Bauernhof gefunden. Da bewahre ich erst mal meine Vorrдte drin auf.</text>
+		<text>On a farm has found an excellent box, I will be while there to store supplies</text>
 	</string>
 	<string id="val_secret_0005_name">
-		<text>Truhe mit Vorrдten</text>
+		<text>Box of supplies</text>
 	</string>
 	<string id="val_secret_0006_description">
-		<text>Hab meine Sachen ins Rohr geschmissen. Ich hol sie spдter wieder ab.</text>
+		<text>In a pipe has thrown belongings, then I will take away</text>
 	</string>
 	<string id="val_secret_0006_name">
-		<text>Geheimversteck im Rohr</text>
+		<text>Hiding place in a pipe</text>
 	</string>
 	<string id="val_secret_0007_description">
-		<text>Hab den Rucksack unter einer Tanne versteckt.</text>
+		<text>Has hidden a backpack under a fur-tree</text>
 	</string>
 	<string id="val_secret_0007_name">
-		<text>Geheimversteck unter der Tanne</text>
+		<text>Hiding place under a fur-tree</text>
 	</string>
 	<string id="val_secret_0008_description">
-		<text>Der Neue hat den Banditen die Truhe abgenommen und sie mit dem Boden nach oben in den Niva gesteckt. Er sagt, sie sieht aus wie eine Regierungstruhe. Wir mьssen unsere Leute bewaffnen und sie uns holen.</text>
+		<text>Newcomer has pulled down a box at bandits, has put it in the Field turned. Says that by the form like the governmental box. It will be necessary to equip children, to take away it</text>
 	</string>
 	<string id="val_secret_0008_name">
-		<text>Regierungstruhe</text>
+		<text>Governmental box</text>
 	</string>
 	<string id="val_secret_0009_description">
-		<text>Ьberall wird geklaut. Jetzt bestehlen sie sich sogar schon gegenseitig. Aber meine Truhe finden sie nie.</text>
+		<text>Around one thieves, already at the place, but mine box will not find</text>
 	</string>
 	<string id="val_secret_0009_name">
-		<text>Truhe</text>
+		<text>Box</text>
 	</string>
 	<string id="val_secret_0010_description">
-		<text>Hab mein Zeug im Gulli versteckt. Vielleicht kann ich's spдter mal brauchen.</text>
+		<text>In the hatch has buried things, will sometime be useful</text>
 	</string>
 	<string id="val_secret_0010_name">
-		<text>Geheimversteck im Gulli</text>
+		<text>Hiding place in the hatch</text>
 	</string>
 	<string id="val_secret_0011_description">
-		<text>Hab den Rucksack unter einen Baum geschmissen. Sonst wдre ich den Banditen nicht entkommen.</text>
+		<text>Has thrown a backpack under a tree, differently would not leave from bandits</text>
 	</string>
 	<string id="val_secret_0011_name">
-		<text>Rucksack des Stalkers</text>
+		<text>Backpack of the stalker</text>
 	</string>
 	<string id="val_secret_0012_description">
-		<text>Hab meinen Kram in ein Rohr gestopft. Ich hol ihn spдter wieder ab.</text>
+		<text>Stuff has put in a pipe, then I will take away</text>
 	</string>
 	<string id="val_secret_0012_name">
-		<text>Geheimversteck</text>
+		<text>Hiding place</text>
 	</string>
 	<string id="val_secret_0013_description">
-		<text>Alles, was ich Borow abgenommen hab, hab ich unter der Tanne in Sicherheit gebracht. Jetzt muss ich warten, bis die Jungs sich beruhigt haben.</text>
+		<text>that has filched All at a Borov, has put by in the safe that under a fur-tree. Now it is necessary to wait, while they on nerves all</text>
 	</string>
 	<string id="val_secret_0013_name">
-		<text>Versteckter Safe</text>
+		<text>Hidden safe</text>
 	</string>
 	<string id="val_secret_0014_description">
-		<text>Das temporдre Hauptquartier ist im Eisenbahnwaggon, wie auch die Truhe mit den Vorrдten.</text>
+		<text>Temporary staff in a carriage, a box with supplies in the same place</text>
 	</string>
 	<string id="val_secret_0014_name">
-		<text>Lager im Eisenbahnwaggon</text>
+		<text>Warehouse in a carriage</text>
 	</string>
 	<string id="val_secret_0015_description">
-		<text>Hab's grad noch zum Rohr unter der StraЯe geschafft. Jetzt hab ich einen Platz, wo ich meinen Rucksack verstecken kann.</text>
+		<text>has hardly climbed in a pipe, under road, will be now where a backpack to hide</text>
 	</string>
 	<string id="val_secret_0015_name">
-		<text>Geheimer Ort im Rohr</text>
+		<text>Secret place in a pipe</text>
 	</string>
 	<string id="val_secret_0016_description">
-		<text>Hab die Sachen in die Kiste geworfen. Ich hol sie spдter ab.</text>
+		<text>In a box has thrown good, then we will take away</text>
 	</string>
 	<string id="val_secret_0016_name">
-		<text>Truhe mit Sachen</text>
+		<text>Box with good</text>
 	</string>
 	<string id="val_secret_0017_description">
-		<text>Ich versteck das Zeug hinter dem Rohr. Da kommt man zwar schlecht dran, aber wenigstens hauen sie dann nicht damit ab.</text>
+		<text>I Hide loot behind a pipe. It is difficult to reach, but not impossible</text>
 	</string>
 	<string id="val_secret_0017_name">
-		<text>Geheimversteck hinter dem Rohr</text>
+		<text>Hiding place behind a pipe</text>
 	</string>
 	<string id="val_secret_0018_description">
-		<text>Hab ein paar Magazine im Stromraum gefunden.</text>
+		<text>Cartridges in an electroguard</text>
 	</string>
 	<string id="val_secret_0018_name">
-		<text>Geheimversteck im Stromraum</text>
+		<text>Hiding place in an electroguard</text>
 	</string>
 	<string id="val_secret_0019_description">
-		<text>Wir haben alles, was wir in der Truhe gefunden haben, da gelassen. Wir holen es ab, wenn wir zurьckkommen.</text>
+		<text>that have found All, have left in a box, we will go back, we will take away</text>
 	</string>
 	<string id="val_secret_0019_name">
-		<text>Geheimversteck in der Truhe</text>
+		<text>Box-hiding place</text>
 	</string>
 	<string id="val_secret_0020_description">
-		<text>Hab den Rucksack vom Neuen versteckt und er hat ihn nie wiedergefunden.</text>
+		<text>Zanykali a backpack of the newcomer, it and has not found</text>
 	</string>
 	<string id="val_secret_0020_name">
-		<text>Versteckter Rucksack</text>
+		<text>Hidden backpack</text>
 	</string>
 	<string id="val_secret_0021_description">
-		<text>Die Truhe ist immer noch im Van. Wir mьssen sie da rausholen.</text>
+		<text>In a van there was a box, it is necessary to take away</text>
 	</string>
 	<string id="val_secret_0021_name">
-		<text>Vergessene Truhe</text>
+		<text>Forgotten box</text>
 	</string>
 	<string id="val_secret_0022_description">
-		<text>Hab einen Safe an der Tankstelle gefunden und mein Zeug darin versteckt. Sieht aus, als kдme hier nie einer hin.</text>
+		<text>Has found the safe in a gas station, has hidden there kindly, like rare who here goes</text>
 	</string>
 	<string id="val_secret_0022_name">
-		<text>Safe an der Tankstelle</text>
+		<text>Safe in a gas station</text>
 	</string>
 	<string id="val_secret_0023_description">
-		<text>Hab die Truhe auf die Zisterne geschleppt.</text>
+		<text>Box have dragged on top of the tank</text>
 	</string>
 	<string id="val_secret_0023_name">
-		<text>Truhe</text>
+		<text>Box</text>
 	</string>
 	<string id="val_secret_0024_description">
-		<text>Hab die Vorrдte im Safe an der Tankstelle versteckt.</text>
+		<text>Has hidden supplies in the safe in a gas station</text>
 	</string>
 	<string id="val_secret_0024_name">
-		<text>Safe an der Tankstelle</text>
+		<text>Safe in a gas station</text>
 	</string>
 	<string id="val_secret_0025_description">
-		<text>Im Wagen beim Banditenlager ist eine Art Truhe. Wir mьssen uns ranschleichen und einen Blick drauf werden. Ich hab das Gefьhl, da ist was drin.</text>
+		<text>In camp of bandits, in the car a box lies, it is necessary to make the way imperceptibly, I feel, there to eat than get hold</text>
 	</string>
 	<string id="val_secret_0025_name">
-		<text>Truhe im Auto</text>
+		<text>Box in the car</text>
 	</string>
 	<string id="val_secret_0026_description">
-		<text>Hab die Truhe ins Geheimversteck gebracht - ein sicherer Platz.</text>
+		<text>Has put a box in a hiding place, a place reliable</text>
 	</string>
 	<string id="val_secret_0026_name">
-		<text>Truhe im Geheimversteck</text>
+		<text>Box in a hiding place</text>
 	</string>
 	<string id="val_secret_0027_description">
-		<text>Hab den Rucksack in einem verlassenen Haus geparkt. Gut, keine Menschenseele.</text>
+		<text>Has left a backpack in an abandoned building, well, anybody nearby is not present</text>
 	</string>
 	<string id="val_secret_0027_name">
-		<text>Geparkter Rucksack</text>
+		<text>Left backpack</text>
 	</string>
 	<string id="val_secret_0028_description">
-		<text>Wir packen das Zeug in den Safe, an einem unauffдlligen Platz. Die Soldaten kommen - wenn nicht heute, dann morgen. Sie werden alles aufmischen, aber nicht lange suchen. Die wertvollsten Sachen gehцren also mir.</text>
+		<text>we will Kindly store in the safe, in an imperceptible place. One of these days military men will come, all here a match will insert, well they so the most valuable remains at me will long not ransack</text>
 	</string>
 	<string id="val_secret_0028_name">
-		<text>Borows Geheimversteck</text>
+		<text>Hiding place of Borov</text>
 	</string>
 	<string id="val_secret_0029_description">
-		<text>Hab den Rucksack im Gebдude versteckt.</text>
+		<text>Backpack Zanykal near a building</text>
 	</string>
 	<string id="val_secret_0029_name">
-		<text>Rucksack an geheimem Ort</text>
+		<text>Backpack in a secret place</text>
 	</string>
 	<string id="val_secret_0030_description">
-		<text>Hab die Sachen in eine unauffдllige Truhe getan. Ich hol sie spдter wieder ab.</text>
+		<text>Has put loot in an imperceptible box, then I will take away</text>
 	</string>
 	<string id="val_secret_0030_name">
-		<text>Unauffдllige Truhe</text>
+		<text>Imperceptible box</text>
 	</string>
 	<string id="val_secret_0031_description">
-		<text>Hab den Rucksack unter dem Wagen versteckt. Da guckt sicher keiner nach.</text>
+		<text>Backpack has hidden under car, there nobody will be put</text>
 	</string>
 	<string id="val_secret_0031_name">
-		<text>Versteckter Rucksack</text>
+		<text>Hidden backpack</text>
 	</string>
 	<string id="val_secret_0032_description">
-		<text>Hab den Rucksack im Wagen versteckt, direkt vor den Nasen der Banditen, aber mehr Zeit hatte ich nicht.</text>
+		<text>Loot has hidden in the car near by at bandits, time was not to search that better</text>
 	</string>
 	<string id="val_secret_0032_name">
-		<text>Geheimversteck im Wagen</text>
+		<text>Hiding place in the car</text>
 	</string>
 	<string id="x16_secret_0000_description">
-		<text>Man sagt, ein Stalker wдr hier ins Labor eingedrungen und hдtte sein Zeug in den Steckdosen im Aufzugschacht versteckt. Und als er es dann zurьckholen wollte, ging's nicht mehr.</text>
+		<text>Hearings go that there was a stalker who has got into this laboratory and has put by the of loot in an electroguard in lift mine. And to take away it could not any more</text>
 	</string>
 	<string id="x16_secret_0000_name">
-		<text>Steckdosen mit was drin</text>
+		<text>Loot in an electroguard</text>
 	</string>
 	<string id="x16_secret_0001_description">
-		<text>Man sagt, ein Stalker wдr hier ins Labor eingedrungen und hдtte da den Lцffel abgegeben, wo sie die Experimente machen. Er soll all sein Zeug bei sich gehabt haben.</text>
+		<text>Hearings go that there was a stalker who has got into this laboratory so it has rejected the fads around cages with experimental with all the Swag</text>
 	</string>
 	<string id="x16_secret_0001_name">
-		<text>Rucksack des Spдhers</text>
+		<text>Backpack of the scout</text>
 	</string>
 	<string id="x18_secret_0000_description">
-		<text>Der Gerдucherte hat alles in einen Safe im Untergrundlabor gebracht. Kein schlechter Ort - keiner hat den Schlьssel. Das einzige Problem ist, dass die Felsbrocken da ziemlich tief fliegen. So soll mal einer hops gegangen sein.</text>
+		<text>In underground laboratory Smoked all has combined in the safe. A place quite good at anybody keys from laboratory are not present. One misfortune - stones suddenly unexpectedly in air fly, spoke, someone is there...</text>
 	</string>
 	<string id="x18_secret_0000_name">
-		<text>Geheimversteck des Gerдucherten</text>
+		<text>Hiding place Smoked</text>
 	</string>
 	<string id="x18_secret_0001_description">
-		<text>Musste den Rucksack zurьcklassen.</text>
+		<text>Backpack should be thrown</text>
 	</string>
 	<string id="x18_secret_0001_name">
-		<text>Der zurьckgelassene Rucksack</text>
+		<text>Thrown backpack</text>
 	</string>
 	<string id="yan_secret_0000_description">
-		<text>Das Kreuz ist auf einem Hьgel und der Rucksack liegt darunter.</text>
+		<text>Cross on a hill, and under it a hiding place</text>
 	</string>
 	<string id="yan_secret_0000_name">
-		<text>Geheimversteck unter dem Kreuz</text>
+		<text>Hiding place under a cross</text>
 	</string>
 	<string id="yan_secret_0001_description">
-		<text>Es soll einen halb vergrabenen Safe auf einer kleinen Insel im Sumpf geben. Da muss ich mehr drьber rausfinden.</text>
+		<text>Speak, on an islet among a bog the safe is the semidug. It is necessary to visit</text>
 	</string>
 	<string id="yan_secret_0001_name">
-		<text>Alter Safe</text>
+		<text>Old safe</text>
 	</string>
 	<string id="yan_secret_0002_description">
-		<text>Hab das Zeug in ein Rohr beim Lager gepackt.</text>
+		<text>In a pipe has thrust good, near camp</text>
 	</string>
 	<string id="yan_secret_0002_name">
-		<text>Rohr mit was drin</text>
+		<text>Pipe with good</text>
 	</string>
 	<string id="yan_secret_0003_description">
-		<text>Hab die Sachen hinter den Garagen versteckt.</text>
+		<text>Behind garages has put by habarok</text>
 	</string>
 	<string id="yan_secret_0003_name">
-		<text>Rucksack hinter den Garagen</text>
+		<text>Backpack behind garages</text>
 	</string>
 	<string id="yan_secret_0004_description">
-		<text>Hab den Rucksack in einer Bude gleich hinter dem Eisenschrott versteckt.</text>
+		<text>Has put by a backpack in a box, directly for iron crap</text>
 	</string>
 	<string id="yan_secret_0004_name">
-		<text>Rucksack mit der Beute</text>
+		<text>Backpack with extraction</text>
 	</string>
 	<string id="yan_secret_0005_description">
-		<text>Hab die Truhe in den Bus gebracht - da fдllt sie nicht groЯ auf.</text>
+		<text>In the bus has put box, like imperceptible</text>
 	</string>
 	<string id="yan_secret_0005_name">
-		<text>Geheimversteck im Bus</text>
+		<text>Hiding place in the bus</text>
 	</string>
 	<string id="yan_secret_0006_description">
-		<text>Die Sachen sind im Wagen nicht weit vom Gebiet versteckt. Die Strahlung ist nicht sehr hoch.</text>
+		<text>Loot it is hidden in the car, near to territory. Radiation not so strong</text>
 	</string>
 	<string id="yan_secret_0006_name">
-		<text>Die Beute ist im Wagen</text>
+		<text>Extraction in the car</text>
 	</string>
 	<string id="yan_secret_0007_description">
-		<text>Da sollen die Sachen von jemandem sein, aber man kann nicht hin wegen der Strahlung.</text>
+		<text>Speak, here loot someone's is, only under radiation not to make the way</text>
 	</string>
 	<string id="yan_secret_0007_name">
-		<text>Alter Rucksack</text>
+		<text>Old backpack</text>
 	</string>
 	<string id="yan_secret_0008_description">
-		<text>Da soll ein Geheimversteck von irgendeiner Gruppe sein. Ich frag mich nur, wie sie bei all der Strahlung da hingekommen sind?</text>
+		<text>Speak, here a hiding place of any grouping as soon as they under radiation have made the way?</text>
 	</string>
 	<string id="yan_secret_0008_name">
-		<text>Geheimversteck einer Gruppe</text>
+		<text>a grouping Hiding place</text>
 	</string>
 	<string id="yan_secret_0009_description">
-		<text>Und wieder ist ein freiwilliger Stalker abgekratzt, weil ein Prototyp ihn nicht vor der Strahlung geschьtzt hat. Er ist nur bis zur Mitte des Gebiets gekommen - und da geblieben. Sacharow will noch mal genauere Messungen machen, aber ich geh da nicht hin. Sonst bleib ich da auch noch hдngen, so nah am Gebiet.</text>
+		<text>next volunteer Has disappeared, the next prototype has not protected from radiation. Could reach only the territory middle, there and remained. Sakharov wants to make gaugings more exact, but I will not go, and even I there will remain, near to territory</text>
 	</string>
 	<string id="yan_secret_0009_name">
-		<text>Rucksack des Testers</text>
+		<text>Backpack of the verifier</text>
 	</string>
 	<string id="yan_secret_0010_description">
-		<text>Hier soll das Zeug von jemandem liegen, aber man kommt nicht ran wegen der Strahlung.</text>
+		<text>Speak, here loot someone's is, only under radiation not to make the way</text>
 	</string>
 	<string id="yan_secret_0010_name">
-		<text>Altes Geheimversteck</text>
+		<text>Old hiding place</text>
 	</string>
 	<string id="yan_secret_0011_description">
-		<text>Ich muss los. Sacharow und Kruglow sind absolut irre - ich soll mit ein paar Stalkern ins Zentrum der Strahlung gehen. Die kцnnen mich mal. Sobald ich die Vorrдte aus dem Gulli geholt hab, bin ich weg.</text>
+		<text>It is necessary to bring down. Sakharov and Kruglov - full loonies, demand that I have gone with any stalker to the radiation center. Well them Nafig as soon as I will collect all stocks in the hatch, there and then I will fall down</text>
 	</string>
 	<string id="yan_secret_0011_name">
-		<text>Geheimversteck des Wissenschaftlers</text>
+		<text>Hiding place of the scientist</text>
 	</string>
 	<string id="yan_secret_0012_description">
-		<text>Hab die Sachen in einen Baumstamm gestopft. Da finden sie sie sicher nicht.</text>
+		<text>Has put good in a log, I think, will not find</text>
 	</string>
 	<string id="yan_secret_0012_name">
-		<text>Schatz in einem Baumstamm</text>
+		<text>Treasure in a log</text>
 	</string>
 	<string id="yan_secret_0013_description">
-		<text>Hier soll der Safe von jemandem sein, aber man kommt nicht ran wegen der Strahlung.</text>
+		<text>Tell, here a cache someone's, only under radiation not to make the way</text>
 	</string>
 	<string id="yan_secret_0013_name">
-		<text>Truhe mit Sachen</text>
+		<text>Box with good</text>
 	</string>
 	<string id="st_found_new_treasure">
-		<text>Informationen ьber das Versteck</text>
+		<text>Information on a cache</text>
+	</string>
+	<string id="marsh_secret_0000_name">
+		<text>Hiding place on bogs</text>
+	</string>
+	<string id="marsh_secret_0000_description">
+		<text>Zahoval stuff, I hope will not find - to the people here it is a little rummaged. With itself to drag in a regional ohm...</text>
+	</string>
+	<string id="marsh_secret_0001_name">
+		<text>Hiding place on the stalker</text>
+	</string>
+	<string id="marsh_secret_0001_description">
+		<text>Zanykal here which that, will steal it is not a pity</text>
+	</string>
+	<string id="marsh_secret_0002_name">
+		<text>Backpack of the dead stalker</text>
+	</string>
+	<string id="marsh_secret_0002_description">
+		<text>Speak the stalker one has disappeared, well and stuff which what after itself has left</text>
+	</string>
+	<string id="marsh_secret_0003_name">
+		<text>Hiding place of the avenger</text>
+	</string>
+	<string id="marsh_secret_0003_description">
+		<text>Saw as one of avengers hid that that on bogs</text>
+	</string>
+	<string id="marsh_secret_0004_name">
+		<text>Cache on bogs</text>
+	</string>
+	<string id="marsh_secret_0004_description">
+		<text>There is here a stalker one, while drunk has told about the cache. Has told lies, is not present it would be necessary to check up</text>
+	</string>
+	<string id="marsh_secret_0005_name">
+		<text>Imperceptible hiding place</text>
+	</string>
+	<string id="marsh_secret_0005_description">
+		<text>Before spot-check which that Zanykal here is not far, a place not reliable, I am afraid will filch</text>
+	</string>
+	<string id="marsh_secret_0006_name">
+		<text>Tajnichek</text>
+	</string>
+	<string id="marsh_secret_0006_description">
+		<text>Oh well also has got to me then, it was necessary to escape from two pseudo-dogs, it was necessary habarok to dump, it would be necessary to check up</text>
+	</string>
+	<string id="marsh_secret_0007_name">
+		<text>Valuable hiding place</text>
+	</string>
+	<string id="marsh_secret_0007_description">
+		<text>We then with Zhoroj much all has typed, so it is a lot of that it was necessary a part is direct on bogs to leave</text>
+	</string>
+	<string id="marsh_secret_0008_name">
+		<text>Valuable hiding place on bogs</text>
+	</string>
+	<string id="marsh_secret_0008_description">
+		<text>Ahh mine where I the backpack has sown. Here a pancake have got drunk then. And all has remembered all, it is necessary to take away good, yet late</text>
+	</string>
+	<string id="marsh_secret_0009_name">
+		<text>Loot of the stalker</text>
+	</string>
+	<string id="marsh_secret_0009_description">
+		<text>Here one stalker has thrown off the information on Nychku, Intersnyh said lies, no</text>
+	</string>
+	<string id="marsh_secret_0010_name">
+		<text>Tajnik Chistonebovtsa</text>
+	</string>
+	<string id="marsh_secret_0010_description">
+		<text>Saw as one of these, well Chistonebovtsev hid that on bogs, it is interesting that there?</text>
+	</string>
+	<string id="marsh_secret_0011_name">
+		<text>Reserved place</text>
+	</string>
+	<string id="marsh_secret_0011_description">
+		<text>Here with the music one have drunk, and it such talker, allow about Nychki to stir, said lies likely, bragged, though...</text>
+	</string>
+	<string id="marsh_secret_0012_name">
+		<text>Hiding place of the hunter</text>
+	</string>
+	<string id="marsh_secret_0012_description">
+		<text>Has buried which that, here is not far, I will wait while the favorable client will be</text>
+	</string>
+	<string id="marsh_secret_0013_name">
+		<text>Valuable things</text>
+	</string>
+	<string id="marsh_secret_0013_description">
+		<text>Eh is good then Fraerka on one have put. Well and a part have buried, here it is not far</text>
+	</string>
+	<string id="marsh_secret_0014_name">
+		<text>Veshchichki in a cache</text>
+	</string>
+	<string id="marsh_secret_0014_description">
+		<text>Here from the brother remains which that, I will bury till time, it is a pity the brother</text>
+	</string>
+	<string id="marsh_secret_0015_name">
+		<text>Hiding place with things</text>
+	</string>
+	<string id="marsh_secret_0015_description">
+		<text>Here I will save up still a money, I will take Veshchichki those that then has buried and farewell to zone</text>
+	</string>
+	<string id="marsh_secret_0016_name">
+		<text>Values on bogs</text>
+	</string>
+	<string id="marsh_secret_0016_description">
+		<text>We then in Zavarushku have got, it was necessary habarok in unreliable place to hide. It is necessary to find time to hide</text>
+	</string>
+	<string id="marsh_secret_0017_name">
+		<text>Backpack with things</text>
+	</string>
+	<string id="marsh_secret_0017_description">
+		<text>Were loaded then with creatures. It was necessary to leave a part on bogs</text>
+	</string>
+	<string id="marsh_secret_0018_name">
+		<text>Nychka with things</text>
+	</string>
+	<string id="marsh_secret_0018_description">
+		<text>Oh well I also have walked smack, one has gone on bogs, and there mosntrov-shmostrov, hardly feet at bore. Well got it stashed in a reliable place</text>
+	</string>
+	<string id="marsh_secret_0019_name">
+		<text>Imperceptible niche</text>
+	</string>
+	<string id="marsh_secret_0019_description">
+		<text>It is a pity then one was, has found the stalker dead, and at it with itself so much all was. The most valuable with itself took, but which should what be put by</text>
+	</string>
+	<string id="limansk_secret_0000_name">
+		<text>Hiding place in a Limansk</text>
+	</string>
+	<string id="limansk_secret_0000_description">
+		<text>Then with Koljanom in successful spot-check descended, a part in the same place in a Limansk have left</text>
+	</string>
+	<string id="limansk_secret_0001_name">
+		<text>Cache in Limansk</text>
+	</string>
+	<string id="limansk_secret_0001_description">
+		<text>Has carried to me then many loot has typed, so it is a lot of that a part in a cache has put</text>
+	</string>
+	<string id="limansk_secret_0002_name">
+		<text>Cache of the Monolithian</text>
+	</string>
+	<string id="limansk_secret_0002_description">
+		<text>Have caught with Seregoj of one "afflicted", and at it with itself that only was not, here an infection and whence only take. A part in a cache same place have put. It would be necessary to take away</text>
+	</string>
+	<string id="limansk_secret_0003_name">
+		<text>Freedom cache</text>
+	</string>
+	<string id="limansk_secret_0003_description">
+		<text>my friend into a Vortex has 'rolled', we then from spot-check, at me the backpack under an outset, was necessary its backpack Zanykat</text>
+	</string>
+	<string id="limansk_secret_0004_name">
+		<text>Cache of the stalker</text>
+	</string>
+	<string id="limansk_secret_0004_description">
+		<text>Yes here to fear that had suffered. Flight of dogs it that that. Has hardly escaped, truth habarok was necessary to throw off</text>
+	</string>
+	<string id="limansk_secret_0005_name">
+		<text>Nychka of the stalker in a Limansk</text>
+	</string>
+	<string id="limansk_secret_0005_description">
+		<text>There is no more I in Limansk will not tighten, so us cheerfully have met, all was necessary to throw and run</text>
+	</string>
+	<string id="limansk_secret_0006_name">
+		<text>Cache of the stalker in Limansk</text>
+	</string>
+	<string id="limansk_secret_0006_description">
+		<text>Played with the muzhik in maps, well I as always have won, well and it on a game, loot that in Limansk has left. Well also has lost naturally if it will appear there it would be necessary to check up</text>
+	</string>
+	<string id="limansk_secret_0007_name">
+		<text>Nychka in Limansk</text>
+	</string>
+	<string id="limansk_secret_0007_description">
+		<text>Were with Peter recently in Limansk, have found which that valuable not to bear with itself, it was necessary habarok there and to leave, time it will be necessary to be winded to take away</text>
+	</string>
+	<string id="limansk_secret_0008_name">
+		<text>Nychka of the dead stalker in Limansk</text>
+	</string>
+	<string id="limansk_secret_0008_description">
+		<text>We then allocate as one stalker has put by habarok, yes here the misfortune has happened to it, nearby the bloodsucker was, has probably guessed us. Hardly feet have carried away, and to the muzhik has not carried</text>
+	</string>
+	<string id="limansk_secret_0009_name">
+		<text>Hiding place of the stalker in Limansk</text>
+	</string>
+	<string id="limansk_secret_0009_description">
+		<text>Here a pancake Oprastovolosilsya then. Such habarok has found, has hidden in a secluded place. And then emission has begun and in that place anomaly "Springboard" was formed. Three days has waited, and it was necessary there is nothing to leave</text>
+	</string>
+	<string id="red_forest_secret_0000_name">
+		<text>Hiding place of the stalker in red wood</text>
+	</string>
+	<string id="red_forest_secret_0000_description">
+		<text>Habarok in wood Zanykal. There will be time will take away</text>
+	</string>
+	<string id="red_forest_secret_0001_name">
+		<text>Hiding place of the hunter</text>
+	</string>
+	<string id="red_forest_secret_0001_description">
+		<text>There was here a hunter one. And its zone has not regretted, has bent, and before death he about the hiding place has told</text>
+	</string>
+	<string id="red_forest_secret_0002_name">
+		<text>Hiding place of the mercenary</text>
+	</string>
+	<string id="red_forest_secret_0002_description">
+		<text>time Has got as that to us in hands the mercenary. Podranen was. Well so he to us about the hiding place has told, yes only we it all the same slapped</text>
+	</string>
+	<string id="red_forest_secret_0003_name">
+		<text>Backpack in red wood</text>
+	</string>
+	<string id="red_forest_secret_0003_description">
+		<text>Such loot it was necessary to leave in wood. A place not the reliable. That also look will filch</text>
+	</string>
+	<string id="red_forest_secret_0004_name">
+		<text>Hiding place in red wood</text>
+	</string>
+	<string id="red_forest_secret_0004_description">
+		<text>Place one has found very much Good. Has hidden in such place. Who will find a shit</text>
+	</string>
+	<string id="red_forest_secret_0005_name">
+		<text>Loot in red wood</text>
+	</string>
+	<string id="red_forest_secret_0005_description">
+		<text>In red wood has hidden which that the valuable. Time will come to tear from a zone. Not to forget to take away</text>
+	</string>
+	<string id="red_forest_secret_0006_name">
+		<text>Loot on an edge</text>
+	</string>
+	<string id="red_forest_secret_0006_description">
+		<text>Have found the dead stalker. In a backpack at it was a lot of valuable. All have not carried away, a part in a cache have left</text>
+	</string>
+	<string id="red_forest_secret_0007_name">
+		<text>Loot of the hunter</text>
+	</string>
+	<string id="red_forest_secret_0007_description">
+		<text>I Know one place, speak there a lot of all good it is buried. It would be necessary to visit</text>
+	</string>
+	<string id="red_forest_secret_0008_name">
+		<text>Cache of the hunter</text>
+	</string>
+	<string id="red_forest_secret_0008_description">
+		<text>me the hunter one before death about the habarok in red wood has told. It would be necessary to find this place</text>
+	</string>
+	<string id="red_forest_secret_0009_name">
+		<text>Cache in wood</text>
+	</string>
+	<string id="red_forest_secret_0009_description">
+		<text>Here then has carried, so much loot have typed that all have not carried away even. In the same place also have left in wood</text>
+	</string>
+	<string id="red_forest_secret_0010_name">
+		<text>Hiding place in wood</text>
+	</string>
+	<string id="red_forest_secret_0010_description">
+		<text>it is good we then one stalker have shaken. habarok at it that was necessary</text>
+	</string>
+	<string id="red_forest_secret_0011_name">
+		<text>Secluded place in wood</text>
+	</string>
+	<string id="red_forest_secret_0011_description">
+		<text>Vaska Was lost. Well we will drink for it, for Druzhbana mine. I have removed all valuable, yes in the same place in wood and have left. Could not...</text>
+	</string>
+	<string id="red_forest_secret_0012_name">
+		<text>Reserved place in wood</text>
+	</string>
+	<string id="red_forest_secret_0012_description">
+		<text>Happens and on our streets a holiday. Have caught a good large sum. habarok while have put by. Not safe where</text>
+	</string>
+	<string id="red_forest_secret_0013_name">
+		<text>Reserved place in red wood</text>
+	</string>
+	<string id="red_forest_secret_0013_description">
+		<text>Here what to do? Loot in red wood has hidden. And now the second month I can not take away. That ail, affairs</text>
+	</string>
+	<string id="red_forest_secret_0014_name">
+		<text>Hiding place of the master</text>
+	</string>
+	<string id="red_forest_secret_0014_description">
+		<text>So has dumped in Taynichok which that. Not so valuable, but nevertheless</text>
+	</string>
+	<!-- new string id's - aleks1970 -->
+	<string id="red_forest_secret_0015_name">
+		<text>Backpack in wood</text>
+	</string>
+	<string id="red_forest_secret_0015_description">
+		<text>Went to a Limansk. To pass then could not, but which that on road sends, have hidden in the same place in red wood</text>
 	</string>
 </string_table>

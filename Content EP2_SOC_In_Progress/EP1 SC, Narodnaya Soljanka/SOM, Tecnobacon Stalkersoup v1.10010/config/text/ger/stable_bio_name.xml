@@ -1,573 +1,583 @@
-<!-- Gecheckt und berichtigt durch Wlad Geschwendt aka 777-W.L.A.D. am 19.02.2008 -->
+<!-- TB3D 1.1.0.0.0.4 lis_doctor_dialog_3 patch to path, Prapor, Serega, aes, vet_research_bio, added bios, skinflint to miser -->
+<!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 21 Mar 16 -->
+<!-- Names changed as commented below - Sword2012 - 31 Oct 16 -->
+ <!-- Corrected many generic punctuation, in-game and US/UK spelling errors - Sword2012 - 12 Dec 16 -->
 
-<!---------------------------- Update am 20.12.2014 -------------------------------->
-
-<string id="aes_Monolit_master_bio">
-		<text>Eine Wache von der Monolithengruppe. Von ihm sollte man sich am besten fernhalten. Keine Details verfügbar.</text>
+	<string id="bio_classified">
+		<text>Information: Classified</text>
 	</string>
-	<string id="aes_Monolit_rpg_bio">
-		<text>Ein Stalker von der Monolithengruppe. Keine Details verfügbar.</text>
+	<string id="bio_classified_dangerous">
+		<text>Information: Classified 'Extremely Dangerous'</text>
 	</string>
-	<string id="aes_Monolit_sniper_bio">
-		<text>Ein Stalker von der Monolithengruppe. Keine Details verfügbar.</text>
+	<string id="bio_aes_ordinary_soldier">
+		<text>Ordinary Soldier. Further details unavailable at present</text>
 	</string>
-	<string id="aes_Monolit_sniper_gauss_bio">
-		<text>Ein Stalker von der Monolithengruppe. Keine Details verfügbar.</text>
+	<string id="bio_aes_Monolit_master">
+		<text>Leader within the Monolith Faction. Best left alone. Extremely Dangerous. Detailed information unavailable</text>
+	</string>
+	<string id="bio_aes_Monolit_sniper_gauss">
+		<text>Member of the Monolith faction. Sniper Division. Detailed information unavailable</text>
+	</string>
+	<string id="bio_Monolit_specnaz_rg6">
+		<text>Member of the Monolith Faction. Extremely well equipped. Detailed information unavailable</text>
 	</string>
 	<string id="aes_Monolit_specnaz_bio">
-		<text>Ein Militanter der Monolithengruppe. Gut ausgerüstet. Keine Details verfügbar.</text>
+		<text>Militant from the Monolith grouping. Well equipped. Further details unavailable at present</text>
 	</string>
 	<string id="aes_Soldier_commander_bio">
-		<text>Kommandant des militärischen Überfallkommandos.</text>
+		<text>Commander of the military raid</text>
 	</string>
 	<string id="aes_Soldier_military_bio">
-		<text>Armeestalker. Gut bewaffnet und äußerst gefährlich. Keine Details verfügbar.</text>
+		<text>Military Stalker. Well armed and highly dangerous. Further details unavailable at present</text>
 	</string>
 	<string id="aes_Soldier_sniper_bio">
-		<text>Keine Details verfügbar.</text>
+		<text>Details unavailable at present</text>
 	</string>
 	<string id="aes_Soldier_specnaz_aes_bio">
-		<text>Armee-Speznaz. Gut ausgerüstet. Keine Details verfügbar.</text>
+		<text>Army Spetsnaz. Well equipped. Further details unavailable at present</text>
 	</string>
 	<string id="aes_Soldier_specnaz_aes_name">
-		<text>Der Glücklose</text>
+		<text>Vasil Luckless</text>
 	</string>
 	<string id="aes_Soldier_specnaz_bio">
-		<text>Armee-Speznaz. Gut ausgerüstet. Keine Details verfügbar.</text>
+		<text>Army Spetsnaz. Well equipped. Further details unavailable at present</text>
 	</string>
 	<string id="agr_krot_bio">
-		<text>Ehemaliger Schatzgräber, der alle verlassenen Laboratorien und Bunker ausraubt, die er und seine Kumpanen finden können.</text>
+		<text>Former miner who now raids every deserted laboratory and bunker he and his associates can find</text>
 	</string>
 	<string id="agr_krot_name">
-		<text>Maulwurf</text>
+		<text>Mole</text>
 	</string>
 	<string id="bar_arena_stalker">
-		<text>Einer der Teilnehmer der tödlichen Kämpfe in der Arena. Keine Details verfügbar.</text>
+		<text>One of the participants of the deadly fights in the Arena. No details available</text>
 	</string>
 	<string id="bar_arny_bio">
-		<text>Ein erfahrener Schmuggler. Hat sich seinen Ruhm verdient, indem er innerhalb kürzester Zeit mehrere hundert ausgestopfte Mutanten aus der Verbotszone geschmuggelt hat.</text>
+		<text>Experienced smuggler. Earned his fame by smuggling hundreds of stuffed mutants out of the restricted area within a very short period of time</text>
 	</string>
 	<string id="bar_arny_name">
 		<text>Arnie</text>
 	</string>
 	<string id="bar_bar_guard_bio">
-		<text>Ein Rausschmeißer in der Bar. Oder der Leibwächter des Wirtes, wenn du so willst. Über seine Gegenwart und seine Vergangenheit ist nichts bekannt.</text>
+		<text>Bouncer at the Bar, or if you prefer, the Barkeep's bodyguard. Nothing more is known about his present or his past</text>
 	</string>
 	<string id="bar_bar_guard_name">
 		<text>Garik</text>
 	</string>
 	<string id="bar_bar_guard2_bio">
-		<text>Gariks Zwillingsbruder. Rausschmeißer in der Bar. Genauso verschlossen wie sein Bruder.</text>
+		<text>Garik's twin brother. Bouncer at the bar. As close-mouthed as his brother</text>
 	</string>
 	<string id="bar_bar_guard2_name">
-		<text>Schorik</text>
+		<text>Zhorik</text>
 	</string>
 	<string id="bar_barmen_bio">
-		<text>Kein Heiliger und kein Halunke. Der Wirt kennt seinen Wert, und er wird von allen Stalkern respektiert. Den Gerüchten nach versteckt er sich in der Zone wegen einiger dunkler Geschichten in seiner Vergangenheit. Seit einer Begegnung mit der Anomalie humpelt er leicht und hat seinen Job gewechselt. Er hat eine Bar bei den Wächtern aufgemacht, und nach und nach hat sich die Bar in einen Treffpunkt für alle Veteranen der Zone entwickelt. Der Wirt hat zahlreiche Verbindungen in die Zone und in die Außenwelt.</text>
+		<text>A very successful trader, and the proprietor of the '100 Rads' bar in Rostok, Barkeep has earned respect and influence throughout the Zone. He cooperates with Sidorovich in a mutual bid to open the roads to the center of the Zone. According to him, he used to own a restaurant back in Ukraine, where he was constantly being harassed by the Mob for protection back in 1994. He now has a personal vendetta against the same mob who previously extorted him, and is on a mission to wipe them out. They have an operation at the Agroprom Research Institute, selling artefacts from the Zone to the outside world</text>
 	</string>
 	<string id="bar_barmen_name">
-		<text>Wirt</text>
+		<text>Barkeep</text>
 	</string>
 	<string id="bar_beast_name">
-		<text>Bestie</text>
+		<text>Beast</text>
 	</string>
 	<string id="bar_drunk_bio">
-		<text>Ein Mitglied der Wächter, jedoch sehr häufig nicht ganz bei der Sache. Die Fraktion hat ihm die letzte Chance gegeben, sich zu bewähren, indem er einen Auftrag ausführt. Aber er ist wieder zu betrunken und kann sich nicht genug zusammenreißen, um wieder nüchtern zu werden.</text>
+		<text>Member of the Duty faction, more often off the wagon than on it. Duty gave him his last chance for redemption by carrying out a mission. However, he ended up too drunk to get himself together and pull it off</text>
 	</string>
 	<string id="bar_drunk_name">
-		<text>Brom</text>
+		<text>Brome</text>
 	</string>
 	<string id="bar_hunter_bio">
-		<text>Ein von Natur aus freundlicher und fröhlicher Mann, dessen einziges Problem darin besteht, dass er mit nichts anderem schießen kann als mit einem Jagdgewehr. Jäger hat in letzter Zeit nicht einmal andere Waffen ausprobiert. Kürzlich ist er im Wildgebiet in die Klemme geraten und verlor dabei sein Familiengewehr. Jetzt hängt er in der Bar herum und hofft darauf, dass es ihm jemand zurückbringt.</text>
+		<text>Good-natured, cheerful guy whose only problem is that he can't shoot with anything but a hunting rifle, simply because he's never tried another gun. He recently got into a scrap in the Wild Territory, and lost the rifle handed down to him from his family. Now he lounges about the Bar, hoping to find someone who will not just find his rifle, but return it to him...</text>
 	</string>
 	<string id="bar_hunter_name">
-		<text>Jäger</text>
+		<text>Hunter</text>
 	</string>
 	<string id="bar_informer_bio">
-		<text>Ein geheimnisvoller Stalker, der über alles Bescheid zu wissen scheint. Tauscht in der Bar Informationen aus.</text>
+		<text>Smarmy know-it-all Stalker who trades information at the Bar, and has probably never set foot outside it since he came into the Zone. Claims to be ex-military, but you get the impression he's never fired a weapon in his life, other than to save his own hide. Much of his 'valuable info' is based on hearsay picked up there, and is often misleading, if not downright fictitious...</text>
 	</string>
 	<string id="bar_informer_name">
-		<text>Informator</text>
+		<text>Snitch</text>
 	</string>
 	<string id="bar_ivancov_bio">
-		<text>Kommandant aller Bestrafungsüberfälle und Expeditionen gegen Mutantenhorden.</text>
+		<text>Commander of all 'retribution' raids, and expeditions against mutant hordes</text>
 	</string>
 	<string id="bar_ivancov_name">
-		<text>Iwanzow</text>
+		<text>Captain Ivantsov</text>
 	</string>
 	<string id="bar_kicenko_name">
-		<text>Kizenko</text>
+		<text>Sergeant Kitsenko</text>
 	</string>
 	<string id="bar_lelik_bio">
-		<text>Er ist der Leibwächter des Besitzers der Arena. Viel ist über seine Vergangenheit nicht bekannt, aber was man weiß, ist übel. Er hasst seine Brüder.</text>
+		<text>The Arena owner's bodyguard. Little is known about his past, but you can safely assume that all of it's bad. He hates his brothers</text>
 	</string>
 	<string id="bar_lelik_name">
-		<text>Lölik</text>
+		<text>Liolik</text>
 	</string>
 	<string id="bar_lisiy_name">
-		<text>Glatze</text>
+		<text>Baldy</text>
 	</string>
 	<string id="bar_petrenko_bio">
-		<text>Einer der Gründer der Wächter und ihr oberster Denker. Er ist für den heiligen Codex der Gruppe verantwortlich und hat alle wichtigen Mitglieder der Wächter angeworben.</text>
+		<text>One of Duty's founders and their leading idea-monger. Largely responsible for writing its code of honour and duty</text>
 	</string>
 	<string id="bar_petrenko_name">
-		<text>Oberst Petrenko</text>
+		<text>Colonel Petrenko</text>
 	</string>
 	<string id="bar_plichko_bio">
-		<text>Chef der Territoriumssicherheit bei den Wächtern</text>
+		<text>Chief of Duty territory's security</text>
 	</string>
 	<string id="bar_plichko_name">
-		<text>Plitschko</text>
+		<text>Sergeant Plichko</text>
 	</string>
 	<string id="bar_ryaboy_bio">
-		<text>Ein Fremder, der vom Hirnschmelzer erwischt wurde.</text>
+		<text>Stranger affected by the Brain Scorcher</text>
 	</string>
 	<string id="bar_ryaboy_name">
-		<text>Pockiger</text>
+		<text>Spotty</text>
 	</string>
 	<string id="bar_voronin_bio">
-		<text>Gründer der Wächter. Hat sie fünf Jahre lang angeführt.</text>
+		<text>The current leader of Duty, and one of its original founders. He personally recruited most of the faction's key members, and is responsible for upholding its sacred code</text>
 	</string>
 	<string id="bar_voronin_name">
-		<text>General Woronin</text>
+		<text>General Voronin</text>
 	</string>
 	<string id="cit_bandit_drunk_bio">
-		<text>Alkoholiker.</text>
+		<text>Alkie</text>
 	</string>
 	<string id="cit_bandit_general_bio">
-		<text>Ein unbekannter Stalker. Schlechter Ruf. Keine Details verfügbar.</text>
+		<text>Unknown Stalker. Unsavoury reputation. Further details unavailable at present</text>
 	</string>
 	<string id="cit_bandit_veteran_bio">
-		<text>Ein unbekannter Stalker. Schlechter Ruf. Keine Details verfügbar.</text>
+		<text>Unknown Stalker. Unsavoury reputation. Further details unavailable at present</text>
 	</string>
 	<string id="cit_bandits_leader_bio">
-		<text>Einer der Banditenanführer. Gut bewaffnet und höchst gefährlich. Keine Details verfügbar.</text>
+		<text>One of the bandit leaders. Well armed and highly dangerous. No details available</text>
 	</string>
 	<string id="cit_bandits_leader_name">
-		<text>Frecher</text>
+		<text>Borziy</text>
 	</string>
 	<string id="cit_doctor_bio">
-		<text>Doktor</text>
+		<text>Doc</text>
 	</string>
 	<string id="cit_doctor_name">
-		<text>Dok</text>
+		<text>Doc</text>
 	</string>
 	<string id="cit_killer_exo_bio">
-		<text>Unbekannter Söldner. Gut bewaffnet und höchst gefährlich. Keine Details verfügbar.</text>
+		<text>Unknown mercenary. Well armed and highly dangerous. Further details unavailable at present</text>
 	</string>
 	<string id="cit_killer_general_bio">
-		<text>Unbekannter Söldner. Gut bewaffnet und höchst gefährlich. Keine Details verfügbar.</text>
+		<text>Unknown mercenary. Potentially well armed. Further details unavailable at present</text>
 	</string>
 	<string id="cit_killers_leader_bio">
-		<text>Anführer der Söldnerbande. Gut bewaffnet und höchst gefährlich. Keine Details verfügbar.</text>
+		<text>Leader of the Merc gang. Well armed and highly dangerous. Further details unavailable at present</text>
 	</string>
 	<string id="cit_killers_leader_name">
-		<text>Duschman</text>
+		<text>Dushman</text>
 	</string>
 	<string id="cit_vp_bio">
-		<text>Erfahrener Stalker. Keine Details verfügbar.</text>
+		<text>Experienced Stalker. Further details unavailable at present</text>
 	</string>
 	<string id="cit_vp_name">
-		<text>Petrowitsch</text>
+		<text>Vasily Petrovich</text>
 	</string>
 	<string id="dar_corpse_bio">
-		<text>Keine Informationen verfügbar.</text>
+		<text>No information available</text>
 	</string>
 	<string id="dar_explorer_bio">
-		<text>Erfahrener Stalker. Hält immer seine Augen offen.</text>
+		<text>Experienced Stalker. Always on the alert...</text>
 	</string>
 	<string id="dar_explorer_name">
-		<text>Scheka Vierauge</text>
+		<text>Zheka Doublet</text>
 	</string>
 	<string id="dar_kalugin_name">
-		<text>Kalugin</text>
+		<text>Kalugin P.I.</text>
 	</string>
 	<string id="ds_sergant_regular_bio">
-		<text>Feldwebel der ukrainischen Armee. Keine Details verfügbar.</text>
+		<text>Regular sergeant in the Ukrainian Army. Further details unavailable at present</text>
 	</string>
 	<string id="ds_soldier_regular_bio">
-		<text>Soldat der ukrainischen Armee. Keine Details verfügbar.</text>
+		<text>Regular private in the Ukrainian Army. Further details unavailable at present</text>
 	</string>
 	<string id="esc_bandit_novice_bio">
-		<text>Ein unbekannter Stalker. Schlechter Ruf. Keine Details verfügbar.</text>
+		<text>Unknown Stalker. Unsavoury reputation. Further details unavailable at present</text>
 	</string>
 	<string id="esc_captain_bio">
-		<text>Ein Hauptmann, der lange in der ukrainischen Armee gedient hat. Keine Details verfügbar.</text>
+		<text>Long serving captain of the Ukrainian Army. Further details unavailable at present</text>
 	</string>
 	<string id="esc_fanat_bio">
-		<text>Hat nach Wolf die Führung des Ausbildungslagers übernommen. Sehr zielstrebig und aggressiv. Hat die Leitung der Neulinge wohl verdient.</text>
+		<text>Took over leadership at the Rookie camp after Wolf. Purposeful, aggressive, and has well-deserved authority over newcomers</text>
 	</string>
 	<string id="esc_fanat_name">
-		<text>Fanatiker</text>
+		<text>Fanatic</text>
 	</string>
 	<string id="esc_fox_bio">
-		<text>Ein alter Einzelgänger, der durch die Zone abgehärtet wurde.</text>
+		<text>Old loner toughened by the Zone</text>
 	</string>
 	<string id="esc_fox_name">
-		<text>Fuchs</text>
+		<text>Fox</text>
 	</string>
 	<string id="esc_killer_specnaz_bio">
-		<text>Unbekannter Söldner. Gut bewaffnet und höchst gefährlich. Keine Details verfügbar.</text>
+		<text>Unknown mercenary. Potentially well armed. Further details unavailable at present</text>
 	</string>
 	<string id="esc_petruha_bio">
-		<text>Ein schlauer Rekrut. Wolf scheint ihn zu mögen und schickt ihn oft auf wichtige Einsätze.</text>
+		<text>Smart rookie. Wolf seems to like him, and often sends him on important missions</text>
 	</string>
 	<string id="esc_petruha_name">
-		<text>Petrucha</text>
+		<text>Petruha</text>
 	</string>
 	<string id="esc_provodnik_bio">
-		<text>Eine Art lebende Legende. Es wird behauptet, dass er einen an absolut jede Stelle in der Zone bringen kann. Seine Dienste sind teuer und nicht für jeden erschwinglich. Wenn er dich nicht mag, dann nimmt er dich für kein Geld der Welt mit. Ein Veteran, der die Zone kreuz und quer durchlaufen hat.</text>
+		<text>A veteran and a living legend who has travelled the length and breadth of the Zone. They say he can take you to absolutely any place within it. His services are costly and not available to just anyone, because if he doesn't take to you, he won't help you for all the money in the world...</text>
 	</string>
 	<string id="esc_provodnik_name">
-		<text>Führer</text>
+		<text>Guide</text><!-- Changed 'Conductor' to 'Guide' - Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="esc_sergant_regular_bio">
-		<text>Feldwebel der ukrainischen Armee. Keine Details verfügbar.</text>
+		<text>Regular sergeant in the Ukrainian Army. Further details unavailable at present</text>
 	</string>
 	<string id="esc_shustryi_bio">
-		<text>Ein Stalker, der seinen Namen davon hat, dass er fast unsichtbar und völlig unentbehrlich ist. Der Händler wendet sich bei kniffligen Einsätzen an ihn, zum Beispiel, wenn es darum geht, jemanden auszuspionieren oder sich herumzuschleichen und die Ohren offen zu halten.</text>
+		<text>A truly indispensable Stalker who made his name by keeping himself practically invisible. The trader turns to him for sensitive missions such as spying on someone, snooping around, and eavesdropping</text>
 	</string>
 	<string id="esc_shustryi_name">
-		<text>Flinker</text>
+		<text>Nimble</text>
 	</string>
 	<string id="esc_soldier_commander_bio">
-		<text>Ein Major, der den Armeeposten an der Brücke befehligt. Bekannt dafür, Bestechungsgelder von Stalkern anzunehmen und sie dann über die Brücke zu lassen.</text>
+		<text>Major commanding the army outpost by the bridge. Well-known for taking bribes from Stalkers, to let them pass under the bridge</text>
 	</string>
 	<string id="esc_soldier_commander_name">
-		<text>Major Kusnezow</text>
+		<text>Major Kuznetsov</text>
 	</string>
 	<string id="esc_soldier_regular_bio">
-		<text>Soldat der ukrainischen Armee. Keine Details verfügbar.</text>
+		<text>Regular private in the Ukrainian Army. Further details unavailable at present</text>
 	</string>
 	<string id="esc_specnaz_bio">
-		<text>Speznaz. Gut ausgerüstet. Keine Details verfügbar.</text>
+		<text>Spetsnaz. Well-equipped. Further details unavailable at present</text>
 	</string>
 	<string id="esc_specnaz_killer_bio">
-		<text>Unbekannter Söldner. Gut bewaffnet und höchst gefährlich. Keine Details verfügbar.</text>
+		<text>Unknown mercenary. Well-armed and highly dangerous. Further details unavailable at present</text>
 	</string>
 	<string id="esc_stalker_novice_bio">
-		<text>Anfänger. Neu in der Zone. Keine Details verfügbar.</text>
+		<text>Rookie. New to the Zone. Further details unavailable at present</text>
 	</string>
 	<string id="esc_tolik_bio">
-		<text>Typischer Stalker.</text>
+		<text>Typical Stalker</text>
 	</string>
 	<string id="esc_tolik_name">
 		<text>Tolik</text>
 	</string>
 	<string id="esc_wolf_bio">
-		<text>Kopf des Ausbildungslagers. Ein alter Stalker, der plant, sich davonzumachen und weiter in die Zone vorzudringen..</text>
+		<text>Head of the Rookie camp. An old Stalker making his plans to bail out</text>
 	</string>
 	<string id="esc_wolf_name">
 		<text>Wolf</text>
 	</string>
 	<string id="escape_trader_bio">
-		<text>Seit seiner Kindheit lebt er vom Handel. Im Kindergarten verkaufte er schon Kreide. In der Schule ging er zum Verkauf von Kaugummi über. Am Institut dealte er leichte Drogen, und als die Zone entstand, erkannte er ihr Potenzial für Geschäfte. Berühmt dafür, selbst mit der übelsten Sorte Kunden eine stabile Handelsbeziehung aufzubauen.</text>
+		<text>Has been making his living since childhood by trading. In kindergarten, he used to sell crayons. In high school, he sold chewing gum. At the Institute, he dealt in light drugs. As soon as the Zone came to be, he realized its money-making potential. Well-known for his ability to build strong trade relations with any group of clients, no matter how unsavoury or dangerous</text>
 	</string>
 	<string id="escape_trader_name">
-		<text>Sidorowitsch</text>
+		<text>Sidorovich</text>
 	</string>
 	<string id="gar_bandit_leader_bio">
-		<text>Bei den Banditen in der Zone hat er eine gewisse Autorität. Borows rechte Hand.</text>
+		<text>Has a certain authority over the bandits in the Zone. Borov's sidekick</text>
 	</string>
 	<string id="gar_bandit_leader_name">
-		<text>Wasja Die Wildsau</text>
+		<text>Vasya Boar</text>
 	</string>
 	<string id="gar_dolg_blokpost_bio">
-		<text>Ein Stalker der Wächter. Keine Details verfügbar.</text>
+		<text>A Stalker from the Duty faction. Further details unavailable at present</text>
 	</string>
 	<string id="gar_dolg_blokpost_leader_bio">
-		<text>Offizier der Wächter. Keine Details verfügbar.</text>
+		<text>Officer in the Duty faction. Further details unavailable at present</text>
 	</string>
 	<string id="gar_dolg_blokpost_leader_name">
-		<text>Stabsfeldwebel</text>
+		<text>Prapor</text>
 	</string>
 	<string id="gar_dram_novice_bio">
-		<text>Anfänger. Ist gerade in der Zone angekommen.</text>
+		<text>Rookie. Trying to break new ground in the Zone</text>
 	</string>
 	<string id="gar_dram_novice_name">
-		<text>Jurik</text>
+		<text>Yurek</text>
 	</string>
 	<string id="gar_hellcar_bio">
-		<text>Versteckt sich in der Zone vor dem Gesetz. Versucht alleine, die Ordnung in der Zone nach seinen eigenen Bedingungen aufrecht zu erhalten. Kämpft gegen die Banditen. Grausam, aber fair.</text>
+		<text>Hiding in the Zone from the law. Tries to maintain order in the Zone on his own terms, and fights against the bandits. Can be cruel, but is always fair</text>
 	</string>
 	<string id="gar_hellcar_name">
 		<text>Bes</text>
 	</string>
 	<string id="gar_newbie_bio">
-		<text>Anfänger. Neu in der Zone. Keine Details verfügbar.</text>
+		<text>Rookie. New to the Zone. Further details unavailable at present</text>
 	</string>
 	<string id="gar_seryi_bio">
-		<text>Ein Stalker, dessen Gesicht ebenso schmutzig ist wie seine Gesinnung.</text>
+		<text>Stalker whose face is as dirty as his conscience</text>
 	</string>
 	<string id="gar_seryi_name">
-		<text>Grauer</text>
+		<text>Seriy</text>
 	</string>
 	<string id="gar_stalker_regular_bio">
-		<text>Ein erfahrener Stalker. Keine Details verfügbar.</text>
+		<text>An experienced Stalker. Further details unavailable at present</text>
 	</string>
 	<string id="mil_Dolg_specnaz_bio">
-		<text>Militanter Typ der Wächterfraktion. Meistens gut ausgerüstet. Keine Details verfügbar. </text>
+		<text>Militant from the Duty faction. Usually well-equipped. Further details unavailable at present</text>
 	</string>
 	<string id="mil_Dolg_specnaz_cherep_bio">
-		<text>Kommandant der Sondereinsatzkräfte der Wächterfraktion. Üblicherweise gut ausgerüstet.</text>
+		<text>Commander of Duty's Special Forces. Usually well-equipped</text>
 	</string>
 	<string id="mil_Dolg_specnaz_cherep_name">
-		<text>Schädel</text>
+		<text>Skull</text>
 	</string>
 	<string id="mil_Dolg_specnaz_silence_bio">
-		<text>Ein Kämpfer der Wächterfraktion. Üblicherweise gut ausgerüstet. Keine Details verfügbar.</text>
+		<text>A fighter from the Duty faction. Usually well-equipped. Further details unavailable at present</text>
 	</string>
 	<string id="mil_Killer_informator_bio">
-		<text>Ein Spitzel, der in der ganzen Zone bekannt ist.</text>
+		<text>A stool pigeon known across the whole Zone</text>
 	</string>
 	<string id="mil_Killer_informator_name">
 		<text>Ara</text>
 	</string>
 	<string id="mil_killer_master_bio">
-		<text>Unbekannter Söldner. Gut bewaffnet und höchst gefährlich. Keine Details verfügbar.</text>
+		<text>Unknown mercenary. Well armed and highly dangerous. Further details unavailable at present</text>
 	</string>
 	<string id="mil_killer_sniper_bio">
-		<text>Unbekannter Söldner. Offensichtlich neu in der Zone. Keine Details verfügbar. </text>
+		<text>Unknown mercenary. Apparently new to the Zone. Further details unavailable at present</text>
 	</string>
 	<string id="mil_Killer_specnaz_bio">
-		<text>Unbekannter Söldner. Gut bewaffnet und höchst gefährlich. Keine Details verfügbar.</text>
+		<text>Unknown mercenary. Potentially well-armed. Further details unavailable at present</text>
 	</string>
 	<string id="mil_Monolit_master_bio">
-		<text>Eine Wache von der Monolithengruppe. Von ihm sollte man sich am besten fernhalten. Keine Details verfügbar.</text>
+		<text>Sentinel of the Monolith grouping. Best to stay away from him. Further details unavailable at present</text>
 	</string>
 	<string id="mil_Monolit_regular_bio">
-		<text>Ein Stalker von der Monolithengruppe. Keine Details verfügbar.</text>
+		<text>Stalker from the Monolith grouping. Further details unavailable at present</text>
 	</string>
 	<string id="mil_Stalker_master_bio">
-		<text>Einer der Veteranen. Kennt die Zone wie seine Westentasche. Meistens gut ausgerüstet und höchst gefährlich. Keine Details verfügbar.</text>
+		<text>One of the veterans of the Zone, and knows it like the back of his hand. Usually well-equipped and highly dangerous. Further details unavailable at present</text>
 	</string>
 	<string id="mil_Stalker_veteran_bio">
-		<text>Ein Stalkerveteran. Vermutlich gut ausgerüstst. Keine Details verfügbar.</text>
+		<text>Veteran Stalker. Potentially well-equipped. Further details unavailable at present</text>
 	</string>
 	<string id="mil_Svoboda_blockpost_leader_bio">
-		<text>Ein Stalker der Freiheitsgruppe. Barrierekommandant. Der Mann, der eine Gruppe von Leuten zusammengebracht hat, die bereit sind, ihre Leben für das Wohl der Allgemeinheit zu opfern.</text>
+		<text>Stalker from the Freedom faction. Barrier commander who banded together a group of people willing to dedicate their lives to a greater cause</text>
 	</string>
 	<string id="mil_Svoboda_blockpost_leader_name">
 		<text>Cap</text>
 	</string>
 	<string id="mil_Svoboda_bodyguard_bio">
-		<text>Leibwächter. Arbeitet für Lukasch, dem Anführer der Freiheitsgruppe.</text>
+		<text>Bodyguard working for Lukash, the leader of Freedom</text>
 	</string>
 	<string id="mil_Svoboda_cook_bio">
-		<text>Der Koch der Freiheitsgruppe. Ein Säufer und Raufbold, aber ein ausgezeichneter Koch.</text>
+		<text>Freedom's chef. A boozer and brawler, but an excellent cook</text>
 	</string>
 	<string id="mil_Svoboda_cook_name">
-		<text>Koch</text>
+		<text>Cook</text>
 	</string>
 	<string id="mil_Svoboda_engineer_bio">
-		<text>Ein Mechaniker, der in der ganzen Zone bekannt ist. Kann aus einem Traktor einen Panzer machen. So oder so ähnlich wird es zumindest behauptet.</text>
+		<text>A mechanic renowned throughout the Zone. Can make a tank out of a tractor, or so the story goes...</text>
 	</string>
 	<string id="mil_Svoboda_engineer_name">
-		<text>Schrauber</text>
+		<text>Screw</text>
 	</string>
 	<string id="mil_Svoboda_leader_bio">
-		<text>Anführer der Freiheitsfraktion.</text>
+		<text>Leader of the Freedom faction</text>
 	</string>
 	<string id="mil_Svoboda_leader_name">
-		<text>Lukasch</text>
+		<text>Lukash</text>
 	</string>
 	<string id="mil_Svoboda_master_bio">
-		<text>Kommandant der Freiheitsfraktion. Keine Details verfügbar.</text>
+		<text>Commander of the Freedom faction. Further details unavailable at present</text>
 	</string>
 	<string id="mil_Svoboda_master_Max_bio">
-		<text>Ein Wächter der Freiheitsgruppe. Ein Fanatiker. Sehr gut ausgerüstet und extrem gefährlich. Keine Details verfügbar.</text>
+		<text>A fanatical guard from the Freedom faction. Very well-equipped and highly dangerous. Further details unavailable at present</text>
 	</string>
 	<string id="mil_Svoboda_master_Max_name">
 		<text>Max</text>
 	</string>
 	<string id="mil_Svoboda_master_Ugrumiy_bio">
-		<text>Ein Wächter der Freiheitsgruppe. Sehr gut ausgerüstet und extrem gefährlich. Keine Details verfügbar.</text>
+		<text>Guard from the Freedom faction. Very well-equipped and highly dangerous. Further details unavailable at present</text>
 	</string>
 	<string id="mil_Svoboda_master_Ugrumiy_name">
-		<text>Grimmiger</text>
+		<text>Murk</text>
 	</string>
 	<string id="mil_Svoboda_regular_bio">
-		<text>Ein Stalker der Freiheitsfraktion. Keine Details verfügbar. </text>
+		<text>Stalker from the Freedom faction. Further details unavailable at present</text>
 	</string>
 	<string id="mil_Svoboda_sniper_bio">
-		<text>Ein Scharfschütze der Freiheitsfraktion. Keine Details verfügbar. </text>
+		<text>Sniper from the Freedom faction. Further details unavailable at present</text>
 	</string>
 	<string id="mil_Svoboda_specnaz_bio">
-		<text>Militanter Typ der Freiheitsfraktion. Meistens gut ausgerüstet. Keine Details verfügbar. </text>
+		<text>Militant from the Freedom faction. Usually well-equipped. Further details unavailable at present</text>
 	</string>
 	<string id="mil_Svoboda_stukach_bio">
-		<text>Ein Stalker der Freiheitsfraktion. Keine Details verfügbar. </text>
+		<text>Stalker from the Freedom faction. Further details unavailable at present</text>
 	</string>
 	<string id="mil_Svoboda_stukach_name">
-		<text>Pawlik</text>
+		<text>Pavlik</text>
 	</string>
 	<string id="mil_Svoboda_trader_bio">
-		<text>Berühmt für seine Gier und seinen eigenen Willen, aber man sagt, dass er einem alles besorgen kann.</text>
+		<text>Infamous for his stinginess and high prices, but they say he can get you anything</text>
 	</string>
 	<string id="mil_Svoboda_trader_name">
-		<text>Geizhals</text>
+		<text>Miser</text>
 	</string>
 	<string id="mil_Svoboda_zombi_stalker_bio">
-		<text>Ein Stalker der Freiheitsfraktion. Keine Details verfügbar. </text>
+		<text>Stalker from the Freedom faction. Further details unavailable at present</text>
 	</string>
 	<string id="mil_Svoboda_zombi_stalker_name">
-		<text>Irrer Stalker der Freiheitsfraktion.</text>
+		<text>Insane Stalker from the Freedom faction</text>
 	</string>
 	<string id="mil_Svoboda_zoneguard_bio">
-		<text>Militanter Typ der Freiheitsfraktion. Meistens gut ausgerüstet. Keine Details verfügbar. </text>
+		<text>Militant from the Freedom faction. Usually well-equipped. Further details unavailable at present</text>
 	</string>
 	<string id="pri_followers_bomber_name">
-		<text>Sascha Weißer</text>
+		<text>Sasha Bely</text>
 	</string>
 	<string id="pri_followers_common_bio">
-		<text>Ein Stalkerveteran. Vermutlich gut ausgerüstst. Keine Details verfügbar.</text>
+		<text>Veteran Stalker. Potentially well-equipped. Further details unavailable at present</text>
 	</string>
 	<string id="pri_monolith_common_bio">
-		<text>Ein Stalker von der Monolithengruppe. Keine Details verfügbar.</text>
+		<text>Stalker from the Monolith grouping. Further details unavailable at present</text>
 	</string>
 	<string id="pri_monolith_exo_bio">
-		<text>Elitestalker von der Monolithengruppe. Keine Details verfügbar.</text>
+		<text>Elite Stalker from the Monolith grouping. Further details unavailable at present</text>
 	</string>
 	<string id="pri_monolith_leader_bio">
-		<text>Anführer der Monolithengruppe. Keine Details verfügbar. </text>
+		<text>Leader of the Monolith grouping. Further details unavailable at present</text>
 	</string>
 	<string id="pri_monolith_leader_name">
 		<text>Charon</text>
 	</string>
 	<string id="pri_monolith_regular_bio">
-		<text>Ein gewöhnlicher Stalker der Monolithengruppe. Keine Details verfügbar.</text>
+		<text>Regular Stalker from the Monolith grouping. Further details unavailable at present</text>
 	</string>
 	<string id="pri_monolith_specnaz_bio">
-		<text>Stalker der Sondereinsatzkräfte der Monolithengruppe. Keine Details verfügbar. </text>
+		<text>Stalker from the Monolith grouping's Special Sorces. Further details unavailable at present</text>
 	</string>
 	<string id="pri_zombied_soldier_bio">
-		<text>Einfacher Soldat. Keine Details verfügbar. </text>
+		<text>Regular soldier. Further details unavailable at present</text>
 	</string>
 	<string id="pri_zombied_soldier_name">
-		<text>Zombiesoldat</text>
+		<text>Zombified soldier</text>
 	</string>
 	<string id="pri_zombied_stalker_bio">
-		<text>Einer der Stalker, die etwas Pech hatten.</text>
+		<text>A Stalker whose luck finally ran out...</text>
 	</string>
 	<string id="pri_zombied_stalker_name">
-		<text>Zombiesoldat</text>
+		<text>Zombified Stalker</text>
 	</string>
 	<string id="rad_dolg_master_bio">
-		<text>Kommandant der Wächterfraktion. Sehr gut ausgerüstet. Keine Details verfügbar.</text>
+		<text>Commander of the Duty faction. Very well-equipped. Further details unavailable at present</text>
 	</string>
 	<string id="rad_ecolog_bio">
-		<text>Wissenschaftler. Keine Details verfügbar. </text>
+		<text>Scientist. Further details unavailable at present</text>
 	</string>
 	<string id="rad_ecolog_guard_bio">
-		<text>Leibwächter der Wissenschaftler. Keine Details verfügbar. </text>
+		<text>One of the Scientists' security detail. Further details unavailable at present</text>
 	</string>
 	<string id="rad_ecolog_guard_name">
-		<text>Assistent</text>
+		<text>Research assistant</text>
 	</string>
 	<string id="rad_ecolog_name">
-		<text>Assistent</text>
+		<text>Research assistant</text>
 	</string>
 	<string id="rad_monolith_general_bio">
-		<text>Ein Stalker von der Monolithengruppe. Keine Details verfügbar.</text>
+		<text>Stalker from the Monolith grouping. Further details unavailable at present</text>
 	</string>
 	<string id="rad_monolith_specnaz_bio">
-		<text>Ein Militanter der Monolithengruppe. Gut ausgerüstet. Keine Details verfügbar.</text>
+		<text>Militant from the Monolith grouping. Well-equipped. Further details unavailable at present</text>
 	</string>
 	<string id="rad_specnaz_bio">
-		<text>Speznaz. Gut ausgerüstet. Keine Details verfügbar.</text>
+		<text>Spetsnaz. Very well-equipped. Further details unavailable at present</text>
 	</string>
 	<string id="rad_stalker_master_bio">
-		<text>Einer der Veteranen. Kennt die Zone wie seine Westentasche. Meistens gut ausgerüstet und höchst gefährlich. Keine Details verfügbar.</text>
+		<text>One of the Zone's veterans, and knows it like the palm of his hand. Usually well-equipped and highly dangerous. Further details unavailable at present</text>
 	</string>
 	<string id="rad_stalker_veteran_bio">
-		<text>Stalkerveteran. Vermutlich gut ausgerüstet. Keine Details verfügbar.</text>
+		<text>Veteran Stalker. Possibly well equipped. No details available</text>
 	</string>
 	<string id="rad_svoboda_master_bio">
-		<text>Kommandant der Freiheitsfraktion. Keine Details verfügbar.</text>
+		<text>Commander of the Freedom faction. Further details unavailable at present</text>
 	</string>
 	<string id="rad_zombied_general_bio">
-		<text>Einer der Stalker, die etwas Pech hatten.</text>
+		<text>A Stalker whose luck finally ran out...</text>
 	</string>
 	<string id="ros_ecolog_guard_bio">
-		<text>Ein Forscher vom mobilen Labor. Keine Details verfügbar.</text>
+		<text>A researcher from the mobile lab. Further details unavailable at present</text>
 	</string>
 	<string id="ros_freeman_bio">
-		<text>Wissenschaftler und Experte für anomale Phänomene. Hat in Amerika an streng geheimen Projekten gearbeitet. Gilt nun seit einer Weile als vermisst.</text>
+		<text>Scientific expert on anomalous phenomena. Worked in the US on top secret government projects. Has been reported missing for a while now...</text>
 	</string>
 	<string id="ros_freeman_name">
 		<text>Freeman</text>
 	</string>
 	<string id="ros_happy_bio">
-		<text>Ein Plünderer und Mörder. Auf seinen Kopf ist ein Preis ausgesetzt. War früher ein Verbündeter der Dienstgruppe, hat ihnen geholfen, ihr Territorium zu gewinnen. Wohnt jetzt im Wildgebiet und nimmt mit seiner Bande Solitärstalker aus.</text>
+		<text>Looter and murderer with a price on his head. Formerly on good terms with Duty, when he helped them win over their territory. Now dwells in the Wild Territory, and mugs lone Stalkers with his gang</text>
 	</string>
 	<string id="ros_happy_name">
-		<text>Glückspilz</text>
+		<text>Lucky</text>
 	</string>
 	<string id="ros_kruglov_bio">
-		<text>Hat einen Doktortitel in Biologie. Studierte außerhalb der Zone pathogenetische Mutationen bei Tieren. Kam dann in die Zone, um Mutationen bei Schattenhunden zu untersuchen.</text>
+		<text>Ph.D in biology. Studied pathogenic mutations in animals outside the Zone. Came to the Zone to study blind dogs in particular</text>
 	</string>
 	<string id="ros_kruglov_name">
-		<text>Professor Kruglow</text>
+		<text>Professor Kruglov</text>
 	</string>
 	<string id="ros_tiran_bio">
-		<text>Einer der "Helden" der Söldnergruppe. Ein Veteran mit Kugeln aller Kaliber in seinem Körper. Psychopath und Sadist.</text>
+		<text>One of the 'heroes' of the Merc gang. A veteran who's had bullets of every calibre pass through his body. A rare psychopath and sadist</text>
 	</string>
 	<string id="ros_tiran_name">
-		<text>Tyran</text>
+		<text>Tirana</text>
 	</string>
 	<string id="ros_volkodav_bio">
-		<text>Einer der ersten Feldkommandanten der Söldner. Anführer der Bande, die sich selbst "Köter" nennt. Ein Anarchist, der alle Gesetze verachtet - ausgenommen das Recht des Stärkeren.</text>
+		<text>The leader of the gang calling themselves 'The Curs', and one of the first field commanders of the Mercs. An anarchist despising all laws except that of the jungle...</text>
 	</string>
 	<string id="ros_volkodav_name">
-		<text>Wolfshund</text>
+		<text>Wolfhound</text>
 	</string>
 	<string id="sar_monolith_bio">
-		<text>Ein Stalker von der Monolithengruppe. Keine Details verfügbar.</text>
+		<text>Stalker from the Monolith grouping. Further details unavailable at present</text>
 	</string>
 	<string id="sar_monolith_cristall_bio">
-		<text>Ein Stalker der Spezialgruppe "Kristall" der Monolithen, verantwortlich für die Sicherheit des Monolithen selbst.</text>
+		<text>Stalker from the Monolith's special 'Crystal' group. Responsible for the safety of the Monolith itself</text>
 	</string>
 	<string id="sar2_arena_manager_name">
 		<text>Arnie</text>
 	</string>
 	<string id="sar2_arena_savage_name">
-		<text>Bestie</text>
+		<text>Beast</text>
 	</string>
 	<string id="sar2_bandit_leader_name">
-		<text>Wasja Die Wildsau</text>
+		<text>Vasya 'Boar'</text>
 	</string>
 	<string id="sar2_bio">
-		<text>Eine psychomaterielle Form, die von Monolithen geschaffen wurde.</text>
+		<text>A psychomaterial form created by the Monolith</text>
 	</string>
 	<string id="sar2_borov_name">
-		<text>Borow</text>
+		<text>Borov</text>
 	</string>
 	<string id="sar2_crazy_svoboda_name">
-		<text>Irrer Stalker.</text>
+		<text>Insane Stalker</text>
+	</string>
+	<string id="sar2_crazy_bio">
+		<text>This unfortunate Stalker saw something in the Bloodsucker Village that not only drove him insane, but made him extremely paranoid thereafter. After running away from the village, he holed up in a cabin near a small marsh just outside the Army Warehouses, and shooting anything or anyone who came too close</text>
 	</string>
 	<string id="sar2_dolg_blokpost_leader_name">
-		<text>Feldwebel</text>
+		<text>Prapor</text>
 	</string>
 	<string id="sar2_dolg_guard_commander_name">
-		<text>Sicherheitschef</text>
+		<text>Security Chief</text>
 	</string>
 	<string id="sar2_dolg_skull_name">
-		<text>Schädel</text>
+		<text>Skull</text>
 	</string>
 	<string id="sar2_dolg_zastava_commander_name">
-		<text>Kommandant</text>
+		<text>Outpost commander</text>
 	</string>
 	<string id="sar2_dram_novice_name">
-		<text>Jurik</text>
+		<text>Yurek</text>
 	</string>
 	<string id="sar2_explorer_name">
-		<text>Scheka Vierauge</text>
+		<text>Zheka Doublet</text>
 	</string>
 	<string id="sar2_fanat_name">
-		<text>Fanatiker</text>
+		<text>Fanatic</text>
 	</string>
 	<string id="sar2_fox_name">
-		<text>Fuchs</text>
+		<text>Fox</text>
 	</string>
 	<string id="sar2_gordon_name">
 		<text>Gordon</text>
@@ -582,301 +592,304 @@
 		<text>Ara</text>
 	</string>
 	<string id="sar2_ivancov_name">
-		<text>Iwanzow</text>
+		<text>Captain Ivantsov</text>
 	</string>
 	<string id="sar2_krot_name">
-		<text>Maulwurf</text>
+		<text>Stalker Mole</text>
 	</string>
 	<string id="sar2_kruglov_name">
-		<text>Professor Kruglow</text>
+		<text>Professor Kruglov</text>
 	</string>
 	<string id="sar2_kuznetsov_name">
-		<text>Major Kusnezow</text>
+		<text>Major Kuznetsov</text>
 	</string>
 	<string id="sar2_lucky_name">
-		<text>Glückspilz</text>
+		<text>Lucky</text>
 	</string>
 	<string id="sar2_petrenko_name">
-		<text>Oberst Petrenko</text>
+		<text>Colonel Petrenko</text>
 	</string>
 	<string id="sar2_petruha_name">
-		<text>Schorik</text>
+		<text>Petruha</text>
 	</string>
 	<string id="sar2_professor_name">
-		<text>Prof. Sacharow</text>
+		<text>Professor Sakharov</text>
 	</string>
 	<string id="sar2_ryaboy_name">
-		<text>Flecki</text>
+		<text>Spotty</text>
 	</string>
 	<string id="sar2_seryi_name">
-		<text>Grauer</text>
+		<text>Seriy</text>
 	</string>
 	<string id="sar2_svoboda_blockpost_leader_name">
 		<text>Cap</text>
 	</string>
 	<string id="sar2_svoboda_bodyguard_name">
-		<text>Kaputter</text>
+		<text>Kaput</text>
 	</string>
 	<string id="sar2_svoboda_cook_name">
-		<text>Koch</text>
+		<text>Cook</text>
 	</string>
 	<string id="sar2_svoboda_engeneer_name">
-		<text>Schrauber</text>
+		<text>Screw</text>
 	</string>
 	<string id="sar2_svoboda_leader_name">
-		<text>Lukasch</text>
+		<text>Lukash</text>
 	</string>
 	<string id="sar2_svoboda_max_name">
 		<text>Max</text>
 	</string>
 	<string id="sar2_svoboda_stukach_name">
-		<text>Pawlik</text>
+		<text>Pavlik</text>
 	</string>
 	<string id="sar2_svoboda_trader_name">
-		<text>Geizhals</text>
+		<text>Miser</text>
 	</string>
 	<string id="sar2_svoboda_ugrumyi_name">
-		<text>Grimmiger</text>
+		<text>Murk</text>
 	</string>
 	<string id="sar2_tiran_name">
-		<text>Tyran</text>
+		<text>Tirana</text><!-- Changed 'Tyran' to 'Tirana'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="sar2_tolik_name">
 		<text>Tolik</text>
 	</string>
 	<string id="sar2_volkodav_name">
-		<text>Wolfshund</text>
+		<text>Wolfhound</text>
 	</string>
 	<string id="sar2_voronin_name">
-		<text>General Woronin</text>
+		<text>General Voronin</text>
 	</string>
 	<string id="sar2_wolf_name">
 		<text>Wolf</text>
 	</string>
 	<string id="sim_bandit_general_bio">
-		<text>Ein unbekannter Stalker. Schlechter Ruf. Keine Details verfügbar.</text>
+		<text>Unknown Stalker. Unsavoury reputation. Further details unavailable at present</text>
 	</string>
 	<string id="sim_bandit_master_bio">
-		<text>Ein unbekannter Stalker. Schlechter Ruf. Keine Details verfügbar.</text>
+		<text>Unknown Stalker. Unsavoury reputation. Further details unavailable at present</text>
 	</string>
 	<string id="sim_bandit_master_fraer_bio">
-		<text>Kam in die Zone, um Abenteuer zu suchen. Imitiert die Charaktere aus beliebten Comics der 60er Jahre. Benutzt verschiedene Namen: Batman, Macho, Schwarzer Umhang, Banderas. Obwohl er schon zwei ganze Jahre in der Zone überlebt hat, nimmt ihn niemand wirklich ernst, und das macht ihn vollkommen wahnsinnig.</text>
+		<text>Came to the Zone looking for adventure, and imitates characters from popular comics of the 60's. Uses various aliases: Badman, Macho, the Black Coat, Banderos. Even though he's survived in the Zone for a full two years, nobody really takes him seriously, which constantly drives him mad...</text>
 	</string>
 	<string id="sim_bandit_master_kocherga_bio">
-		<text>Wild, bösartig, grob, egoistisch, grausam, unsensibel, kalt. Niemand weiß, wann und wie er in die Zone gelangt ist. Alle fürchten ihn und er hat keine Freunde. Er lebt einfach in der Zone - ohne Zukunft und Vergangenheit. Nach einem seiner zahlreichen Beutezüge in die Zone hat er sein Gedächtnis verloren, fast alles vergessen. Er weiß nicht mehr, woher er kommt und wie er heißt, und er leidet unter regelmäßigen Erinnerungsstörungen. Betrachte ihn als Feind und töte ihn.</text>
+		<text>Fierce, wicked, crude, selfish, cruel and cold-hearted, nobody knows when and how he got to the Zone. Feared by everyone, he has no friends or allies. With no past, and no future, he simply lives in the Zone. After one of his numerous forays into the Zone, he lost his memory, forgetting almost everything. He doesn't remember his real name, nor where he comes from. Suffering from frequent lapses of short term memory, he's been known to completely forget a new acquaintance within an hour. Most Stalkers will advise you to treat him as an enemy, and kill him before he tries to do the same to you</text>
 	</string>
 	<string id="sim_bandit_novice_bio">
-		<text>Ein unbekannter Stalker. Schlechter Ruf. Keine Details verfügbar.</text>
+		<text>Unknown Stalker. Unsavoury reputation. Further details unavailable at present</text>
 	</string>
 	<string id="sim_bandit_veteran_bio">
-		<text>Ein unbekannter Stalker. Schlechter Ruf. Keine Details verfügbar.</text>
+		<text>Unknown Stalker. Unsavoury reputation. Further details unavailable at present</text>
 	</string>
 	<string id="sim_dolg_master_bio">
-		<text>Wachmann der Wächter. Wenn du nicht zu ihren Freunden gehörst, solltest du dich von ihnen fern halten. Keine Details verfügbar. </text>
+		<text>Guard from the Duty faction. If you're not their friend, then stay away from them. Further details unavailable at present</text>
 	</string>
 	<string id="sim_dolg_regular_bio">
-		<text>Stalker der Wächterfraktion. Keine Details verfügbar. </text>
+		<text>Stalker from the Duty faction. Further details unavailable at present</text>
 	</string>
 	<string id="sim_dolg_sniper_bio">
-		<text>Militanter Typ der Wächterfraktion. Meistens gut ausgerüstet. Keine Details verfügbar. </text>
+		<text>Militant from the Duty faction. Usually well-equipped. Further details unavailable at present</text>
 	</string>
 	<string id="sim_dolg_veteran_barin_bio">
-		<text>Ein Schuft, Stiefellecker, Heuchler und Feigling. Barins Motto könne auch lauten "Nach uns die Sintflut". Zieht aus jeder Situation Vorteile. Extrem ambitioniert und empfindlich. Er kam, was wenig überraschend ist, aus Geldgründen in die Zone. Seit zwei Jahren trägt er nun mit allen Mitteln Material zusammen.</text>
+		<text>A sad bootlicker, hypocrite and coward, Barin's motto could well be 'After us, the deluge'. Takes advantage of any situation for himself. Extremely ambitious and touchy. He came to the Zone, unsurprisingly, for money. Two years later he's been procurring material assets by all possible means</text>
 	</string>
 	<string id="sim_dolg_veteran_bio">
-		<text>Militanter Typ der Wächterfraktion. Meistens gut ausgerüstet. Keine Details verfügbar. </text>
+		<text>Militant from the Duty faction. Usually well-equipped. Further details unavailable at present</text>
 	</string>
 	<string id="sim_dolg_veteran_prapor_bio">
-		<text>Offizieller Anwerber des ukrainischen Sicherheitsdienstes. Ein regelmäßiger Besucher der Bar. Alle wissen, wer er ist. Und alle wissen, dass er der Mann ist, an den man sich in harten Zeiten wendet. Hast du das jedoch einmal gemacht, besteht keine Chance, wieder ein ehrlicher Stalker zu werden.</text>
+		<text>Official recruiter for the Ukrainian Security Service, and a frequent visitor to the Bar. Everyone knows him, and that he's a good man to turn to when you fall on hard times. In his eyes, however, once you cross the line there is no way back to the ranks of honest Stalkers</text>
 	</string>
 	<string id="sim_ecolog_zob_bio">
-		<text>Im alltäglichen Leben ein Phlegmatiker, der seine Emotionen für sich behält und immer cool bleibt. Steht er jedoch unter Stress, wird er jähzornig und aggressiv. Sehr intellektuell. Ein Materialist, der es bedauert, in die Zone gegangen zu sein. Nach seinem Medizinstudium war er in die Zone geschickt worden, wo im Lager der Wissenschaftler ein neurochirirgischer Assistent gebraucht wurde. Seziert Mutantengehirne und erforscht ihre psychokinetischen Eigenschaften. Freut sich auf sein Dienstende, wenn er endlich wieder zurück kann.</text>
+		<text>In everyday life a phlegmatic who keeps his emotions to himself and always stays cool. However, when under stress he gets peppery and aggressive. A highly intellectual materialist who regrets coming to the Zone in the first place. After graduating from medical university, he was sent into the Zone as a neurosurgical assistant at the scientists' camp. Now dissects mutant brains and researches their psychokinetic properties. He's looking forward to his retirement, when he can move back to the capital, as far away as possible from this disgusting place</text>
 	</string>
 	<string id="sim_fresh_Zombied_bio">
-		<text>Einer der Stalker, die etwas Pech hatten.</text>
+		<text>A Stalker whose luck finally ran out...</text>
 	</string>
 	<string id="sim_killer_general_bio">
-		<text>Unbekannter Söldner. Gut bewaffnet und höchst gefährlich. Keine Details verfügbar.</text>
+		<text>Unknown mercenary. Potentially well-armed. Further details unavailable at present</text>
 	</string>
 	<string id="sim_killer_master_bio">
-		<text>Unbekannter Söldner. Gut bewaffnet und höchst gefährlich. Keine Details verfügbar.</text>
+		<text>Unknown mercenary. Potentially well-armed. Further details unavailable at present</text>
 	</string>
 	<string id="sim_killer_sniper_bio">
-		<text>Unbekannter Söldner. Gut bewaffnet und höchst gefährlich. Keine Details verfügbar.</text>
+		<text>Unknown mercenary. Potentially well-armed. Further details unavailable at present</text>
 	</string>
 	<string id="sim_killer_veteran_bio">
-		<text>Unbekannter Söldner. Gut bewaffnet und höchst gefährlich. Keine Details verfügbar.</text>
+		<text>Unknown mercenary. Potentially well-armed. Further details unavailable at present</text>
 	</string>
 	<string id="sim_monolith_master_bio">
-		<text>Ein Stalker von der Monolithengruppe. Keine Details verfügbar.</text>
+		<text>Stalker from the Monolith grouping. Further details unavailable at present</text>
 	</string>
 	<string id="sim_monolith_regular_bio">
-		<text>Ein Stalker von der Monolithengruppe. Keine Details verfügbar.</text>
+		<text>Stalker from the Monolith grouping. Further details unavailable at present</text>
 	</string>
 	<string id="sim_monolith_sniper_bio">
-		<text>Ein Stalker von der Monolithengruppe. Keine Details verfügbar.</text>
+		<text>Stalker from the Monolith grouping. Further details unavailable at present</text>
 	</string>
 	<string id="sim_monolith_specnaz_bio">
-		<text>Ein Stalker von der Monolithengruppe. Keine Details verfügbar.</text>
+		<text>Stalker from the Monolith grouping. Further details unavailable at present</text>
 	</string>
 	<string id="sim_soldier_commander_bio">
-		<text>Keine Details verfügbar.</text>
+		<text>Further details unavailable at present</text>
 	</string>
 	<string id="sim_Soldier_master_bio">
-		<text>Armeestalker. Gut bewaffnet und äußerst gefährlich. Keine Details verfügbar.</text>
+		<text>Military Stalker. Well armed and highly dangerous. Further details unavailable at present</text>
 	</string>
 	<string id="sim_soldier_regular_bio">
-		<text>Einfacher Soldat. Keine Details verfügbar. </text>
+		<text>Regular soldier. Further details unavailable at present</text>
 	</string>
 	<string id="sim_soldier_sniper_bio">
-		<text>Keine Details verfügbar.</text>
+		<text>Further details unavailable at present</text>
 	</string>
 	<string id="sim_soldier_specnaz_bio">
-		<text>Speznaz. Gut ausgerüstet. Keine Details verfügbar.</text>
+		<text>Spetsnaz. Well-equipped. Further details unavailable at present</text>
 	</string>
 	<string id="sim_stalker_general_bio">
-		<text>Erfahrener Stalker. Keine Details verfügbar.</text>
+		<text>Experienced Stalker. Further details unavailable at present</text>
 	</string>
 	<string id="sim_stalker_general_upir_bio">
-		<text>Ein Stalker, der unter einem Glücksstern geboren wurde. Oftmals geriet er mit seiner Gruppe in Bedrängnis, und jedes Mal war er der einzige Überlebende. Die meisten Stalker halten sich von ihm fern, weil er angeblich Pech bringt. Er streift jetzt schon ziemlich lange durch die Zone.</text>
+		<text>A Stalker born under an unusually ambivalent lucky star. On numerous occasions, the teams he was with would end up in a tight spot and, each time, he'd be the only survivor. Most Stalkers stay away from him on account of the bad luck he's said to carry. Has been roaming the Zone on his own for quite some time now...</text>
 	</string>
 	<string id="sim_stalker_master_bio">
-		<text>Einer der Veteranen. Kennt die Zone wie seine Westentasche. Meistens gut ausgerüstet und höchst gefährlich. Keine Details verfügbar.</text>
+		<text>One of the Zone's veterans, and knows it like the back of his hand. Usually well-equipped and highly dangerous. Further details unavailable at present</text>
 	</string>
 	<string id="sim_stalker_master_chuchelo_bio">
-		<text>Erfahrener Schmuggler. Lange Zeit führte er sein "Geschäft" in Afrika und Südamerika. Die Neuigkeiten von der Tschernobyl-Katastrophe führten ihn in die Ukraine. In kurzer Zeit schmuggelte er Hunderte von ausgestopften Mutanten aus der Verbotszone und erwarb sich den Spitznamen “Taxidermist”. Wenn er nicht in der Zone “arbeitet”, ist er ein erfolgreicher Händler. Er liebt teure Anzüge und Krawatten, aber am liebsten hat er sowjetische Waffen.</text>
+		<text>Experienced smuggler who plied his trade in Africa and South America before news of the Chernobyl disaster brought him to the Ukraine. In a short while, he managed to smuggle hundreds of stuffed mutants out of the restricted area, earning himself the nickname 'Taxidermist'. When not 'working' in the Zone, he's a successful trader who loves extravagant suits, fancy ties, and Soviet weaponry</text>
 	</string>
 	<string id="sim_stalker_master_diador_bio">
-		<text>Nahm am Afghanistan-Krieg teil. Ehemals ein Atheist, nachdem er aber einen Hinterhalt der Mudschahedin überlebte, wurde er religiös. Nach dem Krieg in Afghanistan emigrierte er nach Polen, wo er sich in ein theologisches Seminar einschrieb. Nach dem Abschluss predigte er vorübergehend in der katholischen Kirche in Lemberg. Dann meldete er sich als freiwilliger Helfer für Opfer der Explosion in Tschernobyl. Seit einigen Jahren predigt er in der Zone.</text>
+		<text>Served in the war against Afghanistan. Formerly an atheist, after surviving a Mujahideen ambush he emerged a religious man. After the war he emigrated to Poland, where he enrolled at a theological seminary. After graduating, he preached at the Catholic church in Lviv. When news of the explosion at the Chernobyl NPP emerged, he volunteered to go in and help the victims. The Zone is now his ministry, where he can be found preaching his understanding of the Zone as part of a 'bigger picture'. This of course, has made him enemies of a different kind...</text>
 	</string>
 	<string id="sim_stalker_master_master_bio">
-		<text>Ehemals ein Mechaniker an in der "Cholod-Mech" Fabrik. Nachdem seine Frau ihn verlassen hatte, beschloss er, sich das Leben zu nehmen. Da er jedoch sehr religiös war, entschied er sich für die Zone als unkonventionelle Selbstmordmethode. Entgegen seiner Erwartungen überlebte er aber, machte wertvolle Erfahrungen und verdiente sich aufgrund seiner professionellen Fähigkeiten den Respekt der anderen Stalker. Er ist vermutlich der qualifizierteste Mechaniker der Zone. Die Reparatur von Ausrüstung, Fahrzeugen und die Installation von Sicherheitssystemen in Bandenbunkern ist das, was er am besten kann. Er wird überall gern gesehen. Ein einfacher und ernster Mann, der zeitweilig einen leicht rauen Umgangston anschlägt.</text>
+		<text>Formerly a mechanic at the 'Kholod Mac' plant, he decided to take his own life after his wife left him. However, being deeply religious, he chose the Zone as an unconventional means of suicide, and threw himself at 'God's mercy'. Contrary to his expectations, he survived, and has since gained invaluable experience and the respect of other Stalkers due to his professional skills and attitude. Master is probably the most qualified mechanic in the Zone in terms of equipment and vehicles, although installing security systems in bunkers is what he does best. A simple, stern man, though a bit rough at times, he is welcome everywhere he goes, since he leaves every place better than he found it...</text>
 	</string>
 	<string id="sim_stalker_master_polkan_bio">
-		<text>Ehemaliger Militärstalker, Oberstleutnant im Ministerium für Innere Sicherheit. Der einzige Soldat, der aus einem katastrophalen Einsatz in der Zone zurückkehrte. Später fand er heraus, dass der Einsatz sinnlos war und von Anfang an ein Selbstmordkommando darstellte. Deshalb beschloss er, nicht zurückzugehen, seinen eigenen Tod vorzutäuschen und sich den Stalkern anzuschließen. Leise, zynisch und sehr zweckgebunden.</text>
+		<text>Lieutenant Colonel in the Ministry of Interior troops, and a former military Stalker. The only soldier to return from a disastrous operation deep in the Zone, to discover that the mission was pointless and suicidal from the start. That's when he decided not to leave the Zone, staged his own death, and joined the Stalkers in a place he'd grown to love. Quiet, cynical, and filled with purpose</text>
 	</string>
 	<string id="sim_stalker_novice_bio">
-		<text>Anfänger. Neu in der Zone. Keine Details verfügbar.</text>
+		<text>Rookie. New to the Zone. Further details unavailable at present</text>
 	</string>
 	<string id="sim_stalker_novice_neumeha_bio">
-		<text>Plumpi ist 20 Jahre alt. Er verlor im großen Land alles und jeden, bevor er beschloss, hierher zu kommen. In der Zone hat er kaum ein Auskommen, aber er weiß nicht, wo er sonst hin soll. Schuldet vielen Stalkern Geld. Besucht die Zone regelmäßig, aber nie alleine. Versucht sich immer einer Gruppe erfahrener Stalker anzuschließen. Kein beliebter Begleiter, denn er ist ziemlich nutzlos. Verdient kaum Geld. Lebt von den Almosen anderer Stalker und ist hoch verschuldet.</text>
+		<text>20 years old, Klutz lost everything and everyone in the Big Land before deciding to come here. He barely makes a living in the Zone, but simply has nowhere else to go. Frequents excursions into the Zone, but never travels alone, choosing always to accompany a group of experienced Stalkers. Not a popular companion, however, as more often than not he's just plain useless, and scarcely makes any money. Lives on handouts from other Stalkers, and is deeply in debt to many of them</text>
 	</string>
 	<string id="sim_stalker_sniper_bio">
-		<text>Stalkerveteran, vermutlich gut ausgerüstet. Keine Details verfügbar. </text>
+		<text>Veteran Stalker. Potentially well-equipped. Further details unavailable at present</text>
 	</string>
 	<string id="sim_stalker_veteran_bio">
-		<text>Stalkerveteran, vermutlich gut ausgerüstet. Keine Details verfügbar. </text>
+		<text>Veteran Stalker. Potentially well-equipped. Further details unavailable at present</text>
 	</string>
 	<string id="sim_stalker_veteran_gusarov_bio">
-		<text>Oleg "der Teufel" Gusarow. Eine ehemalige Schwarzkappe, die in der Belozerkowskaja Speznaz-Brigade diente. Wurde aufgrund seiner Verdienste zum Hauptfeldwebel. Er ist Scharfschütze und Sprengtechniker. Im Herzen ist er ein Einzelgänger und geht daher niemals mit einer Gruppe in die Zone. Hat aus diesem Grund auch mehrfach abgelehnt, sich den Gruppen anzuschließen.</text>
+		<text>A former 'Black Beret', Oleg 'The Fiend' Gusarov served in the Belotserkovskaya Spetsnaz brigade. Served in multiple tours as a sniper and bomb technician, eventually rising to Master Sergeant. A loner at heart, he rarely ventures into the Zone as part of a group, preferring to work alone. He has been invited to join the clans numerous times, but has always refused</text>
 	</string>
 	<string id="sim_stalker_veteran_umnik_bio">
-		<text>Ein Physikstudent, der in seinem Doktorandenjahr ausstieg, um in der Zone schnelles Geld zu machen. Liebt es, mit seinen "wissenschaftlichen" Kenntnissen zu prahlen und über abstrakte philosophische Angelegenheiten zu diskutieren. Grund genug für andere Stalker, ihn nicht zu mögen. Insgesamt ein recht dezenter Typ. Eine Art Idealist.</text>
+		<text>A student from the Department of Physics who dropped out of his senior year to search out easy money in the Zone. Likes to show off his 'scientific' knowledge, and offer discourses on abstract philosophical issues, which is reason enough for other Stalkers to dislike him. Overall, a reasonably decent fellow challenged by his idealistic theories</text>
 	</string>
 	<string id="sim_stalker_veteran_vorobey_bio">
-		<text>Spatz ist 27 Jahre alt, schlau und besitzt eine gute Weitsicht, erlaubt sich aber auch die dicksten Patzer. Kann ernst sein. Insgesamt eine eher dubiose Person. Kam aus Neugier in die Zone und versprach sich selbst, nach zwei Monaten wieder nach Hause zurückzukehren. Hat er aber nie gemacht. Bei seinem ersten Ausflug in die Zone ging er ungeschützt und ohne Ahnung, in welcher Gefahr er sich befand, über ein Feld mit Anomalien. Als ihm später bewusst wurde, was er getan hatte, wurde er ohnmächtig. Seitdem feiert er diesen Tag (9. Oktober) als seinen zweiten Geburtstag.</text>
+		<text>27 years old, Sparrow is cunning and farseeing - but also capable of the most horrendous blunders. A scrawny, pallid type with a rather dubious persona, he can come over as mean-spirited. Came to the Zone purely out of curiosity, promising himself he'd return home after two months, but never did. On his very first sally into the Zone, Sparrow walked across a field strewn with anomalies without wearing any protection, and totally clueless as to how dangerous that was. Later, on learning what he'd done, he passed out. Since then, he celebrates that date (09 Oct) as his rebirthday</text>
 	</string>
 	<string id="sim_Svoboda_master_bio">
-		<text>Meister der Freiheitsfraktion. Keine Details verfügbar.</text>
+		<text>Master of the Freedom faction. No details available</text>
 	</string>
 	<string id="sim_Svoboda_regular_bio">
-		<text>Stalker der Freiheitsfraktion. Keine Details verfügbar. </text>
+		<text>Stalker from the Freedom faction. No details available</text>
 	</string>
 	<string id="sim_Svoboda_sniper_bio">
-		<text>Stalker der Freiheitsfraktion. Keine Details verfügbar. </text>
+		<text>Stalker from the Freedom faction. No details available</text>
 	</string>
 	<string id="sim_Svoboda_specnaz_bio">
-		<text>Militanter Typ der Freiheitsfraktion. Meistens gut ausgerüstet. Keine Details verfügbar. </text>
+		<text>Militant from the Freedom faction. Usually well equipped. No details available</text>
 	</string>
 	<string id="sim_Svoboda_specnaz_leshii_bio">
-		<text>"Waldgeist", wie sein Bruder ihn nennt, kam als junger Idealist in die Zone. Doch wenige Jahre des Lebens in Haaresbreite neben dem Tod haben aus ihm einen zynischen Realisten gemacht. Bezeichnet die Zone als sein Zuhause, und jene, die dort versagt haben, sind es nicht wert, über die Erde zu gehen.</text>
+		<text>Leshiy, as his brother calls him, arrived as a young idealist into the Zone. However, several years of living a hair's breadth away from death turned him into a cynical realist. Considers the Zone his true home, and believes that those who failed here are unworthy to walk the face of the Earth</text>
 	</string>
 	<string id="sim_svoboda_specnaz_prut_bio">
-		<text>Schreibt Geschichten über die Zone. Ehemaliger Journalist. Akribisch und hart, aber auch fair. Findet unter den Stalkern viel Respekt.</text>
+		<text>A former journalist, he sketches and writes stories about the Zone under the name of 'Arkady'. Meticulous, harsh, but fair, he is widely respected by the Stalkers he describes</text>
 	</string>
 	<string id="sim_zombied_master_bio">
-		<text>Einer der Stalker, die etwas Pech hatten.</text>
+		<text>A Stalker whose unusual run of luck finally ran out</text>
 	</string>
 	<string id="sim_zombied_novice_bio">
-		<text>Einer der Stalker, die etwas Pech hatten.</text>
+		<text>A fresh Stalker whose luck ran out quickly</text>
 	</string>
 	<string id="sim_zombied_veteran_bio">
-		<text>Einer der Stalker, die etwas Pech hatten.</text>
+		<text>An experienced Stalker whose luck ran out</text>
 	</string>
 	<string id="val_bandit_bodyguard_bio">
-		<text>Banditenwache. Schlechter Ruf. Keine Details verfügbar.</text>
+		<text>Bandit guard. Unsavoury reputation. Further details unavailable at present</text>
 	</string>
 	<string id="val_bandit_general_bio">
-		<text>Einfacher Bandit. Schlechter Ruf. Keine Details verfügbar.</text>
+		<text>Regular bandit. Unsavoury reputation. Further details unavailable at present</text>
 	</string>
 	<string id="val_bandit_novice_bio">
-		<text>Anfängerbandit. Schlechter Ruf. Keine Details verfügbar.</text>
+		<text>Rookie bandit. Unsavoury reputation. Further details unavailable at present</text>
 	</string>
 	<string id="val_bandit_veteran_bio">
-		<text>Erfahrener Bandit. Schlechter Ruf. Keine Details verfügbar.</text>
+		<text>Experienced bandit. Unsavoury reputation. Further details unavailable at present</text>
 	</string>
 	<string id="val_borov_bio">
-		<text>Banditenanführer. </text>
+		<text>Starting out as a barman for the Bandits, Borov later took Yoga's position as the leading bandit in the Zone. Borov states that he is a natural born leader, knowing even when he was a kid that he was destined to become one. His fellow bandits, however, call him an 'aristocrat wannabe', amongst other things</text>
 	</string>
 	<string id="val_borov_name">
-		<text>Borow</text>
+		<text>Borov</text>
 	</string>
 	<string id="val_dolg_common_bio">
-		<text>Stalker der Wächterfraktion. Keine Details verfügbar. </text>
+		<text>Stalker from the Duty faction. Further details unavailable at present</text>
 	</string>
 	<string id="val_monolith_common_bio">
-		<text>Ein Stalker von der Monolithengruppe. Keine Details verfügbar.</text>
+		<text>Stalker from the Monolith grouping. Further details unavailable at present</text>
 	</string>
 	<string id="val_prisoner_bio">
-		<text>Stalker der Wächterfraktion. Keine Details verfügbar. </text>
+		<text>Stalker from the Duty faction. Further details unavailable at present</text>
 	</string>
 	<string id="val_prisoner_name">
-		<text>Sergej Struppiger</text>
+		<text>Serega</text>
 	</string>
 	<string id="val_pulia_bio">
-		<text>Stalker der Wächterfraktion. Keine Details verfügbar. </text>
+		<text>Stalker from the Duty faction. Further details unavailable at present</text>
 	</string>
 	<string id="val_pulia_name">
 		<text>Bullet</text>
 	</string>
 	<string id="val_soldier_regular_bio">
-		<text>Einfacher Soldat. Keine Details verfügbar. </text>
+		<text>Regular soldier. Further details unavailable at present</text>
 	</string>
 	<string id="val_soldier_specnaz_bio">
-		<text>Speznaz. Gut ausgerüstet. Keine Details verfügbar.</text>
+		<text>Spetsnaz. Well-equipped. Further details unavailable at present</text>
 	</string>
 	<string id="val_stalker_general_bio">
-		<text>Erfahrener Stalker. Keine Details verfügbar.</text>
+		<text>Experienced Stalker. Further details unavailable at present</text>
 	</string>
 	<string id="val_stalker_novice_bio">
-		<text>Anfänger. Neu in der Zone. Keine Details verfügbar.</text>
+		<text>Rookie. New to the Zone. Further details unavailable at present</text>
 	</string>
 	<string id="yan_ghost_name">
 		<text>Ghost</text>
 	</string>
 	<string id="yan_saharov_bio">
-		<text>Ein Veteran unter den Erforschern der Zone. Hat 2007 an den ersten Expeditionen teilgenommen.</text>
+		<text>Veteran researcher of the Zone. Participated in the first expeditions to the Exclusion Zone in 2007</text>
+	</string>
+	<string id="vet_research_bio">
+		<text>Researcher. Further details unavailable at present</text>
 	</string>
 	<string id="yan_saharov_name">
-		<text>Prof. Sacharow</text>
+		<text>Professor Sakharov</text>
 	</string>
 	<string id="yan_semenov_bio">
-		<text>Forschungsassistent im mobilen Labor. Keine Details verfügbar.</text>
+		<text>Research assistant at the mobile lab. Further details unavailable at present</text>
 	</string>
 	<string id="yan_semenov_name">
-		<text>Assistent Semenow</text>
+		<text>Assistant Semenov</text>
 	</string>
 	<string id="yan_vasilyev_name">
-		<text>Wasiliew</text>
+		<text>Vasiliev</text>
 	</string>
 	<string id="zombie_name">
-		<text>Zombiestalker</text>
+		<text>Zombified Stalker</text>
 	</string>
 	<string id="actor_name">
-		<text>Gezeichneter</text>
+		<text>Marked One</text>
 	</string>
 	<string id="sim_bandit_master_fraer_name">
-		<text>Bruder</text>
+		<text>Friar</text>
 	</string>
 	<string id="sim_bandit_master_kocherga_name">
 		<text>Poker</text>
@@ -885,41 +898,41 @@
 		<text>Barin</text>
 	</string>
 	<string id="sim_dolg_veteran_prapor_name">
-		<text>Feldwebel</text>
+		<text>Prapor</text>
 	</string>
 	<string id="sim_ecolog_zob_name">
-		<text>Ernte</text>
+		<text>Crop</text>
 	</string>
 	<string id="sim_stalker_general_upir_name">
-		<text>Vampir</text>
+		<text>Vampire</text>
 	</string>
 	<string id="sim_stalker_master_chuchelo_name">
-		<text>Vogelscheuche</text>
+		<text>Scarecrow</text>
 	</string>
 	<string id="sim_stalker_master_diador_name">
-		<text>Pater Diodor</text>
+		<text>Father Diodor</text>
 	</string>
 	<string id="sim_stalker_master_master_name">
-		<text>Meister</text>
+		<text>Master</text>
 	</string>
 	<string id="sim_stalker_master_polkan_name">
 		<text>Polkan</text>
 	</string>
 	<string id="sim_stalker_novice_neumeha_name">
-		<text>Stümper</text>
+		<text>Clumsy</text>
 	</string>
 	<string id="sim_stalker_veteran_gusarov_name">
-		<text>Oleg "Der Teufel" </text>
+		<text>Oleg 'The Fiend' Gusarov</text>
 	</string>
 	<string id="sim_stalker_veteran_umnik_name">
-		<text>Schlaumeier</text>
+		<text>Smartass</text>
 	</string>
 	<string id="sim_stalker_veteran_vorobey_name">
-		<text>Spatz</text>
+		<text>Sparrow</text>
 	</string>
 	<string id="sim_Svoboda_specnaz_leshii_name">
-		<text>Waldgeist</text>
+		<text>Leshiy</text>
 	</string>
 	<string id="sim_svoboda_specnaz_prut_name">
-		<text>Zweig</text>
+		<text>Twig</text>
 	</string>

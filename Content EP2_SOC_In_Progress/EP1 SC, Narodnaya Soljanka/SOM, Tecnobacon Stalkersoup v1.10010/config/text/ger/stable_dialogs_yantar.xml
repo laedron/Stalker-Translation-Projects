@@ -1,542 +1,427 @@
-<!-- Ьbersetzt und angepasst durch Wlad Geschwendt aka 777-W.L.A.D. am 27.04.2008 -->
-<!-- Update am 06.11.2008 -->
-
-<?xml version="1.0" encoding="windows-1251" ?>
-
-<string_table>
+<!-- TB3D 1.1.0.0.0.4 minor edits, removed "string_table" - aleks1970 -->
+<!-- Corrected many generic punctuation, in-game and US/UK spelling errors - Sword2012 - 12 Dec 16 -->
 
 	<string id="yantar_general_ucheniy_talk_start_101">
-		<text>Danke, дh ... "Gezeichneter", richtig? Sie haben geholfen, unseren Verbьndeten Kruglow zu retten. Und um Ihnen meine Dankbarkeit auszudrьcken, mцchte ich Ihnen einen unserer Arbeitsanzьge geben. Der ist sehr nьtzlich, wenn... Sie wissen schon... Kann ich Ihnen sonst noch irgendwie helfen?</text>
+		<text>Thank you... err... Marked One, right? You helped save our associate Kruglov and in order to show my sincere appreciation I would like to present you with one of our working suits. It comes in very handy, you should know that... Could I be of additional help to you?</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_1011">
-		<text>Ich suche Labor X-16. Der Wirt hat mir gesagt, dass Sie Informationen ьber die Lage haben mьssten.</text>
+		<text>I'm looking for Lab X-16. The Barkeep told me you might have info about its location.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_1012">
-		<text>Wir waren schon immer an Labor X-16 interessiert ... oder viel mehr an dem Mechanismus, der darin die Emissionen erzeugt, die direkt auf das Bewusstsein der Leute wirken. Aber ich fьrchte, da muss ich Sie enttдuschen. Ohne eine spezielle PSI-Rьstung kommen Sie niemals dahin. Wir wissen, was sonst passiert: Selbst, wenn Sie den Horden von Zombies ausweichen kцnnen, die den Eingang des Labors besetzen, laufen Sie Gefahr, einer von ihnen zu werden. Das ist alles sehr ernst.\n \nWir haben ein Abschirmgerдt entworfen, das die Emissionen abhдlt. Wir mьssen jedoch weitere Messungen machen, um die Feinabstimmung vorzunehmen. Wenn Sie uns dabei helfen, kцnnten wir Sie vermutlich mit einem voll kalibrierten Prototypen fьr die Feldforschung  ausrьsten.</text>
+		<text>We've long had an interest in Lab X-16...or, rather, in the mechanism inside it that generates emissions which directly affects people's consciousness. I'm afraid I have to disappoint you: the place is impossible to penetrate without special psi-armor. The outcome is known in advance - even if you could evade the swarms of zombies that infest the laboratory entrance, you run the risk of becoming one of them. This is all very serious. However, we've designed a screening device to help shield the emission, but to fine-tune it we have to obtain additional measurements. If you help us with this task, we could probably provide you with a fully calibrated prototype for field testing.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_1013">
-		<text>Was muss ich dabei tun?</text>
+		<text>Measurements?</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_1014">
-		<text>Nicht viel... Wenn Sie zusammen mit unserem Verbьndeten alle notwendigen Messungen durchfьhren wьrden, kцnnte ich Ihnen einen voll funktionsfдhigen Prototypen der Rьstung ьberlassen. Damit werden Sie ziemlich wahrscheinlich ins Labor hineinkommen.</text>
+		<text>If you, together with our associate, take all the necessary measurements, I will prepare a fully workable prototype of the armor and will give it to you. It will most likely let you get inside the laboratory.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_10141">
-		<text>In Ordnung, dann machen wir das so.</text>
+		<text>Okay, I agree.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_101411">
-		<text>Ausgezeichnet! Sprechen Sie mit Kruglow und legen Sie los. Er hat bereits die nцtige Ausrьstung.</text>
+		<text>Excellent! Talk to Kruglov and get going. He is already equipped with the necessary gear.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_101412">
-		<text>In Ordnung.</text>
+		<text>Okay</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_10142">
-		<text>In Ordnung, dann machen wir das so.</text>
+		<text>Okay, I agree.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_101421">
-		<text>Ausgezeichnet! Sprechen Sie mit Semenow und legen Sie los. Er hat alles, was Sie brauchen werden.</text>
+		<text>Excellent! Talk to Semenov and get going. He's got everything you will need.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_101422">
-		<text>In Ordnung.</text>
+		<text>Okay</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_10143">
-		<text>Nein. Im Moment mцchte ich mich nicht damit befassen.</text>
+		<text>No... right now I don't want to sign up for this.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_101431">
-		<text>Zu Schade, eine echte Schande ... Ich weiЯ nicht, wie oder wann wir diese Messexpedition alleine hinbekommen sollen.</text>
+		<text>That's too bad, a real pity... I don't know how or when we could carry out this measurement expedition on our own.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_11">
-		<text>Ja? Wonach suchen Sie denn?</text>
+		<text>Yes, Sir? What might you be looking for?</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_111">
-		<text>Ich suche nach Labor X-16. Der Wirt hat mir gesagt, dass Sie vielleicht Informationen ьber die Lage besitzen.</text>
+		<text>I'm looking for Lab X-16. The Barkeep told me you might have info about its location.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_12">
-		<text>Ich danke Ihnen fьr Kruglows Rettung, "Gezeichneter". Nehmen Sie diesen Anzug als Belohnung fьr Ihre Mьhen. Aber ich nehme an, dass Sie nicht nur wegen einer einfachen Belohnung hergekommen sind, hab ich Recht?</text>
+		<text>Thank you, Marked One, for rescuing Kruglov. Take this pressurized suit as a reward for your troubles. Also, I suspect you didn't come here for a simple reward, am I right?</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_121">
-		<text>Ich suche nach Labor X-16. Der Wirt hat mir gesagt, dass Sie vielleicht Informationen ьber die Lage besitzen.</text>
+		<text>I'm looking for Lab X-16. The Barkeep told me that you might have info about its location.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_1211">
-		<text>Wir untersuchen die Emission in Labor X-16 seit einiger Zeit, aber Sie werden nicht ohne eine spezielle Ausrьstung dort hineinkommen. Wir haben ein Gerдt entwickelt, dass Schutz vor PSI-Einwirkungen bietet. Es kцnnte Sie vor der Emission schьtzen, aber es muss noch feinjustiert werden. Wenn Sie uns dabei helfen, kцnnte ich Ihnen einen funktionsfдhigen Prototypen geben, mit dem Sie in das Labor gelangen kцnnten.</text>
+		<text>We have been studying the emission in Lab X-16 for a long time, but you won't get in there without special equipment. We've developed a psi-protection device that can help shield you from the emission, but needs some fine-tuning. If you could help us with that, I could give you a working prototype that you can use to get inside the laboratory.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_12111">
-		<text>In Ordnung.</text>
+		<text>Okay</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_121111">
-		<text>Ausgezeichnet! Sprechen Sie mit Kruglow und legen Sie los. Er hat alles, was Sie brauchen werden.</text>
+		<text>Excellent, talk to Kruglov and get going. He's got everything you'll need.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_12112">
-		<text>Nein, noch bin ich dafьr nicht bereit.</text>
+		<text>No, I'm not up for this yet.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_121122">
-		<text>Das ist wirklich schade. Bis jetzt waren wir noch nicht in der Lage, selbst eine Messexpedition loszuschicken.</text>
+		<text>That's a real pity. So far we've been unable to send a measurement expedition of our own.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_21">
-		<text>Ja? Wonach suchen Sie denn?</text>
+		<text>Yes, Sir? What might you be looking for?</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_211">
-		<text>Wir waren schon immer an Labor X-16 interessiert ... Aber die genauen Koordinaten des Eingangs sind uns nicht bekannt. Und da hinein zu gelangen ist sehr gefahrlich...</text>
+		<text>We've long had an interest in Lab X-16...or, rather, in the mechanism inside it that generates emissions which directly affects people's consciousness. I'm afraid I have to disappoint you: the place is impossible to penetrate without special psi-armor. The outcome is known in advance - even if you could evade the swarms of zombies that infest the laboratory entrance, you run the risk of becoming one of them. This is all very serious. However, we've designed a screening device to help shield the emission, but to fine-tune it we have to obtain additional measurements. If you help us with this task, we could probably provide you with a fully calibrated prototype for field testing.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_2111">
-		<text>Erzдhlen Sie weiter.</text>
+		<text>Go on.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_21111">
-		<text>Wir untersuchen die Emission in Labor X-16 seit einiger Zeit, aber Sie wirst nicht ohne eine spezielle Ausrьstung dort hineinkommen. Wir haben ein Gerдt entwickelt, dass Schutz vor PSI-Einwirkungen bietet. Es kцnnte Sie vor der Emission schьtzen, aber es muss noch feinjustiert werden. Wenn Sie uns dabei helfen, kцnnte ich Ihnen einen funktionsfдhigen Prototypen geben, mit dem Sie in das Labor gelangen kцnnten.</text>
+		<text>We have been studying the emission in Lab X-16 for a long time, but you won't get in there without special equipment. We've developed a psi-protection device that can help shield you from the emission, but needs some fine-tuning. If you could help us with that, I could give you a working prototype that you can use to get inside the laboratory.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_21112">
-		<text>In Ordnung. Ich bin dabei.</text>
+		<text>Okay, I agree.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_211121">
-		<text>Ausgezeichnet! Sprechen Sie mit Kruglow und legen Sie los. Er hat bereits die nцtige Ausrьstung.</text>
+		<text>Excellent! Talk to Kruglov and get going. He is already equipped with the necessary gear.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_2111211">
-		<text>In Ordnung.</text>
+		<text>Okay</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_21113">
-		<text>In Ordnung. Ich bin dabei.</text>
+		<text>Okay, I agree.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_211131">
-		<text>Ausgezeichnet! Sprechen Sie mit Semenow und legen Sie los. Er hat alles, was Sie brauchen werden.</text>
+		<text>Excellent! Talk to Semenov and get going. He's got everything you will need.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_211132">
-		<text>In Ordnung.</text>
+		<text>Okay</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_211141">
-		<text>Sie verstehen nicht. Dort ist ein Emitter. Niemand war bislang in der Lage, sich ihm auf weniger als einen halben Kilometer zu nдhern - er macht aus jedem einen Zombie. Ohne Anzug dorthinzugehen ist regelrechter Selbstmord.</text>
+		<text>You don't understand, there's an emitter. No one has been able to come closer than half a kilometre - it makes a zombie out of anyone. Going there without a suit is just like suicide, get it?</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_2111411">
-		<text>Hm... Das дndert natьrlich alles.</text>
+		<text>Hmm. That changes things.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_211142">
-		<text>Ach, was soll's. Sagen Sie mir einfach alles, was Sie wissen.</text>
+		<text>To hell with it, just tell me all you know.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_211143">
-		<text>In Ordnung, aber sagen Sie hinterher nicht, ich hдtte Sie nicht gewarnt. Wasiliew hat an dem Laborproblem gearbeitet. Vor etwa einer Woche versuchten er und ein Stalker namens "Ghost" ins Labor einzudringen. Nach mehreren Stunden spьrten wir ein Beben und die Emissionen hцrten auf. Nach einer weiteren Stunde bekamen wir ein Signal von Wasiliew - es kam aus dem Sumpf, verschwand dann aber. So, wie es aussieht, ist Wasiliew von uns gegangen. Versuchen Sie, seinen Leichnam zu finden. Er hatte sehr genaue Informationen ьber das Labor - wo es liegt und wie man hineinkommt. Er wusste vielleicht auch, wie man die Emissionen abstellt. Der Eingang des Labors ist sehr wahrscheinlich in einem der Gebдude um den Reaktor versteckt.</text>
+		<text>Okay, but don't say I didn't warn you. Vasiliev worked on the laboratory problem. About a week ago, he and stalker by the name of Ghost attempted to get inside the laboratory. After several hours we felt a shake and emissions stopped; after another hour, we got a signal from Vasiliev, it was coming from the swamp but then vanished. By the looks of things, Vasiliev is gone. Try to find his body: he had accurate information about the laboratory - where it is and how to get in. He might have also known how to turn off the emissions. The laboratory entrance is most likely hidden in the basement of one of the buildings in the power plant area.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_211144">
-		<text>Na dann gehe ich mal auf die Suche. Sumpf also... Klasse.</text>
+		<text>There we go, great.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_21115">
-		<text>Nein... Im Moment mцchte ich mich nicht damit beschдftigen.</text>
+		<text>No... right now I don't want to sign up for this.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_211151">
-		<text>Zu Schade, eine echte Schande ... Ich weiЯ nicht, wie oder wann wir diese Messexpedition alleine hinbekommen sollen.</text>
+		<text>That's too bad, a real pity... I don't know how or when we could carry out this measurement expedition on our own.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_221">
-		<text>Danke, дh... "Gezeichneter", richtig? Sie haben geholfen, unseren Verbьndeten Kruglow zu retten. Und um Ihnen meine Dankbarkeit auszudrьcken, mцchte ich Ihnen einen unserer Arbeitsanzьge geben. Der ist sehr nьtzlich, wenn... Sie wissen schon...</text>
+		<text>Thank you... mmm... Marked One, right? You helped save our associate Kruglov and in order to show my sincere appreciation I would like to present you with one of our working suits. It comes in very handy, you should know that...</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_231">
-		<text>Sie haben hervorragende Arbeit geleistet, "Gezeichneter"! Jetzt, da die Emissionen abgeschaltet sind, werden wir in der Lage sein, neue Expeditionen durchzufьhren und zuvor unbegehbare Bereiche zu erkunden. Ihr Einsatz ist bewundernswert, und ich danke Ihnen persцnlich mit einer Information ьber einen Artefakt-Mesomodifikation. Lesen Sie sich das in Ruhe mal durch, Sie werden nicht enttдuscht sein... Und auЯerdem... werden wir Ihnen von jetzt an ganz besondere Preise machen.</text>
+		<text>You did a splendid job, Marked One! Now that the emissions are turned off, we will be able to order new expeditions and explore previously inaccessible territories. And also... from now on we will conduct a most favorable pricing policy toward you. Oh, I almost forgot... check your PDA, I've uploaded some info about so-called 'artefact modificates'. Hope, you'll find it useful.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_2311">
-		<text>Vielen Dank.</text>
+		<text>Thank you.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_241">
-		<text>Ja, "Gezeichneter"? Wonach suchen Sie?</text>
+		<text>Yes, Marked One? What are you looking for?</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_31">
-		<text>Sie haben hervorragende Arbeit geleistet. Wenn die Messungen korrekt sind, sollte Ihnen der Prototyp maximalen Schutz vor der Emission gewдhren.</text>
+		<text>You did an excellent job. If the measurements are correct, the prototype should provide you with maximum protection from emission.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_311">
-		<text>Freut mich, das zu hцren.</text>
+		<text>Glad to hear that.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_3111">
-		<text>Jetzt sollte der Weg zum Labor klar sein. Nur dass Sie vielleicht nicht genug Zeit haben zurьckzugelangen, wenn die Quelle der Emissionen nicht rechtzeitig zerstцrt wird und sie ihre Kraft verliert. Also, dies ist unsere Abmachung: Unsere Berechnungen haben eine geschдtzte Position der Quelle und die Tatsache hervorgebracht, dass diese Quelle unterirdisch ist. Ihr Einverstдndnis vorausgesetzt, habe ich die Stelle auf Ihrer Karte bereits markiert.</text>
+		<text>Now your path to the laboratory is clear... except that if the source of the emission isn't destroyed and doesn't lose its power, you may not have enough time to get back. So, my dear Sir, here is the deal. Our calculations have produced an estimated location of the source as well as the fact that it is under ground. With your permission, I have already marked the spot on your map.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_31111">
-		<text>Wie genau kommt man denn nun ins Labor X-16 hinein? Wo ist der Eingang?</text>
+		<text>How exactly does one get inside Lab X-16? Where is the entrance?</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_311111">
-		<text>Wasiliew hat an der Sache mit dem Labor gearbeitet. Vor einer Woche haben er und ein Stalker namens "Ghost" versucht, dort einzudringen. Ein paar Stunden spдter haben wir ein starkes Beben gespьrt, und eine weitere Stunde spдter haben wir ein Signal von Wasiliew empfangen. Es kam aus dem Sumpf, doch das Signal brach ab. Anscheinend ist Wasiliew gestorben. Versuchen Sie, seine Leiche zu finden. Er hatte die genauen Informationen ьber das Labor bei sich und wie man dort hinein gelangt. Vielleicht hat er sogar Informationen darьber, wie man die Quelle der Emission deaktiviert. Ich habe Ihnen alle Daten hochgeladen, die wir darьber haben.</text>
+		<text>Vasiliev was working on the lab issue. About a week ago he and a stalker called Ghost tried to get inside. A couple of hours later we felt a major tremor, and after another hour we picked up a signal from Vasiliev coming from the swamp, but it died away. And Vasiliev died away with it, it would seem. Try to find his corpse. He had the exact information on the lab and the way to get into it. There may even be info on deactivating that source of the emission. I've uploaded you all the data we have.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_311112">
-		<text>Дhm... Es wдre sehr interessant, einen Blick auf diese Dokumente zu werfen. Sie meinen also, dass Wasiliew sie hat?</text>
+		<text>Ahem...It would be very interesting to take a look at these documents. So, you think Vasiliev has them?</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_311113">
-		<text>Vielleicht. Auf jeden Fall mьssen Sie zunдchst Wasiliews Leiche finden. Das ist die einzige Chance, genaue Informationen ьber die Position des Labors zu bekommen. Wissen Sie, es scheint mir, dass er viel mehr ьber X-16 wusste, als er zugeben wollte. Wenn er irgendwie ьberlebt haben sollte ... Na ja, das fьhrt natьrlich zu nichts, an dieser Hoffnung festzuhalten.</text>
+		<text>Perhaps. At any rate, you must start by finding Vasiliev's body - that is the only chance of obtaining accurate information about the lab's location. The body of your colleague, Ghost, must be somewhere there as well. You know, it seemed to me like he knew a lot more about X-16 than he admitted to us. Had he somehow survived... Well, it's no use holding on to that hope, of course.</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_311114">
-		<text>In Ordnung, ich werde es versuchen.</text>
+		<text>Okay, I'll try.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_41">
-		<text>Warum ist er gestorben? Sie sollten ihn doch beschьtzen!</text>
+		<text>Why did he die? You were supposed to protect him!</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_411">
-		<text>Kruglow ist von den Zombies umgebracht worden... Ich konnte nichts dagegen unternehmen. Es waren einfach zu viele.</text>
+		<text>Kruglov got killed by the zombies... I couldn't help it, there were too many of them.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_4111">
-		<text>Oh Mann, wie konnte das passieren? Wie konnte das nur passieren? Verdammt, es lдuft mal wieder alles falsch. Jetzt brauchen wir mehr Mдnner. Dabei haben wir schon genug Probleme... Verdammt...</text>
+		<text>Oh, man...how could this happen? How could this happen??! Damn it, everything is going wrong again. Now we'll have to call for more people... We've got enough problems as it is... Damn...</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_41111">
-		<text>Hцren Sie mal ... Kruglow ist erledigt, aber ich lebe noch. Geben Sie mir den Prototyp. Ich werde mich ins X-16 durchkдmpfen.</text>
+		<text>Listen... Kruglov is gone, but I'm alive. Give me the prototype. I will fight my way inside X-16.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_411111">
-		<text>Hier ist ein Prototyp. Seien Sie vorsichtig, er ist nicht richtig justiert, aber das ist Ihre Schuld, schlieЯlich konnten Sie unseren Kollegen nicht beschьtzen. Das Gerдt bietet Ihnen nicht den maximalen Schutz, aber es wird die Emission abschwдchen. Sie mьssen sich also mit der Suche nach der Quelle beeilen, Stalker.</text>
+		<text>Here is a prototype, be careful with it. It's not calibrated properly, but that's your fault - you failed to save our colleague. The device won't provide maximum protection, but at least it will lower the emission's intensity. So, stalker, you'll have to move fast on your way to the source.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_4111111">
-		<text>Wie kommt man ins Labor X-16 hinein? Wo genau befindet sich der Eingang?</text>
+		<text>How does one get inside Lab X-16? Where exactly is the entrance?</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_41111111">
-		<text>Wasiliew hat an der Sache mit dem Labor gearbeitet. Vor einer Woche haben er und ein Stalker namens "Ghost" versucht, dort einzudringen. Ein paar Stunden spдter haben wir ein starkes Beben gespьrt, und eine weitere Stunde spдter haben wir ein Signal von Wasiliew empfangen. Es kam aus dem Sumpf, doch das Signal brach ab. Anscheinend ist Wasiliew gestorben. Versuchen Sie, seine Leiche zu finden. Er hatte die genauen Informationen ьber das Labor bei sich und wie man dort hinein gelangt. Vielleicht hat er sogar Informationen darьber, wie man die Quelle der Emission deaktiviert. Ich habe Ihnen alle Daten hochgeladen, die wir darьber haben.</text>
+		<text>Vasiliev was working on the lab issue. About a week ago he and a stalker called Ghost tried to get inside. A couple of hours later we felt a major tremor, and after another hour we picked up a signal from Vasiliev coming from the swamp, but it died away. And Vasiliev died away with it, it would seem. Try to find his corpse. He had the exact information on the lab and the way to get into it. There may even be info on deactivating that source of the emission. I've uploaded you all the data we have.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_41112">
-		<text>Sonst noch irgendwas?</text>
+		<text>Anything else?</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_41113">
-		<text>Sie mьssen zunдchst Wasiliews Leiche finden. Das ist die einzige Chance, genaue Informationen ьber die Position des Labors zu bekommen. Wissen Sie, es scheint mir, dass er viel mehr ьber X-16 wusste, als er zugeben wollte. Wenn er irgendwie ьberlebt haben sollte ... Na ja, das fьhrt natьrlich zu nichts, an dieser Hoffnung festzuhalten.</text>
+		<text>You must start by finding Vasiliev's body - that is the only chance of obtaining accurate information about the lab's location. The body of your colleague, Ghost, must be somewhere there as well. You know, it seemed to me like he knew a lot more about X-16 than he admitted to us. If he has survived somehow... Well, it's no use holding on to that hope, of course.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_41114">
-		<text>In Ordnung, ich werde es versuchen.</text>
+		<text>Okay, I'll try.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_51">
-		<text>Warum ist er gestorben? Sie sollten ihn doch beschьtzen!</text>
+		<text>Why did he die? Weren't you supposed to protect him?!</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_511">
-		<text>Semenow ist von den Zombies erschossen worden... Ich konnte nichts dagegen unternehmen. Es waren einfach zu viele.</text>
+		<text>Semenov got shot by the zombies... I couldn't help it, there were too many of them.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_5111">
-		<text>Oh Mann, wie konnte das passieren? Wie konnte das nur passieren? Verdammt, es lдuft mal wieder alles falsch. Jetzt brauchen wir mehr Mдnner. Dabei haben wir schon genug Probleme... Verdammt...</text>
+		<text>Oh, man...how could this happen? How could this happen??! Damn it, everything is going wrong again. Now we'll have to call for more people... We've got enough problems as it is... Damn...</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_51111">
-		<text>Hцren Sie... Semenow ist erledigt, aber ich lebe noch. Geben Sie mir den Prototyp. Ich werde mich ins X-16 durchkдmpfen.</text>
+		<text>Listen... Semenov is gone, but I'm alive. Give me the prototype. I will fight my way inside X-16.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_511111">
-		<text>Hier ist ein Prototyp. Seien Sie vorsichtig, er ist nicht richtig justiert, aber das ist Ihre Schuld, schlieЯlich konnten Sie unseren Kollegen nicht beschьtzen. Das Gerдt bietet Ihnen nicht den maximalen Schutz, aber es wird die Emission abschwдchen. Sie mьssen sich also mit der Suche nach der Quelle beeilen, Stalker.</text>
+		<text>Here is a prototype, be careful with it. It's not calibrated properly, but that's your fault - you failed to save our colleague. The device won't provide maximum protection, but at least it will lower the emission's intensity. So, stalker, you'll have to move fast on your way to the source.</text>
 	</string>
 	<string id="yantar_general_ucheniy_talk_start_5111111">
-		<text>Wie kommt man ins Labor X-16 hinein? Wo genau befindet sich der Eingang?</text>
+		<text>How does one get inside Lab X-16? Where exactly is the entrance?</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_511111111">
-		<text>Wasiliew hat an der Sache mit dem Labor gearbeitet. Vor einer Woche haben er und ein Stalker namens "Ghost" versucht, dort einzudringen. Ein paar Stunden spдter haben wir ein starkes Beben gespьrt, und eine weitere Stunde spдter haben wir ein Signal von Wasiliew empfangen. Es kam aus dem Sumpf, doch das Signal brach ab. Anscheinend ist Wasiliew gestorben. Versuchen Sie, seine Leiche zu finden. Er hatte die genauen Informationen ьber das Labor bei sich und wie man dort hinein gelangt. Vielleicht hat er sogar Informationen darьber, wie man die Quelle der Emission deaktiviert. Ich habe Ihnen alle Daten hochgeladen, die wir darьber haben.</text>
+		<text>Vasiliev was working on the lab issue. About a week ago he and a stalker called Ghost tried to get inside. A couple of hours later we felt a major tremor, and after another hour we picked up a signal from Vasiliev coming from the swamp, but it died away. And Vasiliev died away with it, it would seem. Try to find his corpse. He had the exact information on the lab and the way to get into it. There may even be info on deactivating that source of the emission. I've uploaded you all the data we have.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_51112">
-		<text>Дhm ... Es wдre sehr interessant, einen Blick auf diese Dokumente zu werfen. Sie meinen also, dass Wasiliew sie hat?</text>
+		<text>Ahem...It would be very interesting to take a look at these documents. So, you think Vasiliev has them?</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_51113">
-		<text>Vielleicht. Auf jeden Fall mьssen Sie zunдchst Wasiliews Leiche finden. Das ist die einzige Chance, genaue Informationen ьber die Position des Labors zu bekommen. Wissen Sie, es scheint mir, dass er viel mehr ьber X-16 wusste, als er zugeben wollte. Wenn er irgendwie ьberlebt haben sollte... Na ja, das fьhrt natьrlich zu nichts, an dieser Hoffnung festzuhalten.</text>
+		<text>Perhaps. At any rate, you must start by finding Vasiliev's body - that is the only chance of obtaining accurate information about the lab's location. The body of your colleague, Ghost, must be somewhere there as well. You know, it seemed to me like he knew a lot more about X-16 than he admitted to us. Had he somehow survived... Well, it's no use holding on to that hope, of course.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_51114">
-		<text>In Ordnung, ich werde es versuchen.</text>
+		<text>Okay, I'll try.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_61">
-		<text>Ja, "Gezeichneter"?</text>
+		<text>Yes, Marked One?</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_71">
-		<text>Ja, "Gezeichneter"?</text>
+		<text>Yes, Marked One?</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_81">
-		<text>Zu schade, dass Kruglow tot ist... Leider kann ihn nichts zurьckbringen. Es ist дuЯerst wichtig, dass Sie uns die Messdaten bringen. haben Sie sie?</text>
+		<text>It's too bad that Kruglov died... Alas, nothing can bring him back. It's most important that you bring us the measurement data. Did you?</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_811">
-		<text>Ja. Hier.</text>
+		<text>Yeah. Here.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_8111">
-		<text>In Ordnung, ich werde eben den Prototyp justieren. Warten Sie hier.</text>
+		<text>Ok, let me adjust the prototype. Wait for me here.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_81111">
-		<text>Verstanden.</text>
+		<text>Gotcha.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_812">
-		<text>Nein.</text>
+		<text>No.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_8121">
-		<text>Dann holen Sie sie, und zwar schnell! Ich kann den Prototypen ohne die Daten nicht richtig kalibrieren.</text>
+		<text>Then get them, and quick! I cannot calibrate the prototype properly without them.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_91">
-		<text>Sie haben hervorragende Arbeit geleistet. Wenn die Messungen korrekt sind, sollte Ihnen der Prototyp maximalen Schutz vor der Emission gewдhren.</text>
+		<text>You did an excellent job. If the measurements are correct, the prototype should provide you with maximum protection from emission.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_911">
-		<text>Kцnnen Sie sich etwas klarer ausdrьcken?</text>
+		<text>Can you be a little more clear?</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_9111">
-		<text>Stalker, jetzt werden Sie in der Lage sein, in das Labor einzudringen, aber wenn Sie den Emitter nicht ausschalten, werden Sie nicht lange durchhalten, auch nicht mit dem Schutz vor der PSI-Einwirkung. Wir haben den ungefдhren Ort des Emitters ermittelt, irgendwo in der unterirdischen Einrichtung. Ich habe eine Markierung auf Ihrer Karte gesetzt.</text>
+		<text>Stalker, now you will be able to break through to the laboratory, but unless you turn off the emitter, you won't last long even with the psi-protection on. We've estimated an approximate location of the emitter; it is located in an underground facility. I have marked the spot on your map.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_9112">
-		<text>Wie kommt man ins Labor X-16 hinein? Wo genau befindet sich der Eingang?</text>
+		<text>How do I get inside X-16? Where exactly is the entrance?</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_9113">
-		<text>Wasiliew hat an der Sache mit dem Labor gearbeitet. Vor einer Woche haben er und ein Stalker namens "Ghost" versucht, dort einzudringen. Ein paar Stunden spдter haben wir ein starkes Beben gespьrt, und eine weitere Stunde spдter haben wir ein Signal von Wasiliew empfangen. Es kam aus dem Sumpf, doch das Signal brach ab. Anscheinend ist Wasiliew gestorben. Versuchen Sie, seine Leiche zu finden. Er hatte die genauen Informationen ьber das Labor bei sich und wie man dort hinein gelangt. Vielleicht hat er sogar Informationen darьber, wie man die Quelle der Emission deaktiviert. Ich habe Ihnen alle Daten hochgeladen, die wir darьber haben.</text>
+		<text>Vasiliev was working on the lab issue. About a week ago he and a stalker called Ghost tried to get inside. A couple of hours later we felt a major tremor, and after another hour we picked up a signal from Vasiliev coming from the swamp, but it died away. And Vasiliev died away with it, it would seem. Try to find his corpse. He had the exact information on the lab and the way to get into it. There may even be info on deactivating that source of the emission. I've uploaded you all the data we have.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_9114">
-		<text>Дhm ... Es wдre sehr interessant, einen Blick auf diese Dokumente zu werfen. Sie meinen also, dass Wasiliew sie hat?</text>
+		<text>Ahem...It would be very interesting to take a look at these documents. So, you think Vasiliev has them?</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_9115">
-		<text>Vielleicht. Auf jeden Fall mьssen Sie zunдchst Wasiliews Leiche finden. Das ist die einzige Chance, genaue Informationen ьber die Position des Labors zu bekommen. Wissen Sie, es scheint mir, dass er viel mehr ьber X-16 wusste, als er zugeben wollte. Wenn er irgendwie ьberlebt haben sollte... Na ja, das fьhrt natьrlich zu nichts, an dieser Hoffnung festzuhalten.</text>
+		<text>Perhaps. At any rate, you must start by finding Vasiliev's body - that is the only chance of obtaining accurate information about the lab's location. The body of your colleague, Ghost, must be somewhere there as well. You know, it seemed to me like he knew a lot more about X-16 than he admitted to us. Had he somehow survived... Well, it's no use holding on to that hope, of course.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_talk_start_9116">
-		<text>In Ordnung, ich werde es versuchen.</text>
+		<text>Okay, I'll try.</text>
 	</string>
-	
 	<string id="yantar_help_scientist_101">
-		<text>Wir haben keine Zeit mehr ...</text>
+		<text>There's no time...</text>
 	</string>
-	
 	<string id="yantar_help_scientist_11">
-		<text>Ja, "Gezeichneter"?</text>
+		<text>Yes, Marked One?</text>
 	</string>
-	
 	<string id="yantar_help_scientist_111">
-		<text>Der Professor hat mich gebeten, einen kleinen Ausflug zum Messpunkt zu machen.</text>
+		<text>The professor asked me to take a trip to the measurement site.</text>
 	</string>
-	
 	<string id="yantar_help_scientist_1111">
-		<text>Jetzt kommen wir zur Sache! Wir sollten sofort aufbrechen. Es wдre nutzlos, alleine dorthin zu gehen, aber mit Ihnen ist das etwas anderes... Ich denke, wir werden das schnell erledigen kцnnen - Achten Sie nur darauf, den wandernden Leichen nicht zu nahe zu kommen. Sind Sie bereit?</text>
+		<text>Now you're talking business! Let's move out immediately. It was no use getting there alone, but with you it's different... I think we'll manage quickly - just make sure not to let those cadavers get too close. So, you ready?</text>
 	</string>
-	
 	<string id="yantar_help_scientist_11111">
-		<text>Ja, bin ich.</text>
+		<text>Yeah.</text>
 	</string>
-	
 	<string id="yantar_help_scientist_111111">
-		<text>Ich sag Ihnen was: Warum gehen Sie nicht vor? Im Gegensatz zu mir haben Sie jede Menge Erfahrung. Und diese Kadaver da drauЯen sind schon wieder sehr aktiv...</text>
+		<text>You know what... Why don't you go first. You've got a whole lot of experience, unlike me. And those cadavers are starting to move again...</text>
 	</string>
-	
 	<string id="yantar_help_scientist_1111111">
-		<text>In Ordnung.</text>
+		<text>Okay</text>
 	</string>
-	
 	<string id="yantar_help_scientist_21">
-		<text>Mann, der "Gezeichneter" hцchstpersцnlich! Endlich schaffen Sie's mal in unsere Gegend. Reden Sie doch mal mit dem Professor. Er wollte Ihnen noch fьr meine Rettung danken.</text>
+		<text>Wow! Marked One here on a personal visit! Finally you've made it to our parts. Talk to the Professor - he wants to thank you for rescuing me. And, also, check your PDA. I've uploaded some useful info for you.</text>
 	</string>
-	
 	<string id="yantar_help_scientist_31">
-		<text>Spдter, spдter!</text>
+		<text>Later, later!</text>
 	</string>
-	
 	<string id="yantar_help_scientist_41">
-		<text>Hey, "Gezeichneter"! Wie lдuft es?</text>
+		<text>Hey, Marked One! How are things going?</text>
 	</string>
-	
 	<string id="yantar_help_scientist_51">
-		<text>Ja, "Gezeichneter"?</text>
+		<text>Yes, Marked One?</text>
 	</string>
-	
 	<string id="yantar_help_scientist_511">
-		<text>Der Professor hat mich gebeten, einen kleinen Ausflug zum Messpunkt zu machen.</text>
+		<text>Professor asked me to take a trip to the measurement site.</text>
 	</string>
-	
 	<string id="yantar_help_scientist_512">
-		<text>Jetzt kommen wir zur Sache! Wir sollten sofort aufbrechen. Es wдre nutzlos, alleine dorthin zu gehen, aber mit Ihnen ist das etwas anderes... Ich denke, wir werden das schnell erledigen kцnnen - Achten Sie nur darauf, den wandernden Leichen nicht zu nahe zu kommen. Sind Sie bereit?</text>
+		<text>Now you're talking business! Let's move out immediately. It was no use getting there alone, but with you it's different... I think we'll manage quickly - just make sure not to let those cadavers too close to you. So, you ready?</text>
 	</string>
-	
 	<string id="yantar_help_scientist_513">
-		<text>Ja, das bin ich.</text>
+		<text>Yeah.</text>
 	</string>
-	
 	<string id="yantar_help_scientist_514">
-		<text>Wissen Sie was? Warum gehen Sie nicht vor? Sie haben viel Erfahrung, ich nicht. Und diese Kadaver da drauЯen sind wieder sehr aktiv...</text>
+		<text>You know what... Why don't you go first. You've got a whole lot of experience, unlike me. And those cadavers are starting to move again...</text>
 	</string>
-	
 	<string id="yantar_help_scientist_515">
-		<text>In Ordnung.</text>
+		<text>Okay.</text>
 	</string>
-	
 	<string id="yantar_help_scientist_61">
-		<text>Tut mir Leid, im Moment habe ich dafьr keine Zeit.</text>
+		<text>I'm sorry, I have no time for this right now.</text>
 	</string>
-	
 	<string id="yantar_help_scientist_71">
-		<text>Hey, "Gezeichneter"! Wie lдuft es denn so?</text>
+		<text>Hey, Marked One! How's life?</text>
 	</string>
-	
 	<string id="yantar_help_scientist_81">
-		<text>Warte einen Moment... Wir mьssen uns erst noch zu Ende unterhalten.</text>
+		<text>Wait a little bit... We need to finish talking.</text>
 	</string>
-	
 	<string id="yantar_help_scientist_91">
-		<text>Moment! Ich bin mit den Messungen noch nicht fertig!</text>
+		<text>Wait! I'm not done taking measurements!</text>
 	</string>
-	
 	<string id="yantar_wounded_scientist_11">
-		<text>Uah! Autsch ... Aaah!</text>
+		<text>Yipe!. Ouch... Argh...</text>
 	</string>
-	
 	<string id="yantar_wounded_scientist_111">
-		<text>Du lebst? Komm, steh auf... Steh langsam auf. Es ist vorbei. Wir haben das jetzt hinter uns.</text>
+		<text>You alive? C'mon, get up... Get up slowly. It's all over. It's behind us now.</text>
 	</string>
-	
 	<string id="yantar_wounded_scientist_21">
-		<text>Hey, "Gezeichneter". Wie geht es Ihnen?</text>
+		<text>Hey, Marked One. How are you?</text>
 	</string>
-	
 	<string id="yantar_wounded_scientist_211">
-		<text>Fertig! Pack die Kamera ein, es wird Zeit, dass wir gehen!</text>
+		<text>Done! Pack the camera, time to get going!</text>
 	</string>
-	
 	<string id="yantar_wounded_scientist_31">
-		<text>Hey, "Gezeichneter"! Wie lдuft es denn so?</text>
+		<text>Hey, Marked One! How's life?</text>
 	</string>
-
-	<string id="yantar_general_ucheniy_story_0">
-		<text>Ich habe ьber eine auslдndische Expedition gehцrt, die hier in der Zone verunglьckt ist...</text>
-	</string>
-	
 	<string id="yantar_general_ucheniy_story_1">
-		<text>Darьber, mein Guter, haben schon alle gehцrt. Hat Ihnen Sidorowitsch das erzдhlt?</text>
+		<text>About it, smart guy, already have heard. And Sidorovich told you?</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_story_2">
-		<text>Ja, das hat er.</text>
+		<text>Yes.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_story_22">
-		<text>Und was wollen Sie darьber wissen?</text>
+		<text>So you want to learn?</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_story_23">
-		<text>Haben Sie auch damals an der Expedition teilgenommen?</text>
+		<text>You participated in this expedition?</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_story_24">
-		<text>Ich sollte das auch, aber ich war nicht dabei... Es ist sehr schwer fьr mich, ьber diese schreckliche Tragцdie zu sprechen. Damals sind sehr viele meine Freunde und Kollegen gestorben... Andererseits, es ist schon zwei Jahre her... Aber wenn es Sie so interessiert, dann erzдhle ich Ihnen was darьber. Wie gesagt, es war vor zwei Jahren. Alles fing mit einer wissenschaftlicher Kongresstagung im Berlin, als Hauptthema wurde die Zone und ihre Auswirkungen auf die Umwelt behandelt. Es wurde beschlossen eine Expedition in die Zone zu organisieren, mit fьhrenden Wissenschaftlern als Mitglieder, um die Umwelt der Zone zu erforschen und Informationen zu sammeln. Sponsoren wurden gefunden, die ukrainische Regierung hat zugestimmt und drei Monate spдter hat man mit Vorbereitungen auf einer Militдrbasis, in der Nдhe von Tschernobyl, angefangen. Da kamen die besten Gelehrten an, sozusagen die Leuchtfeuer der Wissenschaft, unsere und auslдndische Spezialisten auf den Gebieten der Physik, Chemie, Biologie und Цkologie.</text>
+		<text>It was supposed to, but did not participate... I can hardly talk about this terrible tragedy. Then pogiblo lot of my friends and colleagues... On the other hand, since two years have passed... But since you are so interested, then I guess I'll start my story. As I said, this happened two years ago. It all began with a scientific congress in Berlin, the main theme of which was the area and its impact on the environment. As a result, it was decided to equip a scientific expedition to the Zone, led by leading scientific experts, to gather information and study the nature of the Zone. Shortly found sponsors who have agreed everything with the Government of Ukraine and three months later began preparations for the expedition at a military base on the edge of Chernobyl. Ah, then here came all the light of the scientific world, known foreign and domestic scientists: physicists, chemists, biologists, ecologists.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_story_25">
-		<text>Die allgemeinen Fakten kenne ich schon. Weiter.</text>
+		<text>In general I know it. Further.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_story_26">
-		<text>Es wurde massenweise Ausrьstung gekauft: Schutzanzьge, Messgerдte, ein Mobillabor usw. Die Regierung hat uns zwei Speznaz-Einheiten als Schutz und spezielle Transporter zu Verfьgung gestellt. Auch Stalker und Dolmetscher sollten teilnehmen, sogar die Presse war mit dabei. Nach zwei Wochen Vorbereitungen und speziellen Lehrgдngen brach die Gruppe in die Zone auf, nach Gorky-32. Und dann ist es passiert! Einen Tag vor dem Start wurde ich krank und musste vier Tage im Hospital verbringen, was mir, eigentlich, das Leben rettete. Und ich war damals so niedergeschlagen, und war auf meine Kollegen neidisch... Man versprach mir, das ich nach der Genesung mit einem Hubschrauber in den Lager eingeflogen werde. Die Expedition kam dann in Gorky-32 an. Ein Hubschraber hat genau so ein Mobillabor, wie das unsere hier, dahin transportiert. Alles lief erst bestens. Jeden Tag gab es Nachrichten aus dem Lager ьber neue Erkenntnisse und Entdeckungen - keiner zweifelte an dem Erfolg der Expedition. Und ich lag im Lazarett und дrgerte mich schwarz...</text>
+		<text>Was zakuplena Curb weight: different devices, spetsoborudovanie, mobile laboratories, protective clothing, etc. As of Government has allocated us two special police troops and even special BTR'y. Also in the expedition were to participate Stalker guides, translators and even journalists. In general, after a two-week training and mentoring expedition to the Zone in the City-32. That it should have this happen! The day before the shipment I got sick and had to lie down for four days in the hospital that, in theory, and saved my life. A as I was sorry about that I can not yet go to the expedition, as envious colleagues... I then promised that after his recovery will be me by helicopter to the scientific camp. Meanwhile, the expedition reached the town of-32. Helicopter thrown back cell research camp, like the one in which you are now, have established a relationship with the base and took up the study. At first, everything went perfectly. We started to measure the radiation level, to study various features of the anomalies, the chemical composition of artefacts. Every day we receive regular reports from the camp of the new discoveries and otkrytiyax - in the success of the expedition no doubt. Meanwhile, I lay on a cot in the infirmary, and kicking themselves...</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_story_27">
-		<text>Weiter.</text>
+		<text>Further.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_story_28">
-		<text>Aber in Kьrze gingen dann seltsame Dinge im Lager vor. Erst haben wir grundlose Gereiztheit und Aggressivitдt der Kollegen bei Funkgesprдchen bemerkt. Aber wir dachten uns nicht dabei, nicht jeder hat Nerven aus Stahl. Das sind zwei Speznaz-Leute verschwunden. Drei Tage nach Beginn der Expedition bekamen wir eine Meldung darьber, das Prof. Rosenberg im Affektzustand Selbstmord begangen hat. Er hat sich erschossen. diese Nachricht hat uns schockiert! Noch zwei Tage spдter brach die Verbindung mit dem Lager ab. Wir waren verzweifelt, ein Hubschrauber sollte die Lage prьfen, konnte aber wegen eines Sturms nicht starten. Wir konnten nur warten. Am nдchsten Tag berichteten zwei Stalker, das sie nachts sahen, wie ein Transporter, mit mehreren Leuten am Bord, bei dem Faulen Wald in den Hinterhalt der Banditen geraten ist. Das Militдr hat sofort einen Rettungstrupp hingeschickt. Was da vorgefallen ist, hat Ihnen wohl schon Sidorowitsch erzдhlt, es haben nur drei Leute ьberlebt, in dem sie sich im Wald versteckten. Als man sie fand, sahen sie eher wie Tiere aus, und nicht wie Menschen. Verdreckt, wild und verдngstigt. Sie kamen einen vor wie Patienten eines Psychiatrie-Klinik vor, kaum zu glauben das diese Menschen noch vor einer Woche normal waren. Man musste sie ьber einen Monat intensiv behandeln, um ihre Psyche wenigstens teilweise wieder herzustellen.</text>
+		<text>But soon the camp began to take place weird things. Cnachala we noticed excessive aggressiveness and irritability in the voices on the radio, but did not attach much importance to the nerves, then not all the iron. 3atem somewhere lost two special. Three days after the beginning of the expedition, we received a message stating that one of the scientists, Professor Rosenberg is overly agitated state, committed suicide by shooting himself. This news shocked us! And two days later sank a radio message from the camp. We stayed in complete bewilderment, it was decided to send a helicopter to the camp, but because of the strong storm that was not possible. We could do was wait. A day later we received a message from the two stalkers who have seen the night a group of people on BTR'e at Rotten Woods, in an ambush the bandits. The military sent there immediately written special ops. What happened there, you have already told all stages, I can only add that survived the ambush, three members of the expedition, hidden in the woods. When we found them, they were more like animals than people - the wild, frightened, bedraggled. They initially looked like a patient in a psychiatric hospital, not even hard to believe that a week ago they were still normal. It took about a month intensive treatment to at least partially restore their psyche.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_story_29">
-		<text>Und wie endete das alles?</text>
+		<text>Also that as a result?</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_story_291">
-		<text>Eine Untersuchungskommission hat die Fakten und die Berichte der Ьberlebenden analysiert und kam zum folgendem Schluss: Die Ursache diesen unvorstellbaren Unglьcks war eine gewaltig starke PSI-Strahlung, die in der Zone als "Hirnschmelzer" bekannt ist. Lдngere Zeit dieser Strahlung ausgesetzt, fing die Psyche der Menschen sich zu verдndern an: Es kam zu Aggressivitдt, Wutausbrьchen und tollwutдnlichen Anfдllen. Manche kamen mit der Belastung nicht zurecht und tцteten sich selbst, wie der arme Rosenberg. Andere fielen Kollegen an, wie wilde Tiere. Es kam zum Blutbad. Die Mutanten nutzten die Tatsache, daЯ das Lager unbewacht blieb, auch noch aus und fielen da ein. Die, die noch ein wenig bei Verstand waren, haben versucht zurьckzukehren. Den Rest kennen Sie ja schon... So endete die Expedition nach Gorky-32... Ich habe mir damals geschworen, das ich die Zone erst dann verlasse, wenn ich die Strahlung voll erforscht habe und ein Schutz dagegen entwickle...\n \nSo, "Gezeichneter", jetzt habe ich schon zu lange mit Ihnen geplaudert, jetzt muss ich wieder an die Arbeit.</text>
+		<text>After analyzing the incident and the stories of survivors, the commission concluded that the cause of death of the expedition was the psychotropic radiation of unprecedented power, which in the zone called 'vyzhigatelem brain. " As a result of a long stay under this radiation in humans began to break down psyche: appeared unprecedented aggression, rage and savagery. Some could not cope with the psychological stress and kill themselves as poor Professor Rosenberg. Some poured out aggression on others, attacked them and killed like mad animals. The camp started in shambles. A still here and mutants arrived, using the lack of protection. Those who have not yet completely mad, trying to return to BTR'e, but halfway was ambushed by bandits and killed in a shootout. So it died expedition to City-32... Since then, I vowed not to leave the zone until you have learned it damn radiation and can not find protection from him... Hy, Spot, I spoke here with you, it's time for work.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_story_292">
-		<text>Ja-ja, ich werde Sie nicht weiter stцren, Proffessor...</text>
+		<text>Yes-yes, you I will not detain, professor...</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_story_3">
-		<text>Nein, er nicht.</text>
+		<text>No.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_story_33">
-		<text>Dann befragen Sie besser ihn, ich hab jetzt keine Zeit fьr Erzдhlungen.</text>
+		<text>Well then ask better it, I now do not have time for stories.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_story2_0">
-		<text>Professor, haben Sie auch irgendwelche nьtzliche Informationen ьber Monster?</text>
+		<text>Professor, you have any useful info about mutants?</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_story2_1">
-		<text>Ja, natьrlich - hier ist der letzte Bericht von Kruglow ьber Poltergeiste.</text>
+		<text>Yes, certainly - here Kruglov's last report on poltergeists.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_story2_2">
-		<text>Wдre interessant darьber zu hцren, man hat mir schon verschiedenste Sachen ьber die erzдhlt.</text>
+		<text>Very much even it is interesting to listen, I about them heard a miscellaneous earlier.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_story2_3">
-		<text>Also. Was wissen wir ьber Poltergeiste:\n \n1. Wahrscheinlich sind das Menschen, die einer sehr starken Eruption ausgesetzt wurden. Sie wurden zu extrasensitiven Wesen mit hцchsten Krдften und kцnnen Tiere, Menschen, Mutanten und, begrenzt, auch Telepathen kontrollieren.\n \n2. Kцnnen wohl nicht als materielle Gestalt gesehen werde. Berichten der Stalker zufolge, die ihr Verstand verloren hatten - sind das Kugelblitz- oder Feuerball-дhnliche Objekte. Wir wissen nicht, was nach der Vernichtung dieser passiert, und ob man diese ьberhaupt tцten kann.\n \n3. Telekinetische Eigenschaften variieren. Kцnnen Objekte bewegen und schleudern, kleinere als auch so grosse wie Eisentьren.\n \n4. Es wurde ein reproduktives Zusammenhang zwischen allen Telepathen festgestellt. Erst erscheint der Poltergeist. Von ihm stammte vermutlich der Telepath ab. Es ist unbekannt, wie es dazu kommt, wahrscheinlich ist der Telepath ein Mensch, der sehr lange unter dem Einfluss des Poltergeistes stand. Irgendwann befreit sich wohl das Bewusstsein des Telepathen als Poltergeist's Fдngen. Dann regressiert der Telepath zum Bьrer. Zu diesen Erkenntnissen kamen die Wissenschaftler, die vor 2 Jahren im Zentrum der Zone verschollen sind.\n \n5. Wohnen vermutlich in Katakomben und Kellern, wobei ihr Einfluss auch in der ganzen Zone zu spьren ist.\n \n6. Analyse der Energetik des Telepathen hat eine Energieverbindung mit hцheren Bewusstsein ergeben. Vermutlich des Poltergeistes. Also, man kann wohl Poltergeist tцten, in dem man seine Energiebalance stцrt...</text>
+		<text>So. What we know about the poltergeist:\n1. This is (presumably) the people that are in force ogromnoy ejection. They are higher telepaths can subdue the people, animals, mutants, partially - controllers.\n2. Do not be visible in the physical appearance. According to the stalkers out of their heads - leaky storm or fire education. Nobody knows what happens after death the soul is also not known whether they all kill.\n3. Telekinetic abilities vary. They can throw objects, from small to as much iron doors.\n4. Establish a link between reproductive telepathy. Initially slated to appear Poltergeist. From him is the controller, it is unknown how, presumably - the controller is a person for a long time been under the influence of the poltergeist, poltergeist where reason and man weave, and at some point, the controller aborts poltergeist out of his mind. Controller then regresses in byurera. Information Concerning received from scientists in the center of the zone, the link that was lost 2 years ago.\n5. Supposed to live in caves, although the effect was found throughout the zone.\n6. Energy analysis of the controller found Energosvyaz with higher intelligence. Presumably, poltergeist. So, poltergeist can kill violating energy balance its essence...</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_story2_4">
-		<text>Geht es auch verstдndlicher, Professor?</text>
+		<text>As good as possible?</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_story2_5">
-		<text>SchieЯen mьssen Sie auf die, "Gezeichneter", viel schieЯen.</text>
+		<text>Shoot them nuzhno, Marked One, and more.</text>
 	</string>
-	
 	<string id="yantar_general_ucheniy_story2_6">
-		<text>Alles klar, vielen Dank fьr die Information!</text>
+		<text>Yasnenko, many thanks for the info!</text>
 	</string>
-	
-</string_table>
+	<string id="yantar_saharov_0">
+		<text>Yes Professor, you have something want to ask?</text>
+	</string>
+	<string id="yantar_saharov_1">
+		<text>Marked One you see I need Ghost's PDA, please find and bring it to me. It has valuable information on it of not yet completely studied artefacts, which can be found only near the center of the zone. Of course I will repay you.</text>
+	</string>
+	<string id="yantar_saharov_2">
+		<text>If I find it, I will bring it to you.</text>
+	</string>
+	<string id="yantar_saharov_3">
+		<text>I hope you Marked One. For me and for the whole scientific world, this information is of great value.</text>
+	</string>
+	<string id="yantar_saharov_next_0">
+		<text>Hello Doctor, I have brought what you asked for.</text>
+	</string>
+	<string id="yantar_saharov_next_1">
+		<text>Oh, you found ego. Kakaya luck. I am very grateful to you Marked One. Here, take it to you for the trouble.</text>
+	</string>
+	<string id="yantar_saharov_next_2">
+		<text>The doctor wanted to ask. In the PDA was writing about Fang from the group of Strelok. Maybe you know anything about his death?</text>
+	</string>
+	<string id="yantar_saharov_next_3">
+		<text>To be honest, I do not know much. Ask Voronin. Not long before the ghost with Vasilyev went to the underground lab, he told me that they had some things in common. Perhaps Voronin will tell you more.</text>
+	</string>
+ 

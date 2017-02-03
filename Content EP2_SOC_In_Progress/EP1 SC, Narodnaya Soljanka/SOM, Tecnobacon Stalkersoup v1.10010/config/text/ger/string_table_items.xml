@@ -1,167 +1,120 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<!-- TB3D 1.1.0.0.0.5 bad psi helmet, removed "string_table" - aleks1970 -->
+<!-- Text RE-edited by Steve90k and Sword2012 29.Dec.15 -->
+<!-- Wrong version submitted 21 Jan 16. Used a Final File  -->
 
-<!-- Angepasst durch Wlad Geschwendt aka 777-W.L.A.D. am 19.02.2008 -->
-
-<!-- Update 13.05.2015 -->
-
-<string_table>
-	<string id="item_test1">
-		<text>Dies ist ein Test-String fьr Gegenstдnde.</text>
+	<string id="item test1">
+		<text>This is an ITEM test string</text>
 	</string>
-	<string id="item_test2">
-		<text>Dies ist noch ein Test-String fьr Gegenstдnde.</text>
+	<string id="item test2">
+		<text>This is another ITEM test string</text>
 	</string>
 	<string id="item_case_esc_desc">
-		<text>Feuerfester Aktenkoffer mit Dokumenten.</text>
+		<text>Fireproof briefcase full of documents</text>
 	</string>
 	<string id="item_decoder_desc">
-		<text>Leistungsstarker elektronischer Dietrich. Schon seltsam, dass dies kein Allzweckinstrument von Dieben ist. Er scheint eher fьr eine bestimmte Art elektronisches Schloss entworfen zu sein und kann nicht ьberall eingesetzt werden.</text>
+		<text>Powerful electronic lockpick. Oddly, it doesn't seem to be an all-purpose burglars' tool. Rather, to have been created with a specific electronic lock in mind, and so can't be used to override anything else</text>
 	</string>
 	<string id="item_decoder_name">
-		<text>Dekoder</text>
+		<text>Decoder</text>
 	</string>
 	<string id="item_detector_yantar_desc">
-		<text>PSI-Emissionsdetektor</text>
+		<text>Psi-emission detector</text>
 	</string>
 	<string id="item_detector_yantar_name">
-		<text>PP-4A Sensor</text>
+		<text>PP-4a sensor</text>
 	</string>
 	<string id="item_doc_x16_desc">
-		<text>Dokumentenakte. Man brдuchte einen Doktortitel in Biologie, um zu verstehen, was da drin steht.</text>
+		<text>Plastic document file. But you'd need doctorates in Engineering and Biology to understand a word of what it says...</text>
 	</string>
 	<string id="item_doc_x16_name">
-		<text>Labor-X16-Dokumente</text>
+		<text>Documents from Lab X-16</text>
 	</string>
 	<string id="item_doc_x18_desc">
-		<text>Ein dicker Stapel Dokumente. Zahlen, Formeln und eine ganze Reihe Diagramme.</text>
+		<text>A thick pile of scientific documents. Contains unusual terminology, complex formulas, and bizarre diagrams</text>
 	</string>
 	<string id="item_doc_x18p1_name">
-		<text>Labor-X18-Dokumente, Teil 1</text>
+		<text>Documents from Lab X-18, part I</text>
 	</string>
 	<string id="item_doc_x18p2_name">
-		<text>Labor-X18-Dokumente, Teil 2</text>
+		<text>Documents from Lab X-18, part II</text>
 	</string>
 	<string id="item_doc_x18p3_name">
-		<text>Labor-X18-Dokumente, Teil 3</text>
+		<text>Documents from Lab X-18, part III</text>
 	</string>
 	<string id="item_doc_x18p4_name">
-		<text>Labor-X18-Dokumente, Teil 4</text>
+		<text>Documents from Lab X-18, part IV</text>
 	</string>
 	<string id="item_doc_x18p5_name">
-		<text>Labor-X18-Dokumente, Teil 5</text>
+		<text>Documents from Lab X-18, part V</text>
 	</string>
 	<string id="item_docs_hiden_pri_desc">
-		<text>Abgegriffenes Manuskript mit Ledereinband. Von "Strelok" hцchstpersцnlich verfasst. Nach dem, was man den Ьberschriften entnehmen kann, kцnnten hier ein paar Geheimnisse der Zone erklдrt sein.</text>
+		<text>Tattered manuscript in a leather binding. Written in Strelok's hand. Judging by the headings alone, it might explain why he was so passionate to uncover the Zone's secrets...</text>
 	</string>
 	<string id="item_docs_hiden_pri_name">
-		<text>Dokumente aus dem Versteck in Prypjat</text>
+		<text>Documents from the secret stash in Pripyat</text>
 	</string>
 	<string id="item_dynamite_esc_desc">
-		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 20 Einheiten%c[default].\n \nEine schwere Holzkiste mit dem Wort "Explosiv" in verschiedenen Sprachen.</text>
+		<text>A heavy wooden crate emblazoned with the word 'Explosives' in several Slavic languages</text>
 	</string>
 	<string id="item_dynamite_esc_name">
-		<text>Sprengstoffkiste</text>
+		<text>Dynamite</text>
 	</string>
 	<string id="item_flash_crazy_mil_desc">
-		<text>Speicherstick - Bequeme Art, Informationen abzulegen und zu transportieren.</text>
+		<text>USB flash drive</text>
 	</string>
 	<string id="item_flash_crazy_mil_name">
-		<text>Speicherstick des irren Stalkers</text>
+		<text>Insane Stalker's flash drive</text>
 	</string>
 	<string id="item_flash_eco_rost_desc">
-		<text>Speicherstick - Bequeme Art, Informationen abzulegen und zu transportieren.</text>
+		<text>Encrypted USB flash drive</text>
 	</string>
 	<string id="item_flash_eco_rost_name">
-		<text>Professor Kruglows Speicherstick</text>
+		<text>Professor Kruglov's flash drive</text>
 	</string>
 	<string id="item_flash_esc_desc">
-		<text>Ein Speicherstick ist ein bequemes Mittel, um Informationen abzulegen und zu transportieren.\n \nAn diesem hier hat der Hдndler im Kordon-Dцrfchen grosses Interesse.</text>
+		<text>Slightly damaged USB flash drive</text>
 	</string>
 	<string id="item_flash_esc_name">
-		<text>"Flinker"s Speicherstick</text>
+		<text>Nimble's USB flash drive</text>
 	</string>
 	<string id="item_flash_gslinger_agro_desc">
-		<text>Speicherstick - Bequeme Art, Informationen abzulegen und zu transportieren.</text>
+		<text>Heavily encrypted USB flash drive</text>
 	</string>
 	<string id="item_flash_gslinger_agro_name">
-		<text>"Strelok"s Speicherstick</text>
+		<text>Strelok's flash drive</text>
 	</string>
 	<string id="item_key_x18_desc">
-		<text>Ein Speicherstick, programmiert als elektronischer Schlьssel zum Untergrundlabor X-18.\n \nAuf dem Gehдuse sind eingravierte Ziffern zu sehen - 922005</text>
+		<text>Electronic key to Laboratory X-18</text>
 	</string>
 	<string id="item_key_x18_name">
-		<text>"Borow"s Schlьssel-Stick</text>
-	</string>
-	<string id="item_key_x18_2_desc">
-		<text>Ein Speicherstick, programmiert als elektronischer Schlьssel zum Untergrundlabor X-18.\n \nAuf dem Gehдuse sind eingravierte Ziffern zu sehen - 2642003</text>
-	</string>
-	<string id="item_key_x18_2_name">
-		<text>"Barman"s Schlьssel-Stick</text>
+		<text>Borov's key</text>
 	</string>
 	<string id="item_krot_flash">
-		<text>"Maulwurf"s Speicherstick</text>
+		<text>Mole's USB flash drive</text>
 	</string>
-	<string id="item_PDA_lucky_desc">
-		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten%c[default].\n \nEin Persцnlicher Digitaler Assistent. In der Zone einfach unerlдsslich.</text>
-	</string>
-	<string id="item_PDA_lucky_name">
-		<text>PDA vom "Glьckspilz"</text>
-	</string>
-	<string id="item_PDA_tiran_desc">
-		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten%c[default].\n \nEin Persцnlicher Digitaler Assistent. In der Zone einfach unerlдsslich.</text>
-	</string>
-	<string id="item_PDA_tiran_name">
-		<text>"Tyran"s PDA</text>
-	</string>
-	<string id="item_quest_case_02_desc">
-		<text>Ein feuerfester Aktenkoffer mit Dokumenten.</text>
-	</string>
-	<string id="item_quest_case_02_name">
-		<text>Militдrdokumente</text>
-	</string>
-	<string id="item_case_esc_name">
-		<text>Dokumente vom AuЯenposten</text>
-		</string>
-		<string id="item_quest_case_helm_desc">
-		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 8 Einheiten%c[default].\n \nFeuerfester Aktenkoffer mit Codeschloss</text>
-	</string>
-	<string id="item_quest_case_helm_name">
-		<text>Feuerfester Aktenkoffer mit Codeschloss</text>
-	</string>
+<!-- moved string id: "item_PDA_lucky_desc", "item_PDA_lucky_name", "item_PDA_tiran_desc" and "item_PDA_tiran_name" in to the "string_table_general.xml" file -aleks1970 -->
+<!-- moved string id: "item_quest_case_02_desc", "item_quest_case_02_name" and "item_case_esc_name" in to the "sak_strings.xml" file -aleks1970 -->
 	<string id="yan_bad_psy_helmet_desc">
-		<text>Prototyp, der von Wissenschaftlern entwickelt wurde, um Menschen vor PSI-Emissionen zu schьtzen. Nicht justiert.</text>
+		<text>Prototype helmet developed by Scientists to protect the wearer from mild Psi-emissions. It has yet to be calibrated properly for use throughout the Zone...</text>
 	</string>
 	<string id="yan_bad_psy_helmet_name">
-		<text>PSI-Helm, nicht justiert</text>
+		<text>Uncalibrated Psi-Emission Helmet.</text>
 	</string>
 	<string id="yan_good_psy_helmet_desc">
-		<text>Funktionierender Prototyp, der von Wissenschaftlern entwickelt wurde, um Menschen vor PSI-Emissionen zu schьtzen.</text>
+		<text>A helmet designed to protect the wearer from Psi-emissions. This prototype has been calibrated using recent measurements of local psionic activity, which makes it about as good as you're going to get. For now...</text>
 	</string>
 	<string id="yan_good_psy_helmet_name">
-		<text>PSI-Helm, funktionsfдhig.</text>
+		<text>Calibrated Psi-helmet</text>
 	</string>
-	<string id="kalugin_pda_desc">
-		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten%c[default].\n \nPersцnlicher PDA von Professor Kalugin.</text>
+	<string id="documents">
+		<text>Information on teleports</text>
 	</string>
-	<string id="kalugin_pda_name">
-		<text>PDA von Kalugin</text>
+	<string id="teleport_document">
+		<text>Before you can make use of a manual teleportation device, you'll need a 'Moonlight' artefact. Drop the device on the ground in front of you, and a transition point will be created. It's only good for one use, so use it judicially.\n It's calibrated to get you from the Garbage to the Swamp, but make sure no one sees you use it, unless you want to be mugged by Bandits next time they spot you. You know how rumours spread around here...</text>
 	</string>
-	<string id="eco_guard_pda_desc">
-		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten%c[default].\n \nPersцnlicher PDA von dem X-18-Labor-Assistenten.</text>
+	<string id="information">
+		<text>Sakharov says he can make me a teleportation device using info from the documents in the Lab. In order to build it, though, he'll also need a 'Battery' artefact. Oh, and about 10,000 rubles...</text>
 	</string>
-	<string id="eco_guard_pda_name">
-		<text>PDA von Labor-Assistenten</text>
+	<string id="info_1">
+		<text>Greetings, Strelok, my old friend. It's Ghost. I've altered the entry sequence to our hideout, so don't be alarmed. The new entrance will still be here in the Underground, so you'll have no trouble finding it. You're the smartest guy I know! \nP.S. The teleportation device is still safe and secure in the hideout</text>
 	</string>
-	<string id="wasiljew_pda_desc">
-		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten%c[default].\n \nPersцnlicher PDA von Assistent Wasiliew.</text>
-	</string>
-	<string id="wasiljew_pda_name">
-		<text>PDA von Wasiliew</text>
-	</string>
-	<string id="dolg_propusk_name">
-		<text>Passierschein fьr die Bar</text>
-	</string>
-	<string id="dolg_propusk_desc">
-		<text>Passierschein fьr die Bar, ausgestellt von dem Wдchter auf der Mьllhalde. Na ja, ist eher ein Fetzen Papier, mit kaum lesbarem Gekritzel. Hoffenlich erfьllt es seinen Zweck.</text>
-	</string>
-</string_table>

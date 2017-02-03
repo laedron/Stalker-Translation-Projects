@@ -1,0 +1,101 @@
+Artefact Übersetzung:
+==========================================================================================
+English				| 	Deutsch						|	Russisch
+
+Acidic Porcupine	= 	Verschnupftes Stachelschwein=
+Chimera Tears		=	Chimeras Tränen				=
+Controller Scalp	=	Skalp des Telepathen		=
+Crystal Soul		=	Kristall-Seele				=
+Bengals Crystal Soul=   Bengals Kristall-Seele 		=
+Droplet				=   Tropfen						=
+Dummy				=	Muscheln					=
+Diamond Kolobok		=	Diamant-Kloß				=
+Elder Beads			= 	Die Perlen der Ältesten		=
+Electric Porcupine	=	Elektrisches Stachelschwein	=
+Electric Tears		=	Elektras Tränen				= 
+Fire Dummy			=	Feuer Muscheln				=
+Fiery Soul			=	Seele des Feuers			=
+Fire Tears 			= 	Tränen des Feuers			=
+Grandmother's Beads = 	Großmutters Perlen(*)		=
+Grandmother's Beads =   Ur-Omas Perlen (*)			=
+Kolobok				=	Kloß						=
+Mama's Beads		= 	Mamas Perlen (*)			=
+Medusa				=	Qualle						=
+Moonlight			= 	Mondlicht					=
+Moonshine Dummy		=	Mondmuschel					=
+Mother's Beads		= 	Mamas Perlen (*)			=
+						Omas Perlen					=
+Pellicle			=	Pellicula					=
+Porcupine			=	Stachelschwein				=
+Scale				=	Schlangenhaut				=
+Sphere				=	Sphere						=
+Sphere				=	Pseudoriesen kleiner Bruder =
+Shining Dummy		=	Helle Muschel				=
+Simbion				=	Symbion						=
+Skin				=	Lederhut					=
+Soul				=	Seele						=
+Soul Drops			=   Tropfen der Seele			=
+Steel Kolobok		=   Eisen-Kloß					=
+Steel Scale			=	Panzerhaut					=
+Stone Blood			=	Steinblut					=
+Sunshine			=	Sonnenlicht					=
+Symbion				=   Simbion						=
+Titan Kolobok		=   Titan-Kloß					= 
+Thorn				=	Dorn						=
+Urchin				= 	SeeIgel						=
+
+========================================================================================
+Anomalien
+English				| 	Deutsch						|	Russisch
+
+Burner				= 	Brenner						=
+Electro 			=   Elektro						=
+Fruit Punch			=	Gallert						=
+Springboard			= 	Sprungbrett					?
+Whirligig			= 	Karussell					=
+
+========================================================================================
+Artefakt Info:
+
+%c[221,255,193,255]Körperliche Eigenschaften\n
+%c[255,255,255,210]Vital Gesundheit : %c[default]n/a\n
+%c[255,255,255,210]Vital Blutung    : %c[default]n/a\n
+%c[255,255,255,210]Vital Ausdauer   : %c[default]n/a\n
+%c[255,255,255,210]Vital Hunger     : %c[default]n/a\n
+%c[default]\n \n
+%c[221,255,193,255]Schutz und Resistenz\n
+%c[255,255,255,210]Strahlung        : %c[default]n/a\n
+%c[255,255,255,210]Verbrennung      : %c[default]n/a\n
+%c[255,255,255,210]Elektroschock    : %c[default]n/a\n
+%c[255,255,255,210]Chemisch Verbre. : %c[default]n/a\n
+%c[255,255,255,210]PSI Telepatie    : %c[default]n/a\n
+%c[255,255,255,210]Vor Reißwunden   : %c[default]n/a\n
+%c[255,255,255,210]Vor Projektile   : %c[default]n/a\n
+%c[255,255,255,210]Vor Explosion    : %c[default]n/a\n
+%c[255,255,255,210]Aufprall Schutz  : %c[default]n/a\n
+%c[default]\n \n
+%c[221,255,193,255]Artefakt Trans-und MesoMutation\n
+%c[255,255,255,210]Benötigte Zeit   : %c[255,224,224,160]n/a\n
+%c[255,255,255,210]Wirkung Positiv  : %c[255,1,255,1]n/a\n
+%c[255,255,255,210]Wirkung Negativ  : %c[255,1,255,1]\n
+%c[255,255,255,210]Ursprung         : %c[255,1,255,1]\n
+%c[255,255,255,210]Anomalie Abhängig: %c[255,1,255,1]\n
+%c[default]\n \n
+
+========================================================================================
+Waffen Information:
+
+%c[221,255,193,255]Waffen Info\n
+%c[255,255,255,210]Munition: %c[1,168,255,210]\n
+%c[255,255,255,210]Gewicht : %c[1,168,255,210]\n
+%c[255,255,255,210]Kpazität: %c[1,168,255,210]\n 
+%c[221,255,193,255]Beschreibung\n \n%c[default]
+
+%c[221,255,193,255]Optionales Zubehör\n
+• \n
+• \n
+• \n%c[default]
+
+
+
+

@@ -1,1007 +1,857 @@
-<!-- Ьbersetzt und angepasst durch Wlad Geschwendt aka 777-W.L.A.D. am 29.02.2008 -->
-<!---------------------------- Update am 20.08.2008 -------------------------------->
-
-<?xml version="1.0" encoding="windows-1251" ?>
-
+<!-- TB3D 1.1.0.0.0.4, rename  « » with " aleks1970, amber -->
+<!-- Corrected many generic punctuation, in-game and US/UK spelling errors - Sword2012 - 12 Dec 16 -->
 <string_table>
-
 	<string id="dm_action_info_0">
-		<text>Wie soll's hier was Neues geben? Stell dir das hier wie'n Kindergarten vor, oder 'ne Vorschule. Zugegeben, wenn du hier nicht eine Zeit lang abhдngst, bist du in der Zone in spдtestens fьnf Minuten geliefert. Die Schlauen bleiben eine Weile hier, dann gehen sie weg und nur der Teufel weiЯ, wohin. Hier kannst auch du an Munition oder Waffen kommen, keine Frage. Machen alle so.</text>
+		<text>You want news? How can there be anything new here? Think of this as kindergarten; maybe preschool even. 'Course, if you don't hang around here, you'll get wasted in five minutes out in the Zone. The smart ones stay here a while, and then they go fuck-knows-where. Besides, you can make it here with just a weapon and some ammo. No question about it. Everyone does it.</text>
 	</string>
-	
 	<string id="dm_action_info_1">
-		<text>Ich muss bloЯ warten, bis die uniformierten Waschlappen essen gehen. Hat keinen Sinn, hier rumzuhдngen. Ich muss ins GroЯe Land, aber die lassen mich nicht, egal, was ist. Ich bin auch nicht der Einzige, der raus will, aber noch kommen wir nicht an denen vorbei.</text>
+		<text>All I have to do is wait for those pussies in uniform to go out for lunch at the Military Base... There's no point hanging out here. I need to go to the Big Land, but they won't let me, no matter what. I'm not the only one trying to get out, but we still can't slip by them yet.</text>
 	</string>
-	
 	<string id="dm_action_info_10">
-		<text>Die Uniformierten haben nicht weit von hier was gesucht. Normalerweise kommen sie nicht hierher. Hier war alles schon vorher ausgerдumt, bis auf's letzte Kabel. Aber jetzt scheinen sie was gefunden zu haben ... Ich bin nicht mal in die Nдhe des Gebдudes gekommen! Die haben mich sofort bemerkt und geschossen. Hab Glьck, dass ich kein Loch im Rьcken hab.</text>
+		<text>Not far from here, recently, the boys in uniform came looking for something. They never used to come around here, but recently they cleared everything out spick-'n'-span, right down to cutting down the power lines. And now it seems they found something... I couldn't even get close to the building. They noticed me right away and opened up. Glad I made it out without a hole in my hide.</text>
 	</string>
-	
 	<string id="dm_action_info_100">
-		<text>Nichts weiter. Ich versuche zu ьberleben, wie alle hier.</text>
+		<text>Nothing. Just trying to make it, that's all.</text>
 	</string>
-	
 	<string id="dm_action_info_11">
-		<text>Wir stellen ein Team aus den Leuten zusammen, die sich nicht in die Hosen machen, wenn die mal unter der Erde in der Zone rumzukraxeln. Da ist eine alte Fabrik, und unter ihr jede Menge Stromleitungen. Da soll's viel gutes Zeug geben, immer wieder was Neues. Echt interessant ...</text>
+		<text>We're getting together a team of tunnel rats who can't get enough of climbing underground in the Zone. There's an old factory, and under it there are all these power lines. They say there's a bunch of goodies there, always something new to check out. Very interesting...</text>
 	</string>
-	
 	<string id="dm_action_info_12">
-		<text>Nicht neu - alt! Es heiЯt, dass hier mal Streloks alte Basis war. Ich wьsste gern, welche Spuren man aus der Zeit finden kцnnte, wenn man genau hinsehen wьrde.</text>
+		<text>Not new - old! They say that Strelok's old base used to be here. I wonder what kind of leftovers one could find from that area, if they really looked hard?</text>
 	</string>
-	
 	<string id="dm_action_info_13">
-		<text>Ist das zu glauben? Vor 'ner Stunde wдre ich fast dran gewesen! Als ich vor 'nem halben Jahr hier war, da war alles still, und jetzt? Unter jedem Busch diese Glatzkцpfe in ihren Jogginganzьgen. Irre, Mann ...</text>
+		<text>Can you believe it? An hour ago I almost got wasted! I was here six months ago - there was peace and quiet, but now these razorheads in their outfits are under every bush! It's crazy, man...</text>
 	</string>
-	
 	<string id="dm_action_info_14">
-		<text>Stalker, du hast echt Glьck, dass die Banditen dich nicht gekriegt haben. Die haben hier ganz in der Nдhe 'ne Basis. Ich hдtte sie schon lдngst platt gemacht, wenn ich kцnnte ... Vorerst beobachten wir nur. Das ist ihre Hilfsbasis, das Hauptquartier liegt nдher am Zentrum der Zone.</text>
+		<text>You're lucky that the bandits didn't get you. They have a base pretty close to here. I would have eliminated it if I could've... But for now we're just observing. This is their supporting base - the headquarters is located closer to the center of the Zone.</text>
 	</string>
-	
 	<string id="dm_action_info_15">
-		<text>Es heiЯt, hier soll mal ein beeindruckendes Labor gewesen sein, getarnt. Oh ... einerseits wдr's toll, den Eingang zu finden - ist sicher viel tolles Zeug drin. Andererseits kriege ich davon 'ne Gдnsehaut ...</text>
+		<text>They say that there used to be an impressive Lab here, well hidden from sight... On the one hand, it'd be great to find the entrance - I bet there are lots of goodies inside. On the other hand, it gives me the heebie-jeebies...</text>
 	</string>
-	
 	<string id="dm_action_info_16">
-		<text>Wusstest du, dass es vor der Katastrophe im Dunklen Tal einen unterirdischen Forschungskomplex gab? Ich weiЯ nicht, wozu er gedacht war, aber bestimmt zu nichts Gutem. Man erzдhlt sich viel Verschiedenes darьber, meist Schlechtes. Schreckliche Sache.</text>
+		<text>Did you know that in what's now called the Dark Valley, before the Incident, there used to be an underground Scientific Research Complex? I don't know what it was meant for, but rest assured, it was nothing good. They say different things about it, but mostly bad stuff. Terrible place...</text>
 	</string>
-	
 	<string id="dm_action_info_17">
-		<text>Und? Was willst du hцren? Eins sag ich dir: Die "Wдchter" spielen hier zwar die Polizei, aber die wissen, wie man Ordnung hдlt, so viel steht fest. Aber ich mag sie nicht besonders. Sie sind wie Grundbesitzer - "nimm dies nicht mit", "das darf die Zone nicht verlassen" ... Nicht nur das, sie geben auch vor, was du im GroЯen Land sagen darfst und was du zu verschweigen hast! Sie tratschen und wollen die Zone Stьck fьr Stьck zerstцren. Na, das ьberrascht mich nicht, bei ehemaligen Soldaten ... alles Trдumer. Viel schlimmer ist, dass sie Unterstьtzung von ganz oben haben. Zumindest behaupten sie das!</text>
+		<text>And what? What do you want to hear? I'll tell you this much: the Duty guys are definitely the cops, and they know how to keep order, that's for damn sure. But overall I don't like them very much. They're like dictators everywhere: "Don't take this, don't carry that" out of the Zone. Not only that, but they've already determined what you're allowed to say in the Big Land and what you're supposed to be hush-hush about! They blabbed that they actually want to destroy the Zone, little by little. Well, that doesn't surprise me, coming from former soldiers... Bunch of idealists. What's worse is that they say their support comes all the way from the top.</text>
 	</string>
-	
 	<string id="dm_action_info_18">
-		<text>Das Gebiet wird von den Wдchtern beherrscht, und deren Regeln sind das Gesetz. Wir kontrollieren die Grenzen der Zone und kьhlen Hitzkцpfe ab. Die armen Idioten kommen scharenweise her, alles Amateure und Romantiker. Und schon am ersten Tag gehen sie gleich gruppenweise drauf.</text>
+		<text>This territory is now controlled by Duty, and the rules of Duty are the law of the land. We control the borders of the Zone and cool off any hot-heads. The poor fools come here in whole caravans - amateurs, romantics, opportunists - and then they die off in large groups their very first day in the shit.</text>
 	</string>
-	
 	<string id="dm_action_info_19">
-		<text>Warst du in unserem Mittellager? Okay, es gehцrt nicht NUR uns. Da kann einem fast jeder ьber den Weg laufen. Wichtig ist, dass es 'ne gute Stelle ist, frei von Mьll, und alle Neuigkeiten ьber die Zone flieЯen da durch. Man hцrt fast immer was Nьtzliches, oder kann zumindest mit den Leuten einfach mal so quatschen. Schade, dass Glatze mit seiner Gruppe vorgestern weg ist. Hab ihn diesmal nicht mal gesehen.</text>
+		<text>Were you at our half-way camp? Granted, it's not JUST ours; you can run into all kinds of people there. What's important is that it's a good place, without any trash, and all the news about the Zone trickles in there. You can almost always hear something useful, or at least shoot the shit with good folks about nothing in particular. Too bad that Baldy and his group left the day before yesterday. This time I didn't even get to see him before he took off.</text>
 	</string>
-	
 	<string id="dm_action_info_2">
-		<text>Gehe ins Lager, da hцrst du dann alle Gerьchte. Alle, die das hier zum ersten Mal machen - Anfдnger wie du - schauen meist rein, um sich Tipps zu holen oder mal zu entspannen. In der Nдhe sind Soldaten. Hab keine Angst vor ihnen, aber steh ihnen nicht im Weg. Die kцnnen schieЯen, ohne weiter drьber nachzudenken ... Hier beim Hдndler - der verkauft die цrtliche Ware - gibt's eine schцne, ruhige Stelle, an der du dein Lager aufschlagen kannst. </text>
+		<text>Let's head to camp. I'm sure you'll get your fill of the local rumors there. Everybody who's new to the Zone - the rookies, like you - usually drop by to pick up some pointers or rest a while. There are soldiers posted just down the road; don't be too afraid of them, but don't give them any shit, either. They will waste you and not think twice about it. Here by the trader - well, the "retailer of the local merchandise" - there's a nice, calm little place where you can hang out.</text>
 	</string>
-	
 	<string id="dm_action_info_20">
-		<text>Im Moment, ist dieser Ort sicher, Stalker. Und so soll's auch bleiben! Hier sind viele Leute - manche, die hier zu Hause sind und die umliegende Gegend nicht verlassen, andere, die sich auf den nдchsten Ьberfall vorbereiten. Schade, dass Irokese nicht zurьckgekommen ist. Er hat Anfдnger wie dich immer gern in die richtige Bahn gelenkt.</text>
+		<text>Right now, this place is safe, and we're trying to keep it that way. There are many people here: some who've made it their home and don't go beyond the surrounding area, others who are preparing for yet another raid. It's a real shame that Irokez didn't come back. He loved to set rookies like yourself on the "path of righteousness."</text>
 	</string>
-	
 	<string id="dm_action_info_21">
-		<text>Hast du gehцrt, dass die Wдchter rekrutieren? Hab kurz mit dem Gedanken gespielt, aber dann dachte ich: zur Hцlle damit! Irgendwann ziehen sie mich noch ein. Diese Art Disziplin kann ich nicht brauchen. Hab meine zwei Jahre gedient, das hat mir gereicht ...</text>
+		<text>Did you hear that Duty has announced it's recruiting new members? I thought about it for a minute, but then decided - fuck that! Before long they'll draft me... Don't need that kind of discipline again. I served my two years, and that was enough for me.</text>
 	</string>
-	
 	<string id="dm_action_info_22">
-		<text>Falls du's noch nicht gehцrt hast, sag ich's dir: Wir rekrutieren neue Mitglieder. Wenn du Erfahrung hast, dann komm, wirst es nicht bereuen. Frag in der Basis nach Petrenko.</text>
+		<text>If you haven't heard yet, I'm letting you know: we're recruiting new members. If you have some experience, come. You won't regret it. At the base, ask for Petrenko.</text>
 	</string>
-	
 	<string id="dm_action_info_23">
-		<text>Bist du auch hier, um dir die Kдmpfe anzugucken, Wetten zu machen? Willst du wetten? Tja, unglaublich! Hier ist irgendwo eine Arena, und du hast nicht die geringste Ahnung! Also pass auf: Wдchter schnappen Mutanten, richtig? Und wenn die Viecher nach der Forschung noch leben, lдsst man sie in der Arena los. Die Babys gibt's in allen GrцЯen und Gestalten. Bei einigen machst du dich nass vor Lachen, bei anderen vor Angst!</text>
+		<text>Did you come to watch the matches, too? Want to place a bet or something? Well, what do you know! There's an Arena here somewhere. So, get this: members of the Duty squad catch mutants for the scientists, right? After the research, if the freaks are still alive, they let 'em loose in the Arena. And these babies come in all shapes and sizes. Some, you'll look at them and die laughing, others - you'll piss your pants!</text>
 	</string>
-	
 	<string id="dm_action_info_24">
-		<text>Die Arena hat grad neues Futter gekriegt. Fьr die Leute heiЯt das Unterhaltung, fьr uns, dass wir ein bisschen an den Wetten verdienen. Wir beweisen den Stalkern, dass die Wдchter nicht bloЯ so tun als ob, sondern es ernst meinen.</text>
+		<text>They just provided the Arena with fresh meat. Entertainment for the people, and for us an easy way to earn a few bucks from the bets. We'll prove to the rest of the Stalkers that Duty isn't just wagging its tongue, but that we're the real deal.</text>
 	</string>
-	
 	<string id="dm_action_info_25">
-		<text>Hey, hцr mal, warst du mal in Rostok? War mal ruhig da, aber allein hinzugehen ist jetzt ziemlich hart. Wilde Gegend, viel zu viele Mutanten. Lass uns zusammen hingehen, okay? ... Andererseits ... Ich kenne dich nicht, und du kennst mich nicht. Was, wenn ... Lass gut sein, Mann, tut mir leid. Trennen wir uns lieber.</text>
+		<text>Hey, listen, you been to Rostok? It used to be quiet there, but now it's tough going there alone - your average wild field, way too many mutants there now. Let's go together, what do you say? On the other hand... I don't know you, and you don't know me. What if... Yeah, dude, sorry. Let's split, and go our own way...</text>
 	</string>
-	
 	<string id="dm_action_info_26">
-		<text>Wir sind gerade aus Rostok zurьck. Da musst du dich nicht blicken lassen, besonders nicht allein. Willst du am Leben bleiben? Dann geh besser nicht hin.</text>
+		<text>We're just back from Rostok. You don't want to show your face there, especially if you're alone. Want to stay alive? Then you'd better not go.</text>
 	</string>
-	
 	<string id="dm_action_info_27">
-		<text>Ich hab ьberlegt, nach Jantar zu gehen, aber dann dachte ich, scheiЯ drauf. Die Eierkцpfe haben 'ne ausgereifte wissenschaftliche Basis in der Zone. Die buddeln in Wer-weiЯ-was rum, wдhrend die Zombies um den Komplex rumgeistern. Was 'ne Idylle, Mann.</text>
+		<text>Well, I was thinking of going to Yantar, but then thought, fuck it. That's where the eggheads set up a full-fledged scientific base in the Zone. They're digging around in fuck-knows-what while zombies are romping all around outside the complex. Jesus, just like Paradise!</text>
 	</string>
-	
 	<string id="dm_action_info_28">
-		<text>Neulich haben wir in der Jantar-Zone aufgerдumt ... Ja, 'ne Menge Hundesцhne abgeschlachtet! Da gibt's Forschungslabors, aber zu viele Zombies drum herum. Wir mьssen regelmдЯig rьber und den Wissenschaftlern helfen.</text>
+		<text>They were purging the Yantar area recently... Yeah, cleaned it up pretty well! There are research labs there, but too many zombies all around. So we have to haul over there pretty regularly to help the scientists out.</text>
 	</string>
-	
 	<string id="dm_action_info_29">
-		<text>Bei den alten Lagerhдusern, weiЯt du - Freiheitsbasis. Die sind munter drauf, haben echt Seele. Es macht richtig SpaЯ, bei 'ner guten Flasche mit ihnen zu quatschen. Und im Gegensatz zur Bar hдngen da nicht immer die Wдchter rum.</text>
+		<text>By the old warehouses, you know - the Freedom base. They're happy-go-lucky guys, have some soul; it's nice to chat with them over a bottle of vodka. And Duty isn't there all the time, like around the Bar.</text>
 	</string>
-	
 	<string id="dm_action_info_3">
-		<text>In der Nдhe ist 'ne alte Fabrik, da vertreiben wir immer wieder die Banditen, und jedes Mal kommen sie zurьck! Ist nicht mal einen Monat her, und schon sind sie wieder da. Da solltest du besser aufpassen ...</text>
+		<text>There's an old factory nearby. We keep on cleaning it of bandits, and each time those bastards come back again! It hasn't even been a week since last time, and they're already back. You better be careful around there.</text>
 	</string>
-	
 	<string id="dm_action_info_30">
-		<text>Die "Freiheit" hat sich hinter den alten Lagerhдusern verschanzt... blцde Kiffer, verdammt...</text>
+		<text>Freedom is hiding out behind the old warehouses. Should break 'em all down, those fuckin' anarchists...</text>
 	</string>
-	
 	<string id="dm_action_info_31">
-		<text>Verschwinde, bevor's dunkel wird! Am Tag geht es einigermaЯen, aber wenn die Sonne untergeht ...</text>
+		<text>Leave before it gets dark! During the day it's more or less okay, but once the sun sets...</text>
 	</string>
-	
 	<string id="dm_action_info_32">
-		<text>Hau ab, Stalker! Wir geben die Blockade auf ... Vorlдufig halten wir sie nur tagsьber aufrecht und machen uns Nachts aus dem Staub - da ist's hier zu unheimlich.</text>
+		<text>Stalker... get out of here! We're going to lock the Cordon down. For now, we keep it up only during the day, and leave for the night - it's too creepy here at night.</text>
 	</string>
-	
 	<string id="dm_action_info_33">
-		<text>Sehen Sie, nachts mьssen Sie sich verstecken, am besten hinter krдftigen Tьren. In den dunklen Stunden des Tages werden wir praktisch belagert.</text>
+		<text>See, during the night you need to keep yourself hidden, and preferably behind a good set of doors. At night we find ourselves pretty much under siege.</text>
 	</string>
-	
 	<string id="dm_action_info_34">
-		<text>Na, Kumpel, bist wohl noch nicht auf dem Laufenden. Nachts musst du pennen, irgendwo weit weg von hier. Da hilft dir hier manchmal nicht mal ein Granatwerfer.</text>
+		<text>Well, buddy, it seems you're not up to date. During the night you have to snooze somewhere far away from here. Here, during the night, even a grenade launcher doesn't always help.</text>
 	</string>
-	
 	<string id="dm_action_info_35">
-		<text>WeiЯt du was, sollen doch die Wдchter und die von der "Freiheit" und die Marodeure ausmachen, wem hier alles gehцrt. Was geht mich das an? Zur Hцlle damit ...</text>
+		<text>You know what? Let the Duty guys and the Freedom guys and the Mercenaries figure out who this area belongs to. What's it to me? To hell with it all...</text>
 	</string>
-	
 	<string id="dm_action_info_36">
-		<text>Jetzt arbeiten wir hier, Stalker. Hier brьten nicht nur einige dieser Kreaturen, hier kommen dir auch noch die Arschgeigen von Sцldnern und die Schwachkцpfe von der "Freiheit" in den Weg ...</text>
+		<text>We're working here now, Stalker. Not only are there a bunch of these mutant wretches breeding here, but also those Mercenary pricks and the retards from the Freedom faction get in the way.</text>
 	</string>
-	
 	<string id="dm_action_info_37">
-		<text>Ich muss dich warnen, hier ist es nicht mal am Tag sicher. Ab und zu gibt's 'ne SchieЯerei. Soweit ich weiЯ, geht's dabei um langwierige Streitereien zwischen den Banditenfraktionen in der Gegend.</text>
+		<text>I have to warn you that it's not very safe here even during the day. Once in a while there's a shoot-out. As far as I understand, there's some long-standing beef between the various local bandit factions.</text>
 	</string>
-	
 	<string id="dm_action_info_38">
-		<text>Okay, sag du's mir - das ist unser Gebiet, richtig? Es ist hier leichter fьr uns, die Kreaturen aus dem Zentrum der Zone zu stoppen, oder? Die Eierkцpfe kцnnen ja gern rumpfuschen und forschen, die rьhrt keiner an, aber die Wдchter und die Marodeure sollen verdammt noch mal hier raus!</text>
+		<text>Listen, why don't you tell me - this is our territory, right? It's easier for us to hold off the wretches that come here from the center of the Zone, isn't it? The eggheads can mess around trying to figure out who's bothering them, but Duty and the Mercenaries can get the hell out of here.</text>
 	</string>
-	
 	<string id="dm_action_info_39">
-		<text>Das weiЯt du nicht? Die haben hier einen neuen Weg angelegt, vorbei an der Wдchter-Patrouille und direkt zur Peripherie mit dem ganzen Zeug. Von Jantar aus kommst du hierher, und dann hintenrum bis zu Agroprom. Schon bist du da!</text>
+		<text>You don't know? They made a new path here to be able to get past the Duty patrol right to the perimeter with all the goods. Get here from Yantar, and then use the back way all the way to Agroprom - and you're there!</text>
 	</string>
-	
 	<string id="dm_action_info_4">
-		<text>Nichts. Ich weiЯ gar nichts. Ich schnappe mir hier und da 'nen Happen und versuch, mir mein Brot zu verdienen. In die Zone zu gehen ist mir zu unheimlich. Drauf geschissen! Zu Hause gibt's keine Arbeit, meine Frau sitzt mir im Nacken und von irgendwas muss man ja leben. Hier an der Mьllhalde kriegst du einige Artefakte zusammen, wenn du dich mal einen Tag umsiehst. Ich mach das fьr ein Butterbrot.</text>
+		<text>Nothing. I don't know shit. I grab a bite here and there, trying to make enough for my daily bread. It's too creepy going into the Zone itself - to hell with it. And there's no work at home, my wife's on my case - gotta live somehow. Here at the Garbage, if you poke around for a day, you can get some artefacts together. And it'll do for your bread and butter.</text>
 	</string>
-	
 	<string id="dm_action_info_40">
-		<text>Und was machst du hier? Willst du nach Jantar oder nur ein paar Artefakte an der Bar vorbei schmuggeln?</text>
+		<text>And why are you here? Planning to go to Yantar, or are you trying to sneak some artefacts past a brother?</text>
 	</string>
-	
 	<string id="dm_action_info_41">
-		<text>Ich will Ihnen nicht verheimlichen, dass Ihre Stalker-Kollegen uns hier ab und zu einige interessante Anomalieformationen anbieten. Man nennt sie Artefakte. Wegen der - sagen wir einfach: ungewissen Kontrolle - bilden diese Orte eine hцchst geschдftige Schmugglerfдhrte.</text>
+		<text>I won't conceal the fact that from time to time your Stalker colleagues offer us some quite interesting anomalous formations - 'Artefacts' is what you call them. Because of... Shall we say... The uncertain level of control over them... These places form a kind of highly-active smuggling trail.</text>
 	</string>
-	
 	<string id="dm_action_info_42">
-		<text>Was ist los mit dir, Mann? Wir haben einen Weg angelegt, damit wir nicht den Jungs von der Wдchterfraktion in die Arme laufen, wenn wir mal ins GroЯe Land mьssen. Die hдngen hier zwar noch ab und an rum, aber erst mal wissen sie nichts und du kannst an ihnen vorbei.</text>
+		<text>What's wrong with you, man? We laid a path just so that we wouldn't have to run into the guys from the Duty faction if we wanted to get to the Big Land for something. Though they still hang around here from time to time, at least they're in the dark for now and you can get around them.</text>
 	</string>
-	
 	<string id="dm_action_info_43">
-		<text>Ich komm grad zurьck aus Jantar. Hab gedacht, ich tue mal wieder was fьr die Wissenschaft, aber die sind alle in ihren Bunkern verschanzt und kommen selbst tagsьber nicht raus. Es sei denn, sie kriegen Nachschub. Wenn du in diese Richtung willst: Lass es bleiben!</text>
+		<text>I'm just coming back from Yantar. Thought I'd pass something off to the scientists as usual, but they're all locked in their bunkers, don't go out even during the day. So if you're planning to head in that direction, might as well change course.</text>
 	</string>
-	
 	<string id="dm_action_info_44">
-		<text>In der Jantar-Zone wird geforscht, aber in letzter Zeit hдngen da 'ne Menge Zombies rum. Also verteidigen wir die Eingдnge.</text>
+		<text>There's research going on in the Yantar zone, but recently there have been more zombies hanging around those parts. So we're defending the entrances.</text>
 	</string>
-	
 	<string id="dm_action_info_45">
-		<text>Was soll ich Ihnen groЯ sagen? Ich wollte in unsere Gegend zurьck. Sie wissen schon, nach Jantar. Und jetzt sagen sie, dass es zwar vorher einfach nur gefдhrlich war, man jetzt aber unmцglich durchkommt. Vielleicht ьbertreiben sie ja?</text>
+		<text>I don't even know what to tell you. I wanted to get back into our complex - it's called Yantar, as you probably know. And now there's this: they say that while before it was just plain dangerous, now it's simply impossible to get through. Think maybe they're exaggerating?</text>
 	</string>
-	
 	<string id="dm_action_info_46">
-		<text>Ich war in Jantar, da ist die Wissenschaft abgestorben, die schleichen nur rum und verstecken sich ... Leben von den Vorrдten, die abgeworfen werden. Auf der anderen Seite gibt's da jetzt 'ne Menge Zombies. Wenn du 'ne Woche da wohnst, kriechst du wahrscheinlich selbst nur noch rum. So ist das eben. Ist nicht besonders angenehm da.</text>
+		<text>I was at Yantar. The scientists are completely holed up there: sneaking around, hiding... They're living on the supplies the helos drop off. There's a shitload of zombies there now. If you spend a week living there among them, you'll start sneaking around yourself. It's that kind of place. Not very pleasant.</text>
 	</string>
-	
 	<string id="dm_action_info_47">
-		<text>Die Hunde sollen ihn holen! Fьr wen hдlt der sich, dass er mit Zombies rumhдngt?! Es sind so viele davon im blцden Komplex - und es werden immer mehr, und mehr, und mehr ...</text>
+		<text>Fuck that guy! Who does he think he is to be hanging out with zombies constantly walking around? So many of them in the Damn complex - and they keep on coming. There's more and more of them there every day.</text>
 	</string>
-	
 	<string id="dm_action_info_48">
-		<text>Wir versuchen, die Migration der Zombies vom Laborkomplex zu stoppen. Ehrlich gesagt hдtte ich nichts dagegen, wenn du mitmachst. Uns fehlen ein paar Leute ...</text>
+		<text>We're trying to stop the movement of zombies from the laboratory complex. Honestly, I wouldn't mind if you joined - we have a shortage of men.</text>
 	</string>
-	
 	<string id="dm_action_info_49">
-		<text>Wissen Sie, wir sammeln eine Vielzahl verschiedener Daten. Ich zum Beispiel erforsche die Art, wie die Quasi-Lebenden - Sie wьrden sie wohl Zombies nennen - sich ausbreiten. Wдren Sie bereit zu teilen, was Sie herausgefunden haben?</text>
+		<text>You know, we're also gathering various data... For instance, I'm researching the main ways in which the quasilives - that is, "zombies," according to your terminology - are spreading in the Zone. Would you be willing to share your findings?</text>
 	</string>
-	
 	<string id="dm_action_info_5">
-		<text>Ja, so ungefдhr sieht es aus ... Einige ernдhren sich von der Mьllhalde und sammeln Kleinschrott, andere dringen tiefer in die Zone ein. Natьrlich findet man dort viel bessere Gegenstдnde, aber nicht jeder will dorthin. Es ist kein Ort fьr Anfдnger, und wenn du keine Munition hast, denk nicht mal dran! Das wдr' echt hoffnungslos.</text>
+		<text>Yeah, that's about it... Some feed off the Garbage, collecting little junk, others penetrate deeper into the Zone. Naturally, you can find much better stuff deeper, but not everyone wants to go. It's no place for rookies, and if you don't have lots of ammo, don't even think about going there - it's suicide.</text>
 	</string>
-	
 	<string id="dm_action_info_50">
-		<text>Konntest du schon auf die Zombies schieЯen, die aus dem Labor kriechen? Pass lieber auf: die fьrchten sich vor gar nichts, und Schmerz spьren sie auch nicht. Das sind Kreaturen ohne Gehirn.</text>
+		<text>Did you get to shoot at the zombies climbing out of the lab windows? Well, you better watch it - they're not afraid of anything, and don't feel any pain. In other words, they are wretches without any brains.</text>
 	</string>
-	
 	<string id="dm_action_info_51">
-		<text>Ich bewerbe mich auf eine Stelle im Labor! Hey, Mann, entspann dich - war nur'n Witz. WeiЯt du, wenn du in die Gegend kommst, bist du so gut wie tot. Bestenfalls endest du als Zombie.</text>
+		<text>I'm going to apply for a position in the lab. Hey man, relax - I'm kidding! You know that if you wander into those parts, you're as good as dead. Or you'll turn into a zombie. Which is worse?</text>
 	</string>
-	
 	<string id="dm_action_info_52">
-		<text>Ich warne dich, geh nicht ins Labor. Also, wenn du unbedingt willst, dann geh, ich halt dich nicht mit Gewalt auf. Aber von da kommt man nicht lebend zurьck.</text>
+		<text>I'm warning you: don't go into the lab. If you really want to go, then go. I'm not gonna hold you back by force. Just saying that people who go don't come back alive.</text>
 	</string>
-	
 	<string id="dm_action_info_53">
-		<text>Ich will Sie nur warnen. Sie sollten nicht ins Labor gehen. Eigentlich sollte da niemand hingehen. Das hat was mit den Verдnderungen der Psyche und des Metabolismus von Individuen zu tun. Und ich fьrchte, die Auswirkungen sind nicht umkehrbar.</text>
+		<text>You see, I would like to warn you. You shouldn't go into the laboratory. Nobody, in fact, should go there: it's linked to major alterations in the psychology and metabolism of an individual, and, I'm afraid, these effects are not reversible.</text>
 	</string>
-	
 	<string id="dm_action_info_54">
-		<text>So! Ich werde dir mal etwas Erleuchtung verschaffen; dich aufklдren; das verlorene Schдfchen retten. Also pass auf, Mann: Richte deinen Blick nicht auf den Laborkomplex. Da ist es dьster, sehr dьster. Da verschwinden Leute und kommen manchmal wieder, um nachts rumzuspuken. Nur, dass das keine Vampir-Horrormдrchen sind, sondern lebensechte Zombies. So sieht's aus.</text>
+		<text>There! Now I'm going to shed some light on you... Enlighten you... Basically, save your hide before you go astray. So here's the deal, man: don't set your sights on the laboratory complex. It's creepy there, very creepy. People disappear there, and then sometimes come back to haunt you at night. Only these aren't some made-up horror stories, but real fucking zombies. That's how it is.</text>
 	</string>
-	
 	<string id="dm_action_info_55">
-		<text>Hast du schon die KlugscheiЯer von den Vereinten-ScheiЯ-Nationen gesehen? Die haben in letzter Zeit echt die Hosen voll. Zitieren das ganze Regiment mitsamt der Luftwaffe zum Schutz ran, nur um mal kurz die Basis zu verlassen.</text>
+		<text>Have you seen these smartasses, the United Nations forces? Lately they're completely chickening out. Gotta call in a whole regiment along with the air force for protection just to take a few steps off the base.</text>
 	</string>
-	
 	<string id="dm_action_info_56">
-		<text>Was geht dich das an? Nerv nicht mit dдmlichen Fragen und du wirst auch in Ruhe gelassen.</text>
+		<text>And what's it to you? Don't bother them with stupid questions, and they'll leave you alone as well.</text>
 	</string>
-	
 	<string id="dm_action_info_57">
-		<text>Wir verlassen den Bunker normalerweise nicht ohne den notwendigen Schutz, das lдsst die umliegende Gegend nicht zu. Ich bin die Ausnahme. Ich mag keine groЯen Expeditionen, das Brimborium, die Soldaten ... Aber ich fьrchte, ich kann Ihnen erst mal nichts Nьtzliches sagen.</text>
+		<text>You see, we usually don't leave the bunker without the necessary protection: the conditions of the surrounding territory don't permit it. I'm sort of an exception. I don't really like large expeditions. All the fuss, soldiers... attracts more attention from the things creeping around here. But in any case, I'm afraid I can't tell you anything helpful for the time being.</text>
 	</string>
-	
 	<string id="dm_action_info_58">
-		<text>Die Wissenschaftler sind echt spaЯig! Ich steh voll drauf, Mann. Meist stecken die die Nasen nicht aus dem Bunker, und wenn man sie doch sieht, so wie neulich - oh Mann! Ьberall Truppen, Hubschrauber, Rьstungstechnologie! Die kцnnten genauso gut ein Schlachtschiff rankarren, oder wenigstens 'nen Panzerzug.</text>
+		<text>I get a kick out of our happy little scientists! I just totally dig 'em, man. They usually don't show their faces out of the bunker. And when they do - like they did the other day - Damn it! Troops everywhere, helos, armor technology! They might as well haul a battleship here, or at least an armored train.</text>
 	</string>
-	
 	<string id="dm_action_info_59">
-		<text>Ich hдnge schon den dritten Tag hier rum und beobachte. Hier ist ein Labor, stimmt's? Da ist von Anfang an niemand reingegangen. Die Wдchter haben nur mit den Zombies oben aufgerдumt, und jetzt nicht mal mehr das. Aber die Wissenschaftler mьssen rein. Das heiЯt, sie haben einen Weg gefunden, sich zu schьtzen - weiЯ der Teufel, wogegen. Ich denke mir also: 'Warum schnьffelst du nicht mal rum, findest was raus?' Jede Wette, da gibt's schaufelweise gutes Zeug.</text>
+		<text>It's already my third day hanging out here, observing. There's a lab here, right? Nobody goes in there anymore. Duty used to purge zombies only on the surface, and now stopped completely. But the scientists used to go in there. That means they found a way to protect themselves, fuck knows how. So I'm thinking, why not snoop around, find out? I bet there are so many goodies in there that you'd have to rake them in with a shovel!</text>
 	</string>
-	
 	<string id="dm_action_info_6">
-		<text>In den letzten Tagen sind ganze Rudel von Tieren aus dem Dunklen Tal gekommen. Keiner weiЯ, was sie raustreibt, aber sie drдngeln richtig, als ob es brennen wьrde. Und im Osten vermehren sich die Mutanten wie die Fliegen. Wir kцnnen nichts tun, auЯer sie immer wieder wegzupusten. So ist das.</text>
+		<text>In the last few days, whole packs of animals are coming out of the Dark Valley. What's forcing them out of there is unclear, but they're really bugging out, like from a fire. And in the eastern sector the mutants are breeding like flies. All we can do is keep shooting them down. So that's the news.</text>
 	</string>
-	
 	<string id="dm_action_info_60">
-		<text>Und was suchst du hier? Willst du auch ins Labor? Hast du ein Mдrchen ьber magische Instrumente und haufenweise Artefakte gehцrt? Mann ... Lernt ihr Idioten eigentlich nie dazu?</text>
+		<text>And what are you looking for here? Also trying to get into the lab? What, did you hear a fairy tale about magical instruments and piles of artefacts? Man, when will you boneheads ever learn?</text>
 	</string>
-	
 	<string id="dm_action_info_61">
-		<text>Ich arbeite hier, junger Mann. Ich arbeite und tue meine Pflicht fьr die Wissenschaft und die Menschheit. Wenn du was ьber das verlassene Labor wissen willst - was, wovon jeder Stalker, dem ich begegne, glaubt, dass ich es weiЯ - dann hцr zu: Ich weiЯ es nicht und will es nicht wissen. Das Thema interessiert mich nicht und hat es auch nie! Kapiert?</text>
+		<text>I work here, young man. Simply work here, carrying out my obligations to science and humanity. And if you wish to find out how to get inside the abandoned laboratory, I will tell you the same thing that I tell every Stalker I meet: I don't know, and I don't want to know! This topic doesn't interest me and never interested me, is that clear?</text>
 	</string>
-	
 	<string id="dm_action_info_62">
-		<text>Vielleicht haben die Schlaumeier wirklich eine Art Instrument entdeckt. Was mag nur in dem verdammten Labor versteckt sein? Selbst wenn da nichts zu holen ist, interessant ist es auf jeden Fall.</text>
+		<text>Maybe the brains really did come up with some sort of new technology. I wonder what's hidden in that damned lab. Even if there aren't any goodies there - it's still interesting.</text>
 	</string>
-	
 	<string id="dm_action_info_63">
-		<text>Ich hab mich gefragt, ob ich vielleicht zur Freiheit gehen soll. Da ist ihre Basis, in den alten Lagerhдusern der Armee. Warum nicht? Die Typen machen einen schlauen Eindruck, und was macht's schon, wenn sie etwas desorganisiert sind? So ist es doch besser. Ich brauch keine Disziplin, weiЯ, was ich zu tun hab. Ist ja nicht so, als wдr ich neu hier.</text>
+		<text>I'm wondering - think I should join Freedom? There's their base, in the old Army warehouses. And why not? Seem like pretty smart guys, and so what if they're a bit disorganized? It's even better that way. I don't need to be disciplined, I know what I'm supposed to be doing - it's not like this is my first month here.</text>
 	</string>
-	
 	<string id="dm_action_info_64">
-		<text>Du verstehst dich nicht so gut mit der Freiheit, oder? Okay, okay, reg dich nicht auf. Ich glaub, bald vertreiben wir sie aus den Lagerhдusern. Die sind weder organisiert noch diszipliniert, einfach nur 'ne groЯes Rudel. Und die wagen es, sich gegen uns aufzuwiegeln, diese NATO-Kьken.</text>
+		<text>You're not too friendly with Freedom, are you? Fine, fine, don't get your panties in a wad about it. I think that pretty soon we'll run them out of the warehouses. They don't have any organization or any discipline. They're just a big herd of dumb animals; a pack at best. And they dare stand up against us, those wannabes!</text>
 	</string>
-	
 	<string id="dm_action_info_65">
-		<text>Wenn Waffenstillstand ist, treffe ich mich mit einem Wдchter. Wir tauschen uns aus. Der Kerl ist eigentlich ganz clever, aber engstirnig wie ein Panzer. WeiЯt du, unsere Denkweise ist ganz anders als ihre: Du kannst die Zone bдndigen, mit Glьck anpassen, aber nicht zerstцren. Dazu brauchen wir Zugriff auf ALLE Informationen. Irgendwann wird irgendwer eine Lцsung finden. Aber bei denen heiЯt's immer "zumachen", "abschlieЯen" und "nur nicht drьber reden" ... Idioten, totale Idioten. Andererseits macht das Sinn: Wenn du den ganzen politischen Apparat hinter dir hast, hast du nicht eigenstдndig zu denken.</text>
+		<text>I met up with one of the Duty guys when there was a cease-fire. We shared a few facts. The man was actually pretty smart, but, shit, he had tunnel-vision like a tank. You see, our philosophy is completely different from theirs: you can only tame the Zone - assimilate it - not destroy it. To do that, we need open access to all of the information. Someone will come up with something eventually. But Duty's all about "close it" and "lock it" and "don't spread it around." Retards, complete fucking retards. I guess it makes sense for them: when the political machine controls you, you're not supposed to think outside of the box.</text>
 	</string>
-	
 	<string id="dm_action_info_66">
-		<text>Hier ist ein kleines Hдuschen, da war's mal still, aber jetzt brьten da welche drin. Da sollte man lieber einen Bogen drum machen, sie wie ich. Alter, ich hab dich gewarnt.</text>
+		<text>There's a little cottage here. Used to be calm, but now there are some bloodsuckers that seem to be breeding there. Better to loop around, so that's where I'm going... Hey man, don't say I didn't warn you.</text>
 	</string>
-	
 	<string id="dm_action_info_67">
-		<text>Ich will dich gleich warnen, Stalker: Die Blutsauger haben lдngst ein Nest im Dorf, vielleicht noch Schlimmeres, also pass auf!</text>
+		<text>I want to warn you, Stalker, right away: bloodsuckers have moved into the village, and maybe something worse, so be careful.</text>
 	</string>
-	
 	<string id="dm_action_info_68">
-		<text>Es gibt nichts Neues. Hier sind keine Artefakte mehr und in den Hдuschen haben mal Blutsauger gelebt, aber um die haben wir uns so gut wie mцglich gekьmmert. Ich bin gegangen und geh nicht mehr zurьck. Ist vielleicht nur ein Bauchgefьhl, aber so ist das nun mal. Keine Chance! Da lauert der Tod.</text>
+		<text>There's nothing new. There are no more artefacts here, and bloodsuckers took over those little cottages. We ran them off as best we could. Now I can't even bring myself to go there. Paranoia, maybe, but I can't and that's it. No fucking way. Death is there...</text>
 	</string>
-	
 	<string id="dm_action_info_69">
-		<text>Ich verschwinde hier! Hab vier Wochen an der Grenze rumgegammelt, das war's! Mir reicht's! Vom Schmelzer her kommen stдndig irgendwelche Freaks hierher, und jeden Tag werden es mehr ...</text>
+		<text>I'm getting the fuck out of here! Bummed around for four weeks on the border, and that's it - enough for me! Freaks are constantly coming over here from the direction of the Scorcher, each day more and more of them...</text>
 	</string>
-	
 	<string id="dm_action_info_7">
-		<text>Es sind jetzt immer mehr "Mьllmдnner" geworden. Vorher haben sie die Haufen nicht mal angesehen. Die Strahlung ist so hoch, dass sie dir in einer halben Stunde die Eier hart kocht. Jetzt, wo's schwer ist, gute Sachen zu kriegen, wickeln sie sich in Schutzzeug ein, schlucken Chemikalien und klettern rein. Da kommt alles Mцgliche an Zeug raus, aber das meiste ist nichts wert.</text>
+		<text>How many Stalkers have become "trashmen?" They never used to even look in the piles of garbage - so much radiation that it'll hard-boil eggs in half an hour. But now that it's gotten harder to find goodies, they'll wrap themselves in protection, shoot up some chems, and climb in to look. There's all sorts of stuff that comes up from there, though usually it's junk.</text>
 	</string>
-	
 	<string id="dm_action_info_70">
-		<text>Wenn du hierher zu unserer Blockade kommst, respektiere ich dich. Wenn nicht - geh mir aus den Augen! Wir brauchen echte Mдnner, keine Waschlappen. Von der Sorte haben wir schon genug!</text>
+		<text>If you're coming here to help our blockade, I respect you. If not, get the hell out of my sight! We need real men, not pussies. Got enough of those already.</text>
 	</string>
-	
 	<string id="dm_action_info_71">
-		<text>Bist du wegen der Blockade hier, Mann? Umso besser, wenigstens ein Normaler mehr. Wir haben das Ganze organisiert und ziemlich gut durchgehalten ... Aber dann kamen die ganzen Bestien zu uns! Jetzt ist es hart und jede Ladung zдhlt!</text>
+		<text>You here for the blockade, man? All the better - at least one more normal person will be here. We organized this thing and held it together pretty well... But then all the beasts had to come our way! Now it's tough, and every gun barrel counts.</text>
 	</string>
-	
 	<string id="dm_action_info_72">
-		<text>Noch nicht auf dem Laufenden? Der Weg ins Zentrum der Zone ist offen! Entweder, er ist von allein aufgegangen, oder jemand hat sich richtig Mьhe gegeben. Wenn dem so ist, dann herzlichen Dank. Jetzt musst du dir nur noch das beste Zeug beschaffen!</text>
+		<text>Aren't you up to date? The way to the center of the Zone is open! Either it opened on its own or someone pulled off the impossible - either way, it's good for me! Now all we have to do is get in and gather the finest goods!</text>
 	</string>
-	
 	<string id="dm_action_info_73">
-		<text>Du hдttest warten kцnnen, Stalker. Renn nicht allem hinterher. Sag mal: WeiЯt du, was da drьben ist? Genau, du hast keine Ahnung, ob da was ist oder nicht. Auch nicht, was fьr Fallen da auf dich lauern. Warum zum Teufel versuchst du dann durchzubrechen wie 'ne Herde Bьffel?</text>
+		<text>You might have waited, Stalker. Fools rush in. Just tell me: do you know what's over there? Of course you don't. You don't know whether there's anything there or not. What kinds of traps await you? You don't know that, either. Then why the hell are you trying to charge through like a wild animal?</text>
 	</string>
-	
 	<string id="dm_action_info_74">
-		<text>Der Weg ins Zentrum ist frei, alles klar? Es gibt einen direkten Weg ins Zentrum! Da wird jetzt jeder hin wollen. Wichtig ist jetzt, dass man einer der Ersten ist und richtig absahnt!</text>
+		<text>The way to the center is free, understand? There's a straight path right to it! Now everyone is gonna haul ass over there. What's important is to be among the first, to gather the best fruit!</text>
 	</string>
-	
 	<string id="dm_action_info_75">
-		<text>Geh immer weiter, dann siehst du's ja selber! Willst du etwa nicht sehen, was vorn los ist? Dann bist du voll ... gesegnet. Da muss es so viel gutes Zeug geben! Du hast doch zum Beispiel bestimmt schon mal vom Wunschgцnner gehцrt, oder?</text>
+		<text>Keep on trucking ahead - you'll see everything yourself! Don't you want to see for yourself what's going on ahead? Well then, you're in luck. There must be a shitload of goods there! You've heard about the Granter of Wishes, right?</text>
 	</string>
-	
 	<string id="dm_action_info_76">
-		<text>Wie die Kinder, um Himmels willen! "Wunschgцnner", "Goldgrube voller Artefakte" ... Ich glaub das einfach nicht!</text>
+		<text>Just like children, for Christ's sake! "Wish Granter"; "The Gold Rush for Artefacts"... Can't believe my ears!</text>
 	</string>
-	
 	<string id="dm_action_info_77">
-		<text>Ich will selbst sehen, was hinter dem Horizont liegt, Mann! Was, wenn wir auf einen Schlag rausfinden, warum die Zone so ist, wie sie ist?</text>
+		<text>I want to find out myself what's beyond the horizon, man! What if we'll be able to find out, in one blow, all the explanations for why the Zone is the way it is?</text>
 	</string>
-	
 	<string id="dm_action_info_78">
-		<text>Siehst du die mehrstockige Hauser? Das ist schon Prypjat. Das Kraftwerk liegt direkt dahinter. Ich wьrde so gerne da rein ... Aber man weiЯ heutzutage nicht, was drinnen so rumkriecht.</text>
+		<text>Did you see those skyscrapers? That's Pripyat. The station is right behind it. I wish I could get in there... It's hard to tell what's roaming around in there nowadays, though.</text>
 	</string>
-	
 	<string id="dm_action_info_79">
-		<text>Lass mich das erklдren. Da ist Prypjat. Dahinter ist das Tschernobyl-AKW. Wir wissen nicht, was da los ist und wer da wohnt. Das ist unser Gebiet. Wir werden etwas finden, wie immer.</text>
+		<text>Let me explain. There's Pripyat. Behind it - Chernobyl NPP. What's going on there and who's inhabiting those parts is unknown. This is the place for us; we'll find some good things here.</text>
 	</string>
-	
 	<string id="dm_action_info_8">
-		<text>Nicht auf dem Laufenden! Ich bin grad auf dem Weg in die Bar zum Reden. Was, du warst noch nie da? Wahnsinn! Okay, also: Von da, wo du stehst, gehst du einfach nach Norden. Die Bar ist um die Ecke. Es ist nьtzlich, mal reinzuschauen. Fьr Neue wie dich ist das wie vom Doktor vorgeschrieben. Da sind erfahrene Mдnner und wer weiЯ, vielleicht helfen sie dir, sagen dir was, wie und was ... Eins noch: Du wirst unseren Kumpeln, den Wдchtern, ьber den Weg laufen ... da kommt's drauf an. Hast du Glьck, dann mцgen sie dich. Wenn nicht, na dann nicht.</text>
+		<text>Not up to date! And I'm just heading towards the Bar to chat with folks. What, you've never been there? Jesus! Just keep on moving north; the Bar's just around the corner. It's very helpful to drop by there, especially for newbies like you. It's, like, prescribed by the doctor. There are experienced men there, and who knows, they may help out, tell you something useful. One thing: you'll run into our buddies from Duty on the way... And if you're lucky, they'll like you. If you're not... well, then they won't.</text>
 	</string>
-	
 	<string id="dm_action_info_80">
-		<text>Prypjat! Zwick mich, verdammt! Endlich! Von hier ist's nicht mehr weit zum Bahnhof. Schwer zu raten, wem man hier begegnet - was fьr ein Vieh grad seine Zдhne schleift und auf einen wartet.</text>
+		<text>Pripyat! Pinch me, damn it! Finally! From here it's just a little ways to the station. Hard to know what you'll run into here - what critter is sharpening its teeth in the shadows, waiting for you.</text>
 	</string>
-	
 	<string id="dm_action_info_81">
-		<text>Hцr zu, mein Freund ... Hцrst du auch eine Stimme in deinem Kopf, oder hab ich Halluzinationen? Sie murmelt etwas, immer wieder ...</text>
+		<text>Listen, friend... Are you also hearing a voice in your head, or am I hallucinating? Keeps on murmuring something over and over again...</text>
 	</string>
-	
 	<string id="dm_action_info_82">
-		<text>Verdammt, schon wieder ... Also pass auf, ich versuch zum x-ten Mal zu erklдren, was das fьr ein telepathischer Effekt ist, den die Leute hier merken. Stimmen, die man auЯen nicht hцrt, rufen einen ins Zentrum der Zone und versprechen einem alle Wьnsche zu erfьllen, wenn man es schafft, den ... Wie heiЯt es noch gleich? ... Ach ja, den Monolithen zu berьhren.</text>
+		<text>Damn, another one. So, here's the deal. I'll try to explain for the billionth time what kind of telepathic effect people here experience. A voice in their heads is constantly calling them towards the center of the Zone promising to grant every wish for the one who is able to touch the... What's it called? Oh yeah, some Monolith.</text>
 	</string>
-	
 	<string id="dm_action_info_83">
-		<text>Hцrst du eine Stimme? Cool, wie ein MP3-Player im Kopf! Schade, dass es nur eine Nummer gibt: Komm zu mir und dir wird groЯes Glьck zuteil. Zwei Stunden lang immer dasselbe.</text>
+		<text>Do you hear a voice? Cool, just like a radio in your head! Shame there's only one station though: "Come to me and you'll have great happiness." Two hours harping on the same damn thing.</text>
 	</string>
-	
 	<string id="dm_action_info_84">
-		<text>Und du kannst nicht raten, was das ist? Du willst auch zum Kraftwerk durchbrechen! Das wollen wir auch! Erzдhl doch mal was Neues! Wir mьssen nur die Idioten von der StraЯe schaffen ...</text>
+		<text>And you can't guess what it is? You're trying to break through to the station, too! Well, so are we - what else is new? Just as long as we can get these retards off the road...</text>
 	</string>
-	
 	<string id="dm_action_info_85">
-		<text>Das Gebiet um das Kraftwerk ist ganz nah! Wir kцnnen vorerst noch nicht um den Widerstand der Monolither kьmmern!</text>
+		<text>The station's very close! For now we still can't deal with the resistance of the Monolithians, though.</text>
 	</string>
-	
 	<string id="dm_action_info_86">
-		<text>Da vorne, das Tschernobyl-AKW ist schon in Reichweite. Nur noch ein Stьck nach links, aber diese Penner sind so dickkцpfig, die lassen uns nicht durch. Macht nichts, die sind wir gleich los!</text>
+		<text>There it is, Chernobyl NPP, within arms' reach. Just a little bit further, but these motherfuckers are so stubborn, and won't let us through! Well, we'll just have to clear them out!</text>
 	</string>
-	
 	<string id="dm_action_info_9">
-		<text>Hцr zu, Kamerad, weiЯt du nichts ьber Agroprom? Ich wollte dorthin, aber alle haben mich ausgelacht: Es gдbe dort nichts Wertvolles mehr, weil sie dort vor einer Weile aufgerдumt hдtten und nur noch Anomalien ьbriggelassen hдtten. WeiЯt du, ob das stimmt, oder ob sie nur einen SpaЯ machen? Ich bin ziemlich neu hier und hцre auf das, was die Ortskundigen sagen. Aber vielleicht wissen ja alle etwas und suchen nur nach einem Grund, sich zu ьber mich kaputtzulachen, diese Penner. </text>
+		<text>Listen, friend, you don't know about the Agroprom? I wanted to go there, but everyone started mocking me: "There aren't any goods there anymore. They cleaned the place a while ago, and now there's only anomalies left." Do you know if they're serious or if they're just saying that to joke around? I'm pretty new here, and I don't know whether to believe what the locals say... Maybe they're all in on it, and just like to mess with us. All they need is someone new to laugh their heads off at, those pricks!</text>
 	</string>
-	
 	<string id="dm_action_info_94">
-		<text>Warte! Beeile dich, aber renn nicht so. Hier sind ьberall Monolither. Sie kennen die Stadt in- und auswendig und haben ьberall Fallen aufgestellt. Sei bloЯ vorsichtig.</text>
+		<text>Listen! Move fast, but don't rush around blindly. There are Monolithians everywhere. They know the city like the backs of their hands and have put up lots of traps. You need to be careful.</text>
 	</string>
-	
 	<string id="dm_action_info_95">
-		<text>Ich warne dich: Ein groЯer Teil der Stadt wird von der Monolith-Fraktion kontrolliert. Viele Fallen. Die kennen die Stadt wie ihre Westentasche. Sei extrem vorsichtig und ьberprьfe deine Waffen.</text>
+		<text>I'm warning you: for now, a large portion of the city is controlled by the Monolith faction. Lots of traps - they know the city like men know their wives. Keep a sharp eye out, and check your weapons.</text>
 	</string>
-	
 	<string id="dm_action_info_96">
-		<text>Oh, ich wьrde die Stadt so gerne mit einem Bombenteppich ьberziehen. Schweine ... Die einzigen Verstecke, die sie noch nicht verwenden sind Sandkдsten und Blumenbeete. Wie viele sind schon durch diese Verrьckten gestorben!</text>
+		<text>Oh, how I'd love to carpet-bomb this whole fucking city! Pricks... The only place they're not hiding is in sand boxes and flower pots. How many people have already died because of these creeps?</text>
 	</string>
-	
 	<string id="dm_action_info_97">
-		<text>Hцr zu, wer hat diesen Gцnner denn schon wirklich gesehen ... Vielleicht ist das Ding ja gar nicht unendlich und es ist nicht genug fьr alle da. Und was soll man da machen? Niederknien? Alter, eins verspreche dir: Wenn wir dort sind, gehst du hinter mir ...</text>
+		<text>Listen, about this Wish Granter... Maybe it's not unlimited, so there won't be enough wishes for everybody. And what do you do if you get there? Kneel? Get down on all fours? And you, dude, I promise you this: if we get there, I'm going first!</text>
 	</string>
-	
 	<string id="dm_action_info_98">
-		<text>Die Wдchter mьssen als erstes zum Zentrum durchbrechen! Stell dir nur vor, Stalker, dass irgendein Verrьckter - und hier ist eigentlich jeder entweder verrьckt, paranoid oder zurьckgeblieben - als erster zu dem Ding kommt, das einem Wьnsche erfьllen kann! Was dann?</text>
+		<text>Duty has to break through to the center, if not first then one of the first! Just imagine, Stalker, what if some psycho - and, let's face it, all of you here are psychotic, paranoid, or just plain retarded - gets to the thing that really can grant any wish, huh? What then?</text>
 	</string>
-	
 	<string id="dm_action_info_99">
-		<text>Die Neuigkeit des Jahrhunderts: Jeder, der laufen kann und eine Waffe hat, ist hier! Hier ist alles mцglich! Krieg' das mal in deinen Kopf: Alles, was du dir wьnschst! Und dann kommt jemand und sagt: "Ich wьnsche mir, dass die Zone sofort und bis in alle Ewigkeiten verschwindet." Verstehst du, was das fьr eine Katastrophe wдre? Wir wьrden alle mitten im Nirgendwo herumhдngen!</text>
+		<text>News of the century: everyone who can walk and carry a weapon is here now! Anything can happen here! Imagine it! Anything that you wish! But what if someone comes along and says, "I want for the Zone to disappear forever?" Can you wrap your head around what will happen? We're all going to end up stranded in the middle of nowhere, all of us!</text>
 	</string>
-	
 	<string id="dm_action_info_119">
-		<text>Woher soll denn was Neues geben? Wir scheuchen die Banditen immer wieder mal auf und helfen ein wenig den Wissenschaftlern... Das war's auch schon...</text>
+		<text>Yes, from new, bandyukov out rides, but scientists pomogaem.Vot and every case.</text>
 	</string>
 	<string id="dm_action_info_120">
-		<text>Bruder, lass mich in Ruhe. Mein Kopf brummt noch, nach der gestrigen Feier.... Oder gieЯ mir lieber einen ein, dann kцnnen wir reden....</text>
+		<text>Brother do not impede, I have after yesterday's the head hoots, would pour is better, here then we shall talk.</text>
 	</string>
 	<string id="dm_action_info_121">
-		<text>Sachte, Bruder... Gleich setzen wir uns mit Kumpels ans Feuerchen, rauchen einen, dann kannst du mich mit Fragen lцchern... Jetzt, mit schweren Kopf, hab ich darauf keine Lust.</text>
+		<text>Wait a minute Bro... now with Rookies relaxing near the campfire, we shall smoke, here then stick with propogation, and now not I on a pure head cannot, does not pull me.</text>
 	</string>
 	<string id="dm_action_info_122">
-		<text>Hey, Gezeichneter! Ich grьЯe dich! Komm nдher, wir sind hier alle unter Gleichen... Schon mit unserem "Alten" gesprochen? Nein? Dann los, er wartet schon ganze Zeit auf dich und ist ganz genervt. Und wenn er genervt ist, dann kriegen wir immer alles ab...</text>
+		<text>About "Marked One", it is healthy yes come be not afraid, all the. You talked to the senior? Is not present? Well so give it was tired of waiting you, to be angry, and when it malicious to kick us so there begins mum- don't be sad...</text>
 	</string>
 	<string id="dm_action_info_123">
-		<text>Ich sag dir was, die Sцldner gehen mir voll auf den Sack! Haben sich im Rostok festgesetzt und lauern die Stalker auf... Da kommt man lebend kaum vorbei. Ich muЯ zu den Eierkцpfen, und kann aber nicht...</text>
+		<text>I shall tell to you fighting the Mercenaries, have taken over Rostok, our brother Stalker catch and... Well itself you know alive they any more do not release, here to Scientists it is necessary to me, so one horse-radish you will pass.</text>
 	</string>
 	<string id="dm_action_info_124">
-		<text>Wir sollten ein paar erfahrene Jungs zusammentrommeln und diesen Bastarden es mal richtig zeigen. Meinen Kumpel Wanja kennst du wohl nicht? Ihn haben die Sцldner gestern erwischt, weil er allein unterwegs war, der Hohlkopf... Jetzt ist er tot...</text>
+		<text>To collect children is stronger and hit on this injustice. Vanka my friend you do not know the meaning of the word leave? And so yesterday Mercenaries have caught it, a nonsense head off, one alternative well and is not present more it.</text>
 	</string>
 	<string id="dm_action_info_125">
-		<text>Wir haben es hier richtig schwer, Bruder... Schaue dir nur meine "Mannschaft" an - alles Sдufer und Milchgesichter... Wie soll man mit ihnen die Sцldner bekдmpfen? Und die "Wдchter" reden nur von der Hilfe, in Wirklichkeit geht hier nur die einen oder andere Quad in Richtung Jantar durch. Das ist dann die ganze Hilfe...</text>
+		<text>It is hard to us here the brother, you look at my command, greenhorns one yes drunkards how with such crowd to struggle with Mercenaries? Dolgovtsy only in words helps so occasionally will pass quad, another aside Yantar, here and all help.</text>
 	</string>
 	<string id="dm_action_info_126">
-		<text>So viele Mutanten, wie es hier gibt, hab ich schon lange nicht gesehen... Wo kommen die nur alle her? Ich glaube, aus Jantar... Vor paar Tagen ging ich nachts, zum pissen, vom Lagerfeuer weg. Nicht weit, nicht mal 30 Meter... Da brьllt, auf ein Mal, ein Blutsauger hinter mir! Gut, das Wlad die Wache schob, und das Biest sofort abknallte. Sonst wдr ich jetzt tot...</text>
+		<text>Yes, here wild beasts nemer and whence it only is taken? I here think from Yantar rushing, any more whence. I at night here one of these days piss went, have departed from a fire can metres on 30 and here Bloodsucker behind of me and as will begin to roar so and has gobbled me up, yes well I not one stood Vadik on staring stood, have thrust to this reptile between an eye.</text>
 	</string>
 	<string id="dm_action_info_127">
-		<text>Sie hier lieber nicht alleine unterwegs... Wir sind hier als Gruppe, und trotzdem ist es unheimlich. Sogar pinkeln gehen wir zu zweit, zu dritt... Wenn du allein weiter gehst - kommst du lebend nicht zurьck...</text>
+		<text>You would not go here one, we here with children group and that from each rustle a frost on a leather, in a toilet and that, on two, on three go, and one will go further, true death.</text>
 	</string>
 	<string id="dm_cool_info_0">
-		<text>Was Neues? Zum Teufel mit dem Neuen. Hier ist soviel alter ScheiЯ, dass du fast dran erstickst. Die Banditen sind durchgedreht, diese Schweine! Wir schleichen zwischen den Anomalien her, um ein paar Artefakte zu bekommen, und die klauen einem einfach die Sachen! Diese Ratten! Geh bloЯ nicht zur Mьllhalde, da lungern die rum.</text>
+		<text>Something new? To hell with your new, when there's so much old shit that you couldn't scoop it out with a ladle. The bandits went nuts, the bastards! We tiptoe between the anomalies trying to get the artefacts, and they're the ones stealing other people's goods... Fucking vultures! Just watch out and don't wander into the Garbage - that's exactly their kind of place.</text>
 	</string>
-	
 	<string id="dm_cool_info_1">
-		<text>Ganz genau, ich stecke hier fest. Ich mцchte nach Hause, aber sie lassen mich nicht. Das ist alles. Die Jungs, die sich tief in die Zone hineinwagen, die sich auskennen, erzдhlen so manches. Manchmal bringen sie auch ein paar Sachen mit. Da wird man fast neidisch. Man erzдhlt sich von Bergen von Schдtzen. Man kann sie einfach so mitnehmen. Na ja, es schaffen nicht viele bis dorthin, und zurьck kommen noch weniger.</text>
+		<text>I'm stuck here, you got it? Stuck! I want to go home, and they're not letting me. That's all the news. The guys that go deep into the Zone, the ones that have been around, they say different things. And at times they bring the goodies, too - you'd be jealous if you saw 'em. They say that there are places like mounds of gold, all for the taking. Granted, not many will get there, and even less will make it back with the loot.  But still...</text>
 	</string>
-	
 	<string id="dm_cool_info_10">
-		<text>Vor einer Woche ist Otter vom Schmelzer erwischt worden. Und er war kein unerfahrener Grьnschnabel, sondern ein langjдhriger Stalker. Er gehцrte angeblich sogar zu Streloks Team. Und dann plцtzlich ...</text>
+		<text>A week ago Otter burned out on the Scorcher. It'd make sense if it was some green-ass rookie - but he's been a Stalker many years. They say he was even on Strelok's team. And then all of a sudden...</text>
 	</string>
-	
 	<string id="dm_cool_info_100">
-		<text>Tja, ich bin nicht wirklich auf dem Laufenden.</text>
+		<text>Well, I'm not really up to date on all the latest news.</text>
 	</string>
-	
+	<string id="dm_cool_info_101">
+		<text>These local critters come from all sides! I already think that the more we kill, the more they appear. But nothing but victory will be ours! We have more strongly armed guys, we would have guided the procedure here, but for the dead boys we retaliated</text>
+	</string>
+	<string id="dm_cool_info_102">
+		<text>Damn this place. Not the Agroprom area in general. Fight, fight... And with whom and against whom? Cant be normal that mutants so quickly multiply. We kill so many, but they only become more</text>
+	</string>
+	<string id="dm_cool_info_103">
+		<text>I've heard that many of the anomalies and artefacts are no longer visible. Perhaps it's because of emissions, they pumped up the energy band too much. So beware: now not so easy to run, the detector is now a matter of life and death. A descriptive artefact can be found only with advanced detectors. Good luck.</text>
+	</string>
+	<string id="dm_cool_info_104">
+		<text>Khabar looking for. Place here is one of the safest: either you extortionate exactions as a landfill, no crowds mutants, both at the agricultural industry, nor corrupt military. And as anomalies and rare creatures - a phenomenon tolerant. In comparison with other places, naturally.</text>
+	</string>
+	<string id="dm_cool_info_105">
+		<text>Hunt for mutants. For the bodies of some of these merchants and scientists are paying good money. Do not believe me? Go see for yourself.</text>
+	</string>
 	<string id="dm_cool_info_11">
-		<text>Sag mir, Stalker: Warum werden die, die alleine herumstreifen, manchmal verrьckt? Fehlt es euch an Selbstdisziplin? Letztens wollte einer am Schmelzer vorbei. Angeblich war der auch sehr erfahren. Sein Hirn kann man auch einfacher loswerden: Waffe in den Mund und abdrьcken.</text>
+		<text>You tell me this, Stalker: why do you loners sometimes go nuts? You lack some basic discipline? The other week, one guy decided to go past the Scorcher. And they say he was experienced, too... There's an easier way to get rid of your brains - put the barrel of your gun in your mouth and fire away!</text>
 	</string>
-	
 	<string id="dm_cool_info_12">
-		<text>Diese verdammten Sцldner. Unser Blut saufen sie ja schon lange, und jetzt sind auch die Wissenschaftler dran. Warum machen die nur mit? Lцsegeld? Oder wollten die einfach ihre Nobel-Preise teilen?</text>
+		<text>Fuck these Mercs. They've been drinking our blood for a long time, and now they've turned on the eggheads too. And why did they give in? Because of some ransom? Or to share their Nobel prizes?</text>
 	</string>
-	
 	<string id="dm_cool_info_13">
-		<text>Die Sцldner sind in letzter Zeit viel aktiver geworden. Wir nennen sie auch Marodeure. Aber es gibt hier auch noch andere Schweine. Sie benehmen sich wie Banditen, sind aber erfahrene Kдmpfer. Komischerweise haben sie frьher vor allem Stalker angegriffen, aber jetzt interessieren sie sich mehr fьr Wissenschaftler. Pass auf jeden Fall auf. Die haben sicher auch nichts dagegen, dir den Kopf runter zu schieЯen.</text>
+		<text>Lately the Mercs have become much more active. We also call them "Marauders." They're just another kind of swine here, don't know if you've heard of 'em. Kind of like bandits, except experts in the ways of war. Strange thing is, they used to prefer to attack Stalkers, but as of late they've been more interested in whacking scientists. But watch out in any case, 'cause I wouldn't put it past them to shoot your head off, too.</text>
 	</string>
-	
 	<string id="dm_cool_info_14">
-		<text>Ich habe gehцrt, dass die Eierkцpfe irgendwas Wundervolles ausgegraben haben. Plцtzlich sind alle durchgedreht: Die Truppen, die Sцldner, selbst die Wдchter sind nicht viel besser.</text>
+		<text>Heard a rumor that the eggheads dug up something awesome. And suddenly everybody went nuts. The troops and the Mercs and even the Duty guys weren't far behind 'em.</text>
 	</string>
-	
 	<string id="dm_cool_info_15">
-		<text>Wenn du dich fьr die selbe Sache interessiert, auf die mich in den letzten zwei Tagen jeder angesprochen hat, sage ich nur: Nimm ein Bad! Wenn ich etwas wьsste, hдtte ich es erzдhlt, denn es hat mir niemand verboten. Aber ich weiЯ nichts, gar nichts! Was haben die Wissenschaftler gefunden? Wo sind unsere Anfьhrer hin? Was hab ich mit dem ganzen ScheiЯ zu tun?! Wenn's nach mir geht sind die im Urlaub und mьssen keine blцden Fragen beantworten!</text>
+		<text>If you want to know about the same thing that everyone's been bugging me about for the last two days, then I'm telling you: go jump in an anomaly! If I knew, I'd tell. But I don't know - don't know shit! What did those scientists find? Where did our leadership go? Don't ask me! I don't have anything to do with any of it! They're off on vacation, and don't have to answer to us and explain themselves.</text>
 	</string>
-	
 	<string id="dm_cool_info_16">
-		<text>Ha! Hier werden doch alle verrьckt! Der Konfцderierte ist mit seiner Gruppe von einem Ьberfall zurьck gekommen und hat ein paar Artefakte mitgebracht - Mama Mia! Natьrlich verrдt der Konfцderierte nichts. Aber alle seine Jungs spinnen herum, als hдtten sie eine Goldader gefunden. Dieser Bastard!</text>
+		<text>Ha! Everybody's gone batshit around here! The Confederate and his boys have returned from a raid, and dragged a whole bunch of artefacts in. You should see the haul! Of course, Confederate is silent - he doesn't say a word, as usual - and all of his guys are joking around as if they went up to the Yukon and struck gold... The bastards!</text>
 	</string>
-	
 	<string id="dm_cool_info_17">
-		<text>In den letzten paar Tagen sind diese ganzen Bestien vom Schmelzer gekommen. Die Leute haben bei den alten Lagerhдusern eine Barrikade errichtet. Das scheint momentan zu helfen. Wenn sie nicht schlapp machen ... Sie mьssen auf jeden Fall Verstдrkung holen ...</text>
+		<text>During the last few days there are all these beasts coming in from the Scorcher. The people by the old warehouses constructed a barrier. For now, they seem to manage. If it weakens... Well, they'll have to go for reinforcements. There's nothing else to do...</text>
 	</string>
-	
 	<string id="dm_cool_info_18">
-		<text>Hast du diese Gerьchte gehцrt, dass sich die Zone angeblich ausdehnt? Ich glaube, dass es stimmt. Ich habe direkt an der Grenze ein derart widerliches Monster gesehen, wie man es sonst nur im Zentrum der Zone sieht. Sieht nicht gut aus, was?</text>
+		<text>Did you hear the rumors going around that the Zone is growing? I think it's true: I saw a frightening humanoid mutant right by the perimeter. Before you'd only run into things like that towards the center of the Zone. Things don't look good, do they?</text>
 	</string>
-	
 	<string id="dm_cool_info_19">
-		<text>Schon mцglich, dass das mit den Blutsaugern an der Zonengrenze stimmt. Aber was hat das mit der Ausdehnung der Zone zu tun? Dann ist halt ein Rudel zur Grenze gezogen, na und? Manchmal mьssen wir tagelang patrouillieren! Und wir machen unsere Arbeit gut. Hinter der Grenze hab ich noch niemanden gehцrt: "Hilfe, wir sind von Mutanten umzingelt!"</text>
+		<text>It's very possible that they're not lying about the bloodsuckers by the border of the Zone. But what does that have to do with the widening of the Zone? Maybe a pack wandered off towards the border, maybe they got through one of our patrols. But we've got things under control. You don't hear about anybody screaming, "Help, we're being surrounded by mutants!" past the perimeter, do you?</text>
 	</string>
-	
 	<string id="dm_cool_info_2">
-		<text>Ja, irgendwie ist es schon traurig. Letztens ist Otter gestorben, einfach so. Ich kann es kaum glauben. Hast du etwa noch nie von Otter gehцrt? Er war quasi ein Professor. Er war von Anfang an hier und kannte die Zone wie seine Westentasche. Und dann so was! Es gibt hier ein paar wirklich erfahrene Stalker, die trotzdem in der Zone umkommen. Andere gehen zurьck ins groЯe Land.</text>
+		<text>Yeah, it's kind of sad, after all. Just the other day Otter died, for absolutely nothing. Just can't believe it... You haven't ever heard about Otter, have you? Well, he was practically an expert - here from the very first year, he knew the Zone like the back of his hand. And then like that, out of the blue! There are some real experienced Stalkers out there, but the Zone still takes them. There are others who end up going back to the Big Land.</text>
 	</string>
-	
 	<string id="dm_cool_info_20">
-		<text>Was glaubst du, kennt der Wirt Einzelheiten ьber das, was die Wissenschaftler da ausgegraben haben? Vielleicht kennt er sich ja sogar damit aus? In letzter Zeit sucht er viele erfahrene Stalker und gibt ihnen seltsame Auftrдge. Er erklдrt nichts, sondern schickt sie einfach zu gefдhrlichen Orten, an denen es nicht einmal Artefakte gibt. Und wonach sucht er bitte?</text>
+		<text>What do you think? Does the Barman know the details about what the scientists dug up? Listen, maybe he even hooked up with them. Seems like lately he finds more experienced Stalkers and gives them strange assignments. Doesn't explain anything, just says, "Go here" and "Go there." And the places are dangerous, with no goodies in sight. What the hell is he looking for there, anyhow?</text>
 	</string>
-	
 	<string id="dm_cool_info_21">
-		<text>Etwas Seltsames geht hier vor. Die Zombies, die sich eigentlich vor Licht gefьrchtet haben, laufen nun ьberall herum. Was zum Teufel ist hier los?</text>
+		<text>Something strange is going on. The zombies that used to be afraid to go into the light are now trudging around all over the place. What the hell's that all about?</text>
 	</string>
-	
 	<string id="dm_cool_info_22">
-		<text>Die Zombies sind aus irgendeinem Grund aggressiver und aktiver geworden. Vorher haben wir sie direkt im Innern des Gebiets bekдmpft, nun kцnnen wir nur noch die Zugдnge halten. Aber das hast du nicht von mir, klar?</text>
+		<text>The zombies became more aggressive and active for some reason. Before, we used to purge them right in the complex itself, but now we can only hold the entrances to the complex. But you didn't hear it from me, understand?</text>
 	</string>
-	
 	<string id="dm_cool_info_23">
-		<text>Nimm dich vor diesen lebenden Leichen in Acht, die ьberall herumstreunen. Sehr dumm und sehr aggressiv. Wir schlagen uns Tag und Nacht mit ihnen herum. Junge, hier ist es echt gefдhrlich.</text>
+		<text>Be careful, 'cause these walking corpses have flooded the whole territory. Dumb as a rock, but aggressive. We're constantly under siege - day and night. It's quite dangerous here.</text>
 	</string>
-	
 	<string id="dm_cool_info_24">
-		<text>Oh, ich wette die Eierkцpfe haben da in ihrem Labor was falsch gemacht. Vorher traf man ja schon hin und wieder einen Zombie, aber jetzt strцmen sie nur so aus dem Komplex. Und sie laufen herum, als hдtten sie irgendetwas verloren, das sie nun suchen.</text>
+		<text>Oooh, I bet the eggheads have really fucked up bad in that lab of theirs! Before, it wasn't very likely for a person to run into a zombie, but now they're just pouring out of the complex. What's weirdest, though, is that they're wandering around as if they lost something and are looking for it. Wonder why...</text>
 	</string>
-	
 	<string id="dm_cool_info_25">
-		<text>Angeblich haben die Wissenschaftler einen von uns dafьr bezahlt, zu dem Labor zu gehen. Sie haben ihm etwas gegeben, so eine Art Schutzgьrtel. Mehr weiЯ ich auch nicht.</text>
+		<text>Rumors are going around that the scientists hired one of ours to go down to the lab. Gave him something... Some sort of protective gear... Nothing else, not even more details.</text>
 	</string>
-	
 	<string id="dm_cool_info_26">
-		<text>Die erzдhlen alles Mцgliche. Sie behaupten sogar, dass ein Durchgeknallter sich von einem Wissenschaftler beschwatzen lieЯ und dann zum Labor gegangen ist. Was fьr ein Unsinn!</text>
+		<text>They blab all sorts of things. They even say that some nutcase turned up who talked with a scientist and agreed to go down to the lab for them for some reason. Now there's some nonsense!</text>
 	</string>
-	
 	<string id="dm_cool_info_27">
-		<text>Hier ist der Witz der Woche: Die Eierkцpfe haben einem von unseren Jungs eine Belohnung dafьr geboten, dass er mit einem Gerдt in das Labor klettert. Und noch ein Opfer, verdammte ScheiЯe!</text>
+		<text>And here's the big joke of the week: The eggheads gave one of your guys a pretty good grant, and so he climbed into the lab with one of their instruments. Another victim, damn it!</text>
 	</string>
-	
 	<string id="dm_cool_info_28">
-		<text>Ich glaube, es brodelt schon wieder. Die Eierkцpfe haben etwas ausgegraben, fьr das sich plцtzlich alle interessieren. Mit anderen Worten: Du und ich, wir werden keine Ruhe mehr haben.</text>
+		<text>I think something's brewing again. The eggheads dug something up that has everyone running around like chickens with their heads cut off... Which means that you and I won't have any peace, either.</text>
 	</string>
-	
 	<string id="dm_cool_info_29">
-		<text>WeiЯ der Teufel. Wir rennen nur doppelt so viel herum. Entweder eine Blockade oder eine Sдuberungsaktion, irgendwas ist immer. Die Truppenstдrke in der Zone wurde ebenfalls erhцht.</text>
+		<text>Who fucking knows. Just started hustling us around twice as much as before - either a blockade, or a purge... And there's a significant increase in troop numbers in the Zone as well.</text>
 	</string>
-	
 	<string id="dm_cool_info_3">
-		<text>Ich weiЯ nur, dass das alles ziemlich traurig ist. Es gab an der Grenze schon immer viele Leute, aber von denen hat sich kaum jemand weit in die Zone getraut. Und es gibt nicht genug Artefakte fьr alle. Sogar aus den Laboren und Fabriken haben sie alles Brauchbare herausgerissen. Bald kann man hier hцchstens noch ein Restaurant erцffnen ... mit toller Aussicht und exotischer Kьche.</text>
+		<text>It's all sad, that much I know. There's always been lots of people on the periphery, but half of them have never been deep into the Zone and there aren't enough artefacts for everyone. They even ripped out the equipment from the labratories and factories. Soon there won't be anything left to do here but open a restaurant... With an exotic view and glowing cuisine, of course.</text>
 	</string>
-	
 	<string id="dm_cool_info_30">
-		<text>Ich weiЯ nicht, was ich dir erzдhlen soll ... Hier passiert stдndig etwas, aber alles in vernьnftigem Rahmen. Im GroЯen Land sehen sie das zwar anders, aber du und ich, wir sind hier quasi in einer Anomalie-Zone.</text>
+		<text>I don't even know what to tell you... There's always something going on here, but within the bounds of reason. Although they don't think so in the Big Land, but you and I are, so to speak, in an anomalous zone now.</text>
 	</string>
-	
 	<string id="dm_cool_info_31">
-		<text>Die Eierkцpfe hecken irgendwas aus. WeiЯ der Teufel, was fьr ein Geheimnis sie da schon wieder ausgegraben haben, aber die Truppen tanzen alle nach ihrer Pfeife. Sie durchsuchen Agroprom und das Dunkle Tal. Sie suchen und suchen und wollen irgendwas finden.</text>
+		<text>The eggheads are sniffing something out. Who the hell knows what secret they've already stumbled upon, but they're certainly got the grunts wrapped around their little finger. And those guys are searching all over the Agroprom and the Dark Valley already, searching, searching, trying to find something...</text>
 	</string>
-	
 	<string id="dm_cool_info_32">
-		<text>Jeden Tag kommt hier mehr Dreck aus dem Schmelzer, und die Wдchter und die Freiheitsfraktion zicken auch wieder rum. Sie erledigen sich also gegenseitig, und dann? Wie lange kцnnen wir die Grenze wohl alleine halten?</text>
+		<text>With every day there's more and more crap coming out of the Scorcher, and the guys from Duty and Freedom are on the rag again. So they'll kill each other off, and then what? How long can we hold the border all by ourselves?</text>
 	</string>
-	
 	<string id="dm_cool_info_33">
-		<text>Die Mutanten versuchen immer entschlossener die Barrikade zu durchbrechen. Es wird langsam wirklich schwierig. Wenn sich gewisse Leute vernьnftig benehmen wьrden, hдtten wir mehr Erfolg!</text>
+		<text>The mutants are trying harder and harder to get past the barrier. Lately it's been really hard. If some people would put an end to their stupidity, we would have more success!</text>
 	</string>
-	
 	<string id="dm_cool_info_34">
-		<text>Die Wдchter geben ьberall mit ihren ach-so-heldenhaften Taten an der Barrikade an. Als ob ihnen jemand glauben wьrde ... Wir haben diese Sache angefangen und wir werden sie auch weiterfьhren. Viele sind sogar freiwillig zurьck geblieben, so wie du. Aber diese Wдchter, diese Arschgeigen ... Zum Teufel mit ihnen!</text>
+		<text>Duty keeps on screaming about their super-heroic deeds on the barrier... If only someone believed them! We started this deal, and we're the ones that keep it going. And on top of that, many of the loners like yourself willingly stayed behind. But those guys from Duty... What a bunch of assholes. To hell with them!</text>
 	</string>
-	
 	<string id="dm_cool_info_35">
-		<text>Ich habe gehцrt, dass die Wдchter sich verkauft haben. Sie quatschen stдndig irgendwas von "Wir sind Freiwillige, die in der Zone fьr Sicherheit und Ordnung sorgen wollen". Klar, Freiwillige! Diese sogenannten Freiwilligen haben sich von irgendeinem Geldgeber mit so viel Munition und Waffen ausstatten lassen, dass man direkt neidisch wird.</text>
+		<text>I heard that Duty has totally sold out. They keep on saying something like, "We're all volunteers who want to establish safety and order in the Zone." Yeah right, volunteers! Some sponsor gave these so-called "volunteers" so much ammo, such weapons, that you'd die from envy. They definitely sold out.</text>
 	</string>
-	
 	<string id="dm_cool_info_36">
-		<text>Was gibt es fьr Gerьchte? Ich sage dir, bald herrscht hier Recht und Ordnung und das ist kein Gerьcht! Wir werden die Zone von allen mцglichen Bestien und gewissen Elementen befreien ...</text>
+		<text>What rumors are going around? I'll tell you without any rumors: soon there'll be more order. We'll purge the Zone of all sorts of beasts, and of certain other assholes, too...</text>
 	</string>
-	
 	<string id="dm_cool_info_37">
-		<text>Hast du gehцrt, was die Wдchter uns angedroht haben? Sie wollen uns "zu Staub zermalmen"! Ich mache mir Sorgen um diese Sache ... Vor allem, weil sie sich angeblich mit den neusten Waffen ausgestattet haben.</text>
+		<text>Did you hear what the guys from Duty are saying they'll do to us? "Turn them to dust" - and that's just the bare minimum. This whole thing worries me... Especially since, people say, they've rearmed themselves with state-of-the-art equipment.</text>
 	</string>
-	
 	<string id="dm_cool_info_38">
-		<text>Neuigkeiten? Wir sitzen hier herum, die Tiere kommen, wir schieЯen sie ab und dann kommen sie wieder. Ja, es stimmt, ein paar Mal kamen Militдrhubschrauber vorbei. Anscheinend fliegen die sogar ьber den Schmelzer.</text>
+		<text>What news? We sit here, the animals come at us, we run them off, then they come again, only stronger. Granted, a few times the military birds came by, and it seems they even flew past the Scorcher.</text>
 	</string>
-	
 	<string id="dm_cool_info_39">
-		<text>Was fьr Neuigkeiten soll es schon geben? Alles beim Alten: Mutanten und Freiheitsfraktion. Allerdings sind letztens ein paar Soldaten mit Hubschraubern herumgeflogen. Sie hдtten ja wenigstens auf ein paar Bestien schieЯen kцnnen, aber nein ...</text>
+		<text>What news can there be? Same shit, different day. Mutants, Freedom... Although recently soldiers started flying by in helos. At least they could have shot up some beasts once. But nooo, none of that...</text>
 	</string>
-	
 	<string id="dm_cool_info_4">
-		<text>Neuigkeiten? Wen interessiert's? Man darf nicht glauben, was die Leute erzдhlen. Angeblich hat ein erfahrener Stalker etwas aus den inneren Gebieten mitgebracht, das vorher noch jemand gesehen hat. Waren alle mдchtig beeindruckt ... Alter, solche Geschichten kann ich mir auch ausdenken!</text>
+		<text>News? Who cares what they say! You can't believe everything everyone says. For example, they say that some experienced Stalker came from the inner areas, brought something nobody's ever seen before, impressed a ton of chicks... Well, I can make up a hundred stories like that myself!</text>
 	</string>
-	
 	<string id="dm_cool_info_40">
-		<text>Ich habe ein paar Militдrhubschrauber gesehen. Stell dir das vor: Sie sind auf dem Kopf in Richtung Schmelzer geflogen! Ich dachte natьrlich, dass sie gleich abstьrzen, aber nein - sie sind einfach weiter geflogen. Sie kreisten eine Weile und flogen zurьck. Typisch, oder?</text>
+		<text>I saw some military birds: imagine this, they flew overhead and headed past the Brain Scorcher! Well, I'm thinking, "They're gonna crash any second now." But nothing - they just keep on going. Hung out there for a while, twirled around, and then headed back. Typical, only in the sense that it is totally unlikely, right?</text>
 	</string>
-	
 	<string id="dm_cool_info_41">
-		<text>Jetzt, da es einen Weg in das Zentrum gibt ... Dort mьssen einem die Schдtze doch zu FьЯen liegen!</text>
+		<text>Now that there's a way to the center, there must be piles of treasure lying right under your feet!</text>
 	</string>
-	
 	<string id="dm_cool_info_42">
-		<text>Nun, da man auf relativ sicheren Wegen in das Zentrum kommen kann, werden die Stalker davon angezogen, wie Motten vom Licht. Habgier ist nicht gerade die beste menschliche Eigenschaft.</text>
+		<text>Now that there are ways of getting to the center of the Zone relatively safely, Stalkers are drawn to it like flies to shit. Yeah... Greed really isn't humanity's greatest quality.</text>
 	</string>
-	
 	<string id="dm_cool_info_43">
-		<text>Das nenne ich Leben! Wдhrend alle von der Bar und der Grenze noch auf dem Weg hierher sind, kцnnen wir uns selbst bedienen! Wir sammeln und das Beste zusammen und lassen denen nur die Reste.</text>
+		<text>Now THIS is the life! While everyone from the Bar and the perimeter are still trying to get here, we'll get all the best stuff! We'll gather all the best goodies, and let the others pick up our scraps.</text>
 	</string>
-	
 	<string id="dm_cool_info_44">
-		<text>Tja, angeblich existiert er ja wirklich, der Wunschgцnner. Jemand ist schon bis zu ihm vorgedrungen und hat sich eine Menge Sachen gewьnscht.</text>
+		<text>Well, they say that it actually exists - the Granter of Wishes. Somebody even managed to get to it already, and wished for a whole ton more wishes...</text>
 	</string>
-	
 	<string id="dm_cool_info_45">
-		<text>Hцr zu, Kumpel, ich weiЯ, dass in der Zone alles Mцgliche passieren kann. Ich habe schon vieles gesehen. Aber diese Geschichten, dass einem sofort jeder Wunsch nach einem Privathotel in der Karibik erfьllt wьrde, sind doch nichts als PferdescheiЯe.</text>
+		<text>Listen, buddy, I know that anything can happen in the Zone. Saw it myself. But these stories about the immediate granting of wishes, about a private resort in the Caribbean - it's complete bullshit and nothing else.</text>
 	</string>
-	
 	<string id="dm_cool_info_46">
-		<text>WeiЯt du das nicht? Zwei von euren Jungs, sie waren unter den ersten, die jemals das Zentrum der Zone erreicht haben, sind bis zum Wunschgцnner gekommen und haben sich etwas gewьnscht! Sie hatten immer von einer tropischen Insel getrдumt, also liegen sie jetzt sicher irgendwo am Strand.</text>
+		<text>Don't you know? Two of our guys - some of the very first who made it to the center - actually got to the Granter of Wishes and wished! Their whole life they dreamed about islands in a warm sea, so now they're prob'ly catching some rays somewhere in the tropics.</text>
 	</string>
-	
 	<string id="dm_cool_info_47">
-		<text>Wir haben einen Helden gefunden: den Kopf der Freiheitsfraktion. Jeder dachte, er wдre in das GroЯe Land zurьck gegangen, aber in Wirklichkeit hat er sich mit einem kleinen Team bis zum Schmelzer durchgeschlagen. Was fьr ein Kerl!</text>
+		<text>We found a hero - the main guy from Freedom. Everyone thought that he went back to the Big Land, but actually he took a small team and somehow made it past the Scorcher. Now THAT's a real man!</text>
 	</string>
-	
 	<string id="dm_cool_info_48">
-		<text>In der vorher unpassierbaren Zone wurde eine Freiheitstruppe gefunden. Wie konnten sie unverletzt bis dorthin vordringen und dann auch noch einige Wochen ьberleben? Unvorstellbar! Anscheinend haben wir diese Jungs unterschдtzt.</text>
+		<text>One of the Freedom detachments was spotted in a formerly inaccessible part of the Zone. How did they manage to get through unharmed, much less survive a few weeks there? Can't even imagine. Guess we underestimated these guys...</text>
 	</string>
-	
 	<string id="dm_cool_info_49">
-		<text>Stell dir mal vor, sie haben unseren Mikljucha gefunden! Und seine Jungs leben auch noch. Sie sind am Hirnschmelzer vorbeigeschlichen und mussten sich dann einen Monat die Zeit vertreiben, weil sie nicht mehr heraus kamen.</text>
+		<text>Imagine this - they found our Mikluha! And the guys that were with him also survived. They snuck past the Brain Scorcher, and then spent a month just killing time. Couldn't get back out.</text>
 	</string>
-	
 	<string id="dm_cool_info_5">
-		<text>Da braut sich etwas Unangenehmes zusammen. Angeblich hat der Anfьhrer der Wдchter nicht nur einfach die Zone aus geschдftlichen Grьnden verlassen, sondern auch mit der Freiheitsfraktion einen Handel abgeschlossen. Den Deal hдtten sie auch цffentlich aushandeln kцnnen, wenn an der Sache nicht was faul wдre. Es sieht nicht gut aus. Andererseits sagen die erfahrenen Jungs, dass sie plцtzlich zurьckgeschlagen haben. Ich hoffe nur, dass die Paragrafenreiter aus dem GroЯen Land uns nicht alle vor die Hunde gehen lassen.</text>
+		<text>There's something fishy brewing. Rumors are going around that the leader of the Duty faction, the head honcho, didn't just leave the Zone on business, but made a deal with the Freedom faction. Well, they could have made the same deal in the open, because now everything's a muddle. Things don't look good. On the other hand, the experienced guys say that they started fighting back in the day for no good reason in the first place. Just hope the government freaks from the Big Land don't drag us all into another meat grinder.</text>
 	</string>
-	
 	<string id="dm_cool_info_50">
-		<text>Hast du gehцrt? Die Truppen machen sich sofort bereit! Sie sind bald hier! Sie haben erfahren, dass der Schmelzer kaputt ist und wollen alle wertvollen Sachen mitnehmen!</text>
+		<text>You heard? The troops will be here soon! They found out that the Scorcher broke down, and decided to take all the goods for themselves!</text>
 	</string>
-	
 	<string id="dm_cool_info_51">
-		<text>Es gibt Neuigkeiten: Am Kraftwerk wird es eine gewaltige Truppenlandung geben. Ich gebe dir einen Rat: Wenn du irgendwas von dem wertvollen Kram haben willst, beeil dich.</text>
+		<text>New info has just come in: there's going to be a massive-scale landing of Army troops at the station. My advice for you is this: if you want to snag at least a few of the goodies, hurry!</text>
 	</string>
-	
 	<string id="dm_cool_info_52">
-		<text>Das ist ein totales Chaos! Siehst du, der Korridor wurde geцffnet und das Kraftwerk von allem Getier befreit. Und wer nutzt das zu seinem Vorteil? Das Militдr! Die haben auch kein Gewissen.</text>
+		<text>It's complete chaos, that's what it is! But you see, the corridor has opened, they purged the station of all kinds of shit - and there you have it. The military is ready to take advantage of it! No shame and no conscience. Typical.</text>
 	</string>
-	
 	<string id="dm_cool_info_53">
-		<text>Eines verstehe ich nicht: Wie konnten die Jungs von der Freiheitsfraktion hier einen Monat lang durchhalten? Haben die Tarnkappen, oder so? Unglaublich!</text>
+		<text>I don't get one thing: How could the members of the Freedom faction hold out for a month here? Do they have invisibility cloaks or something? There's no fucking way!</text>
 	</string>
-	
 	<string id="dm_cool_info_54">
-		<text>Verstehst du, was hier drin abgeht? Tja, dieser Mikljucha ist in meinem Ansehen ordentlich gestiegen! Der hat vier Wochen in diesem Drecksloch ьberlebt und dabei keinen einzigen seiner Jungs verloren!</text>
+		<text>Do you understand what's going on here? Well, I just gained new respect for Mikluha! Imagine - to survive four weeks in this shit, and to not lose any of your guys, either!</text>
 	</string>
-	
 	<string id="dm_cool_info_55">
-		<text>Hier sind einige verrьckt geworden. Wenn man bedenkt, dass das alles mal echt harte Typen waren, und jetzt sabbern sie herum wie Zurьckgebliebene. Erschreckend.</text>
+		<text>Some of them went crazy here. And to think, they all used to be pretty tough guys, but now are complete slack-jawed retards. Scary.</text>
 	</string>
-	
 	<string id="dm_cool_info_56">
-		<text>Je nдher du dem Kraftwerk kommst, desto grцЯer wird die unbekannte telepathische Kraft. Einige sind verrьckt geworden, andere stehen unter Schock oder sehen seltsame Sachen. Das ist vielleicht ein guter Zeitpunkt, sich etwas zurьckzuziehen ...</text>
+		<text>The closer you get to the station, the stronger the unknown telepathic force becomes. Some have started going insane, others are traumatized and are seeing things. Maybe this is a good time to retreat a bit...</text>
 	</string>
-	
 	<string id="dm_cool_info_57">
-		<text>Hцr mal, die Leute verlieren hier wirklich den Verstand. Jemand sieht einen Stein und behauptet, es wдre sein Artefakt, er hдtte es zuerst gesehen und dass alle nach Sьden gehen sollen. Ein anderer sieht Djah in den Wolken mit seinen verschollenen Kameraden ... Hier passieren echt kranke Dinge.</text>
+		<text>Listen, people here are really losing their minds. Somebody sees a stone and starts hollering that it's his damned artefact, that he saw it first, and that everyone else should go south. Another one sees Dja on a cloud embracing his buddies who disappeared years ago... No, there's definitely some sick shit going on here.</text>
 	</string>
-	
 	<string id="dm_cool_info_6">
-		<text>Die Truppen rennen hier ьberall herum - suchen und graben. Vorher sind die Hubschrauber nur bis Jantar geflogen, um die Wissenschaftler zu beschьtzen und mit Nachschub zu versorgen. Mittlerweile ist es eine echte Invasion. Sie planen Expeditionen, fahren in Transportpanzern herum ... Sogar bei Agroprom und im Dunklen Tal wurden sie gesehen. Ich verstehe es nicht.</text>
+		<text>The grunts are bustling about - searching, digging. Before, the helos used to fly only to Yantar - protected the scientists, carried supplies and technology. But now they're practically invading - planning all sorts of expeditions, driving around in APCs. Already saw them at the Agroprom and in Dark Valley. Don't understand it.</text>
 	</string>
-	
 	<string id="dm_cool_info_7">
-		<text>Angeblich hat schon wieder jemand versucht, am Schmelzer vorbei zu kommen. Tja, er ist offensichtlich niemals zurьckgekehrt. Du hast noch nie vom Hirnschmelzer gehцrt? Was bist du denn fьr einer? Das ist das gefдhrlichste Ding in der ganzen Gegend! Fast alles, was man sich ьber ihn erzдhlt, ist wahr!</text>
+		<text>They say that someone tried to get through the Scorcher again. Well, obviously he never came back... You never heard of the Brain Scorcher? What's wrong with you, man? It's the biggest danger in this whole area! Only problem is that all the horrors they say about it are mostly true.</text>
 	</string>
-	
 	<string id="dm_cool_info_8">
-		<text>Hier streifen jetzt auЯer den Banditen auch noch die Truppen herum. Frьher hast du alle hundert Jahre mal einen Hubschrauber gesehen, aber nun fliegen sie in der ganzen Zone herum. Haben die etwas verloren, oder was?</text>
+		<text>Here, besides the bandits, the troops started roaming around for some reason. Before you'd see a helicopter once in a hundred years, but now they're practically flying around the whole Zone. Did they lose something, or what?</text>
 	</string>
-	
 	<string id="dm_cool_info_9">
-		<text>Ich warne dich, Stalker. Die Soldaten scheinen in letzter Zeit verrьckt geworden zu sein. Frьher haben sie einfach nur die Wissenschaftler beschьtzt, aber nun rennen sie herum, wie von der Tarantel gestochen. Die sind nicht gerade in der friedlichsten Laune und haben schon mehr als einmal auf deinen Bruder geschossen. Sogar unter unseren Leuten gibt es zwei Verletzte.</text>
+		<text>I want to warn you, Stalker... The soldiers here lately seem to have lost it. Before, they used to calmly and quietly protect the scientists, but now it's as if their tail got burned or something: dashing around, bustling... Not in the most peaceful mood, either - shot at your boy more than once already, and even among us they've wounded two men in the last week alone.</text>
 	</string>
-	
 	<string id="dm_help_thanks_1">
-		<text>Vielen Dank.</text>
+		<text>Thank you very much.</text>
 	</string>
-	
 	<string id="dm_intro_0">
-		<text>Was tust du da? Lдufst du ohne Schutz herum? Bist du lebensmьde? Hier lauert hinter jeder Ecke eine Anomalie. Zack, und weg bist du! Selbst zum Pissen trдgt hier jeder seinen Schutzanzug, sonst fдngt man sich gleich die Strahlung ein.</text>
+		<text>What are you doing, walking around without any protection? Tired of living, is that it? There's an anomaly behind every bush - zap, and you're a goner! Here you don't even dare to piss without protection, or you'll get a dose of radiation right away.</text>
 	</string>
-	
 	<string id="dm_intro_1">
-		<text>Anscheinend kennst du dich noch nicht gut aus, also gebe ich dir einen guten Rat: Halte dich vom Militдr fern! Wenn du einen Soldaten entdeckst, mach, dass du weg kommst. Die Jungs haben kein bisschen Hirn. Immer nach der Devise: Erst schieЯen, dann fragen.</text>
+		<text>Seems like you don't know your way around well yet, so I'll warn you, as a friend: have nothing to do with the military. Once you spot a soldier, get the hell out of there 'cause they have no brains. First they'll put a bullet or ten into you, and then check your wallet to find out your name.</text>
 	</string>
-	
 	<string id="dm_intro_10">
-		<text>Hier haben die Wдchter das Sagen. Unsere geliebten Ordnungshьter, irgendwie so was ... Merk dir das, dann vermeidest du Дrger.</text>
+		<text>Here, the Duty guys rule. "Our dear beloved police force," or something like that. Keep that in mind to avoid trouble.</text>
 	</string>
-	
 	<string id="dm_intro_100">
-		<text>Hallo.</text>
+		<text>Good day.</text>
 	</string>
-	
 	<string id="dm_intro_101">
-		<text>Guten Tag.</text>
+		<text>What's up?</text>
 	</string>
-	
 	<string id="dm_intro_102">
-		<text>Sei gesund!</text>
+		<text>I wish you well.</text>
 	</string>
-	
 	<string id="dm_intro_103">
-		<text>GrьЯ dich, Alter!</text>
+		<text>Hey, dude!</text>
 	</string>
-	
 	<string id="dm_intro_104">
 		<text>Hey.</text>
 	</string>
-	
 	<string id="dm_intro_105">
-		<text>Oh, hi!</text>
+		<text>Oh, hey!</text>
 	</string>
-	
 	<string id="dm_intro_106">
-		<text>Guten Tag.</text>
+		<text>Hello.</text>
 	</string>
-	
 	<string id="dm_intro_107">
-		<text>Ich grьЯe dich!</text>
+		<text>Greetings!</text>
 	</string>
-	
 	<string id="dm_intro_108">
-		<text>Guten Tag, Stalker.</text>
+		<text>Hello, Stalker.</text>
 	</string>
-	
 	<string id="dm_intro_109">
-		<text>Ich grьЯe dich, Stalker.</text>
+		<text>Greetings, Stalker.</text>
 	</string>
-	
 	<string id="dm_intro_11">
-		<text>Du befindest dich in einem Gebiet, in dem die Wдchter Ordnung halten. Mach alles, was die Patrouille verlangt, ohne Fragen zu stellen. Zur Not wird dir spдter alles erklдrt. Die Verhaltensregeln sind hier aber ganz einfach: Begegne jedem mit der gebotenen Hцflichkeit, dann ist alles in Ordnung.</text>
+		<text>You're located in an area where order is maintained by the Duty group. Every demand of the patrol must be carried out without any resistance; all the necessary explanations will be given if the need arises. The code of behavior here is simple: treat everyone with common courtesy, and all will be well.</text>
 	</string>
-	
 	<string id="dm_intro_110">
-		<text>Hey du, Stalker!</text>
+		<text>Hey, you, Stalker!</text>
 	</string>
-	
 	<string id="dm_intro_111">
-		<text>Hallo.</text>
+		<text>Hello.</text>
 	</string>
-	
 	<string id="dm_intro_112">
-		<text>Boh ey! Wen haben wir denn hier?</text>
+		<text>Well, who have we got here?</text>
 	</string>
-	
 	<string id="dm_intro_113">
-		<text>Und wen haben wir hier?</text>
+		<text>And who is this we have here?</text>
 	</string>
-	
 	<string id="dm_intro_114">
-		<text>Hello, Men.</text>
+		<text>Hey, man...</text>
 	</string>
-	
+	<string id="dm_intro_120">
+		<text>I did here recently. But already tired of my local obstanovochka. Get out harder than climbing</text>
+	</string>
+	<string id="dm_intro_121">
+		<text>Well dear man! Also hiding? Everything is hidden - who is from a past life, who by himself wants to escape.</text>
+	</string>
+	<string id="dm_intro_122">
+		<text>You know about the clear sky clan? Conspiring with secret agents. Only fragments of radio transmissions are heard about them, and even other Stalkers tell different stories.</text>
+	</string>
+	<string id="dm_intro_123">
+		<text>There appeared here recently a group called the Avengers. It is unclear what the clan targets. I've seen many people in my life, and learned to understand, but these men are natural killers. Professionals in one word.</text>
+	</string>
 	<string id="dm_intro_12">
-		<text>Nerv mich nicht mit deinen Fragen, geh damit in die Bar! Da haben sie Antworten und Fragen fьr dich. Ich hab keine Zeit fьr den Mist.</text>
+		<text>If you have questions, then head straight for the Bar and don't bother me. They'll tell you all about it there, and answer your questions, and ask their own. But I'm tight on time.</text>
 	</string>
-	
 	<string id="dm_intro_13">
-		<text>Bist du das erste Mal hier? Ich schlage vor, du gehst in die Bar. Da erfдhrst du immer alle Neuigkeiten.</text>
+		<text>First time here? Then I suggest you go to the Bar: there your colleagues will tell you all the latest news.</text>
 	</string>
-	
 	<string id="dm_intro_14">
-		<text>Komm den Untoten und dem Labor am besten nicht zu nah, verstanden?</text>
+		<text>Try not to get too close to zombies, and don't go to the lab, got it?</text>
 	</string>
-	
 	<string id="dm_intro_15">
-		<text>Ich empfehle dir, dich vom Labor fernzuhalten. Da gibt es zu viele Untoten.</text>
+		<text>I don't recommend you to get near the lab. Too many zombies.</text>
 	</string>
-	
 	<string id="dm_intro_16">
-		<text>Hey, hцr zu. Bleib bloЯ vom Laborkomplex weg.</text>
+		<text>You know, I would suggest that you keep your distance from the laboratory complex.</text>
 	</string>
-	
 	<string id="dm_intro_17">
-		<text>Achte auf Zombies. Sie sind dumm und haben vor nichts Angst. Und geh besser nicht in die Nдhe des Labors, da muss ihr Laichplatz sein oder ihre Brutstдtte oder so ...</text>
+		<text>Watch out for zombies - they're dumb, aren't afraid of anything. And better not go to the lab - they have their breeding grounds there, or something...</text>
 	</string>
-	
 	<string id="dm_intro_18">
-		<text>Denk dran, dass der Hirnschmelzer ganz in der Nдhe ist. Denk nicht einmal daran, nach Norden zu gehen.</text>
+		<text>Keep in mind that the Brain Scorcher is close. Don't even think about heading north.</text>
 	</string>
-	
 	<string id="dm_intro_19">
-		<text>Pass auf: Wenn dir dein Hirn wichtig ist, dann geh nicht weiter nach Norden!</text>
+		<text>Watch out - if you don't want to lose your brains, don't go any further north from here.</text>
 	</string>
-	
 	<string id="dm_intro_2">
-		<text>Sei vorsichtig, wenn du ьber die Brьcke gehst, verstanden? Dort sind zu viele streunende Hunde. Wenn du nicht aufpasst, zerreiЯen sie dich auf der Stelle.</text>
+		<text>Be careful when you get past the bridge, got it? There are packs of wandering dogs there. If you don't pay attention, they'll tear your ass apart in no time.</text>
 	</string>
-	
 	<string id="dm_intro_20">
-		<text>Pass auf dich auf! Du weiЯt, dass der Schmelzer ganz in der Nдhe ist. Wenn du weiter nach Norden gehst, bist du bald ein toter Narr.</text>
+		<text>Look out for yourself! You know that the Scorcher is very close; if you go north, you'll be another dead dumbass.</text>
 	</string>
-	
 	<string id="dm_intro_21">
-		<text>Es ist, als ob man durch ein Minenfeld geht - nur schlimmer. WeiЯ der Teufel, was hier vor sich geht. Man kann sich keine Sekunde entspannen.</text>
+		<text>It's as if we're walking through a minefield, only worse. Who knows what goes on in here? Can't relax even for a second.</text>
 	</string>
-	
 	<string id="dm_intro_22">
-		<text>Ich rate dir: Sei immer auf der Hut. Du darfst keine Sekunde unaufmerksam sein, sonst bist du sofort erledigt. Der Tod hat dich auf der Stelle.</text>
+		<text>I suggest you heighten your attention, and once you heighten it, keep it alert and don't relax. The minute you relax, you're a goner - the Reaper will get you on the spot.</text>
 	</string>
-	
 	<string id="dm_intro_23">
-		<text>Hier musst du immer die Augen offen halten! Selbst im Schlaf! Hier kann dir stдndig irgendwas passieren.</text>
+		<text>Here you have to be on your toes all the time! Sleep with one eye open! Shit can happen to you any minute here.</text>
 	</string>
-	
 	<string id="dm_intro_24">
-		<text>Achte auf die Penner! Es gibt hier so viele davon, fast wie Kakerlaken!</text>
+		<text>Be careful with the dickheads! They're like cockroaches here, tons of them!</text>
 	</string>
-	
 	<string id="dm_intro_25">
-		<text>Erledige diese so genannten Monolither so schnell wie mцglich! Das sind echt gefдhrliche Fanatiker!</text>
+		<text>Destroy the so-called "Monolithians" as soon as you see them. They're very dangerous - real fanatics!</text>
 	</string>
-	
 	<string id="dm_intro_26">
-		<text>Es gibt hier ein paar Verrьckte, die sich die Monolith-Fraktion nennen ... Vielleicht werden sie auch nur von allen anderen so genannt, egal. Sie haben keine Angst vor Schmerzen. Wenn ihnen die Munition ausgeht, fallen sie dich mit bloЯen Zдhnen an. Wenn dir also einer ьber den Weg lдuft: nicht nachdenken, schieЯen!</text>
+		<text>There are some retards here, they call themselves Monoliths... Or someone else started calling them that - well, don't matter. Basically, they're not afraid of pain. If they run out of rounds, they jump on you themselves and literally try to gnaw through your throat. So, if you see one, don't think twice about it and blow his ass away!</text>
 	</string>
-	
 	<string id="dm_intro_3">
-		<text>Hцr zu, wenn du einen Tunnel findest, geh nicht hinein. Ich sag's dir lieber vorher. Manche sind dumm genug, in Schwierigkeiten zu kommen. Wenn du da hinein gehst, kцnnen sie dich spдter von den Wдnden kratzen. Das gehцrt schon zur Zone, verstanden?</text>
+		<text>Listen up. If you see a tunnel, don't go in. I'm telling it to you straight, 'cause not everyone has the brains not to get themselves into shit. They won't even be able to carry you out afterwards - they'll have to scrape you off the walls. That's the Zone, understand?</text>
 	</string>
-	
 	<string id="dm_intro_4">
-		<text>Warum hast du nichts mehr? Bist du auch diesen Verrьckten unter der Brьcke in die Arme gelaufen? Diese Dreckskerle! Die hдtten mich fast erledigt. Ich musste ihnen fast alles geben, was ich hatte! Und sie sitzen herum und patrouillieren. Diese Truppen an den Posten sind doch genau so schlimm wie die Banditen.</text>
+		<text>Why's your pack so light? Did you also run into the freaks under the bridge? Those motherfuckers! They almost killed me just now. Had to give them almost all of my goods! And they're sitting around, patrolling. Bandits, these grunts at the checkpoints, makes no difference.</text>
 	</string>
-	
 	<string id="dm_intro_5">
-		<text>Warum lдufst du ganz alleine herum? Hier rennen genug Glatzkцpfe herum, die dich jederzeit erledigen kцnnen! Vor kurzem sind sie total durchgedreht, sie greifen sogar die Sicherheitsposten an!</text>
+		<text>Why are you going all alone? There are lots of razorheads here, can catch you at any moment! Lately, I heard, they completely lost it - now they're even attacking the security checkpoints!</text>
 	</string>
-	
 	<string id="dm_intro_6">
-		<text>Nur fьr den Fall, dass du nicht auf dem Laufenden bist: In letzter Zeit treiben sich hier Banditen rum. Das war schon die zweite SchieЯerei in dieser Woche. Sei vorsichtig und wachsam. Sechs Solitдrstalker haben sie schon um die Ecke gebracht.</text>
+		<text>I'm warning you if you're not up-to-date: lately the bandits have been moving around in here. This is already the second shoot-out with them in just a week. Be careful and watch out - they've already sent six loners to the pearly gates.</text>
 	</string>
-	
 	<string id="dm_intro_7">
-		<text>Du hast nicht zufдllig gehцrt, was die Truppen im Forschungsinstitut gesucht haben?</text>
+		<text>Did you by any chance hear what the troops needed in the Research Institute wing? Why have they become so active?</text>
 	</string>
-	
 	<string id="dm_intro_8">
-		<text>Du musst hier vorsichtiger sein. Die Aasgeier haben sich im Hauptgebдude verschanzt. Die sind wie rдudige Hunde, ohne Gewissen oder Gnade. Sie wьrden jeden tцten!</text>
+		<text>You better be more careful here. The bad guys are hiding out in the main building. In a word, they are jackals - no conscience, no mercy... They would have killed everyone off.</text>
 	</string>
-	
 	<string id="dm_intro_9">
-		<text>Du solltest nicht alleine in das Dunkle Tal gehen. In einem der Gebдude hier ist ein kuscheliges Banditenversteck, aber ich kann sie noch nicht ausrдuchern. Pass auf, dass du ihnen nicht ьber den Weg lдufst.</text>
+		<text>You shouldn't go into the Dark Valley alone. There's a nice tight bandit nest there in one of the buildings - still can't smoke them out of there. Be careful not to run into them, man.</text>
 	</string>
-	
 	<string id="dm_intro_help_1">
-		<text>Bruder, hilf mir!</text>
+		<text>Help, friend!</text>
 	</string>
-	
 	<string id="dm_intro_help_10">
-		<text>Kann mir jemand helfen?</text>
+		<text>Somebody help!</text>
 	</string>
-	
 	<string id="dm_intro_help_11">
-		<text>Wachen! Ich bin verletzt! Hierher!</text>
+		<text>Guards! I'm wounded! Come here!</text>
 	</string>
-	
 	<string id="dm_intro_help_12">
-		<text>Hilfe! Ich sterbe!</text>
+		<text>Help! I'm dying!</text>
 	</string>
 	<string id="dm_intro_help_13">
-		<text>Ombre... Ein Medikit... Ich sterbe... Hilf mir!</text>
+		<text>Mate... Kit... Dying... Help!</text>
 	</string>
 	<string id="dm_intro_help_14">
-		<text>Stalker... gib mir ein Medikit... ich sterbe... Hilf mir - und ich helfe dir...</text>
+		<text>Stalker... Please spare me a medkit... I'm dying... Help me - and I'll help you...</text>
 	</string>
 	<string id="dm_intro_help_15">
-		<text>Stalker... gib mir ein Medikit... ich sterbe... Hilf mir - und ich helfe dir...</text>
+		<text>Stalker... Please spare me a medkit... I'm dying... Help me - and I'll help you...</text>
 	</string>
 	<string id="dm_intro_help_16">
-		<text>Stalker... gib mir ein Medikit... ich sterbe... Hilf mir - und ich helfe dir...</text>
+		<text>Stalker... Please spare me a medkit... I'm dying... Help me - and I'll help you...</text>
 	</string>
 	<string id="dm_intro_help_17">
-		<text>Stalker... gib mir ein Medikit... ich sterbe... Hilf mir - und ich helfe dir...</text>
+		<text>Stalker... Please spare me a medkit... I'm dying... Help me - and I'll help you...</text>
 	</string>
 	<string id="dm_intro_help_18">
-		<text>Stalker... gib mir ein Medikit... ich sterbe... Hilf mir - und ich helfe dir...</text>
+		<text>Stalker... Please spare me a medkit... I'm dying... Help me - and I'll help you...</text>
 	</string>
 	<string id="dm_intro_help_2">
-		<text>Jungs, das Medikit!</text>
+		<text>Guys, bring the medkit!</text>
 	</string>
-	
 	<string id="dm_intro_help_3">
-		<text>Holt das Medikit!</text>
+		<text>Bring the medkit!</text>
 	</string>
-	
 	<string id="dm_intro_help_4">
-		<text>"Antischock", Jungs! Schnell!</text>
+		<text>Anti-shock, guys! Hurry!</text>
 	</string>
-	
 	<string id="dm_intro_help_5">
-		<text>Das Medikit, schnell!</text>
+		<text>The medkit, guys. Come on!!!</text>
 	</string>
-	
 	<string id="dm_intro_help_6">
-		<text>Gib mir mal jemand das Medikit!</text>
+		<text>Somebody, please give me a medkit!!!</text>
 	</string>
-	
 	<string id="dm_intro_help_7">
-		<text>Freund, das Medikit ... Medikit!</text>
+		<text>Friend, the medkit...the Kit!!!</text>
 	</string>
-	
 	<string id="dm_intro_help_8">
-		<text>Hilfe, Alter!</text>
+		<text>Help me, dude!!!</text>
 	</string>
-	
 	<string id="dm_intro_help_9">
-		<text>Hey, Kamerad, hast du ein Medikit ьber?</text>
+		<text>Hey friend, can you share your medkit with me?</text>
+	</string>
+	<string id="dm_action_info_128">
+		<text>Eh, your mother... I have terminated Vezuha. It is So much time passed to me in all things, and here together for all a life to ask became. You think, I in this rotted through hole at the will was secured? Yes I have in the Zone all types was! Both a place warm, and earnings mum do not be sad. Only all has terminated, and friends on a feather to plant me have wanted - here and it was necessary to do legs there where will not find. For what on a feather? And it, I to you shall tell, any more yours care.</text>
+	</string>
+	<string id="dm_action_info_129">
+		<text>Simple. I went back into the road not to brow... staid, you know, this, very much so. He was a prize for my head and appointed. And wishing him hog has a lot! That's why I moved here, away from human eyes. Wait, when everything settles, but there myself to this type nagryanu. I'll have to talk about the previous cases...</text>
+	</string>
+	<string id="dm_action_info_130">
+		<text>I am in the "Clear Skies" accidentally hit. They dragged me to the guys out of the quagmire in time. Brought to the base, listening Lebedeva, I think - this is a smart guy! He knows about the Zone are things that do not every brain can comprehend. And the purpose in "Heaven" is correct. Here I am in him and joined, is now helping the extent of their modest possibilities.</text>
+	</string>
+	<string id="dm_action_info_131">
+		<text>Experience I am typed, the finance I save. As I shall grow rich, the purchase to itself a trunk and the reservation more abruptly, and ragged to the center of the Zone where Executor Zhelany is. There, speak, already someone managed to be passed. Here and I shall go. As I shall find, so with desire I shall not lose, be well!!!</text>
+	</string>
+	<string id="dm_action_info_132">
+		<text>Have heard plenty of stories and tales from everyone, here and has brought hard through the Cordon. From that side all at all it was in another way drawn. And as has got here so all has flown. It is possible to die here any minute, and important to drag not and it is simple. But that most of all me kills, so it that is not present here anywhere silent and quiet seats. Even to sleep it is necessary watchfully...</text>
+	</string>
+	<string id="dm_action_info_133">
+		<text>The zone has bewitched me. Has got here incidentally, as if on an illegal excursion... And, you know, has hooked on me! People here the presents - both enemies, and friends. And this danger, sensation of close death - it, you want you do not want, forces itself alive to feel and enjoy each minute of this life.</text>
+	</string>
+	<string id="dm_action_info_134">
+		<text>The friend I'm waiting for should return with help. We have missed each other with it there. To me has simply carried, that I have left earlier. Not, be gone it could not: it you know, what pretzel? Not, with such nothing can happen. Now should return, I know. Well it is not enough there that: can, has around gone or in the Bar has gone on a spree with friend what...</text>
+	</string>
+	<string id="dm_action_info_135">
+		<text>Someone has sold me a card. I start so to suspect, that false. clambered I here all with it - and a horse-radish! Is not present here any nychki with swag. Well, I shall find - I shall kill a reptile!</text>
+	</string>
+	<string id="dm_action_info_136">
+		<text>I have a rest after last spot-check. Went almost up to the Barrier - we there defense against everyone evil spirits from the center of the Zone. Good children have gathered. Sanya Shaggy, L?ha  the Buddy, Maldy  - all guys sincere. And I still and Khabar good Nadybal. Here, has alloyed to the dealer and has decided to take rest here a little. Here everything, easier, than in the big Zone.</text>
+	</string>
+	<string id="dm_action_info_137">
+		<text>All is equal that on a mine field we go, only is even worse. Here features knows that from time to time is created, for a second to relax it is impossible.</text>
+	</string>
+	<string id="dm_action_info_138">
+		<text>And what? That to hear you want? I to you here that shall tell: "Dolgarev", certainly, Police, but the order to guide are able, what yes, yes. And so I at all do not love them. Everywhere they type owners do not take, it from the Zone do not bear... Besides, have already thought up, that it is possible to speak on Continent, and that-! Stir, they in general wish to destroy the Zone gradually. Well, to fighters though and was, I am not surprised... Dreamers. Worse that at them, speak, support with to top goes.</text>
+	</string>
+	<string id="dm_action_info_139">
+		<text>And what? That to hear you want? I to you here that shall tell: "Dolgarev", certainly, Police, but the order to guide are able, what yes, yes. And so I at all do not love them. Everywhere they type owners do not take, it from the Zone do not bear... Besides, have already thought up, that it is possible to speak on Continent, and that-! Stir, they in general wish to destroy the Zone gradually. Well, to fighters though and was, I am not surprised... Dreamers. Worse that at them, speak, support with to top goes.</text>
+	</string>
+	<string id="dm_action_info_140">
+		<text>Has heard, "Duty" in harmonous numbers has declared a set? I so minute have thought, and have then solved: It is necessary to me, again in a day on a belt? Discipline... I two and so has served, have sufficed...</text>
+	</string>
+	<string id="dm_action_info_141">
+		<text>Recently cleaned out a zone "Yantar". Yes, have fairly crumbled mother's a tribe! There research laboratories, only Zombies around all time is a lot of. On a regular basis on help of Scientists to be wound it is necessary.</text>
+	</string>
+	<string id="dm_action_info_142">
+		<text>You know, what? Here let "Dolgovtsy" with "svobodovtsami" yes marauders solve, whose is a piece, and to me business are not present! It Has gone all...</text>
+	</string>
+	<string id="dm_action_info_143">
+		<text>I prus from our cheerful science! I Figeyu from it am simple, the muzhik! It it is usual from the bunker of a nose not seems. Well and if seems, here is how recently was, so here such begins - my mummies! Fighters full, revolving objects, armoured vehicles!! It would be still class, that they here a Battleship have secured, well or there an armored train, at the worst.</text>
+	</string>
+	<string id="dm_action_info_144">
+		<text>Be cautious, and that these walking corpses have flooded all to district. Are very stupid and aggressive. We all time are in defense - and at night, and in the afternoon. So here it is dangerous enough, the young man.</text>
+	</string>
+	<string id="dm_action_info_145">
+		<text>And you have heard, that "Dolzhanov" with us to make boast? To erase in a powder is on a minimum. If it is fair, disturbs me this business...</text>
+	</string>
+	<string id="dm_action_info_146">
+		<text>New... Whether a little that speak! To all to trust - any verilki will not suffice. Here, speak, has come any skilled Stalker such, that start up - I shall be pulled out, has brought from internal areas something in general unprecedented, a heap of grand-mothers zashib... Yes I to you can think up such hundred histories!!!</text>
 	</string>
 	<string id="dm_action_info_101">
-		<text>Mann, diese Monolither, die verdammten... Die sind ganz verrьckt geworden. Es gab mal die Zeit, da waren die noch friedlich... Ich kann mich noch erinnern, da hab ich einen getroffen, der fing dann seine Predigt an, so nach der Art: "Brьder, der Monolith rief mich heut Nacht zu sich. Ich sprach mit ihm. In seiner GrцЯe war er wunderschцn. Ich wurde fast blind, aber sein Licht erfьllte mich mit Kraft! Ich weiЯ es, ich fьhle es, seine Stдrke ist mit uns! Er sagte mir, das nur der Glaube das Bцse besiegen kann. Er sagte, das seine Stдrke nur die Glдubigen erreicht. Er offenbarte mir, das unser Sieg schon nah ist". Ich meinte dann: "Hau bloЯ ab mit deinen Monolith-Geschichten!". Da rastete er aus, schrie rum: "Es kommt die Zeit, da werden wir die Zone von den Unglдubigen befreien!", und sowas. Hat wohl nicht gelogen - nun sind die ganz aus dem Hдuschen, kommen scharenweise aus Richtung AKW, schieЯen auf alles und jeden, voll behдmmert!</text>
+		<text>Fuck those Monolith... They turned completely crazy, there was a time when they were quite peaceful... I remember once I've met one of them, he started telling their usual rubbish about the Monolith, he said something like 'Brothers, the Monolith has summoned me last night. I talked to Him. He was beatiful in His magnificence. His light has nearly blinded me, but it filled me with great power! I know, I feel that His power is among us! He told me that only strong faith can defeat the forces of evil. He also said that His power will be only with His true followers. He told me that our victory is close', I replied to that guy: 'Go away with your Monolith!'. He became very angry and shouted: 'The time will come when we will clean the Zone of all untrue!' and stuff like that. Looks like he wasn't telling lies then - the followers of Monolith are coming in crowds from CNPP, shooting everyone, fucking weirdos!</text>
 	</string>
-	
 	<string id="dm_action_info_102">
-		<text>Hast du Feuer? Du rauchst nicht? Mann, ich hab heute kein Glьck...</text>
+		<text>Got any matches? Ah, you don't smoke. Why am I so unlucky today?</text>
 	</string>
-	
 	<string id="dm_action_info_103">
-		<text>Du bist noch ein junger Stalker, also wenn du mal im PDA die Meldung siehst, dass Semetzky gestorben ist - lass dich nicht ablenken. Das ist eine der Legenden der Zone. Man sagt, das Semetzky einer derjenigen ist, die es schafften bis zum Monolith durchzudringen. Und was hat er sich gewьnscht? Richtig, Unsterblichkeit. Nun wandert er durch die Zone und stirbt immer wieder. Manche haben ihn sogar gesehen, kann aber auch eine Lьge sein. Tja, die Zone ist voll mit Geheimnissen und Rдtseln... Ich hoffe, ich gehe dir nicht auf den Geist mit meinen Geschichten? Na gut, gehe in Frieden. Ich wьnsch dir gute Beute.</text>
+		<text>Young Stalker, if you see a message about Semetsky's death on your PDA - don't worry about it, it's one of the Zone's legends. You will get that message many times. People say that Semetsky was one of those few who got to the Monolith. And what did he ask for? Immortality, of course. So now he wanders around the Zone, dying and coming back to life. Some Stalkers say that they've seen him, but they could be lying. The Zone is full of secrets and mysteries... You're not bored with my stories, right? Well, go with peace. May you have good loot.</text>
 	</string>
-	
 	<string id="dm_action_info_104">
-		<text>Ich hab mal eine Anekdote fьr dich... Drei Stalker haben eine Wette abgeschlossen - wer mehr Leute aus der Stalker-Bar verjagt, der ist der Coolste. Der Erste greift sich eine PKM, rein in die Bar: \n - Alle raus hi9er, aber dali!!! - Die Hдlfte der Leute lief weg, so um die zehn Stalker blieben da. Haben ihm dermaЯen fertig gemacht, das er auf allen vieren rauskroch. Einen Tag spдter hat der Zweite irgendwas "gezaubert", hat sich als Mutant verkleidet und rein in die Bar. Die Besucher waren so schnell weg - man kцnnte gar nicht so schnell sehen. Ein Wдchter-Quad blieb da, haben ihn so fertig gemacht, das er nur noch nach Mama rief. Ha ja, noch ein Tag spдter geht der Dritte einfach in die Bar rein und fangt schon von der Tuerschwelle an zu husten: \n - Khhrr-khhhe-ghha-hhhghr-khe-khe-rotz! Mann, verdammte Syphilis!</text>
+		<text>Okay, here's a joke. Three Stalkers had an argument about who is the coolest. They've decided that the person who could get the most people out of the bar is the coolest one. The first one grabbed a massive machinegun, got into the bar, shouted:\n - Everyone get out of here!!! - half of the people have disappeared, about ten Stalkers remained there and they've beaten that guy up. The next day the second Stalker has dressed up like a mutant and walked into the bar. Some people have escaped through the windows, others through the door, only a squad of Duty soldiers was left - well, they taught him how to behave. The next day the third Stalker just walked into the bar, coughed and said \n - Kgh-hrm-kgh, pfff! Shit, damn that syphilis!</text>
 	</string>
-	
 	<string id="dm_action_info_105">
-		<text>Es gibt da eine Zonen-Geschichte, man erzдhlt, das es lange her ist, noch bevor ich hierher kam. Also... Ein Auslдnder wollte mal Stalker werden, er war wohl ein Gelehrter und bisschen verdienen wollte er auch. Wer weiЯ, was er hier genau wollte, nur russisch konnte er kaum verstehen... Ist sowieso unklar, wie er in die Zone und zum Wirt gelangte.  Irgendwer in der "AuЯenwelt" hat ihm geraten sich an den Wirt zu wenden. Na und, wie gesagt, verstand er kaum russisch, war aber vom Gegenteil uberzeugt... Und dann ging er dem Wirt ein paar Stunden auf den Geist, mit seinem gebrochenen Russisch... Entweder wollte er jemanden finden, oder wollte irgendwo hin.... Kurzgesagt, hat der Wirt nichts verstanden davon, was der Kerl labberte, und entschied, ihn zu der "Freiheit" zu schicken: geh mal dahin und dahin, dieses Territorium da kontrollieren die "Freiheit"-Kдmpfer, die erklдren dir alles. Damals dachte man noch, das die "Freiheitler" gut im Englisch sind... Und diesem auslдndischen "Wunderknaben" gefiel aus allem, was ihm der Wirt erzдhlte, ausgerechnet das Wort "Kontrolle", klingt ja im englischen genau so. Als er bei der "Freiheit" ankam, fing er sofort an alle zu nerven, und plapperte immer wieder was mit "Kontrolle". Wedelte mit den Hдnden Richtung Wдchter-Gebiet und wiederholte immer wieder "Kontrolle", "Kontrolle". Man erzдhlt, das die "Freiheitler" so aufgescheucht waren, das sie den ganzen Lager weckten - die Sache lief nachts ab - und bis zum Sonnenaufgang auf den Wachtьrme saЯen und nach Telepathen Ausschau hielten. Den Kerl haben sie spдter rausgeschmissen, bei den Wдchtern hat man ihn auch nicht mehr gesehen. Ich glaube nicht, das er in der Zone das fand, was er suchte....</text>
+		<text>Well, there is a story, although they say that this happened a long time ago, before I got here. So... Once, a foreigner has decided to become a Stalker, earn some money,I think he was a scientist... No one knows what he really needed here, but he spoke nearly no Russian at all... Actually, it's not even known how he got into the Zone and got to Barman. Looks like somoene has told him about that beforehand. So, he spoke no Russian, although he though he did... He started to annoy Barman in bad Russian... He spent several hours with him. Maybe he needed to get somewhere, or maybe find somebody, I don't know... So, Barman didn't understand anything and decided to send him to the Freedom territory and told him: 'go there and there, that area is controlled by the Freedom soldiers, they will tell you everything you need', for some reason it was believed that Freedom members were good at English. That foreigner has liked Barman's word 'control', they say it's the same in English, I don't know if it's true. And, when the guy got to the Freedom base he started to annoy everybody, repeating 'Control, Controlled, Controller', waving his hands towards the Duty base. They say that Freedomers got scared, woke up the whole camp - it was at nigh, so they kept watch till morning. Afterwards the guy got kicked out of Freedom territory, no one saw him in the Bar either. Looks like he didn't find what he was seeking in the Zone...</text>
 	</string>
-	
 	<string id="dm_action_info_106">
-		<text>Mittlerweile sind viele Stalker zu "Mьllmдnner" geworden. Frьher hat man auf den Halden nichts gesucht. Die Strahlung ist so hoch - da rollen sich dir die Zehnдgel ein... Aber jetzt, wo die Beute nicht mehr ьppig ist - Schutzanzug, sich man eben mit Chemie vollgestopft - und krabbeln da rum, suchen Zeug. Da kann man auf alles mцgliche stoЯen, meist aber Kleinigkeiten.</text>
+		<text>Nowadays many people have turned into 'ashmen'. Before no one had looked in the big piles in Garbage - the radiation is so high it can boil your balls. But now, when it's harder to find artefacts, they get into protective suits, take some medicine and go searching. There are many different things in those piles, but generally not very good.</text>
 	</string>
-	
 	<string id="dm_action_info_107">
-		<text>Die Neulinge haben in letzter Zeit total den Verstand verloren. Tappen in die Anomalien, und sterben, sterben, sterben... In den letzten zwei Tage, stell dir das vor, sind fьnf junge Stalker verschwunden. Wдren die nur ein wenig vorsichtiger! Aber nein... "Fliege" holte sich vor kurzem drei solche Hohlkцpfe in die Gruppe - wo sind die jetzt? Und er - immer mit Beute, ist gut aufgestiegen. Vielleicht hat er sie selbst umgelegt? Ich glaub's zwar nicht... er ist schon in Ordnung... relativ. Na ja, so wie ich es sehe, bis du auch noch nicht lange hier, also sei auf der Hut. Viel Glьck.</text>
+		<text>The rookies are really annoying these days. They get into anomalies and die one after another... Can you believe it, five young Stalkers hqave died in last two days! And others don't learn anything from their example! Nothing. You know, Fly has taken three rookies into his squad - nad where are thy now? But he has found some really good artefacts lately. Maybe he shot them himself? No, probably not... he's honest... relatively. Anyway, I see you're a new Stalker as well, so keep your eyes wide open. Good luck.</text>
 	</string>
-	
 	<string id="dm_action_info_108">
-		<text>Kennst du die Geschichten von diesen supergeheimen Laboren tief in der Zone? Die funktionieren noch, sag ich dir... Was soll's ... Wie schafft es ьberhaupt jemand, da drauЯen zu ьberleben? Keine Nahrung, keine Energie ... Die Frage ist also: Was ist, wenn das nicht mal Menschen sind, die da arbeiten? Ich hab mit mal mit einem Kerl geredet. Hat die Labors nicht selbst gesehen ... Nicht mit eigenen Augen, aber er hat komisches Gerede aus Jantar aufgeschnappt. Sie haben ьber ein Labor geredet. Da sagte der eine zu dem anderen, er habe dort jemanden gesehen. Soll einen Anzug getragen haben wie die von Stalkern, nur aufgerьstet. Und diese Gestalt war halb durchsichtig, und sagte ihm, er soll sich verpissen, sie arbeiten da oder was in der Art. Hat ihm eine scheiЯ Angst eingejagt, das sag ich dir! Ich mein, hast du so was schon mal gesehen? Andererseits ist das nicht weit weg vom Roten Wald passiert ... Du weiЯt schon, was ich meine ... Genau, ist also vermutlich nicht wahr. Aber ... Mutationen kцnnen die merkwьrdigsten Formen annehmen, stimmt's? Vielleicht sind das keine Menschen mehr, sondern irgendwelche Energiewesen. Kann doch sein, oder?</text>
+		<text>Have you heard of secret laboratories deep in the Zone...? People say they still function... Yes, yes... I can't understand how anyone could survive there... without food or energy... Here's an interesting question - maybe it's not people that work there? I had an interesting chat with some guy the other day... He didn't see those laboratories himself... No, he didn't, but his PDA has recieved some strange messages at Yantar. They were about one of those laboratories. One guy was telling the other, swearing, that he has met a person in a costume that looked like Stalkers' costume, but different... And that person was transparant, and told him to get out of there. "Don't disturb us, go away, we are working here". Well, the guy got really scared... of course! If I saw something like that... On the other hand, the Stalker that told me about that said that it happened somewhere close to the Radar... So it doesn't seem to be truth... But you know... Mutations could be different and weird, right? Maybe those are not people but some kind of phantoms made of pure energy. What do you think?</text>
 	</string>
-	
 	<string id="dm_action_info_109">
-		<text>Man erzдhlt, in der Arena kдmpfen jetzt auch ein paar Speznaz-Stiernacken... Wьrd ich gern den Stalker sehen, der es drauf hat mit ihnen aufzunehmen.</text>
+		<text>I heard that a couple of spetsnaz fighters were invited to Arena... I want to see a brave idiot, who'd want to have a battle with them.</text>
 	</string>
-	
 	<string id="dm_action_info_110">
-		<text>Rennt ein Rudel Tuschkanos durch die Gegend. Da stellt sich ihnen ein Stalker in den Weg: "Hat einer von euch es drauf?", fragt er. "Nein...". "Dann kriege ich von jeder Ratte ein Artefakt und ihr kцnnt weiter". Am nдchsten Tag wiederholt sich das Ganze. Die Tuschkanos beschlieЯen einen Blinden Hund zu Hilfe zu rufen. Rennen also wieder... Stalker kommt um die Ecke und stoppt sie wieder: "Habt ihr es drauf?". Die Ratten machen Platz und der Blinder Hund tritt vor. "Ich bin cool, ich hab's drauf...". Stalker macht ein Schritt zu Seite und ein Telepath kommt um die Ecke: "Also! Alle, die es drauf haben, geben mir zehn Artefakte, der Rest jeweils einen! Und weiter geht's!!!"</text>
+		<text>A squad of rats is running. A Stalker comes out in front of them, asking 'Are there any cool ones among you? 'No.' 'Then everyone should give me an artefact and you can keep running'. The next day it's all the same! So the rats decided to call a Blind Dog for help. So, they're running. That Stalker comes out, stops the squad and asks: 'Are there any cool ones among you?'. The rats let the Blind Dog come out and it says. 'Well, I'm cool.' The Stalker goes away and a Controller comes out: 'So, the cool one should give me ten artefacts, all the rest need to give me one each and you can keep running!'</text>
 	</string>
-	
 	<string id="dm_action_info_111">
-		<text>Hey, hast du schon von der "Abwehr" gehцrt? Das sollen echte Profis sein, Spitzenkrдfte! Du hдttet mal sehen sollen, wie die ihren Job erledigen, was die alles drauf haben! Nicht zu vergleichen mit den alten Sдcken im Kordon! Nicht nur, dass sie ohne mit der Wimper zu zucken in jedes Hцllenloch gehen, sie bleiben auch monatelang in der Zone! Bei Gott! Sie haben dort mehrere Stьtzpunkte und ein paar nette Verstecke, und sie werden per Hubschrauber mit Nahrung versorgt. Ihr Kommandant ist so ein Typ namens Gromow ... Ist wohl nicht sein echter Name. Sie nennen ihn auch "Major" oder "Grom". Du glaubst mir nicht?!  Pachomitsch hat sie mal gefilmt! Er hat sie kurz gefilmt und ist dann gleich abgehauen, er wollte sich keine Bleivergiftung einfangen, wenn du versteht ... Alles streng geheim. Du kennst doch Pachomitsch, oder? Er kann's bezeugen! Die Jungs gibt es wirklich. Eliteeinheiten. Wer weiЯ, was die wirklich hier zu suchen haben. Und die Beute, die sie machen! Wenn ich nur ein Drittel davon bekommen wьrde, nein, zehn Prozent wьrden auch schon reichen! Dann hдtte ich jetzt schon eine Villa in Sotschi und wьrde es mir gut gehen lassen ... Angeblich haben die so einen Apparat, mit dem man Monster schon auf 180 Meter Entfernung entdecken kann. Jede gottverdammte Kreatur! Wenn ich so ein Teil hдtte, kцnnte ich ьberall in der Zone beruhigt picknicken ... Und weiЯt du, was man noch so erzдhlt? Da gibt es diese anderen Kerle, keine Soldaten, sondern eher wie Stalker ... Auf jeden Fall sollen ein paar von ihnen schon zum Zentrum der Zone vorgedrungen sein. Nicht nur, dass sie unbeschadet dort hin gelangt sind, angeblich haben sie auch gelernt, die Bestien zu zдhmen! Sie ьberschreiten nie die Grenze, und niemand begibt sich zu ihnen ... auЯer vielleicht denjenigen, die dazu berufen sind, den Sarkophag zu erreichen. Und sie haben auch etliche Artefakte! Die Wдchter wissen Bescheid ... diese Schleimer ... Sie wissen von ihnen und bekдmpfen sie, aber sie verlieren kein Wort darьber! Wenn man einen von ihnen drauf anspricht, hцrt man nur "Unsinn!" Mistkerle, nicht wahr?</text>
+		<text>Hey, mate, have you ever heard of the 'Interception'? People say those are army special forces! But have yous seen them at work!? They aren't like those morons in Cordon! Not only they go into very remote parts but also spend months in the Zone! And that's not even a joke! They've got several bases around the ZOne, many secret places and they get their supplies via a helicopter. Their commander is some guy called Gromov... I don't think that's his real surname - they call him either 'Major' or 'Grom'-'Thunder'. You don't believe me, do you? Pahomych once met the 'Interception'! His legs saved him that time, otherwise they would've killed him... 'Cause it's all secret! Everyone knows Pahomych! Those people aren't rubbish, they are a serious team. Hell knows what they need here, but they work fucking good! If I had a third of their attitude - no, just ten percent! - I'd already have a big house in Sochi... People say those guys have some device... which detects mutant two hundred metres away. Any creature! Of course, with that thing they can walk around the Zone as though it is a park... Oh, I've also heard of some people... No, not soldiers, one of our guys... Well, they got to the center of the Zone. Not only they did that - people say they can tame creatures! They never go out of the perimeter, to the Outer Land - and no one comes to them... well, except for those who are chosen to get to the Sarcophagus... They've got lots of artefacts! Duty members know about them... they, know, but keep quiet, bastards! And if you ask any of them they'd say 'That's not true'. Aren't they bitches!?</text>
 	</string>
-	
 	<string id="dm_action_info_112">
-		<text>Ich hatte richtig Pech gehabt, hab mein Rucksack mit der ganzen Beute verloren. Einfach so! Dachte schon, ich werd richtig was verdienen und kann nach Hause zurьck, und dann sowas: springt mich nachts ein Blindhund aus einem Gebьsch an. Ich hab mir fast in die Hosen geschissen vor Angst, dachte schon - das war ein Pseudohund. Da warf ich den Rucksack zu Boden und hab ein Sprint hingelegt! Ich dachte, der rennt mir hinterher, aber was macht dieses Vieh? - Schnappt sich den Rucksack und zerrt es ins Gebusch... So ein Dreck! Jetzt muss ich ein neues Ausflug in die Zone machen. Willst du vielleicht mit mir gehen? Nein? Na dann, mach's gut.</text>
+		<text>I had a very unlucky incident happening to me - I've lost my rucksack with loot. Just like that! I thought I'd have a lot of money, but then this unlucky thing happened: at night a blind dog has jumped out of the bushes and started growling at me. I nearly wet myself, that's how scared I was, at first I even thought it was a pseudodog because normally you can hear when the blind ones approach, but pseudos are silent. And I dropped my rucksack and ran away! I thought that that thing will chase me but it grabbed the rucksack and went to other direction, bitch! Now I'm going for a new expedition. By the way, do you want to go with me? No? Fine then, see you later.</text>
 	</string>
-	
 	<string id="dm_action_info_113">
-		<text>Ich habe gehцrt, das die Telepathen wдhrend der Eruption voll benebelt sind und zu nichts fдhig. Die kann man dann mit nackten Hдnden erledigen...</text>
+		<text>I heard that controllers are really weak during blowouts and they can't do anything, so you can kill them easily...</text>
 	</string>
-	
 	<string id="dm_action_info_114">
-		<text>Zieh dir das mal rein: Sitzen eines abends Stalker in der Bar, zischen ein Bierchen, erzдhlen Stalker-Geschichten... Sagt der eine:\n - Ich hab vor paar Tagen so-o-o einen Monster getroffen, hab die ganze Munition verballert, nur eine Granate hat geholfen. Alle so - OOOOH! Sagt der andere: \n - Und ich hab gestern SO-O-O-O einen Monster in der Zone getroffen, ganze Munition verbraucht, Granaten halfen nicht, konnte nur mit Flammenwerfer den erledigen. Alle wieder - OOOOH!! Der dritte dann: \n Und mich hat heute SO-O-O-O-O-O ein Monster in der Zone bemerkt..... Alle sofort: "Und waaas?" Der Stalker dann ganz nьchtern: "Was... was.. Die Hose musste ich lange auswaschen...".</text>
+		<text>Here's a joke, a bit stupid but I find it funny. Three Stalkers are sitting in a pub, drinking beer, telling each other Stalker stories...The first one goes:\n - 'I met this massive mutant in the Zone, wasted all my bullets on it but finally got it with a grenade launcher'. Everyone goes - 'WOW'! The second one says:\n - 'And yesterday I saw an enormous creature in the Zone, wasted all my ammo on it, grenades didn't get it but finally I killed with a flamethrower'. Everybody goes - 'WOW'! The third one starts:\n- 'I've spotted a great mutant in the Zone...' Everyone: 'And'... the Stalker continued: 'And I spent a long time cleaning my trousers!'</text>
 	</string>
-	
 	<string id="dm_action_info_115">
-		<text>Hast du schon von dem "Fьhrer" gehцrt? Der allererste Stalker. Ging als erster in die Zone und ist immer noch am Leben. Man sagt, der fьhrt dich ьberall hin. Da gibt's nur ein Problem - ihn zu finden. Der hдngt ja seine "Adresse" nicht auf jeden Baum oder Mast auf... Und er nimmt auch nicht jeden mit. Und das Geld, was er nimmt, hat auch nicht jeder, aber wenn du ihm gefunden hast und man sich einig wird - da kannst du sicher sein, er bringt dich an jeden Punkt der Zone. Дchh, ich wьrde so gern mal mit ihm reden... Er hat bestimmt schon mal gesehen, was hinter dem Radar so ablдuft...</text>
+		<text>Have you heard of the Guide? He's one of the oldest Stalkers here. People say he was the first to get into the Zone and he's still alive. They say he can take you to any place here. But it's hard to find him - he doesn't stick adverts up on trees... And he doesn't agree to work with everyone. Takes a lot of money, but if you found him and he agreed to help you be sure - he will take you wherever you need to get. That's who I want to talk to. He probably knows what's there after the Radar...</text>
 	</string>
-	
 	<string id="dm_action_info_116">
-		<text>Ich erzдhle dir mal was. In diesem Teil der Zone kannst du fast nicht mehr schlafen ... Zum Glьck kann ich eh nicht schlafen, aber die Albtrдume, die die Leute hier haben ... Manchmal wachen sie morgens nicht mehr auf. Einige erleiden einen Herzanfall. Einige fahren aus der Haut, andere drehen vцllig durch ... Aber Gerьchten zufolge soll es tatsдchlich ein Heilmittel geben. Wenn du wirklich dringend schlafen musst, dann such dir einen alten Eimer ... ein groЯer Topf tut's auch ... ein Kessel oder sowas, solange keine Lцcher drin sind. Du ziehst ihn dir ьber den Kopf und hast eine ruhige Nacht. Du kannst gerne lachen, aber wir sprechen uns in ein paar Tagen, wenn du vor Erschцpfung fast tot umfдllst. Idioten ... Warum rennen jetzt wohl die ganzen Soldaten mit diesen protzigen Helmen rum, hд? Zwei Jahre lang hat man sie nicht mehr gesehen und nun sieht man sie ьberall! Und die Schutzhelme sind neu. Jemand hat die Leiche von so einem Soldaten gefunden, da konnte man es sehen: Im Helm ist ein Netz aus Kupferdraht. Was zum Teufel hat das da drin zu suchen? Merk dir meine Worte, irgendwas ist verdammt faul an der Sache. In Bezug auf Anomalien ist der Ort hier nutzlos, es ist einfach nicht die Gegend dafьr, andere Gegenden wiederum sind sicherer und bieten viel mehr Beute ... Ich tippe darauf, dass sie diese Gegend untersuchen. Sieh markieren das Gebiet fьr ihre Basis. Sie wollen bestimmt zum Sarkophag vordringen, sage ich. Und wenn es so weit ist, sollten wir uns so weit wie mцglich von ihnen fernhalten ...</text>
+		<text>You know what? You shouldn't sleep in this part of the Zone... I'm lucky, I can't fall asleep anyway... but other people have nightmares so terrible they sometimes don't even wake up in the morning... 'cause they have a heart attack during their sleep... Some die, others become crazy... But there is a rumor that there is a solution to that. If you really want to sleep, find a bucket... or at least a big pan... But it has to be unbroken, without any holes... Put it on your head and sleep like a log... Hey, you can laugh but it will be me making fun of you in a couple of days when you go mad of tiredness. You think you're smart? Then tell me, why the hell do the soldiers wear those helmets? Yes, now you start to understand something! Before, about a year or two ago they didn't, but look at them nowadays! They've got really strange helmets - guys have found a body of a soldier with one on the other day, they told me. In that helmet there was something like a net inside, made of thin copper wire, connected to the inside of helmet. And no one knows what that thing's for and why it is there. But I tell you, this buzzing has something to do with that all. It's definitely not anomalies - there aren't many of those here, in other places there are lots more... I think they are finding their ways. Preparing everything. Remember my words, they want to get to the Sarcophagus. Soon there will be a big bang - nobody will like it. Remember my words... I just hope I won't be nearby when this all happens...</text>
 	</string>
-	
 	<string id="dm_action_info_117">
-		<text>Hast du schon das Neuste gehцrt? Gestern, im Nachbarslager, gab's ein schreckliches Massaker, die Sцldner haben da gearbeitet, das war ihre Handschrift - alle erstochen. Derjenige, der das Lager bewachte, ist wohl eingeschlafen, und die Bastarde schnitten ihm die Kehle durch, und schlachteten dann alle Schlafenden ab. Keiner von uns hat hat Schьsse gehцrt, nichts...</text>
+		<text>Have you heard the news? Yesterday there was a big slaughter in a camp nearby, mercs' job - they killed everyone, the watchman fell asleep and they've slit his throat and then got all his sleeping friends. None of them even had time to shoot...</text>
 	</string>
-	
 	<string id="dm_action_info_118">
-		<text>Hab ich dir schon ьber den Schwarzen Stalker erzдhlt? Hier gibt es so eine Legende, man sagt das in der Zone ein seltsamer Stalker aufgetaucht ist. Keiner weiЯt, wer der ist, was er macht, wovon er lebt. Er trдgt immer eine schwarzem Mantel mit Kapuze, so das man sein Gesicht nie zu sehen ist. Und ьberhaupt, ihn haben eigentlich auch nur ein paar Leute gesehen, nur aus der Ferne. Die erzдhlen das man eine unbeschreibliche Angst bekommt, wen man ihn anschaut, sogar die Mutanten machen einen Bogen um ihn. Tja, wer ist es wohl? Die einen sagen - das ist eine neue Mutantenart, die anderen - ein Geist, und die dritten - das es die Geschichten betrunkener Stalkern sind und er gar nicht existiert. Wer weiss... So lange ich ihn nicht selber sehe...</text>
+		<text>Did I tell you about the Dark Stalker? Okay, there's a legend about this Dark Stalker in the Zone and nobody knows where he comes from and what's his business here. The legend says he wears a long black coat with a hood on so you can't see his face and nobody has ever seen him with a gun. To be frank only a couple of people have seen him and from far away only, and they say he have them terrible creeps, even mutants ran away from him. Who is he? Some people say he is a new mutant, others believe him to be a ghost and some people think he was just made up by drunk Stalkers. Hell knows... I wouldn't believe in him before I see him myself.</text>
 	</string>
-	
 	<string id="dm_cool_info_58">
-		<text>Ein Telepathen-Witz. Ein erfahrener Telepath belehrt einen Jьngling: - Siehst du, da-a-a hinten, schiebt ein Soldat Wache? Koppel straffgezogen, Uniform neu, Stiefel glдnzen - das ist ein "Geist". Den kannst schon von hier aus unter die Kontrolle nehmen, aber der bringt nichts - kann nicht schieЯen, hat immer Angst, kein Fleisch dran, nur Haut und Knochen.  Und siehst du den Soldaten, der da steht und raucht? Uniform abgegriffen, Stiefel staubig und abgelatscht. Solche nennt man "Schцpfkelle". Nicht die beste Beute - schwer zu kontrollieren, schieЯt gut, immer auf der Hut, zwar viel Fleisch dran, aber sehr zдh. Den musst du dir nachts schnappen, wenn er einnickt. Und siehst du den da, der im Schatten unter dem Baum schlaft? Koppel locker, Hemd aufgeknцpft, barfuss... Das ist ein "Alter". Vieel Fleisch, schцn fettig, aber du kommst an ihn nicht ran, der schlaft nachts nicht und kann dich mit bloЯen Hдnden erwьrgen. Den musst du schnappen, wenn er ins Dorf geht, um sich Selbstgebranntes zu holen, oder in die Zone Artefakte suchen. Und da kommt grad einer - Koppel straff, Uniform neu, Stiefel glдnzen, aber wehe du verwechselst den mit einem "Geist"! Ich war mal so blцd und hab mir so einen geschnappt - ich hab dann zwei Wochen lang mein Nest mit einer Zahnbьrste geputzt und schafft es gerade so abzuhauen - der nennt sich "Herr Feldwebel".</text>
+		<text>Listen to this joke about a controller. An old controller teaches the young one: 'Do you see that soldier on the post? His belt is tightened, his uniform is new, shoes shiny - he's called 'Spirit'. You can take control of him even from here, but there is no use - he can't shoot properly, scared of everything, he's got no muscles. Now look at the guy standing next to him, smoking. His uniform is worn, his shoes aren't new - he's called 'Scoop'. He's hard to take control of, he shoots well, always alert and he's got a lot of meat, sinewy though. You can take him at night, if he falls asleep. Now do you see that guy sleeping under a bush, without a belt and barefeet? That's 'Oldman'. He's got much meat full of fat but it's hard to get to him, he doesn't sleep at night and can kill you without any weapon. You need to get him when he goes into the village for vodka or goes for some artefacts into the Zone. And it's the last one - do you see that soldier, with a tight belt, shiny shoes? No, don't you dare take him for 'Spirit'. I once got one of them and after that I spent two weeks cleaning my lair, hardly ran away from him - he's called 'Sirsergeantmajor'.</text>
 	</string>
-	
 	<string id="dm_cool_info_59">
-		<text>Gestern hat man mir in der Bar ein neues Witz erzaehlt... Kommt ein Stalker zum Sidorowitsch. Und der meint dann so:\n - Hцr mal, Stalker. Ich hab hier aus einem Kiewer Forschungsinstitut einen neuen Schutzanzug bekommen, soll hundertprozentig gegen Strahlung schьtzen. Nur hat es noch keiner getestet. Lauf doch damit paar Tage in der Zone rum, teste mal ein wenig. Und ich gebe dir dafьr spдter Rabatt, wenn du ьberlebst. Stalker nahm das Angebot an. Ging in die Zone, blieb einen Tag weg, und zwei und drei...  Kommt dann am vierten Tag wieder, wьtend wie ein Schnork, und wirft den Anzug, ohne ein Wort zu sagen, Sidorowitsch auf den Tisch!!! Der staunt: \n - Was ist los, Stalker? Schьtzt der nicht? \n - Doch, schon! \n - Nicht hundertprozentig? \n - Hundertprozentig!! \n - Und was ist dann dein Problem? \n - Die ganze Zone sдuft, von frьh bis abends, Wodka gegen Strahlung - NUR ICH, DER DEPP, BIN SCHON VIER TAGE NЬCHTERN!!!</text>
+		<text>I've been told a new joke in the bar. A Stalker comes to Sidorovich, and Sidorovich says:\n'Listen, Stalker. I recieved a costume with full radiation protection from a secret Institute in Kiev. But nobody has tested it yet. Put it on and go into the Zone, try it out. And if you survive I will give you a discount for it'... And the Stalker agreed. He went into the Zone and did not return for a day, then two days, then three... On the fourth day he returns, angry as a snork and throws the costume on Sidorovich's table!!! Sidorovich got surprised:\n 'What's wrong, Stalker? Does it not protect?\n-'It does!'\n-'Not completely?'\n-'Completely!!'\n-'So why are you so angry?'\n-'Everyone in the Zone drinks vodka to heal radiation in the morning - ONLY I WALK AROUND SOBER FOR THE FOURTH DAY LIKE A FOOL!!!'</text>
 	</string>
-	
 	<string id="dm_cool_info_60">
-		<text>Hab mal vor paar Tagen gesehen wie die Monolither die Gegend in der Nдhe des Hirnschmelzers "gesдubert" haben - so um 30 Mann, schlachteten alles ab, was sich bewegte: Wildschweine, Fleisch's, sogar Hunden haben die immer wider einen Tritt verpasst... Na ja, ich hab mich dann schnellstens verpisst... Keine Lust eine Bleiladung in den Hintern zu kriegen.</text>
+		<text>A few days ago I've seen Monolith members clearing up the area near the Scorcher - there were about thirty of them, shootin everything that moved: fleshes, boars, even dogs... And I... you know, got away from there, just in case... Don't want my arse to be filled with bullets.</text>
 	</string>
-	
 	<string id="dm_cool_info_61">
-		<text>Willst du eine Anekdote? Eine "Niva" rast Richtung Zone, so um 120 kmh... Ein Verkehrsmilizist sieht das, und ran an die Trillerpfeife! "Niva" bremst abrupt, es steigt ein ganzes "Wдchter"-Quad aus, gibt dem Milizisten ein Tracht Prьgel, stecken ihm die Trillerpfeife in den Arsch und fahren weiter. Der Verkehrs-Heini holt das Funkgerдt raus: \n - "Sieben-Drei" an "Sieben-Zwei"! \n - Ja, "Sieben-Zwei hцrt"! \n - Senja! In deine Richtung rast irgendein Idiot, auf's Pfeifen hat er nicht reagiert! Du musst die Keule nehmen, hцrst du! Stopp den mit der Keule! Verstanden, "Siebei-Zwei"?...</text>
+		<text>Do you want a joke? A 'Niva' goes on a motorway towards the Zone, about 120 kilometers per hour. The policeman at the post whistles, 'Niva' stops and a quad of 'Duty' soldiers gets out of it. They've beaten up the police guy, shoved his whistle up his arse and continued driving. The guy took his walkie-talkie\n-'Seven two-seven three!\n- Seven-two!\n- Senya! Some idiots are going in your direction and they don't respond to whistle! Try stopping them with a rod! Have you understood, seven-two...?</text>
 	</string>
-	
 	<string id="dm_cool_info_62">
-		<text>Hey, Mann, hast du schon was ьber "Phantom" gehцrt? Nein? Ich erzдhl dir was, das wirst du nicht glauben... Man sagt, es gab in der Zone einen Stalker, wie er richtig hieЯ - weiЯt keiner. Alle nannten ihn "Phantom". Er war ein erfahrener Stalker und ein guter Kerl, verstand die Menschen und diese verstanden ihn. Es wurde erzдhlt, das er frьher Psychologe war oder sowas, aber unwichtig... Die Geschichte an sich sieht so als: er konnte ьberall durchschlьpfen, keine Blockposten, keine Anomalien waren fьr ihn ein Hindernis. Er machte Gдnge in die tiefe Zone und verschwand eines Tages, wahrscheinlich erwischte ihn eine Eruption oder sonst was... Da wurde er zu einer Art Poltergeist, wandert durch die Zone und sucht nach Stalkern, wenn er einen findet - blickt er in seine Seele. Wenn du reines Geistes bist - hilft er dir, zeigt dir ein gutes Versteck oder leistet dir Hilfe gegen Mutanten. Und wenn du, Bruder, eine Menge Sьnden mit sich trдgst - so gnade dir Gott - er reiЯt dich in Stьcke. So, das ist meine Gute-Nacht-Geschichte fьr dich....</text>
+		<text>Hey man, have heard you of Phantom? No? I'm gonna tell you about him then, you're not going to believe me. People say there was a Stalker, no one knew his real name so everyone called him Phantom. He was an experienced Stalker and had a good personality, understood people and people understood him, some people say he studied as a psychologist in university, but that's irrelevant. The important thing about him was that he could get anywhere in the Zone without being spotted by anyone, army posts and anomalies weren't obstacles for him. He went into the center of the Zone frequently but once hasn't returned, probably got killed by a blowout or something. Well, the legend is that he became something like a poltergeist, wanders around the Zone for about ten years already, searching for Stalkers, and if finds anyone - looks into his soul, and if one is a good person he will help him, point at a shelter or kill mutants around. But if he finds anyone full of sins, then that person will not live for long - Phantom will rip him apart. That's a good-night tale for you...</text>
 	</string>
-	
 	<string id="dm_cool_info_63">
-		<text>Hey, Gezeichneter, wo hast du denn so eine Kanone her? Bestimmt bei Sidorowitsch gekauft, was? Ja, der hat schon feine Waffen im Angebot, nur die Preise beiЯen. Der alte Schlitzohr kriegt die von den Soldaten bestimmt fьr eine Apfel und Ei, verkauft uns aber fьr den dreifachen Preis! Nee, Mann, soll er sich andere Dumme suchen. Ich such mir eine Kanone lieber auf der Mьllhalde, die strahlt dann zwar so, das du selber im Dunkeln zu leuchten anfдngst, dafьr ist die auch umsonst.</text>
+		<text>Marked One, where did you get that gun from? Bought it from Sid, I believe? Yeah, he's got fine guns but they cost a lot. That bastard probably gets thom for nothing from the army and sells to us for three times the price! No, mate, I'm not that stupid. I better find my self a gun at the Garbage - it will emmit radiation but is going to be free.</text>
 	</string>
-	
 	<string id="dm_cool_info_64">
-		<text>Hцr mal, Stalker, mir hat man vor kurzem einen Lacher erzдhlt. Hцr gut zu. Also, es bekriegen sich wieder mal die Wдchter und Stalker aus der "Freiheit". Der Kommandeur der "Freiheit"-Einheit steht auf, schreit:\n - Los, auf sie, fьr die Freiheit! - und alle laufen los, Attacke, verstehst du. Die Wдchter, auf der anderen Seite der Front:\n - Fuck, jetzt sollten wir abhauen.\nDa sagt ein alter Wдchter: "Wartet mal mit dem Abhauen", holt ein Maschinengewehr raus: Tra-ta-ta-ta. Die Freiheitler liegen alle wieder. So in fьnf Minuten steht der von der "Freiheit" wieder auf:\n - Fьr die Zone! Attacke! - und es geht wieder los! "Wдchter":\n - Jetzt sollten wir bestimmt weg!\nDer Wдchter-Veteran: "Leute, nicht so schnell!" - nimmt eine AK und wieder "tra-ta-ta-ta". Die Freiheitler liegen wieder im Dreck. Noch ein paar Minuten spдter steht der "Freiheit"-Kommandeur wieder auf:\n - Fьr unsere Sache, fьr die Freiheit, fьr die Zone - Attacke! - und die dringen wieder vor. Die "Wдchter"-Jugend wieder im Panik. Der Veteran zieht wieder sein Ding durch. "Freiheit" muss wieder ins Dreck. 5 Minuten spдter steht der Kommandeur der "Freiheit" auf, nass, Anzug voll verdreckt, Schweinemist im Gesicht, und brьllt los:\n - VERDAMMT! WAS soll DIESE ScheiЯe!!!\nDer alte "Wдchter" drьckt die Zigarettenkippe aus und meint: \n- JETZT ist die Zeit uns zu verpissen...</text>
+		<text>Hey, Stalker, I've been told a funny thing recently. Listen to this. There is a fight between Duty and Freedom members. So, the Freedom commander stands up and shouts:\n-'Let's go, for Freedom!' - and everyone goes into attack. 'Duty' Stalkers are on the other side:\n-'That's it, we're in shit, run for your life'.\nBut an old experienced Duty soldier says:\n-'Wait, don't run -', gets out his gun: bang-bang-bang! 'Freedomers' lie down. After five minutes another 'freedomer' gets up:\n- 'For the Zone! Hurray!' - and they start an attack. 'Duty':\n-'Now we're definitely in shit! We need to run!'\nThe old 'Duty' soldier:\n- 'Just wait!' - takes out a Kalashnikov - bang-bang-bang - 'Freedomers' lie down again. Some time passes. The commander of Freedom stands up again':\n- 'For our brothers, for Freedom in the Zone, let's go!' - and the attack begins again. Young 'Duty' soldiers start panicking again. The old soldier repeats his actions. 'Freedomers' lie down once more. After five minutes the commander of Freedom stands up. His face is covered in mud, he's all dirty and he shouts:\n- 'Fucking hell, are you really asking for it!!?'\nOld 'Duty' soldier throws a cigarette away and says:\n- 'Now it's time to run!</text>
 	</string>
-	
 	<string id="dm_cool_info_65">
-		<text>Schon was ьber Sцldner gehцrt? Nein? Dann hцr mal aufmerksam zu und schreib's dir auf: das sind Killer, Bruder, ganz gerissene Typen, die finden jeden ьberall - tot oder lebendig. WeiЯt du noch, vor kurzem hat doch jemand "Eule" abgemurkst? Zwei Schьsse, in die Brust und in den Kopf, keine Spuren in der Nдhe - das war ihre Arbeit, kannst mir glauben. Die haben kein Gewissen, einen Menschen zu tцten ist fьr sie wie eine Kьchenschabe zu zerdrьcken, nur Geld zдhlt bei ihnen was. Es gibt Gerьchte, das ihre Basis in der Toten Stadt ist, nur kam von da noch keiner lebend zurьck, die mцgen Fremde nicht. WeiЯt du, wie sie trainieren? Sie schnappen sich einen Banditen oder einen Stalker, schleppen ihn zu sich, geben ihn eine AK und zwei Magazine und lassen ihn dann laufen. Wenn derjenige 12 Stunden ьberlebt, dann darf er gehen und am Leben bleiben. Das ist Unterhaltung fьr sie, Bruder... In der ganzen Zeit ьberlebte nur Mischa Einauge dieses Spiel, und das nur, weil er 10 Jahre bei Speznaz gedient hat. Kurzgesagt, Gezeichneter, wenn du Kerle in blauen Anzьgen siehst - renn um dein Leben. Aber wenn die schon ein Auge auf dich geworfen haben, bringt das auch nichts - sie finden dich auch unter der Erde...</text>
+		<text>Have you heard of mercs? No? Then listen and keep this in your memory: they are killers, very serious and determined, they can get anyone, dead or alive. Have you heard of Sych's death recently? A direct shot in his heart, the body was burnt, no evidence left - trust me, it's their style. Those guys have no ethics behind their actions, they could kill a person as easily as they squish a bug, the only thing they respect is money. There are rumors that they have a base in the Dead City, but no one has ever returned from there - mercs don't like unwanted guests. And do you know how they train? They catch a bandit or a Stalker, take him to their place, give him a Kalashnikov with two rounds and let him go anywhere. If after twelve hours that guy is still alive, he can keep living. That's what their fun is, comrade. During the whole time only Misha Squint managed to survive a meeting with them and that's only because he spent ten years working in spetsnaz forces. So, Marked One, if you see people in blue costumes, run away as fast as you can from there, but if mercs have an order about you, you stan no chance - they will get you even from underground.</text>
 	</string>
-	
 	<string id="dm_cool_info_66">
-		<text>Da gibt es diese Gruppe ... man nennt sie Schamanen oder Druiden. Die benutzen wohl ьberhaupt keine elektrischen Gerдte, sie wollen der Natur verbunden bleiben und so ... Nun, jedenfalls behaupten sie, dass die Zone auf elektrische Gerдte heftiger reagiert, wegen der elektromagnetischen Strahlung oder so дhnlich. Angeblich werden Monster davon angezogen. Im Prinzip gehen sie davon aus, dass die Zone ein Arte lebendes Wesen ist, verstehst du? Mit all diesem Spielzeug da rein zu gehen ist also Quatsch. Wenn du die richtige Einstellung hast, kommst du auch ohne zurecht. Trotzdem tragen sie Sturmgewehre ... Wahrscheinlich sind ihre Zдhne und Krallen der Sache einfach nicht gewachsen, hд? Andererseits hцrt man nur selten, dass mal einer von denen ins Gras gebissen hдtte. Zumindest seltener als bei uns ... Wer weiЯ, vielleicht sind sie doch auf dem richtigen Weg. Aber sie kommen wohl цfter von der weiЯrussischen Seite in die Zone. Ich wьrde mir die gerne mal aus der Nдhe ansehen und ihre Taschen nach Artefakten durchsuchen...</text>
+		<text>I heard there is a group of people... They sometimes are called shamans and sometimes druids. They are believed not to bring any electronic devices into the Zone - closer to nature and everything... Well, they say that the Zone and electronics... that the Zone reacts to all those electromagnetic impulses... and it attracts mutants to you. If you believe them it turns out the Zone is a living organism. They say that you shouldn't bring any devices into the Zone - a clever person will find his way himslef. But they carry weapons with them, bitches... Don't want to use their 'teeth and claws'... On the other hand, not many of them die in the Zone. Not more than us, certainly... So, maybe they are right in their ideas... They mainly get in from Belarusian side, though... Otherwise it might've been a good idea to watch them. And to check how many artefacts they have in their pockets...</text>
 	</string>
-	
 	<string id="dm_cool_info_67">
-		<text>Hцr mal, der Wirt hat mir erzдhlt, das gestern die Blutsauger das Dorf bei den Armeelagerhдusern ьberfallen haben - da kam keiner lebend weg, nicht mal ein "Mayday" schafften die Jungs zu senden. Die Wдchter waren heute da, um nachzusehen, erzдhlten was von einem Blutbad - die Stalker wurden wie Schweine abgeschlachtet, Kцrperteile ьberall... schrecklich.</text>
+		<text>Hey, the Barman told me that bloodsuckers have attacked the village near the Military Warehouses yesterday - nobody survived, those poor guys didn't even have time to send an SOS signal. 'Duty' people were there today, they say it was all covered in blood, as though pigs were slaughtered there... Terrible.</text>
 	</string>
-	
 	<string id="dm_cool_info_68">
-		<text>Zwei Stalker unterhalten sich... Der eine: - "Kannst du dich noch an Wasja Aviator erinnern? Na den, der drei Mal bei einer Aufnahmeprьfung in die Pilotenschule durchgefallen ist?" Der andere: - "Ja, den hab ich schon mehrmals gesehen... Was ist mit ihm?" \n - "Der tappte so vor einer Woche in ein "Sprungbrett"... \n - "Und was?" \n - "Na was, was... Sein Traum wurde erfьllt! Der Traum vom Fliegen..."</text>
+		<text>Can I get a cigarette of you? You don't smoke? I see... That's good, you know. Helps your health and you'll have enough breath to run away from dogs, he-he... You know, some experienced mercs, bloody snipers, were killing Stalkers in a very interesting way. When Stalkers group together and smoke, a merc spots the light from the match and the cigarette. Then, when the second and the first Stalker lights up his cig, the spot of light moved and the sniper could see both of them. Finally, when the third one lights up his cigarette with the same match he immediately gets a bullet in his head... That's why Stalkers now have a rule 'Three people don't light up thei cigarettes with the same match.' So it's all fun and jokes, but one's life could depend on that...</text>
 	</string>
-	
 	<string id="dm_cool_info_69">
-		<text>Hab mal einen ganz verwirrten Kerl getroffen. Armee-Anzug, Speznaz-Gewehr, aber sein Verhalten - wie so ein Zombie: zieht ein Bein nach, Bewegungen unkoordiniert, keine Kontrolle fьr Kцrper... Ich hab ihn beinah erschossen. Davon abgehalten hat mich nur die Tatsache, das er sein Gewehr fest im Griff hatte. Ich hab schon viele Zombies gesehen, aber so einen nicht. Und er wollte mir noch was mitteilen, nur hab ich kaum was verstanden... Nur "Telepath" und "hilf mir". Grade wollte ich ihm helfen, da hцrte ich einen Hubschrauber. Ich bekam Schiss, rannte weg und versteckte mich im Wдldchen. Da tauchten die Stiernacken auf, so sieben, acht Mann und dann auch der Hubschrauber. Drei von denen haben ihre Waffen auf den Armen gerichtet, und die restlichen rannten auf ihn zu und rissen ihn zu Boden. Verstehst du? Einen eigenen Mann mit der Fresse in den Dreck! Schrien was ьber irgendein Helm... Dann gefesselt und ins Hubschrauber mit ihm... Seltsam ist es alles... Dieser Kerl, seine Worte ьber Telepathen... Soldaten... Konnte er wirklich einen Telepathen entwischen?...</text>
+		<text>I remember a few nights ago while walking to a camp I came across someone, I recognized his gear to be that of the army's, and in one arm he cradled a spetsnaz rifle, he was acting weird, he didn't seem to notice me at first, he was dragging one foot and his movement was limp, he was gripping his rifle strongly though, so I kept my pistol pointed at him, he didn't seem to notice or care, in fact, he kept on walking by me, his eyes stared into me, and I knew something was wrong with him, as he past me, he attempted to say something it was mostly incoherent but I did make out "Controller... Help'. As soon as I tried to help him I heard a heli, got scared and ran away. I got into a little grove. Then about seven soldiers have appeared and then I saw the helicopter. Three people have aimed for that guy and the others ran at him and tackled him to the ground. Can you imagine, one of their own - face into mud! They were also shouting something about a helmet. Then they brought him into the helicopter... It's all very strange... That guy, his words about a controller... Soldiers... Did he manage to escape a controller...?</text>
 	</string>
-	
 	<string id="dm_cool_info_70">
-		<text>Hцr dir den mal an: Ein Telepath hat einen blinden Hund erwischt und versucht ihm Kunststьcke beizubringen. Salto rьckwдrts, sich totstellen, auf Hinterpfoten zu laufen und so weiter. Das Ganze geht langsam voran und klappt nicht so richtig. Unter einem Baum sitzt ein Stalker und guckt sich das alles an... Irgendwann sagt er zum Telepathen: "Lass doch den Scheiss, das ist doch nur Zeitveschwendung..." Guckt ihn der Telepath so an und antwortet: "Hцr mal, Stalker, grade du musst es sagen. Sei lieber still. Du hast mir die Hausschuhe auch nicht sofort am ersten Tag gebracht..."</text>
+		<text>Recently, me and four other cold Stalkers asked a lone Merc if we could join him by his fire. He turned out not that bad of a fellow, the merc explained to us that he killed only under orders, most Stalkers treat Mercenaries with respect, and they can relate rather well, Mercenaries show respect to Stalkers, but consider themselves unsurpassed masters. But this Merc described his lifes story to me, For his service he's in the "Order of Courage" and has a medal showing it. He learned in a center for training snipers, "In there, they take everything very seriously.", he told us. Everytime they fired a shot, they were to check their weapons, and fire again, and repeat the process. He told us, you can't really be a sniper til' you've had to be one in war, right at the muzzle. Sometimes one was taught really thoroughly for a long time but as soon as it got to exams (usuaaly they were in Chechnya) - no, the person just can't do it. You can prepare at school, shoot all targets but as soon as it all gets real something switches inside the brain and you stop. That's how it is. So, Marked One, be strong in the Zone.</text>
 	</string>
-	
+	<!-- string id "dm_cool_info_7" and "dm_cool_info_8" is already exsist! - soo, the new string will be: "dm_cool_info_71" and "dm_cool_info_72" - aleks1970 -->
+	<string id="dm_cool_info_71">
+		<text>Has heard, as if any group made it to the center of the Zone has made the way. In akkurat before Greater emission. Interestingly, they had time to reach Executor Zhelany or all there and perished?</text>
+	</string>
+	<string id="dm_cool_info_72">
+		<text>Khabar now not simply to bring became. If you will leave alive anomalies and claws of mutants, here still it is necessary to pass through patrols of bandits, and then and with militarians business to have. As a result you will come back more poorly, than left. Something is necessary with these Bloodsuckers to do. I hope, Stalkers now will engage these ugly creatures...</text>
+	</string>
 </string_table>

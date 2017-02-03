@@ -1,2088 +1,1564 @@
-<!-- Ьbersetzt und angepasst durch Wlad Geschwendt aka 777-W.L.A.D. am 27.04.2008 -->
-<!-- Update am 06.11.2008 -->
-
-<?xml version="1.0" encoding="windows-1251" ?>
-
-<string_table>
-
+<!-- TB3D 1.1.0.0.0.4 controller vice comptroller, chgd mil_trader_dialog_2001, removed "string_table" - aleks1970, amber, lukash -->
+<!-- Names changed as commented below - Sword2012 - 31 Oct 16 -->
+<!-- Corrected many generic punctuation, in-game and US/UK spelling errors - Sword2012 - 12 Dec 16 -->
 	<string id="mil_bodyguard_dialog_0">
-		<text>Was willst du?</text>
+		<text>What do you want?</text>
 	</string>
-	
 	<string id="mil_bodyguard_dialog_1">
-		<text>Ich suche nach dem Anfьhrer der "Freiheit". Ich habe extrem wichtige Informationen fьr ihn.</text>
+		<text>I need a leader, 'Freedom.' Very important information.</text>
 	</string>
-	
 	<string id="mil_bodyguard_dialog_2">
-		<text>Ach, und wie wichtig sind sie?</text>
+		<text>And how is it important?</text>
 	</string>
-	
 	<string id="mil_bodyguard_dialog_5">
-		<text>Nicht weit von dieser Basis bin ich einer Gruppe Wдchter begegnet.</text>
+		<text>I met a detachment of 'duty' near your base.</text>
 	</string>
-	
 	<string id="mil_bodyguard_dialog_6">
-		<text>Oh, oh ... Anscheinend wollen die Wдchter wieder nachziehen. Na gut, du kannst herein, aber steck das Teil weg. Denke nicht einmal daran, hier drin Chaos anzurichten, sonst verlдsst du uns sehr bald wieder - und zwar mit den FьЯen voran.</text>
+		<text>Op-pa ... It seems that 'debt' once again tries to win back ...\nTak, moving on to the territory, only to take away the gun. Do not even think here we have to raise the firing: will make a feet-first.</text>
 	</string>
-	
 	<string id="mil_bodyguard_dialog_7">
-		<text>In Ordnung.</text>
+		<text>Well.</text>
 	</string>
-	
 	<string id="mil_cook_common1_0">
-		<text>Guten Tag.</text>
+		<text>Good morning.</text>
 	</string>
-	
 	<string id="mil_cook_common1_101">
-		<text>Aha!</text>
+		<text>Yeah-ah! ..</text>
 	</string>
-	
 	<string id="mil_cook_common1_102">
-		<text>Das bedeutet?</text>
+		<text>Meaning?</text>
 	</string>
-	
 	<string id="mil_cook_common1_103">
-		<text>Klare Sache.</text>
+		<text>Yes, no question ...</text>
 	</string>
-	
 	<string id="mil_cook_common1_104">
-		<text>Was ist so lustig?</text>
+		<text>What a joke?</text>
 	</string>
-	
 	<string id="mil_cook_common1_105">
-		<text>He, Mann! Schцn, dich zu sehen!</text>
+		<text>Oh, Man! Wow!</text>
 	</string>
-	
 	<string id="mil_cook_common1_106">
-		<text>Hallo.</text>
+		<text>Hello.</text>
 	</string>
-	
 	<string id="mil_cook_common1_107">
-		<text>Lange nicht gesehen!</text>
+		<text>Long time no see!</text>
 	</string>
-	
 	<string id="mil_cook_common1_108">
-		<text>Kennen wir uns?</text>
+		<text>And we know?</text>
 	</string>
-	
 	<string id="mil_cook_common1_109">
-		<text>Дh... Ja! He he ...</text>
+		<text>Uh-uh ... IUU-da! Heh heh ...</text>
 	</string>
-	
 	<string id="mil_cook_common1_110">
-		<text>Um ehrlich zu sein, kann ich mich nicht daran erinnern, wer du bist.</text>
+		<text>Honestly, I did not remember.</text>
 	</string>
-	
 	<string id="mil_cook_common1_111">
-		<text>Hm... Ja, ist okay, kein Problem.</text>
+		<text>Hmm ... Yeah, okay, okay ...</text>
 	</string>
-	
 	<string id="mil_cook_common2_0">
-		<text>Was ist das hier eigentlich fьr ein Ort?</text>
+		<text>And it's all over the place?</text>
 	</string>
-	
 	<string id="mil_cook_common2_201">
-		<text>Das ist hier... ein hьbscher kleiner Ort... Ein ganz normaler Ort, weiЯt du... Einfach ein paar Leute, die so vor sich hin leben... He he...</text>
+		<text>Location ... spot-on ... Yeah, wow place ... in the Pale of Settlement, heh, heh ...</text>
 	</string>
-	
 	<string id="mil_cook_common2_202">
-		<text>Also?</text>
+		<text>And yet?</text>
 	</string>
-	
 	<string id="mil_cook_common2_203">
-		<text>Pfft ... Du fragst aber knifflige Fragen, Herr Fremder!</text>
+		<text>Taaa ... Well, you and asking questions, kind stranger! ..</text>
 	</string>
-	
 	<string id="mil_cook_common2_204">
-		<text>Und wenn du jetzt auf den Punkt kommen wьrdest?</text>
+		<text>And if in fact?</text>
 	</string>
-	
 	<string id="mil_cook_common2_205">
-		<text>He, entspann dich! Moment mal ... nun ... Es ist ein ganz normaler Ort! Ein ruhiger Ort. Alles gut, alles da. Ja ... entspann dich, in Ordnung? Mach dir keinen Kopf ...</text>
+		<text>Yes, relax! SchA-a ... Y-yes ... Nnnormalnoe place! Quiet. All nishtyak! Yes ... You relax ... Yeah? Do not rush ...</text>
 	</string>
-	
 	<string id="mil_cook_common3_0">
-		<text>Und wer bist du?</text>
+		<text>And you yourself who will?</text>
 	</string>
-	
 	<string id="mil_cook_common3_301">
-		<text>Ich?</text>
+		<text>I ...?</text>
 	</string>
-	
 	<string id="mil_cook_common3_302">
-		<text>Genau. Du. Nicht ich.</text>
+		<text>Exactly. You. I'm not.</text>
 	</string>
-	
 	<string id="mil_cook_common3_303">
-		<text>Ha ha, der ist gut! Ich ... Was ist mit mir? Mir geht's gut ... Nun, ich ... Ich mache Essen ... Also. Ich bin ein Koch! Der Herr des Kochens und Bratens! Du weiЯt schon - Petersilie, Dill, Krдuter, all dieses Zeug ... Brot auch ... Okay?</text>
+		<text>Well, you da-al! .. I. .. I-I natyurlihhh ... Das ist fantastishshsh! .. Well, I ... This is ... Cook food ... There. I cook! Master knife and seasonings! Parsley there ... dill, greens, every ... Well, the grass is, in general ... Bread, too ... Yeah?</text>
 	</string>
-	
 	<string id="mil_cook_common3_304">
-		<text>Verstanden.</text>
+		<text>Clear.</text>
 	</string>
-	
 	<string id="mil_cook_common3_305">
-		<text>Dosennahrung auch ... Kondensmilch mit Zucker ... Hackfleisch aus der Dose ... Roast Beef mit Tomatensauce ... ja ...</text>
+		<text>A more conservative is ... Condensed milk ... Stew ... Bulls in tomatoes ... Herring in May ... uk! ... Neze. Yes ...</text>
 	</string>
-	
 	<string id="mil_cook_common3_306">
-		<text>Ich hab's verstanden.</text>
+		<text>I understand.</text>
 	</string>
-	
 	<string id="mil_cook_common3_307">
-		<text>WeiЯbrot ... Ketchup ... Eier ... Graubrot ... Kдse. Alles, was es gibt. Auch Wiener! Wьrstchen! Geflьgel ... kalt, nicht fliegend.</text>
+		<text>Baton ... Ketchupchik ... Yychki ... Bread ... Baton ... again .. Cheese. Well, there. In! Sosiiiski and! Sausage-ah! Game ... lifeless ...</text>
 	</string>
-	
 	<string id="mil_cook_common3_308">
-		<text>Okay, gut, ich verstehe! Sag mir wenigstens deinen Namen.</text>
+		<text>All I knew! Tell me though, what's your name?</text>
 	</string>
-	
 	<string id="mil_cook_common3_309">
-		<text>Hд? ... Ach, ich heiЯe Slavik ... Das ist nur ein Etikett ... Nein! Es ist eine Schьrze! Ich habe diese weiЯe Schьrze ... He, schau mal ... Setz dich, sei kein Ziel ... Wegen diesem Scharfschьtzen, weiЯt du? ... Knallt dich ab! ... Die sind, weiЯt du ... Die sind einfach so ...</text>
+		<text>Hmm? .. Ah! Slavik, my name is ... It's so off-label ... No! For the apron! ... I have a white apron ... And, in general yeah ... You sit down, no looming ... And then, another sniper ... ka-a-ak shoot! ... They are, you know ... Yes, they ...</text>
 	</string>
-	
 	<string id="mil_cook_common4_0">
-		<text>Gibt es in der Nдhe ein Dorf?</text>
+		<text>Here, like, a village nearby?</text>
 	</string>
-	
 	<string id="mil_cook_common4_401">
-		<text>Nun ...</text>
+		<text>Well at ...</text>
 	</string>
-	
 	<string id="mil_cook_common4_402">
-		<text>Nun, was?</text>
+		<text>That 'We-ell?</text>
 	</string>
-	
 	<string id="mil_cook_common4_403">
-		<text>Hm?</text>
+		<text>Huh?</text>
 	</string>
-	
 	<string id="mil_cook_common4_404">
-		<text>Ein Dorf.</text>
+		<text>Village.</text>
 	</string>
-	
 	<string id="mil_cook_common4_405">
-		<text>Ah ... Da gibt es etwas. Etwas zu Essen dort ... Kondensmilch unter anderem ...</text>
+		<text>Ah ... There is a village. Products out there ... condensed milk ...</text>
 	</string>
-	
 	<string id="mil_cook_common4_406">
-		<text>Wie komme ich dahin?</text>
+		<text>How to get there?</text>
 	</string>
-	
 	<string id="mil_cook_common4_407">
-		<text>Hm? Moment. Lass mich nachdenken ... Nee, sieh mal, brauchst du das alles wirklich? Entspann dich ... Setz dich ... Wir setzen uns und rauchen eine, okay?</text>
+		<text>Huh? College. SchA think ... Do not listen, it you want? Relax ... Sit ... Sit down, have a smoke ... Uh-huh?</text>
 	</string>
-	
 	<string id="mil_cook_common4_408">
-		<text>Ich muss zu diesem Dorf.</text>
+		<text>I need the village.</text>
 	</string>
-	
 	<string id="mil_cook_common4_409">
-		<text>In Ordnung ... Wir setzen uns einfach hierher und rauchen eine ... Dann gehen wir ... Ich bringe dich dorthin. Kein Problem.</text>
+		<text>Frets ... Here, sit down right now, yes ... Smoke ... And the good ... Yes ...? I'll take you. No question.</text>
 	</string>
-	
 	<string id="mil_cook_common4_410">
-		<text>Nur keine Umstдnde. Sag mir einfach, wie ich dahin komme.</text>
+		<text>Do not strain. Just tell me how to get there.</text>
 	</string>
-	
 	<string id="mil_cook_common4_411">
-		<text>Klar ... He, du bringst mich echt ins Schwitzen! Wir gehen in einer Sekunde zusammen los. Zuerst setzen wir uns hin, okay, und ...</text>
+		<text>Yeah ... No, well, you ask problem! ... SchA normally together we reach. Here sit down, and yes ...</text>
 	</string>
-	
 	<string id="mil_cook_common5_0">
-		<text>Hцr zu, weiЯt du vielleicht, wo ich eine Ausrьstung bekomme?</text>
+		<text>Listen, you do not know where you can get hold of equipment?</text>
 	</string>
-	
 	<string id="mil_cook_common5_501">
-		<text>Ausrьstung? Du sprichst in Rдtseln, Bruder!</text>
+		<text>Equipment? At something, brother, ciphers ... Ciphers! ..</text>
 	</string>
-	
 	<string id="mil_cook_common5_502">
-		<text>Ausrьstung. Waffen. Artefakte.</text>
+		<text>Equipment. Weapons. Artifacts.</text>
 	</string>
-	
 	<string id="mil_cook_common5_503">
-		<text>Waffen ... Nein ... Mein Messer ... Mцchtest du mein Messer? Nein? Jaaa ... Artefakte. Wofьr, zum Teufel? Entspann dich. Komm schon, setz dich. Zьnden wir uns eine an. Lass uns reden ... ьber Artefakte ...</text>
+		<text>Weapons ... Do not ... Knife My ... Want to knife? Not? Aga and ... Artifacts. And Haha? Do not strain. Come, sit down. Smoke. Let's talk ... of artifacts ...</text>
 	</string>
-	
 	<string id="mil_cook_common5_504">
-		<text>Wo kann ich in dieser Gegend Artefakte finden?</text>
+		<text>Where in the county can find artifacts?</text>
 	</string>
-	
 	<string id="mil_cook_common5_505">
-		<text>Das ist einfach! Artefakte ... Wir haben Artefakte bis ьber beide Ohren! Kennst du den radioaktiven Sumpf? Nein? Macht nichts. Es ist da. Ich meine, die Artefakte. Sind da. Hцr einfach auf, so rumzufuchteln. Entspann dich. Hm? Artefakte ... He he he ... Artefakte sind doch albern ...</text>
+		<text>Yes, no question! Artifacts ... Above the roof of the artifacts! .. Swamp of radioactive know? Not? Oh, and do not care. Ibid. In terms of artifacts. Ibid. In general, you do not fuss. Do not strain. Huh? Artifacts ... Heh heh ... Artifacts-artefaktiki ...</text>
 	</string>
-	
 	<string id="mil_cook_common6_0">
-		<text>In Ordnung. Pass auf dich auf.</text>
+		<text>Okay. Be healthy.</text>
 	</string>
-	
 	<string id="mil_cook_common6_601">
-		<text>Klar ... Setz dich trotzdem. Du bist ja schon hier.</text>
+		<text>Uh-huh ... But you sit down, just come!</text>
 	</string>
-	
 	<string id="mil_cook_common6_602">
-		<text>Ich gehe.</text>
+		<text>I'm leaving.</text>
 	</string>
-	
 	<string id="mil_cook_common6_603">
-		<text>Hm? Klare Sache ... Entspann dich ... Okay? Ganz nah an der Tьr hinter mir, ich gehe ... Ta-da-da-da ...</text>
+		<text>Huh? No question ... relax ... Yeah? Close the door behind me ... I uhozhzhzhuuu ... There's tadam ...</text>
 	</string>
-	
 	<string id="mil_cook_dialog_0">
-		<text>Komm, setz dich! Wir werden viel SpaЯ haben ...</text>
+		<text>But you sit down! .. Sit-im ...</text>
 	</string>
-	
 	<string id="mil_cook_drink_for_rg6_1_0">
-		<text>Lass uns einen trinken. Was meinst du?</text>
+		<text>Come on, that is, sod, eh?</text>
 	</string>
-	
 	<string id="mil_cook_drink_for_rg6_1_1">
-		<text>Klare Sache, Bruder! Hau wech den ScheiЯ!</text>
+		<text>No problem, brother! Pour!</text>
 	</string>
-	
 	<string id="mil_cook_drink_for_rg6_1_2">
-		<text>Gut, gut ... Prost!</text>
+		<text>So-so ... Well, popped! ..</text>
 	</string>
-	
 	<string id="mil_cook_drink_for_rg6_1_3">
-		<text>Ja, der war echt gut! Halt mal die Flasche ... Da ist noch was drin.</text>
+		<text>Uh, well away! .. Keep a bottle ... There's still something left.</text>
 	</string>
-	
 	<string id="mil_cook_drink_for_rg6_1_4">
-		<text>Na? Wie wдre es mit noch einem?</text>
+		<text>Well, even a glass?</text>
 	</string>
-	
 	<string id="mil_cook_drink_for_rg6_1_5">
-		<text>Aaaah ... Wahnsinn! Zu Schade, dass die Flasche bereits leer ist. Hast du noch mehr?</text>
+		<text>Ah-s ... Kaaayf! Sorry, the bottle has already persuaded. Still there?</text>
 	</string>
-	
 	<string id="mil_cook_drink_for_rg6_1_6">
-		<text>Ich schau mal.</text>
+		<text>Now look.</text>
 	</string>
-	
 	<string id="mil_cook_drink_for_rg6_2_0">
-		<text>Ja, hier! Halt mal dein Glas still.</text>
+		<text>Ah, here! Keep the pile evenly.</text>
 	</string>
-	
 	<string id="mil_cook_drink_for_rg6_2_1">
-		<text>He he ... das war nett! Eine neue Flasche aus dem Nichts. Du hast wohl ein ganzes Lager voll davon, was?</text>
+		<text>Heh heh ... A clever you are! .. P-p-times - and a new bottle. You have a warehouse there, or what?</text>
 	</string>
-	
 	<string id="mil_cook_drink_for_rg6_2_2">
-		<text>Du, дhm ... Na los, trink. Ich hatte in letzter Zeit nicht viel Ьbung.</text>
+		<text>You are ... Drink, drink. I have a long time since the practice was not.</text>
 	</string>
-	
 	<string id="mil_cook_drink_for_rg6_2_3">
-		<text>Auf unseren Sieg! Jaaaa ... Ach, gute Zeiten, gute Zeiten!</text>
+		<text>For our victory! In the of ...\nEh's, good sit!</text>
 	</string>
-	
 	<string id="mil_cook_drink_for_rg6_2_4">
-		<text>Ja ... Auf unseren Sieg!</text>
+		<text>Yes ... For our victory!</text>
 	</string>
-	
 	<string id="mil_cook_drink_for_rg6_2_5">
-		<text>Komm, komm, genehmigen wir uns noch eine ... Du hast doch ... n-noch eine, hm?</text>
+		<text>Come on, let's all ... There is em-sh ... esch-alkali ... Huh?</text>
 	</string>
-	
 	<string id="mil_cook_drink_for_rg6_2_6">
-		<text>Ich schau mal nach ...</text>
+		<text>Now you look ...</text>
 	</string>
-	
 	<string id="mil_cook_drink_for_rg6_3_0">
-		<text>In Ordnung ... das wird die Letzte, okay? Mehr vertrage ich heute nicht mehr ...</text>
+		<text>So ... This is the latest. Lada? .. And then, I 'n not master more ...</text>
 	</string>
-	
 	<string id="mil_cook_drink_for_rg6_3_1">
-		<text>Gib heee ... her!</text>
+		<text>Come on it with the-shu-y ... oo-Yuda! ..</text>
 	</string>
-	
 	<string id="mil_cook_drink_for_rg6_3_2">
-		<text>Uah! Schau dich an ... Hast du das ... alles alleine weg...geschluckt?</text>
+		<text>Well, you ... give ... What are you her all he surrendered ... inrush? ..</text>
 	</string>
-	
 	<string id="mil_cook_drink_for_rg6_3_3">
-		<text>Hick! Das, B...b...ruder, ist der B...b...oden! Mmmm ... Hmmm ...</text>
+		<text>Eek! .. Uh, this bra am, days ... bottom! .. M-m-m ... Hmm, well ...</text>
 	</string>
-	
 	<string id="mil_cook_drunk_question_about_rg6_1_0">
-		<text>Ich habe gehцrt, dass Freiheit einen "Bulldog 6" besitzt. Wдre doch ein echter SpaЯ mal einen Blick auf das Baby zu werfen.</text>
+		<text>I've heard of 'Freedom' is armed with hand grenade. I would like to look at this thing.</text>
 	</string>
-	
 	<string id="mil_cook_drunk_question_about_rg6_1_1">
-		<text>Worauf willst du hinaus, Mann? Willst du, dass ich ... dich vollkotze? Fьr wie blцd hдltst du mich eigentlich?</text>
+		<text>You do much driving at, man? So I ...? To you ...? Picked up and everything about ...? Yes, you whom I hold?</text>
 	</string>
-	
 	<string id="mil_cook_drunk_question_about_rg6_1_2">
-		<text>Beruhige doch. Ich wusste doch nicht, dass das so schlimm ist.</text>
+		<text>Just relax. I did not know that this is so serious.</text>
 	</string>
-	
 	<string id="mil_cook_drunk_question_about_rg6_1_3">
-		<text>Du wirst nicht herumschleichen und nach unseren Waffen gucken, verstanden? Wer bist du ьberhaupt? Ich habe dich nie zuvor gesehen!</text>
+		<text>Nothing about our ferret out weapons! Got it? Who are you anyway? A? The first time you see it!</text>
 	</string>
-	
 	<string id="mil_cook_drunk_question_about_rg6_1_4">
-		<text>He, komm schon! Ich habe nur eine Frage gestellt ...</text>
+		<text>Yes, come on! I just asked ...</text>
 	</string>
-	
 	<string id="mil_cook_drunk_question_about_rg6_1_5">
-		<text>Tsss! Sei damit ganz vorsichtig, ja?</text>
+		<text>Tc-ss! .. And be careful with it, get it?</text>
 	</string>
-	
 	<string id="mil_cook_drunk_question_about_rg6_1_6">
-		<text>Gut, abgemacht.</text>
+		<text>Sweeps.</text>
 	</string>
-	
 	<string id="mil_cook_drunk_question_about_rg6_2_0">
-		<text>Ich, дhm ... дhm ... Ich habe gehцrt, dass ihr Typen einen "Bulldog 6" besitzt ...Und ich mцchte doch bloЯ mal einen Blick darauf werden, hm? Nur einen winzig kleinen Blick ... Was meinst du? Ein ganz winzig kleiner, flьchtiger Blick ...</text>
+		<text>I'm here ... it ... Heard you have a hand grenade is ... I used to look with one eye, eh? Well, really want ... huh? N-well, little eyes like ... one ...</text>
 	</string>
-	
 	<string id="mil_cook_drunk_question_about_rg6_2_1">
-		<text>Waaas? ... Du, цhm ... geh zur ... дh ... Hцlle, was war noch? ... Ich hab's vergessen! Was hattest du gefragt?</text>
+		<text>Something about? .. You this ... Go K. .. Shoot, how could there ... forgot! .. Why you ask?</text>
 	</string>
-	
 	<string id="mil_cook_drunk_question_about_rg6_2_2">
-		<text>Grrr ... GroЯe ... Gott...verdammt! Granatwerfer ... Ich mцchte ... ihn sehen!</text>
+		<text>Gr-r ... letters ... gratano ... ugh! Gra-on-a-met to ... I would ... Glance!</text>
 	</string>
-	
 	<string id="mil_cook_drunk_question_about_rg6_2_3">
-		<text>Nee ... das geht nicht ... Alles, was du willst, mein Freund, aber das nicht ... Das darf niemand!</text>
+		<text>Do not ... This is not ... Here, everything you want, friend, and it can not be ... There. Well, we can not ...</text>
 	</string>
-	
 	<string id="mil_cook_drunk_question_about_rg6_2_4">
-		<text>Дhm, okay ... Ich, дhm ... hab gar nichts gesagt! Nur gefragt ...</text>
+		<text>Yeah, okay ... I, uh-uh ... Easy! Just asked ...</text>
 	</string>
-	
 	<string id="mil_cook_drunk_question_about_rg6_3_0">
-		<text>Hick! Bulldog 6, hm?</text>
+		<text>Eek! ... Granatometik, eh?</text>
 	</string>
-	
 	<string id="mil_cook_drunk_question_about_rg6_3_1">
-		<text>W...was? ... Ach! Na, es ... Es ist im Dorf! Wir hatten mal ... zwei davon ... aber diese ... Lьmmel! Haben es verloren ... es vergeudet!</text>
+		<text>Wh-what? .. Ah! So it ... in the village he is! We have them at all ... only two have been ... and these ... Dr. woodpeckers! Planted it ... about ... proteryali! ..</text>
 	</string>
-	
 	<string id="mil_cook_drunk_question_about_rg6_3_2">
-		<text>W...wirklich? Mann, diese ... T...Trottel ...</text>
+		<text>Yes, eh? Well, it's ... b-boobs ...</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_100">
-		<text>Hallo, Bruder. Ich bin ein Mitglied der Wдchter, und wir sind hier wegen eines Auftrags unterwegs. Mцchtest du dich uns anschlieЯen?</text>
+		<text>Hello, brother. I'm from the 'debt', perform tasks in the area. Would you like to join us?</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_1001">
-		<text>Bin nicht im Geringsten interessiert.</text>
+		<text>No special desire.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_1002">
-		<text>Dann geh uns aus dem Weg ... Mann.</text>
+		<text>Then under the feet do not disturb, ... loner.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_101">
-		<text>Ich bin dabei.</text>
+		<text>Not against it.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_102">
-		<text>Sehr gut. Dort hinter dem Hьgel ist das Hauptlager dieser Mistkerle - die "Freien" - und ich und meine Jungs werden es ordentlich aufmischen. Da gibt es nur ein kleines Problem. Die Basis hat nur einen Eingang und der ist gut bewacht. Wir haben daran gedacht, ein Loch in den Zaun zu sprengen, aber ihr Scharfschьtze im Turm lдsst uns nicht. Ich will nicht, dass meine Jungs Kugeln einfangen ... Aber du - er wird dich nahe genug rankommen lassen und ganz sicher nicht bei Sichtkontakt schieЯen. Wenn du ihn erledigst, schulden wir dir was. Und, wenn es planmдЯig lдuft, kannst du dich in der Basis mit einer Ausrьstung eindecken. Alles, was du willst.</text>
+		<text>Excellent. Then, over the hill, the main breeding ground for these scum 'free', which the boys are going now, stir well.\nEst, however, a small problem. Log in to the base alone, and he is well guarded. We thought the punch hole in the fence, but theirs a sniper on the tower hinders us. I do not want to send kids to the bullets ... and you're having admitted he is close, just shoot just will not. Snimesh it - with our due, and another on the basis of snaryagu take what you want, if it will burn out.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_103">
-		<text>Erzдhl weiter.</text>
+		<text>Go on.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_104">
-		<text>Ich hab's dir doch schon gesagt: Du brauchst nur den Scharfschьtzen im Turm ьber dem Zaun auszuschalten. Was sagst du also dazu?</text>
+		<text>Yes, I have already said: everything you need to do - rent a sniper on the tower side of the fence.\nNu, so what?</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_1041">
-		<text>Nein, ich bin noch nicht bereit.</text>
+		<text>No, I'm not ready yet.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_1042">
-		<text>Dann geh uns aus dem Weg.</text>
+		<text>Then under the feet do not interfere.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_105">
-		<text>Ich werde es versuchen.</text>
+		<text>I'll try.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_1051">
-		<text>Das ist klasse! Sobald du ihn erledigt hast, starten wir das Feuerwerk.</text>
+		<text>That's good! Once you have it snimesh, and we will begin the concert.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_106">
-		<text>Es gibt nur ein kleines Problem. Da die Basis nur einen Eingang hat, einen gut bewachten noch dazu, haben wir uns schnell ьberlegt, einen weiteren zu machen, aber ...</text>
+		<text>There is a slight problem. Since the entrance to the base alone, and he is well guarded, we, without thinking twice, have gathered to make one more, but ...</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_107">
-		<text>Aber was?</text>
+		<text>But?</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_108">
-		<text>Ich habe letzte Nacht einen meiner Jungs geschickt, um ein Loch in den Zaun zu pusten. Nun, entweder der Scharfschьtze ist sehr gut, oder wir hatten einen schlechten Tag. Unser Mann starb. Jetzt ist das Dynamit am Zaun, aber wir kцnnen es nicht in die Luft jagen.</text>
+		<text>I went by night fighters to undermine the fence. Only caught a good sniper, or a day is not ours, in general, and blocked it. So now that the explosives set on a fence and detonate it, we can not.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_109">
-		<text>Warum?</text>
+		<text>Why?</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_110">
-		<text>Ich will meine Jungs nicht in den Kugelhagel dieses Arschlochs schicken, aber du hast eine gute Chance, ihn zu erledigen. Er schieЯt mit Sicherheit nicht bei Sichtkontakt auf dich. Was meinst du ?</text>
+		<text>I do not want to send boys under fire this asshole, but you can completely remove it. With you, he just will not shoot. What do you think?</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_111">
-		<text>Wie viel bekomme ich dafьr?</text>
+		<text>How much will I get for it?</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_112">
-		<text>Na, dass nenne ich doch mal Geschдftemachen. 2000 von uns fьr den Scharfschьtzen, plus jede Menge Ausrьstung aus der Basis. Da wird es viele Leichen geben, das kann ich dir versprechen. So kannst du also uns und dann dir selbst helfen. Wir wдre es damit?</text>
+		<text>Here is the correct approach. 2000 of us for a sniper and a bunch of equipment on the base. There will be many dead bodies, I promise you. And we'll help and he'll be pleased. So what?</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_120">
-		<text>Abgemacht.</text>
+		<text>Agreed.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_121">
-		<text>Viel Glьck.</text>
+		<text>Good luck.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_130">
-		<text>Erst muss ich mir alles anschauen. Ich sage danach Bescheid.</text>
+		<text>At first, I need to see, and then tell you.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_131">
-		<text>Okay, wir warten. Aber nicht lange.</text>
+		<text>We are waiting. But not for long.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_200">
-		<text>Danke fьr deine Hilfe, Gezeichneter. Hier ist deine Belohnung.</text>
+		<text>Thank you for your help, Marked One Here, take your fee.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_201">
-		<text>Vielen Dank.</text>
+		<text>Thank you.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_300">
-		<text>Wir hatten doch eine Abmachung, oder?</text>
+		<text>We seem to agree on?</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_400">
-		<text>Du hast den Scharfschьtzen also erledigt. Hier ist deine gerechte Entschдdigung.</text>
+		<text>So you flunked sniper. Get their own laws.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_401">
-		<text>Gut.</text>
+		<text>Understood.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_402">
-		<text>Gehst du bitte zur Seite? Wir mьssen uns bereit machen ...</text>
+		<text>Slightly to the side, okay? We have to prepare ...</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_403">
-		<text>In Ordnung.</text>
+		<text>Okay.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_411">
-		<text>Ein andermal.</text>
+		<text>At another time.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_412">
-		<text>Ganz wie du willst.</text>
+		<text>How do you know.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_413">
-		<text>Bis dann.</text>
+		<text>Prior to the meeting.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_420">
-		<text>Sollen wir weitermachen?</text>
+		<text>What is going on?</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_421">
-		<text>Was genau?</text>
+		<text>What is it?</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_450">
-		<text>Danke.</text>
+		<text>Thank you.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_451">
-		<text>Wir wollen den Zaun in die Luft jagen und eine Party schmeiЯen. Wie ich sehe, bist du ein guter Schьtze - vielleicht kannst du dich um die Scharfschьtzen in den Tьrmen kьmmern? Wenn die weg sind, wird es fьr uns viel einfacher, zu diesem Lukasch zu kommen.</text>
+		<text>Now we blow up the fence and start the fun. You, I see a guy tags - so, maybe you want to do the snipers on the towers? Well, no snipers, it will be easier to get to this monster Lucas.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_501">
-		<text>Hast du den Scharfschьtzen erledigt?</text>
+		<text>You flunked sniper?</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_502">
-		<text>Ja.</text>
+		<text>Yes.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_503">
-		<text>Gute Arbeit! Hat den Weg fьr uns frei gemacht ... Hier ist eine Kleinigkeit fьr deine Mьhen.</text>
+		<text>Well done! Removed it from our roads ... Here, take this to work.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_504">
-		<text>Vielen Dank.</text>
+		<text>Thank you.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_506">
-		<text>Was muss ich tun?</text>
+		<text>What should I do?</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_507">
-		<text>Unterhalte dich mit den anderen Scharfschьtzen, wдhrend wir uns um diese Mistkerle kьmmern. Wie ich sehe, bist du gut in diesen Dingen.</text>
+		<text>As long as we deal with these goats, the ceiling with the rest of the snipers as well? You're in this business, I see, well sechesh.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_5070">
-		<text>Ein andermal.</text>
+		<text>At another time.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_5071">
-		<text>Nun, das musst du selbst wissen. Ich werde dich nicht zwingen.</text>
+		<text>Well, look. Nevolit will not.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_508">
-		<text>Abgemacht.</text>
+		<text>Welcome.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_5080">
-		<text>Sehr schцn.</text>
+		<text>That's good.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_601">
-		<text>Misch dich nicht ein, Gezeichneter.</text>
+		<text>Do not bother me, Marked One</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_602">
-		<text>In Ordnung.</text>
+		<text>Okay.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_701">
-		<text>Bleib auf deinem Weg.</text>
+		<text>Go your way.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_702">
-		<text>In Ordnung.</text>
+		<text>Well.</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_801">
-		<text>Was jetzt?</text>
+		<text>What else?</text>
 	</string>
-	
 	<string id="mil_dolg_skull_dialog_802">
-		<text>Nichts.</text>
+		<text>Nothing.</text>
 	</string>
-	
 	<string id="mil_dolg_soldier_dialog_0">
-		<text>Drei Arschlцcher erledigt, einfach so! Du bist gerade rechtzeitig gekommen, hast unsere Deckung nicht auffliegen lassen, und wir sind gerettet. Ьbrigens, ich denke, dass niemand davon wissen muss, nicht wahr?</text>
+		<text>Whew! On three assholes less! You came on time - and we have not slept, and he has remained intact. I think so, nobody will know. Huh?</text>
 	</string>
-	
 	<string id="mil_dolg_soldier_dialog_1">
-		<text>Das sehe ich auch so.</text>
+		<text>I think not.</text>
 	</string>
-	
 	<string id="mil_dolg_soldier_dialog_2">
-		<text>Perfekt. Suchst du nach mцglichen Einnahmequellen, Stalker?</text>
+		<text>That's Okay. There is a desire to earn a stalker?</text>
 	</string>
-	
 	<string id="mil_dolg_soldier_dialog_20">
-		<text>Schwer zu sagen.</text>
+		<text>Hard to say.</text>
 	</string>
-	
 	<string id="mil_dolg_soldier_dialog_21">
-		<text>Was, hast du keine Lust mehr, zu leben?</text>
+		<text>What do you want to live bored?</text>
 	</string>
-	
 	<string id="mil_dolg_soldier_dialog_22">
-		<text>Nein.</text>
+		<text>None.</text>
 	</string>
-	
 	<string id="mil_dolg_soldier_dialog_3">
-		<text>Etwas in der Art.</text>
+		<text>As well without him.</text>
 	</string>
-	
 	<string id="mil_dolg_soldier_dialog_30">
-		<text>Vielleicht.</text>
+		<text>Maybe.</text>
 	</string>
-	
 	<string id="mil_dolg_soldier_dialog_4">
-		<text>Dann folge uns, sprich mit unserem Kommandanten.</text>
+		<text>Then move on us, potolkuesh with our commander.</text>
 	</string>
-	
 	<string id="mil_dolg_soldier_dialog_5">
-		<text>Kommandant?</text>
+		<text>Commander?</text>
 	</string>
-	
 	<string id="mil_dolg_soldier_dialog_6">
-		<text>Klar. "Schдdel" wird dir alles selbst erzдhlen.</text>
+		<text>And then. Skull you himself and tell all.</text>
 	</string>
-	
 	<string id="mil_dolg_soldier_dialog_7">
-		<text>In Ordnung.</text>
+		<text>Well.</text>
 	</string>
-	
 	<string id="mil_freedom_commander_1001">
-		<text>Was gibt's, Stalker? Du kommst gerade rechtzeitig. Wir verteidigen uns gegen diese Monolith-Idioten, und die nдchste Welle kann jeden Moment eintreffen! Ob du es glaubst oder nicht, gerade ist unser letzter Scharfschьtze ausgeschaltet worden. Kannst du eventuell einspringen? Wir werden es dir nach dem Kampf entlohnen - es wird dir nicht Leid tun!</text>
+		<text>Hello, Stalker! At the time you are! We will defend ourselves from idiots monolitovskih, will now be the next wave to go! We have, count up the last sniper shot! Can you help? And after the battle numbered, you will not regret!</text>
 	</string>
-	
 	<string id="mil_freedom_commander_10011">
-		<text>Nein, ich kann euch nicht helfen.</text>
+		<text>No, I can not help.</text>
 	</string>
-	
 	<string id="mil_freedom_commander_10012">
-		<text>Zu dumm. Komm wieder, wenn du es dir anders ьberlegt hast.</text>
+		<text>It is a pity. Look, come if you change your mind.</text>
 	</string>
-	
 	<string id="mil_freedom_commander_1002">
-		<text>Ja, ich helfe euch.</text>
+		<text>Help.</text>
 	</string>
-	
 	<string id="mil_freedom_commander_1003">
-		<text>Klasse! Geh zum Turm, da findest du eine "Dragunow" und Munition. Knall sie von oben ab und komm nicht runter, sonst lдufst du Gefahr, von unseren eigenen Leuten umgelegt zu werden. Ist der Auftrag klar?</text>
+		<text>Excellent! Let's Blow to the tower, there is a modification of SVD and ammunition pile. Beat them from the top down does not come down, and then randomly will treat themselves. The task is clear?</text>
 	</string>
-	
 	<string id="mil_freedom_commander_1004">
-		<text>Klar wie KloЯbrьhe.</text>
+		<text>Two and two together.</text>
 	</string>
-	
 	<string id="mil_freedom_commander_1005">
-		<text>So sollte es sein. Ich hoffe, dass wir uns morgen frьh unterhalten kцnnen. Ach, und geh nicht zu weit weg ... Sonst kцnnte ich annehmen, dass du dich entschlossen hast, abzuhauen. Und das wьrde du-weiЯt-schon-was bedeuten, vergiss das nicht! Jetzt geh an deine Stellung.</text>
+		<text>And rightly so. Hopefully, the morning talk. Yes, do not go away ... And I thought that escape my mind. With all the think of it, mind you! Well ... Blow to the position.</text>
 	</string>
-	
 	<string id="mil_freedom_commander_1007">
-		<text>Das ist gut. In Ordnung, gehen wir an die Arbeit. Eine Monolithengruppe wird hier vielleicht durchbrechen wollen. Das bedeutet, dass es hier bald sehr heiЯ wird.</text>
+		<text>That is correct. Well, okay ... To business. There is an assumption here that soon will erupt squad Monolith. So that soon there will be hot.</text>
 	</string>
-	
 	<string id="mil_freedom_commander_1008">
-		<text>Verstanden.</text>
+		<text>Clear.</text>
 	</string>
-	
 	<string id="mil_freedom_commander_1009">
-		<text>Du hast Recht. Ich hoffe, es werden nicht zu viele ...</text>
+		<text>That you're right. Hopefully they will not do much ...</text>
 	</string>
-	
 	<string id="mil_freedom_commander_1010">
-		<text>Wo ist meine Stellung?</text>
+		<text>Where is my place?</text>
 	</string>
-	
 	<string id="mil_freedom_commander_1011">
-		<text>Geh zum Turm, da findest du eine "Dragunow" und Munition. Knall sie von oben ab und komm nicht runter - pass auf unsere eigenen Kugeln auf. Ist der Auftrag klar?</text>
+		<text>Blow to the tower, there lies SVD modification and cartridges. 'll Beat them at the top and does not go down, and then by our bullets get. The task is clear?</text>
 	</string>
-	
 	<string id="mil_freedom_commander_1012">
-		<text>Ja.</text>
+		<text>Yes.</text>
 	</string>
-	
 	<string id="mil_freedom_commander_2001">
-		<text>Lege dir in deiner Stellung alles zurecht, denn spдter wirst du keine Gelegenheit mehr haben!</text>
+		<text>Fuck your place, and then later once will be!</text>
 	</string>
-	
 	<string id="mil_freedom_commander_3001">
-		<text>Anscheinend haben wir alle erledigt. Ich wьrde sagen, das reicht fьr heute. Danke fьr deine Hilfe! Hier, nimm das - ein bisschen Geld, um dich aufzumuntern.</text>
+		<text>It seems that all pripechatat. As for me, enough for today. Thank you for your help! Here, take. Here a few bucks with them, more cheerfully.</text>
 	</string>
-	
 	<string id="mil_freedom_commander_3002">
-		<text>Danke.</text>
+		<text>Thank you.</text>
 	</string>
-	
 	<string id="mil_freedom_commander_3003">
-		<text>Viel Glьck, Gezeichneter!</text>
+		<text>Good luck, Marked One</text>
 	</string>
-	
 	<string id="mil_freedom_commander_4001">
-		<text>He, Gezeichneter! Hat Lukasch dich geschickt?</text>
+		<text>Hello, Marked One Lukash has sent you?</text>
 	</string>
-	
 	<string id="mil_freedom_commander_4002">
-		<text>Ja. Er hat mich gebeten, euch zu helfen.</text>
+		<text>Yes. You asked for help.</text>
 	</string>
-	
 	<string id="mil_freedom_commander_4003">
-		<text>Du kommst gerade rechtzeitig. Wir verteidigen uns gegen diese Monolith-Idioten, und die nдchste Welle ist fast hier! Ob du es glaubst oder nicht, gerade ist unser letzter Scharfschьtze ausgeschaltet worden. Kannst du eventuell einspringen? Wir werden es dir nach dem Kampf entlohnen - es wird dir nicht Leid tun!</text>
+		<text>At the time you are! We, as the time of the Nerds monolitovskih defend ourselves, now the next wave will go. We have, count up the last sniper shot! Can you help? And after the battle numbered, you will not regret!</text>
 	</string>
-	
 	<string id="mil_freedom_commander_5001">
-		<text>Anscheinend haben wir alle erledigt. Ich wьrde sagen, das reicht fьr heute. Danke fьr deine Hilfe! Wir haben zwar nicht viel Geld, aber hier hast du ein paar Infos fьr dein PDA, das wird fьr dich nьtzlich sein...</text>
+		<text>It seems that all pripechatat. As for me, enough for today. Thank you for your help! How do you see Salvage, we are not rich, but with a sense of gratitude in our order. Hold on Old PDA, I think you might be useful.</text>
 	</string>
-	
 	<string id="mil_freedom_commander_5002">
-		<text>Danke.</text>
+		<text>Thank you.</text>
 	</string>
-	
 	<string id="mil_freedom_commander_5003">
-		<text>Viel Glьck, Gezeichneter!</text>
+		<text>Good luck, Marked One</text>
 	</string>
-	
 	<string id="mil_freedom_commander_common2_0">
-		<text>Was ist das hier fьr ein Ort?</text>
+		<text>What is this place?</text>
 	</string>
-	
 	<string id="mil_freedom_commander_common2_1">
-		<text>Wir nennen es die Barriere ... Im Grunde ist sie auch genau das. Das ist der letzte Posten auf dieser Seite des Zentrums der Zone. Eine Art Puffer, weiЯt du, zwischen den Leuten und dem Wildgebiet.</text>
+		<text>We call it the barriers ... Yes it is, in principle, it is. This is, consider the last checkpoint before the normal center of the zone. Clipboard so you know, between humans and nonhumans ...</text>
 	</string>
-	
 	<string id="mil_freedom_commander_common2_2">
-		<text>Was ist dahinter?</text>
+		<text>And then there?</text>
 	</string>
-	
 	<string id="mil_freedom_commander_common2_3">
-		<text>Nur der Tod ... oder der Monolith. "Unser Monolith! Dein Reich komme ..." Verdammt! Kurz gesagt: niemand braucht dorthin gehen. Deshalb haben wir hier unsere Basis. Wir versuchen den Schmutz aus der Zone fernzuhalten. Wie eine Art Jedis ... He he he. AuЯerdem halten wir die wirklich dummen Leute auf - oder versuchen sie wenigstens davon abzuhalten, ins Zentrum zu kriechen.</text>
+		<text>Next only to death ... or service 'Monoliths'. 'Our Monolith! In thy name!' .. ' Ugh you! ..\nOdnim word go there no one should. So we stand here, do not give a crap any flood zone ... Jedi pancake. Still lingers particularly blunt. At least try to make the Centre is off limits.</text>
 	</string>
-	
 	<string id="mil_freedom_commander_common2_4">
-		<text>Warum macht ihr das?</text>
+		<text>Why would you?</text>
 	</string>
-	
 	<string id="mil_freedom_commander_common2_5">
-		<text>Wer sonst, wenn nicht wir? Die Wдchter? Die sind hoffnungslos, wenn es darum geht, Monster zu erledigen und unerwьnschte Stalker zu eliminieren. Aber manchmal muss man sie dazu anregen, etwas Nьtzliches zu tun! Siehst du sie dahinten? Nein? Genau das meine ich. Auf der anderen Seite haben wir es uns nicht zum Ziel gesetzt, die Wesen zu vernichten, die hier leben. Eine Barriere, eine normale Barriere - das sollte reichen. Solange niemand die Grenze ьberquert ...</text>
+		<text>And who then, as we do not? 'Duty'? They, of course, docks on the part of the extermination of monsters and unwanted stalkers, but just try to make something truly useful to do! You see them here? No? Here I am about that. And we, for example, set a goal to destroy the creatures that live here. Barrier, the normal barrier - it will be enough. The main thing is hell, none of the parties crossed ...</text>
 	</string>
-	
 	<string id="mil_freedom_commander_common2_6">
-		<text>Und was, wenn es doch jemand tut?</text>
+		<text>Well, if crossed?</text>
 	</string>
-	
 	<string id="mil_freedom_commander_common2_7">
-		<text>Alles kann passieren. Alles. Ich mцchte nicht zu sehr ...</text>
+		<text>Anything can happen. Every. I do not want ...</text>
 	</string>
-	
 	<string id="mil_guard_arsenal_dialog_1000">
-		<text>Halt! Der Zutritt zum Arsenal ist nur Freiheitsmitgliedern gestattet .</text>
+		<text>Stop! Access to the arsenal is restricted to members of 'Freedom.'</text>
 	</string>
-	
 	<string id="mil_guard_arsenal_dialog_2000">
-		<text>So, jetzt kannst du das Arsenal betreten. Nur, dass es da ein kleines Problem gibt ...</text>
+		<text>Well, now you can enter in the arsenal. There are, however, one problem ...</text>
 	</string>
-	
 	<string id="mil_guard_arsenal_dialog_2001">
-		<text>Was fьr ein Problem?</text>
+		<text>What?</text>
 	</string>
-	
 	<string id="mil_guard_arsenal_dialog_2002">
-		<text>Keine Angst, nichts Schreckliches. Das Schloss ist verklemmt, das ist alles. Wenn du es wirklich nicht erwarten kannst, dann schieЯ es in Stьcke. Ich werde es dann spдter auswechseln.</text>
+		<text>Yes, you do not strain, do not worry. Lock jammed, that's all affairs. If the wait unbearable, shooting his fucking, and I later new hang.</text>
 	</string>
-	
 	<string id="mil_guard_arsenal_dialog_2003">
-		<text>Ich verstehe.</text>
+		<text>Understandable.</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_1">
-		<text>"Geizhals" hat mich geschickt, damit ich die Blutsauger erledige.</text>
+		<text>I Miser sent here to kill a bloodsucking.</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_101">
-		<text>Nun, Stalker, was fьhrt dich zu so einem finsteren Ort? Mein Rat ist: Lauf um dein Leben, bevor es zu spдt ist!</text>
+		<text>And you, a stalker, as in this black spot skidded? Carry more feet until it's too late!</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_2">
-		<text>Ah. Nun, das ist etwas anderes ... WeiЯ der Teufel, was hier los ist! Ein paar unserer Leute sind ins Dorf gegangen und nicht mehr zurьckgekehrt. Mann, wir sind noch nicht scharf aufs Sterben! Wir sitzen hier und ьberlegen, was wir als Nдchstes tun sollen.</text>
+		<text>Ah, well, another thing ... Here, the hell knows what's going on! A couple of our own, as went into the village and never returned. Well, we do not feel like dying! We sit here until then ... Decide what to do next.</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_201">
-		<text>He, Bruder, du warst gestern Abend ziemlich daneben!</text>
+		<text>Well, brother, you are yesterday and uchudil!</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_202">
-		<text>Was meinst du damit?</text>
+		<text>What?</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_203">
-		<text>Wir sitzen hier rum, schauen uns um, und da kommst du dahergetorkelt, betrunken bis zu den Haaren! Und du torkelst mitten ins Dorf, genau in diese Blutsauger! Gut, dass wir da waren, um dich ein wenig zu bremsen und dich den Rausch ausschlafen zu lassen.</text>
+		<text>I sit here, looked around, and here you Presov, in drunken zyuzyu! And Presov, more importantly, right in the village of bloodsuckers! Well at least it was you who put the brakes and some sleep.</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_204">
-		<text>Und was macht ihr hier?</text>
+		<text>And why are you sitting here?</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_205">
-		<text>WeiЯ der Teufel, was hier los ist! Ein paar unserer Leute sind ins Dorf gegangen und nicht mehr zurьckgekehrt. Mann, wir sind noch nicht scharf aufs Sterben! Wir sitzen hier und ьberlegen, was wir als Nдchstes tun sollen.</text>
+		<text>Here, the hell knows what's going on! A couple of our own, as went into the village and never returned. Well, we do not feel like dying! We sit here until then ... Decide what to do next.</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_3">
-		<text>Hast du die Blutsauger gesehen?</text>
+		<text>You saw the blood-suckers?</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_301">
-		<text>Und? Wie ist es gelaufen?</text>
+		<text>So what? How are you getting?</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_302">
-		<text>Ich habe sie erledigt.</text>
+		<text>I flunked it.</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_303">
-		<text>Wow! Mann, du bist ja einer! Verdammt, du bist lebendig zurьckgekommen. Die nдchste Runde stoЯen wir auf dich an!</text>
+		<text>Wow! Well, give! Oh, man, with your due, time remained alive!</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_304">
-		<text>Danke.</text>
+		<text>Thank you.</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_4">
-		<text>Nein. Unsere Jungs sollten zum alten Wasserturm gehen; vermutlich hat es sie dort erwischt. Nun, wenn du eine Abmachung mit "Geizhals" hast, dann geh dorthin und schau mal nach ... Schreib uns deine Adresse auf, ja? Wir werden deine Familie benachrichtigen, wenn etwas schief geht.</text>
+		<text>None. Our guys had to go to the old water tower. Probably in there somewhere, and perished in the fight. Since you agreed to the Miser, go there and see ... The address, then drop me a line! If anything, send a letter to your relatives.</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_401">
-		<text>Warum lдufst du wie ein Gespenst herum?</text>
+		<text>What do you wander here ... like a ghost?</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_402">
-		<text>Ich schau mich nur um.</text>
+		<text>Look around.</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_5">
-		<text>Ich habe den Eindruck, du bist zu gut fьr diese Welt ... In Ordnung, ich werde gehen.</text>
+		<text>Good you are, as I see ... Okay, I'll go.</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_501">
-		<text>Was hat dich hierher gefьhrt?</text>
+		<text>And what has brought you here?</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_502">
-		<text>Ich schau mich nur um.</text>
+		<text>Look around.</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_503">
-		<text>Konntest du nichts Besseres finden? Das ist vermutlich die beschissenste Stelle in der ganzen Zone ...</text>
+		<text>A better place not found? Here, perhaps, the most shitty place in the Zone ...</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_504">
-		<text>Was stimmt mit dieser Stelle denn nicht?</text>
+		<text>What is wrong?</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_505">
-		<text>WeiЯ der Teufel, was hier los ist! Anscheinend ist das Dorf die neue Heimat eines Rudels Blutsauger. Ein paar unserer Leute sind ins Dorf gegangen und nicht mehr zurьckgekehrt. Mann, wir sind noch nicht scharf aufs Sterben! Wir sitzen hier und ьberlegen, was wir als Nдchstes tun sollen.</text>
+		<text>Here, the hell knows what's going on ... Bloodsuckers, apparently bred in the village. The couple, both went to our village and never returned. Well, we do not feel like dying! We sit here until then ... Decide what to do next.</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_506">
-		<text>Also seid ihr euch selbst noch nicht sicher?</text>
+		<text>That is, you yourself are not aware of?</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_507">
-		<text>Na los! Wenn du nichts zu tun hast und dein Kopf nicht richtig tickt, dann kannst du gerne mal einen Spaziergang durchs Dorf machen. Wenn du diese Viecher beseitigst, wird "Geizhals" bestimmt was fьr dich springen lassen. Schreib uns deine Adresse auf, ja? Wir werden deine Familie benachrichtigen, wenn etwas schief geht.</text>
+		<text>Well, then! If you do nothing, and the head is not right, you can go for a walk through the village. Flunk creatures - Miser forked out for sure. Hey, the address, then drop me a line! If anything, send a letter to your relatives.</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_508">
-		<text>In Ordnung, ich geh mal nachsehen.</text>
+		<text>Okay, I'll go look.</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_601">
-		<text>Du bist nicht ins Dorf gegangen, oder?</text>
+		<text>Are you walked through the village?</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_602">
-		<text>Doch.</text>
+		<text>Yes.</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_603">
-		<text>Ein paar unserer Leute sind ins Dorf gegangen und nicht mehr zurьckgekehrt. Du hast sie nicht zufдllig gesehen?</text>
+		<text>There are a couple of our left and never returned. Seen them?</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_604">
-		<text>Nein, habe ich nicht. Nur ein paar Leichen auf dem Boden.</text>
+		<text>No, not seen. Only the corpses of someone's been.</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_605">
-		<text>Hast du die Blutsauger gesehen?</text>
+		<text>A blood-suckers have seen?</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_606">
-		<text>Ja. Geh hin und schau selbst nach. Es ist jetzt sicher dort - ich habe sie weggeputzt.</text>
+		<text>Seen. Yourself go and look. It is already possible - I flunked them.</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_607">
-		<text>Wow! Das ist nicht ьbel! WeiЯt du was? Geh mal zu "Geizhals" in unserer Basis. Er zahlt fьr gute Arbeit.</text>
+		<text>Wow! That is the number! Do you know that ...? You go to the miser in our database. He is a good thing the money pays for.</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_7">
-		<text>In Ordnung, ich geh mal hin.</text>
+		<text>Okay, I'll go look.</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_701">
-		<text>Und? Wie ist es gelaufen?</text>
+		<text>So what? How are you getting?</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_702">
-		<text>Ich habe die Viecher abgeschlachtet.</text>
+		<text>I piled these creatures.</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_703">
-		<text>Wow, du hast es ihnen gezeigt! WeiЯt du was? Geh mal zu "Geizhals" in unserer Basis. Er zahlt fьr gute Arbeit.</text>
+		<text>Wow, well, you gave the heat! Do you know that ...? You go to the miser in our database. He pays a good deal.</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_704">
-		<text>Das werde ich tun.</text>
+		<text>I'll go.</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_80">
-		<text>Na ja, egal ...</text>
+		<text>As you wish ...</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_801">
-		<text>Was hat dich hierher gefьhrt?</text>
+		<text>And what has brought you here?</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_802">
-		<text>Ich schau mich nur um.</text>
+		<text>Look around ...</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_803">
-		<text>Konntest du nichts Besseres finden? Das ist vermutlich die beschissenste Stelle in der ganzen Zone ...</text>
+		<text>A better place not found? Has brought you into the most disgusting place zone ...</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_804">
-		<text>Was stimmt mit dieser Stelle denn nicht?</text>
+		<text>What is wrong?</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_805">
-		<text>Ach, weiЯ der Teufel. Anscheinend haben sich Blutsauger im Dorf eingenistet. Ein paar unserer Leute sind ins Dorf gegangen und nicht mehr zurьckgekehrt. Mann, wir sind noch nicht scharf aufs Sterben!</text>
+		<text>Yes, the hell knows. Looks like bloodsuckers in the village had acquired. A couple of our own, as went into the village and never returned. Well, we do not feel like dying.</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_806">
-		<text>Also seid ihr euch selbst noch nicht sicher?</text>
+		<text>That is, you yourself are not aware of?</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_807">
-		<text>Na los! Wenn du nichts zu tun hast und dein Kopf nicht richtig tickt, dann kannst du gerne mal einen Spaziergang durchs Dorf machen. Wenn du diese Viecher beseitigst, wird "Geizhals" bestimmt was fьr dich springen lassen. Schreib uns deine Adresse auf, ja? Wir werden deine Familie benachrichtigen, wenn etwas schief geht.</text>
+		<text>Well! If you do nothing, and the head is not right, you can go for a walk through the village. Flunk creatures - Miser forked out for sure. Hey, the address, then drop me a line! If anything, send a letter to your relatives.</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_808">
-		<text>In Ordnung, ich geh mal hin.</text>
+		<text>Okay, I'll go look.</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_901">
-		<text>Und? Wie ist es gelaufen?</text>
+		<text>So what? How are you getting?</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_902">
-		<text>Ich habe die Viecher abgeschlachtet.</text>
+		<text>I piled these creatures.</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_903">
-		<text>Wow, das ist beeindruckend! Glьckwunsch! Und das Beste ist ... du bist noch am Leben ...</text>
+		<text>That is, yes! Well, accept my congratulations! Most importantly, stay alive ...</text>
 	</string>
-	
 	<string id="mil_hunter_dialog_904">
-		<text>Danke.</text>
+		<text>Thank you.</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_10001">
-		<text>Da du unseren Jungs an der Barriere geholfen hast, darfst du dich auf unserem Territorium ausruhen. Und Hilfe bekommst du auch. Ach, und natьrlich meine persцnliche Wertschдtzung - ein bisschen Legalisierung fьr dich. Ich schreibe dich in unsere Fraktion ein.</text>
+		<text>Once you have helped the guys on the barrier, you can expect to rest on our territory and our help. Well, from me personally, some bank notes ... And from that moment I enroll you in our group.</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_1001">
-		<text>Hey, Stalker. Was brauchst du?</text>
+		<text>Hello, stalker. What do I need?</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_10011">
-		<text>Nicht viel, wirklich.</text>
+		<text>Nothing, in general.</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_10012">
-		<text>Dann haben wir nichts zu bereden. Zeit ist Geld...</text>
+		<text>Then they fled. Yeah? Time - money.</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_1100">
-		<text>Auf einem Gehцft bei eurer Basis habe ich eine Gruppe der Wдchter gesehen. Ungefдhr acht Mдnner, gut ausgerьstet.</text>
+		<text>I saw a detachment of 'duty' on the farm, not far from your base. Eight people, well armed.</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_11001">
-		<text>Warum bist du von der Barriere weggegangen? Verpiss dich und lass mich dich nie wieder in der Nдhe meiner Basis erwischen.</text>
+		<text>What the hell do you run away with the barriers? Vali-ka you my base, and that I did not see you anymore ...</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_1101">
-		<text>Verdammt, diese Mistkerle geben keine Ruhe! Nun gut, dann mьssen wir ihnen eine Lehre erteilen. Hey, Stalker, hilfst du uns? Bekommst auch eine Belohnung. Sprich mit Max, unserem Boss. Ihr werdet eine Mannschaft zusammenstellen und diese Sauger fertig machen.</text>
+		<text>Damn, these goats can not get enough! Well, it is necessary to punish them ... Well, the stalker, if you help us - we are grateful. Go to Max - he's a warrior chief. Gather the people and vykorchuete these elk.</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_11011">
-		<text>In Ordnung.</text>
+		<text>Well.</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_11012">
-		<text>Viel Glьck, Stalker.</text>
+		<text>Good luck, stalker.</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_1200">
-		<text>Ich habe mich bereits um die gekьmmert.</text>
+		<text>I have to deal with them.</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_12001">
-		<text>Du hast also diese Verrдtergeschichte verpatzt und auch noch an der Barriere versagt? Verschwinde von meiner Basis und lass dich nie wieder blicken!</text>
+		<text>From an informer, then did not work out, and with a barrier, too? Wali from the base, and that of you here was not!</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_1210">
-		<text>Echt? Was hast du gesagt, wie viele das waren?</text>
+		<text>Seriously? How you said them there?</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_1221">
-		<text>Acht Mдnner.</text>
+		<text>Eight people.</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_1222">
-		<text>Du bist ganz schцn schnell, Stalker ... In Ordnung. Wьrde es dir also etwas ausmachen, uns zu helfen? Es ist mir unangenehm, das zuzugeben, aber unter uns befindet sich ein Verrдter. Sein Name ist Pawlik. Er gibt wertvolle Informationen weiter, und das muss aufhцren.</text>
+		<text>Slap you, Stalker ... If so, then maybe something else in us than benefits? It is regrettable to recognize ... However, we wound up snitch ... Pavlik name. Information is transmitted to the side, and this case should terminate.</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_1223">
-		<text>Auf welche Weise?</text>
+		<text>How?</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_1300">
-		<text>Du musst ihm zum Gehцft folgen und herausfinden, fьr wen er arbeitet. Er kennt dich nicht und weiЯ auch nichts von unserem Gesprдch, also ...</text>
+		<text>Your task is to go after him on the farm and find out who it transmits information. You he does not know about our conversation, too, so ...</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_13001">
-		<text>Glaubst du, ich hдtte etwas Arbeit fьr dich?</text>
+		<text>You think I have a job for you?</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_13002">
-		<text>Vielleicht.</text>
+		<text>Maybe.</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_13003">
-		<text>Wir haben herausgefunden, dass es in unserer Mitte eine Ratte namens Pawlik gibt. Er gibt wertvolle Informationen weiter. Wir wissen das ganz sicher, haben aber keine Beweise. Deine Aufgabe ist es, ihn auszuspionieren und herauszufinden, fьr wen er singt. Ich glaube, er geht heute Abend zu einem Treffen. Du musst ihm heimlich folgen. Pass nur auf, dass er dich nicht sieht - er ist sehr achtsam. Wenn du die Identitдt seines Verbindungsmannes herausgefunden hast, kannst du ihn und den anderen Typen erledigen.</text>
+		<text>We wound up on the basis of 'mole' named Pavlik, who transmits the information over to the side. Even though we know it, but know little. We need to prove. Your task is to trace him and know to whom he transmits the information. I think that today he would go to a meeting with connected. Will you go quietly behind him. Only carefully so he did not see - he's very careful. How do I know who he meets, then slam it, and along with whom he meets.</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_1301">
-		<text>Ich werde es machen.</text>
+		<text>Undertake.</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_1302">
-		<text>Wir haben herausgefunden, dass es in unserer Mitte eine Ratte namens Pawlik gibt. Er gibt wertvolle Informationen weiter. Wir wissen das ganz sicher, haben aber keine Beweise. Deine Aufgabe ist es, ihn auszuspionieren und herauszufinden, fьr wen er singt. Ich glaube, er geht heute Abend zu einem Treffen. Du musst ihm heimlich folgen. Pass nur auf, dass er dich nicht sieht - er ist sehr achtsam. Wenn du die Identitдt seines Verbindungsmannes herausgefunden hast, kannst du ihn und den anderen Typen erledigen.</text>
+		<text>We wound up on the basis of 'mole' named Pavlik, who transmits the information over to the side. Even though we know it, but know little - we have to prove. Your task - to track him and find out who it transmits information. I think that today he would go to a meeting with connected. Will you go quietly behind him. Only carefully so he did not see - he's very careful. How do I know who he meets, then slam it, and along with whom he meets.</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_1391">
-		<text>Nein, jetzt nicht.</text>
+		<text>No, not now.</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_14001">
-		<text>Da gibt es noch etwas, das ich dich fragen wollte.</text>
+		<text>There is one thing that I would like to ask you.</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_1500">
-		<text>Er ist gerade gegangen, also musst du dich beeilen, ihm zu folgen. Denke dran: Du kannst und sollst ihn erledigen, aber erst, wenn feststeht, fьr wen er arbeitet. Du wirst den anderen Typen auch umlegen mьssen.</text>
+		<text>He recently resigned, so I have to catch up. Remember that slap it can and should ... But not before he will shine on who merges the information. The second will also have to be removed.</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_1501">
-		<text>Verstanden.</text>
+		<text>Clear.</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_2001">
-		<text>Ich habe dir doch gesagt, dass du zu Max gehen sollst.</text>
+		<text>I say, go to Max.</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_3001">
-		<text>Der Auftrag ist also ausgefьhrt ... Gut, gut. Ich habe einen weiteren fьr dich!</text>
+		<text>The task, therefore, made ... Not bad. And I have one there!</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_3002">
-		<text>Hmm ... Und was?</text>
+		<text>Hmm ... And what?</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_30021">
-		<text>Leider muss ich zugeben, dass sich unter uns sich ein Verrдter befindet. Sein Name ist Pawlik. Er gibt wertvolle Informationen weiter, und das muss aufhцren.</text>
+		<text>It is regrettable to recognize ... However, we wound up snitch ... Pavlik name. Information is transmitted to the side, and this case should terminate.</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_3003">
-		<text>Genau. Und ich glaube, er geht zwischen 10 und 11 Uhr abends zu einem Treffen. Es wird dann dunkel sein, daher wird ihn niemand sehen. Aber die Nachtmutanten sind noch nicht drauЯen. Geh los, Stalker. Wenn du fertig bist, wirst du ein Mitglied unserer Gruppe. Denke dran, du musst den Verrдter blutig erwischen! Du musst ihn wдhrend des Treffens erledigen, sonst ist der Auftrag gescheitert.</text>
+		<text>Exactly. I think he tried to go to a meeting sometime between 22:00 and 23:00. At such times, sufficiently dark to very few people saw it, and nocturnal mutants is not all povysovyvalis. Next, a stalker. Upon completion of the job can be a member of our group. Remember, an informer to catch the hot! That is, it needs to slap at the meeting, otherwise the problem will be considered failed.</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_4001">
-		<text>Du bist immer noch hier?</text>
+		<text>Are you still here?</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_5001">
-		<text>Gute Arbeit, Gezeichneter! Hier, nimm das ... deine Bezahlung dafьr, dass du dich um den Verrдter gekьmmert hast. Du darfst dich jederzeit auf unserem Territorium ausruhen, auЯerdem darfst du auf unsere Hilfe zдhlen. Es gibt allerdings noch eine weitere Sache, von der ich mцchte, dass du sie fьr mich erledigst. Bist du noch nicht zu erschцpft?</text>
+		<text>Great work, Marked One Hold ... The fee for an informer. Invite to rest on our territory, when you want, and our help too, you can count on. Just ... There is another thing that I would like you to instruct. I'm not tired yet?</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_5002">
-		<text>Was genau ist es?</text>
+		<text>What?</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_5003">
-		<text>Wenn du dich bereit fьhlst, gehst du zum Posten beim Ausgang des Roten Waldes. Wir haben Berichte gehцrt, die besagen, dass entweder Mutanten oder Monolith-Leute einen neuen Versuch planen, dort durchzubrechen. Die Jungs brauchen Hilfe.</text>
+		<text>If you feel the strength, then you can go to the gate at the entrance to the radar. There are some indications there is expected next attempt to break the mutants, or 'Monolith.' Need help guys.</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_5004">
-		<text>Wenn du noch nicht zu erschцpft bist, versuch doch uns eine Kiste mit Dynamit aus Kordon zu bringen. Wir wollen mit den Jungs einen geheimen Ьbergang zum Dunklen Tal durch zu sprengen... Wenn du hilfst, dann kannst du es auch nutzen...</text>
+		<text>If you feel the strength, try to smuggle a box of dynamite from the cordon. We are here with the guys rally planned. We want a dark valley secret passage to break ... Help, and you can use ... Well?</text>
 	</string>
 	<string id="mil_leader_start_dialog_50042">
-		<text>In Moment kann ich das nicht, ich hab noch was anderes zu tun...</text>
+		<text>While I can not have things not yet completed</text>
 	</string>
 	<string id="mil_leader_start_dialog_50041">
-		<text>Interessant, ich versuche die Kiste anzuschleppen... Wartet.</text>
+		<text>It is interesting to try to pull. Wait.</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_6001">
-		<text>Entspann dich. Im Moment gibt es nichts zu tun.</text>
+		<text>Chill. Work yet.</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_7001">
-		<text>Ja, du hast den Auftrag verpatzt ... das ist echt mies. Aber es gibt noch eine weitere Chance!</text>
+		<text>Yes, the problem you flunked ... Poor thing. Okay, there is always a chance to improve!</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_7002">
-		<text>Was fьr eine Chance?</text>
+		<text>And what?</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_7003">
-		<text>Bestimmte Dinge weisen darauf hin, dass die Monolithen schon bald vom Roten Wald aus durchbrechen wollen. Du solltest zu Cap gehen - er ist der Kommandant an der Barriere - und mal schauen, ob er Hilfe gebrauchen kann. Na ja, eigentlich ist es ziemlich klar, dass er welche braucht ... ehrlich ...</text>
+		<text>Something that indicates that in the near future Monolith will again try to break from the radar. Have to go to Kepu - he commander of the barrier - and find out if he needed help. Although, here and find out not necessary, and so everything is clear ...</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_7004">
-		<text>In Ordnung, das mache ich.</text>
+		<text>Okay, I'll take it.</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_7006">
-		<text>Nein, das mцchte ich noch nicht machen.</text>
+		<text>No, I will still be taken.</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_7007">
-		<text>Denk an unsere Jungs, die werden sonst vergeudet! Sieh mal, ich habe sonst niemanden, den ich schicken kцnnte ... niemanden.</text>
+		<text>Think of what our guys out there have to! You see, me and send a nobody ... Except you.</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_8001">
-		<text>Du hast den Auftrag verpatzt. Jetzt kцnnen wir den Dokumenten auf Wiedersehen sagen. Wir haben keine Verwendung fьr Verlierer, wie du es einer bist.</text>
+		<text>You failed the task, and now these documents we can not see how to their ears. We do not need those losers.</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_8004">
-		<text>Nun, du hast den Auftrag verpatzt ... das ist echt mies. Aber du hast den Jungs an der Barriere geholfen. Was soll's - du darfst dich auf unserem Territorium ausruhen. Sollte irgendwas sein, werden wir dir helfen.</text>
+		<text>Yes, the problem you flunked ... Poor thing. Well, since you helped the guys on the barrier, so be it - sleep in our territory. If that, and we'll help with the case.</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_8005">
-		<text>Hast du Arbeit?</text>
+		<text>There is some work?</text>
 	</string>
-	
 	<string id="mil_leader_start_dialog_8006">
-		<text>Im Moment nicht.</text>
+		<text>Not yet.</text>
 	</string>
 	<string id="mil_leader_start_dialog_9001">
-		<text>Ich habe dir doch gesagt, dass du zur Barriere gehen sollst.</text>
+		<text>I told you, go to the barrier.</text>
 	</string>
 	<string id="mil_max_dialog_10001">
-		<text>Wir unterhalten uns, nachdem wir diese Wдchterarschlцcher erledigt haben.</text>
+		<text>Fucking dolgovtsev, then we'll talk.</text>
 	</string>
-	
 	<string id="mil_max_dialog_10002">
-		<text>In Ordnung.</text>
+		<text>Well.</text>
 	</string>
-	
 	<string id="mil_max_dialog_1001">
-		<text>Lukasch hat gesagt, dass du das tun wьrdest. Hast du diese ... beim Gehцft gesehen?</text>
+		<text>Lukash said that you you approach. Did you see these ... on the farm?</text>
 	</string>
-	
 	<string id="mil_max_dialog_1100">
-		<text>Nein.</text>
+		<text>None.</text>
 	</string>
-	
 	<string id="mil_max_dialog_1101">
-		<text>Teufel ... Die Wдchter haben schon wieder etwas vor! Na gut. Kommst du mit uns?</text>
+		<text>Sucks ... Again in 'debt' in the ass itches! Well, come on. Come with us. Huh?</text>
 	</string>
-	
 	<string id="mil_max_dialog_1102">
-		<text>In Ordnung.</text>
+		<text>Well.</text>
 	</string>
-	
 	<string id="mil_max_dialog_1200">
-		<text>Ja.</text>
+		<text>Yes.</text>
 	</string>
-	
 	<string id="mil_max_dialog_1201">
-		<text>Sind es viele?</text>
+		<text>And many are there?</text>
 	</string>
-	
 	<string id="mil_max_dialog_1210">
-		<text>Kann ich nicht sicher sagen. Ich glaube nicht, dass es allzu viele sind.</text>
+		<text>Not exactly tell you. I do not think that very much.</text>
 	</string>
-	
 	<string id="mil_max_dialog_1220">
-		<text>Etwa sechs bis acht Personen. Ganz ordentlich ausgerьstet.</text>
+		<text>Six or eight. Not bad equipped.</text>
 	</string>
-	
 	<string id="mil_max_dialog_2001">
-		<text>Gehe zu Lukasch.</text>
+		<text>Go to Lukash.</text>
 	</string>
-	
 	<string id="mil_max_dialog_3001">
-		<text>Hast du Fragen?</text>
+		<text>Questions?</text>
 	</string>
-	
 	<string id="mil_max_dialog_3002">
-		<text>Ja. Lukasch hat mir aufgetragen, den Boten der Wдchter auf dem Weg vom Roten Wald zur Totenstadt abzufangen. Kannst du mir sagen, wo die beste Stelle dafьr ist?</text>
+		<text>Yes. Lucas set a task - to intercept the courier 'duty' on the road with a radar in the dead city. Not podskazhesh, where better to do it?</text>
 	</string>
-	
 	<string id="mil_max_dialog_3003">
-		<text>Hmm. Das Beste wдre, ihn zu fangen, bevor er das Gehцft am Weg zur Totenstadt erreicht. Dort wartet mit Sicherheit Verstдrkung auf ihn, daher wirst du Probleme bekommen, mit ihnen allen fertig zu werden. AuЯerdem mьsstest du auf diesem Weg das Dorf durchqueren, und das ist ganz schlecht. Du solltest besser цstlich am Dorf vorbei gehen, und zwar schnell.</text>
+		<text>Hmm ... Intercept it better before it reaches the village of the aisle in a dead city. There he was, obviously, will have to wait, and you are unlikely to cope with. Yes, and through the village will have to go, and there better not be displayed. Move east of the village and faster.</text>
 	</string>
-	
 	<string id="mil_max_dialog_3004">
-		<text>Was ist denn in diesem Dorf?</text>
+		<text>And what is there in the village?</text>
 	</string>
-	
 	<string id="mil_max_dialog_3005">
-		<text>Glaube mir, da ist nichts Gutes. Jede Menge Monster, die umherstreunen, und Anomalien. Ich erzдhle dir spдter davon.</text>
+		<text>Believe me, nothing good. Critters many climbs, the anomalies are also missing. Then he'll tell you.</text>
 	</string>
-	
 	<string id="mil_max_dialog_4001">
-		<text>Steht ein Glьckwunsch an?</text>
+		<text>You can congratulate?</text>
 	</string>
-	
 	<string id="mil_max_dialog_4002">
-		<text>Ja.</text>
+		<text>Possible.</text>
 	</string>
-	
 	<string id="mil_max_dialog_4003">
-		<text>Ich sehe schon, du bist aus dem richtigen Holz geschnitzt! Wьrdest du vielleicht einen weiteren kleinen Job fьr mich ьbernehmen? Wenn du ihn erledigst, gebe ich dir meinen "Desert Eagle". Ein wunderbares Stьck, hat richtig Wumms!</text>
+		<text>You, look, the guy did not miss! Not have done it for me one rabotenka? Do - I tell you of his 'Desert Eagle' give. Great barrel, powerful! ..</text>
 	</string>
-	
 	<string id="mil_max_dialog_4004">
-		<text>Aber, was soll ich denn tun?</text>
+		<text>And that something should be done?</text>
 	</string>
-	
 	<string id="mil_max_dialog_4005">
-		<text>Da gibt es einen Typen, der sich im Sumpf eingegraben hat. Meine Jungs haben gesehen, wie er vom Dorf ьber die Hecke und den Graben gesprungen ist. Er muss irgendwas gesehen haben, das in seinem Kopf ein paar Schrauben gelцst hat. Jetzt schieЯt er auf jeden, den er sieht. Du musst herausfinden, was er gesehen hat, denn unsere Leute haben jetzt Angst, ins Dorf zu gehen.</text>
+		<text>Then sat down on the swamp guy. The guys saw how he raced out of the village, up hill and down dale. Obviously saw something such that the roof blew off - now fires everyone sees. Need to know what he was such a nadybal, and then we are afraid to walk to the village.</text>
 	</string>
-	
 	<string id="mil_max_dialog_40051">
-		<text>Nein, jetzt nicht.</text>
+		<text>No, not at this time.</text>
 	</string>
-	
 	<string id="mil_max_dialog_400511">
-		<text>Na ja, egal.</text>
+		<text>Well, as you wish.</text>
 	</string>
-	
 	<string id="mil_max_dialog_40052">
-		<text>Hier ist das Speicherstick, das ich von dem Verrьckten bekommen habe.</text>
+		<text>Here's stick. I took it from a guy who gathered.</text>
 	</string>
-	
 	<string id="mil_max_dialog_400521">
-		<text>He, danke, Stalker! Nimm diese Kanone - du hast sie dir verdient.</text>
+		<text>Thank you stalker! Hold the barrel - has earned.</text>
 	</string>
-	
 	<string id="mil_max_dialog_400522">
-		<text>Hast du auch Muni dafьr?</text>
+		<text>And the ammunition?</text>
 	</string>
-	
 	<string id="mil_max_dialog_400523">
-		<text>Nur die im Magazin. Tut mir Leid, mehr habe ich nicht. Geh mal zu "Geizhals", vielleicht hat er noch mehr.</text>
+		<text>Only those in the cage. Sorry, there is simply no more. Go to the miser. It can be found.</text>
 	</string>
-	
 	<string id="mil_max_dialog_4006">
-		<text>Ich werde es mal versuchen.</text>
+		<text>Try.</text>
 	</string>
-	
 	<string id="mil_max_dialog_4007">
-		<text>Dann viel Glьck. Vergiss nicht: Da ist ein altes Minenfeld, aber mit der Hilfe einiger guter alter Schrauben kannst du allen Minen ausweichen.</text>
+		<text>Then good luck. Keep in mind - there is an old minefield, but with the old faithful bolt mines can be avoided.</text>
 	</string>
-	
 	<string id="mil_max_dialog_5001">
-		<text>Was hast du also herausgefunden? Was ist mit diesem Psycho passiert?</text>
+		<text>So what? Learned? What could be so found this nutty?</text>
 	</string>
-	
 	<string id="mil_max_dialog_5002">
-		<text>Hier ist das Speicherstick - ich habe es von dem Verrьckten bekommen.</text>
+		<text>Here, stick. Found her at the gaga guy.</text>
 	</string>
-	
 	<string id="mil_max_dialog_6001">
-		<text>Was? Jetzt schon?</text>
+		<text>What, already?</text>
 	</string>
-	
 	<string id="mil_max_dialog_7001">
-		<text>Was willst du wissen?</text>
+		<text>What do you want to know?</text>
 	</string>
-	
 	<string id="mil_max_dialog_8001">
-		<text>Was gibt's, Stalker? Was hast du?</text>
+		<text>Hello, Stalker! With what has come?</text>
 	</string>
-	
 	<string id="mil_max_dialog_8002">
-		<text>Ich habe Geschдftliches zu besprechen. Kannst du mir den Weg zu deinem Boss zeigen?</text>
+		<text>In the cases came. Podskazhesh not where your head?</text>
 	</string>
-	
 	<string id="mil_max_dialog_8003">
-		<text>Du meinst Lukasch - er ist unser Anfьhrer. Geh zum Hauptgebдude.</text>
+		<text>This is to Lukash. He is a senior. Go to the main building.</text>
 	</string>
-	
 	<string id="mil_max_dialog_9001">
-		<text>Wie ich sehe, bist du klargekommen. Gib Lukasch die Dokumente.</text>
+		<text>See coped with the task. Give Lukash documents.</text>
 	</string>
-	
 	<string id="mil_max_dialog_9100">
-		<text>Geh zu Lukasch und erstatte Bericht. Danach unterhalten wir uns, okay?</text>
+		<text>Go to the Lukash, report, and then we'll talk, all right?</text>
 	</string>
-	
 	<string id="mil_max_dialog_9101">
-		<text>In Ordnung.</text>
+		<text>Well.</text>
 	</string>
-	
 	<string id="mil_patrol_dialog1_0">
-		<text>Kumpel, du bist in der Freiheitsbasis! Entspann dich, fьhle dich wie zuhause!</text>
+		<text>Dude, you on the basis of 'Freedom!' Relax, be at home!</text>
 	</string>
-	
 	<string id="mil_patrol_dialog1_1">
-		<text>Ich verstehe.</text>
+		<text>Understandable.</text>
 	</string>
-	
 	<string id="mil_patrol_dialog1_2">
-		<text>Benimm dich, ja? Verstanden? Wenn du Dummheiten machst, wird es dir noch Leid tun. Wir hatten hier mal einen Langsamdenker, er hat jeden hier so sehr verдrgert, dass wir ihn nackt zu einem Spaziergang auf dem Minenfeld geschickt haben. Du hдttest hцren sollen, wie Geizhals geflucht hat, als ihm der Arm dieses Typen mitten auf den Kopf fiel! Das war wirklich etwas Besonderes ... ja ... Also, hast du es begriffen?</text>
+		<text>Only within the framework, right? Got it? You'll be much spoil, blame yourself. There was a blunt. So, when all pulled, we Golyakov the minefield allowed a walk. That miser mother when his head fell off the hand of this type. It was something ... Hmm, well ... Vkuril?</text>
 	</string>
-	
 	<string id="mil_patrol_dialog1_3">
-		<text>Hab's verstanden.</text>
+		<text>Understood.</text>
 	</string>
-	
 	<string id="mil_patrol_dialog1_4">
-		<text>Guter Mann! Wegtreten.</text>
+		<text>Well done! Free.</text>
 	</string>
-	
 	<string id="mil_patrol_dialog2_0">
-		<text>Ah, ein Anfдnger ... Komm doch mal eine Sekunde her.</text>
+		<text>A svezhachok ... Go over here.</text>
 	</string>
-	
 	<string id="mil_patrol_dialog2_1">
-		<text>Ich verstehe nicht ...</text>
+		<text>I do not understand.</text>
 	</string>
-	
 	<string id="mil_patrol_dialog2_10">
-		<text>Wo willst du denn hin? Bleib stehen! Es ist doch so schцn hier ... und wir wollen heute etwas zu Abend essen.</text>
+		<text>Where? Stay! We have a good ... Lunch will be again today.</text>
 	</string>
-	
 	<string id="mil_patrol_dialog2_11">
-		<text>Nee, so appetitlich bin ich auch nicht.</text>
+		<text>Yes, I'm tasteless.</text>
 	</string>
-	
 	<string id="mil_patrol_dialog2_12">
-		<text>Was?! ScheiЯe, warum hast du mir das nicht vorher gesagt? Wir vergeuden hier unsere Zeit. Verschwinde, Arschgesicht. Und dieses Mal meine ich es todernst ...</text>
+		<text>What! That damn, why did not you say! Only time wasting. Go away, tasteless ... I have already quite seriously tell you, dude.</text>
 	</string>
-	
 	<string id="mil_patrol_dialog2_2">
-		<text>Was verstehst du nicht? Ach, du hast die Geschichte ьber die Langsamdenker noch nicht gehцrt, was?</text>
+		<text>Why do not you understand? Ah, the story of the slow-witted not heard yet, perhaps?</text>
 	</string>
-	
 	<string id="mil_patrol_dialog2_3">
-		<text>Nein, habe ich nicht.</text>
+		<text>I have not.</text>
 	</string>
-	
 	<string id="mil_patrol_dialog2_4">
-		<text>In Ordnung. Dann denk mal hierьber nach: Dies sind schlanke Zeiten ...</text>
+		<text>Hence, the case. Sam ware, the time now hungry ...</text>
 	</string>
-	
 	<string id="mil_patrol_dialog2_5">
-		<text>Und das bedeutet?</text>
+		<text>What?</text>
 	</string>
-	
 	<string id="mil_patrol_dialog2_6">
-		<text>Nun, das ist einfach! Ein hungriger Soldat ist ein schlechter Soldat. Und es gibt hier so viele davon ...</text>
+		<text>Yes Live! A hungry soldier - a bad fighter. And we here in-one how many ...</text>
 	</string>
-	
 	<string id="mil_patrol_dialog2_7">
-		<text>Und?</text>
+		<text>So what?</text>
 	</string>
-	
 	<string id="mil_patrol_dialog2_8">
-		<text>Wo sollen wir so viel Fleisch herbekommen? Und - zack - da kommst du daher!</text>
+		<text>How much meat attack? And here, as ordered, you!</text>
 	</string>
-	
 	<string id="mil_patrol_dialog2_9">
-		<text>Verstanden.</text>
+		<text>Clear.</text>
 	</string>
-	
 	<string id="mil_screw_dialog_1000">
-		<text>Hast du irgendwas Kaputtes, Kumpel?</text>
+		<text>A man, you broke it?</text>
 	</string>
-	
 	<string id="mil_screw_dialog_1001">
-		<text>Kaputtes?</text>
+		<text>Broken?</text>
 	</string>
-	
 	<string id="mil_screw_dialog_1002">
-		<text>Ach! Du bist nicht hier, um mich um Hilfe zu bitten? Puh! Ich bin das echt Leid. Sobald etwas kaputt geht, kommen sie zu mir gerannt und jammern herum.</text>
+		<text>So you will not see me? Wow! And then I already zadolbali. As that breaks down, immediately run here and kanyuchat ...</text>
 	</string>
-	
 	<string id="mil_screw_dialog_1003">
-		<text>Und wer bist du?</text>
+		<text>And who are you?</text>
 	</string>
-	
 	<string id="mil_screw_dialog_1004">
-		<text>Ich bin ein Mechaniker. Eine Art Herr Ich-Repariere-Alles ... Ich repariere Waffen und alles was du mir sonst noch bringst. Im Moment arbeite ich an diesen Autos.</text>
+		<text>I am a mechanic. Samodelkin ... Trunks of repair and everything that will bring. Now here is the machine decided to give the order.</text>
 	</string>
-	
 	<string id="mil_screw_dialog_1005">
-		<text>Und? Wie kommst du voran?</text>
+		<text>Obtained?</text>
 	</string>
-	
 	<string id="mil_screw_dialog_1006">
-		<text>Pfft! Nur sehr schleppend. Ich bin total geschafft. Hцr zu, hast du vielleicht Wodka bei dir? Ich wьrde, дhm ... dir ... Mцchtest du eine nette Zieloptik? Die beste Zieloptik, die es gibt!</text>
+		<text>What! All rubbish. Zadolbalsya already. Listen, do you have vodka? I would you ... Would you like a good sight of the ladies? Optics - the highest grade!</text>
 	</string>
-	
 	<string id="mil_screw_dialog_1100">
-		<text>Nein.</text>
+		<text>None.</text>
 	</string>
-	
 	<string id="mil_screw_dialog_1101">
-		<text>Ein echter Verlust. Wenn du welchen hast - komm rein, fьhle dich wie zuhause.</text>
+		<text>Is that you in vain. If so, you come in, do not be shy.</text>
 	</string>
-	
 	<string id="mil_screw_dialog_1102">
-		<text>In Ordnung.</text>
+		<text>Well.</text>
 	</string>
-	
 	<string id="mil_screw_dialog_1200">
-		<text>Hier, nimm.</text>
+		<text>Here, take.</text>
 	</string>
-	
 	<string id="mil_screw_dialog_1201">
-		<text>Gut, danke! Wie nett von dir. Jetzt habe ich etwas, was mir spдter beim Entspannen hilft.</text>
+		<text>Well, thank you! Honored.</text>
 	</string>
-	
 	<string id="mil_screw_dialog_1202">
-		<text>Viel Glьck.</text>
+		<text>Good luck.</text>
 	</string>
-	
 	<string id="mil_screw_dialog_2000">
-		<text>Stцr mich nicht, ich denke nach ...</text>
+		<text>Do not bother, I think ...</text>
 	</string>
-	
 	<string id="mil_screw_dialog_4">
-		<text>Nicht mцglich! Du hast wirklich Wodka mitgebracht?</text>
+		<text>Really brought the vodka?</text>
 	</string>
-	
 	<string id="mil_trader_dialog_1001">
-		<text>Was gibt's?</text>
+		<text>What do you want?</text>
 	</string>
-	
 	<string id="mil_trader_dialog_1002">
-		<text>Ich habe eine knifflige Frage. Wo muss ich hin, um an Artefakte oder Waffen ranzukommen?</text>
+		<text>Question on filling. Where can I get hold of artifacts, weapons?</text>
 	</string>
-	
 	<string id="mil_trader_dialog_1003">
-		<text>Zu mir. Mit Geld. Oder geh ins Dorf und hole sie dir kostenlos. Aber das Risiko ist dort viel GrцЯer.</text>
+		<text>I have. For money. Or in the village for free, but more risk.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_1004">
-		<text>Das Dorf?</text>
+		<text>In the village?</text>
 	</string>
-	
 	<string id="mil_trader_dialog_1005">
-		<text>Das Dorf. Es steckt voller Anomalien - Anfдnger stolpern alle naselang hinein. Unsere Jungs sind gerade dorthin aufgebrochen. Du kannst noch mitgehen, wenn du mцchtest.</text>
+		<text>In the village. There are anomalies to hell, and all newcomers are often caught. Our guys went there, you want to join them.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_1006">
-		<text>Hab schon verstanden.</text>
+		<text>Clear.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_2001">
-		<text>Was bringst du mir fьr schцne Sachen?</text>
+		<text>Brought anything interesting?</text>
 	</string>
-	
 	<string id="mil_trader_dialog_3001">
-		<text>Was brauchst du denn?</text>
+		<text>What would you like?</text>
 	</string>
-	
 	<string id="mil_trader_dialog_3002">
-		<text>Nichts ... Ich schau mich nur um.</text>
+		<text>Nothing ... Just look around.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_3003">
-		<text>Du solltest lieber etwas Nьtzliches tun. Vor allem, weil ich etwas habe, das dich interessieren kцnnte ... Mцchtest du dir was verdienen, hm?</text>
+		<text>You better step is to set. Especially since I now have something in mind ... You earn interest?</text>
 	</string>
-	
 	<string id="mil_trader_dialog_3004">
-		<text>Klingt interessant ...</text>
+		<text>Earn? Hmm ... Interesting.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_3005">
-		<text>Ich kann dir einen "Kristall" geben, wenn du mir einen bestimmten Gefallen tust. Es hat sich eine miese Situation ergeben ... In letzter Zeit hat keiner mehr Artefakte aus dem Dorf mitgebracht - sie haben zu viel Angst. Sie sagen, Blutsauger hдtten sich dort angesiedelt. Momentan kann ich nicht einmal jemanden schicken - ich bin sogar schon fast soweit, dass ich die Wдchter um Hilfe bitten muss!</text>
+		<text>I can give you the 'Crystal', if you find yourself a favor. Here situation is annoying ... In recent years, from the village artifacts do not have - fear. They say there is infested with bloodsuckers. And send more to hunt nobody. Although, 'Duty' invites.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_3006">
-		<text>Erzдhl weiter.</text>
+		<text>Go on.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_3007">
-		<text>Ein paar Typen gingen zum Dorf und kamen nicht wieder. Und die anderen drei sitzen hier nur rum. Wenn du die Blutsauger erledigst, gebe ich dir einen "Kristall". Bist du einverstanden?</text>
+		<text>A couple of guys went to the village and never returned, and the other three ... so on the outskirts, and sit, afraid to go to the village ... If you kill bloodsuckers, I'll 'Crystal' Ladies. Get them from?</text>
 	</string>
-	
 	<string id="mil_trader_dialog_30071">
-		<text>Im Moment nicht.</text>
+		<text>Not this time.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_30072">
-		<text>Hey, das ist deine Chance ... Frьher oder spдter wird es ein anderer erledigen. Und "Kristall" ist selten und ziemlich teuer.</text>
+		<text>Look, the thing is ... Sooner or later, someone will fill them all the same. A 'crystal' - a rare thing and not cheap.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_3008">
-		<text>Na gut, ich mach's.</text>
+		<text>Undertake.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_3009">
-		<text>Ach, das ist klasse. Wenn du noch mehr von diesem Zeug findest, dann bring es her - Ich zahle gut dafьr.</text>
+		<text>That's good. And if that still find so drag. I will take a good price.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_3101">
-		<text>Und?</text>
+		<text>So what?</text>
 	</string>
-	
 	<string id="mil_trader_dialog_3110">
-		<text>Die sitzen hier und gucken in der Gegend rum ...</text>
+		<text>Sit, look around ...</text>
 	</string>
-	
 	<string id="mil_trader_dialog_3111">
-		<text>Wenn du ihnen bei ihrer Jagd hilfst, gebe ich dir ein Artefakt, das "Kristall" genannt wird. Was sagst du dazu?</text>
+		<text>Well, if you give them help in the hunt, then I'll give you an artifact called the 'Crystal'. Well?</text>
 	</string>
-	
 	<string id="mil_trader_dialog_3200">
-		<text>Wir hatten uns ein wenig unterhalten und spazierten durch das Dorf, um ein paar Mutanten zu fangen ...</text>
+		<text>We talked and walked through the village. Mutant of some kind of catch ...</text>
 	</string>
-	
 	<string id="mil_trader_dialog_3201">
-		<text>Und? Komm endlich auf den Punkt!</text>
+		<text>So what? Do not pull the cat's tail!</text>
 	</string>
-	
 	<string id="mil_trader_dialog_3300">
-		<text>Wir haben irgendeine Art Vieh angeschossen, aber die Jungs fielen auch. Als wir gerade zum Wasserturm kamen, griffen sie alle an ihre Kцpfe und ich hatte auch Blutnebel in meinen Augen ... Dieser Bastard wirkt irgendwie auf dein Gehirn. Ich habe das Ding umgebracht, aber fьr die Jungs kam jede Hilfe zu spдt.</text>
+		<text>We filled up some creature, but the boys were killed. How to come to the pump house, they head for pohvatalis, and I have a bloody mist before my eyes ... This creature acts on the brain. I flunked it, but guys it's not helped.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_3301">
-		<text>Das tut weh. "Murk" war ein fдhiger Stalker. Verdammte Schande. Na ja, nimm dieses Artefakt dafьr, dass du den Jungs geholfen hast.</text>
+		<text>Shitty deal ... Morose - a skilled stalker. Sorry. Okay, take the artifact, because the guys helped ...</text>
 	</string>
-	
 	<string id="mil_trader_dialog_3310">
-		<text>Nun, die Jungs gingen auf die Jagd und ich kam hierher zurьck ...</text>
+		<text>Well, the guys went hunting, and I came back here ...</text>
 	</string>
-	
 	<string id="mil_trader_dialog_3311">
-		<text>Ich verstehe.</text>
+		<text>Understandable.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_3400">
-		<text>Kann ich hier meine Ausrьstung aufstocken?</text>
+		<text>You can get equipment?</text>
 	</string>
-	
 	<string id="mil_trader_dialog_3401">
-		<text>Fьr einen Festpreis ist alles mцglich.</text>
+		<text>For a fee, can be everything.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_3500">
-		<text>Ich habe mich bereits um die gekьmmert.</text>
+		<text>I have to deal with them.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_3501">
-		<text>Verdammt, Stalker! Du bist so schnell wie Durchfall! In Ordnung, abgemacht ist abgemacht. Hier ist dein "Kristall".</text>
+		<text>Well, give, stalker! Sharp that diarrhea ... Okay, persuasion is persuasion - keep the 'Crystal'.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_4001">
-		<text>Und? Wie lief es bei der Jagd?</text>
+		<text>Well, how was hunting?</text>
 	</string>
-	
 	<string id="mil_trader_dialog_4002">
-		<text>Ich habe die Monster erledigt.</text>
+		<text>I killed the creatures.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_4003">
-		<text>War es sehr schwer?</text>
+		<text>Hard was it?</text>
 	</string>
-	
 	<string id="mil_trader_dialog_4004">
-		<text>Na ja, es ging so.</text>
+		<text>Medium.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_4005">
-		<text>Hmm, interessant ... Alle mцglichen Arten Kroppzeug verbreiten sich aus dem Zentrum der Zone - aber woher kommen sie? ... In Ordnung, nimm dies fьr deinen Einsatz.</text>
+		<text>Here, it is interesting ... Pret any crap from the center of the zone. And why only come from? .. Hold: This here's for work.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_5001">
-		<text>Ich habe dich doch gebeten, die Blutsauger im Dorf umzulegen!</text>
+		<text>I asked you - kill bloodsuckers in the village!</text>
 	</string>
-	
 	<string id="mil_trader_dialog_5002">
-		<text>Ich habe es mir anders ьberlegt.</text>
+		<text>I changed my mind.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_5003">
-		<text>Kein Problem. Natьrlich gibt's in diesem Fall keine Belohnung.</text>
+		<text>No question. Only then, and awards will not be.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_5004">
-		<text>Das ist schon in Ordnung.</text>
+		<text>Yeah, okay.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_5010">
-		<text>Ich werde es versuchen.</text>
+		<text>I'll try.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_6001">
-		<text>Aha, du hast das kleine Problem also nicht gelцst ... Dann werde ich das Artefakt selbst behalten.</text>
+		<text>Thus, the puzzle you have not decided yet ... Artifact, therefore, I do not give.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_6002">
-		<text>Da kann ich nichts gegen sagen.</text>
+		<text>Who can argue.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_7001">
-		<text>Die Leute sagen, du hдttest dich um diese Blutsauger im Dorf gekьmmert. Ist das wahr?</text>
+		<text>Here the people told you bloodsuckers in the village decided to do. True, no?</text>
 	</string>
-	
 	<string id="mil_trader_dialog_7002">
-		<text>Ja, das stimmt.</text>
+		<text>Was the case.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_7003">
-		<text>War es schwer?</text>
+		<text>Hard to come?</text>
 	</string>
-	
 	<string id="mil_trader_dialog_7004">
-		<text>Es geht so.</text>
+		<text>Medium.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_7005">
-		<text>Hmm, interessant ... Alle mцglichen Arten Kroppzeug verbreiten sich aus dem Zentrum der Zone - aber woher kommen sie? ... In Ordnung, nimm dies fьr deinen Einsatz.</text>
+		<text>That's interesting ... Pret any crap from the center of the zone. And why only come from? .. Hold: This here's for work.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_8001">
-		<text>Und, was hast du mitgebracht?</text>
+		<text>Well, what brought it?</text>
 	</string>
-	
 	<string id="mil_zoneguard_common1_0">
-		<text>Gibt es hier einen Koch?</text>
+		<text>You've got the cook to eat?</text>
 	</string>
-	
 	<string id="mil_zoneguard_common1_1">
-		<text>Klar, wie sollten wir ohne einen auskommen? Was willst du denn ьberhaupt von ihm?</text>
+		<text>There are, as not to be! And the hell Ladi it to you?</text>
 	</string>
-	
 	<string id="mil_zoneguard_common1_2">
-		<text>Na, ich brдuchte eine Kleinigkeit zu Essen.</text>
+		<text>Why, I want to get hold of the small meal.</text>
 	</string>
-	
 	<string id="mil_zoneguard_common1_3">
-		<text>Versuch es in der Kьche. Normalerweise sitzt er da rum und stammelt vor sich hin.</text>
+		<text>So he in the kitchen of his. As usual, sits and mumbles.</text>
 	</string>
-	
 	<string id="mil_zoneguard_common1_4">
-		<text>Stammelt vor sich hin?</text>
+		<text>Mumbling?</text>
 	</string>
-	
 	<string id="mil_zoneguard_common1_5">
-		<text>Was hast du erwartet? Ein Betrunkener ist ein Betrunkener. Wenn er nicht kochen kцnnte, hдtten wir ihn schon lдngst weggeschickt. Er ist in der Kьche. Ich sag dir, wie du dorthin kommst.</text>
+		<text>And what do you want? Drunk - she was drunk and there. If the cook could not have long to get rid of it on all four sides. In the kitchen, he said. I bind you ladies - you can find.</text>
 	</string>
-	
 	<string id="mil_zoneguard_common1_6">
-		<text>Danke fьr die Information.</text>
+		<text>Thank you for the information.</text>
 	</string>
-	
 	<string id="mil_zoneguard_common1_7">
-		<text>Kein Problem.</text>
+		<text>Not for that.</text>
 	</string>
-	
 	<string id="mil_zoneguard_common2_0">
-		<text>Wer ist hier der Boss?</text>
+		<text>Who you are older?</text>
 	</string>
-	
 	<string id="mil_zoneguard_common2_1">
-		<text>Worum geht es denn?</text>
+		<text>And you what?</text>
 	</string>
-	
 	<string id="mil_zoneguard_common2_2">
-		<text>Ich habe Informationen fьr ihn.</text>
+		<text>Information is for him.</text>
 	</string>
-	
 	<string id="mil_zoneguard_common2_3">
-		<text>Lukasch ist unser Anfьhrer. Gehe zum Hauptgebдude.</text>
+		<text>Lukash have a commander. Go to the main building.</text>
 	</string>
-	
 	<string id="mil_zoneguard_common2_4">
-		<text>Verstanden. Danke.</text>
+		<text>Understood. Thank you.</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_10">
-		<text>Du auch. Was fьhrt dich hierher?</text>
+		<text>You do the same. What led you here?\n</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_100">
-		<text>Wer ist denn hier der Boss? Ich habe ein paar Dinge mit ihm zu besprechen.</text>
+		<text>Who are you then a senior? The case for him to eat.</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_1000">
-		<text>Lukasch ist unser Anfьhrer, du kannst ihn im Hauptgebдude finden. Wenn du hineingehst, solltest du aber deine Waffe wegstecken - es sei denn, du mцchtest unnцtigerweise erschossen werden.</text>
+		<text>Senior we Lukash is in the main building. But when you come into it, hide weapons, and it can and shoot.\n</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_10000">
-		<text>Warum?</text>
+		<text>Why so?</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_100000">
-		<text>Wir haben schlechte Erfahrungen gemacht - ein Killer hдtte Lukasch fast einmal umgebracht. Seitdem gehen wir kein Risiko mehr ein.</text>
+		<text>Yes there was a precedent. Lukash had nearly slammed a mercenary. Since then reinsured.</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_1000000">
-		<text>Verstanden.</text>
+		<text>Clear.</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_10000000">
-		<text>In Ordnung, du kannst gehen.</text>
+		<text>Okay, go.</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_20">
-		<text>So, so. Bleib drauЯen, stцr mich nicht.</text>
+		<text>Yes, so-so. Do not bother ...</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_3">
-		<text>Sei gegrьЯt.</text>
+		<text>Welcome.</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_30">
-		<text>Halt! Wer ist da?</text>
+		<text>Stop! Password?</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_31">
-		<text>Eine sьdafrikanische Schwalbe!</text>
+		<text>South African swallow!</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_32">
-		<text>Ha ha! Richtig! Du kannst durch.</text>
+		<text>Ha-ha! Well done! Move on.</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_4">
-		<text>Was ist das fьr ein Sumpf, hier in der Nдhe?</text>
+		<text>What is there in the swamp nearby?</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_41">
-		<text>Ein ziemlich radioaktives Schlammloch. Am besten berьhrst du das Zeug nicht, sonst bekommst du genug Strahlung ab, dass dir deine FuЯnдgel aufrollen. Mittendrin gibt es einen Typen, der niemanden in seine Nдhe lдsst. Na ja, ich kann es ja verstehen - wer will schon mit Idioten zu tun haben? Denn eine normale Person wьrde sich von dort mit Sicherheit fernhalten.</text>
+		<text>Quite a radioactive puddle. It is better not to meddle - pick up x-rays so that the belly button would unleash. There sat down to the middle of some type and did not let. Uncommunicative so ... Heh heh ... Yes it is crazy! There is not no normal finds itself ...</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_42">
-		<text>Wer ist dieser Typen denn?</text>
+		<text>That at least for the type?</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_43">
-		<text>WeiЯ der Teufel. Man sagt, es sei einer von uns, der ins Dorf gegangen sei.</text>
+		<text>And hell knows. Say, someone from our own, who visited the village.</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_44">
-		<text>Welches Dorf?</text>
+		<text>What a country?</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_45">
-		<text>Nun, es gibt in der Nдhe ein kleines Dцrfchen. Voller Mutanten und Anomalien. Ich bin selbst noch nicht da gewesen - ich bin erst kьrzlich zu dieser Basis gekommen. Frag Max, er ist schon seit hundert Jahren hier.</text>
+		<text>Yes, there's a village not far from here ... Mutants complete anomaly. I myself have not yet had only recently got on base. Ask Max, he is here already for a hundred years ...</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_5">
-		<text>Sag mal, wo kann ich denn meinen Munitionsvorrat aufstocken? Rostok ist ein bisschen weit weg von hier, da habe ich wenig Lust, dorthin zu gehen.</text>
+		<text>Where can I buy ammo? And then, to plant 'Rostock' far away, shove not really want to ...</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_51">
-		<text>Geh ins Hauptgebдude. Munition findest du in der ersten Etage.</text>
+		<text>Go to the main building - on the ground floor you can find.</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_6">
-		<text>Was los, Streuner? Willst du dich hier niederlassen, hm?</text>
+		<text>Privetische, tramp! Decided taxied us to the light?</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_601">
-		<text>Etwas in der Art.</text>
+		<text>Something like.</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_602">
-		<text>Wie wдre es, wenn du dich uns anschlieЯt?</text>
+		<text>Want to join us? Or both?</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_603">
-		<text>Wie wдre es, wenn nicht? Ich bin geschдftlich hier.</text>
+		<text>Or both. I'm on the case.</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_604">
-		<text>Komm schon, schlieЯe dich uns an. Wir haben hier viel SpaЯ.</text>
+		<text>Yeah, well ... Join us better! We've got fun.</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_605">
-		<text>Ich werde darьber nachdenken.</text>
+		<text>I think about it.</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_607">
-		<text>Sprechendes Pferd?</text>
+		<text>Talking horse?</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_608">
-		<text>Daneben.</text>
+		<text>Past.</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_609">
-		<text>A-9?</text>
+		<text>A 9?</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_610">
-		<text>Schlachtschiff versenkt. ScheiЯe, hцr auf, mich zu verscheiЯern! Irgendwas anderes?</text>
+		<text>Wounded, ugh, damn it. Hare zagovarivat teeth. There will be more options?</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_611">
-		<text>Treffer.</text>
+		<text>Themselves.</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_612">
-		<text>Einundzwanzig. Mist, schon wieder! Du bist ganz schцn pfiffig. Okay, du kennst das Passwort also nicht, oder?</text>
+		<text>Point. Damn, again. Well, you and the beetle. Okay, I understand you do not know your password?</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_613">
-		<text>Sagst du es mir?</text>
+		<text>Podskazhesh?</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_614">
-		<text>Na klaaaar.</text>
+		<text>Schasss.</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_615">
-		<text>Komm schon, lass mich rein. Ich kann doch die Nacht nicht auf den Feldern verbringen, oder?</text>
+		<text>Well, let me not in the same me sleep?</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_616">
-		<text>Warum nicht? Das Wetter ist schцn, fast wie Sommer. Na gut, wenn du den Test bestehst, darfst du durch. Wenn nicht, verschwindest du.</text>
+		<text>A Th, the weather is fine - summer, you might say. Well, okay ... Will pass the test - the forest, not - free.</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_617">
-		<text>Ein Test?</text>
+		<text>Test?</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_618">
-		<text>Klar. Drei Dinge, die ein echter Mann wissen muss.</text>
+		<text>Yeah. Just three questions that should answer a real man.</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_619">
-		<text>Ich habe keine Angst. Fahre fort.</text>
+		<text>I'm not afraid to ask questions.</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_620">
-		<text>Okay, die leichteste Frage zuerst. Bereit? Gut. Welche BH-GrцЯe hat Pamela Anderson?</text>
+		<text>The first - the most simple. Ready? Listen: breast size of Pamela Anderson?</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_6200">
-		<text>75 C.</text>
+		<text>Third.</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_6201">
-		<text>Du bist ein echter Trottel. Verschwinde.</text>
+		<text>No shit you do not know. Go away!</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_6202">
-		<text>Mist.</text>
+		<text>Firs.</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_6203">
-		<text>80 D.</text>
+		<text>Fifth.</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_6204">
-		<text>Du bist ein echter Trottel. Verschwinde.</text>
+		<text>No shit you do not know. Go away.</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_6205">
-		<text>80 DD.</text>
+		<text>Seventh.</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_6206">
-		<text>Richtig! Jetzt weiЯ ich, dass du ein echter Mann bist!</text>
+		<text>Well done! Immediately obvious - the correct orientation of a man!</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_6207">
-		<text>Jupp, bin ich.</text>
+		<text>There is such a thing.</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_6208">
-		<text>Jetzt wird's etwas schwieriger! Okay ... Wie viele Patronen passen in das Magazin der russischen Maschinenpistole "Bizon"?</text>
+		<text>The second heavier! So ... Number of rounds in the horn of Russian submachine gun, 'Buffalo'?</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_6300">
-		<text>Fьnfundzwanzig.</text>
+		<text>Twenty-five.</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_6301">
-		<text>Achtundsechzig.</text>
+		<text>Sixty-eight.</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_6302">
-		<text>Vierundfьnfzig.</text>
+		<text>Sixty-four.</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_6400">
-		<text>Wahnsinn! Ich mag dich immer mehr ... versteh mich nicht falsch. Nicht auf diese Weise!</text>
+		<text>Excellent! I like you more and more ... Do not get me wrong!</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_6401">
-		<text>Klar.</text>
+		<text>Normal.</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_6402">
-		<text>Auf zur dritten Frage! Wie schnell fliegt die sьdafrikanische Schwalbe?</text>
+		<text>Come on, a third! How fast is flying the South African swallow?</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_6403">
-		<text>Eine sьdafrikanische was?!</text>
+		<text>Who?</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_6404">
-		<text>Schwalbe!</text>
+		<text>Swallow!</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_6405">
-		<text>Woher soll ich das denn wissen?! Kennst du die Antwort denn ьberhaupt selbst?</text>
+		<text>How do I know this? You yourself, then at least you know?</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_6406">
-		<text>Natьrlich nicht. Das ist ja das Problem, ich kann es irgendwie nicht herausfinden ... Na ja, okay, du kannst durch.</text>
+		<text>No, of course. The fact of the matter is that any way to find out I can not ... Ah. Okay, moving on.</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_6407">
-		<text>Langsam, Mann!</text>
+		<text>Well, you give!</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_81">
-		<text>In Ordnung, mцchtest du es noch einmal versuchen? Gut. Frage: Welche BH-GrцЯe trдgt Dolly Buster?</text>
+		<text>You want another try? Come on. Q: breast size Dottie Strangelove?</text>
 	</string>
-	
 	<string id="mil_zoneguard_dialog_91">
-		<text>Bist wohl ein Streber, was? Ich wiederhole: Wie viele Patronen passen in das Magazin der russischen MP Bizon?</text>
+		<text>What a stubborn you are! I repeat: the number of rounds in the horn of Russian submachine gun, 'Buffalo'?</text>
 	</string>
-	
-	<!----------------------------------------------------------------------------------------------------------------->
-	<!---------------------------------------- DAS SIND NEUE TEXTE FЬR DIE GRAMMATIK-PRЬFUNG!!! ----------------------->
-	<!----------------------------------------------------------------------------------------------------------------->
-	
 	<string id="mil_max_dialog_story_0">
-		<text>GrьЯ dich, was macht das Leben?</text>
+		<text>Hello, how are you?</text>
 	</string>
-	
 	<string id="mil_max_dialog_story_1">
-		<text>So langsam... Mir ist vor kurzem was passiert, willst du es hцren?</text>
+		<text>Yeah, so ... Slowly. The case with me recently happen to, do you want to tell?</text>
 	</string>
-	
 	<string id="mil_max_dialog_story_2">
-		<text>Na los.</text>
+		<text>Come on.</text>
 	</string>
-	
 	<string id="mil_max_dialog_story_3">
-		<text>Ich kehre also vom Jantar-See mit Beute zurьck. Schon abends, war fast dunkel. Und ganz still. Ich weiЯ ja nicht wie es anderen geht, aber mir wird es immer gruselig, wenn es in der Zone still ist. Gehe so die StraЯe entlang, da sind ja kaum Anomalien, sowas wie Bolzen und Schrauben braucht man fast gar nicht. Und dann hцre ich etwas... Wie ein Schrei. Ich werfe ein Bolzen ins Gebьsch - alles sauber. Als ich mich dann durch die Bьsche durchkдmpfte und auf der anderen Seite ankam, sah ich in paar hundert Meter Entfernung, bei den Sьmpfen, eine Gestalt. Mit was leuchtenden in der Hand. Artefakt vermutlich. Aber der schrie nicht vor Freunde. Da kam noch eine Gestalt auf ihn zu. Gekrьmmt, Arme nach dem Stalker ausgestreckt. Und dann kroch noch eine Kreatur aus dem Sumpf raus, und noch eine...</text>
+		<text>I come back, then the other day from Lake Amber in Yantar with the swag. And the night was nearly dark. And all around silence. I do not know how anyone, but just when the silence in the Zone, that's when I became afraid and not on it's own. Walking on a footpath - up a hill to the highway. A couple times I went there. Anomalies here a little, and on the highway and there are no - nuts, bolts and other trash did not throw at his feet. Coming, then, as bushes along the road just let the trees. And then you hear me from afar, not that very far away ... Locality something open, and his voice echoes over long distances, so it was hard to determine. In short, I pull out the bolt and into the bushes it. It seems to be pure. I waded through those same bushes and 400-500 meters away near one of the marshes can see the shape. And a twinkle in her hand. Looks like an artifact. But the shouting, then it is not joy. From this swamp is something moving on it. Another figure. Bent, arms stretched forward, drawn to the stalker. And then one more after the first climbs out of the swamp.</text>
 	</string>
-	
 	<string id="mil_max_dialog_story_4">
-		<text>Mann, Sumpfmonster haben uns hier noch gefehlt.</text>
+		<text>We have yet to swamp monsters there are not enough.</text>
 	</string>
-	
 	<string id="mil_max_dialog_story_5">
-		<text>Der Stalker griff schon nach Maschinengewehr und konnte sogar noch paar Schьsse abfeuern. Aber die kamen immer noch auf ihn zu, haben ihn umkreist und ich sah ihn nicht mehr. Erst wollte ich hinrennen und helfen, aber dann begriff ich, das es zu spдt wдre. Da schnappte ich mein Rucksack und verpisste mich ganz schnell, da es schon echt dunkel wurde. Am nдchsten Tag erfuhr ich, das ein Stalker Anton, mit Spitznamen Kralle, verschwunden ist. Ging zum Jantar und kam nicht wieder. Man sagte, er war ein erfahrener Stalker. Ja, die Gier macht unvorsichtig, er muss doch gewuЯt haben, das es da sehr gefдhrlich ist...</text>
+		<text>Stalker stirred, stretched, automatic shoot, recharge, but managed to make just a couple of shots. These creatures walked and walked on it. They surrounded him, and he disappeared among them. My hand is in itself also reached out to my machine, but I realized that nothing can be done. I picked up and gave a tear, as darkness has enveloped all around. The next day I find out that the stalker Anton, named Talon, disappeared. Amber lake took him and thus never returned. They say that a stalker has been experienced. That's what greed does to a man. But he knew that going there is very dangerous.</text>
 	</string>
-	
 	<string id="mil_max_dialog_story_6">
-		<text>Hmm... Danke fьr die Story. wenn ich wieder ins Jantar gehe, werde ich vorsichtiger sein.</text>
+		<text>Hmm ... Thanks for the story. The next time when I go to Yantar, I'll be careful.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_story_0">
-		<text>Hast du auch irgendein Rat fьr mich?</text>
+		<text>Give me some advice.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_story_1">
-		<text>Ein Rat also?... Dann erzдhle ich dir eine Geschichte, die einem auch was beibringt... Wir hatten da mal diesen Schwachkopf bei uns, beim Gang in die tiefe Zone... Wir sind also durch die Gegend gezogen und haben ab und zu auch Pдuschen gemacht, und sobald wir das taten, setzte er sich auf seinen Hintern und pennte. Und wenn wir wieder los mussten, war er als letzter wieder auf den Beinen. Nun ja, eines Tages fiel er zurьck und ein Telepath kriegte sein Gehirn - zack! Das war's dann fьr ihn. Und die Moral vor der Geschichte: Jedes Rascheln, jede Bewegung, und wenn es nur ein Kaninchen ist... Obwohl... Hiesige Kaninchen hier, Gott bewahre... Egal, du musst jede Sekunde wachsam bleiben. Magazine und Granaten stдndig griffbereit und den Finger immer am Abzug. Sobald du was bemerkst - feuerst du erst mal ein halbes Magazin drauf. Da ist etwas im Busch? Dann solltest du erst schieЯen und dann fragen. Das ist die Grundregel hier drauЯen: Denkst du zu lange nach - wirst du mit Haut und Haaren gefressen. Und wegen der Telepathen: Nun, das ist ein Geschichte fьr sich. Du  schieЯt eine Salve Richtung Rascheln und schmeiЯt dich sofort auf den Boden, noch in der selben Sekunde! Auf den Rьcken oder auf den Bauch, das ist vollkommen egal. Der Telepath hat dich, sobald er dich sieht. Er muss sich wohl irgendwie konzentrieren. Also bleibst du unten und hцrst gut zu, ob der Abschaum auf dich zukommt. Kannst deine Waffe nachladen oder eine Granate zur Hand nehmen. Wenn alles ruhig bleibt, zдhlt du bis drei und verschwindest da so schnell es geht! Und so weit wie es nur geht! Verstanden, Grьnschnдbel ... Sei jede Sekunde wachsam - das ist hier die einzige Chance zu ьberleben...</text>
+		<text>Council, you say? Well, okay. Tell you one instructive story. Profits came to us here Durikov a hiking deep into the Zone ... Cheshem, it means that the tabernacle in the five minutes of rest, and it immediately to the fifth point, and relax. And how to walk, so he was the last ass off the ground tears. Well dorasslablyalsya ... Behind, and there it Controller of the brains of the DAC - and ready ... So, learn morality stories. The rustle of a breeze out there, or any suspicious ... Let him run through bunny, although the 'bunnies' here, do not let God ... In short, ready every moment should be. To shop, hand grenades and machine to the 'continuous' was. If you already saw that, once planted polrozhka. If the bushes something - too Lupi, and then to ask. Here the course of this young soldier - costumes are not weighed, but with guts will eat, will not have time to fart! Yes, at the monitors - is another story. Suppose you had shot at rustling and falls immediately in the same second! Though on the back, as though. Controller picks, if he sees you, he needs to concentrate or something. While tan in the shade, listen to both ears - a rustling, is there any stuff to you. You can gently slide pereschelknut, and grenades, too it is useful to prepare ... In general, if quietly all count to three and valish! Valish go to hell! Well that sucked? Eh ... Themselves every second guard - the only way to survive here and you can ...</text>
 	</string>
-	
 	<string id="mil_trader_dialog_story_2">
-		<text>Danke fьr den Rat.</text>
+		<text>Thanks for the tip!</text>
 	</string>
-	
 	<string id="mil_trader_dialog_story_3">
-		<text>Du schuldest mir ein Bier dafьr...</text>
+		<text>With your bottle of beer!</text>
 	</string>
-	
 	<string id="mil_max_dialog_story2_0">
-		<text>Was gibt Neues?</text>
+		<text>Heard?</text>
 	</string>
-	
 	<string id="mil_max_dialog_story2_1">
-		<text>Ach, nichts, wir sitzen hier nur am Lagerfeuer rum, erzдhlen Geschichten... Vor kurzem war hier mal ein Stalker, berichtete von einem seltsamen Fall. Er hat mal in der Zone rumgeforscht, suchte nach unentdeckten Verstecken. Da sah er sowas wie eine Hцhle - Art Bunker oder nur Tunnel... In der Zone findest du sowas stдndig. Da kroch er rein, dunkel war's da, nur mit der Taschenlampe konnte man ein paar Meter weit sehen. Und dann bemerkte er einen Telepathen vor ihm. Wegrennen - zu spдt, der Telepath hat ihn schon, die Gedanken schwirren schon rum. Da wollte er die Standartmethode durchziehen - aus aller Kraft zum Telepathen rennen und schieЯen, was das Zeug hдlt. Rennt los, AK im Anschlag, Zack - Ladehemmung, nochmal - Ladehemmung... Und der Telepath ist schon voll zugange... Der Stalker rennt weiter, lдdt neu - wider Ladehemmung. Er hat dann erst spдter verstanden, das es die Telepath-Visionen waren... Tja, und da die AK "nicht schoss", hat er dann dem Telepathen mit dem Gewehrkolben voll in die Rьbe geschlagen. Hat ihn erledigt! Der Stalker erzдhle, das da viel Wodka versteckt war, der Telepath sei wohl betrunken gewesen.</text>
+		<text>Oh, nothing new, we sit here around the campfire, tales grasses. Hedavno a stalker at the light and dropped the case said. He walked once in the Zone, explored in some unknown caches have got. Sees that sort of cave. Whether the bunker, or simply tunnel ... In the Zone of the bulk. Well, he went thither. It's very dark, but you can see a good few meters ahead, although the lantern is still included. Suddenly, distinguishes the same in gave him - the controller! Well all, of course, back too late to escape, overseer then its already spotted. Thoughts and gallop serdyak too out asking, my knees are shaking ... Well, he thought the standard way - in all speed to the controller and a machine gun. Ran, then threw Kalash ... Hope - a misfire, shrugged, hop - a misfire ... A controller can be seen, already conjures a full ... Runs our stalker More ... Twitched again - misfire again - a misfire ... That he then realized that it kontrolerovy jokes were ... In focus ran, and the Kalash do not shoot! Well, he took and dolbanul Kalash as a club supervisor's head. So him and flunked! Stalker said that there was full of vodka ... Like, the controller was drunk.</text>
 	</string>
-	
 	<string id="mil_max_dialog_story2_2">
-		<text>Der lьgt doch... Telepathen saufen kein Wodka.</text>
+		<text>He's lying, monitors the vodka, do not drink ...</text>
 	</string>
-	
 	<string id="mil_max_dialog_story2_3">
-		<text>Vielleicht ist ja nicht alles wahr, aber dieser Stalker hat noch lange mit Wodka gehandelt, hat gute Preise gemacht.</text>
+		<text>Mozhet all not true ... But for a long time that ctalker vodka at a good price haggling.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_story2_0">
-		<text>Sie gegrьЯt, "Geizhals"!</text>
+		<text>Hello, Miser!</text>
+	<!-- Changed 'Cheapskate' to 'Miser'- Sword2012 - 31 Oct 16-->
 	</string>
-	
 	<string id="mil_trader_dialog_story2_1">
-		<text>GrьЯ dich, Neuling...</text>
+		<text>Hi, newbie ...</text>
 	</string>
-	
 	<string id="mil_trader_dialog_story2_2">
-		<text>Was erzдhlst du da, Mann? Ich bin kein Neuling, bin schon lange hier und hab schon so viel gesehen - das kannst du nur trдumen!</text>
+		<text>What are you, man! What's new? I've been here long, have seen so much - you never dreamed of!</text>
 	</string>
-	
 	<string id="mil_trader_dialog_story2_3">
-		<text>Schon lange, sagst du... Und hast du schon die Veteran-Prьfung absolviert?</text>
+		<text>Long time, you say? ... A test of the experienced handed?</text>
 	</string>
-	
 	<string id="mil_trader_dialog_story2_4">
-		<text>Was fьr eine Prьfung???</text>
+		<text>Which exam?</text>
 	</string>
-	
 	<string id="mil_trader_dialog_story2_5">
-		<text>Tja, also nicht.... verstehe. Dann hцr mal zu. Es gibt hier so eine Prьfung, wie ein Ritual, damit du als Veteran zдhlst. Wenn du diese bestehst - werden dich alle respektieren.</text>
+		<text>Hence did not take ... Ponyatnenko. Well then, listen. The test is there, the ritual of initiation into a seasoned, so to speak. Will pass and you immediately began to respect all.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_story2_6">
-		<text>Echt? Was ist das fьr ein Ritual?</text>
+		<text>Yes? What test?</text>
 	</string>
-	
 	<string id="mil_trader_dialog_story2_7">
-		<text>Also, es wird immer nur nachts gemacht - es ist keine leichte Aufgabe, volle Konzentration und Kaltblьtigkeit vorausgesetzt, kleinster Fehler - und du bist hin. Du musst dich also nachts, ohne irgend einer Waffe, ganz nah an einen schlafenden Wildschwein ranschleichen. Dann holst du aus und gibst ihm aus aller Kraft einen Tritt in den Hintern. Machst die Augen zu, zдhlst bis zehn und versuchst wegzurennen. Wenn du in der Basis lebend ankommst - bist du ein Veteran. Also, Neuling, mцchtest du ein Veteran werden?</text>
+		<text>Hence, it is necessarily done at night ... The job is not an easy one, needs full concentration and composure, as only a minor mistake and all - cover. So, at night without any weapons chosen very close to a sleeping boar. Then swing one's arms and giving the boar with all her might kick up the backside. Then close your eyes, count to ten and try to escape. Run so far living up to the base - I think has already experienced. Well, greenhorn, you want to be seasoned?</text>
 	</string>
-	
 	<string id="mil_trader_dialog_story2_8">
-		<text>Ja, mцchte ich... Und das muss man machen, ohne geht's nicht?</text>
+		<text>Yes, I want to ... A test of this should definitely go? Without him nothing?</text>
 	</string>
-	
 	<string id="mil_trader_dialog_story2_9">
-		<text>So ist das Leben... Alle mussten es. Sonst wird dich kein Veteran als Partner akzeptieren und die Hдndler werden dir keine gute Preise machen. Ohne - geht's nicht - so ist der Brauch.</text>
+		<text>'We must, Fyodor, it is necessary' ... All passed. Otherwise, to you, no one experienced in companions do not go, and traders will inflate the price. Without this, no way. Such is the custom.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_story2_10">
-		<text>Na gut... ich bin bereit.</text>
+		<text>Well, okay ... I'm ready.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_story2_11">
-		<text>Ausgezeichnet! Also, heute nacht, ok? Ich hab auch nicht weit von der Barriere eine Herde Schweine gesehen. Und der Alpha-Mдnnchen ist ein richtiger Monster - riesig, rote Augen, ReiЯzдhne wie zwei Schlachtmesser - wenn der einen erwischt, dann nicht zu wenig. Grade richtig fьr die Prьfung... Heute nacht, ohne Waffen, und hцr mal, so einen richtigen Tritt. Verstanden? Und Alter, dann nicht trцdeln... Hast du noch Verwandte drauЯen? Wenn was sein soll, kannst du ja Brief, oder so, hinterlassen - ich gib's weiter.</text>
+		<text>Excellent! Hence, tonight, come on? So, I've been close to the Barrier herd of wild boars have seen. And the male-leader of them all monster - a healthy, fierce, red eyes, fangs into the meter - if you pick, you will not find it. I think just the place for testing ... Hence, last night without a weapon, and you do it, kick it, kick harder. Got it? Look, man, do not yawn out there ... You've got close to eat? If che, left a note before.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_story2_12">
-		<text>Nein, Danke, braucht du nicht. Ich gehe dann mal... Ohne Waffen, sagst du? Dann werden wir ja heute Nacht sehen, ob ich es schaffe. Bis dann...</text>
+		<text>No thanks, do not. Well, I went ... Hence, without a weapon, huh? Well, tonight we shall see, shall I be able or not. Poka ...</text>
 	</string>
-	
 	<string id="mil_trader_dialog_story2_13">
-		<text>Warte!</text>
+		<text>Stop!</text>
 	</string>
-	
 	<string id="mil_trader_dialog_story2_14">
-		<text>Was denn noch?</text>
+		<text>What else?</text>
 	</string>
-	
 	<string id="mil_trader_dialog_story2_15">
-		<text>Alter, was ist, hast du mir geglaubt?!</text>
+		<text>Dude, are you believe?</text>
 	</string>
-	
 	<string id="mil_trader_dialog_story2_16">
-		<text>Дhmmm, ja.</text>
+		<text>Well, yes.</text>
 	</string>
-	
 	<string id="mil_trader_dialog_story2_17">
-		<text>Ich hab... Ich hab doch... Ich kann nicht mehr! Ha-Ha! Alter, ich mach doch nur Witze, oh Mann... Und du glaubst es?! Ha-ha, du machst Sachen! Ja sicher, ein Tritt in den Hintern... Haltet mich fest!!! Wenn ich das heute am Lagerfeuer erzдhle - das glaubt mir keiner! Ha-ha!</text>
+		<text>Yes I am ... Yes I am a well ... Oh, I can not! Ha-ha! Dude, yes I did pin, oh, blah ... And you believe it? Ha ha, well you give to trick out! Boar in the ass ... Oh, hold me! Today, the fire will tell - will not believe!</text>
 	</string>
-	
 	<string id="mil_trader_dialog_story2_18">
-		<text>Sehr lustig...</text>
+		<text>Very funny ...</text>
 	</string>
-	
 	<string id="mil_trader_dialog_story2_19">
-		<text>Ach, sei nicht sofort sauer! Las einen alten Mann doch ein paar Witze machen... Wir sehen uns, "Veteran"</text>
+		<text>C'mon, do not be offended you! Give old joke ... Well, before the meeting, 'veteran.'</text>
 	</string>
-	
-</string_table>

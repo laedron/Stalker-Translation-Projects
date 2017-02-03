@@ -1,15 +1,17 @@
+<!-- TB3D 1.1.0.0.0.4 -->
+<!-- Edited and proofed by Sword2012. 15 Jan 16 -->
 	<string id="cit_doctor_task">
-		<text>Das geheime Versteck bei Prypjat</text>
+		<text>Pripyat stash</text>
 	</string>
 	<string id="cit_doctor_task_0">
-		<text>Das geheime Versteck des Schützen bei Prypjat finden.</text>
+		<text>Find Strelok's stash in Pripyat</text>
 	</string>
 	<string id="cit_doctor_task_1">
-		<text>Ins Hotel gehen.</text>
+		<text>Get to the Hotel</text>
 	</string>
 	<string id="cit_doctor_task_2">
-		<text>Den Raum mit dem geheimen Versteck finden.</text>
+		<text>Find the room with the stash</text>
 	</string>
 	<string id="cit_doctor_task_3">
-		<text>Das geheime Versteck untersuchen.</text>
+		<text>Search the stash</text>
 	</string>

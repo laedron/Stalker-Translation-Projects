@@ -1,133 +1,134 @@
 <?xml version="1.0" encoding="windows-1251" ?>
+<!-- TB3D 1.1.0.0.0.4 something, removed "string_table" - aleks1970 -->
+<!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 13 Mar 16 -->
 
-<string_table>
+
 	<string id="cit_doctor_escape_dialog_0">
-		<text>Ich brauche Antworten auf mehrere Fragen.</text>
+		<text>I need answers to several questions...</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_1">
-		<text>Dann schieЯ los. Ich versuch dir zu helfen.</text>
+		<text>Ask away. I'll try to help</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_11">
-		<text>Wo sind meine Sachen?</text>
+		<text>Firstly, where are my things?</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_111">
-		<text>Normalerweise bewahrt der Anfьhrer alle beschlagnahmten Sachen auf. Sein Zimmer ist in der obersten Etage. Als sie mich fingen, hatten sie meine Sachen auch dorthin gebracht.</text>
+		<text>The leader usually keeps all the confiscated stuff. His room's on the top floor. My belongings were taken there when they caught me...</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_1111">
-		<text>Danke!</text>
+		<text>Thanks!</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_12">
-		<text>Wie komme ich hier raus?</text>
+		<text>How can I get out of here?</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_121">
-		<text>Als sie mich hier herumgefьhrt haben, habe ich ein Abflussgitter unter der Treppe in der ersten Etage bemerkt ... Wenn du die Zelle aufbekommst, dьrfte es ein Leichtes sein, durch diesen Kanal zu entkommen. Am besten gehst du nach Westen und benutzt den Tunnel als Weg zur Freiheit.</text>
+		<text>When they were leading me around, I noticed a sewer grate under the stairs on the first floor. If you managed to open the cell, it should be possible to get out of here using that sewer...\nThen go West, and use the tunnel to get to Freedom</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_1211">
-		<text>Danke fьr die Informationen.</text>
+		<text>Thanks for the information</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_14">
-		<text>Wer hat uns gefangen?</text>
+		<text>Who captured us?</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_141">
-		<text>Wir werden von den Sцldnern gefangen gehalten. Niemand weiЯ so recht, wer sie sind, aber es gibt Gerьchte, dass sie mit Nachrichtendiensten anderer Lдnder zusammenarbeiten. Die Position dieser Basis ist streng geheim - niemand weiЯ, wie man in die Totenstadt hineinkommt. Viele Leute interessieren sich fьr diese Information, insbesondere Freiheit und Wдchter.</text>
+		<text>We're being held by the Mercs. Nobody really knows who they are, but there are rumours that they work with foreign intelligence services. The location of this base is top secret - no one knows how to get into the Dead City. There are many people who'd be very interested in this information - especially Freedom and Duty</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_1411">
-		<text>Erzдhl weiter.</text>
+		<text>Go on...</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_14111">
-		<text>Wenn du an eine Karte von der Totenstadt herankommst, sollte ein erfolgreicher Ьberfall mцglich sein. Vermutlich haben die Sцldner oder die Banditen eine. Du kцnntest versuchen, sie zu bekommen.</text>
+		<text>If you manage to get a map of the Dead City, a successful assault will be possible. The Mercs or the Bandits will probably have one. You should try to get it</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_141111">
-		<text>Danke fьr die Informationen.</text>
+		<text>Thanks for your info</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_15">
-		<text>Was weiЯt du ьber diesen Ort?</text>
+		<text>What do you know about this place?</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_151">
-		<text>Die Stadt ist in zwei Teile unterteilt. Wir sind auf der Sцldnerseite. Um Sьden, hinter dem Platz, befinden sich die Banditen. Die haben sich im Schulgebдude im Sьdwesten der Stadt eingerichtet. Zwischen den beiden Basen gibt es ein zerstцrtes fьnfstцckiges und ein paar relativ intakte Gebдude. Wenn die Kacke am Dampfen ist, kannst du dort ausharren. Da sind auch ein paar Garagen und ein paar kleine Hдuser in der Gegend. Bei den Banditen gibt es auch einige fьnfstцckige Gebдude und ein Dutzend Garagen. Das ehemalige Stadtratsgebдude befindet sich auf der anderen Seite des Platzes.</text>
+		<text>The city is split into two sections. We're on the Merc side. To the South, beyond the square, is where the Bandits are. They're holed up in the school building, southwest of the city. In between the bases, there's a run-down five storey building, and a few relatively intact ones. If the shit hits the fan, you can sit it out in one of those. There are also some garages, and a couple of small houses around that area. There are two five storey buildings and a dozen garages on the Bandits' side also. On the other side of the square is the former city council building</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_1511">
-		<text>Danke fьr die Informationen.</text>
+		<text>Thanks for the information</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_16">
-		<text>Wer hat hier das Sagen?</text>
+		<text>Who's in charge here?</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_161">
-		<text>Ein echt fieser Typ namens Dushman. Ich habe mehrere Male gesehen, wie er eine Mappe mit Dokumenten durch die Gegen schleppte. Ich vermute, da stehen interessante Sachen drin.</text>
+		<text>A truly nasty guy named Dushman. I've seen him carrying around a folder full of documents a few times. I reckon there's something interesting inside...</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_1611">
-		<text>Danke fьr die Informationen.</text>
+		<text>Thanks</text>
 	</string>
 	<string id="cit_doctor_escape_dialog_17">
-		<text>Nц, nichts.</text>
+		<text>Nope, nothing...</text>
 	</string>
 	<string id="cit_doctor_hello_dialog_11">
-		<text>Strelok! Wo zum Teufel bist du gewesen??? Ich habe dich und die Jungs seit dem letzten Ьberfall nicht mehr gesehen! Ich habe schon angefangen, mir Sorgen zu machen!</text>
+		<text>Strelok! Where the hell have you been? I haven't seen you or the guys since the last raid! I was getting worried!</text>
 	</string>
 	<string id="cit_doctor_hello_dialog_21">
-		<text>Und, fьhlst du dich jetzt besser? Kannst du wieder klare Gedanken fassen?</text>
+		<text>So, you feeling better? You thinking clearly?</text>
 	</string>
 	<string id="cit_doctor_main_dialog_0">
-		<text>Strelok???</text>
+		<text>Strelok?</text>
 	</string>
 	<string id="cit_doctor_main_dialog_1">
-		<text>Ja, du bist Strelok, wer sonst? Ich bin Dok, erkennst du mich nicht? Was ist mit dir passiert, mein Freund. Du siehst nicht gut aus. Wir sind 2 Jahre lang zusammen durch die Zone gegangen. Erinnerst du dich wirklich nicht an mich?</text>
+		<text>Yeah, you're Strelok! Who else would you be? I'm Doc, don't you recognize me? What happened to you, my friend? You don't look well. We were in the Zone together for two years. You really don't remember me?</text>
 	</string>
 	<string id="cit_doctor_main_dialog_11">
-		<text>Nein, wirklich nicht.</text>
+		<text>No I'm sorry, I don't...</text>
 	</string>
 	<string id="cit_doctor_main_dialog_2">
-		<text>Nicht??? Strelok, was zum ... Du redest keinen ScheiЯ, oder? Mann ... was ist mit den Jungs, unseren Jungs? ReiЯzahn, Ghost? Du erinnerst dich doch an sie, oder?</text>
+		<text>You don't? Strelok, what the...? You're not joking around, are you? Man... what about the team? Fang? Ghost? You remember them, don't you?</text>
 	</string>
 	<string id="cit_doctor_main_dialog_21">
-		<text>An ReiЯzahn kann ich mich nicht erinnern und Ghost ist tot - Ich habe seinen Leichnam in Jantar gefunden.</text>
+		<text>I don't remember Fang, and Ghost is dead - I found his body in Yantar</text>
 	</string>
 	<string id="cit_doctor_main_dialog_3">
-		<text>Ghost!!?!?! Tot??!! Gottverdammt, wie konnte das passieren? Sie ... sie waren die Besten. Was ist mit dir geschehen?</text>
+		<text>Ghost? Dead? Dammit, how could that happen? They... they were the best. What happened to you?</text>
 	</string>
 	<string id="cit_doctor_main_dialog_31">
-		<text>Ich weiЯ nicht, was geschehen ist. Ich kann mich nicht erinnern.</text>
+		<text>I don't... I don't know what happened. I don't remember...</text>
 	</string>
 	<string id="cit_doctor_main_dialog_4">
-		<text>Moment, ich muss mich ein wenig beruhigen. Das sind echt beschissene Neuigkeiten, Mann. Ich glaube, es hдngt alles mit deinem letzten Trip in die Zone zusammen. Als wir uns das letzte Mal sahen, gabst du mir den Schlьssel zum Versteck in Prypjat und die Karte, die dorthin fьhrt. Ich habe es geschafft, beides zu behalten - hab sie vor dem Sцldnern versteckt. Hier, nimm. Versteck sie gut. Vielleicht findest du dort etwas. Du hattest auch gesagt, dass es da einen Trick mit dem Monolithen gibt. Aber ich habe nicht verstanden, worum es dabei ging. Und du auch nicht.</text>
+		<text>Wait, I need to calm down. That's some really shitty news, man. I think it's all linked with your last trip into the Zone. When we saw each other last, you left me the key to the stash at Pripyat and the map of how to find it. I've managed to keep it hidden from the Mercs. Here, take it. Hide it well. Perhaps you'll find something there. You were saying that there's some kind of trick with the Monolith - but I don't understand what it was about, and you didn't either...</text>
 	</string>
 	<string id="cit_doctor_main_dialog_41">
-		<text>Ich verstehe. Wo sind wir? Ich kann mich nicht daran erinnern, wie ich hierher gekommen bin.</text>
+		<text>I see. Where are we? I don't remember how I got here...</text>
 	</string>
 	<string id="cit_doctor_main_dialog_5">
-		<text>Wir sind in der Totenstadt! Im Lager der Sдldner.</text>
+		<text>We're in the Dead City! In the Merc camp...</text>
 	</string>
 	<string id="cit_doctor_main_dialog_6">
-		<text>Wir sind in der Totenstadt! Im Lager der Sдldner.</text>
+		<text>We're in the Dead City! In the Merc camp...</text>
 	</string>
 	<string id="quest_cit_reward_0">
-		<text>Ach, ьbrigens, ich habe Informationen ьber die Sцldner. Interessiert?</text>
+		<text>By the way, I have information on the Mercs. Interested?</text>
 	</string>
 	<string id="quest_cit_reward_1">
-		<text>Hдngt von den Informationen ab.</text>
+		<text>Depends on what it is...</text>
 	</string>
 	<string id="quest_cit_reward_11">
-		<text>Ich habe eine Karte, auf der die Position ihrer Basis und ihrer Wachposten angegeben ist. AuЯerdem ist ein Weg darauf vermerkt, auf dem man unbemerkt eindringen kann und vieles mehr.</text>
+		<text>I have a map which details the location of their base - the guard posts, ways to get in and out without being noticed, and a lot more...</text>
 	</string>
 	<string id="quest_cit_reward_111">
-		<text>Klingt wertvoll. Ich gebe dir 3000 dafьr.</text>
+		<text>Sounds valuable. I'll give you 3,000 for it</text>
 	</string>
 	<string id="quest_cit_reward_1111">
-		<text>Abgemacht. Hier.</text>
+		<text>Deal. Here...</text>
 	</string>
 	<string id="quest_cit_reward_11111">
-		<text>Sehr gut! Hier ist deine Belohnung. Schon bald werden die Stalker darьber diskutieren, ob es die Sцldner ьberhaupt jemals gegeben hat!</text>
+		<text>Great! Here's your reward. Soon Stalkers will be arguing about whether Mercs even existed at all!</text>
 	</string>
 	<string id="quest_cit_reward_1112">
-		<text>Nein, das reicht nicht.</text>
+		<text>No, that's not enough...</text>
 	</string>
 	<string id="quest_cit_reward_11121">
-		<text>Wie du willst, aber mehr gebe ich dir nicht.</text>
+		<text>As you wish. I'm not giving you any more...</text>
 	</string>
 	<string id="quest_cit_reward_13">
-		<text>Nichts Besonderes. Nur der ьbliche Tratsch. Tut mir Leid.</text>
+		<text>Nothing worthwhile. Just the usual gossip, sorry</text>
 	</string>
 	<string id="quest_cit_reward_131">
-		<text>Wenn du etwas Spezielleres herausfinden solltest, dann komm wieder. Ich bezahle dafьr.</text>
+		<text>If you find out something more specific, come back. I'll pay you...</text>
 	</string>
-</string_table>

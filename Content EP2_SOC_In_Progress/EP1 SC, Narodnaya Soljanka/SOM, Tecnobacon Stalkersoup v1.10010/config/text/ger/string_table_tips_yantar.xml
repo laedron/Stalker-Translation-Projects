@@ -1,26 +1,36 @@
-	<!-- Update am 22.06.2008 -->
-	
-	<string id="general_ecolog_tip_1">
-		<text>Was ist passiert? Ist er tot? Komm sofort zurück!</text>
-	</string>
-	<string id="general_ecolog_tip_2">
-		<text>Was ist passiert? Ist er tot? Schnapp dir die Proben und komm sofort zurück!</text>
-	</string>
-	<string id="storyline_ghost_tip">
-		<text>Ghosts Tonaufnahme.</text>
-	</string>
-	<string id="storyline_vasilyev_tip">
-		<text>Wasiliews Tonaufnahme.</text>
-	</string>
-	<string id="tips_labx16switcher_press">
-		<text>Drücken Sie ($$ACTION_USE$$), um die Maschine abzustellen.</text>
-	</string>
-	<string id="yan_saharov_message">
-		<text>Du bist gut, Gezeichneter, du hast es geschafft. Wir müssen die Maschine unbedingt im Labor studieren. Versuch sie abzustellen, damit wir sie angucken können.</text>
-	</string>
-	<string id="yan_saharov_message_2">
-		<text>Hör mal, dieser Prototyp wird dich vor starken Emissionen nicht lange schützen. Damit habe ich gerechnet, also wird beim Entdecken jeder Emission ein Timer aktiviert. Wenn die Zeit abläuft, dann auch dein Schutz, also pass auf und achte auf die Zeit.</text>
-	</string>
-	<string id="yan_saharov_message_3">
-		<text>Gut gemacht, Gezeichneter. Die Emission ist abgestellt und du lebst noch. Aber ich muss dich warnen. Wir haben ein paar Militärhubschraubern geordert, sie sollen die Zombies im Gebiet platt machen. Du spazierst besser nicht da herum. Oh, und noch was: Lass dich doch ab und zu bei unserem Bunker blicken, okay?</text>
-	</string>
+<!-- TB3D 1.1.0.0.0.4 186char sms limit -->
+<!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 22 Jan 16 -->
+<!-- Changed one instance of 'emmissions' to 'emissions' - Sword2012. 09 Oct 16 -->
+	 <string id="general_ecolog_tip_1">
+		 <text>What happened? He's dead??? Come back now! Immediately!</text>
+	 </string>
+	 <string id="general_ecolog_tip_2">
+		 <text>What the hell happened? He's dead??? Hurry up and complete the readings. Get back as quickly as you can!</text>
+	 </string>
+	 <string id="storyline_ghost_tip">
+		 <text>Sound recording of Ghost</text>
+	 </string>
+	 <string id="storyline_vasilyev_tip">
+		 <text>Sound recording of Vasilyev</text>
+	 </string>
+	 <string id="tips_labx16switcher_press">
+		 <text>-^-</text>
+	 </string>
+	 <string id="yan_saharov_message">
+		 <text>Good work, Stalker. You've managed to locate the machine. Now find a way to switch it off...</text>
+	 </string>
+	 <string id="yan_saharov_message_p2">
+		 <text>We need you to do this so we can study it further, and understand its purpose. Please hurry!</text>
+	 </string>
+	 <string id="yan_saharov_message_2">
+		 <text>I'm afraid the prototype will not protect you from strong emissions for long...</text><!-- was 'emmissions' -->
+	 </string>
+	 <string id="yan_saharov_message_2_p2">
+		 <text>Once the timer runs out, the unit will totally stop working. That means it will no longer protect you! You must hurry - and whatever happens, keep an eye on the timer!</text>
+	 </string>
+	 <string id="yan_saharov_message_3">
+		 <text>YES! You disabled it! Excellent work, Stalker. Now, you must be careful. A couple of Military helicopters have arrived, and they'll want to know what's happened. They'll be looking for whoever's responsible...</text>
+	 </string>
+	 <string id="yan_saharov_message_3_p2">
+		<text>You'd be better off looking for a different way out than how you went in. We'll be waiting for you here back at the lab. Once again, well done!</text>
+	 </string>

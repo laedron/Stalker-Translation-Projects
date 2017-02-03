@@ -1,3 +1,6 @@
+<!-- TB3D 1.1.0.0.0.4 Artyom -->
+<!-- Rationalised names as per comments below. Sword2012 08 Oct 16 -->
+<!-- Names changed as commented below - Sword2012 - 31 Oct 16 -->
 	<string id="name_1">
 		<text>Anton</text>
 	</string>
@@ -5,7 +8,7 @@
 		<text>Oleg</text>
 	</string>
 	<string id="name_11">
-		<text>Oles</text>
+		<text>Olech</text>
 	</string>
 	<string id="name_12">
 		<text>Roman</text>
@@ -14,178 +17,178 @@
 		<text>Ruslan</text>
 	</string>
 	<string id="name_14">
-		<text>Sascha</text>
+		<text>Sasha</text>
 	</string>
 	<string id="name_15">
 		<text>Sergei</text>
 	</string>
 	<string id="name_16">
-		<text>Slawa</text>
+		<text>Slava</text>
 	</string>
 	<string id="name_17">
 		<text>Tolik</text>
 	</string>
 	<string id="name_18">
-		<text>Jura</text>
+		<text>Yura</text>
 	</string>
 	<string id="name_2">
 		<text>Bogdan</text>
 	</string>
 	<string id="name_3">
-		<text>Weniamin</text>
+		<text>Benjamin</text>
 	</string>
 	<string id="name_4">
-		<text>Witali</text>
+		<text>Vitaly</text>
 	</string>
 	<string id="name_5">
-		<text>Wowa</text>
+		<text>Vova</text>
 	</string>
 	<string id="name_6">
 		<text>Dima</text>
 	</string>
 	<string id="name_7">
-		<text>Iwan</text>
+		<text>Ivan</text>
 	</string>
 	<string id="name_8">
-		<text>Kostja</text>
+		<text>Kostya</text>
 	</string>
 	<string id="name_9">
-		<text>Lyoscha</text>
+		<text>Lecha</text>
 	</string>
 	<string id="name_army_0">
 		<text>Andrei</text>
 	</string>
 	<string id="name_bandit_0">
-		<text>Sanjok</text>
+		<text>Sanek</text>
 	</string>
 	<string id="name_bandit_1">
-		<text>Schurik</text>
+		<text>Shurik</text>
 	</string>
 	<string id="name_bandit_10">
-		<text>Vadja</text>
+		<text>Vadya</text>
 	</string>
 	<string id="name_bandit_11">
-		<text>Wasjan</text>
+		<text>Vasya</text>
 	</string>
 	<string id="name_bandit_12">
-		<text>Wasek</text>
+		<text>Vasek</text>
 	</string>
 	<string id="name_bandit_13">
-		<text>Witjucha</text>
+		<text>Vityuha</text>
 	</string>
 	<string id="name_bandit_14">
-		<text>Wetal</text>
+		<text>Vetal</text>
 	</string>
 	<string id="name_bandit_15">
-		<text>Wowan</text>
+		<text>Vovan</text>
 	</string>
 	<string id="name_bandit_16">
-		<text>Schorka</text>
+		<text>Jora</text><!-- Changed 'Zhorka' to 'Jora'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="name_bandit_17">
-		<text>Grischka</text>
+		<text>Grishka</text>
 	</string>
 	<string id="name_bandit_18">
-		<text>Grischko</text>
+		<text>Grishko</text>
 	</string>
 	<string id="name_bandit_19">
 		<text>Dimon</text>
 	</string>
 	<string id="name_bandit_2">
-		<text>Lyocha</text>
+		<text>Lech</text>
 	</string>
 	<string id="name_bandit_20">
-		<text>Dimucha</text>
+		<text>Dimuha</text>
 	</string>
 	<string id="name_bandit_21">
-		<text>Scheka</text>
+		<text>Zheka</text><!-- Was 'ZHeka' -->
 	</string>
 	<string id="name_bandit_22">
 		<text>Fimka</text>
 	</string>
 	<string id="name_bandit_23">
-		<text>Iljucha</text>
+		<text>Ilyuha</text>
 	</string>
 	<string id="name_bandit_24">
-		<text>Kostjan</text>
+		<text>Kostyan</text>
 	</string>
 	<string id="name_bandit_25">
 		<text>Mitka</text>
 	</string>
 	<string id="name_bandit_26">
-		<text>Michal</text>
+		<text>Michail</text>
 	</string>
 	<string id="name_bandit_27">
-		<text>Micha</text>
+		<text>Micah</text>
 	</string>
 	<string id="name_bandit_28">
-		<text>Michas</text>
+		<text>Mihas</text>
 	</string>
 	<string id="name_bandit_29">
-		<text>Koljan</text>
+		<text>Kolyan</text>
 	</string>
 	<string id="name_bandit_3">
-		<text>Tolja</text>
+		<text>Tolyan</text>
 	</string>
 	<string id="name_bandit_30">
-		<text>Pawlucha</text>
+		<text>Pavluha</text>
 	</string>
 	<string id="name_bandit_31">
-		<text>Petrucha</text>
+		<text>Petruha</text>
 	</string>
 	<string id="name_bandit_32">
-		<text>Styopka</text>
+		<text>Stepka</text>
 	</string>
 	<string id="name_bandit_33">
-		<text>Stepucha</text>
+		<text>Stepuha</text>
 	</string>
 	<string id="name_bandit_34">
-		<text>Timocha</text>
+		<text>Timoha</text>
 	</string>
 	<string id="name_bandit_35">
 		<text>Felka</text>
 	</string>
 	<string id="name_bandit_36">
-		<text>Juras</text>
+		<text>Yuras</text>
 	</string>
 	<string id="name_bandit_37">
-		<text>Jaschka</text>
+		<text>Yashka</text>
 	</string>
 	<string id="name_bandit_4">
-		<text>Andrjucha</text>
+		<text>Andruha</text>
 	</string>
 	<string id="name_bandit_5">
-		<text>Tocha</text>
+		<text>Toha</text>
 	</string>
 	<string id="name_bandit_6">
-		<text>Arkascha</text>
+		<text>Arkasha</text>
 	</string>
 	<string id="name_bandit_7">
-		<text>Tjomka</text>
+		<text>Temka</text>
 	</string>
 	<string id="name_bandit_8">
-		<text>Borjin</text>
+		<text>Boryan</text>
 	</string>
 	<string id="name_bandit_9">
-		<text>Bodja</text>
+		<text>Bodya</text>
 	</string>
 	<string id="name_captain_0">
-		<text>Hauptmann</text>
+		<text>Captain</text>
 	</string>
 	<string id="name_captain_1">
-		<text>Hauptmann</text>
+		<text>Captain</text>
 	</string>
 	<string id="name_lieutenant_0">
-		<text>Lt.</text>
+		<text>Lieutenant</text>
 	</string>
 	<string id="name_lieutenant_1">
-		<text>Lt.</text>
+		<text>Lieutenant</text>
 	</string>
 	<string id="name_private_0">
-		<text>Soldat</text>
+		<text>Private</text>
 	</string>
 	<string id="name_private_1">
-		<text>Soldat</text>
+		<text>Private</text>
 	</string>
 	<string id="name_science_0">
 		<text>Andrei</text>
@@ -197,7 +200,7 @@
 		<text>Oleg</text>
 	</string>
 	<string id="name_science_11">
-		<text>Römer</text>
+		<text>Roman</text>
 	</string>
 	<string id="name_science_12">
 		<text>Alexander</text>
@@ -206,64 +209,64 @@
 		<text>Sergei</text>
 	</string>
 	<string id="name_science_14">
-		<text>Anatoli</text>
+		<text>Anatoly</text>
 	</string>
 	<string id="name_science_15">
-		<text>Juri</text>
+		<text>Yuri</text>
 	</string>
 	<string id="name_science_2">
 		<text>Bogdan</text>
 	</string>
 	<string id="name_science_3">
-		<text>Weniamin</text>
+		<text>Benjamin</text>
 	</string>
 	<string id="name_science_4">
-		<text>Witali</text>
+		<text>Vitaly</text>
 	</string>
 	<string id="name_science_5">
-		<text>Wladimir</text>
+		<text>Vladimir</text>
 	</string>
 	<string id="name_science_6">
-		<text>Dmitri</text>
+		<text>Dmitry</text>
 	</string>
 	<string id="name_science_7">
-		<text>Iwan</text>
+		<text>Ivan</text>
 	</string>
 	<string id="name_science_8">
-		<text>Konstantin</text>
+		<text>Constantine</text>
 	</string>
 	<string id="name_science_9">
 		<text>Alexei</text>
 	</string>
 	<string id="name_sergeant_0">
-		<text>Feldwebel</text>
+		<text>Sergeant</text>
 	</string>
 	<string id="name_sergeant_1">
-		<text>Feldwebel</text>
+		<text>Sergeant</text>
 	</string>
 	<string id="name_stalker_0">
-		<text>Sanja</text>
+		<text>Sanya</text>
 	</string>
 	<string id="name_stalker_1">
-		<text>Sanjok</text>
+		<text>Sanek</text>
 	</string>
 	<string id="name_stalker_10">
-		<text>Arthur</text>
+		<text>Artur</text>
 	</string>
 	<string id="name_stalker_100">
-		<text>Jaschka</text>
+		<text>Yashka</text>
 	</string>
 	<string id="name_stalker_101">
-		<text>Jarik</text>
+		<text>Yarik</text>
 	</string>
 	<string id="name_stalker_102">
-		<text>Jara</text>
+		<text>Yara</text>
 	</string>
 	<string id="name_stalker_103">
-		<text>Slawa</text>
+		<text>Slava</text>
 	</string>
 	<string id="name_stalker_11">
-		<text>Borja</text>
+		<text>Boris</text>
 	</string>
 	<string id="name_stalker_12">
 		<text>Borka</text>
@@ -272,64 +275,64 @@
 		<text>Bogdan</text>
 	</string>
 	<string id="name_stalker_14">
-		<text>Slawik</text>
+		<text>Slavik</text>
 	</string>
 	<string id="name_stalker_15">
 		<text>Vadim</text>
 	</string>
 	<string id="name_stalker_16">
-		<text>Vadja</text>
+		<text>Vadya</text>
 	</string>
 	<string id="name_stalker_17">
 		<text>Vadik</text>
 	</string>
 	<string id="name_stalker_18">
-		<text>Walik</text>
+		<text>Valik</text>
 	</string>
 	<string id="name_stalker_19">
-		<text>Walera</text>
+		<text>Valera</text>
 	</string>
 	<string id="name_stalker_2">
-		<text>Schurik</text>
+		<text>Shurik</text>
 	</string>
 	<string id="name_stalker_20">
-		<text>Wasja</text>
+		<text>Jack</text>
 	</string>
 	<string id="name_stalker_21">
-		<text>Waska</text>
+		<text>Vaska</text>
 	</string>
 	<string id="name_stalker_22">
-		<text>Wasko</text>
+ 		<text>Vasko</text>
 	</string>
 	<string id="name_stalker_23">
-		<text>Wenja</text>
+		<text>Venya</text>
 	</string>
 	<string id="name_stalker_24">
-		<text>Witja</text>
+		<text>Vitya</text>
 	</string>
 	<string id="name_stalker_25">
-		<text>Witka</text>
+		<text>Vitka</text>
 	</string>
 	<string id="name_stalker_26">
-		<text>Witalik</text>
+		<text>Vitalik</text>
 	</string>
 	<string id="name_stalker_27">
-		<text>Wlad</text>
+		<text>Vlad</text>
 	</string>
 	<string id="name_stalker_28">
-		<text>Wowa</text>
+		<text>Vova</text>
 	</string>
 	<string id="name_stalker_29">
-		<text>Wowka</text>
+		<text>Vovka</text>
 	</string>
 	<string id="name_stalker_3">
-		<text>Lyonya</text>
+		<text>Lenya</text>
 	</string>
 	<string id="name_stalker_30">
-		<text>Sewa</text>
+		<text>Seva</text>
 	</string>
 	<string id="name_stalker_31">
-		<text>Sewka</text>
+		<text>Sevka</text>
 	</string>
 	<string id="name_stalker_32">
 		<text>Gena</text>
@@ -341,31 +344,31 @@
 		<text>Georg</text>
 	</string>
 	<string id="name_stalker_35">
-		<text>Goscha</text>
+		<text>Gosha</text>
 	</string>
 	<string id="name_stalker_36">
-		<text>Schora</text>
+		<text>Zhora</text>
 	</string>
 	<string id="name_stalker_37">
-		<text>Grinja</text>
+		<text>German</text>
 	</string>
 	<string id="name_stalker_38">
 		<text>Gleb</text>
 	</string>
 	<string id="name_stalker_39">
-		<text>Grischa</text>
+		<text>Grisha</text>
 	</string>
 	<string id="name_stalker_4">
 		<text>Alex</text>
 	</string>
 	<string id="name_stalker_40">
-		<text>Grischka</text>
+		<text>Grishka</text>
 	</string>
 	<string id="name_stalker_41">
-		<text>Grischko</text>
+		<text>Grishko</text>
 	</string>
 	<string id="name_stalker_42">
-		<text>Danja</text>
+		<text>Danya</text>
 	</string>
 	<string id="name_stalker_43">
 		<text>Danila</text>
@@ -386,16 +389,16 @@
 		<text>Dmitro</text>
 	</string>
 	<string id="name_stalker_49">
-		<text>Schenja</text>
+		<text>Jack</text>
 	</string>
 	<string id="name_stalker_5">
-		<text>Lyoschka</text>
+		<text>Leshka</text>
 	</string>
 	<string id="name_stalker_50">
-		<text>Schenka</text>
+		<text>Zhenka</text>
 	</string>
 	<string id="name_stalker_51">
-		<text>Egor</text>
+		<text>Igor</text>
 	</string>
 	<string id="name_stalker_52">
 		<text>Egorka</text>
@@ -404,19 +407,19 @@
 		<text>Fima</text>
 	</string>
 	<string id="name_stalker_54">
-		<text>Wanja</text>
+		<text>Vanya</text>
 	</string>
 	<string id="name_stalker_55">
-		<text>Wanka</text>
+		<text>Vanka</text>
 	</string>
 	<string id="name_stalker_56">
-		<text>Igoryok</text>
+		<text>Igorek</text>
 	</string>
 	<string id="name_stalker_57">
-		<text>Ilja</text>
+		<text>Ilya</text>
 	</string>
 	<string id="name_stalker_58">
-		<text>Kostja</text>
+		<text>Kostya</text>
 	</string>
 	<string id="name_stalker_59">
 		<text>Kostik</text>
@@ -425,10 +428,10 @@
 		<text>Tolik</text>
 	</string>
 	<string id="name_stalker_60">
-		<text>Lyowa</text>
+		<text>Leva</text>
 	</string>
 	<string id="name_stalker_61">
-		<text>Lyonya</text>
+		<text>Lenya</text>
 	</string>
 	<string id="name_stalker_62">
 		<text>Lenka</text>
@@ -437,16 +440,16 @@
 		<text>Max</text>
 	</string>
 	<string id="name_stalker_64">
-		<text>Matwei</text>
+		<text>Matvei</text>
 	</string>
 	<string id="name_stalker_65">
-		<text>Mitja</text>
+		<text>Mitya</text>
 	</string>
 	<string id="name_stalker_66">
-		<text>Mischa</text>
+		<text>Misha</text>
 	</string>
 	<string id="name_stalker_67">
-		<text>Mischka</text>
+		<text>Mishka</text>
 	</string>
 	<string id="name_stalker_68">
 		<text>Nikita</text>
@@ -458,13 +461,13 @@
 		<text>Anton</text>
 	</string>
 	<string id="name_stalker_70">
-		<text>Kolja</text>
+		<text>Kohl</text>
 	</string>
 	<string id="name_stalker_71">
 		<text>Oleg</text>
 	</string>
 	<string id="name_stalker_72">
-		<text>Pascha</text>
+		<text>Pasha</text>
 	</string>
 	<string id="name_stalker_73">
 		<text>Paschka</text>
@@ -473,13 +476,13 @@
 		<text>Petro</text>
 	</string>
 	<string id="name_stalker_75">
-		<text>Petja</text>
+		<text>Petya</text>
 	</string>
 	<string id="name_stalker_76">
 		<text>Petka</text>
 	</string>
 	<string id="name_stalker_77">
-		<text>Roma</text>
+		<text>Roman</text>
 	</string>
 	<string id="name_stalker_78">
 		<text>Romka</text>
@@ -488,25 +491,25 @@
 		<text>Rostik</text>
 	</string>
 	<string id="name_stalker_8">
-		<text>Toschka</text>
+		<text>Toshka</text>
 	</string>
 	<string id="name_stalker_80">
 		<text>Rus</text>
 	</string>
 	<string id="name_stalker_81">
-		<text>Sawa</text>
+		<text>Sava</text>
 	</string>
 	<string id="name_stalker_82">
-		<text>Semjon</text>
+		<text>Semyn</text>
 	</string>
 	<string id="name_stalker_83">
-		<text>Sjoma</text>
+		<text>Sema</text>
 	</string>
 	<string id="name_stalker_84">
-		<text>Serjoga</text>
+		<text>Seryga</text>
 	</string>
 	<string id="name_stalker_85">
-		<text>Senja</text>
+		<text>Senya</text>
 	</string>
 	<string id="name_stalker_86">
 		<text>Stepan</text>
@@ -521,19 +524,19 @@
 		<text>Timka</text>
 	</string>
 	<string id="name_stalker_9">
-		<text>Artjom</text>
+		<text>Artyom</text>
 	</string>
 	<string id="name_stalker_90">
-		<text>Fjodor</text>
+		<text>Fedor</text>
 	</string>
 	<string id="name_stalker_91">
-		<text>Fedja</text>
+		<text>Fedya</text>
 	</string>
 	<string id="name_stalker_92">
 		<text>Fedka</text>
 	</string>
 	<string id="name_stalker_93">
-		<text>Filja</text>
+		<text>Filya</text>
 	</string>
 	<string id="name_stalker_94">
 		<text>Filka</text>
@@ -542,14 +545,14 @@
 		<text>Edik</text>
 	</string>
 	<string id="name_stalker_96">
-		<text>Jurka</text>
+		<text>Yurka</text>
 	</string>
 	<string id="name_stalker_97">
-		<text>Juri</text>
+		<text>Yurek</text><!-- Was 'Yurik' -->
 	</string>
 	<string id="name_stalker_98">
-		<text>Jurko</text>
+		<text>Yurko</text>
 	</string>
 	<string id="name_stalker_99">
-		<text>Jascha</text>
+		<text>Yasha</text>
 	</string>

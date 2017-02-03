@@ -1,368 +1,213 @@
-<!-- Ьbersetzt und angepasst durch Wlad Geschwendt aka 777-W.L.A.D. am 19.02.2008 -->
-<!-------------------------------- Update am 03.03.2015 ---------------------------->
-
-<?xml version="1.0" encoding="windows-1251" ?>
-
-<string_table>
-
-	<string id="mil_freedom_commander_7000">
-		<text>Danke, Gezeichneter! Wir haben diese blцde Fanatiker zurьckgeschlagen... Manchmal laufen auch die ganzen Biester vom Radar auf - dann ist hier Armaggedon, sich zu erschieЯen ist da schon fast die bessere Wahl! Die sind vielleicht schnell! Da schaffst nicht zu zielen... Wie hatten ja gegen die Viecher ein Wannsinns-Gerдt, ein Flammenwerfer, aber der will irgendwie nicht mehr... Den sollten wir mal dem Schrauber zeigen, aber wir kцnnen hier nicht weg, zu viel los. Hast ja selber gesehen, wie die Bastarde aus allen Lцcher kriechen! Na ja, wird Zeit das wir mal abrechnen, Gezeichneter. Nimmst Du Geld fьr deine Hilfe?
-	</text>
-	</string>
-
-	<string id="mil_freedom_commander_7001">
-		<text>Ja, Geld braucht man immer!</text>
-	</string>
-
-	<string id="mil_freedom_commander_7002">
-		<text>Wieso, gibt es noch andere Optionen?</text>
-	</string>
-
-	<string id="mil_freedom_commander_7003">
-		<text>Na ja, wie soll ich sagen... Geld brauchen wir ja auch selber... WeiЯt du was... Ich geb dir 1000 Rubel und diesen Flammenwerfer. Was nьtzt der uns hier, wenn der eh nicht funktioniert. Und wir kriegen's ja nicht wieder zum Laufen. Aber du, du scheinst ja ein schlauer Kerlchen zu sein, sei nicht faul und schaue beim Schrauber vorbei. Vielleicht kriegt er den wieder hin. Dann wirst du sehen, das es mehr bringt, als wenn ich dir mehr Geld geben wьrde.
-	</text>
-	</string>
-
-	<string id="mil_freedom_commander_7004">
-		<text>Nein, Danke. Ich nehme lieber einfach Geld.</text>
-	</string>
-
-	<string id="mil_freedom_commander_7005">
-		<text>Cool! Ich denke, ich werd's schon irgendwie gebrauchen.</text>
-	</string>
-
-	<string id="mil_screw_flamethrower_1000">
-		<text>Ah, unser "Denker"... Hier hab ich was zum Kopf zerbrechen... Ein Flammenwerfer, der kein Feuer mehr spuckt. Deine Kollegen haben mit ihn ausgiebig gespielt, bevor ich den in die Hдnde bekam... Na ja, ich hab ein wenig Hilfe bei der Barriere geleistet - da kriegte ich's geschenkt. Und ein Rat dazu - "der Schrauber kriegt's wieder hin". Was sagst du? Patient eher tot, oder lebt er noch?
-	</text>
-	</string>
-
-	<string id="mil_screw_flamethrower_1001">
-		<text>Was zum... GroЯer Djah! Ich hab so lang gebraucht, um den zu bauen! Nдchte lang gebastelt! Und die machen's kaputt!!! Schlauch ist durch... und hier auch...Was fьr'n Scheiss?! Haben die ihn in jede Anomalie geworfen, die sie finden konnten oder hat's die Chimera gefressen und ausgekotzt?! Kurz gesagt, Gezeichneter. Arbeit gibt's damit genug. Mann, wenn ich bloЯ an all die schlaflosen Nдchte damals... Na ja, du hast ja wohl uns geholfen, da helfe ich dir auch. Nicht fьr "Danke", die Zeiten sind schwer, du verstehst es ja wohl... Lass uns mal eine Liste der Teile erstellen, die ich brauche. Soooo... Schau mal, was wir da haben... Da wirst du ein wenig rumrennen mьssen, um alles zu besorgen.
-	</text>
-	</string>
-
-	<string id="mil_screw_flamethrower_1002">
-		<text>Zum Teufel damit! Mehr Sorgen als Nutzen! Willst du es haben? Fьr 2500?</text>
-	</string>
-
-	<string id="mil_screw_flamethrower_1003">
-		<text>Rumrennen, sagst du? Na ja, bin ich ja gewцhnt. Erzдhl, was brauchst du?</text>
-	</string>
-
-	<string id="mil_screw_flamethrower_1004">
-		<text>Na gut, ьberredet, ich nehm's.</text>
-	</string>
-
-	<string id="mil_screw_flamethrower_1005">
-		<text>Soo.. hier ist die ungefдhre Liste: 
-		\n \nErstens brauche ich ein Artefakt, nennt sich Feuerball. So viele Lцcher, wie ich hier zulцten muss... Mit einfachen Lцtkolben bin ich ja bis zum Winter noch nicht fertig. Und mit dem Artefakt geht's viel schneller, ich kenne da eine Methode...
-		\n \nZweitens, die Druckschlдuche, die hier dran sind, die kannst du nur noch zum Garten gieЯen nehmen, wenn ьberhaupt. Ich rate dir, schaue mal bei Sidorowitsch vorbei - die Neulinge schleppen alles mцgliche von der Mьllhalde zu ihm, vielleicht hat er was passendes. Kannst ihm GrьЯe von mir ьberbringen. Als mein alter Freund, hilf er dir bestimmt.
-		\n \nDrittens, Manometer (oder Druckmesser fьr begriffsstutzigen) - mit dem hier wurden Konserven geцffnet oder so... Sehr originell, echt, wenn ich den treffe, der das hier... Wo soll man so was jetzt her bekommen?! Vielleicht findest du so ein Ding bei Agroprom. Da war ja so eine Forschungseinrichtung, viele Gerдte, Versorgungsleitungen und so... Da liegt bestimmt noch was rum.
-		\n \nViertens, der Brenner - ohne geht's nicht. Wer diesen hier so zugerichtet hat, ist mir eine Rдtsel. Als ob ein Bьrer daran gekaut hat! Nach dem Brenner kannst du ja jemanden von uns fragen... Aber wird wohl keiner herausrьcken. Damit kannste die Wurst rдuchern, die wird zum Gedicht! He-he! Nun, wenn du mal unauffдllig in den Baracken suchst. Die sicherere Variante - ab zum Wirt, der hat ja alles erdenkliche. Besorge dir irgendeinen, ich werd's schon dran basteln. Erzдhl dem Wirt aber nicht, das es fьr mich ist, sonst petzt der noch den Wдchtern, das ich hier was feines baue. Dann haben wir hier im Handumdrehen eine Razzia! Muss ja nicht sein, oder? 
-		\n \nUnd, das wichtigste fьr jede Maschine - Schmierung! Und Alkohol! Die Teile reinigen, na ja, und die innere Schmierung... Auch fьr den Handwerker... Verstehst du? Besorge mir bisschen Wodka, ok? Mit klarem Kopf will ich gar nicht anfangen damit, tut's einem schon weh nur bei Anschauen. Vieeel Arbeit, also so ca. fьnf...nee, sieben Flaschen... Halt, hol zehn, dann passt's. Sonst bleibt nix fьr die Teile ьbrig.
-		\n \nDas war's. Kannst loslegen. Du bist doch ein Stalker, Alter! Ich glaub an dich. Am besten fдngst du mit Wodka an, versteht sich...
-	</text>
-	</string>
-
-	<string id="mil_screw_flamethrower_1006">
-		<text>Hey, das ist ja wie eine Einkaufsliste! Na gut. Ich hoffe, es lohnt sich.</text>
-	</string>
-
-	<string id="mil_screw_flamethrower_1007">
-		<text>Ja, es lohnt sich. Und es kostet dich 5000. Wie fьr einen alten Freund!</text>
-	</string>
-
-	<string id="mil_screw_flamethrower_1008">
-		<text>Das hast du aber vorher nicht erwдhnt!</text>
-	</string>
-
-	<string id="mil_screw_flamethrower_1009">
-		<text>Na, ich erwдhne es jetzt. Fьr DAS Teil, was ich hier basteln muss, kцnnte ich auch mehr verlangen! Aber ich hab gute Laune. Und auЯerdem, ьberlege mal... Wer, auЯer mir, soll denn das Ding bauen? Also, los, sei nicht so geizig.
-	</text>
-	</string>
-
-	<string id="mil_screw_flamethrower_1010">
-		<text>Na gut, abgemacht... Ich gehe dann. Saufe dich hier nicht tot, bevor ich zurьck bin!</text>
-	</string>
-
-	<string id="escape_trader_flamethrower_dialog_0">
-		<text>Ich soll dir GrьЯe ьberbringen! Sagt dir Spitzname "Schrauber" was?</text>
-	</string>
-
-	<string id="escape_trader_flamethrower_dialog_1000">
-		<text>Schrauber...Schrauber... Hmm, mein Gedдchtnis lдsst auch nach... Ja, es gab's mal so ein Stalker. Hat gesoffen wie ein Specht, wenn ich mich recht erinnere. Hat bei mir auЯer Wodka kaum was gekauft. Tja, ich dachte, der hat sich schon tot gesoffen. Heh... Hat aber immer gute Ware angeschleppt, Und hatte auch nicht zwei linke Hдnde. Hat immer irgendwas repariert, Fernseher, Detektoren, so'n Zeug... Und was sagtest du? Der lebt noch?
-	</text>
-	</string>
-
-	<string id="escape_trader_flamethrower_dialog_1001">
-		<text>Ja, der lebt. Ich soll dir grьЯen. Der sagte mir, du kцnntest was nьtzliches haben, was er braucht. Hцr mal, Sidorowitsch, metallbeschichtete Druckschlдuche, nicht lang, ungefдhr die GrцЯe. Die brauche ich. Na ja, nicht ich, der Schrauber. Hast du was дhnliches da?</text>
-	</string>
-
-	<string id="escape_trader_flamethrower_dialog_1002">
-		<text>Дhhh?! Woher sollte ich so was haben? Oder sind die was Wert? Ne, nichts da, nicht mal was дnliches... Was nix Wert ist - das lagere ich nicht.
-	</text>
-	</string>
-
-	<string id="escape_trader_flamethrower_dialog_1003">
-		<text>Hmm. Klar. Und was soll so was kosten?</text>
-	</string>
-
-	<string id="escape_trader_flamethrower_dialog_1004">
-		<text>Sag mal, Gezeichneter, hat dich die Strahlung da drauЯen taub gemacht? Ich sag's doch - ich hab's nicht! Na ja, wenn ich so nachdenke, es gibt da 'ne Variante... du hast mir ja die Laune gehoben mit der Nachricht, das "Schrauber" am Leben ist. Also - mein kostenloser Rat - besuche mal Lecha Tambowsky. Der ist ein kluger Junge, bastelt auch immer was. Vielleicht hat er ja so was. Der ist in Moment auf der Mьllhalde, sucht da Teile fьr seine Basteleien. Hier hast du seine Koordinaten.
-	</text>
-	</string>
-
-	<string id="escape_trader_flamethrower_dialog_1005">
-		<text>Danke. Das der mal was umsonst gemacht hat... Alter Geizkragen...</text>
-	</string>
-
-	<string id="escape_trader_flamethrower_dialog_1006">
-		<text>Was sagst du, Gezeichneter? Ich hab's nдmlich nicht nur mit dem Gedдchtnis, sondern auch Gehцr macht langsam Probleme... Bin ja nicht mehr der jungste...
-	</text>
-	</string>
-
-	<string id="escape_trader_flamethrower_dialog_1007">
-		<text>Ich sagte DANKE. Und bleib gesund, Sidorowitsch.</text>
-	</string>
-
-	<string id="escape_trader_flamethrower_dialog_1008">
-		<text>Hier soll man gesund bleiben?! Na ja, brauchst du sonst noch was?</text>
-	</string>
-
-	<string id="gar_flamethrower_0">
-		<text>Sei gegrьЯt... Was fьhrt dich zu mir?</text>
-	</string>
-
-	<string id="gar_flamethrower_1000">
-		<text>Sidor meinte, du bist hier so was wie ein Superklemptner. Kannst du mir helfen, Druckschlдuche zu finden? So groЯ ungefдr...</text>
-	</string>
-
-	<string id="gar_flamethrower_1001">
-		<text>Schlдche...Schlдuche... Hmm. Gesehen hab ich so was, zwischen dem ganzen strahlenden Zeug. Hab's selber mal gebraucht, hab aber keinen passenden Anzug, komm daher nicht dran. Aber Koordinaten hab ich notiert. Kannst du kaufen, preiswert. Ich wollte hier noch was suchen, hab aber immer noch kein Schutz. Ich wьrde ja auch so da rein klettern, aber nur mit Medikamenten. Wenn du paar Antirad's fьr mich hast - kriegst du die Koordinaten.
-	</text>
-	</string>
-
-	<string id="gar_flamethrower_1002">
-		<text>Alles klar. Aber Antirad hab ich nicht bei. Dann gehe ich weiter suchen.</text>
-	</string>
-
-	<string id="gar_flamethrower_1003">
-		<text>Ja, mit Strahlung sollte man nicht scherzen. Hier, nimm.</text>
-	</string>
-
-	<string id="gar_flamethrower_1004">
-		<text>Gib mal dein PDA her. So, hier, schau mal, ich setze mal eine Marke. Da hab ich so was gesehen. Ich glaube, die nimmt eh keiner mit. Hol die dir.</text>
-	</string>
-
-	<string id="gar_flamethrower_1005">
-		<text>Danke. Viel Glьck und viel SpaЯ beim Basteln.</text>
-	</string>
-
-	<string id="barmen_flamethrower_task_0">
-		<text>Hi! Hцr mal, hast du nicht irgendeinen Brenner, so aus "alter Freundschaft"?</text>
-	</string>
-
-	<string id="barmen_flamethrower_task_1000">
-		<text>Brenner?.. Hm, interessante Sache. Wofьr brauchst du so was, so "aus Freundschaft"?</text>
-	</string>
-
-	<string id="barmen_flamethrower_task_1001">
-		<text>Дhh... Ich hab echt Lust auf Rдucherwurst bekommen...</text>
-	</string>
-
-	<string id="barmen_flamethrower_task_1002">
-		<text>Echt?.. Na ja... Lassen wir das so stehen. Ja, ich hдtte da was, funktioniert sogar. Fьr 250 kriegst es.</text>
-	</string>
-
-	<string id="barmen_flamethrower_task_1003">
-		<text>250 fьr so ein Scheiss? Teuer,Mann... neee. ich hab mal 'ne andere Frage...</text>
-	</string>
-
-	<string id="barmen_flamethrower_task_1004">
-		<text>Das ist gerecht, kцnnt ich verkraften. Hier.</text>
-	</string>
-
-	<string id="parts_completed_0">
-		<text>Hey, hast du schon alles zusammen? Hast du auch Wodka nicht vergessen?</text>
-	</string>
-
-	<string id="parts_completed_1000">
-		<text>Hab alles besorgt. Hier hast du erst das Artefakt und die Ersatzteile. Wodka kannst du spдter saufen. Mach erst die Arbeit! Ich warte auf den Flammenwerfer, und mein Geld wartet auf dich.
-	</text>
-	</string>
-
-	<string id="parts_completed_1001">
-		<text>Entspann dich, Mann! Djah sei mit dir! Ich sagte doch, ich mach's. Gib mir ein Tag - dann ist alles fertig.</text>
-	</string>
-
-	<string id="parts_completed_1002">
-		<text>Abgemacht. Ich warte.</text>
-	</string>
-
-	<string id="parts_completed_10111">
-		<text>Na, wie lдuft's? Schon fertig?</text>
-	</string>
-
-	<string id="parts_completed_1003">
-		<text>Hee-ee-e Gez-zeich-chneter!.. Was ist? D-denkst'te ech-ht...das ich je..jetzt schooon fertisch... wдr?! H-hik...</text>
-	</string>
-
-	<string id="parts_completed_1004">
-		<text>Wenn du weniger saufen wьrdest, wдrst du schon fertig! Egal, hol dich der Teufel... Mach jetzt, ich komm spдter vorbei.</text>
-	</string>
-
-	<string id="parts_completed_1013">
-		<text>So, was ist nun mit dem Flammenwerfer?</text>
-	</string>
-
-	<string id="parts_completed_1005">
-		<text>Oooo! Der glьckliche Besitzer eines Flammenwerfers ist endlich da!</text>
-	</string>
-
-	<string id="parts_completed_1006">
-		<text>Ne, echt?! Ich dachte, du wьrdest nie fertig. Sieht nicht schlecht aus. Los, gib her. Ich danke dir.</text>
-	</string>
-
-	<string id="parts_completed_1007">
-		<text>Hey, warte! Du bist ja flink... Laut Absprache - 10 000 fьr die Arbeit, schon vergessen?</text>
-	</string>
-
-	<string id="parts_completed_1008">
-		<text>Was ist!!? Hast du noch alle?? Oder nur noch Alk im Schдdel? Die Rede war ьber 5 000. Oder muss ich dir mit Prьgel auf die Sprьnge helfen?</text>
-	</string>
-
-	<string id="parts_completed_1009">
-		<text>Tzzzz... Hey, komm runter... Lass es 5 000 sein. Hier hast du dein Spielzeug. Nun kannste "Wolfenstein" spielen. Ha-ha. So, viel Glьck. Ja, noch was, die Ladung reicht etwa fьr eine Minute Betrieb insgesamt. Wenn's zu Ende ist - kannste kommen und ich befьlle es neu, fьr einen kleinen Obulus. Ist nicht so einfach, also merk's dir. Dafьr brauche ich Benzin, so ein Kanister voll reicht. Und eine Flasche von diesem.. Wie hieЯ es?... Ja, Colloid! So... Oder ich besorg's selber, dann wird's aber teuer.</text>
-	</string>
-
-	<string id="parts_completed_1010">
-		<text>Warte mal, Flasche wovon? Wo soll ich den so was finden?</text>
-	</string>
-
-	<string id="parts_completed_1011">
-		<text>Colloid irgendwas... Die Eierkцpfe brachten eine Menge davon in die Zone, fьr ihre Experimente. Fьr die Brennmischung ist es Spitze geeignet. Kannst du z.B. bei Agroprom suchen. Na ja, und auch so wirst du bestimmt in der Zone fьndig. Das Zeug haben die Stalker spдter ьberallhin geschleppt. Also halt die Augen auf.
-	</text>
-	</string>
-
-	<string id="parts_completed_1012">
-		<text>Tjaa.. Alles klar. Danke nochmal. Jetzt kannst du dir einen genehmigen...</text>
-	</string>
-
-	<string id="mil_screw_flamethrower_text">
-		<text>Ich muss mehrere Gegenstдnde finden, die der Schrauber bestellt hat:
-		\n \n 1. Ein Feuerball.
-		\n \n 2. Druckschlдuche. Vielleicht hat Sidorowitsch so was.
-		\n \n 3. Druckmesser. Im Agroprom-Institut suchen.
-		\n \n 4. Brenner. Mal beim Wirt fragen.
-		\n \n 5. 10 Pullen Wodka fьr diesen Sдufer.
-		\n \n Oh-oh, das wird ein langer Tag.
-	</text>
-	</string>
-
-	<string id="trubka_descr">
-		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten%c[default].\n \n Kurzer, metallbeschichteter Schlauch. Sieht intakt und robust aus. Hoffentlich passt der fьr den Flammenwerfer.</text>
-	</string>
-
-	<string id="gorelka_descr">
-		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten%c[default].\n \n Ein Brenner mittlerer GrцЯe. Gerьchten zufolge, bekommt die Wurst "Praktische" einen exzellenten Geschmack, wenn man die auf so einem Brenner rдuchert. Theoretisch sollte der sich auch fьrs Zьnden der Brennmischung im Flammenwerfer eignen.
-	</text>
-	</string>
-
-	<string id="manometr_descr">
-		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 1.0 Einheiten%c[default].\n \n Ein Druckmesser, noch aus UdSSR-Zeiten. Aus einer Schnapsbrennerei vielleicht. Robust und ganz, das Glas ist ein wenig verschmutzt, aber das ist nicht wichtig. Gut mцglich, das es an den Flammenwerfer passt.
-	</text>
-	</string>
-
-	<string id="flama_descr">
-		<text>%c[255,1,255,255]Volumen:%c[255,1,255,1] 9 Einheiten%c[default].\n \n Zum Heulen... Es bleibt einem nur zu erahnen, welche Feuerkraft diese Waffe hatte, als sie noch funktionierte. Aber ein guter Handwerker kцnnte es vielleicht schaffen, diese zu "rehanimieren". Jetzt muss man nur noch so einen Handwerker finden.
-	</text>
-	</string>
-
-	<string id="flame_descr">
-		<text>Eine "Bastler"-Variante der Waffe, von dem "Schrauber" aus Teilen eines Militдr-Flammenwerfers, und dem, was so im Lager herumliegt, zusammengebaut. Hat verheerende Zerstцrungskraft, ist aber nur auf kurzer Distanz effektiv. Wird gewцhnlich gegen groЯe Rudel und Herden von Mutanten verwendet. Die Ladung reicht etwa fьr 1 Minute Dauerbetrieb.
-	</text>
-	</string>
-
-	<string id="flame_no_parts_0">
-		<text>Verdammt, ich glaube, ich hab was vergessen. Bin bald wieder da.</text>
-	</string>
-
-	<string id="item_flamethrower_bad_name">
-		<text>Ein kaputter Flammenwerfer</text>
-	</string>
-
-	<string id="manometr">
-		<text>Druckmesser</text>
-	</string>
-
-	<string id="trubka">
-		<text>Druckschlauch</text>
-	</string>
-
-	<string id="gorelka">
-		<text>Brenner</text>
-	</string>
-
-	<string id="flamethrower_basic">
-		<text>Flammenwerfer. Selbstgebautes Exemplar, aber zuverlдssig zusammengesetzt. Betanken kann ihn der "Schrauber" - Handwerker und Mechaniker der "Freiheit". Ist, wegen spezifischer Konstruktion, auf Spezial-Brennmischung angewiesen. Diese wird aus Benzin oder anderen Treibstoffen und Colloid-Gas (von der Forschern produziert und in Druckflaschen gelagert) zusammengemischt. Dieses komische Gas soll es bei Agroprom geben, aber es ist wohl nicht unwahrscheinlich, das man es auch anderswo in der Zone findet. Wenn es Probleme gibt, das nцtige zu finden - "Schrauber" kann alles fьr 30 000 besorgen. Und im jeden Fall verlangt er fьr die Arbeit "Treibstoff" fьr sich - Flasche Wodka.
-	</text>
-	</string>
-
-	<string id="flame_reload_1">
-		<text>Du sagtest, das du den Flammenwerfer neu betanken kannst? Ich glaube, es ist jetzt soweit...</text>
-	</string>
-
-	<string id="flame_reload_2">
-		<text>Klar kann ich. Hast du Brennstoff da? Oder muss ich mich wieder selbst damit abquдlen? Ich warne dich, wenn ich alles selber besorgen muss - das kostet dich 30 000. Na ja, und nьchtern fange ich damit gar nicht an... Also, wenn du noch ein Flдschchen fьr mich ьbrig hast, hilft das!
-	</text>
-	</string>
-
-	<string id="flame_reload_3">
-		<text>Wieder Wodka?! Nee, ohne mich. Und knapp bei Kasse bin ich auch. Irgendwie werde ich auch ohne Flammenwerfer auskommen.</text>
-	</string>
-
-	<string id="flame_reload_4">
-		<text>Wie viel kannst du denn noch saufen??? Hier hast du es. Und Brennstoff hab ich auch besorgt. Nur mach's schneller.</text>
-	</string>
-
-	<string id="flame_reload_5">
-		<text>So um die halbe Stunde wird's dauern...</text>
-	</string>
-
-	<string id="flame_reload_6">
-		<text>Gut. Aber denk dran - ich hab's eilig.</text>
-	</string>
-
-	<string id="flame_reload_7">
-		<text>Nein, ich hab nichts gefunden. Hier, nimm 30 000 und die Pulle. Aber mach schneller!</text>
-	</string>
-
-	<string id="flame_reload_8">
-		<text>So... Danke. Ich denke, Morgen kannst du wieder kommen...</text>
-	</string>
-
-	<string id="flame_reload_9">
-		<text>Geht's noch? Noch ein Tag?! Dank dir, Meister. In Flaschen reissen... Viel Glьck!</text>
-	</string>
-
-	<string id="flame_reload_10">
-		<text>Was ist mit meinen Flammenwerfer?</text>
-	</string>
-
-	<string id="flame_reload_11">
-		<text>Alles bestens! Anders lдuft's bei mir auch nicht! Nimm mit.</text>
-	</string>
-
-	<string id="flame_reload_12">
-		<text>Danke dir, Mann! Wir sehen uns.</text>
-	</string>
-
-	<string id="flame_reload_13">
-		<text>Warte ein wenig! Das ist nicht so einfach. Komm spдter.</text>
-	</string>
-
-	<string id="flame_reload_14">
-		<text>Klar. Werd mal bisschen aktiver!</text>
-	</string>
-
-</string_table>
+<!-- TB3D 1.1.0.0.0.4 -->
+<!-- Text editing by: Martin Pallo 09/12/11-->
+<!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 13 Mar 16 -->
+<string id="mil_freedom_commander_7000">
+	<text>Vielen Dank, Gezeichneter! Wir haben diese Pisser zurьckgeschlagen...  Diese  Monolithen spinner machen ihren Job nicht Schlecht. In letzter Zeit versuchen  Mutanten durch das Radar-Gebiet zu durchzubrechen auf .. Teufel komm raus. Sie sind ziemlich schnell. Hier ist dann echt Armaggedon, sich zu erschieЯen ist da schon fast die bessere Wahl! Wir hatten einen Flammenwerfer fьr diese Freaks. Nur das Teil tut es nicht mehr. Unser Schrauber hatte ihn fьr uns gebaut.  Er muss sich das Gerдt auf jedenfall anschauen und Reparieren nur wir kцnnen hier nicht weg. Verdammt ... ich kann niemanden entbehren. Wir haben kaum ne Minute zum verschnaufen. Nun, hier ist eine Belohnung ... Akzeptierst du  Bargeld?</text>
+</string>
+<string id="mil_freedom_commander_7001">
+	<text>Sicher, Cash ist immer am Besten ... Nur bares ist wares.</text>
+</string>
+<string id="mil_freedom_commander_7002">
+	<text>Hast du sonst nochwas anderes?</text>
+</string>
+<string id="mil_freedom_commander_7003">
+	<text>Na ja, wie soll ich sagen... Geld brauchen wir ja auch selber... WeiЯt du was... Ich geb dir 1000 Rubel und diesen Flammenwerfer. Was nьtzt der uns hier, wenn der eh nicht funktioniert. Und wir kriegen ihn ja nicht wieder zum Laufen. Aber du, du scheinst ja ein schlaues Kerlchen zu sein, sei nicht faul und schaue beim Techniker  vorbei. Vielleicht kriegt der den wieder hin. Dann wirst du sehen, das es mehr bringt, als wenn ich dir mehr Geld geben wьrde.	</text>
+</string>
+<string id="mil_freedom_commander_7004">
+	<text>Nein, Danke. Ich nehme lieber einfach das Geld.</text>
+</string>
+<string id="mil_freedom_commander_7005">
+	<text>Cool! Ich denke, ich kцnnte ihn schon irgendwie gebrauchen.</text>
+</string>
+<string id="mil_screw_flamethrower_1000">
+	<text>Ah, unser "Denker"... Hier hab ich was zum Kopf zerbrechen... Ein Flammenwerfer, der kein Feuer mehr spuckt. Deine Kollegen haben mit ihn ausgiebig gespielt, bevor ich den in die Hдnde bekam... Na ja, ich hab ein wenig Hilfe bei der Barriere geleistet - da bekam ich ihn geschenkt. Und ein Tip dazu - "der Schrauber kriegt's wieder hin". Was sagst du? Patient eher tot, oder lebt er noch?	</text>
+</string>
+<string id="mil_screw_flamethrower_1001">
+	<text>Was zum... Gott verdammt! Ich hab so lang gebraucht, um den zu bauen! Nдchte lang gebastelt! Und die machen's kaputt!!! Schlauch ist durch... und hier auch...Was fьr'n Scheiss?! Haben die ihn in jede Anomalie geworfen, die sie finden konnten um zu sehen in was der sich verwandeln kцnnte oder hat's die als Chimera Kauspielzeug benutzt ...?! Kurz gesagt, Gezeichneter. Arbeit gibt's damit genug. Mann, wenn ich bloЯ an all die schlaflosen Nдchte damals... Na ja, du hast ja wohl uns geholfen, da helfe ich dir auch. Nicht fьr "Danke", die Zeiten sind schwer, du verstehst es ja wohl... Lass uns mal eine Liste der Teile erstellen, die ich brauche. Soooo... Schau mal, was wir da haben... Da wirst du ein wenig rumrennen mьssen, um alles zu besorgen.	</text>
+</string>
+<string id="mil_screw_flamethrower_1002">
+	<text>Zum Teufel damit! Mehr Sorgen als Nutzen! Willst du es haben? Fьr 2500?</text>
+</string>
+<string id="mil_screw_flamethrower_1003">
+	<text>Rumrennen, sagst du? Na ja, bin ich ja gewцhnt. Erzдhl, was brauchst du?</text>
+</string>
+<string id="mil_screw_flamethrower_1004">
+	<text>Na gut, ьberredet, ich nehm's.</text>
+</string>
+<string id="mil_screw_flamethrower_1005">
+	<text>Soo.. hier ist die ungefдhre Liste:		\n \nErstens brauche ich ein Artefakt, nennt sich Feuerball. So viele Lцcher, wie ich hier zulцten muss... Mit einfachen Lцtkolben bin ich ja bis zum Winter noch nicht fertig. Und mit dem Artefakt geht's viel schneller, ich kenne da eine Methode...		\n \nZweitens, die Druckschlдuche, die hier dran sind, die kannst du nur noch zum Garten gieЯen nehmen, wenn ьberhaupt. Ich rate dir, schaue mal bei Sidorowitsch vorbei - die Neulinge schleppen alles mцgliche von der Mьllhalde zu ihm, vielleicht hat er was passendes. Kannst ihm GrьЯe von mir ьberbringen. Als mein alter Freund, hilf er dir bestimmt.		\n \nDrittens, Manometer (oder Druckmesser fьr begriffsstutzigen) - mit dem hier wurden Konserven geцffnet oder so... Sehr originell, echt, wenn ich den treffe, der das hier... Wo soll man so was jetzt her bekommen?! Vielleicht findest du so ein Ding bei Agroprom. Da war ja so eine Forschungseinrichtung, viele Gerдte, Versorgungsleitungen und so... Da liegt bestimmt noch was rum.		\n \nViertens, der Brenner - ohne geht's nicht. Wer diesen hier so zugerichtet hat, ist mir eine Rдtsel. Als ob ein Bьrer daran gekaut hat! Nach dem Brenner kannst du ja jemanden von uns fragen... Aber wird wohl keiner herausrьcken. Damit kannste die Wurst rдuchern, die wird zum Gedicht! He-he! Nun, wenn du mal unauffдllig in den Baracken suchst. Die sicherere Variante - ab zum Wirt, der hat ja alles erdenkliche. Besorge dir irgendeinen, ich werd's schon dran basteln. Erzдhl dem Wirt aber nicht, das es fьr mich ist, sonst petzt der noch den Wдchtern, das ich hier was feines baue. Dann haben wir hier im Handumdrehen eine Razzia! Muss ja nicht sein, oder?		\n \nUnd, das wichtigste fьr jede Maschine - Schmierung! Und Alkohol! Die Teile reinigen, na ja, und die innere Schmierung... Auch fьr den Handwerker... Verstehst du? Besorge mir bisschen Wodka, ok? Mit klarem Kopf will ich gar nicht anfangen damit, tut's einem schon weh nur bei Anschauen. Vieeel Arbeit, also so ca. fьnf...nee, sieben Flaschen... Halt, hol zehn, dann passt's. Sonst bleibt nix fьr die Teile ьbrig.		\n \nDas war's. Kannst loslegen. Du bist doch ein Stalker, Alter! Ich glaub an dich. Am besten fдngst du mit Wodka an, versteht sich...	</text>
+</string>
+<string id="mil_screw_flamethrower_1006">
+	<text>Hey, das ist ja wie eine Einkaufsliste! Na gut. Ich hoffe, es lohnt sich.</text>
+</string>
+<string id="mil_screw_flamethrower_1007">
+	<text>Ja, es lohnt sich. Und es kostet dich 5000. Wie fьr einen alten Freund!</text>
+</string>
+<string id="mil_screw_flamethrower_1008">
+	<text>Das hast du aber vorher nicht erwдhnt!</text>
+</string>
+<string id="mil_screw_flamethrower_1009">
+	<text>Na, ich erwдhne es jetzt. Fьr DAS Teil, was ich hier basteln muss, kцnnte ich auch mehr verlangen! Aber ich hab gute Laune. Und auЯerdem, ьberlege mal... Wer, auЯer mir, soll denn das Ding bauen? Also, los, sei nicht so geizig.	</text>
+</string>
+<string id="mil_screw_flamethrower_1010">
+	<text>Na gut, abgemacht... Ich gehe dann. Saufe dich hier nicht tot, bevor ich zurьck bin und reinige schonmal die Teile!</text>
+</string>
+<string id="escape_trader_flamethrower_dialog_0">
+	<text>Ich soll dir GrьЯe ьberbringen! Sagt dir Spitzname "Schrauber" was?</text>
+</string>
+<string id="escape_trader_flamethrower_dialog_1000">
+	<text>Schrauber...Schrauber... Hmm, mein Gedдchtnis lдsst auch nach... Ja, es gab's mal so ein Stalker. Hat gesoffen wie ein Specht, wenn ich mich recht erinnere. Hat bei mir auЯer Wodka kaum was gekauft. Tja, ich dachte, der hat sich schon tot gesoffen. Heh... Hat aber immer gute Ware angeschleppt, Und hatte auch nicht zwei linke Hдnde. Hat immer irgendwas repariert, Fernseher, Detektoren, so'n Zeug... Und was sagtest du? Der lebt noch?	</text>
+</string>
+<string id="escape_trader_flamethrower_dialog_1001">
+	<text>Ja, der lebt. Ich soll dich grьЯen. Der sagte mir, du kцnntest was nьtzliches haben, was er braucht. Hцr mal, Sidorowitsch, metallbeschichtete Druckschlдuche, nicht lang, ungefдhr die GrцЯe. Die brauche ich. Na ja, nicht ich, der Schrauber. Hast du was дhnliches da?</text>
+</string>
+<string id="escape_trader_flamethrower_dialog_1002">
+	<text>Дhhh?! Woher sollte ich so was haben? Oder sind die was Wert? Ne, nichts da, nicht mal was дnliches... Was nix Wert ist - das lagere ich nicht.	</text>
+</string>
+<string id="escape_trader_flamethrower_dialog_1003">
+	<text>Hmm... Na Klar. Also was soll so was kosten? Komm schon...</text>
+</string>
+<string id="escape_trader_flamethrower_dialog_1004">
+	<text>Sag mal, Gezeichneter, hat dich die Strahlung da drauЯen taub gemacht? Ich sag's doch - ich hab's nicht! Na ja, wenn ich so nachdenke, es gibt da 'ne Variante... du hast mir ja die Laune gehoben mit der Nachricht, das "Schrauber" am Leben ist. Also - mein kostenloser Rat - besuche mal Alexey Tambovsky. Der ist ein kluger Junge, bastelt auch immer was. Vielleicht hat er ja so was. Der ist in Moment auf der Mьllhalde, sucht da Teile fьr einen neuen Dektektor. Hier hast du seine Koordinaten.	</text>
+</string>
+<string id="escape_trader_flamethrower_dialog_1005">
+	<text>Danke. Das der mal was umsonst gemacht hat... Alter Geizkragen...</text>
+</string>
+<string id="escape_trader_flamethrower_dialog_1006">
+	<text>Was ist? Ich hab's nдmlich nicht nur mit dem Gedдchtnis, sondern auch das Gehцr macht langsam Probleme... Bin ja nicht mehr der jungste...	</text>
+</string>
+<string id="escape_trader_flamethrower_dialog_1007">
+	<text>Ich sagte V-I-E-L-E-N D-A-N-K. Und bleib gesund, Sidorowitsch. ... hui</text>
+</string>
+<string id="escape_trader_flamethrower_dialog_1008">
+	<text>Hier soll man gesund bleiben?! Na ja, brauchst du sonst noch was?</text>
+</string>
+<string id="gar_flamethrower_0">
+	<text>Sei gegrьЯt... Was fьhrt dich zu mir?</text>
+</string>
+<string id="gar_flamethrower_1000">
+	<text>Sidor meinte, du bist hier so was wie ein Superklemptner. Kannst du mir helfen, Druckschlдuche zu finden? So groЯ ungefдr...</text>
+</string>
+<string id="gar_flamethrower_1001">
+	<text>Schlдche...Schlдuche... Hmm. Gesehen hab ich so was, zwischen dem ganzen strahlenden Zeug. Hab's selber mal gebraucht, hab aber keinen passenden Anzug, komm daher nicht dran. Aber Koordinaten hab ich notiert. Kannst du kaufen, preiswert. Ich wollte hier noch was suchen, hab aber immer noch kein Schutz. Ich wьrde ja auch so da rein klettern, aber nur mit Medikamenten. Wenn du paar Antirad's fьr mich hast - kriegst du die Koordinaten.	</text>
+</string>
+<string id="gar_flamethrower_1002">
+	<text>Alles klar. Aber Antirad hab ich nicht bei. Dann gehe ich weiter suchen.</text>
+</string>
+<string id="gar_flamethrower_1003">
+	<text>Ja, mit Strahlung sollte man nicht scherzen. Hier, nimm.</text>
+</string>
+<string id="gar_flamethrower_1004">
+	<text>Gib mal dein PDA her. So, hier, schau mal, ich setze mal eine Marke. Da hab ich so was gesehen. Ich glaube, die nimmt eh keiner mit. Hol die dir.</text>
+</string>
+<string id="gar_flamethrower_1005">
+	<text>Danke. Viel Glьck und viel SpaЯ beim Basteln.</text>
+</string>
+<string id="barmen_flamethrower_task_0">
+	<text>Hi! Hцr mal, hast du nicht irgendeinen Brenner, so aus "alter Freundschaft"?</text>
+</string>
+<string id="barmen_flamethrower_task_1000">
+	<text>Brenner?.. Hm, interessante Sache. Wofьr brauchst du so was, so "aus Freundschaft"?</text>
+</string>
+<string id="barmen_flamethrower_task_1001">
+	<text>Och...ein paar Jungs und ich habn echt Lust auf Rдucherwurst bekommen...</text>
+</string>
+<string id="barmen_flamethrower_task_1002">
+	<text>Echt?.. Na ja... Lassen wir das mal so stehen. ...  Ja, ich hдtte da was, funktioniert sogar. Fьr 250 kriegst es.</text>
+</string>
+<string id="barmen_flamethrower_task_1003">
+	<text>250 fьr so ein ... Scheiss? Teuer, ... neee. ich hab mal 'ne andere Frage...</text>
+</string>
+<string id="barmen_flamethrower_task_1004">
+	<text>Das ist gerecht, kцnnt ich verkraften. Hier.</text>
+</string>
+<string id="parts_completed_0">
+	<text>Hey, hast du schon alles zusammen? Hast du auch Wodka nicht vergessen?</text>
+</string>
+<string id="parts_completed_1000">
+	<text>Hab alles besorgt. Hier hast du erst das Artefakt und die Ersatzteile. Wodka kannst du spдter saufen. Mach erst die Arbeit! Ich warte auf den Flammenwerfer, und mein Geld wartet auf dich.	</text>
+</string>
+<string id="parts_completed_1001">
+	<text>Entspann dich, Mann! Ich sagte doch, ich mach's. Gib mir ein Tag - dann ist alles fertig.</text>
+</string>
+<string id="parts_completed_1002">
+	<text>Abgemacht. Dann bis morgen, selbe Zeit.</text>
+</string>
+<string id="parts_completed_10111">
+	<text>Na, wie lдuft's? Schon fertig?</text>
+</string>
+<string id="parts_completed_1003">
+	<text>Hee-ee-e Gez-zeich-chneter!.. Was ist? D-denkst'te ech-ht...das ich je..jetzt schooon fertisch... wдr?! H-hik...</text>
+</string>
+<string id="parts_completed_1004">
+	<text>Wenn du weniger saufen wьrdest, wдrst du schon fertig! Egal, hol dich der Teufel... Mach jetzt, ich komm spдter vorbei.</text>
+</string>
+<string id="parts_completed_1013">
+	<text>So, was ist nun mit dem Flammenwerfer?</text>
+</string>
+<string id="parts_completed_1005">
+	<text>Oooo! Der glьckliche Besitzer eines Flammenwerfers ist endlich da!</text>
+</string>
+<string id="parts_completed_1006">
+	<text>Ne, echt?! Ich dachte, du wьrdest nie fertig. Sieht nicht schlecht aus. Los, gib her. Ich danke dir.</text>
+</string>
+<string id="parts_completed_1007">
+	<text>Hey, warte! Du bist ja flink... Laut Absprache - 10 000 fьr die Arbeit, schon vergessen?</text>
+</string>
+<string id="parts_completed_1008">
+	<text>Was ist!!? Hast du noch alle?? Oder nur noch Alk im Schдdel? Die Rede war von  5 000. Oder muss ich dir mit Prьgel auf die Sprьnge helfen?</text>
+</string>
+<string id="parts_completed_1009">
+	<text>Tzzzz... Hey, komm runter... Lass es 5 000 sein. Hier hast du dein Spielzeug. Nun kannste "Wolfenstein" spielen. Ha-ha. So, viel Glьck. Ja, noch was, die Ladung reicht etwa fьr eine Minute Betrieb insgesamt. Wenn's zu Ende ist - kannste kommen und ich befьlle es neu, fьr einen kleinen Obulus. Ist nicht so einfach, also merk's dir. Dafьr brauche ich Benzin, so ein Kanister voll reicht. Und eine Flasche von diesem.. Wie hieЯ es?... Ja, Colloid! So... Oder ich besorg's selber, dann wird's aber teuer.</text>
+</string>
+<string id="parts_completed_1010">
+	<text>Warte mal, Flasche wovon? Wo soll ich den so was finden?</text>
+</string>
+<string id="parts_completed_1011">
+	<text>Colloid Gas... Die Eierkцpfe brachten eine Menge davon in die Zone, fьr ihre Experimente. Fьr die Brennmischung ist es Spitze geeignet. Kannst du z.B. bei Agroprom suchen. Na ja, und auch so wirst du bestimmt in der Zone fьndig. Das Zeug haben die Stalker spдter ьberallhin geschleppt. Also halt die Augen auf und nicht vergessen ein Kanister Brennstoff und Colloid Gas.	</text>
+</string>
+<string id="parts_completed_1012">
+	<text>Tjaa.. Alles klar. Danke nochmal. Jetzt kannst du dir einen genehmigen...</text>
+</string>
+<string id="mil_screw_flamethrower_text">
+	<text>Ich muss mehrere Gegenstдnde finden, die der Schrauber bestellt hat:\n \n
+1. Ein Feuerball.\n \n
+2. Druckschlдuche. Vielleicht hat Sidorowitsch so was.\n \n
+3. Druckmesser. Werde ich in Agroprom-Institut suchen.\n \n
+4. Brenner. Mal beim Wirt fragen.\n \n
+5. 10 Pullen Wodka fьr diesen Sдufer.\n \n
+Oh-man, das wird ein scheiЯ Tag, ist ja fast wie bei Mutter's.</text>
+</string>
+<string id="trubka_descr">
+	<text>Kurzer, metallbeschichteter Schlauch. Sieht intakt und robust aus. Hoffentlich passt der fьr den Flammenwerfer.</text>
+</string>
+<string id="gorelka_descr">
+	<text>Ein Brenner mittlerer GrцЯe. Gerьchten zufolge, bekommt die Wurst "Praktische" einen exzellenten Geschmack, wenn man die auf so einem Brenner rдuchert. Theoretisch sollte der sich auch fьrs Zьnden der Brennmischung im Flammenwerfer eignen.	</text>
+</string>
+<string id="manometr_descr">
+	<text>Ein Druckmesser, noch aus UdSSR-Zeiten. Aus einer Schnapsbrennerei vielleicht. Robust und ganz, das Glas ist ein wenig verschmutzt, aber das ist nicht wichtig. Gut mцglich, das es an den Flammenwerfer passt.	</text>
+</string>
+<string id="flama_descr">
+	<text>Zum Heulen... Es bleibt einem nur zu erahnen, welche Feuerkraft diese Waffe hatte, als sie noch funktionierte. Aber ein guter Handwerker kцnnte es vielleicht schaffen, diese zu "rehanimieren". Jetzt muss man nur noch so einen Handwerker finden.	</text>
+</string>
+<string id="flame_descr">
+	<text>Eine "Bastler"-Variante der Waffe, von dem "Schrauber" aus Teilen eines Militдr-Flammenwerfers, und dem, was so im Lager herumliegt, zusammengebaut. Hat verheerende Zerstцrungskraft, ist aber nur auf kurzer Distanz effektiv. Wird gewцhnlich gegen groЯe Rudel und Herden von Mutanten verwendet. Die Ladung reicht etwa fьr 1 Minute Dauerbetrieb.	</text>
+</string>
+<string id="flame_no_parts_0">
+	<text>Verdammt, ich glaube, ich hab was vergessen. Bin bald wieder da.</text>
+</string>
+<string id="item_flamethrower_bad_name">
+	<text>Ein kaputter Flammenwerfer</text>
+</string>
+<string id="manometr">
+	<text>Druckmesser</text>
+</string>
+<string id="trubka">
+	<text>Druckschlauch</text>
+</string>
+<string id="gorelka">
+	<text>Brenner</text>
+</string>
+<string id="flamethrower_basic">
+	<text>Flammenwerfer. Selbstgebautes Exemplar, aber zuverlдssig zusammengesetzt. Betanken kann ihn der "Schrauber" - Handwerker und Mechaniker der "Freiheit". Ist, wegen spezifischer Konstruktion, auf Spezial-Brennmischung angewiesen. Diese wird aus Benzin oder anderen Treibstoffen und Colloid-Gas (von der Forschern produziert und in Druckflaschen gelagert) zusammengemischt. Dieses komische Gas soll es bei Agroprom geben, aber es ist wohl nicht unwahrscheinlich, das man es auch anderswo in der Zone findet. Wenn es Probleme gibt, das nцtige zu finden - "Schrauber" kann alles fьr 30 000 besorgen. Und im jeden Fall verlangt er fьr die Arbeit "Treibstoff" fьr sich - Flasche Wodka.	</text>
+</string>

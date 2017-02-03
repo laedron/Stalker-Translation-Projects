@@ -1,55 +1,30 @@
 <?xml version="1.0" encoding="windows-1251" ?>
-
-<string_table>
+<!-- TB3D 1.1.0.0.0.4 -->
+<!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 17 Jan 16 -->
 	<string id="dm_general_action_info">
-		<text>Was tust du hier?</text>
+		<text>What are you doing here?</text>
 	</string>
 	<string id="dm_general_cool_info">
-		<text>Kannst du mir was Interessantes erzдhlen?</text>
+		<text>How're things going?</text>
 	</string>
 	<string id="dm_general_cool_info_no_more">
-		<text>Ich weiЯ nichts, was ich dir erzдhlen kцnnte.</text>
+		<text>Nothing new...</text>
 	</string>
 	<string id="dm_general_help_bandage">
-		<text>Nimm den Verband.</text>
+		<text>Here, take this bandage</text>
 	</string>
 	<string id="dm_general_help_medkit">
-		<text>Nimm das Medikit.</text>
+		<text>Here, take this medkit</text>
 	</string>
 	<string id="dm_general_trade_info">
-		<text>Suche Informationen. Gegen Geld.</text>
+		<text>I deal in information, in exchange for cash...</text>
 	</string>
 	<string id="dm_general_trade_info_caption">
-		<text>Das kann ich dir anbieten:</text>
+		<text>Well, I can offer you the following:</text>
 	</string>
 	<string id="dm_general_trade_info_hasno">
-		<text>Kann nichts anbieten.</text>
+		<text>Sorry, I've nothing at the moment...</text>
 	</string>
 	<string id="dm_general_trade_info_nothing">
-		<text>Ein anderes Mal.</text>
+		<text>Maybe another time, then...</text>
 	</string>
-	<string id="mono_cool_info_dialog_0">
-		<text>Was gibt es Neues, mein Bruder?</text>
-	</string>
-	<string id="mono_cool_info_dialog_1">
-		<text>Was soll hier schon Neues geben? Die Wachschichten sind lang, die Verpflegung ist knapp, die Meister sind streng.\n \nWir beten und kдmpfen, das ist unser Alltag.</text>
-	</string>
-	<string id="mono_meister_info_dialog_0">
-		<text>Muss ich noch was Besonderes wissen, Meister?</text>
-	</string>
-	<string id="mono_meister_info_dialog_1">
-		<text>Stelle nicht so viele Fragen, Kдmpfer. Befolge strikt unsere Befehle, bete tдglich drei Mal und bekдmpfe die Unglдubigen - dann gibt es fьr dich keine Sorgen.</text>
-	</string>
-	<string id="mono_novice_info_dialog_0">
-		<text>Was macht das Leben so, Bruder?</text>
-	</string>
-	<string id="mono_novice_info_dialog_1">
-		<text>Die verdammten Mutanten sind wirklich nervig. Und die Gefahr durch eine Kugel der Unglдubigen zu sterben ist jetzt hцher, als frьher.\n \nAber Monolith hцrt meine Gebete und bringt mich heil durch die tдglichen Gefahren.</text>
-	</string>
-	<string id="old_digger_info_dialog_0">
-		<text>Doktor, haben Sie vielleicht nьtzliche Ratschlдge fьr mich?</text>
-	</string>
-	<string id="old_digger_info_dialog_1">
-		<text>Ich kцnnte dir tausend Ratschlдge geben, nur habe ich die Erfahrung gemacht, das die heutige Jugend auf mich, den alten Knacker, eh nicht hцrt.\n \nAuch wenn es hier gefдhrlich und hektisch ist, versuche die Momente der Ruhe zu geniessen. Und hцre immer auf dein Herz.</text>
-	</string>
-</string_table>

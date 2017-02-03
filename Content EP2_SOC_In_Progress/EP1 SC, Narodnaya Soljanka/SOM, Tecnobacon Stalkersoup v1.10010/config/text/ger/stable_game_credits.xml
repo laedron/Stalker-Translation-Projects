@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
+<!-- TB3D 1.1.0.0.0.4 removed extra "> -->
 <string_table>
 	<string id="st_stuff">
 		<text>GSC:</text>
@@ -484,7 +485,7 @@
 		<text>LOCALIZATION DEPARTMENT</text>
 	</string>
 	<string id="st_kuchma">
-		<text>Eugene ‘Smile’ Kuchma</text>
+		<text>Eugene 'Smile' Kuchma</text>
 	</string>
 	<string id="st_litvinenko">
 		<text>Vladimir Litvinenko</text>
@@ -526,16 +527,16 @@
 		<text>PR DEPARTMENT</text>
 	</string>
 	<string id="st_yavorsky">
-		<text>Oleg ‘Yava’ Yavorsky</text>
+		<text>Oleg 'Yava' Yavorsky</text>
 	</string>
 	<string id="st_yeltyshev">
-		<text>Valentin ‘Atem’ Yeltyshev</text>
+		<text>Valentin 'Atem' Yeltyshev</text>
 	</string>
 	<string id="st_ananyev">
-		<text>Denis ‘Blackbird’ Ananyev</text>
+		<text>Denis 'Blackbird' Ananyev</text>
 	</string>
 	<string id="st_besarab">
-		<text>Yury ‘Gagarin’ Besarab</text>
+		<text>Yury 'Gagarin' Besarab</text>
 	</string>
 	<string id="st_terlyuk">
 		<text>Sergey Terlyuk</text>
@@ -549,12 +550,11 @@
 	<string id="st_boyko">
 		<text>Victoria Boyko</text>
 	</string>
-
 	<string id="st_russian_voice">
 		<text>Voice Actors (Russian)</text>
 	</string>
 	<string id="st_vilkov">
-		<text>Aleksandr </text>
+		<text>Aleksandr</text>
 	</string>
 	<string id="st_vilkov2">
 		<text>Vilkov</text>
@@ -563,66 +563,63 @@
 		<text>Anatoliy</text>
 	</string>
 	<string id="st_bogush2">
-		<text> Bogush</text>
+		<text>Bogush</text>
 	</string>
 	<string id="st_podubinskiy">
-		<text>Andrey </text>
+		<text>Andrey</text>
 	</string>
 	<string id="st_podubinskiy2">
 		<text>Podubinskiy</text>
 	</string>
 	<string id="st_girich">
-		<text>Angelika </text>
+		<text>Angelika</text>
 	</string>
 	<string id="st_girich2">
 		<text>Girich</text>
 	</string>
 	<string id="st_malukha">
-		<text>Evgeniy </text>
+		<text>Evgeniy</text>
 	</string>
 	<string id="st_malukha2">
 		<text>Malukha</text>
 	</string>
 	<string id="st_german">
-		<text>Grigoriy </text>
+		<text>Grigoriy</text>
 	</string>
 	<string id="st_german2">
 		<text>German</text>
 	</string>
 	<string id="st_rozin">
-		<text>Ivan </text>
+		<text>Ivan</text>
 	</string>
 	<string id="st_rozin2">
 		<text>Rozin</text>
 	</string>
 	<string id="st_borisenok">
-		<text>Juriy </text>
+		<text>Juriy</text>
 	</string>
 	<string id="st_borisenok2">
-		<text> Borisenok</text>
+		<text>Borisenok</text>
 	</string>
 	<string id="st_stalchuk">
-		<text>Oleg </text>
+		<text>Oleg</text>
 	</string>
 	<string id="st_stalchuk2">
 		<text>Stalchuk</text>
 	</string>
 	<string id="st_gofurov">
-		<text>Ruslan </text>
+		<text>Ruslan</text>
 	</string>
 	<string id="st_gofurov2">
 		<text>Gofurov</text>
 	</string>
 	<string id="st_tereschuk">
-		<text>Vladimir </text>
+		<text>Vladimir</text>
 	</string>
 	<string id="st_tereschuk2">
 		<text>Tereschuk</text>
 	</string>
-
-
 	<!-- THQ  -->
-
 	<string id="st_thq">
 		<text>THQ:</text>
 	</string>
@@ -659,7 +656,6 @@
 	<string id="st_wong">
 		<text>Warren Wong</text>
 	</string>
-
 	<string id="st_testers">
 		<text>Testers</text>
 	</string>
@@ -676,7 +672,7 @@
 		<text>Lopez</text>
 	</string>
 	<string id="st_aarsvold">
-		<text>Andrew </text>
+		<text>Andrew</text>
 	</string>
 	<string id="st_aarsvold2">
 		<text>Aarsvold</text>
@@ -688,16 +684,16 @@
 		<text>Aguilar</text>
 	</string>
 	<string id="st_letwinch">
-		<text>Casey </text>
+		<text>Casey</text>
 	</string>
 	<string id="st_letwinch2">
 		<text>Letwinch</text>
 	</string>
 	<string id="st_wiemer">
-		<text>Dustin  </text>
+		<text>Dustin </text>
 	</string>
 	<string id="st_wiemer2">
-		<text>Wiemer </text>
+		<text>Wiemer</text>
 	</string>
 	<string id="st_deerson">
 		<text>Eric</text>
@@ -718,13 +714,13 @@
 		<text>Swartz</text>
 	</string>
 	<string id="st_fiorentine">
-		<text>Evin </text>
+		<text>Evin</text>
 	</string>
 	<string id="st_fiorentine2">
 		<text>Fiorentine</text>
 	</string>
 	<string id="st_rand">
-		<text>Herb </text>
+		<text>Herb</text>
 	</string>
 	<string id="st_rand2">
 		<text>Rand</text>
@@ -742,7 +738,7 @@
 		<text>Padovan</text>
 	</string>
 	<string id="st_castaneda">
-		<text>Jose </text>
+		<text>Jose</text>
 	</string>
 	<string id="st_castaneda2">
 		<text>Castaneda</text>
@@ -754,19 +750,19 @@
 		<text>Plianpho</text>
 	</string>
 	<string id="st_moore">
-		<text>Kayron </text>
+		<text>Kayron</text>
 	</string>
 	<string id="st_moore2">
 		<text>Moore</text>
 	</string>
 	<string id="st_heeter">
-		<text>Kevin </text>
+		<text>Kevin</text>
 	</string>
 	<string id="st_heeter2">
 		<text>Heeter</text>
 	</string>
 	<string id="st_oldfield">
-		<text>Matt </text>
+		<text>Matt</text>
 	</string>
 	<string id="st_oldfield2">
 		<text>Oldfield</text>
@@ -778,34 +774,34 @@
 		<text>Mejia</text>
 	</string>
 	<string id="st_donnell">
-		<text>Rory </text>
+		<text>Rory</text>
 	</string>
 	<string id="st_donnell2">
 		<text>O'Donnell</text>
 	</string>
 	<string id="st_escobar">
-		<text>Rudy  </text>
+		<text>Rudy </text>
 	</string>
 	<string id="st_escobar2">
 		<text>Escobar</text>
 	</string>
 	<string id="st_johnson">
-		<text>Ryan  </text>
+		<text>Ryan </text>
 	</string>
 	<string id="st_johnson2">
 		<text>Johnson</text>
 	</string>
 	<string id="st_allman">
-		<text>Scott  </text>
+		<text>Scott </text>
 	</string>
 	<string id="st_allman2">
 		<text>Allman</text>
 	</string>
 	<string id="st_tester">
-		<text>Scott </text>
+		<text>Scott</text>
 	</string>
 	<string id="st_tester2">
-		<text>Tester </text>
+		<text>Tester</text>
 	</string>
 	<string id="st_wright">
 		<text>Selvin</text>
@@ -814,10 +810,10 @@
 		<text>Wright</text>
 	</string>
 	<string id="st_malloy">
-		<text>Steven </text>
+		<text>Steven</text>
 	</string>
 	<string id="st_malloy2">
-		<text>Malloy </text>
+		<text>Malloy</text>
 	</string>
 	<string id="st_thurman">
 		<text>Tim</text>
@@ -826,47 +822,41 @@
 		<text>Thurman</text>
 	</string>
 	<string id="st_fong">
-		<text>Trevor  </text>
+		<text>Trevor </text>
 	</string>
 	<string id="st_fong2">
-		<text>Fong </text>
+		<text>Fong</text>
 	</string>
 	<string id="st_sexton">
-		<text>Walter </text>
+		<text>Walter</text>
 	</string>
 	<string id="st_sexton2">
 		<text>Sexton</text>
 	</string>
 	<string id="st_kemp">
-		<text>Willis </text>
+		<text>Willis</text>
 	</string>
 	<string id="st_kemp2">
 		<text>Kemp</text>
 	</string>
-
 	<string id="st_pc_specialist">
 		<text>PC Specialist</text>
 	</string>
 	<string id="st_gonzalez">
 		<text>Ruben Gonzalez</text>
 	</string>
-
 	<string id="st_bloch">
 		<text>Jonathan Bloch</text>
 	</string>
 	<string id="st_bloch2">
 		<text>Bloch</text>
 	</string>
-
 	<string id="st_leippi">
 		<text>Christopher Leippi</text>
 	</string>
 	<string id="st_leippi2">
 		<text>Leippi</text>
 	</string>
-
-
-
 	<string id="st_pcsupervisor">
 		<text>PC Supervisor</text>
 	</string>
@@ -885,7 +875,6 @@
 	<string id="st_drolet">
 		<text>Justin Drolet</text>
 	</string>
-
 	<string id="st_mastering_lab_supervisor">
 		<text>Mastering Lab Supervisor</text>
 	</string>
@@ -931,7 +920,6 @@
 	<string id="st_batarse2">
 		<text>Batarse</text>
 	</string>
-
 	<string id="st_database_administrator">
 		<text>Database Administrator</text>
 	</string>
@@ -944,7 +932,6 @@
 	<string id="st_kincaid">
 		<text>Brian Kincaid</text>
 	</string>
-
 	<string id="st_game_evaluation_team">
 		<text>Game Evaluation Team</text>
 	</string>
@@ -987,7 +974,6 @@
 	<string id="st_wilson2">
 		<text>Wilson</text>
 	</string>
-
 	<string id="st_qa_operations_coordinator">
 		<text>QA Operations Coordinator</text>
 	</string>
@@ -1000,14 +986,12 @@
 	<string id="st_waldman">
 		<text>Eve Waldman</text>
 	</string>
-
 	<string id="st_qa_special_thanks">
 		<text>QA Special Thanks</text>
 	</string>
 	<string id="st_wagman">
 		<text>Mark Wagman</text>
 	</string>
-
 	<string id="st_headquarters">
 		<text>HEADQUARTERS</text>
 	</string>
@@ -1029,7 +1013,6 @@
 	<string id="st_flock">
 		<text>Kelly Flock</text>
 	</string>
-
 	<string id="st_product_development">
 		<text>PRODUCT DEVELOPMENT</text>
 	</string>
@@ -1042,7 +1025,6 @@
 	<string id="st_dauterman">
 		<text>Steve Dauterman</text>
 	</string>
-
 	<string id="st_executive_producer">
 		<text>Executive Producer</text>
 	</string>
@@ -1079,14 +1061,12 @@
 	<string id="st_herbertz">
 		<text>Andreas Herbertz</text>
 	</string>
-
 	<string id="st_global_brand_management">
 		<text>GLOBAL BRAND MANAGEMENT</text>
 	</string>
 	<string id="st_aniello">
 		<text>Bob Aniello</text>
 	</string>
-
 	<string id="st_director_global_brand">
 		<text>Director, Global Brand</text>
 	</string>
@@ -1114,7 +1094,6 @@
 	<string id="st_cunis">
 		<text>Guy Cunis</text>
 	</string>
-
 	<string id="st_media_relations_manager">
 		<text>Media Relations Manager</text>
 	</string>
@@ -1130,7 +1109,6 @@
 	<string id="st_mitchell">
 		<text>Craig Mitchell</text>
 	</string>
-
 	<string id="st_legal">
 		<text>Legal</text>
 	</string>
@@ -1158,7 +1136,6 @@
 	<string id="st_kennedy2">
 		<text>Kennedy</text>
 	</string>
-
 	<string id="st_creative_services">
 		<text>CREATIVE SERVICES</text>
 	</string>
@@ -1174,7 +1151,6 @@
 	<string id="st_somdal">
 		<text>Kirk Somdal</text>
 	</string>
-
 	<string id="st_video_production_manager">
 		<text>Video Production Manager</text>
 	</string>
@@ -1187,7 +1163,6 @@
 	<string id="st_rivas">
 		<text>Melissa Rivas</text>
 	</string>
-
 	<string id="st_thq_international">
 		<text>THQ INTERNATIONAL</text>
 	</string>
@@ -1203,7 +1178,6 @@
 	<string id="st_pattison">
 		<text>Michael Pattison</text>
 	</string>
-
 	<string id="st_senior_global_brand_manager">
 		<text>Senior Global Brand Manager</text>
 	</string>
@@ -1222,32 +1196,24 @@
 	<string id="st_newall">
 		<text>Anthony Newall</text>
 	</string>
-
 	<string id="st_online_manager">
 		<text>Online Manager</text>
 	</string>
-
 	<string id="st_huw_beynon">
 		<text>Huw Beynon</text>
 	</string>
-
 	<string id="st_uk_product_manager">
 		<text>UK Product Manager</text>
 	</string>
-
-
 	<string id="st_laura_disney">
 		<text>Laura Disney</text>
 	</string>
-
 	<string id="st_uk_pr_manager">
 		<text>UK PR Manager</text>
 	</string>
-
 	<string id="st_helen_jones">
 		<text>Helen Jones</text>
 	</string>
-
 	<string id="st_export_marketing_manager">
 		<text>Export Marketing Manager</text>
 	</string>
@@ -1269,7 +1235,6 @@
 	<string id="st_reckenthaler">
 		<text>Georg Reckenthaler</text>
 	</string>
-
 	<string id="st_marketing_manager_nordic">
 		<text>Marketing Manager, Nordic</text>
 	</string>
@@ -1294,7 +1259,6 @@
 	<string id="st_benzadon">
 		<text>Jerome Benzadon</text>
 	</string>
-
 	<string id="st_product_manager_spain">
 		<text>Product Manager, Spain</text>
 	</string>
@@ -1313,7 +1277,6 @@
 	<string id="st_wolff">
 		<text>Robin Wolff</text>
 	</string>
-
 	<string id="st_product_manager_asia_pacific">
 		<text>Product Manager, Asia Pacific</text>
 	</string>
@@ -1341,7 +1304,6 @@
 	<string id="st_takahiro_morita">
 		<text>Takahiro Morita</text>
 	</string>
-
 	<string id="st_international_art_director">
 		<text>International Art Director</text>
 	</string>
@@ -1393,7 +1355,6 @@
 	<string id="st_stell2">
 		<text>Stell</text>
 	</string>
-
 	<string id="st_cd_centre">
 		<text>CD PROJEKT LOCALISATION CENTRE</text>
 	</string>
@@ -1418,8 +1379,6 @@
 	<string id="st_stranowski">
 		<text>Marcin Stranowski</text>
 	</string>
-
-
 	<string id="st_cd_testers">
 		<text>Testers</text>
 	</string>
@@ -1538,7 +1497,7 @@
 		<text>Krol</text>
 	</string>
 	<string id="st_roguski">
-		<text>Maciej </text>
+		<text>Maciej</text>
 	</string>
 	<string id="st_roguski2">
 		<text>Roguski</text>
@@ -1550,7 +1509,7 @@
 		<text>Wonko</text>
 	</string>
 	<string id="st_jedrzejewski">
-		<text>Michal </text>
+		<text>Michal</text>
 	</string>
 	<string id="st_jedrzejewski2">
 		<text>Jedrzejewski</text>
@@ -1580,13 +1539,13 @@
 		<text>Gorzkowski</text>
 	</string>
 	<string id="st_dobrodziej">
-		<text>Maciej </text>
+		<text>Maciej</text>
 	</string>
 	<string id="st_dobrodziej2">
 		<text>Dobrodziej</text>
 	</string>
 	<string id="st_rzeznicki">
-		<text>Dominik </text>
+		<text>Dominik</text>
 	</string>
 	<string id="st_rzeznicki2">
 		<text>Rzeznicki</text>
@@ -1598,7 +1557,7 @@
 		<text>Pawlowski</text>
 	</string>
 	<string id="st_chotnicki">
-		<text>Lukasz </text>
+		<text>Lukasz</text>
 	</string>
 	<string id="st_chotnicki2">
 		<text>Chotnicki</text>
@@ -1613,12 +1572,11 @@
 		<text>Jacek Dabrowski</text>
 	</string>
 	<string id="st_lewandowska">
-		<text>Dominika Szulc-Lewandowska </text>
+		<text>Dominika Szulc-Lewandowska</text>
 	</string>
 	<string id="st_centkowski">
 		<text>Dariusz Centkowski</text>
 	</string>
-
 	<string id="st_additional_writing">
 		<text>Additional Writing</text>
 	</string>
@@ -1673,23 +1631,21 @@
 	<string id="st_dave_sullivan">
 		<text>Dave Sullivan</text>
 	</string>
-
 	<string id="st_weapons_recorded">
 		<text>Weapons recorded at:</text>
 	</string>
 	<string id="st_crawford_private_range">
-		<text>Crawford Private Range, Roundrock, Texas </text>
+		<text>Crawford Private Range, Roundrock, Texas</text>
 	</string>
 	<string id="st_texas_tactical">
-		<text>Texas Tactical Outdoor Range, Henley, Texas </text>
+		<text>Texas Tactical Outdoor Range, Henley, Texas</text>
 	</string>
 	<string id="st_stevens">
-		<text>Stevens' Farm, Bay, Arkansas </text>
+		<text>Stevens' Farm, Bay, Arkansas</text>
 	</string>
 	<string id="st_disused_pit">
-		<text>Disused Gravel Pit, Bono, Arkansas </text>
+		<text>Disused Gravel Pit, Bono, Arkansas</text>
 	</string>
-
 	<string id="st_gun">
 		<text>Gun Wranglers:</text>
 	</string>
@@ -1709,7 +1665,7 @@
 		<text>Gary Meeker</text>
 	</string>
 	<string id="st_recording_post">
-		<text>Recording and Post Production by Andrew Brock </text>
+		<text>Recording and Post Production by Andrew Brock</text>
 	</string>
 	<string id="creature">
 		<text>Creature Vocal Performances by Paul Arnold and Andrew Brock</text>
@@ -1717,9 +1673,7 @@
 	<string id="foley">
 		<text>Foley Artists - Andrew Barnabas and Dave Sullivan</text>
 	</string>
-
 	<!-- PLASTIC WAX    -->
-
 	<string id="st_wax">
 		<text>PLASTIC WAX:</text>
 	</string>
@@ -1826,10 +1780,10 @@
 		<text>Animation Lead</text>
 	</string>
 	<string id="st_simper">
-		<text>Damien </text>
+		<text>Damien</text>
 	</string>
 	<string id="st_simper2">
-		<text> Simper</text>
+		<text>Simper</text>
 	</string>
 	<string id="st_wax_animation">
 		<text>Animation</text>
@@ -1841,22 +1795,22 @@
 		<text>Wilson</text>
 	</string>
 	<string id="st_kerrigan">
-		<text>Kate </text>
+		<text>Kate</text>
 	</string>
 	<string id="st_kerrigan2">
-		<text> Kerrigan</text>
+		<text>Kerrigan</text>
 	</string>
 	<string id="st_to">
-		<text>Philip </text>
+		<text>Philip</text>
 	</string>
 	<string id="st_to2">
-		<text> To</text>
+		<text>To</text>
 	</string>
 	<string id="st_willis">
-		<text>Ray </text>
+		<text>Ray</text>
 	</string>
 	<string id="st_willis2">
-		<text> Willis</text>
+		<text>Willis</text>
 	</string>
 	<string id="st_lighting_rendering_lead">
 		<text>Lighting Rendering Lead</text>
@@ -1892,28 +1846,28 @@
 		<text>FX</text>
 	</string>
 	<string id="st_allan">
-		<text>Hugh </text>
+		<text>Hugh</text>
 	</string>
 	<string id="st_allan2">
-		<text> Carrick-Allan</text>
+		<text>Carrick-Allan</text>
 	</string>
 	<string id="st_cheng">
-		<text>Sidney </text>
+		<text>Sidney</text>
 	</string>
 	<string id="st_cheng2">
-		<text> Cheng</text>
+		<text>Cheng</text>
 	</string>
 	<string id="st_harris">
-		<text>Christopher </text>
+		<text>Christopher</text>
 	</string>
 	<string id="st_harris2">
-		<text> Harris</text>
+		<text>Harris</text>
 	</string>
 	<string id="st_macgowan">
-		<text>Adam </text>
+		<text>Adam</text>
 	</string>
 	<string id="st_macgowan2">
-		<text> MacGowan</text>
+		<text>MacGowan</text>
 	</string>
 	<string id="st_cloth_fx">
 		<text>Cloth FX</text>
@@ -1927,10 +1881,7 @@
 	<string id="st_spoard">
 		<text>Stuart Spoard</text>
 	</string>
-
-
 	<!-- SPECIAL THANKS -->
-
 	<string id="st_special_thanks">
 		<text>Special thanks:</text>
 	</string>
@@ -1949,8 +1900,6 @@
 	<string id="st_special_thanks_4">
 		<text>Jason Meyer</text>
 	</string>
-
-
 	<string id="st_thanks_chernobyl">
 		<text>Alexander Novikov, Igor Gramotkin</text>
 	</string>
@@ -2030,7 +1979,7 @@
 		<text>Leks, Cpcat, Rad-X, Sosed, Amoki, Claws,</text>
 	</string>
 	<string id="st_thanks_fanbase6">
-		<text>Siro/Dennis, Nicklas Ridewing, Otto Bahmann </text>
+		<text>Siro/Dennis, Nicklas Ridewing, Otto Bahmann</text>
 	</string>
 	<string id="st_thanks_fanbase7">
 		<text>and Mike Bretschneider, cractus01, Marcel Kleffmann,</text>
@@ -2038,7 +1987,6 @@
 	<string id="st_thanks_fanbase8">
 		<text>Nikolay Dashevsky, Abe, Anton Brovko, Mario, fen1x,</text>
 	</string>
-
 	<string id="st_thanks_fanbase9">
 		<text>Dima Kudryavcev, Ruben Cos, Soeren Haraldsted,</text>
 	</string>
@@ -2069,16 +2017,14 @@
 	<string id="st_thanks_fanbase18">
 		<text>Behringer, DA_Star, STALKER Sanek, Dave Miller (P R E Y)</text>
 	</string>
-
 	<string id="st_thanks_fanbase19">
 		<text>Goodspeed, Ian_C, Grisly Silence, Midnight Rambler, Dale Oleverio,</text>
 	</string>
 	<string id="st_thanks_fanbase20">
 		<text>ruintertained, UltimateGecko, Snowgim, Franz La Zerte, Chickenballz,</text>
 	</string>
-
 	<string id="st_thanks_fanbase21">
-		<text>Alan Nogueira da Gama and so many more of you </text>
+		<text>Alan Nogueira da Gama and so many more of you</text>
 	</string>
 	<string id="st_thanks_fanbase22">
 		<text>around the globe who passionately supported</text>
@@ -2098,12 +2044,9 @@
 	<string id="st_thanks_all4">
 		<text>Your good efforts will not be forgotten!</text>
 	</string>
-
-
 	<string id="st_thanks_license1">
 		<text>We would like to say our big thanks to open-source projects:</text>
 	</string>
-
 	<string id="st_thanks_license2">
 		<text>ode.org for physics engine (Open Dynamic Engine, ODE)</text>
 	</string>
@@ -2137,15 +2080,12 @@
 	<string id="st_thanks_license12">
 		<text>for his fastdelegate library (fastdelegate)</text>
 	</string>
-
 	<string id="st_thanks_license13">
 		<text>intelle-soft.com for free bug catching library BugTrap</text>
 	</string>
-
 	<string id="st_thanks_license14">
 		<text>Also thanks to the companies who helped with game's optimization:</text>
 	</string>
-
 	<string id="st_thanks_license15">
 		<text>Intel</text>
 	</string>
@@ -2155,6 +2095,4 @@
 	<string id="st_thanks_license17">
 		<text>nVidia</text>
 	</string>
-
-
 </string_table>
