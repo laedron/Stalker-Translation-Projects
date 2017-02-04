@@ -430,10 +430,20 @@
 		</string>
 <!-- !!!!TB3D FREE PLAY == COLLECTOR ====-->
 		<string id="amk_welcome_title">
-			<text>%c[255,255,128,128]Stalker: Shadow Of Tchernobyl.\nTechnoBacon StalkerSoup: Eine der größen Modifikation für Stalker\nBasiert auf Solianja\nDeutsche Übersetzung Marty2Base (Traxx Amiga Ep)\nFür die Version:%c[default]</text>
+			<text>\n
+%c[255,128,128,255]Willkommen in:\n
+%c[128,128,128,012]Stalker: Ep1 - Shadow Of Tchernobyl\n
+%c[128,128,128,012]--==- TechnoBacon StalkerSoup -==--\n
+%c[128,128,128,012] Basierend auf: Narodnaya Soljanka\n
+%c[128,128,128,012] Deutsche Übersetzung: Marty2Base \n
+%c[128,128,128,012] Für die Version: 1.10010\n%c[default]</text>
 		</string>
 		<string id="amk_welcome_msg">
-			<text>%c[255,255,128,128]Willkommen Stalker. Du hast bis jetzt eine Menge erlebt und Schlimmes überlebt. Aber viele Geheimnisse der Zone sind noch unentdeckt, viele Rätsel und Aufgaben sind ungelößt.\n%c[default]TB3D</text>
+			<text>%c[056,185,128,128]\n \n
+Du bist verwirrt, Orentierungslos. Kein Plan was Thema is\n
+Sprech mit dem Stalker auf der Strasse und nach nach wirst\n
+du weiter in die Zone abtauchen und diese erforschen.\n \n
+Vile Spass und .... viel Glück%c[default]\n</text>
 		</string>
 <!--=========================================-->
 		<string id="rep_no_weapon_in_slot">
