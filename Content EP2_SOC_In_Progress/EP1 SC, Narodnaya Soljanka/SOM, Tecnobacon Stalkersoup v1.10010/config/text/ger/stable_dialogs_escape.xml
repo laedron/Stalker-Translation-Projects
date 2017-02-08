@@ -10,13 +10,13 @@
 			<text>Komm schon! Ich muss hier durch... Kannst du da nicht was machen ... oder so?</text>
 		</string>
 		<string id="esc_bridge_soldiers_start_13">
-			<text>Oder so ...,? Weißt du eigentlich, was die da oben mir zahlen, für all das hier? Wie soll ich über die Runden kommen? \n \nPass auf - das mit dem Geld lassen wir. Dafür aber kostet dich der Durchgang eine Flasche Wodka und das geht auch nur einaml und wenn ich während des Tages meine Wache schiebe. </text>
+			<text>Oder so ...,? Weißt du eigentlich, was die da oben - mir zahlen, für all das hier? Wie soll ich über die Runden kommen? \n \nPass auf - das mit dem Geld vergessen wir. Dafür kostet dich der Durchgang eine Flasche Wodka und das auch nur einmal während ich des Tages meine Wache schiebe.</text>
 		</string>
 		<string id="esc_bridge_soldiers_start_14">
 			<text>Was solls - hier ist dein Alkohol.</text>
 		</string>
 		<string id="esc_bridge_soldiers_start_15">
-			<text>Hör zu... Wir stellen uns vor, dass es hier nur Mücken und Schmetterlinge gibt. ...Ach guck den Franz da drüben, den hat's gestochen... Alles darüber hinaus was passiert hast du zu verantworten. kapisch?! - .. eh Franz alles klar .. und nun verschwinde.</text>
+			<text>Hör zu... Wir stellen uns vor, dass es hier nur Mücken und Fliegen gibt. ...Ach guck - den Franz da drüben, den hat's gestochen... Alles darüber hinaus was passiert hast du zu verantworten. kapisch?! - .. eh Franz alles klar .. und nun verschwinde.</text>
 		</string>
 		<string id="esc_bridge_soldiers_start_21">
 			<text>Na los, mach die Flatter und bleib erstmal nicht stehen, bevor ich meine meinung ändere ...</text>
@@ -211,7 +211,7 @@
 			<text>Wolf wants to speak with you .. But, that doesn't make you any more welcome .. Keep moving..</text>
 		</string>
 		<string id="escape_lager_guard_start_dialog_2">
-			<text>Nobody here wants to talk to you .. get it!</text>
+			<text>Geh weiter! Im Moment wird niemand im Lager mit dir sprechen.</text>
 		</string>
 		<string id="escape_lager_guard_start_dialog_21">
 			<text>Why?! .. what did I do...</text>
@@ -1476,3 +1476,4 @@
 			<text>Thanks for the tip, I will take a look around...</text>
 		</string>
 	</string_table>
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96h ( 2017/02/01) =!!= Last changed: 08.02.2017 02:58:32 -->
