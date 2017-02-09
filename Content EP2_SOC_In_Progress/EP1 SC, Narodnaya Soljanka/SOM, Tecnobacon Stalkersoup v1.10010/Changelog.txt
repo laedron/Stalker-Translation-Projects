@@ -7,14 +7,33 @@ XML Dateien 100%:
 - amk_flame_dialogs
 - amk_reload_dialogs
 - amk_strings
-- amk_strings
 - arc_string_table
 - arsenal_mod
+- davros_items
+- dmx_mod_dialogs
 - ui_st_inventory
 - ui_st_keybinding
+
 
 
 XML Dateien, Fast Fertig oder in Arbeit:
 - aem_strings
 - ui_st_pda
+- tb3d_dialogs_arhara_start
+- dmx_mod_encyclopedia
+- stable_dialogs_escape
+
+
+Chnagelog 08.02.2017
+- amk_strings
+  Ein paar Feinheiten ausgearbeitet, bessere Lesbarkeit der Rezepte
+
+- tb3d_dialogs_arhara_start
+  Gammatikel Fixes
+
+- dmx_mod_dialogs
+  Der letzte rest der Datei ist in der Eng. Fassung eine Maschine Übersetzung,
+  Mit der Original Ru. Fassung abgeglichen und neu übersetzt.
+
+
 

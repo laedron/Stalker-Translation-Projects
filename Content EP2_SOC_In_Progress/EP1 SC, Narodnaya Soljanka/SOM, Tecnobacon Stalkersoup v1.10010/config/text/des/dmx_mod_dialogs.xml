@@ -780,7 +780,7 @@
 		<text>Danke das du es aufbewahrst. Ich gehe dann mal entspannen.</text>
 	</string>
 	<string id="news_1">
-		<text>Hallo, Gezeichnter, heute ist nicht dein Tag. Dein Gebot wurde nicht gepsielt - Gewinn und verlust ligt bei null.</text>
+		<text>Hallo, Gezeichneter, leider ist heute nicht dein Tag. Dein Gebot wurde nicht gespielt - Gewinn und Verlust liegt bei null.</text>
 	</string>
 	<string id="news_2">
 		<text>Du hast 50 Rubel gewonnen</text>
@@ -807,7 +807,7 @@
 		<text>Ein Atmen - Aus Atmen. Du hast 5.000 Rubel gewonnen</text>
 	</string>
 	<string id="news_10">
-		<text>Du bleibst aber in der Zone? Du hast 10.000 Rubel gewonnen</text>
+		<text>Du bleibst doch in der Zone? Du hast 10.000 Rubel gewonnen</text>
 	</string>
 	<string id="news_11">
 		<text>Sidorowitch wäre neidisch. Du hast 20.000 Rubel gewonnen</text>
@@ -828,47 +828,48 @@
 		<text>Gezeichnter, Die schulde wurden eingefodert. Es blieb nicht mal ein Penny zurück.</text>
 	</string>
 	<string id="dolg_2">
-		<text>Aye-Ya-Ya-yay, Gekennzeichnet, Die Frist ist abgelaufen und du hat keine Rückzahlung geleistet. Beeil dich. (*)</text>
+		<text>Aye-Ya-Ya-yay, Gezeichneter, die Frist ist abgelaufen und du hast keine Rückzahlung geleistet. Noch hast du die Chance. (*)</text>
 	</string>
 	<string id="dolg_3">
-		<text>Und was das bedeutet das, Gezeichneter? Dir wurde eine Frist gegeben. Du weiß was das bedeutet. Bring das Geld.</text>
+		<text>Gezeichneter? Dir wurde eine Frist gegeben. Du weiß was das bedeutet. Bring das Geld.</text>
 	</string>
 	<string id="dolg_4">
-		<text>So, Gezeichneter, meinen wir lieben es zu spielen, aber die Schuld ist nicht gegeben ... \ n Das ist nicht gut. Ganz im Gegenteil - es ist schlecht. Hände hinter es notwendig ist, abzureißen, ein Finger. Alles in Ordnung?</text>
+		<text>So, so Gezeichneter, du liebst es wahrscheinlich zu spielen aber auch schulden müssen gezahlt werden.... \nDas ist nicht nur schlecht, das geht gar nicht.. Der Preis dafür ist normaler weise ein Finger. Verstanden? (*)</text>
 	</string>
 	<string id="dolg_5">
-		<text>Labelled you even brazen. What the hell are you I ask you carry no debt?\nThen the guys came and promised to cut you to the British flag, and what's left - the flesh to feed. Come see me alive.</text>
+		<text>Gezeichneter, du bist ganz schön ausverschämt. Um Himmels willen, was ist los und wieso begleichst du deine Schulden nicht.\nEin paar Typen kamen hier vorbei und die versprachen dich nach dem Muster der britischen Flagge zu schneiden und was ist übrig ist zu verfüttern. Du liebst doch dein Leben! (*)
+</text>
 	</string>
 	<string id="dolg_6">
-		<text>I do not understand human. We like dogovarilivalis?\nDuty for three days - and no, "but I could not, I'm sorry".\nDo what you want, but the debt is returned immediately. Otherwise - you kranty.</text>
+		<text>Ich verstehe dich nicht. Wir stimmen beide überein? Du hast hattest drei Tage Zeit. Es kommt noch nicht mal ein verdammtes "Es tut mir leid". Mach was du willst aber die schulden müssen gezahlt werden. Sonst wirst du später nicht mal Nüsse puhlen können. (*)</text>
 	</string>
 	<string id="dolg_7">
-		<text>Come quickly labeled on the base "Pure Heaven" by Syslov.\nYou expect' ... On the bubble. Otherwise, blame yourself - ax is sharpened.</text>
+		<text>Gezeichneter! Komm dringend zur "Clear Sky" Basis zu Suslov. Du wirst schon erwartet... mit dem Geld. Ansonsten - die Axt ist schon Scharf. (*)</text>
 	</string>
 	<string id="dolg_8">
-		<text>Well, you and Spot pig - you're a bitch I expose that money do not give.\nIf the evening did not bring back the debt - the entrance to the base you will be closed forever.</text>
+		<text>Nun, Gezeichneter, du Arschloch - du Sohn einer läufigen Hündin sind, Die Tatsche, das du die Schulden ausgleichst. wird dir der Eingang zu Basis für immer verschlossen bleiben. Du hast noch bis heute Abend. Keinen Tag mehr. (*)</text>
 	</string>
 	<string id="dolg_9">
-		<text>Last warning Chinese Spot:\nall the time went, and you even lifted a finger!\nYes, you will enscribe, if you loot will not come back.</text>
+		<text>Letzte Warnung:\nDu hast alle Termine ignoriert und keine Finger gerührt. \nDas war es dann wenn das Geld nicht eintrifft!</text>
 	</string>
 	<string id="dolg_10">
-		<text>Tagged - you're dead.</text>
+		<text>Gezeichneter, du bist tot! (*)</text>
 	</string>
 <!-- added 109919 -->
 	<string id="net_pda">
-		<text>netpacket PDA</text>
+		<text>NetPacket PDA</text>
 	</string>
 	<string id="desc_net_pda">
-		<text>Please keep your hands off this device!</text>
+		<text>Bitte halten Sie Ihre Hände von diesem Gerät weg!</text>
 	</string>
 	<string id="bolt_pda">
 		<text>Bolt's PDA</text>
 	</string>
 	<string id="desc_bolt_pda">
-		<text>Bolt's PDA. Contents require careful study</text>
+		<text>Bolt's PDA. Der Inhalt erfordert eine sorgfältige Untersuchung</text>
 	</string>
 	<string id="sci_flash">
-		<text>Scientist's flash drive</text>
+		<text>USB Stick vom Wissenschaftler</text>
 	</string>
 </string_table>
-<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96h ( 2017/02/01) =!!= Last changed: 08.02.2017 00:31:01 -->
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96h ( 2017/02/01) =!!= Last changed: 08.02.2017 10:47:28 -->
