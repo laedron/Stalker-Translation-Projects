@@ -4,66 +4,133 @@ English								| 	Deutsch						|	Russisch
 Agroprom							=	Agroprom
 	> Scientific Institute Agroprom =	Wissenschaftliches Institut in Agroprom
 	> Agroprom Research Institute 	=	Agroprom Forschungsinstitut
-	
-Army warehouses						=	Armeelager
-	
-Chernobyl NPP						=	Tschernobyl AKW
-	> Unusual places near the NPP 	=	Ungewöhnlicher Ort in der nähe des "Tchernobyl AKW" 
-	
-Cordon								= 	Kordon
-
-Dark valley							=	Dunkle Tal
-	The Dark Valley						Das Dunkle Tal
-	
-Dead City							=	Tote Stadt
-Dump								=	Müllhalde
-
-Generators							=	Generatoren
-
-Jupiter									Jupiter-Anlage
-
-Laboratory X-10						=	Laboratorium X-10
-	X-10							=	X-10
-	LabX10								
-	
-Laboratory X-16						=	Laboratorium X-16
-	X-16							=	X-16
-	BrainLab						=	 
-	
-Laboratory X-18						=	Laboratorium X-18
-	X-18							=	x-18
-	DarkLab							=	
-
-Limansk								=	Limansk
-	> outskirts of Limansk			= 	Stadtrand von "Limansk" 
-	
-
-Military Lab						=	Militärisches Labor
-	X-8									X-8
-	WarLab							=	Kriegs Labor
-
-
-Pripyat East						=	Pripyat Ost
-
-Radar								= 	Radar -> Schmelzer
-
-Red Forest							=	Roter Wald
-	> outskirts of the Red Forest	=	Randgebiet des "Roten Waldes"
-
-Rookie Camp							=	Ausbildungslagers
-	at the Rookie Camp by the Cordon=	beim Ausbildungslager in Kordon
-
-Swamps								=	Sümpfe
-Secret Laboratory					= 	Geheimes Laboratorium
-	SecretLab
-
-Waiting Room						=	Wartezimmer -> Vestibül
-	Predbannik
-	
-Zaton								=	Zaton
-	Backwater						=	Toten Gewässer von 
-	Blackwater						=   Scharzen Gewässer von Zaton
-
+//																						//
+//--------------------------------------------------------------------------------------//
+//																						//
+	Army warehouses						=	Armeelager Häuser
+//																						//
+//--------------------------------------------------------------------------------------//
+//																						//
+	Cemetery Techniques					=	?
+		garbage_old						=	?
+//																						//
+//--------------------------------------------------------------------------------------//
+//																						//
+	Chernobyl NPP						=	Tschernobyl AKW
+		> Unusual places near the NPP 	=	Ungewöhnlicher Ort in der nähe des "Tchernobyl AKW" 
+//																						//
+//--------------------------------------------------------------------------------------//
+//																						//
+	Cordon								= 	Kordon
+//																						//
+//--------------------------------------------------------------------------------------//
+//																						//
+	Dark Hollow							=	Finstere Vertiefung
+		Darkscape						=
+//																						//
+//--------------------------------------------------------------------------------------//
+//																						//
+	Dark valley							=	Dunkle Tal
+		The Dark Valley						Das Dunkle Tal
+//																						//
+//--------------------------------------------------------------------------------------//
+//																						//
+	Dead City							=	Tote Stadt
+//																						//
+//--------------------------------------------------------------------------------------//
+//																						//
+	Dead Marshes						=	Toten Sümpfe
+		Swamp_old						=
+//																						//
+//--------------------------------------------------------------------------------------//
+//																						//
+	Dump								=	Müllhalde
+//																						//
+//--------------------------------------------------------------------------------------//
+//																						//
+	Generators							=	Generatoren
+//																						//
+//--------------------------------------------------------------------------------------//
+//																						//
+	Jupiter									Jupiter-Anlage
+//																						//
+//--------------------------------------------------------------------------------------//
+//																						//
+	Laboratory X-10						=	Laboratorium X-10
+		X-10							=	X-10
+		LabX10								
+//																						//
+//--------------------------------------------------------------------------------------//
+//																						//
+	Laboratory X-16						=	Laboratorium X-16
+		X-16							=	X-16
+		BrainLab						=	 
+//																						//
+//--------------------------------------------------------------------------------------//
+//																						//
+	Laboratory X-18						=	Laboratorium X-18
+		X-18							=	x-18
+		DarkLab							=	
+//																						//
+//--------------------------------------------------------------------------------------//
+//																						//
+	Limansk								=	Limansk
+		> outskirts of Limansk			= 	Stadtrand von "Limansk" 
+//																						//
+//--------------------------------------------------------------------------------------//
+//																						//
+	Military Lab						=	Militärisches Labor
+		X-8									X-8
+		WarLab							=	Kriegs Labor
+//																						//
+//--------------------------------------------------------------------------------------//
+//																						//
+	Pripyat East						=	Pripyat Ost
+//																						//
+//--------------------------------------------------------------------------------------//
+//																						//
+	Radar								= 	Radar -> Schmelzer
+//																						//
+//--------------------------------------------------------------------------------------//
+//																						//
+	Red Forest							=	Roter Wald
+		> outskirts of the Red Forest	=	Randgebiet des "Roten Waldes"
+//																						//
+//--------------------------------------------------------------------------------------//
+//																						//
+	Research Station					=	Forschungsstation
+		Yantar_old
+//																						//
+//--------------------------------------------------------------------------------------//
+//																						//
+	Rookie Camp							=	Ausbildungslagers
+		at the Rookie Camp by the Cordon=	beim Ausbildungslager in Kordon
+//																						//
+//--------------------------------------------------------------------------------------//
+//																						//
+	Rostok								= 	Rostok
+		Rostok Factory					=	Rostok-Fabrik
+		outskirts of the Rostok factory	=	Die Randbereiche der Rostok-Fabrik
+//																						//
+//--------------------------------------------------------------------------------------//
+//																						//
+	Swamps								=	Sümpfe
+	Secret Laboratory					= 	Geheimes Laboratorium
+		SecretLab
+//																						//
+//--------------------------------------------------------------------------------------//
+//																						//
+	Waiting Room						=	Wartezimmer -> Vestibül
+		Predbannik
+//																						//
+//--------------------------------------------------------------------------------------//
+//																						//
+	Zaton								=	Zaton
+		Backwater						=	Toten Gewässer von 
+		Blackwater						=   Scharzen Gewässer von Zaton
+//																						//
+//--------------------------------------------------------------------------------------//
+//																						//
 
 
 ========================================================================================
@@ -71,6 +138,7 @@ Sonstiges
 English								| 	Deutsch						|	Russisch
 Scorcher							=	Schmelzer
 Brain Scorcher						=	Hirnschmelzer 
+
 C-Consciousness Representative		=	Mitglied des Kollektivbewusstseins
 C-Consciousness Project				=	Kollektivbewusstseins
 										Projekt Bewusstseins Kontrolle
@@ -130,6 +198,7 @@ Mother's Beads		= 	Mamas Perlen (*)			=
 						Omas Perlen					=
 Pellicle			=	Pellicula					=
 Porcupine			=	Stachelschwein				=
+Rattle				=	Rassel (Modifkation vom Symbion)
 Scale				=	Schlangenhaut				=
 Sphere				=	Sphere						=
 Sphere				=	Pseudoriesen kleiner Bruder =
@@ -224,7 +293,22 @@ Mutanten
 %c[255,220,220,100]• %c[255,1,255,255]Kugeln       : %c[255,1,255,1]0%\n
 %c[255,220,220,100]• %c[255,1,255,255]Explosion    : %c[255,1,255,1]0%\n
 %c[255,220,220,100]• %c[255,1,255,255]Brüche       : %c[255,1,255,1]0%\n
-%c[255,220,220,100]• %c[255,1,255,255]Schockzustand: %c[255,1,255,1]0%\n \n
+%c[255,220,220,100]• %c[255,1,255,255]Schockzustand: %c[255,1,255,1]0%\n \n%c[default]
+
+
+========================================================================================
+Item Info: Medizin
+%c[255,220,220,100]Stärke            : %c[255,1,255,1]\n
+
+%c[255,220,220,100]Erhöhte Ausdauer : %c[255,1,255,1]%\n
+%c[255,220,220,100]Reduziert. Hunger: %c[255,1,255,1]%\n
+
+%c[255,220,220,100]Gesundheitsschub : %c[255,1,255,1]%\n
+%c[255,220,220,100]Blutung stillen  : %c[255,1,255,1]%\n
+%c[255,220,220,100]Packungs Menge   : %c[255,1,255,1]\n
+%c[255,220,220,100]Nebenwirkungen   : %c[255,1,255,1]\n
+%c[default]\n \n
+
 
 
 \nBeschreibung Fehlt, auch in der Original Englischen Stalkersoup Version\nKommt dann Später

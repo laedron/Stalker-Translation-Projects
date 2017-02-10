@@ -1,8 +1,10 @@
 SOM (Standalone Modifkation): Tecnobacon Stalkersoup v1.10010
 Übersetzung English -> Detusch
 
-XML Dateien 100%:
-
+XML Dateien 100%: (Diese Dateien sind 100% Deutsch, Es kann aber sein
+das es noch nicht so wirklich die Qualität wiederspiegelt. Das Kommt
+später wenn ich das Spiel -richtig- spiele)
+//============================================//
 - amk_escape_dialogs
 - amk_flame_dialogs
 - amk_reload_dialogs
@@ -11,20 +13,30 @@ XML Dateien 100%:
 - arsenal_mod
 - davros_items
 - dmx_mod_dialogs
+- dmx_mod_encyclopedia
 - ui_st_inventory
 - ui_st_keybinding
 
-
+//============================================//
 
 XML Dateien, Fast Fertig oder in Arbeit:
 - aem_strings
 - ui_st_pda
 - tb3d_dialogs_arhara_start
-- dmx_mod_encyclopedia
 - stable_dialogs_escape
+- dmx_mod_items
 
 
-Chnagelog 08.02.2017
+//============================================//
+Changelog 10.02.2017
+- amk_strings
+  Ein Paar Minimal "Return Zeichen" (\n) Fixes
+
+- dmx_mod_encyclopedia
+  100% Übersetzt, Ein paar Gramatische Verbesserungen.
+
+//============================================//
+Changelog 09.02.2017
 - amk_strings
   Ein paar Feinheiten ausgearbeitet, bessere Lesbarkeit der Rezepte
 
@@ -35,5 +47,6 @@ Chnagelog 08.02.2017
   Der letzte rest der Datei ist in der Eng. Fassung eine Maschine Übersetzung,
   Mit der Original Ru. Fassung abgeglichen und neu übersetzt.
 
+//============================================//
 
 
