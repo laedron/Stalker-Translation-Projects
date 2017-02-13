@@ -14,6 +14,7 @@ später wenn ich das Spiel -richtig- spiele)
 - davros_items
 - dmx_mod_dialogs
 - dmx_mod_encyclopedia
+- dmx_mod_items
 - ui_st_inventory
 - ui_st_keybinding
 
@@ -26,6 +27,31 @@ XML Dateien, Fast Fertig oder in Arbeit:
 - stable_dialogs_escape
 - dmx_mod_items
 
+//============================================//
+Changelog 12.02.2017
+100% Finished
+- dmx_mod_items (100%)
+
+Kleinere Korrekturen, Bessere Lesbarkeit
+- amk_flame_dialogs
+- amk_reload_dialogs
+- amk_strings
+- arc_string_table (2 Waffenwerte entfernt, Doppel Gemoppel)
+- arsenal_mod (2 Waffenwerte entfernt, Doppel Gemoppel)
+- davros_items
+- dmx_mod_encyclopedia
+
+Texturen
+	detail = 3 High Resolution Hinzugefügt
+		(Eine Kommt Via Foto aus Hamburg)
+	
+	docs = Resolution (512x512), Übersetzte texturen
+		(Dafür wird die doc_view.ltx benötigt)
+		(In der sind die neuen Position Koord. drin)
+
+	ui      = Entfernt den lästigen Circle
+	wpn   = Scar (Von Crysis) benutzt die High Resolution
+		Texturen.
 
 //============================================//
 Changelog 10.02.2017

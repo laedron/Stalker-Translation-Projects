@@ -75,61 +75,61 @@
 <!--              MONSTERS                  -->
 <!-- ====================================== -->
 		<string id="Swamp_thing">
-			<text>Swamp Thing</text>
+			<text>?!! WIRD NICHT BENUTZT !!?</text>
 		</string>
 		<string id="enc_Swamp_thing">
-			<text>Wandering throughout the twisting, windy paths within the area surrounding the Swamps without caution it is possible to encounter this very dangerous creature. A sub-species of the common "Bloodsucker", its habits and physical appearance differ from its overland cousin somewhat. Possessing perfectly developed muscles, it is capable of making enormous leaps in striking unwitting Stalkers to the ground with its enormous claws, and then dragging them into the swamps. No-one that has ever had the misfortune to encounter this beast has ever returned to tell the tale. Capable of becoming invisible, it attacks unexpectedly, and without warning. Even when not cloaked they are nearly impossible to see because of their naturally camouflaged dark skinned bodies, and overall slimy appearance.\n \n%c[255,220,220,100]• %c[255,1,255,255]Health: %c[255,1,255,1]400 %c[255,220,220,100]• %c[255,1,255,255]Weight: %c[255,1,255,1]150kg\n%c[255,220,220,100]• %c[255,1,255,255]Speed: %c[255,1,255,1]fast (10m ft/sec)\n%c[255,220,220,100]• %c[255,1,255,255]Attack: %c[255,1,255,1]Physical\n \n%c[255,220,220,100]RESISTANCES:\n%c[255,220,220,100]• %c[255,1,255,255]Burn: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Hit: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Shock: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Break: %c[255,1,255,1]90%\n%c[255,220,220,100]• %c[255,1,255,255]Radiation: %c[255,1,255,1]100%\n%c[255,220,220,100]• %c[255,1,255,255]Psi: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Chemical: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Blast: %c[255,1,255,1]80%\n%c[255,220,220,100]• %c[255,1,255,255]Bullets: %c[255,1,255,1]99%</text>
+			<text>?!! WIRD NICHT BENUTZT !!?</text>
 		</string>
 		<string id="Psi_dog">
-			<text>Psi-Dog</text>
+			<text>?!! WIRD NICHT BENUTZT !!?</text>
 		</string>
 		<string id="enc_Psi_dog">
-			<text>%c[255,220,220,100]• %c[255,1,255,255]Vitalität    : %c[255,1,255,1]\n%c[255,220,220,100]• %c[255,1,255,255]Gewicht      : %c[255,1,255,1]kg\n%c[255,220,220,100]• %c[255,1,255,255]Angriff      : %c[255,1,255,1]\n%c[255,220,220,100]• %c[255,1,255,255]Schnelligkeit: %c[255,1,255,1]\n \n%c[255,220,220,100]  Widerstandsfähigkeiten\n%c[255,220,220,100]• %c[255,1,255,255]Physisch     : %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Strahlung    : %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Verbrennung  : %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Chemisch     : %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]PSI Schutz   : %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Kugeln       : %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Explosion    : %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Brüche       : %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Schockzustand: %c[255,1,255,1]0%\n \n</text>
+			<text>?!! WIRD NICHT BENUTZT !!?</text>
 		</string>
 		<string id="Psi_burer">
-			<text>Psi-Burer</text>
+			<text>?!! WIRD NICHT BENUTZT !!?</text>
 		</string>
 		<string id="enc_Psi_burer">
-			<text>The sad, sadistic result of the genetic experiments conducted by Army Special Forces Scientists on Death-Row criminals as part of the "Program of Progress in the form of Telekinetic Capacities" aka "PPTC". This is all that remains of an essentially humanoid creature, with extremely hyper-trophied features. They tend to avoid sources of light, therefore choosing to dwell only in dark, gloomy vaults and caves. In close combat, they tend to attack through the use of gravitational force - which repels their opponent(s) with such force as to cause serious physical damage both internally as well as externally. They are also capable of levitating heavy objects, and using them as weapons in the form of a flying projectile attack. They can pull the weapon from your very hands, using their directional gravitational impulse abilities. The best defense against such a creature is to remain in constant motion, and not to venture too close so as too avoid its pssychological onslaughts. They have been found to be vulnerable to gunfire... particularly when inflicted to the head. They have been known to feed upon the corpses of dead Stalkers...\n \n%c[255,220,220,100]• %c[255,1,255,255]Health: %c[255,1,255,1]400 %c[255,220,220,100]• %c[255,1,255,255]Weight: %c[255,1,255,1]70kg\n%c[255,220,220,100]• %c[255,1,255,255]Speed: %c[255,1,255,1]slow (6 ft/sec)\n%c[255,220,220,100]• %c[255,1,255,255]Attack: %c[255,1,255,1]Psychokinetic / Telekinetic\n \n%c[255,220,220,100]RESISTANCES:\n%c[255,220,220,100]• %c[255,1,255,255]Burn: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Hit: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Shock: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Break: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Radiation: %c[255,1,255,1]100%\n%c[255,220,220,100]• %c[255,1,255,255]Psi: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Chemical: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Blast: %c[255,1,255,1]50%\n%c[255,220,220,100]• %c[255,1,255,255]Bullets: %c[255,1,255,1]40%</text>
+			<text>?!! WIRD NICHT BENUTZT !!?</text>
 		</string>
 		<string id="Electro_himera">
-			<text>Electric Chimera</text>
+			<text>?!! WIRD NICHT BENUTZT !!?</text>
 		</string>
 		<string id="enc_Electro_himera">
-			<text>Electric Chimera possess an unusual immunity to electricity. It is simply not affected by it. Moreover, an attack from this creature deals similar damage to that of the Electro anomaly. Best to be avoided at all costs. If encountered, the chances of survival are slightly higher if equipped with protection from the effects of electricity...\n \n%c[255,220,220,100]• %c[255,1,255,255]Health: %c[255,1,255,1]800 %c[255,220,220,100]• %c[255,1,255,255]Weight: %c[255,1,255,1]220kg\n%c[255,220,220,100]• %c[255,1,255,255]Speed: %c[255,1,255,1]fast (10-12 ft/sec)\n%c[255,220,220,100]• %c[255,1,255,255]Attack: %c[255,1,255,1]Physical/Electrical\n \n%c[255,220,220,100]RESISTANCES:\n%c[255,220,220,100]• %c[255,1,255,255]Burn: %c[255,1,255,1]70%\n%c[255,220,220,100]• %c[255,1,255,255]Hit: %c[255,1,255,1]70%\n%c[255,220,220,100]• %c[255,1,255,255]Shock: %c[255,1,255,1]70%\n%c[255,220,220,100]• %c[255,1,255,255]Break: %c[255,1,255,1]99.8%\n%c[255,220,220,100]• %c[255,1,255,255]Radiation: %c[255,1,255,1]100%\n%c[255,220,220,100]• %c[255,1,255,255]Psi: %c[255,1,255,1]0%\n%c[255,220,220,100]• %c[255,1,255,255]Chemical: %c[255,1,255,1]98%\n%c[255,220,220,100]• %c[255,1,255,255]Blast: %c[255,1,255,1]85%\n%c[255,220,220,100]• %c[255,1,255,255]Bullets: %c[255,1,255,1]98%</text>
+			<text>?!! WIRD NICHT BENUTZT !!?</text>
 		</string>
 <!-- ====================================== -->
 <!--               ADDITIONAL               -->
 <!-- ====================================== -->
 		<string id="rostok_factory">
-			<text>Rostok Factory</text>
+			<text>Rostok-Fabrik</text>
 		</string>
 		<string id="predbannik">
-			<text>Waiting Room</text>
+			<text>Vestibül</text>
 		</string>
 		<string id="garbage_old">
-			<text>Cemetery Techniques</text>
+			<text>Cemetery Techniques (Garabge_old)</text>
 		</string>
 		<string id="yantar_old">
-			<text>Research Station</text>
+			<text>Forschungsstation</text>
 		</string>
 		<string id="swamp_old">
-			<text>Dead Marshes</text>
+			<text>Toten Sümpfe</text>
 		</string>
 		<string id="darkscape">
-			<text>Dark Hollow</text>
+			<text>Finstere Vertiefung</text>
 		</string>
 		<string id="history_bibliotekar">
-			<text>History of the Librarian</text>
+			<text>Hinweis zum Mutant Bibliothekar (Librarian)</text>
 		</string>
 		<string id="enc_history_bibliotekar">
-			<text>In Pripyat, under the library, there was a clandestine Laboratory that specialized in Animal Experimentation. Particularly on Gorrillas. There was an accident took place there even before the second Zone incident of 2006. From the official transcript taken from a tape recording of a statement from Special Forces operative Gustavo Marakina:... I heard the alarm signal, and went to investigate. Upon entering the main hall just outside the Research Library, I very nearly dropped my weapon and ran for my life... at least seven Scientific staff members lay on the floor there covered in blood, and completely torn to pieces!!! From further down the corridor I could hear heavy, plodding footsteps... coming closer... closer... then, as if in an instant it was there... it was just under two metres in height, round-shouldered, extremely hairy... reminded me of a giant ape or gorrilla. It howled a horrible, sad bellowing noise at me... and I turned for the main entrance, and ran as fast as I could... never looking back... I could feel it chasing after me... taunting me with it's cries. I made it to the Exit opened the coded security door... and just kept on running... never looking back!!! I know now, my mistake... of not closing the door... sealing the Exit behind me... locking this... this... "Thing" in there forever... but, I cannot change the past... and I must live with it for the rest of my natural life... "sobbing sound"...</text>
+			<text>Auszug:\n \nBibliothek von Pripyat\nWissenschaftliches Forschungslabor für Spezielle Tierversuche\nKategorie: Gorillas\nAnmerkung,\nDie vorliegen Abschrift stammt von einer Bandaufnahme in der es um eine Frau geht die als Wissenschaftliche Assistentin im Labor gearbeitet hatte. Darin geht es um ein Unfall der sich vor der Radioaktiven Katastrophe von 2006 ereignet hatte. Special Kräfte habe sie rausgeholt und die Bandaufnahme wurde unter der Leitung Gustavo Marakina angefertigt und sichergestellt.\n \nBandaufnahme in Text:\n .... es ertönte plötzlich ein Alarmsignal ... und die meisten Türen wurden automatisch verschlossen. Ich stand zu dem Zeitpunkt in der Haupthalle, direkt vor der Forschungs-Bibliothek. Ich bin sofort in eins der Büros gelaufen... der ganze Boden ist dort mit Blut bedeckt und es liegen dort mindestens sieben tote.... die  ... sie wurden ... teilweise in Stücke gerissen. Dann hörte ich schwere ... dumpfe schritte immer näherkommen. Ich hatte eine Waffe, einem der Toten abgenommen. Als ich durch eines der Büro Fenster schaute .... es ist knapp zwei Meter hoch, hat deformierte Schulter und ist Extrem behaart ... wie ein Gorilla... Das Tier .... heult ununterbrochen, ein schreckliches, brüllendes und zugleich trauriges Geräusch ... ich drehte mich zum Haupteingang um und lief dann so schnell ich konnte ... sah auch nicht zurück ... ich versuchte auf das Monster zu schießen ... diese scheiß Waffe hatte Ladehemmungen ... Ich hatte gespürt wie es hinter mir herjagte. Ich rannte auf eine Sicherheit Tür zu, gab den Zugangscode ein und schloss diese schnell hinter mir. Ich werde diesen fürchterlichen Anblick von dem Monster nie wieder vergessen ... Ich hätte nie gedacht das es so weit kommen könne ...  "schluchzender Ton" ...</text>
 		</string>
 		<string id="pogremushka_infa_to_pda">
-			<text>Data from the Miner</text>
+			<text>Überspielte PDA Information vom Bergmann "Miner"</text>
 		</string>
 		<string id="enc_pogremushka_infa_to_pda">
-			<text>I am copying this data into your PDA so that you do not forget this very important piece of information. It goes like this: I wandered into some caves with an associate of mine known locally as 'the Labyrinth'. So, at the very deepest end of it, we were attacked by Rats. A lot of fucking Rats. Filthy, disease ridden creatures!!! We ran away as fast as we could until, eventually we fell into what appeared to be a large cavern. We climbed onto a ledge, and from there began to shoot back at the Rats... they just seemed to keep coming... more, and more of them... multiplying!! I had a strange Artefact on my belt known as a 'Simbion'... All of a sudden, my buddy grabs it, and jumps into the oncoming throng of Rats... unbelieveable!! At this point, some sort of anomaly began to form where he had landed... first, it was invisible... and then, a bright, white flash... then, I lost consciousness... When I came to... I could see the Artefact in front of me... surrounded by a pile of dead Rats... all of them dead!!! and lying in the pile was the skeleton of my dead Associate, Zhal... He was a good person. Not corrupt like most. I miss him dearly... and will never be able to repay his sacrifice on that day... As it turns out, the 'Simbion' artefact is the result of a transmutation involving 'Fruitpunch' anomaly. You must throw a raw 'Simbion' into it, and about ten minutes later... it produces a new Artefact known as 'Rattle'... because of its shape. There is nothing more I can tell you... take this information, and use it well... Good Luck.</text>
+			<text>Test .... Test\nIch hinterlasse diese Information auf dem PDA, so dass sie nicht wegkommt.\n \nEs war so: Wir… ich und mein Kumpel, befanden uns in einer Höhle die von einem der Gänge in der Mine abging. Die Mine ist bekannt als "Das Labyrinth" weil es in ihr so viele verzweigte Gänge gibt. In dieser Höhle wurde wir von einer Schar Ratten angegriffen. So viele verdammte Ratten. Bei genauen Hinsehen sahen diese verdammten Viecher schmutzig und Krank aus.\n \nWir liefen so schnell wie möglich und rutschen dann einen Abhang herunter. Wir landeten in einer Größeren Höhle. Kletterten auf einen Vorsprung und fingen an auf die Ratten zu schießen die uns hinter kamen. Es kamen mehr, und mehr von ihnen - es war kein Ende in Sicht. Neben meinem Gürtel lag ein seltsames Artefakt - später stellte sich heraus das es als "Symbion“ bekannt ist - plötzlich packte mich mein Kumpel und stieß mich zur Seite. Er schaute mir noch ganz kurz in die Augen. Als sich dann plötzlich eine Anomalie, vom Artefakt ausgehend, bildete. Sie entwickelte ein schwaches Schimmerndes Licht und dann ein heller, bis zu einem weißen Blitz.... dann verlor ich das Bewusstsein ... Als ich zu mir kam, konnte ich das Artefakt sehen aber mein Kumpel nicht. Ich hatte noch einen trüben Blick. Das Artefakt war umgeben von mehr als 100 Ratten ... alle tot. in der Mitte des Haufens sah ich ein Skelett und erschrak... . Es sah aus als ob man ihn vor kurzen alles wegfressen hatte. Er war ein guter Mensch und ein Freund. Ich werde ihn richtig vermissen... ich werde niemals sein Opfer vergessen das er an diesen Tag für mich erbracht hatte. Ich muss herausfinden was dieses Artefakt machte\n \nWie sich später herausstellte war dies ein Ergebnis einer Transmutation. Es besaß Verbindungen die man nur in einer "Gallert" Anomalie entdeckte. Umso eine Transmutation zu wiederholen benötigt man ein nicht verändertes Artefakt "Symbion". Diese muss etwas 10 Minuten in der Anomalie "Gallert" liegen. Es Entsteht dabei das Artefakt "Rassel" ... wegen seiner Form. Das war es, mehr kann ich dazu nicht sagen ... nehmen Sie diese Informationen, und verwenden Sie diese Weise... viel glück.</text>
 		</string>
 	</string_table>
-<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96h ( 2017/02/01) =!!= Last changed: 09.02.2017 00:16:14 -->
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96h ( 2017/02/01) =!!= Last changed: 09.02.2017 12:57:49 -->

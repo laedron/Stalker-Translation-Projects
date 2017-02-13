@@ -20,313 +20,263 @@
 			<text>Tschernigow Bier</text>
 		</string>
 		<string id="enc_equipment_pivo">
-			<text>Keine Ahnung wer dieses Bier in die Zone gebracht hat, aber es wurde schnell zum Lieblings Bier unter den Stalkern ... Jetzt kann es bei praktisch bei jedem Händler in der Zone gefunden und gekauft werden.</text>
+			<text>\n \nKeine Ahnung wer dieses Bier in die Zone gebracht hat, aber es wurde schnell zum Lieblings Bier unter den Stalkern ... Jetzt kann es bei praktisch bei jedem Händler in der Zone gefunden und gekauft werden.</text>
 		</string>
 		<string id="irp-b">
 			<text>Militärische Rationen</text>
 		</string>
 		<string id="enc_equipment_irp-b">
-			<text>Einmannpackung und Verpflegungsset. Speziell für das Militärpersonal das in der Zone den Dienst leistet. Mit der Zeit wurden die IRP-B Packungen unter Hand in der Zone hier und da verkauft. Es existieren verschieden Typen\n \nTyp I:\nFertiggericht 1: Ravioli mit Champignonsauce 300 g\nFertiggericht 2: Indische Reispfanne 300 g\nZwischenmahlzeit: Grießspeise mit Früchten 150 g\n \nTyp II:\nFertiggericht 1: Gulasch mit Kartoffeln 300 g\nFertiggericht 2a: Cevapcici mit Reis und Gemüse 300 g\nFertiggericht 2b: Ravioli in Champignonsoße 300 g\nZwischenmahlzeit: Obstsalat 150 g\n \nTyp III:\nFertiggericht 1: Hamburger in Tomatensauce 300 g\nFertiggericht 2: Südamerikanisches Gemüsechilli 300 g\nZwischenmahlzeit: Grießbrei mit Obst 150 gTyp IV:\nFertiggericht 1: Linseneintopf mit Mettwurst\nFertiggericht 2: Spiralnudeln in Hackfleischsoße\n \nTyp V:\nFertiggericht 1: Tortellini mit Schweinefleischfüllung in Tomatensauce\nFertiggericht 2: Reis mit Putenfleisch, Tintenfischringen und Garnelen\nZwischenmahlzeit: Obstsalat 150 g\n \nInklusive: Erfrischungstuch und "Panzerkekse"\n \nFür jeden STALKER ein Traum ... obwohl teuer</text>
+			<text>\n \nEinmannpackung und Verpflegungsset. Speziell für das Militärpersonal das in der Zone den Dienst leistet. Mit der Zeit wurden die IRP-B Packungen unter Hand in der Zone hier und da verkauft. Es existieren verschieden Typen\n \nTyp I:\nFertiggericht 1: Ravioli mit Champignonsauce 300 g\nFertiggericht 2: Indische Reispfanne 300 g\nZwischenmahlzeit: Grießspeise mit Früchten 150 g\n \nTyp II:\nFertiggericht 1: Gulasch mit Kartoffeln 300 g\nFertiggericht 2a: Cevapcici mit Reis und Gemüse 300 g\nFertiggericht 2b: Ravioli in Champignonsoße 300 g\nZwischenmahlzeit: Obstsalat 150 g\n \nTyp III:\nFertiggericht 1: Hamburger in Tomatensauce 300 g\nFertiggericht 2: Südamerikanisches Gemüsechilli 300 g\nZwischenmahlzeit: Grießbrei mit Obst 150 gTyp IV:\nFertiggericht 1: Linseneintopf mit Mettwurst\nFertiggericht 2: Spiralnudeln in Hackfleischsoße\n \nTyp V:\nFertiggericht 1: Tortellini mit Schweinefleischfüllung in Tomatensauce\nFertiggericht 2: Reis mit Putenfleisch, Tintenfischringen und Garnelen\nZwischenmahlzeit: Obstsalat 150 g\n \nInklusive: Erfrischungstuch und "Panzerkekse"\n \nFür jeden STALKER ein Traum ... obwohl teuer</text>
 		</string>
 		<string id="mechta">
 			<text>Packung(en) "Dream" Zigaretten</text>
 		</string>
 		<string id="enc_equipment_mechta">
-			<text>Ein Stinknormale Zigarette wie sie die Tabak Industrie herstellt. Stalker gaben der Zigarette schon verschiedenen Namen:  "Märchen aus Wiener Holz", "Großmutters Kohle".</text>
+			<text>\n \nEin Stinknormale Zigarette wie sie die Tabak Industrie herstellt. Stalker gaben der Zigarette schon verschiedenen Namen:  "Märchen aus Wiener Holz", "Großmutters Kohle".</text>
 		</string>
 		<string id="voda">
 			<text>"Kristall" Mineral-Wasser</text>
 		</string>
 		<string id="enc_equipment_voda">
-			<text>Mineralwasser der Marke "Kristall". Stillt Perfekt den Durst und verbessert das allgemeine Wohlbefinden. Stellt auch Energie wieder her so dass man sich frische und erholt fühlt.</text>
+			<text>\n \nMineralwasser der Marke "Kristall". Stillt Perfekt den Durst und verbessert das allgemeine Wohlbefinden. Stellt auch Energie wieder her so dass man sich frische und erholt fühlt.</text>
 		</string>
 		<string id="tuchenka">
 			<text>Fleisch Konserven</text>
 		</string>
 		<string id="enc_equipment_tuchenka">
-			<text>Fleisch Konserven vom "Armeelager". Stalker überfallen die "Armeelager" hin und wieder. Die erbeuteten Konserven werden dann beim nächsten Händler verkauft. Info: Das Haltbarkeit ist noch nicht abgelaufen.</text>
+			<text>\n \nFleisch Konserven vom "Armeelager". Stalker überfallen die "Armeelager" hin und wieder. Die erbeuteten Konserven werden dann beim nächsten Händler verkauft. Info: Das Haltbarkeit ist noch nicht abgelaufen.</text>
 		</string>
 		<string id="sardina">
 			<text>Ölsardinen</text>
 		</string>
 		<string id="enc_equipment_sardina">
-			<text>Ölsardinen sind in zum größten Teil in der Welt sehr beliebt. Einige Regionen bevorzugen jedoch die frische Alternative.  Es gibt verschiedene Methoden der herstellung.\n \nDie pazifische Sardine wird etwa 35 cm lang und normalerweise in Stücken eingelegt, im Gegensatz zur atlantischen Sardine, die nur etwa fingerlang ist und daher meist im Ganzen verarbeitet wird. Entsprechend denken Europäer bei „Ölsardinen“ auch an etwas ganz anderes als Amerikaner. Die Sardinen können auch enthäutet oder entgrätet werden und in mit Kräutern zubereitetem Öl eingelegt werden. Neben der klassischen Ölsardine sind auch andere Sorten, wie z. B. in Tomatensoße oder mit eingelegten Zitronenscheiben, im Handel verfügbar.\n \nZur Konservierung werden die Sardinen gekocht (bzw. gedämpft, gedünstet), kommen mit dem Öl in die Dosen, diese werden luftdicht verschlossen und anschließend in einem Autoklaven auf über 100 °C erhitzt. Dadurch wird der Inhalt sterilisiert und somit haltbar gemacht.</text>
+			<text>\n \nÖlsardinen sind in zum größten Teil in der Welt sehr beliebt. Einige Regionen bevorzugen jedoch die frische Alternative.  Es gibt verschiedene Methoden der herstellung.\n \nDie pazifische Sardine wird etwa 35 cm lang und normalerweise in Stücken eingelegt, im Gegensatz zur atlantischen Sardine, die nur etwa fingerlang ist und daher meist im Ganzen verarbeitet wird. Entsprechend denken Europäer bei „Ölsardinen“ auch an etwas ganz anderes als Amerikaner. Die Sardinen können auch enthäutet oder entgrätet werden und in mit Kräutern zubereitetem Öl eingelegt werden. Neben der klassischen Ölsardine sind auch andere Sorten, wie z. B. in Tomatensoße oder mit eingelegten Zitronenscheiben, im Handel verfügbar.\n \nZur Konservierung werden die Sardinen gekocht (bzw. gedämpft, gedünstet), kommen mit dem Öl in die Dosen, diese werden luftdicht verschlossen und anschließend in einem Autoklaven auf über 100 °C erhitzt. Dadurch wird der Inhalt sterilisiert und somit haltbar gemacht.</text>
 		</string>
 		<string id="sholad">
 			<text>Bitterschokolade</text>
 		</string>
 		<string id="enc_equipment_sholad">
-			<text>Bitterschokolade ist Schokolade mit hohen Kakaoanteil. Andere Bezeichnungen sind "Herrenschokolade", "Edelbitterschokolade", "Zartbitterschokolade", "dunkle" oder "schwarze Schokolade".\n \nDiese Schokoladensorte schmeckt leicht bitter und ist dunkler und zumeist weniger süß als Milchschokolade und wird – im Unterschied zu Milchschokolade – in der Regel ohne Milch oder seltener mit nur geringem Milchanteil hergestellt. Der Kakaoanteil ist deutlich höher als bei anderen Sorten und somit in der Regel auch der Fettanteil. Je höher der Kakaoanteil der Bitterschokolade, desto herber und weniger süß ist der Geschmack.\n \nEinige Studien kommen zu dem Ergebnis, dass der Verzehr von Bitterschokolade aufgrund ihres hohen Gehalts von Flavonoiden wie Epicatechin das Herz-Kreislauf-System schützt. Darüber hinaus senkt der Konsum von dunkler Schokolade den Blutdruck.\n \nDie Studie In der Zone kommt zu dem Entschluss das die Schokolade sehr viele Antioxidantien beinhaltet und somit die Bildung der Radioaktiven Isotopen im Körper auflöst. Sehr weit verbreitet in der Zone.\n \nNach einer amerikanischen Studie, die von 1996 bis 2000 an 2291 Schwangeren durchgeführt wurde, kann der Genuss von Bitterschokolade das Risiko von Präeklampsie bei Schwangeren senken. Die Anzahl der Frauen mit entsprechenden Symptomen war dabei direkt negativ abhängig vom Spiegel des in der Schokolade enthaltenen Alkaloids Theobromin im Serum</text>
+			<text>\n \nBitterschokolade ist Schokolade mit hohen Kakaoanteil. Andere Bezeichnungen sind "Herrenschokolade", "Edelbitterschokolade", "Zartbitterschokolade", "dunkle" oder "schwarze Schokolade".\n \nDiese Schokoladensorte schmeckt leicht bitter und ist dunkler und zumeist weniger süß als Milchschokolade und wird – im Unterschied zu Milchschokolade – in der Regel ohne Milch oder seltener mit nur geringem Milchanteil hergestellt. Der Kakaoanteil ist deutlich höher als bei anderen Sorten und somit in der Regel auch der Fettanteil. Je höher der Kakaoanteil der Bitterschokolade, desto herber und weniger süß ist der Geschmack.\n \nEinige Studien kommen zu dem Ergebnis, dass der Verzehr von Bitterschokolade aufgrund ihres hohen Gehalts von Flavonoiden wie Epicatechin das Herz-Kreislauf-System schützt. Darüber hinaus senkt der Konsum von dunkler Schokolade den Blutdruck.\n \nDie Studie In der Zone kommt zu dem Entschluss das die Schokolade sehr viele Antioxidantien beinhaltet und somit die Bildung der Radioaktiven Isotopen im Körper auflöst. Sehr weit verbreitet in der Zone.\n \nNach einer amerikanischen Studie, die von 1996 bis 2000 an 2291 Schwangeren durchgeführt wurde, kann der Genuss von Bitterschokolade das Risiko von Präeklampsie bei Schwangeren senken. Die Anzahl der Frauen mit entsprechenden Symptomen war dabei direkt negativ abhängig vom Spiegel des in der Schokolade enthaltenen Alkaloids Theobromin im Serum</text>
 		</string>
 		<string id="ogursi">
 			<text>Marinierte Essiggurken</text>
 		</string>
 		<string id="enc_equipment_ogursi">
-			<text>Es wird empfohlen die Gurken zusammen mit einem Wodka zu Genießen. Diese eingelegte Gemüse Kamm mal mit eine Zeit lang mit einer Lieferwagen Kolone in die Zone. Um die Lebensmittelgeschäfte in Pripyat und den umliegenden Stadtbereichen zu versorgen. Wurden jedoch oft Überfallen. Sole reduziert die Wirkung eines Katers ganz schön.</text>
+			<text>\n \nEs wird empfohlen die Gurken zusammen mit einem Wodka zu Genießen. Diese eingelegte Gemüse Kamm mal mit eine Zeit lang mit einer Lieferwagen Kolone in die Zone. Um die Lebensmittelgeschäfte in Pripyat und den umliegenden Stadtbereichen zu versorgen. Wurden jedoch oft Überfallen. Sole reduziert die Wirkung eines Katers ganz schön.</text>
 		</string>
 		<string id="yantar">
 			<text>(Amber) Yantar Schmelzkäse </text>
 		</string>
 		<string id="enc_equipment_yantar">
-			<text>Amber war tatsächlich ein preisgünstiger russischer Wettbewerber für den Schmelzkäse, der in den 50er Jahren von der finnischen Firma Valio Ltd. auf den sowjetischen Markt eingeführt wurde. Er wurde nach der lokalen Legende von der experimentellen und wissenschaftlichen Abteilung der Fabrik hergestellt.\n \nZum:\n"Binden der Freundschaft zwischen allen Völkern der Sowjetunion und der Welt."</text>
+			<text>\n \nAmber war tatsächlich ein preisgünstiger russischer Wettbewerber für den Schmelzkäse, der in den 50er Jahren von der finnischen Firma Valio Ltd. auf den sowjetischen Markt eingeführt wurde. Er wurde nach der lokalen Legende von der experimentellen und wissenschaftlichen Abteilung der Fabrik hergestellt.\n \nZum:\n"Binden der Freundschaft zwischen allen Völkern der Sowjetunion und der Welt."</text>
 		</string>
 		<string id="nuts">
 			<text>Studenten Futter</text>
 		</string>
 		<string id="st_nuts_descr">
-			<text>Studentenfutter ("Pfaffenfutter" oder "Tutti frutti" ist der Ausdruck für ein Gemisch aus ursprünglich (im 17. Jahrhundert) Mandeln und Rosinen. Studenten sprachen diesen Zutaten Eigenschaften zu, die gegen einen Alkoholrausch wirksam sind. Auch anderes Trockenobst kann zugefügt werden, der Phantasie sind hier keine Grenzen gesetzt. Zu bedenken ist jedoch, dass viele Zutaten recht kalorienreich, wenn auch gesund sind. Beispielsweise werden ungesalzene "Nüsse" zugefügt, darunter Cashewkerne, Erdnüsse, Paranüsse, Walnüsse oder Haselnüsse. Wenn die Nüsse ungesalzen und unbehandelt sind, sind sie sehr gesund, denn sie enthalten für die Verdauung wichtige Mineral- und Ballaststoffe. Das Risiko von Herz-, Gefäß- oder Krebserkrankungen sollen die ungesättigten Fettsäuren der Walnüsse senken. Haselnüsse enthalten sehr viel Vitamin E, das Zellen schützen soll. Das Immunsystem soll durch Selen gestärkt werden, das in Paranüssen angereichert ist.</text>
+			<text>\n \nStudentenfutter ("Pfaffenfutter" oder "Tutti frutti" ist der Ausdruck für ein Gemisch aus ursprünglich (im 17. Jahrhundert) Mandeln und Rosinen.\n \nStudenten sprachen diesen Zutaten Eigenschaften zu, die gegen einen Alkoholrausch wirksam sind. Auch anderes Trockenobst kann zugefügt werden. Der Phantasie sind hier keine Grenzen gesetzt. Zu bedenken ist jedoch, dass viele Zutaten recht kalorienreich, wenn auch gesund sind. Beispielsweise werden ungesalzene "Nüsse" zugefügt, darunter Cashewkerne, Erdnüsse, Paranüsse, Walnüsse oder Haselnüsse. Wenn die Nüsse ungesalzen und unbehandelt sind, sind sie sehr gesund, denn sie enthalten für die Verdauung wichtige Mineral- und Ballaststoffe.\n \nDas Risiko von Herz-, Gefäß- oder Krebserkrankungen sollen die ungesättigten Fettsäuren der Walnüsse senken. Haselnüsse enthalten sehr viel Vitamin E, das Zellen schützen soll. Das Immunsystem soll durch Selen gestärkt werden, das in Paranüssen angereichert ist.</text>
 		</string>
 		<string id="olives">
 			<text>Oliven</text>
 		</string>
 		<string id="st_olives_descr">
-			<text>Oliven sind reich, an einfach ungesättigten Fetten, Eisen, Vitamin E und Ballaststoffen.\n \nDie Olive ist eine mediterrane Steinfrucht. Sie ist wegen ihrer Bitterkeit roh nicht genießbar, aber nach mehrmaligem Einlegen in Wasser, bei dem die Bitterstoffe ausgeschwemmt werden, essbar. Echte Schwarze Oliven sind voll ausgereifte grüne (olivgrüne) Oliven. Oft werden jedoch grüne, mit Eisengluconat schwarz gefärbte Oliven verkauft.\n \n90% der Oliven werden zu Olivenöl gepresst.\n \nIm Handel erhältlich sind Oliven auch in modifizierter Form. Üblich ist dabei die Füllung der grünen Olive (mit Paprika, Mandeln) sowie das Einlegen/Marinieren der ganzen oder entkernten Früchte.\n \nIn Öl eingelegte Oliven sind ohne weitere Konservierungsstoffe relativ lange haltbar und werden auch nicht von Schädlingen befallen, was zumindest zum Teil ihre große Bedeutung für die mediterrane Küche erklärt.</text>
+			<text>\n \nOliven sind reich, an einfach ungesättigten Fetten, Eisen, Vitamin E und Ballaststoffen.\n \nDie Olive ist eine mediterrane Steinfrucht. Sie ist wegen ihrer Bitterkeit roh nicht genießbar, aber nach mehrmaligem Einlegen in Wasser, bei dem die Bitterstoffe ausgeschwemmt werden, essbar. Echte Schwarze Oliven sind voll ausgereifte grüne (olivgrüne) Oliven. Oft werden jedoch grüne, mit Eisengluconat schwarz gefärbte Oliven verkauft.\n \n90% der Oliven werden zu Olivenöl gepresst.\n \nIm Handel erhältlich sind Oliven auch in modifizierter Form. Üblich ist dabei die Füllung der grünen Olive (mit Paprika, Mandeln) sowie das Einlegen/Marinieren der ganzen oder entkernten Früchte.\n \nIn Öl eingelegte Oliven sind ohne weitere Konservierungsstoffe relativ lange haltbar und werden auch nicht von Schädlingen befallen, was zumindest zum Teil ihre große Bedeutung für die mediterrane Küche erklärt.</text>
 		</string>
 		<string id="kolbasadmx">
 			<text>"Doktor's" Wurst</text>
 		</string>
 		<string id="enc_equipment_dmx_kolbasa">
-			<text>Der wohlschmeckendste Geschmack der Wurst wird durch traditionelle Technik, vor allem bestehend aus hochwertigen, fettarmen, Schweinefleisch und Rindfleisch, mit dem Zusatz von Eiern, integraler Kuhmilch und einem einfachen Strich Muskatnuss produziert</text>
+			<text>\n \nDer wohlschmeckendste Geschmack der Wurst wird durch traditionelle Technik, vor allem bestehend aus hochwertigen, fettarmen, Schweinefleisch und Rindfleisch, mit dem Zusatz von Eiern, integraler Kuhmilch und einem einfachen Strich Muskatnuss produziert</text>
 		</string>
 		<string id="absolut_vodka">
 			<text>"Absolut" Wodka</text>
 		</string>
 		<string id="enc_equipment_vodka_absolut">
-			<text>Absolut Vodka ist eine im südschwedischen Ahus seit 1879 produzierte Wodka- und Spirituosenmarke. Das Unternehmen ist eine Tochter der Vin & Sprit, die 2008 von deren Eigentümer, der schwedischen Regierung, für 5,6 Milliarden Euro an die französische Firma Pernod Ricard verkauft wurde. Der Wodka der Marke wird aus Winterweizen und Wasser aus einer eigenen Quelle hergestellt.\n \nAbsolut Vodka "Blue Label", 1879 	mit 40% alc.\n \nAbsolut Vodka Red Label 1879 mit 50 % alc., Produktion wurde inzwischen eingestellt.</text>
+			<text>\n \nAbsolut Vodka ist eine im südschwedischen Ahus seit 1879 produzierte Wodka- und Spirituosenmarke. Das Unternehmen ist eine Tochter der Vin & Sprit, die 2008 von deren Eigentümer, der schwedischen Regierung, für 5,6 Milliarden Euro an die französische Firma Pernod Ricard verkauft wurde. Der Wodka der Marke wird aus Winterweizen und Wasser aus einer eigenen Quelle hergestellt.\n \nAbsolut Vodka "Blue Label", 1879 	mit 40% alc.\n \nAbsolut Vodka Red Label 1879 mit 50 % alc., Produktion wurde inzwischen eingestellt.</text>
 		</string>
 		<string id="nemiroff_vodka">
 			<text>"Nemiroff" Wodka</text>
 		</string>
 		<string id="enc_equipment_vodka_nemiroff">
-			<text>Nemiroff ist eine ukrainische Wodkamarke, die aus der Stadt Nemyriw in der Oblast Winnyzja kommt.\n \nDie Destillerie, in der Nemiroff hergestellt wird, wurde 1872 von G. S. Stroganov gegründet. Nemiroff Wodka wird ausschließlich aus Getreide hergestellt.\n \nUnter der Marke Nemiroff werden verschiedene Wodkas vertrieben. Bekannt sind Nemiroff Ukrainian Wheat (weißes Etikett), Nemiroff Original (schwarzes Etikett), und Nemyrovskaya. Wie die meisten osteuropäischen Wodkas enthalten diese Sorten 40 Volumenprozent Alkohol.\n \nNach uralter Tradition und ausschließlich aus natürlichen Zutaten hergestellt.</text>
+			<text>\n \nNemiroff ist eine ukrainische Wodkamarke, die aus der Stadt Nemyriw in der Oblast Winnyzja kommt.\n \nDie Destillerie, in der Nemiroff hergestellt wird, wurde 1872 von G. S. Stroganov gegründet. Nemiroff Wodka wird ausschließlich aus Getreide hergestellt.\n \nUnter der Marke Nemiroff werden verschiedene Wodkas vertrieben. Bekannt sind Nemiroff Ukrainian Wheat (weißes Etikett), Nemiroff Original (schwarzes Etikett), und Nemyrovskaya. Wie die meisten osteuropäischen Wodkas enthalten diese Sorten 40 Volumenprozent Alkohol.\n \nNach uralter Tradition und ausschließlich aus natürlichen Zutaten hergestellt.</text>
 		</string>
 		<string id="smirnoff_vodka">
 			<text>"Smirnoff" Wodka</text>
 		</string>
 		<string id="enc_equipment_vodka_smirnoff">
-			<text>Die Wodka-Brennerei Smirnoff wurde 1886 von Pjotr Arsenjewitsch Smirnow in Moskau gegründet und war die erste Brennerei weltweit, die Holzkohle zum Filtern benutzte.\n \nWladimir Smirnow übernahm 1910 die Firma nach dem Tod seines Vaters Pjotr Smirnow. Während der Oktoberrevolution wurde die Brennerei konfisziert und die Familie musste nach Konstantinopel fliehen, wo Wladimir eine neue Brennerei aufbaute. Vier Jahre später zog die Familie nach Lemberg; 1925 wurde eine zweite Brennerei in Paris eröffnet, die lateinische Schreibweise des Namens wurde zu Smirnoff geändert. Ende der 1930er Jahre wurde der Wodka in die meisten europäischen Länder exportiert.\n \n1934 verkaufte Wladimir Smirnow die Firma an Rudolph Kunett, der den Firmensitz in die USA verlagerte.\n \nMittlerweile gehört Smirnoff zu Diageo (einen Minderheitsanteil hält Alfa Group). Im Jahr 2012 wurden weltweit 26,3 Millionen 9-Liter-Einheiten abgesetzt, was die Wodka-Marke zur meistverkauften Premium-Spirituosenmarke der westlichen Welt machte.\n \nDieser Wodka ist der meistgetrunkene Wodka der Welt. Er geht öfter über den Tresen als jeder Whisky, Gin oder Rum. Ein weicher und vollmundiger Geschmack mit einem Milden, klaren und reinen Charakter.Jeder einzelne Tropfen wird in einem kontinuierlichen Dauerlauf dreifach destilliert und anschließend zehnfach gefiltert.</text>
+			<text>\n \nDie Wodka-Brennerei Smirnoff wurde 1886 von Pjotr Arsenjewitsch Smirnow in Moskau gegründet und war die erste Brennerei weltweit, die Holzkohle zum Filtern benutzte.\n \nWladimir Smirnow übernahm 1910 die Firma nach dem Tod seines Vaters Pjotr Smirnow. Während der Oktoberrevolution wurde die Brennerei konfisziert und die Familie musste nach Konstantinopel fliehen, wo Wladimir eine neue Brennerei aufbaute. Vier Jahre später zog die Familie nach Lemberg; 1925 wurde eine zweite Brennerei in Paris eröffnet, die lateinische Schreibweise des Namens wurde zu Smirnoff geändert. Ende der 1930er Jahre wurde der Wodka in die meisten europäischen Länder exportiert.\n \n1934 verkaufte Wladimir Smirnow die Firma an Rudolph Kunett, der den Firmensitz in die USA verlagerte.\n \nMittlerweile gehört Smirnoff zu Diageo (einen Minderheitsanteil hält Alfa Group). Im Jahr 2012 wurden weltweit 26,3 Millionen 9-Liter-Einheiten abgesetzt, was die Wodka-Marke zur meistverkauften Premium-Spirituosenmarke der westlichen Welt machte.\n \nDieser Wodka ist der meistgetrunkene Wodka der Welt. Er geht öfter über den Tresen als jeder Whisky, Gin oder Rum. Ein weicher und vollmundiger Geschmack mit einem Milden, klaren und reinen Charakter.Jeder einzelne Tropfen wird in einem kontinuierlichen Dauerlauf dreifach destilliert und anschließend zehnfach gefiltert.</text>
 		</string>
 		<string id="mineral_water">
 			<text>Mineral Wasser</text>
 		</string>
 		<string id="enc_equipment_vodka_water">
-			<text>Wasser, das Mineralien oder andere gelöste Substanzen enthält, die seinen Geschmack verändern oder ihm einen "therapeutischen" Wert verleihen. Der im allgemeinen aus einer natürlich vorkommenden Mineral-quelle oder Berg-Quelle gewonnen wird. Gelöste Substanzen im Wasser können verschiedene Salze und Schwefelverbindungen einschließen. Mineralwasser gibt es als Sprudel Wasser (Selters) oder ohne Sprudel (Stilles Wasser).</text>
+			<text>\n \nWasser, das Mineralien oder andere gelöste Substanzen enthält, die seinen Geschmack verändern oder ihm einen "therapeutischen" Wert verleihen. Der im allgemeinen aus einer natürlich vorkommenden Mineral-quelle oder Berg-Quelle gewonnen wird. Gelöste Substanzen im Wasser können verschiedene Salze und Schwefelverbindungen einschließen. Mineralwasser gibt es als Sprudel Wasser (Selters) oder ohne Sprudel (Stilles Wasser).</text>
 		</string>
 		<string id="energy_stalker">
 			<text>S.T.A.L.K.E.R. Drink</text>
 		</string>
 		<string id="enc_equipment_energy_st">
-			<text>Kräftiges Energiegetränk mit Methylxanthinen (einschließlich Koffein), Vitamin B und Kräutern. Andere gemeinsame Zutaten sind Guarana, Acai und Taurin, sowie verschiedene Formen von Ginseng, Maltodextrin, kohlensäurehaltiges Wasser, Inositol, Carnitin, Kreatin, Glucuronolacton und Ginkgo biloba. Kann hohen Zucker Wert enthalten. Der zentrale Bestandteil ist Koffein, wie in Kaffee oder Tee vorkommt.</text>
+			<text>\n \nKräftiges Energiegetränk mit Methylxanthinen (einschließlich Koffein), Vitamin B und Kräutern. Andere gemeinsame Zutaten sind Guarana, Acai und Taurin, sowie verschiedene Formen von Ginseng, Maltodextrin, kohlensäurehaltiges Wasser, Inositol, Carnitin, Kreatin, Glucuronolacton und Ginkgo biloba. Kann hohen Zucker Wert enthalten. Der zentrale Bestandteil ist Koffein, wie in Kaffee oder Tee vorkommt.</text>
 		</string>
 		<string id="energy_non_stop">
 			<text>"Non-Stop" Energy Drink</text>
 		</string>
 		<string id="enc_equipment_energy_stop">
-			<text>"Non Stop" enthält tonisierende Substanzen wie Koffein und andere Stimulatoren sowie einen Komplexes gemisch an reichhaltigen Vitaminen. Es stellt die Energie nach langen "Joggen" zwischen dne Anomalien wieder her</text>
+			<text>\n \n"Non Stop" enthält tonisierende Substanzen wie Koffein und andere Stimulatoren sowie einen Komplexes gemisch an reichhaltigen Vitaminen. Es stellt die Energie nach langen "Joggen" zwischen dne Anomalien wieder her</text>
 		</string>
 		<string id="energy_ad_rush">
 			<text>Adrenalin Kick</text>
 		</string>
 		<string id="enc_equipment_energy_ad_rush">
-			<text>Kräftiger Citrus Geschmack mit einer einzigartigen Mischung belebenden und energiespendenden Elementen wie D-Ribose, L-Carnitin und Taurin. Einfach gut!</text>
+			<text>\n \nKräftiger Citrus Geschmack mit einer einzigartigen Mischung belebenden und energiespendenden Elementen wie D-Ribose, L-Carnitin und Taurin. Einfach gut!</text>
 		</string>
 		<string id="energy_red_bull">
 			<text>Red Bull Energy Drink</text>
 		</string>
 		<string id="enc_equipment_energy_red_bull">
-			<text>Die Idee für taurinhaltige Getränke kam aus Japan, wo sie nach dem Zweiten Weltkrieg japanischen Piloten zur Steigerung der Leistung verabreicht wurden. Aus Thailand importierte der Gründer der Red Bull GmbH, Dietrich Mateschitz, später die Idee nach Europa. Bei einem Besuch 1982 in Thailand stellte er fest, dass ein Getränk namens Krating Daeng ihm half, den Einfluss des Jetlags zu überwinden. Er übernahm Name, Marketingkonzept und die Grundrezeptur, passte diese dem westlichen Geschmack an und ging damit 1987 auf den österreichischen Markt. Ende der 1980er Jahre wurde Red Bull vor allem durch geschicktes Marketing in der alternativen Jugend- und Club-Szene (Techno, Mountainbiking, Snowboarding) erfolgreich.\n \n
-Von Beginn an wurde über gesundheitliche Gefahren sowie langwierige Zulassungsverfahren für einzelne Inhaltsstoffe diskutiert. Dadurch verzögerte sich die Marktzulassung in Österreich und später in Deutschland und anderen Ländern. Mitunter wurde dies in manchen Medien als Verbot kolportiert.\n \nEs entstand wiederum ein „Hype“ um dieses für den europäischen Markt neue Getränk. In Frankreich blieb der Energy Drink tatsächlich verboten, bis Red Bull 2008 das Taurin durch Arginin ersetzte. Die französischen Behörden stützten dieses Verbot auf angebliche Gesundheitsschäden durch den übermäßigen Konsum von Red Bull. Der Europäische Gerichtshof entschied 2004, dass das französische Verkaufsverbot nicht gegen die Warenverkehrsfreiheit verstößt.\n \nÄhnliche Verbote bestanden bis Anfang 2009 in Dänemark und Norwegen. Im Mai 2008 wurde ein Abkommen zur Wiederzulassung von Red Bull mit Taurin in Frankreich unterzeichnet und seit 15. Juli 2008 ist das originale Getränk wieder erhältlich.\n \n
-Red Bull hat keine eigenen Produktionsstätten, sondern lässt das Getränk bei der Firma Rauch Fruchtsäfte in Nüziders[4] (Vorarlberg) produzieren und abfüllen. Für den Export wird Red Bull nicht als Konzentrat produziert, sondern fertig in Dosen abgefüllt auch nach Übersee exportiert. Für den amerikanischen Markt wird es von Rauch in der Schweiz abgefüllt, wo ein Werk in Widnau SG errichtet wurde. Dieser Standort wurde gewählt, um bei Handelsstreitigkeiten zwischen der EU und den USA nicht betroffen zu sein.\n \n
-Dietrich Mateschitz war im Jahr 1982 während einer Dienstreise in Südostasien auf die dort bereits damals weit verbreiteten Energydrinks aufmerksam geworden. Daraufhin erwarb er internationale Lizenzrechte an der thailändischen Marke Krating Daeng. Zwei Jahre später gründete Mateschitz die Red Bull GmbH mit Sitz in Fuschl am See.\n \n
-Seit Anfang 2006 besaß Red Bull auch 50% des Tiroler Transportdienstleisters Berger Logistik. Im Gegenzug übernahm Gerhard Berger 50 % der Scuderia Toro Rosso. Nach Beendigung Bergers Toro-Rosso-Intermezzos am Ende der Formel-1-Saison 2008 wurden die jeweiligen Beteiligungen jedoch aufgelöst.\n \n
-Im April 2008 wurde die Produktpalette durch Red Bull Cola erweitert.\n \n Am 19. Mai 2009 wurde der Verkauf von Red Bull Cola in Hessen durch die hessische Lebensmittelaufsicht untersagt, da durch das Landesinstitut für Gesundheit und Arbeit des Landes Nordrhein-Westfalen in Red Bull Cola Spuren von Kokain nachgewiesen wurden. Das Getränk falle daher unter das Betäubungsmittelgesetz. Dem Verbot folgten auch die Länder Nordrhein-Westfalen, Thüringen und Rheinland-Pfalz. Red Bull Cola sowie andere Lebensmittel, die Cocablatt­extrakte enthielten, gelten allerdings sowohl in der Europäischen Union als auch in den Vereinigten Staaten als unbedenklich und verkehrsfähig.[2][3] Nachdem bereits das Bundesinstitut für Risikobewertung die Kokainspuren als unbedenklich bewertete, wurde das Verkaufsverbot am 24. August 2009 wieder aufgehoben.</text>
+			<text>\n \nDie Idee für taurinhaltige Getränke kam aus Japan, wo sie nach dem Zweiten Weltkrieg japanischen Piloten zur Steigerung der Leistung verabreicht wurden. Aus Thailand importierte der Gründer der Red Bull GmbH, Dietrich Mateschitz, später die Idee nach Europa. Bei einem Besuch 1982 in Thailand stellte er fest, dass ein Getränk namens Krating Daeng ihm half, den Einfluss des Jetlags zu überwinden. Er übernahm Name, Marketingkonzept und die Grundrezeptur, passte diese dem westlichen Geschmack an und ging damit 1987 auf den österreichischen Markt. Ende der 1980er Jahre wurde Red Bull vor allem durch geschicktes Marketing in der alternativen Jugend- und Club-Szene (Techno, Mountainbiking, Snowboarding) erfolgreich.\n \nVon Beginn an wurde über gesundheitliche Gefahren sowie langwierige Zulassungsverfahren für einzelne Inhaltsstoffe diskutiert. Dadurch verzögerte sich die Marktzulassung in Österreich und später in Deutschland und anderen Ländern. Mitunter wurde dies in manchen Medien als Verbot kolportiert.\n \nEs entstand wiederum ein „Hype“ um dieses für den europäischen Markt neue Getränk. In Frankreich blieb der Energy Drink tatsächlich verboten, bis Red Bull 2008 das Taurin durch Arginin ersetzte. Die französischen Behörden stützten dieses Verbot auf angebliche Gesundheitsschäden durch den übermäßigen Konsum von Red Bull. Der Europäische Gerichtshof entschied 2004, dass das französische Verkaufsverbot nicht gegen die Warenverkehrsfreiheit verstößt.\n \nÄhnliche Verbote bestanden bis Anfang 2009 in Dänemark und Norwegen. Im Mai 2008 wurde ein Abkommen zur Wiederzulassung von Red Bull mit Taurin in Frankreich unterzeichnet und seit 15. Juli 2008 ist das originale Getränk wieder erhältlich.\n \nRed Bull hat keine eigenen Produktionsstätten, sondern lässt das Getränk bei der Firma Rauch Fruchtsäfte in Nüziders[4] (Vorarlberg) produzieren und abfüllen. Für den Export wird Red Bull nicht als Konzentrat produziert, sondern fertig in Dosen abgefüllt auch nach Übersee exportiert. Für den amerikanischen Markt wird es von Rauch in der Schweiz abgefüllt, wo ein Werk in Widnau SG errichtet wurde. Dieser Standort wurde gewählt, um bei Handelsstreitigkeiten zwischen der EU und den USA nicht betroffen zu sein.\n \nDietrich Mateschitz war im Jahr 1982 während einer Dienstreise in Südostasien auf die dort bereits damals weit verbreiteten Energydrinks aufmerksam geworden. Daraufhin erwarb er internationale Lizenzrechte an der thailändischen Marke Krating Daeng. Zwei Jahre später gründete Mateschitz die Red Bull GmbH mit Sitz in Fuschl am See.\n \nSeit Anfang 2006 besaß Red Bull auch 50% des Tiroler Transportdienstleisters Berger Logistik. Im Gegenzug übernahm Gerhard Berger 50 % der Scuderia Toro Rosso. Nach Beendigung Bergers Toro-Rosso-Intermezzos am Ende der Formel-1-Saison 2008 wurden die jeweiligen Beteiligungen jedoch aufgelöst.\n \nIm April 2008 wurde die Produktpalette durch Red Bull Cola erweitert.\n \n Am 19. Mai 2009 wurde der Verkauf von Red Bull Cola in Hessen durch die hessische Lebensmittelaufsicht untersagt, da durch das Landesinstitut für Gesundheit und Arbeit des Landes Nordrhein-Westfalen in Red Bull Cola Spuren von Kokain nachgewiesen wurden. Das Getränk falle daher unter das Betäubungsmittelgesetz. Dem Verbot folgten auch die Länder Nordrhein-Westfalen, Thüringen und Rheinland-Pfalz. Red Bull Cola sowie andere Lebensmittel, die Cocablatt­extrakte enthielten, gelten allerdings sowohl in der Europäischen Union als auch in den Vereinigten Staaten als unbedenklich und verkehrsfähig.[2][3] Nachdem bereits das Bundesinstitut für Risikobewertung die Kokainspuren als unbedenklich bewertete, wurde das Verkaufsverbot am 24. August 2009 wieder aufgehoben.</text>
 		</string>
 		<string id="energy_non_stop_lite">
 			<text>"Non-Stop" Lite</text>
 		</string>
 		<string id="enc_equipment_energy_non_stop_lite">
-			<text>Im Wesentlichen das gleiche wie "Non-Stop" Energy Drink, nur ohne  zusätzlichen Zucker ... nicht so wirksam.</text>
+			<text>\n \nIm Wesentlichen das gleiche wie "Non-Stop" Energy Drink, nur ohne  zusätzlichen Zucker ... nicht so wirksam.</text>
 		</string>
 		<string id="sok">
 			<text>Saft</text>
 		</string>
 		<string id="enc_equipment_sok">
-			<text>Vollmundiger, erfrischender Saft. Auf dem Tetrapak steht  "Multi-Frucht" und enthält alle Vitamine die eine Erwachsener für ein Tag benötigt. Es genügt ein Schluck und schon hat man wieder Energie, so dass man mit dem anstrengenden Tag weiter machen kann!</text>
+			<text>\n \nVollmundiger, erfrischender Saft. Auf dem Tetrapak steht  "Multi-Frucht" und enthält alle Vitamine die eine Erwachsener für ein Tag benötigt. Es genügt ein Schluck und schon hat man wieder Energie, so dass man mit dem anstrengenden Tag weiter machen kann!</text>
 		</string>
 		<string id="syh_pay_gde_3">
 			<text>Militärische Ration GDE-3</text>
 		</string>
 		<string id="enc_equipment_food_syh_pay_gde_3">
-			<text>Einmannpackung Armee-Ration (GDE-3). Hergestellt in Amerika. Schmeckt besser als die Russische Variante. Wiegt auch weniger ..ist auch etwas weniger nahrhaft.</text>
+			<text>\n \nEinmannpackung Armee-Ration (GDE-3). Hergestellt in Amerika. Schmeckt besser als die Russische Variante. Wiegt auch weniger ..ist auch etwas weniger nahrhaft.</text>
 		</string>
 		<string id="syh_pay_spp5">
 			<text>Militärische Ration SSP5</text>
 		</string>
 		<string id="enc_equipment_food_syh_pay_spp5">
-			<text>Russische Einmannpackungs-Ration (SSP5). Diese Kompakte Mahlzeit wurde für sehr harte Feldbedingungen entwickelt. Nahrhafter als die NATO Version.</text>
+			<text>\n \nRussische Einmannpackungs-Ration (SSP5). Diese Kompakte Mahlzeit wurde für sehr harte Feldbedingungen entwickelt. Nahrhafter als die NATO Version.</text>
 		</string>
 		<string id="pivo_baltika">
 			<text>Baltic Beer</text>
 		</string>
 		<string id="enc_equipment_pivo_baltika">
-			<text>%c[255,220,220,100]Stärke            : %c[255,1,255,1]8.0%\n \n
-Baltika ist die größte Brauereigruppe in der Russischen Föderation. Sie wurde 1990 in Leningrad (Sankt Petersburg) gegründet und hat sich schnell zu einem wichtigen Wirtschaftsfaktor für die Stadt entwickelt. Ursprünglich war Baltika ein Joint-Venture der finnischen Getränkefirma Hartwall und deren norwegischem Partner Orkla. Baltika nahm 1990 die Produktion auf.\n \n
-Baltika ist auch in Deutschland erhältlich und findet sich meist in russischen Supermärkten oder Getränkefachmärkten. Der Sitz der Baltika Deutschland GmbH befindet sich in Hamburg. Seit August 2011 wird die Sorte Baltika 3 auch von der Brauerei Königshof in Krefeld für Baltika Deutschland hergestellt, abgefüllt und von dort im mitteleuropäischen Raum vertrieben.
-</text>
+			<text>\n \n%c[255,220,220,100]Stärke            : %c[255,1,255,1]8.0%\n \n%c[default]Baltika ist die größte Brauereigruppe in der Russischen Föderation. Sie wurde 1990 in Leningrad (Sankt Petersburg) gegründet und hat sich schnell zu einem wichtigen Wirtschaftsfaktor für die Stadt entwickelt. Ursprünglich war Baltika ein Joint-Venture der finnischen Getränkefirma Hartwall und deren norwegischem Partner Orkla. Baltika nahm 1990 die Produktion auf.\n \nBaltika ist auch in Deutschland erhältlich und findet sich meist in russischen Supermärkten oder Getränkefachmärkten. Der Sitz der Baltika Deutschland GmbH befindet sich in Hamburg. Seit August 2011 wird die Sorte Baltika 3 auch von der Brauerei Königshof in Krefeld für Baltika Deutschland hergestellt, abgefüllt und von dort im mitteleuropäischen Raum vertrieben.</text>
 		</string>
 <!-- MEDICINE -->
 		<string id="antiseptic">
 			<text>Antiseptische Pillen</text>
 		</string>
 		<string id="enc_equipment_medi_antiseptic">
-			<text>%c[255,220,220,100]Gesundheitsschub : %c[255,1,255,1]5%\n
-%c[255,220,220,100]Blutung stillen  : %c[255,1,255,1]90%\n
-%c[255,220,220,100]Packungs Menge   : %c[255,1,255,1]1\n
-%c[255,220,220,100]Nebenwirkungen   : %c[255,1,255,1]Leichte Ermüdung\n
-%c[default]\n \n
-Chemisches Mittel, das das Wachstum von pathogenen Bakterien und anderen Mikroorganismen zerstört oder hemmt aber für die Haut und die Schleimhäute nicht toxisch ist. Hilft bei Blutungen, Desinfektion für Wunden und verbessert den allgemein Zustand. Das Medikament ist schnell wirkend.</text>
+			<text>\n \n%c[255,220,220,100]Gesundheitsschub : %c[255,1,255,1]5%\n%c[255,220,220,100]Blutung stillen  : %c[255,1,255,1]90%\n%c[255,220,220,100]Packungs Menge   : %c[255,1,255,1]1\n%c[255,220,220,100]Nebenwirkungen   : %c[255,1,255,1]Leichte Ermüdung\n%c[default]\n \nChemisches Mittel, das das Wachstum von pathogenen Bakterien und anderen Mikroorganismen zerstört oder hemmt aber für die Haut und die Schleimhäute nicht toxisch ist. Hilft bei Blutungen, Desinfektion für Wunden und verbessert den allgemein Zustand. Das Medikament ist schnell wirkend.</text>
 		</string>
 		<string id="zhgut">
 			<text>Schiene</text>
 		</string>
 		<string id="enc_equipment_medi_zhgut">
-			<text>%c[255,220,220,100]Gesundheitsschub : %c[255,1,255,1]0%\n
-%c[255,220,220,100]Blutung stillen  : %c[255,1,255,1]100%\n
-%c[255,220,220,100]Packungs Menge   : %c[255,1,255,1]5\n
-%c[255,220,220,100]Nebenwirkungen   : %c[255,1,255,1]n/a\n
-%c[default]\n \nVerschiedene Formen der Schiene wurden sparsam im Laufe der Geschichte verwendet, aber die Schiene gewann große Popularität als medizinisches Gerät während des französischen und indischen Krieges. Im allgemeinen bestehend aus zwei kleinen hölzernen Planken wurde die Schiene gewöhnlich um den Bruch mit Seil, Tuch oder sogar Rohleder während Grenzzeiten in der amerikanischen Geschichte gebunden. Bis zum heutigen Tag wird die Schiene häufig verwendet, um kleine Brüche und Brüche zu sichern.</text>
+			<text>\n \n%c[255,220,220,100]Gesundheitsschub : %c[255,1,255,1]0%\n%c[255,220,220,100]Blutung stillen  : %c[255,1,255,1]100%\n%c[255,220,220,100]Packungs Menge   : %c[255,1,255,1]5\n%c[255,220,220,100]Nebenwirkungen   : %c[255,1,255,1]n/a\n%c[default]\n \nVerschiedene Formen der Schiene wurden sparsam im Laufe der Geschichte verwendet, aber die Schiene gewann große Popularität als medizinisches Gerät während des französischen und indischen Krieges. Im allgemeinen bestehend aus zwei kleinen hölzernen Planken wurde die Schiene gewöhnlich um den Bruch mit Seil, Tuch oder sogar Rohleder während Grenzzeiten in der amerikanischen Geschichte gebunden. Bis zum heutigen Tag wird die Schiene häufig verwendet, um kleine Brüche und Brüche zu sichern.</text>
 		</string>
 		<string id="pervitin">
 			<text>"Pervitin" (Methamphetamin)</text>
 		</string>
 		<string id="enc_equipment_medi_pervitin">
-			<text>%c[255,220,220,100]Erhöhte Ausdauer : %c[255,1,255,1]190%\n
-%c[255,220,220,100]Reduziert. Hunger: %c[255,1,255,1]50%\n
-%c[255,220,220,100]Packungs Menge   : %c[255,1,255,1]2 Tabletten\n
-%c[255,220,220,100]Nebenwirkungen   : %c[255,1,255,1]Allgemeiner Zustand\n
-%c[default]\n \nMethamphetamin, auch Metamfetamin oder N-Methylamphetamin (früher auch Pervitin) genannt, ist eine synthetisch hergestellte Substanz aus der Stoffgruppe der Phenylethylamine. Methamphetamin wird sowohl in der Pharmazie als Arzneistoff als auch missbräuchlich als euphorisierende und stimulierende Droge (umgangssprachlich Crystal Meth, Meth oder Crystal) verwendet.\n \nN-Methylamphetamin unterdrückt Müdigkeit, Hungergefühl und Schmerz. Es verleiht kurzzeitig Selbstvertrauen, ein Gefühl der Stärke und dem Leben eine ungewohnte Geschwindigkeit. Zu den Nebenwirkungen gehören Persönlichkeitsveränderungen, Psychosen und Paranoia aufgrund von Schlafentzug oder bei Prädisposition. Eine häufige Einnahme führt zu Gewöhnung und schleichendem Wirkungsverlust, der oft eine Dosissteigerung zur Erzielung der ursprünglichen Wirkung nach sich zieht.\n \nMethamphetamin gehört zur Substanzklasse der Amphetamine, der etliche weitere psychotrope Substanzen angehören, unter anderem Amphetamin und das in der Natur vorkommende Ephedrin. Es ist ein Stimulans und indirektes Sympathomimetikum, d. h., es regt die sympathischen Teile des vegetativen Nervensystems an.\n \nHerstellung, Besitz oder Inverkehrbringen von Methamphetamin ohne Erlaubnis ist in Deutschland und den meisten europäischen Ländern strafbar. In den USA fällt die Substanz seit 1970 unter das Drogenkontrollgesetz.\n \nInsbesondere während der Blitzkriege gegen Polen und Frankreich 1939/40 fand Methamphetamin millionenfache Verwendung. Unter den Spitznamen Panzerschokolade, Stuka-Tabletten, Hermann-Göring-Pillen und Fliegermarzipan diente das Mittel zur Dämpfung des Angstgefühls sowie zur Steigerung der Leistungs- und Konzentrationsfähigkeit bei Soldaten, Fahrzeugführern und Piloten.\n \n
-In der Zeit von April bis Juni 1940 bezog die Wehrmacht mehr als 35 Millionen Tabletten Pervitin. Der damalige Reichsgesundheitsführer Leonardo Conti meinte am 19. März 1940 in seiner Rede vor dem NSD-Ärztebund im Berliner Rathaus:\n \n„Wer Ermüdung mit Pervitin beseitigen will, der kann sicher sein, dass der Zusammenbruch seiner Leistungsfähigkeit eines Tages kommen muss. Dass das Mittel einmal gegen Müdigkeit für einen Hochleistungsflieger, der noch zwei Stunden fliegen muss, angewendet werden darf, ist wohl richtig. Es darf aber nicht angewendet werden bei jedem Ermüdungszustand, der in Wirklichkeit nur durch Schlaf ausgeglichen werden kann. Das muss uns als Ärzten ohne weiteres einleuchten.“\n \nAls dann am 25. Oktober 1940 in der Münchener Medizinischen Wochenschrift (MMW) ein Beitrag erschien, in dem Pervitin für beinahe alles von See- und Bergkrankheit und verzögerter Rekonvaleszenz bis hin zu organischen Hirn- und Rückenmarkstörungen empfohlen wurde, sah sich die Reichsgesundheitsführung veranlasst, den Psychiater Ernst Speer als bekannten Kritiker des Medikaments mit einer Gegendarstellung zu berufen, die ebenfalls in der MMW erschien.\n \n
-Ab Mitte 1941 war das Medikament durch das geänderte Reichsopiumgesetz nicht mehr frei, sondern nur noch auf Rezept erhältlich. Dadurch reduzierte sich der Einsatz der Droge merklich.\n \nVerwendung nach 1945\n \nBei Piloten war Pervitin für den Notfall vorgesehen, und der Verbandsatz der NVA enthielt bis 1988 Pervitin. Auch nach 1945 wurde der Wirkstoff vom US-Militär zur Leistungssteigerung eingesetzt, beispielsweise während des Vietnamkriegs. Im Sport soll Pervitin als Doping­mittel genutzt worden sein. Das Fertigarzneimittel Pervitin blieb bis 1988 im Handel.\n \n
-Einsatz findet die Droge auch in „Chem-Sexpartys“ ? Sex-Orgien unter Drogeneinfluss. In Berlin liegt der Konsumentenschwerpunkt gegenwärtig (2016) in der homosexuellen Szene. Zwischen den Jahren 2008 und 2012 hat sich die sichergestellte Menge der Droge verzehnfacht.</text>
+			<text>\n \n%c[255,220,220,100]Erhöhte Ausdauer : %c[255,1,255,1]190%\n%c[255,220,220,100]Reduziert. Hunger: %c[255,1,255,1]50%\n%c[255,220,220,100]Packungs Menge   : %c[255,1,255,1]2 Tabletten\n%c[255,220,220,100]Nebenwirkungen   : %c[255,1,255,1]Allgemeiner Zustand\n%c[default]\n \nMethamphetamin, auch Metamfetamin oder N-Methylamphetamin (früher auch Pervitin) genannt, ist eine synthetisch hergestellte Substanz aus der Stoffgruppe der Phenylethylamine. Methamphetamin wird sowohl in der Pharmazie als Arzneistoff als auch missbräuchlich als euphorisierende und stimulierende Droge (umgangssprachlich Crystal Meth, Meth oder Crystal) verwendet.\n \nN-Methylamphetamin unterdrückt Müdigkeit, Hungergefühl und Schmerz. Es verleiht kurzzeitig Selbstvertrauen, ein Gefühl der Stärke und dem Leben eine ungewohnte Geschwindigkeit. Zu den Nebenwirkungen gehören Persönlichkeitsveränderungen, Psychosen und Paranoia aufgrund von Schlafentzug oder bei Prädisposition. Eine häufige Einnahme führt zu Gewöhnung und schleichendem Wirkungsverlust, der oft eine Dosissteigerung zur Erzielung der ursprünglichen Wirkung nach sich zieht.\n \nMethamphetamin gehört zur Substanzklasse der Amphetamine, der etliche weitere psychotrope Substanzen angehören, unter anderem Amphetamin und das in der Natur vorkommende Ephedrin. Es ist ein Stimulans und indirektes Sympathomimetikum, d. h., es regt die sympathischen Teile des vegetativen Nervensystems an.\n \nHerstellung, Besitz oder Inverkehrbringen von Methamphetamin ohne Erlaubnis ist in Deutschland und den meisten europäischen Ländern strafbar. In den USA fällt die Substanz seit 1970 unter das Drogenkontrollgesetz.\n \nInsbesondere während der Blitzkriege gegen Polen und Frankreich 1939/40 fand Methamphetamin millionenfache Verwendung. Unter den Spitznamen Panzerschokolade, Stuka-Tabletten, Hermann-Göring-Pillen und Fliegermarzipan diente das Mittel zur Dämpfung des Angstgefühls sowie zur Steigerung der Leistungs- und Konzentrationsfähigkeit bei Soldaten, Fahrzeugführern und Piloten.\n \nIn der Zeit von April bis Juni 1940 bezog die Wehrmacht mehr als 35 Millionen Tabletten Pervitin. Der damalige Reichsgesundheitsführer Leonardo Conti meinte am 19. März 1940 in seiner Rede vor dem NSD-Ärztebund im Berliner Rathaus:\n \n„Wer Ermüdung mit Pervitin beseitigen will, der kann sicher sein, dass der Zusammenbruch seiner Leistungsfähigkeit eines Tages kommen muss. Dass das Mittel einmal gegen Müdigkeit für einen Hochleistungsflieger, der noch zwei Stunden fliegen muss, angewendet werden darf, ist wohl richtig. Es darf aber nicht angewendet werden bei jedem Ermüdungszustand, der in Wirklichkeit nur durch Schlaf ausgeglichen werden kann. Das muss uns als Ärzten ohne weiteres einleuchten.“\n \nAls dann am 25. Oktober 1940 in der Münchener Medizinischen Wochenschrift (MMW) ein Beitrag erschien, in dem Pervitin für beinahe alles von See- und Bergkrankheit und verzögerter Rekonvaleszenz bis hin zu organischen Hirn- und Rückenmarkstörungen empfohlen wurde, sah sich die Reichsgesundheitsführung veranlasst, den Psychiater Ernst Speer als bekannten Kritiker des Medikaments mit einer Gegendarstellung zu berufen, die ebenfalls in der MMW erschien.\n \nAb Mitte 1941 war das Medikament durch das geänderte Reichsopiumgesetz nicht mehr frei, sondern nur noch auf Rezept erhältlich. Dadurch reduzierte sich der Einsatz der Droge merklich.\n \nVerwendung nach 1945\n \nBei Piloten war Pervitin für den Notfall vorgesehen, und der Verbandsatz der NVA enthielt bis 1988 Pervitin. Auch nach 1945 wurde der Wirkstoff vom US-Militär zur Leistungssteigerung eingesetzt, beispielsweise während des Vietnamkriegs. Im Sport soll Pervitin als Doping­mittel genutzt worden sein. Das Fertigarzneimittel Pervitin blieb bis 1988 im Handel.\n \nEinsatz findet die Droge auch in „Chem-Sexpartys“ ? Sex-Orgien unter Drogeneinfluss. In Berlin liegt der Konsumentenschwerpunkt gegenwärtig (2016) in der homosexuellen Szene. Zwischen den Jahren 2008 und 2012 hat sich die sichergestellte Menge der Droge verzehnfacht.</text>
 		</string>
 		<string id="amfetamin">
 			<text>Amphetamin (Phenylisopropylamin)</text>
 		</string>
 		<string id="enc_equipment_medi_amfetamin">
-			<text>%c[255,220,220,100]Erhöhte Ausdauer : %c[255,1,255,1]180%\n
-%c[255,220,220,100]Reduziert. Hunger: %c[255,1,255,1]40%\n
-%c[255,220,220,100]Packungs Menge   : %c[255,1,255,1]2 Tabletten\n
-%c[255,220,220,100]Nebenwirkungen   : %c[255,1,255,1]Allgemeiner Zustand\n
-%c[default]\n \n 
-Amphetamin ist eine vollsynthetisch hergestellte Substanz künstlichen Ursprungs. Der Wirkstoff zählt zur Stoffgruppe der Phenylethylamine und dort zu den Weckaminen (Amine mit „aufweckender“ Wirkung).\n \n
-Er wird derzeit in der Medizin als Arzneistoff zur Behandlung der Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung (ADHS) und der Narkolepsie verwendet. Amphetamin hat eine stark stimulierende und aufputschende Wirkung. Wie alle Amphetaminderivate und viele Stimulanzien wirkt es appetitzügelnd und in hohen Dosen euphorisierend. Daher ist es insbesondere in der Drogenszene beliebt und unter Bezeichnungen wie Speed oder Pep weit verbreitet.\n \n
-Amphetamin ist die Stammverbindung der Substanzklasse der Amphetamine. Zu ihr gehören etliche weitere psychoaktive Substanzen, unter anderem Methamphetamin und das in der Natur vorkommende Ephedrin. Amphetamin ist ein Stimulans und indirektes Sympathomimetikum, d. h. es regt die sympathischen Teile des vegetativen Nervensystems an.\n \n
-Es existieren zwei verschiedene Isomere des Amphetamins: Dexamphetamin und Levamphetamin. Medizinisch wird oft reines D-Amphetamin verwendet, da dieses stärker wirksam ist als L-Amphetamin. Wird nur von Amphetamin gesprochen, ist meist ein Gemisch beider Isomere (D,L-Amphetamin) gemeint.\n \n
-Amphetamin wird in der Bundesrepublik Deutschland in der Anlage III im Betäubungsmittelgesetz aufgeführt und stellt damit ein verkehrsfähiges und verschreibungsfähiges Betäubungsmittel dar; Handel und Besitz ohne Erlaubnis werden strafrechtlich verfolgt.\n \n
-u den gesundheitlichen Risiken, die mit dem Konsum von Amphetamin einhergehen, zählen gesteigerte Aggressivität, Krämpfe, Zittern, Kreislaufkollaps, Herzrasen und Herzinfarkt. Bei einem Abhängigkeitssyndrom können Zerfall der Muskulatur, Nierenversagen, Gedächtnisstörungen, Schlaganfall, paranoide Wahnvorstellungen und Depressionen, Bewusstseinstrübung bis hin zu Koma und chronische Psychosen auftreten. Es kann zu einer Vernachlässigung sozialer Verpflichtungen (Familie, Schule, Beruf, Beziehung) kommen. Werden Amphetamine häufig geschnupft, kann es zu einer Schädigung bis zur Auflösung der Nasenscheidewand kommen.</text>
+			<text>\n \n%c[255,220,220,100]Erhöhte Ausdauer : %c[255,1,255,1]180%\n%c[255,220,220,100]Reduziert. Hunger: %c[255,1,255,1]40%\n%c[255,220,220,100]Packungs Menge   : %c[255,1,255,1]2 Tabletten\n%c[255,220,220,100]Nebenwirkungen   : %c[255,1,255,1]Allgemeiner Zustand\n%c[default]\n \nAmphetamin ist eine vollsynthetisch hergestellte Substanz künstlichen Ursprungs. Der Wirkstoff zählt zur Stoffgruppe der Phenylethylamine und dort zu den Weckaminen (Amine mit „aufweckender“ Wirkung).\n \nEr wird derzeit in der Medizin als Arzneistoff zur Behandlung der Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung (ADHS) und der Narkolepsie verwendet. Amphetamin hat eine stark stimulierende und aufputschende Wirkung. Wie alle Amphetaminderivate und viele Stimulanzien wirkt es appetitzügelnd und in hohen Dosen euphorisierend. Daher ist es insbesondere in der Drogenszene beliebt und unter Bezeichnungen wie Speed oder Pep weit verbreitet.\n \nAmphetamin ist die Stammverbindung der Substanzklasse der Amphetamine. Zu ihr gehören etliche weitere psychoaktive Substanzen, unter anderem Methamphetamin und das in der Natur vorkommende Ephedrin. Amphetamin ist ein Stimulans und indirektes Sympathomimetikum, d. h. es regt die sympathischen Teile des vegetativen Nervensystems an.\n \nEs existieren zwei verschiedene Isomere des Amphetamins: Dexamphetamin und Levamphetamin. Medizinisch wird oft reines D-Amphetamin verwendet, da dieses stärker wirksam ist als L-Amphetamin. Wird nur von Amphetamin gesprochen, ist meist ein Gemisch beider Isomere (D,L-Amphetamin) gemeint.\n \nAmphetamin wird in der Bundesrepublik Deutschland in der Anlage III im Betäubungsmittelgesetz aufgeführt und stellt damit ein verkehrsfähiges und verschreibungsfähiges Betäubungsmittel dar; Handel und Besitz ohne Erlaubnis werden strafrechtlich verfolgt.\n \nu den gesundheitlichen Risiken, die mit dem Konsum von Amphetamin einhergehen, zählen gesteigerte Aggressivität, Krämpfe, Zittern, Kreislaufkollaps, Herzrasen und Herzinfarkt. Bei einem Abhängigkeitssyndrom können Zerfall der Muskulatur, Nierenversagen, Gedächtnisstörungen, Schlaganfall, paranoide Wahnvorstellungen und Depressionen, Bewusstseinstrübung bis hin zu Koma und chronische Psychosen auftreten. Es kann zu einer Vernachlässigung sozialer Verpflichtungen (Familie, Schule, Beruf, Beziehung) kommen. Werden Amphetamine häufig geschnupft, kann es zu einer Schädigung bis zur Auflösung der Nasenscheidewand kommen.</text>
 		</string>
 		<string id="medkit_elite10">
-			<text>"Elite" Medkit</text>
+			<text>"Elite" Medikit</text>
 		</string>
 		<string id="medkit_elite10_s">
-			<text>Medkit</text>
+			<text>Medikit</text>
 		</string>
 		<string id="medkit_elite">
-			<text>'Elite' medkit</text>
+			<text>'Elite' medikit</text>
 		</string>
 		<string id="medkit_elite_s">
-			<text>Medkit</text>
+			<text>Medikit</text>
 		</string>
 		<string id="enc_equipment_medkit_elite">
-			<text>Die "Elite" Medkit wurde Zonen Wissenschaftler speziell für die Arbeit in der Zone entwickelt von.
-Das Kit beinhaltet: \n
-  • 2 Alice-Clips und alle militärischen Schablonen \ n
-  • 1 2 "x 4.1yrds Verbandgewebe \ n
-  • 2 4 "x 4" sterile Schwämme \ n
-  • 5 1 "x 3" Verbandstreifen \ n
-  • 1 Feldbearbeitung \ n
-  • 3 Knickerbänder \ n
-  • 2 Ammoniak-Inhalationsampullen
-  • 2 Schmetterlingsstreifen \ n
-  • 1 Erste-Hilfe-Anweisungen \ n
-  • 1 Dreifach-Antibiotikum 1 \ n
-  • 1 "Tape \ n • 4 Alkoholtücher \ n
-  • 3 Jodwischtücher \ n
-  • 3 antiseptische Tücher \ n
-  • 3 saubere Wischtücher \ n
-  • 3 nach Bisswischen</text>
+			<text>\n \nDie "Elite" Medkit wurde Zonen Wissenschaftler speziell für die Arbeit in der Zone entwickelt von.Das Kit beinhaltet:\n%c[255,220,220,100]• 2x%c[255,1,255,1] Alice-Clips und Militärische Schablonen \n%c[255,220,220,100]• 1x%c[255,1,255,1] 2"x4.1m Verbandgewebe \n%c[255,220,220,100]• 2x%c[255,1,255,1] 4"x4" Sterile Schwämme \n%c[255,220,220,100]• 5x%c[255,1,255,1] 1"x3" Verbandstreifen \n%c[255,220,220,100]• 1x%c[255,1,255,1] Feld Verband \n%c[255,220,220,100]• 3x%c[255,1,255,1] Knöchel Verbände \n%c[255,220,220,100]• 2x%c[255,1,255,1] Ammoniak-Inhalations Ampullen\n%c[255,220,220,100]• 2x%c[255,1,255,1] Schmetterlingsstreifen \n%c[255,220,220,100]• 1x%c[255,1,255,1] Erste-Hilfe-Handbuch \n%c[255,220,220,100]• 1x%c[255,1,255,1] Antibiotikum 1 (Dreifach) \n%c[255,220,220,100]• 1x%c[255,1,255,1] Klebedand \n%c[255,220,220,100]• 4x%c[255,1,255,1] Alkoholtücher \n%c[255,220,220,100]• 3x%c[255,1,255,1] Jodwischtücher \n%c[255,220,220,100]• 3x%c[255,1,255,1] Antiseptische Tücher \n%c[255,220,220,100]• 3x%c[255,1,255,1] Saubere Tücher\n%c[255,220,220,100]• 3x%c[255,1,255,1] Desinfizierte Wischtücher\n%c[default]</text>
 		</string>
 		<string id="bandage_dmx">
-			<text>Special Bandage</text>
+			<text>Spezial Verbände</text>
 		</string>
 		<string id="enc_equipment_bandage_dmx">
-			<text>Special dressing injected with an anti-radiation compound. Typically used used by the Military in order to treat wounds whilst on manoeuvres throughout the Zone</text>
+			<text>\n \nSpezial-Kombinations-Verband gegen Strahlung. Wird vom Militär bei Manövern In der Zone verwendet.</text>
 		</string>
 		<string id="tab">
-			<text>Antipohmelin Tablets</text>
+			<text>Antipohmelin-Tabletten</text>
 		</string>
 		<string id="enc_equipment_tab">
-			<text>%c[255,238,153,26]  %c[default]Reduce hangover:%c[255,1,255,1] 95%\n%c[default]Tablets, completely relieving effects of alcohol. They enter the bloodstream special substances, which are somewhat reduce the concentration of ethanol. It was noticed that the constant use of data caps, their effectiveness is markedly reduced. No side effects were noted. The drug is fast acting</text>
+			<text>\n \n%c[255,220,220,100]Kp. Alkohol Abbau: %c[255,1,255,1]95%\n%c[default]\n \nAntipohmelin Reduziert die Konzentration von Ethanol in Acetaldehyd und Essigsäure, tritt in den Blutkreislauf und beschleunigt im Körper das harmlose Kohlendioxid und Wasser, unterstützt den Energiestoffwechsel in der Leber, im Gehirn und im Herzen. Einfach ausgedrückt: Ein Mittel um den Übermäßigen Alkoholkonsum zu reduzieren. Das Medikament ist schnell wirkend.</text>
 		</string>
 		<string id="radioprotector">
-			<text>Radioprotector</text>
+			<text>Rad-Protektor (B190)</text>
 		</string>
 		<string id="enc_radioprotector">
-			<text>%c[255,238,153,26]  %c[default]Duration:%c[255,1,255,1] 60 sec\n%c[255,238,153,26]  %c[default]Protection:%c[255,1,255,1] +150\n%c[default]Radioprotector "Indralin-B190," was part of the personal kits power plant staff. Appeared as a substitute in the Zone too toxic cystamine hydrochloride FC1. Reduces the effects of gamma radiation on the tissues of a living organism. The drug D-190 provides life-saving nine out of ten irradiated in obtaining an absolutely lethal dose of radiation. It is advisable to use pre-emptively, before irradiation, since the drug is not instantaneous. The drug is long-acting</text>
+			<text>\n \n%c[255,220,220,100]Erhöhter Schutz  : %c[255,1,255,1]150 (+)\n%c[255,220,220,100]Wirkungs Dauer   : %c[255,1,255,1]60 sekunden\n%c[default]\n \nDas Strahlenschutzmittel B190 Indraline ist in Medkits enthalten, die an Arbeiter in Kernkraftwerken ausgegeben werden. Es wird in der Zone statt des hochgiftigen PC1 Cystaminhydrochlorids verwendet, das bei wiederholter Einnahme häufig zum Tod führt. Das Mittel schwächt die Wirkung von Gammastrahlung auf lebendes Gewebe ab. Es sollte möglichst vor dem Strahlenkontakt eingenommen werden, weil es nicht sofort wirkt. Die Wirkung des Medikaments hält lange an.</text>
 		</string>
 		<string id="st_drug_anabiotic">
-			<text>Anabiotic</text>
+			<text>Anabiotika</text>
 		</string>
 		<string id="st_drug_anabiotic_descr">
-			<text>%c[255,238,153,26]  %c[default]Duration:%c[255,1,255,1] 5 minute\n%c[default]An experimental drug designed to research groups operating in the zone. Underlying drug tetradotoksin, known as "zombie powder", causes complete paralysis of the central nervous system, which supposedly can help out the shelter to survive ejection. The drug has not been tested in field conditions and failed clinical trials, which casts doubt on its effectiveness, and raises questions about possible side effects</text>
+			<text>\n \n%c[255,220,220,100]Wirkungs Dauer   : %c[255,1,255,1]5 Minuten\n%c[default]\nEin experimentelles Medikament, das von einem Wissenschaftlichen Forschungsteam in der Zone entwickelt wurde. Hauptsächlich enthält es Tetrodotoxin, auch "Zombiepulver" genannt, das das zentrale Nervensystem des Menschen vollständig zum Erliegen bringt. Dadurch steigen die Chancen, auch außerhalb eines sicheren Unterschlupfs eine Emission zu überleben. Das Medikament hat keine Feld- oder klinischen Tests durchlaufen, was Zweifel an seiner Wirksamkeit sorgt und auch die Frage der Nebenwirkungen aufwirft.</text>
 		</string>
 		<string id="st_drug_psy_blockade">
-			<text>Psi-block</text>
+			<text>Psi-Blocker</text>
 		</string>
 		<string id="st_drug_psy_blockade_descr">
-			<text>%c[255,238,153,26]  %c[default]Duration:%c[255,1,255,1] 60 s\n%c[255,238,153,26]  %c[default]Psi-defense:%c[255,1,255,1] +240\n%c[default]Narcotic drug that blocks nerve impulses to an avalanche. Protects against psychic radiation exposure and the controller for a short time or completely eliminates this effect. An interesting side effect: after treatment there is a total blocking of any emotion. In the Zone is used to counteract abnormal fields of increased psy-activity; application outside the Zone does not exist</text>
+			<text>\n \n%c[255,220,220,100]PSI Schutz       : %c[255,1,255,1]240 (+)\n%c[255,220,220,100]Wirkungs Dauer   : %c[255,1,255,1]60 Sekunden\n%c[default]\n \nEin Medikament, das lawinenartige Nervenimpulse abblockt. Die Einnahme sorgt dafür, dass man für eine kurze Zeit alle Emotionen verliert. Es wird ausschließlich in der Zone eingesetzt, um die Einflüsse von anomalen Psi-Feldern auszugleichen. Die Wirkung des Medikaments hält lange an.</text>
 		</string>
 		<string id="st_drug_coagulant">
 			<text>Vinca</text>
 		</string>
 		<string id="st_drug_coagulant_descr">
-			<text>%c[255,238,153,26]  %c[default]Duration:%c[255,1,255,1] 20 s\n%c[255,238,153,26]  %c[default]Healing:%c[255,1,255,1] +30\n%c[default]Vikasol - a synthetic analogue of vitamin C. The main effect is to increase blood clotting. Demand among the stalkers, because it allows the body faster scar lacerations. It has a lasting effect</text>
+			<text>\n \n%c[255,220,220,100]Erhöhter Schutz  : %c[255,1,255,1]30 (+)\n%c[255,220,220,100]Wirkungs Dauer   : %c[255,1,255,1]20 Sekunden\n%c[default]\n \nUkrainisches Vikasolum - ein künstliches Äquivalent zu Vitamin K. Der Hauptzweck dieses Mittels ist die Beschleunigung der Blutgerinnung. Besonders bei Stalkern begehrt, die ihre langsam heilenden Wunden und Verletzungen, die ihnen von Mutanten zugefügt wurden, schneller verheilen lassen wollen. Die Wirkung des Mittels hält lange an.</text>
 		</string>
 		<string id="st_drug_yadulin">
 			<text>Yadulin</text>
 		</string>
 		<string id="st_drug_yadulin_descr">
-			<text>%c[255,238,153,26]  %c[default]Improvement of:%c[255,1,255,1] +45\n%c[255,238,153,26]  %c[default]Reduce hangover:%c[255,1,255,1] 50%\n%c[255,238,153,26]  %c[default]Side effects: severe fatigue and a slight deterioration\n%c[default]The cheapest and widespread in the zone medical preparations for the accelerated healing of minor wounds and withdrawal from the body effects of alcohol. Were found side-effects shortly after taking the drug could dramatically worsen mood, or rolled over severe weakness. The drug is fast acting</text>
+			<text>\n \n%c[255,220,220,100]Gesundheitsschub : %c[255,1,255,1]45 (+)\n%c[255,220,220,100]Kp. Alkohol Abbau: %c[255,1,255,1]50%\n%c[255,220,220,100]Nebenwirkungen   : %c[255,1,255,1]starke Ermüdung, Kopfschmerzen, Unwohlsein\n%c[default]\n%c[default]\n \nDas Billigste und Verbreiteteste Mittel in der Zone um die Heilung zu beschleunigen. Von Kleinen Wunden bis zum Abbau von Alkohol. Nebenwirkungen treten kurz nach Einnahme auf, die sich unterschiedlich auf den Körper auswirken. Das Medikament ist schnell wirkend.</text>
 		</string>
 <!-- OTHER ITEMS -->
 		<string id="wpn_arm_binoc">
-			<text>Army Binoculars</text>
+			<text>Armee Fernglas</text>
 		</string>
 		<string id="wpn_arm_binoc_s">
-			<text>Army Binoculars PNV</text>
+			<text>Armee Fernglas PNV</text>
 		</string>
 		<string id="enc_equipment_dmx_binocul">
-			<text>Portable Army Field-Binoculars with an improved aiming grid. Also equipped with Night-Vision capabilities, which make this particular model well sought after throughout the Zone. Manufactured strictly for Military use oin the late 1980's, extensive field research has proven time, and time again that these Military Binoculars well outmatched their predecessor - the world-famous "Zeiss" Binoculars</text>
+			<text>\n \nPortables Armee Feld-Fernglas mit einem verbesserten Ziel-Raster. Ist mit einer Nachsicht Funktionen ausgestattet. Durch dieses Feature - ist genau dieses Modell so sehr in der Zone gefragt. Das Fernglas wurde ursprünglich in den 80ern von dem Militär hergestellt, mit dem Ziel für Schwere Feld Operationen. Dieses Fernglas hat das weltberühmte "Zeiss" Fernglas - weit übertroffen.</text>
 		</string>
 <!-- NOT USED -->
 		<string id="item_svarog">
-			<text>Detector Svarog</text>
+			<text>Detektor "Svarog" Reihe</text>
 		</string>
 		<string id="item_svarog_info">
-			<text>Detector artifacts Series "Svarog". This detector is the latest leading research institutes. Thanks to nanotechnology, the sensitivity of the detector is increased up to 1.5 miles. The presence of artifacts displayed markers on the map terrain. In addition to their location, the detector detects the types of artifacts, making this unit the best of all the series of detectors</text>
+			<text>\n \nScanners für Anomalie -und Artefakt Frequenzen der "Svarog" Reihe mit erweiterten Funktionen. Dieses Gerät bietet ein Programm, mit dem man statische Gebiete anomaler Aktivität identifizieren und weiterhin Artefakte aufspüren kann. Die Positionen der Anomalie Gebiete und Artefakte werden auf einer speziellen Anzeige dargestellt. Dank der Nanotechnology wurde die Reichweite bis zu 2,4 km erhöht. Die Artefakte werden auf der Karte im PDA Markiert und angezeigt und Anomalien werden anhand ihres Types angezeigt. Das Beste gerät der Reihe!</text>
 		</string>
 <!-- AS OF YET UNUSED -->
 		<string id="item_razgruzka">
-			<text>Tactical Vest</text>
+			<text>Taktische Weste</text>
 		</string>
 		<string id="enc_item_razgruzka">
-			<text>Convenience: 100\nStrength Class: 1\nWeight: 1kg\nThe 'Unloading Vest' is intended for the quick dispersal of ammunition, as well as individual means of emergency medical-aid. Contains ballistic panels to be used as an over-the-uniform multi-purpose Tactical Carrying Vest for serious incursions deep into the most dangerous parts of the ZONE</text>
+			<text>\n \n%c[255,220,220,100]Bequemlichkeit   : %c[255,1,255,1]\n%c[255,220,220,100]Festigkeitsklasse: %c[255,1,255,1]\n%c[default]\n \nRobuste "Weste" für viele Einsatz Möglichkeiten. Neben der Armee wird diese Weste sehr gern von Söldnern und Stalkern getragen. Alle Außenstehenden Taschen besitzen ein Klettverschluss und sind groß genug für Munition und Medizinische Utensilien. Geeignet für Expeditionen tief in die Zone.</text>
 		</string>
 		<string id="timer">
-			<text>Watch</text>
+			<text>Digitale Armband Uhr</text>
 		</string>
 		<string id="enc_timer">
-			<text>Digital clock timer. Specially developed for special units of Russian Army. Shockproof and water resistant, can withstand immersion to 300 metres. Equipped with a timer and sundomerom. New Party were repeatedly stolen hours stalkers Scout warehouse database D-3 Special Forces colonel Bibik and sold wholesale traders in the Zone. Scout for these crimes was three times sentenced to death, but thanks to the notorious syndrome "Fear of Death," the stalker managed to survive the enforcement of sentences</text>
+			<text>\n \nSpeziell Entwickelt für die russische Armee. Shock -und Wasser Resistent. Kann eine Tauch Tiefe, bis zu 300 Meter, überstehen. Ausgestattet mit einer Stoppfunktion 1/1 Sek., Datums Anzeige, Kompass und Leuchtzeige. Das Gehäuse besteht aus Edelstahl und ist mit einer Speziellen Legierung überzogen. Darum kommt noch ein Gummi Schutz. Das Schwarze Ziffernblatt sowie die Zeiger werden von einem hochfeinen Panzerglas geschützt.\n \nDiese Uhr wurde von Stalkern aus den Armeelagern gestohlen oder von dem Colonel - unter der Hand - an die Stalker verkauft. nachdem es Beschwerden gab das immer mehr Lagerbestände dieser Uhr fehlten. Ging die Innere Abteilung, dem auf den Grund und Irgendwann hatte man den Colonel überführt. Durch das Syndrom "Angst vor dem Tod" gelang es dem ehemaligen Colonel sich der Vollstreckung zu entziehen.</text>
 		</string>
 		<string id="mine_1_name">
 			<text>Mine</text>
@@ -335,88 +285,88 @@ Das Kit beinhaltet: \n
 			<text>Mine</text>
 		</string>
 		<string id="mine_1_description">
-			<text>Blast Radius: 1 metre\n  Capacity: 20\n  Detonation Time: 10 seconds\n A mine used by the Military in order to defend a perimeter</text>
+			<text>\n \n%c[221,255,193,255]Waffen Info\n%c[255,255,255,210]Explosionsradius : %c[1,168,255,210]1 Meter\n%c[255,255,255,210]Kapazität        : %c[1,168,255,210]20\n%c[255,255,255,210]Detonationszeit  : %c[1,168,255,210]10 Sekunden\n \n%c[default]\nEine Normale Mine wie vom Militär stammt und benutzt wird, um einen Gebiet  zu sichern.</text>
 		</string>
 		<string id="mine_2_name">
-			<text>"Enhanced" Mine</text>
+			<text>"Verbesserte" Mine</text>
 		</string>
 		<string id="mine_2_name_s">
 			<text>Mine</text>
 		</string>
 		<string id="mine_2_description">
-			<text>Blast Radius: 3 metres\n  Capacity: 35\n  Detonation Time: 10 seconds\n An improved version of the Military mine with a larger blast radius capable of inflicting severe damage</text>
+			<text>\n \n%c[221,255,193,255]Waffen Info\n%c[255,255,255,210]Explosionsradius : %c[1,168,255,210]3 Meter\n%c[255,255,255,210]Kapazität        : %c[1,168,255,210]35\n%c[255,255,255,210]Detonationszeit  : %c[1,168,255,210]10 Sekunden\n \n%c[default]\nEine verbesserte Version der Militärmine mit einem größeren Explosions Radius.</text>
 		</string>
 		<string id="mine_3_name">
-			<text>Electric Mine</text>
+			<text>"Elektrische" Mine</text>
 		</string>
 		<string id="mine_3_name_s">
 			<text>Mine</text>
 		</string>
 		<string id="mine_3_description">
-			<text>Blast Radius: 6 metres\n  capacity: 60\n  Detonation Time: 10 seconds\n Developed by Military Scientists, this explosive device inflicts a severe "electric" discharge, causing serious damage to its victim(s)</text>
+			<text>\n \n%c[221,255,193,255]Waffen Info\n%c[255,255,255,210]Explosionsradius : %c[1,168,255,210]6 Meter\n%c[255,255,255,210]Kapazität        : %c[1,168,255,210]60\n%c[255,255,255,210]Detonationszeit  : %c[1,168,255,210]10 Sekunden\n \n%c[default]\nEntwickelt von Militarischen Wissenschaftler. Diese Mine verursacht eine explosive "elektrische" Entladung.</text>
 		</string>
 		<string id="enc_guitar_name">
-			<text>Acoustic Guitar</text>
+			<text>Klassische Gitarre</text>
 		</string>
 		<string id="enc_guitar_name_s">
 			<text>Guitar</text>
 		</string>
 		<string id="enc_guitar_descr">
-			<text>A typical model, cheaply made in the Czech Republic, and brought into the Zone by an unknown Importer... many STALKERs like to have a little music to go along with their Vodka when relaxing near campfires throughout the Zone</text>
+			<text>\n \nEin Typische Model einer günstigen Gitarre hergestellt in der Tschechischen Republik. Wird überall in der Zone von Stalkern benutzt während sie am Lagerfeuer sitzen, chillen, Anekdoten austauschen und gesellig in der Runde zusammen ein Wodka trinken. Manche von ihnen sind auch sehr gute Sänger die in die Zone gekommen sind.</text>
 		</string>
 		<string id="enc_harmonica_name">
-			<text>Harmonica</text>
+			<text>Mundharmonika</text>
 		</string>
 		<string id="enc_harmonica_name_s">
-			<text>Harmonica</text>
+			<text>Mundharmonika</text>
 		</string>
 		<string id="enc_harmonica_descr">
-			<text>It is believed that these mouth instruments are being brought into the Zone by the same Importer that has managed to smuggle in the vast number of Acoustic Guitars seen all over the place at campfire's throughout the Zone</text>
+			<text>\n \nNeben der Gitarre und dem Wodka auch sehr beliebt. Manche Stalker kann man in der Zone Wandern sehen wie sie auf ihren wegen Musik machen. Jedenfalls haben einige für sich den Blues entdeckt. Wenn zu laut .. kann Mutanten anlocken!!</text>
 		</string>
 		<string id="wpn_smoking">
-			<text>Cigarette</text>
+			<text>Zigarette</text>
 		</string>
 		<string id="enc_wpn_smoking">
-			<text>A simple cigarette. The truth is... no-one actually knows where, and who makes these cigarettes</text>
+			<text>\n \nEine selbstgedrehte einfache Zigarette. Die Wahrheit ist ... niemand weiß, wo, und wer diese Zigaretten dreht!</text>
 		</string>
 		<string id="item_racya">
-			<text>Portable Radio</text>
+			<text>Einfaches "Militärisches" Fungerät</text>
 		</string>
 		<string id="item_racya_s">
 			<text>Radio</text>
 		</string>
 		<string id="enc_item_racya">
-			<text>Military issue hand-radio. Reception Radius is limited to 10 kilometres. Useful for communicating with others throughout the Zone, but it is anyone's guess who might be listening</text>
+			<text>\n \nMilitärische Ausgabe eines Funkgeräts. Der Empfang ist auf 10 Kilometer begrenzt. Nützlich für die Kommunikation mit anderen in der gesamten Zone, allerdings kann jeder mithören der auch so ein Model besitzt.</text>
 		</string>
 		<string id="wpn_fuck">
-			<text>The Finger</text>
+			<text>Der Finger</text>
 		</string>
 		<string id="enc_wpn_fuck">
-			<text>Also known as: the middle finger, the highway salute, the bird (as in flicking, flipping or flying the bird), or to flip someone off, is an obscene hand gesture, often meaning the phrase "fuck you" or "up yours". Not adviseable to go around flipping people the "finger" if you don't want to get shot!</text>
+			<text>\n \nDer Mittelfinger! In vielen Kulturen, zumal Europas, ist der aus der Faust nach oben ausgespreizte Mittelfinger (der Stinkefinger) eine Beleidigung desjenigen, dem er gezeigt wird, und hat das ältere Vogelzeigen (sich mit dem Zeigefinger an die Schläfe tippen) teilweise abgelöst.\n \nIn England ist der Mittelfinger, gemeinsam mit dem Zeigefinger erhoben, eine beleidigende Geste. Dies gilt aber nur, wenn dem Adressaten der Handrücken zugewendet wird. Der Sage nach handelt es sich um ein Relikt aus dem Hundertjährigen Krieg. Da der Mittelfinger zum Spannen der Sehne des englischen Langbogens gebraucht wurde, und so der Schütze daher durch die dicken Schwielen erkannt werden konnte, so drohten die Franzosen angeblich, ihm diesen abzuschlagen. Daher auch die Redensart "Den dicken Finger zeigen".\n \nDem Stinkefinger bezeichnet man umgangssprachlich eine häufig obszön aufgefasste Geste, bei der eine mehr oder weniger geschlossene Hand mit ausgestrecktem Mittelfinger einer Person oder einer Gruppe entgegengestreckt wird. Sie kann als Beleidigung strafrechtlich geahndet werden. Im Deutschen wird die Geste, die im Englischen zumeist schlicht „the finger“ heißt, als "Stinkefinger“ bezeichnet. Der Duden nahm den Begriff erstmals 1996 auf und definiert ihn als „hochgestreckter Mittelfinger, der einer Person – mit dem Handrücken auf sie zu – gezeigt wird, um auszudrücken, dass man sie verachtet, von ihr in Ruhe gelassen werden will“.\n \nBei dem Begriff Stinkefinger handelt es sich im Deutschen um ein Neulexem, das seit Mitte der 1990er Jahre in dieser Bedeutung "mit beleidigender Absicht aufgrund einer momentanen Verärgerung“ in Gebrauch ist. In englischsprachigen Ländern bedeutet die Geste "Fuck you!“ oder "Fuck off!“ (siehe Fuck).\n \nVorher wurde der Begriff anders konnotiert, so definierte der Sexualwissenschaftler Friedrich Salomon Krauss 1905 Stinkefinger machen in einer Auflistung von erotischen Wörtern und Kraftausdrücken der Berliner Mundart als „an der weiblichen Scham mit dem Finger spielen“. In dieser Bedeutung wurde er zum Beispiel auch von Lothar-Günther Buchheim 1973 im Roman Das Boot verwendet. Laut dem Sprachwissenschaftler Hans-Martin Gauger bezieht sich die jetzige Bezeichnung Stinkefinger weniger auf den Bereich des Sexuellen als auf den der Exkremente und Analität, aus dem die deutsche Sprache die meisten ihrer Schimpfwörter nimmt. Im romanischen Ursprung würde die Geste dagegen „rein sexuell“ mit einer fiktiven Androhung einer Penetration gezeigt und, da sie besonders unter Männern gebraucht wird, mit dem Homosexualitätstabu spielen.\n \nIn der Gebärdensprache gehört die Geste nicht zum Repertoire der DGS. In der japanischen Gebärdensprache bedeutet sie aber „großer Bruder“ mit einer kurzen Bewegung nach oben.\n \nDie Schmähgeste war schon im antiken Griechenland und Rom bekannt. Dort symbolisierte sie als Phallussymbol einen erigierten Penis im Sinne einer sexuell konnotierten Drohung.[9] Der kynische Philosoph Diogenes von Sinope soll sie Besuchern der Stadt Athen gezeigt haben, die den berühmten Rhetor Demosthenes sehen wollten; dazu habe er gerufen: „Da habt ihr euren athenischen Demagogen!“.Im Lateinischen bezeichnete man sie als digitus impudicus („schamloser“ oder „unzüchtiger Finger“).\n \nLaut dem US-Linguisten Jesse Sheidlower wurde die Geste Ende des 19. Jahrhunderts in den Vereinigten Staaten von italienischen Immigranten eingeführt. Das erste dokumentierte Bild zeigt, wie auf einem Mannschaftsfoto vom 29. April 1886, dem Eröffnungstag der Baseball National League, Charles Radbourn, Werfer des Baseballclub Boston Beaneaters, die Geste gegenüber den New York Giants, dem Gegner an diesem Tag, macht.\n \nIm deutschsprachigen Raum war die Geste lange wenig bekannt. Belegbar ist, dass sie sich ab den 1960er Jahren als Beleidigungsgeste ausbreitete. So sorgte der US-Sänger Johnny Cash bei einem Auftritt im San Quentin State Prison 1969 durch Pressefotos für eine weite Verbreitung.\n \n</text>
 		</string>
 		<string id="fosfor">
-			<text>Phosphorous Stick</text>
+			<text>Phosphorstäbchen</text>
 		</string>
 		<string id="fosfor_descr">
-			<text>A small stick made of phosphoric material, which is used as a source of light in darkened spaces. Does not require recharging, but over time the glow weakens</text>
+			<text>\n \nEin kleiner Stab mit phosphorhaltigem Material, der als Lichtquelle in dunklen Räumen verwendet werden kann. Erfordert keine Aufladung, aber in einer kurzen Zeit schwächt das Leuchten ab.</text>
 		</string>
 		<string id="car_key">
-			<text>Car Key</text>
+			<text>Autoschlüssel</text>
 		</string>
 		<string id="car_key_s">
-			<text>Car Key</text>
+			<text>Auto Schlüssel</text>
 		</string>
 		<string id="enc_car_key">
-			<text>A car key that seems to have been modified. Supposedly, it may fit some of the vehicles found throughout the Zone</text>
+			<text>\n \nEin Autoschlüssel, der modifizieret wurde. Angeblich soll dieser in einige Modelle passen die so in der Zone rumstehen.</text>
 		</string>
 		<string id="car_key_2">
-			<text>Strange Key</text>
+			<text>Eigenartiger AutoSchlüssel</text>
 		</string>
 		<string id="car_key_2_s">
-			<text>Strange Key</text>
+			<text>Eigenartiger Auto Schlüssel</text>
 		</string>
 		<string id="enc_car_key_2">
-			<text>A key that seems to have many extra facets and a small military symbol on it. Looks like it might fit some of the vehicles found throughout the Zone</text>
+			<text>\n \nEin Auto Schlüssel der eingetartig geformt ist und ein kleines Militärsymbol hat. Sieht aus als könnte er in einige der Fahrzeuge, die in der Zone stehen, passen</text>
 		</string>
 		<string id="bolt_detector_otclik">
 			<text>Response Detector</text>
@@ -425,205 +375,203 @@ Das Kit beinhaltet: \n
 			<text>Response</text>
 		</string>
 		<string id="enc_bolt_detector_otclik">
-			<text>Outdated model of the detector of abnormal activity. Reacts audible signal at the ingress of abnormal particles in a special chamber at the approach to anomalies, in addition, can detect the presence of artifacts and measure the distance to the nearest of them. The distance to the artifact is determined by supply frequency sound. Search mode artifacts include elevated cap antenna on the front panel. Due to simplicity of design is able to find only the most common artifacts</text>
+			<text>\n \nVeraltetes Modell des Detektors für Artefakte. Artefakt Reaktion wird nur anhand eines Geräusch Hörbar gemacht. Das Gerät sendet ein Signal aus sobald der Anwender sich einem Artefakt näher kommt. Die Identifikation der Artefakte geschieht durch eine Integrierte Kammer in der Anomalie Partikeln aufbewahrt werden. Der Abstand zum Artefakt wird durch den Frequenzsound bestimmt. Der Suchmodus erfolgt durch die angebrachte Antenne auf der Vorderseite. Aufgrund der Einfachheit des Designs ist es nur möglich die häufigsten Artefakte zu finden.</text>
 		</string>
 		<string id="bolt_detector_medved">
-			<text>Bear Detector</text>
+			<text>Röntgen (rem) Detektor</text>
 		</string>
 		<string id="bolt_detector_medved_s">
-			<text>The Bear</text>
+			<text>Röntgen</text>
 		</string>
 		<string id="enc_bolt_detector_medved">
-			<text>The detector of abnormal activity of last generation. Equipped with radar anomalous formations and LED display for displaying the direction to the artifact, and is able not only to detect artifacts, but also to determine distance. Search mode artifacts include elevated cap antenna on the front side of the device. Unfortunately, some outdated list of artifacts was hard coded into the device</text>
+			<text>\n \nDetektor der Letzen Generation für Artefakte. Ausgestattet mit einem Radar und einer LED-Anzeige in welcher Richtung -und wie weit entfernt sich das Artefakt befindet. Das Gerät Besitzt an der Vorderseite eine kleine Antenne". Die ist der "Sucher" für das Artefakt. Dadurch das die Liste der Artefakte im Gerät "Hart Codiert" ist, ist dieser Detektor Dementsprechend" veraltet.</text>
 		</string>
 		<string id="bolt_detector_veles">
-			<text>Veles Detector</text>
+			<text>Veles Detektor</text>
 		</string>
 		<string id="bolt_detector_veles_s">
 			<text>Veles</text>
 		</string>
 		<string id="enc_bolt_detector_veles">
-			<text>Detector scanner a new generation that is used by scientists. With three advanced camera location registration artifacts on the detector is displayed on a special screen. Is able to capture the radiation and the presence of anomalies. Search mode artifacts include elevated indicator-board on the front side of the instrument, in this mode is able to detect all known science artifacts</text>
+			<text>\n \nDetektor einer neuen Generation, der von Wissenschaftlern verwendet wird. Zugleich ist dieser Detektor auch ein Scanner. Mit seinen drei Kameras Registriert das Gerät in einem weiten Radius Artefakte. Auf dem Gerät wird im Display die erfasste Strahlung gemessen, sobald eine geortet wird. Für den Suchmodus wird im Display auf der Vorderseite eine Reihe von Information angezeigt. Das Gerät ist im Stande alle bekannten wissenschaftlichen Artefakte zu Orten und zu Scannen.</text>
 		</string>
 		<string id="helmet_stalker">
 			<text>Mask</text>
 		</string>
 		<string id="enc_helmet_stalker">
-			<text>Radiation protection = +60\nA standard gas mask designed to filter the air of radioactive dust and toxic substances. Widely used by both novices and veterans of all armed groups because of its functional indispensability. Not equipped with protection from bullets, shrapnel and mechanical effects</text>
+			<text>\n \n%c[221,255,193,255]Info Schutz Kleidung\n%c[255,255,255,210]Strahlenschutz   : %c[1,168,255,210]+60\n \n%c[default]\nEine Standard-Gasmaske zur Filterung der Luft von radioaktivem Staub und giftigen Stoffen. Weit verbreitet. Wird vor allem von Neulingen und Veteranen aller bewaffneten Gruppen wegen seiner funktionalen Unentbehrlichkeit benutzt und weil sie Günstig ist.... Biete kein Kopfschutz vor Kugeln, Schrapnell und anderen Effekten.</text>
 		</string>
 		<string id="radiation_detector">
-			<text>Research dosimeter</text>
+			<text>Forschungs Dosimeter</text>
 		</string>
 		<string id="enc_radiation_detector">
-			<text>The device is accurate measurement of radiation in a unit of Bear. When you turn on full scans of the owner for radiation. Used mostly by scientists, but sometimes you can find the mother of stalkers</text>
+			<text>\n \nDiese Gerät Misst die Strahlungseinheit Rem (Röntgen*). Wenn es eingeschaltet wird, Scannt es den Besitzer und seine Ausrüstung auf Strahlung. Wird eher von Wissenschaftler und erfahrenen Stalker benutzt.\n \n*Die Einheit Röntgen - Einheitenzeichen "rem" (für englisch roentgen equivalent in man) ist die veraltete Einheit für die Äquivalentdosis, abgeleitet von der Einheit für die Ionendosis Röntgen.\n \nSie wurde am 1. Januar 1978 von der SI-Einheit Sievert (Sv) abgelöst und soll nach Ablauf der Übergangszeit seit 1. Januar 1985 nicht mehr verwendet werden. Allerdings sind noch immer ältere Messgeräte im Umlauf, die diese Einheit aufweisen.\n \n100 Rem entsprechen 01 Sievert.\n001 Rem entsprichen 10 Millisievert.</text>
 		</string>
 		<string id="m_dmx_box">
-			<text>My stuff</text>
+			<text>Mein Zeug</text>
 		</string>
 		<string id="enc_m_dmx_box">
-			<text>Backpack with my belongings</text>
+			<text>\n \nRucksack mit meinen Sachen.</text>
 		</string>
 		<string id="silencers_box">
-			<text>Bag with silencers</text>
+			<text>Tasche mit Schalldämpfern</text>
 		</string>
 		<string id="enc_silencers_box">
-			<text>The bag, which contains all types of silencers for weapons</text>
+			<text>\n \nTasche, die alle Arten von Schalldämpfern für Waffen enthält.</text>
 		</string>
 		<string id="zombie_antiradiation">
-			<text>Antiradin Device</text>
+			<text>Antirad'in Gerät</text>
 		</string>
 		<string id="enc_zombie_antiradiation">
-			<text>This device is intended to protect humans from radiation emitted by zombie. Device in a backpack completely absorbs radiation, which subsequently accumulates in a special container made of similar material, which covered stalker's containers for artifacts. "Antiradin" - expensive, but very useful thing in areas of high PSI activity - in fact most often it can run into a zombie</text>
+			<text>\n \nDiese Gerät schütz Menschen vor Strahlung, die von Zombies abgesondert  werden.\n \nTrägt man es bei sich im Rucksack, absorbiert es vollständig die Strahlung. Das Absorbierte Material wird in einem Speziell dafür vorgesehenen Behälter, ähnlich den Behältern die für Artefakte benutzt werden, aufgefangen. "Antirad'in" ist sehr teuer aber in der Regel sehr nützlich wenn man sich in PSI Starken Strahlungs-Gebieten aufhält, in denen es nur von Zombies so wimmelt.</text>
 		</string>
 		<string id="device_warning_module">
-			<text>Decoder Module</text>
+			<text>Decoder-Modul</text>
 		</string>
 		<string id="enc_device_warning_module">
-			<text>Decoder Module, connected to the PDA. Catches warnings from stalkers. Allows decoding PDA stalkers and withdraw money from them. After all the money in the Zone - electronic</text>
+			<text>\n \nDecoder Modul welches mit dem PDA verbunden ist. Empfängt "Warnungen" von anderen Stalker  und Dekodiert andere PDA's. Kann Automatisch elektronisch das Geld abheben und auf das eigene Konto einzahlen.</text>
 		</string>
 		<string id="mine_detector">
-			<text>Mine detector</text>
+			<text>Minensuchgerät (Scanner Variante)</text>
 		</string>
 		<string id="enc_mine_detector">
-			<text>Compact self-scanning minesweeper. Warns of finding mines beep. Radius sustainable detect mines seven metres</text>
+			<text>\n \nKompakter Scanner/Detektor für Minen. Warnt den Träger mittels einem "Beep" Ton. Der Radius beträgt knappe sieben Meter.</text>
 		</string>
 		<string id="item_ammo_flame_transfer">
-			<text>Generator flame mixture</text>
+			<text>Nachfull Gerat Flammenwerfer</text>
 		</string>
 		<string id="enc_item_ammo_flame_transfer">
-			<text>This device allows you to create a mixture of colloidal gas and gasoline, which can then be used in a flamethrower. To generate the flame mixture must have a gas cylinder, a gas canisters and most flamethrower. After using the generator, Flamethrower is fully charged</text>
+			<text>\n \nDieses Gerät ermöglicht eine Mischung aus "kolloidalem Gas" und "Benzin", das dann in einem Flammenwerfer verwendet werden kann. Zur Erzeugung dieser "Brennbaren Mixtur" benötigt man:\n \n- ein Gaszylinder(*) \n- eine Gasflasche\n- einen Flammenwerfer.\n \n Nach der Verwendung des Generators ist der Flammenwerfer vollständig geladen.</text>
 		</string>
 		<string id="bolt_box">
-			<text>Box with screws</text>
+			<text>Box mit Schrauben</text>
 		</string>
 		<string id="enc_bolt_box">
-			<text>A small box inside of which is ten most common bolts</text>
+			<text>\n \nEine kleine Box mit den am häufigsten vorkommenden zehn Schrauben.</text>
 		</string>
 		<string id="device_torch_bad">
-			<text>Broken Flashlight</text>
+			<text>Kaputte Taschenlampe</text>
 		</string>
 		<string id="enc_device_torch_bad">
-			<text>These lanterns are often out of order. Expiration date not specified. You may need to buy a new one</text>
+			<text>\n \nDiese Leuchten sind oft nicht in Ordnung. Das Ablaufdatum ist nicht angegeben. Möglicherweise - muss eine neue kaufen.</text>
 		</string>
 		<string id="item_car_repair">
-			<text>Automotive repair kit</text>
+			<text>Kfz-Reparatursatz</text>
 		</string>
 		<string id="enc_item_car_repair">
-			<text>Set of tools to almost completely restore the technical condition of the car. Use the set follows directly from the car</text>
+			<text>\n \nSet von Werkzeugen, um den technischen Zustand des Autos fast vollständig wiederherzustellen.\n \nHandbuch Schreibt: Verwenden Sie das Set direkt im Auto.</text>
 		</string>
 <!-- Quest items -->
 		<string id="item_doc_x8">
-			<text>Aleksandrov's Diary</text>
+			<text>Aleksandrov's Tagebuch</text>
 		</string>
 		<string id="enc_item_doc_x8">
-			<text>Our laboratory work did not stop after the second explosion, also, it is not involved in the creation of a "live" weapons in contrast to other laboratories. We have been tasked so - to create a compact, stand-alone weapon. Whom is the so-called Cube Shadow. The technology was invented by his creation of a single subject, which we found in an expedition near the fourth power unit of Chernobyl NPP. This course consisted of an unknown substance, which was stronger than steel in a few thousand times... And not only that all the interesting properties of matter - there were other.\nFour years later, created the first prototype of Cuba shadows. I will not tell its working principle and features, except to say that the cube can "suck" the life energy of every creature and send it to the owner...\nCube of Shadows is the latest development in the history of the laboratory X-8. In fact because of him and began to create something weird. In the course of the next test in the test room explosion. More precisely it was like a very loud bang... I just was not far from the place. Going into it, I saw the bodies of their colleagues - as white medical gowns... All of them were dead... And standing in the middle of a ghost. Most, if I may say so, the real, the ghost!..\nI slammed the door in terror trial in the hall, knowing that it will not help... After that, give the command to evacuate. At this point, as an evil light was extinguished. Could be heard running, screaming, the new "bangs"...\nAs a result, the lab got a total of nine people, including me, and five soldiers. Others did not have time...\nI had to return to his apartment and wait for the decision of the authorities about the incident...\nAll the same, the fact remains - it was after the trial began, Cuba Shadows are strange things... Perhaps, the phantom was placed in the energy sector in Cuba and testing freed... I have to learn this subject sret...\nI've decided. I will take all necessary and sent to the laboratory</text>
+			<text>Wir haben mit unserer Forschung an der "Lebenden" Waffe auch nach der zweiten Explosion nicht aufgehört. Während andere Einrichtungen, die an der Sache mit dran waren, geschlossen wurden -  Haben wir weitergemacht.\n \nUnsere Arbeit bestand darin eine kompakte und eigenständige Waffe zu entwickeln - dies war der Auftrag, an dem sogenannten "Schatten Kubus".\n \nEntdeckt hatten wir ein einzigartiges "Objekt" bei einer Expedition um den vierten Reaktorblock beim AKW in Tschernobyl. Die Oberfläche Bestand aus einem uns unbekannten Material, das tausend Mal stärker war als stahl ...\n \nErstaunlich! .. Aber das war nicht das einzige Merkmal. Es hatte noch so viel mehr interessante Eigenschaften was das Material anging!\n \nVier Jahre Später erschufen wir endlich dann den ersten "Schatten Kubus" Prototyp.\n \nDas Funktionsprinzip und wie es zu bedienen ist Werde ich nicht erläutern. Aber eins kann ich sagen. Der Würfel ist imstande die sogenannte "Lebens Energie" von anderen Individuen abzuziehen und auf dem Träger oder "Besitzer" dann übertragen.\n \nDer "Schatten Kubus" ist die neueste Entwicklung in der Geschichte des Labors X-8.\n \nWährend einer regemäßigen Überprüfung im Testraum fing es sich an zu verändern, sagt man,  und es gab dann eine heftige Explosion. Diese hörte ich aber nur , weil ich nicht vor Ort war. Es  wie ein lauter Knall...\n \nAls ich in den Testraum ging lagen dort nur noch die weißen Kittel von meinen Kollegen und in der Mitte ein halb durchsichtiges Wesen. Es hatte den Anschein von einem Gespenst ... Schatten! Naja.... Ich schaute mich nochmal um ... Sie waren alle tot ...Schnell ging ich nach draußen und schlug die Testraum Tür hinter mir zu - Verriegelte sie... mit dem Gedanken "das es nichts bringt" …\nIn dem Moment kam der Befehl über die Lautsprecher zum Evakuieren und überall ging das Licht aus. Die Lampen fingen dann an rot zu leuchten und sich zu drehen.\n \nIch dem ganzen Trubel hörte ich nur noch Schreie und Mitarbeiter liefen an mir vorbei. Es fielen auch "Schüsse"...\n \nAls ich draußen war hatten es nur neun Leute geschafft. Fünf Soldaten, vier  Wissenschaftler und ich. Für die anderen kam jede Hilfe zu spät.\n \nSpäter musste in meine Wohnung zurückkehren und auf die Entscheidung der Behörden, wegen dem Vorfall, abwarten. Ich machte mir Gedanken...\n \n"Die Tatsache ist doch das wir bei dem Objekt nichts entdecken konnten was auf einer Lebensform in dem Kubus Schließen konnte. Ist es erst durch den Prozess mit den Tests entstanden? Möglich das das Wesen in einem Energiereichen Abschnitt des Kubus gefangen  war und unsere Tests es befreit hätten..."\n \nIch muss es herausfinden.\n \nIch kann nicht warten ... Ich werde alles notwendige einpacken und zum Labor zurück gehen.</text>
 		</string>
 		<string id="dmx_military_map">
-			<text>Map of Army Warehouses</text>
+			<text>Karte von den Armee-Lagerhäuser</text>
 		</string>
 		<string id="dmx_military_map_s">
-			<text>Army Warehouses</text>
+			<text>Armee-Lagerhäuser</text>
 		</string>
 		<string id="enc_dmx_military_map">
-			<text>An old map of the army warehouses. Apparently was made before the second explosion at Chernobyl. On the map, in some places there are a few notes without names.\n \n"To see insert the card into the slot pistol"</text>
+			<text>\n \nEine alte Karte der Armee-Lagerhäuser. Offenbar wurde sie vor der zweiten Explosion in Tschernobyl erstellt. Auf der Karte gibt es an manchen Stellen einige Notizen - aber Namen.\n \n"Um diese Karte anzuzeigen, platzieren sie diese in dem Pistolen Steckplatz/Slot"</text>
 		</string>
 		<string id="fake_cube">
-			<text>Cube Shadow</text>
+			<text>Schatten des Kubus</text>
 		</string>
 		<string id="enc_fake_cube">
-			<text>Qualitatively made mock Cube shadows. Most likely it should look like a real cube</text>
+			<text>Qualitativ hoch gefertigte Kopie. Sollte wohl Wahrscheinlich wie ein echter Würfel aussehen.</text>
 		</string>
 		<string id="dmx_pripyat_map">
-			<text>Map of eastern Pripyat</text>
+			<text>Karte von Pripyat, Östlicher Bezirk</text>
 		</string>
 		<string id="dmx_pripyat_map_s">
-			<text>Eastern Pripyat</text>
+			<text>Pripyat Ost</text>
 		</string>
 		<string id="enc_dmx_pripyat_map">
-			<text>Place on the map marked the evacuation of the laboratory personnel X-8. Marker placed on the building of the BWC "Jubilee".\nOn the back of the card can be seen worn in some places record: "... for speed unlock doors before evacuating the code was changed to a very simple, consisting of a single digit - 1."\n \n"To see insert the card into the slot pistol"</text>
+			<text>\n \nAuf der Karte ist der Evakuierungs Platz für das Laborpersonal von Lab-X8 markiert. Markert wurde das Gebäude BWC "Jubilee".\n \nAuf der Rückseite sthet was geschrieben:\n...Vor der Evakurierung wurde noch ganz schnell der Türcode für die Entreigelung geändert. Bestehend aus - "1"..\n \n"Um diese Karte anzuzeigen, platzieren sie diese in dem Pistolen Steckplatz/Slot"</text>
 		</string>
 		<string id="mudrec_instruments">
-			<text>Repair Tools</text>
+			<text>Reparaturwerkzeuge</text>
 		</string>
 		<string id="enc_mudrec_instruments">
-			<text>A good set of tools. Apparently, the carefully chosen experienced master "for themselves, native." Despite the years, the entire instrument is well preserved</text>
+			<text>\n \nEin guter Satz Werkzeuge. Anscheinend von eimem Erfahrenen Typ sorgfältig ausgewählt. Trotz der Jahre ist das gesamte Set gut erhalten.</text>
 		</string>
 		<string id="item_doc_x8_2">
-			<text>Documents from laboratory X-8</text>
+			<text>Dokumente aus dem Labor X-8</text>
 		</string>
 		<string id="enc_item_doc_x8_2">
-			<text>The documents indicate the technical characteristics of an antenna-radiator and how they differ from predicted. Apparently it is in X-8 developed a plan to create a radiator "Rainbow" (aka Brain Burner). On the reverse side is marked - it shows that this documentation is designed in the laboratory X-10</text>
+			<text>\n \nDieses Dokumente sind Hinweise und zeigen die technischen Eigenschaften zu einer Sende Antenne wie sie sich im Einzelnen zu den anderen Unterscheiden. Anscheinend wurde der Plan einen Emitter "Rainbow" (alias Gehirn Brenner) in X-8 entwickelt und Herzustellen. Auf der Rückseite ist eine Stelle markiert - und zeigt, dass diese Dokumentation im Labor X-10 verfasst worden sind.(*)</text>
 		</string>
 		<string id="item_certificate">
-			<text>Identity soldier</text>
+			<text>Identität für Soldaten</text>
 		</string>
 		<string id="enc_item_certificate">
-			<text>Document certifying that the holder is on the Zone and is in its legal</text>
+			<text>\n \nDokument, das bescheinigt, dass der Inhaber sich Rechtmäßig in der Zone befinden darf.</text>
 		</string>
 		<string id="bipsizon_ogse">
 			<text>"Psihodelin"</text>
 		</string>
 		<string id="enc_equipment_bipsizon">
-			<text>Strange chemical concoction made specifically for abnormal conditions within the Zone. Protects from psi-radiation and the incapacitating influence of Controllers for a short duration, and has been known to be able to disable their influence completely. Developed exclusively for Sciuentific Division Leaders conducting field tests inside of Zone's perimeter. Invented by a Dr."Bibik Voenstalov" and given the codename "Xanth-83". Extremely rare</text>
+			<text>\n \nEigenartiges chemisches Gebräu, das speziell für anomale Zustände innerhalb der Zone entwickelt wurde. Es Schützt vor Psi-Strahlung und dem unzulänglichen Einfluss vor Controllern - für eine kurze Dauer. Es ist dafür bekannt, dass der Telepathische Einfluss sich vollständig deaktivieren lässt. Entwickelt Exklusiv von der Verteidungs.Führung der wissenschaftlichen Abteilung die Feldversuche innerhalb des Zonenbereichs durchführen. Erfunden von einem Dr. "Bibik Voenstalov" und mit dem Codenamen "Xanth-83". Sehr selten.</text>
 		</string>
 		<string id="yod_ogse">
-			<text>Preparation A-190</text>
+			<text>Präparat MRP-190 (kDa-Protein)</text>
 		</string>
 		<string id="enc_equipment_yod">
-			<text>Preparation A-190 (190-kilodaton) has been identified in several multidrug-resistant (MDR) cell lines that show decreased drug accumulation without expression of P-glycoprotein. It is not clear whether this 190k protein is involved directtly in drug efflux. Recently, a gene for a putative transporter protein, MRP (multidrug resistance-assiciated protein) has been sequenced and localized to chromosome 16. The protein encoded by this gene contains a 7-amino-acid sequence present in the synthetic peptide used to generate the antiserum recognizing the 190k protein.Purpose:The study was undertaken to clarify the relationship of the 190k protein to MRP gene expression in non-P-glycoprotein-containing MDR cells of the large-cell and adenocarcinoma cancer lines</text>
+			<text>\n \nVon besonderer Bedeutung für die Arzneistoffentwicklung sind innerhalb der ABC-Transporter die Multidrug-Transporterproteine in Zusammenhang mit der Zytostatika-Resistenz. Krebszellen können gegen strukturell und funktionell sehr unterschiedliche Zytostatika resistent werden. Das Auftreten dieser Multidrug-Resistenz (MDR) korreliert mit der Anwesenheit von Transportproteinen, zu denen aus der Superfamilie der ABC-Proteine die P-Glykoproteine (Pgp) und die Multidrug Resistance-associated Proteine (MRP) gehören. Wirkstoffbindung und -transport korrelieren mit der ATP-Hydrolyse (ATPase-Aktivität). Verantwortlich für die MDR ist eine reduzierte Arzneistoff-Akkumulation in der Krebszelle.\n \nDie an der MDR beteiligten P-Glykoproteine (P für permeability) werden im Menschen durch zwei Gene kodiert (MDR1 und MDR2), die beide auf dem Chromosom 7 lokalisiert sind. Das Produkt des MDR1-Gens ist ein 170 kDa-Membranprotein, das auch als PG-170 bezeichnet wird. P-Glykoproteine  kommen als Multidrug-Transporter auch in normalen Zellen, zum Beispiel von Nieren, Leber und des Intestinaltraktes, vor und wurden in Enterozyten nachgewiesen. P-Glykoproteine wurden offensichtlich während Evolution angelegt, um hydrophobe Substanzen (Xenobiotika) aus Cytoplasma oder Plasmamembran der Zelle nach außen in das extrazelluläre Milieu zu transportieren und die Zelle so zu schützen (drug pump). P-Glykoprotein ist auch in der Blut-Liquor-Schranke enthalten und für den Schutz des Gehirns verantwortlich. Bei der durch Zytostatika oder allgemein durch Xenobiotika erzeugten MDR handelt es sich um eine ektopische Expression von Genen.\n \nMultidrug Resistance-associated Proteine (MRPs) werden durch mindestens fünf Gene (MRP1-5) kodiert. Das MRP1-Produkt ist ein 190 kDa-Protein (MRP-190), das nur über 15 Prozent homologe Aminosäuresequenzen zum P-Glykoprotein verfügt. Das MRP2-Protein der Leber ist ein multispezifischer Transporter für organische Anionen.\n \nZu den Resistenz-erzeugenden Substraten gehören Krebschemotherapeutika wie Anthracycline (Daunorubicin, Doxorubicin), Vinca-Alkaloide (Vincristin, Vinblastin), Epipodophyllotoxine, Taxol oder Actinomycin D. Im allgemeinen handelt es sich dabei um schwache Basen. Zu den MDR-Substraten gehören aber auch das nicht basische Colchicin oder verschiedene Peptide (Gramicidin, Valinomycin). Die Substrate von P-Glykoprotein und MRP1 unterscheiden sich. Während MRP1 an normalen physiologischen Prozessen beteiligt zu sein scheint, ist Pgp vor allem für die Entfernung toxischer Xenobiotika verantwortlich.\n \nSubstanzen, die die MDR wieder aufheben können, werden als MDR-reversal agents (MDR-agents, Pump poisons) oder MDR-Modulatoren bezeichnet. Zu den MDR-Modulatoren (19, 20, 21) gehören Verbindungen sehr unterschiedlicher Struktur und Hauptwirkung wie Verapamil, Dexniguldipin und weitere Dihydropyridine, Propafenon, Amiodaron, Steroide wie Mifepriston, Cyclosporin, Phenothiazine (Trifluperazin) oder Thioxanthene. Auch Dipyridamol dient als Leitsubstanz für die Entwicklung von MDR-Modulatoren. Die MDR-Modulatoren sind lipophil, enthalten meist zwei planare aromatische Ringe und eine positive Ladung bei physiologischem pH-Wert.\n \nEffektive und nicht-toxische MDR-Modulatoren hätten in Kombination mit Krebschemotherapeutika große Bedeutung in der Tumorbehandlung. Die bisherigen klinischen Ergebnisse, zum Beispiel mit Verapamil, sind allerdings wenig erfolgreich, was daran liegen kann, daß die erforderliche relativ hohe Wirkstoffkonzentration am P-Glykoprotein oder MRP1 in vivo nicht erreicht wurde. Der klinische Wert ist noch umstritten. Ferner sind Interaktionen zu erwarten, da auch physiologische Entgiftungsreaktionen gehemmt werden. </text>
 		</string>
 <!-- THE ADDITIONAL DESCRIPTION TO SUBJECT MATTERS OF SALT !TB3D not in 134-->
 		<string id="mushroom">
-			<text>"Magic" Mushroom</text>
+			<text>"Magische" Pilze</text>
 		</string>
 		<string id="enc_equipment_mushroom">
-			<text>%c[255,255,255,255]Radiation %c[255,255,1,1]+10\n%c[default]"Amanita Muscaria" ( commonly known as the "fly agaric" ) is a poisonous and psychoactive basidiomycete fungus, one of many in the genus Amanita. Native throughout the temperate and boreal regions of the Northern Hemisphere. Known for the unpredictability of their effects. Depending on habitat and the amount ingested per body weight, effects can range from nausea and twitching to drowsiness, cholinergic crisis-like effects (low blood pressure, sweating and salivation), auditory and visual distortions, mood changes, euphoria, relaxation, ataxia, and loss of equilibrium. It was referred to as the 'Flesh of the Gods', or 'Food of the Gods' because those who ingested it believed that they were in direct communication with the Earth and the Universe when they consumed this Fungi. The Fly-Agaric was commonly used by the Druids and other "Magic" users. It was considered too powerful for those not trained in the higher levels of the mind</text>
+			<text>\n \n%c[255,220,220,100]Strahlung        : %c[255,1,255,1]+10\n%c[default]\n \nDer Fliegenpilz (Amanita muscaria) ist eine Pilzart aus der Familie der Wulstlingsverwandten. Er ist giftig. Die auch als Roter Fliegenpilz bezeichnete Spezies erscheint in Mitteleuropa von Juni bis zum Winter, hauptsächlich von Juli bis Oktober.Die Fruchtkörper haben ein unverwechselbares Aussehen - leuchtend rote oder gelbe Kappen, gesprenkelt mit weißen Flecken wobei das Mycel selbst eine Symbiose mit Bäumen bildet. Die überwiegende Mehrheit der mykologischen Quellen bezeichnen Amanita Muscaria als giftig und er wird kaum als psychedelisches Rauschmittel verwendet. Die Potenz der Pilze ist nicht vorhersagbar und - genau wie bei magischen Pilzen - variiert stark und löst einen ungewissen Rausch aus (oder auch nicht, es wurde berichtet, daß manche der Pilze überhaupt keine Wirkung hatten). Zahlreiche traditionelle Kulturen nutzen/nutzten diesen (stark unterschätzten) Pilz mit seiner psychoaktiven Substanzen Muscimol (auch bekannt als Muscamol) und Ibotensäure - sie schätzen die psychedelische Effekte, während die späteren Völker es zu einem Fliegenabwehrmittel degradierten, daher der allgemein bekannte Name Fliegenpilz.\n \nTraditionell verwendeten Schamanen die heiligen Amanitas sowohl für geistige, als auch körperliche Heilung. in Kamtschatka wird er in geringen Mengen als Heilmittel für Halsschmerzen eingenommen. Der in der westlichen Medizin meist gemeldete Effekt ist, daß er ein hohes Potential als Analgetikum hat.\n \nEin "Trip" auf Amanita Muscaria ist völlig anders als einer auf Meskalin, LSD oder Psilocybin. Typische Wirkungen sind (unter anderem): verzerrtes und/oder verändertes Gehör und Geschmack, Veränderung der visuellen und sensorischen Wahrnehmung, absolute Ruhe des Geistes und pure Euphorie. Bekannte Nebenwirkungen sind übermäßiger Speichelfluß, Störungen der Bewegungskoordination und leichte Fälle von verstärkter Transpiration. Amanita Muscaria löst - genau wie magische Pilze - einen unberechenbaren Rausch aus, manchmal umwerfend und sollte nur von erfahrenen Benutzern eingenommen werden. Die Dauer einer Amanita Muscaria Erfahrung kann irgendwas von 4 bis 10 Stunden betragen.\n \nWarnungen\nDie Verwendung von Amanita Muscaria ist nicht empfehlenswert, wenn Du Null vorherige Erfahrung mit psychoaktiven Pilze hast - der Trip ist absolut unberechenbar und hausgemachte Extrakte können eine sehr variable Potenz haben.\n \nDie Verwendung von Amanita Muscaria erfordert profundes Wissen - während manche ähnlich wie die "guten" aussehen, sind einige überhaupt nicht psychoaktiv, einige sind essbar und andere Arten der Amanita Gattung sind tödlich giftig. Sei immer 100% sicher, daß Du die richtigen Amanitas ißt!</text>
 		</string>
 		<string id="mushroom2">
-			<text>Holucengenic Mushroom</text>
+			<text>Halluzinogener Pilz</text>
 		</string>
 		<string id="enc_equipment_mushroom2">
-			<text>2   Purple A special mushroom that has mutated due to the affects of close proximity to rare artefacts</text>
+			<text>\n \n2   Ein spezieller Dunkelroter Pilz, der durch die Einwirkungen der Nähe zu seltenen Artefakten mutiert ist.</text>
 		</string>
 		<string id="mushroom3">
-			<text>Radiated Mushroom</text>
+			<text>Verstrahlte Pilze</text>
 		</string>
 		<string id="enc_equipment_mushroom3">
-			<text>3    Green A special mushroom that has mutated due to the affects of close proximity to rare artefacts</text>
+			<text>\n \n3    Ein spezieller Grüner Pilz, der durch die Einwirkungen der Nähe zu seltenen Artefakten mutiert ist.</text>
 		</string>
 		<string id="mushroom4">
-			<text>Power Mushroom</text>
+			<text>Stärke Pilz</text>
 		</string>
 		<string id="enc_equipment_mushroom4">
-			<text>4    Red top A special mushroom that has mutated due to the affects of close proximity to rare artefacts</text>
+			<text>\n \n4    Ein spezieller Roter Pilz, der durch die Einwirkungen der Nähe zu seltenen Artefakten mutiert ist.</text>
 		</string>
 		<string id="mushroom5">
-			<text>Wealth Mushroom</text>
+			<text>Wohlfühlende Pilze</text>
 		</string>
 		<string id="enc_equipment_mushroom5">
-			<text>5    Blue fluoro top. A special mushroom that has mutated due to the affects of close proximity to rare artefacts</text>
+			<text>\n \n5    Ein spezieller Blauer Pilz, der durch die Einwirkungen der Nähe zu seltenen Artefakten mutiert ist.</text>
 		</string>
 <!-- !TB3D -->
 		<string id="bolt_descr">
-			<text>Bolt 32h100. A Stalker's best friend</text>
+			<text>Die Schraube 32x100. Der beste Freund des Stalkers</text>
 		</string>
-<!--	Duplicated from the "string_table_enc_equipment.xml" file - aleks1970	<string id="bolt_descr">		<text>Bolt 32x100. Stalker's best friend</text>	</string> -->
 		<string id="rover_bot_stancion">
-			<text>Station for a mobile robot</text>
+			<text>Station für einen mobilen Roboter</text>
 		</string>
 <!-- !TB3D -->
 		<string id="cigara">
-			<text>Cuban Cigar</text>
+			<text>Kubanische Zigarre</text>
 		</string>
 		<string id="cigara_s">
-			<text>Cuban Cigar</text>
+			<text>Kubanische Zigarre</text>
 		</string>
 		<string id="enc_cigara">
-			<text>Cuban cigars are rolled from tobacco leaves found throughout the country of Cuba. The filler, binder, and wrapper may come from different portions of the island. All cigar production in Cuba is controlled by the Cuban government, and each brand may be rolled in several different factories in Cuba. Cuban cigar rollers or "torcedores" are claimed by cigar experts to be the most skilled rollers in the world. Torcedores are highly respected in Cuban society and culture and travel worldwide displaying their art of hand rolling cigars. These are a rare find in the Zone... and can be worth a lot of Rubles to the right buyer</text>
+			<text>\n \nDie weltweite Verbreitung der Zigarre geht auf die Kolonialzeit zurück. Christoph Columbus soll der erste Europäer gewesen sein, der im 15./16. Jahrhundert auf Kuba mit Tabak in Kontakt kam. Im 18. Jahrhundert brachten britische Seeleute und Soldaten kubanische Zigarren in die nordamerikanischen Kolonialgebiete, wo dann auf neu errichteten Plantagen bald vermehrt Zigarren hergestellt wurden.\n \nWährend des 19. Jahrhunderts war das Zigarrenrauchen in Europa sehr verbreitet und die Herstellung von Zigarren wurde ein wichtiger Industriezweig.\n \nIn Deutschland konzentrierte sich im 19. Jahrhundert die Herstellung auf die Länder Baden und Preußen. Die Tabakarbeiter gehörten zu den ersten Beschäftigtengruppen, die sich der entstehenden Arbeiterbewegung anschlossen. Dabei spielte die Fertigung in manufakturähnlichen Betrieben eine wichtige Rolle. Dort war die Kommunikation untereinander leichter möglich als in den lärmerfüllten Fabriken. Im Jahr der Märzrevolution 1848 gründeten die Berliner Tabakarbeiter die Association der Cigarrenarbeiter Deutschlands, die schnell in 40 weiteren deutschen Städten Nachahmer fand. Diese Organisationen waren jedoch eher kurzlebig, auch weil sie nicht zentral organisiert waren.\n \nKubanische Zigarren werden aus Tabakblättern gerollt, die im ganzen Land Kubas gefunden wurden. Der Füller, das Bindemittel und die Umhüllung können von verschiedenen Teilen der Insel kommen. Die Gesamte Zigarrenproduktion in Kuba wird von der kubanischen Regierung kontrolliert. von Zigarrenexperten behauptet das Kubanische Zigarrenwalzen oder "Torcedores" die besten Walzen der Welt sind. Torcedores sind in der kubanischen Gesellschaft und Kultur und Reisen weltweit hoch angesehen. Kubanische Zigarren sind eine seltene Sache in der Zone ... und kann eine Menge Rubel für den richtigen Käufer wert sein.</text>
 		</string>
-<!--	<string id="cigara">		<text>Cuba Cigar</text>	</string>	<string id="enc_cigara">		<text>This Cuban cigar. In the Zone gets smuggled. According to this, local merchants to sell cigars can be bought and they can not be the same. Tobacco natural, strength and flavor excellent. Complementing the picture beautiful form of cigars, which makes smoking a real pleasure when you consider that we are in the Zone</text>	</string> -->
 		<string id="fake_cigara">
-			<text>This needs to be fixed</text>
+			<text>This needs to be fixed/Dies muss noch behoben werden(*)</text>
 		</string>
 		<string id="sandwich">
 			<text>Sandwich</text>
@@ -632,49 +580,44 @@ Das Kit beinhaltet: \n
 			<text>Sandwich</text>
 		</string>
 		<string id="enc_sandwich">
-			<text>A very basic sandwich using any available meat, or sausage product. The bread doesn't seem to be too stale to eat... will satisfy hunger for the time being, or until something more nutritious comes along</text>
+			<text>\n \nEin sehr einfaches Sandwich mit Fleisch oder Wurst, Käse und billigen Salat inklusive Mayo. Das Brot ist schon ein wenig "trocken" ... wird den Hunger vorerst stillen, bis was besseres kommt.</text>
 		</string>
-<!--	<string id="sandwich">		<text>Sandwich</text>	</string>	<string id="enc_sandwich">		<text>The most common sausage sandwich. Prepared in advance, so that you can eat on the go, without a knife uncovered and not digging in his backpack in search of food ingredients</text>	</string> -->
 		<string id="beer_a">
-			<text>Zone Beer</text>
+			<text>Zonen Bier</text>
 		</string>
 		<string id="beer_a_s">
-			<text>Beer</text>
+			<text>Bier</text>
 		</string>
 		<string id="enc_beer_a">
-			<text>Apparently, this beer is brewed right here in the Zone somewhere. No-one seems to know where, but no-one seems to complain about it either</text>
+			<text>\n \nAnscheinend wird dieses Bier hier in der Zone irgendwo gebraut. Wo - das scheint Niemand wissen, solange es schmeckt will das auch keiner wissen...</text>
 		</string>
-<!--	<string id="beer_a">		<text>Beer</text>	</string>	<string id="enc_beer_a">		<text>Beer of local production. Composition of the course has been written. A good way to get drunk to the blue tomato</text>	</string> -->
 		<string id="flaska">
-			<text>Flask</text>
+			<text>Flasche</text>
 		</string>
 		<string id="flaska_s">
-			<text>Flask</text>
+			<text>Flasche</text>
 		</string>
 		<string id="enc_flaska">
-			<text>A flask filled with clean, spring water... possibly just re-filled from the "Crystal" brand water found throughout the Zone</text>
+			<text>\n \nEin mit sauberem, Quellwasser gefüllte Flasche ohne Marke... wurde vielleicht von der Marke "Crystal" in der Zone wieder aufgefüllt...</text>
 		</string>
-<!--	<string id="flaska">		<text>Flask</text>	</string>	<string id="enc_flaska">		<text>Flask, filled to the edge of water from a pure spring. Cleaner water in these places do not find</text>	</string> -->
 		<string id="sweetness">
-			<text>"Alenka" Chocolate Bar</text>
+			<text>"Alenka" Schokoriegel</text>
 		</string>
 		<string id="sweetness_s">
 			<text>"Alenka"</text>
 		</string>
 		<string id="enc_sweetness">
-			<text>First produced in 1966 in Moscow's Red October Factory following a Kremlin directive to create a new brand of milk chocolate, "Alenka" became a sign of the good times... and a favorite snack of several generations to follow. Ingredients: sugar, dried whole milk, cocoa oil, ground cocoa, emulsifier lecithin E322</text>
+			<text>\n \nIm Jahr 1966 begann man mit der Produktion der bekanntesten Schokolade der Fabrik "Aljonka“, deren Werbeträger ein bekanntes kleines Mädchen ist. Das Mädchen, das auf der Verpackung der Schokolade zu sehen ist, existiert wirklich, es ist die Tochter eines Mitarbeiters der Fabrik, der „Aljonka“ fotografiert hat, als sie acht Monate alt war. Das kleine Mädchen Alenka mit dem Kopftuch sind Kindheitserinnerungen pur für jeden russischen Konsumenten und Stalker.</text>
 		</string>
-<!--	<string id="sweetness">		<text>Bar of chocolate</text>	</string>	<string id="enc_sweetness">		<text>A delicious chocolate bar. Soybeans in excess, the presence of natural cocoa is doubtful. Well satisfies hunger and positive effect on brain activity</text>	</string> -->
 		<string id="box_cigara">
-			<text>Box of Cigars</text>
+			<text>Box von Zigarren</text>
 		</string>
 		<string id="box_cigara_s">
-			<text>Box of Cigars</text>
+			<text>Box von Zigarren</text>
 		</string>
 		<string id="enc_box_cigara">
-			<text>A box of Cuban Cigars... worth a lot of money in a place such as this!</text>
+			<text>\n \nEine Box mit kubanischen Zigarren ... ist eine Menge Geld wert an einem Ort wie diesen!</text>
 		</string>
-<!--	<string id="box_cigara">		<text>Cigar Box</text>	</string>	<string id="enc_box_cigara">		<text>A box with Cuban cigars. Very expensive thing</text>	</string> -->
 		<string id="balalaika_a">
 			<text>Balalaika</text>
 		</string>
@@ -682,271 +625,240 @@ Das Kit beinhaltet: \n
 			<text>Balalaika</text>
 		</string>
 		<string id="enc_balalaika_a">
-			<text>A stringed instrument of Russian origin, with a characteristic triangular body and three strings. The balalaika family of instruments includes, from the highest-pitched to the lowest, the prima balalaika, sekunda balalaika, alto balalaika, bass balalaika and contrabass balalaika. The earliest mention of the term balalaika dates back to a 1688 BC Russian document.The term became widely used in Ukrainian language documents from 1717-1732. According to one theory, it is thought that the term was borrowed into Russian where, in literary language, it first appeared in a poem by V. Maikov "Elysei" in 1771</text>
+			<text>Die Balalaika ist eine Schalenhalslaute, die in der russischen Musik gespielt wird. Das Zupfinstrument hat drei Saiten und einen dreieckigen Resonanzkörper mit sehr kleinem Schallloch. Im Westen ist die Balalaika vor allem als charakteristisches Instrument der russischen Volksmusik bekannt. In Russland gilt sie darüber hinaus als vollwertiges Instrument der E-Musik, das ähnlich wie die Gitarre auch an Hochschulen studiert werden kann.\n \nMöglicherweise wurde die Herkunft der Lauteninstrumente von den Mongolen aus Zentralasien nach Russland gebracht. Frühe Darstellungen zeigen die Balalaika mit zwei bis sechs Saiten. Die frühen Balalaikas waren mit verschiebbaren Bünden versehen, wie es bei der Saz bis heute üblich ist. Im Laufe der Jahrhunderte entwickelte die Balalaika ihren charakteristischen dreieckigen Korpus und bekam einen kürzeren Hals. Die erste namentliche Erwähnung stammt aus dem Jahr 1688, als laut einem Protokoll zwei Personen festgenommen wurden, weil sie "auf der Straße Balalaika spielten und sangen“.\n \nDie Balalaika war jahrhundertelang ein beliebtes Instrument auf dem russischen Land, besonders bei den Skomorochi, einer Art Gaukler, die den Zaren, die russische Kirche und die Gesellschaft aufs Korn nahmen. Aus diesem Grund war das Balalaikaspiel wiederholt verboten worden.\n \nMit Balalaikas werden hauptsächlich Volkslieder oder Tänze begleitet. Im späten 19. Jahrhundert begann der russische Adlige Wassili Wassiljewitsch Andrejew die Balalaika für die Nutzung im Orchester zu standardisieren. Er entwickelte die verschiedenen Größen und deren Stimmungen wie sie heute auch bei großen Balalaikaorchestern verwendet werden, die Transkriptionen von leichteren klassischen Werken spielen. Andrejew brachte auch zwei weitere alte russische Instrumente wieder in Gebrauch: die Domra, ein dreisaitiges Melodieinstrument und die Gusli, eine Brettzither mit dreieckigem oder trapezförmigem Korpus.</text>
 		</string>
-<!--	<string id="balalaika_a">		<text>Balalaika</text>	</string>	<string id="enc_balalaika_a">		<text>Normal balalaika. A wonderful Russian folk instrument. In the Zone, too, lacks the masters of playing</text>	</string> -->
 		<string id="det_artefact_indy">
-			<text>"Response" Artefact Detector</text>
+			<text>"Echo" Artefakt Detector</text>
 		</string>
 		<string id="det_art_indy_info">
-			<text>The "Response" Detector was developed by the Zone's Scientific Community. It was the first model of Detector to surface within the Zone. Detection radius is limited to 40 metres, and the presence of an Artefact is distinguished only by a simple sound. Further developments of this model have led to far more effective devices, which can be difficult to obtain both inside, and outside the Zone's perimeter</text>
+			<text>\n \nDer "Echo" Detector wurde von der Scientific Community in der Zone entwickelt. Es war das erste Modell des Detektors, das innerhalb der Zone auftauchte. Der Erfassungsradius ist auf 40 Meter begrenzt, und das Vorhandensein eines Artefaktes zeichnet sich nur durch einen einfachen Klang aus. Weiterentwicklungen dieses Modells haben es zu weit wirksameren Geräten geführt, die sowohl innerhalb als auch außerhalb der Zone schwierig zu bekommen sind</text>
 		</string>
-<!--	<string id="det_artefact_indy">		<text>Detector artifacts</text>	</string>	<string id="det_art_indy_info">		<text>This is the first detector artifacts, designed by local craftsmen. The device is ineffective because it does not reach over and 40 meters, and the presence of an artifact is recognized only an audible signal. But in its time, with the help of this device has been found so many artifacts</text>	</string> -->
 		<string id="det_art_ultra_super">
-			<text>"Svarog" Artefact Detector</text>
+			<text>"Svarog" Artefakt Detector</text>
 		</string>
 		<string id="det_art_ultra_super_s">
 			<text>"Svarog"</text>
 		</string>
 		<string id="enc_det_art_ultra_info">
-			<text>The last known invention to come out of the Scientific Research Institute. Using advanced "Nanotechnology", this sensitive detector can detect Artefacts from as far away as 1.5 km, and displays such finds on the user's map. Besides their precise location, this excellent detector can distinguish the type of Artefact found. This alone, sets it apart from all other models. "Svarog" - ( Old Slavic mythological God of the sky, the father of the sun and fire )</text>
+			<text>\n \nDie letzte bekannte Erfindung des Forschungsinstituts. Mit Hilfe der fortschrittlichen "Nanotechnologie" kann dieser empfindliche Detektor Artefakte von weit entfernten (~1,5 km) erkennen und zeigt diese auf der Karte ("Minimap oder PDA Karte") des Benutzers an. Neben seiner genauen Position kann dieser hervorragende Detektor auch die Art und Klasse des gefundenen Artefaktes unterscheiden. Dies allein, unterscheidet es von allen anderen Modellen.\n \n"Svarog" - (altslawischer mythologischer Gott des Himmels, der Vater der Sonne und des Feuers)</text>
 		</string>
-<!-- Duplicated string id's from "string_table_arhara.xml" and the "string_table_enc_equipment.xml" files.TB. you should choose only one string id and delete the rest - aleks1970 -->
-<!-- before was "det_art_ultra_info" id(which was also duplicated), but now have new string to match "items.ltx" file - aleks1970 -->
-<!--	<string id="enc_det_art_ultra_info">		<text>Artifact Detector Series 'ULTRA'. This detector is the latest created by local scientists. Thanks to nanotechnology, the sensitivity of the detector is increased to one hundred meters. The presence of Artifacts displays markers on the map. In addition to their location, the detector detects the types of Artifacts, which makes this unit the best of all the series of detectors to hunt for Artifacts. Activated when in the pistol slot</text>	</string>	<string id="enc_det_art_ultra_info">		<text>This is an improved version of the detector artifacts, past upgrades among scientists. Added map of the area with the output label on it. Range increased to 70 meters. In connection with the reasonable price and improved performance, its use is considered preferable</text>	</string> -->
 		<string id="detektor_amorf">
-			<text>Isomorphic Detector</text>
+			<text>Isomorphischer Detektor</text>
 		</string>
 		<string id="detektor_amorf_s">
-			<text>Isomorphic Detector</text>
+			<text>Isomorphischer Detektor</text>
 		</string>
 		<string id="detektor_amorf_info">
-			<text>Detector able to detect items containing particles of an Alien power and display these items on the map within a radius of fifty to sixty metres, also beeps. It is also possible to locate Artifacts. Activated when in the pistol slot</text>
+			<text>Detektor der in der Lage ist, Gegenstände die Partikel einer "Ausserirdischen(*)" Kraft zu erfassen und diese Elemente auf der Karte innerhalb eines Radius von fünfzig bis sechzig Meter, durch Signaltöne, zu erkennen. Es ist auch möglich damit Artefakte zu lokalisieren.\n \nHandbuch Schreibt: Um es zu verwenden, Platzieren sie es in den Pistolen Steckplatz (Slot).\n \n \n \nMarty2Base: Echt "Alien Power?"</text>
 		</string>
-<!--	<string id="detektor_amorf">		<text>The detector is isomorphic</text>	</string> -->
 		<string id="detector_elite_john">
-			<text>Ultra Detector</text>
+			<text>Ultra Detektor</text>
 		</string>
 		<string id="detector_elite_john_s">
-			<text>Ultra Detector</text>
+			<text>Ultra Detektor</text>
 		</string>
-<!--	<string id="detector_elite_john">		<text>Detector Holograms</text>	</string> -->
 <!-- DOCUMENTS AKIM -->
 		<string id="doc_garbage">
-			<text>Old documents from the Dump</text>
+			<text>Alte Dokumente von der "Müllhalde"</text>
 		</string>
 		<string id="doc_garbage_s">
-			<text>Old documents</text>
+			<text>Alte Dokumente</text>
 		</string>
 		<string id="enc_doc_garbage">
-			<text>Documents found at the Dump. Some sort of Scientific formula.... written in an incomprehensible language. By the looks of it - could quite easily be the senseless scribblings of a lunatic</text>
+			<text>Diese Dokumente hab ich bei der "Müllhalde" gefunden. Irgendeine  wissenschaftliche Formel .... in einer wirklich unverständlichen Sprache geschrieben.\n \nWenn man sich das so ansieht  - könnte auch einfach das Gekritzel eines Verrückten sein.</text>
 		</string>
-<!--	<string id="doc_garbage">		<text>Old paper from the landfill</text>	</string>	<string id="enc_doc_garbage">		<text>Documents found in the Garbage. Formula, write a foreign language. By type - ravings of a madman</text>	</string> -->
 		<string id="doc_agro">
-			<text>Old documents from Agroprom</text>
+			<text>Alte Dokumente aus Agroprom</text>
 		</string>
 		<string id="doc_agro_">
-			<text>Old documents</text>
+			<text>Alte Dokumente</text>
 		</string>
 		<string id="enc_doc_agro">
-			<text>A stack of documents found in the Catacombs beneath the Agroprom Institute. Some sort of formula written in a language I don't understand. Very strange indeed</text>
+			<text>Ein Stapel von Dokumenten aus den tiefen Katakomben unter dem Agroprom Forschungsinstitut. Irgendeine Formel in einer Sprache, die ich nicht Kapiere. Sehr merkwürdig.</text>
 		</string>
-<!--	<string id="doc_agro">		<text>Old paper with agricultural industry</text>	</string>	<string id="enc_doc_agro">		<text>A stack of documents found in the catacombs of agricultural industry. Formula, write a foreign language. By type - not very much like the previous</text>	</string> -->
 		<string id="doc_x18_1">
-			<text>Old Document - Part I</text>
+			<text>Altes Dokument - Teil 1 (Dunkles Tal)</text>
 		</string>
 		<string id="doc_x18_1_s">
-			<text>Part I</text>
+			<text>Teil 1</text>
 		</string>
 		<string id="enc_doc_x18_1">
-			<text>Documentation found in the Dark Valley. Appears to be the first part of something more in depth</text>
+			<text>Dokument aus dem "Dunklen Tal". Scheint wohl nur der erste Teil sein...</text>
 		</string>
-<!--	<string id="doc_x18_1">		<text>The old document. Part I</text>	</string>	<string id="enc_doc_x18_1">		<text>Documents found in Dark Valley. By all appearances this is the first part</text>	</string> -->
 		<string id="doc_x18_2">
-			<text>Old Document - Part II</text>
+			<text>Altes Dokument - Teil 2 (Laboratorium X-18)</text>
 		</string>
 		<string id="doc_x18_2_s">
-			<text>Part II</text>
+			<text>Teil 2</text>
 		</string>
 		<string id="enc_doc_x18_2">
-			<text>The second part of a series of Documents to be found in Laboratory X-18</text>
+			<text>Der zweite Teil einer Reihe von Dokumenten, die im Laboratorium X-18 zu finden waren.</text>
 		</string>
-<!--	<string id="doc_x18_2">		<text>The old document. Part II</text>	</string>	<string id="enc_doc_x18_2">		<text>The second part doumentov found in the laboratory X-18</text>	</string> -->
 		<string id="doc_x18_3">
-			<text>Old Document - Part III</text>
+			<text>Altes Dokument - Teil 3 (Laboratorium X-18)</text>
 		</string>
 		<string id="doc_x18_3_s">
-			<text>Part III</text>
+			<text>Teil 3</text>
 		</string>
 		<string id="enc_doc_x18_3">
-			<text>The third part of a series of Documents to be found in Laboratory X-18</text>
+			<text>Der dritte Teil einer Reihe von Dokumenten, die im Laboratorium X-18 zu finden waren.</text>
 		</string>
-<!--	<string id="doc_x18_3">		<text>The old document. Part III</text>	</string>	<string id="enc_doc_x18_3">		<text>The third part doumentov found in the laboratory X-18</text>	</string> -->
 		<string id="doc_x18_4">
-			<text>Old Document - Part IV</text>
+			<text>Altes Dokument - Teil 4 (Laboratorium X-18)</text>
 		</string>
 		<string id="doc_x18_4_s">
-			<text>Part IV</text>
+			<text>Teil 4</text>
 		</string>
 		<string id="enc_doc_x18_4">
-			<text>The fourth part of a series of Documents to be found in Laboratory X-18</text>
+			<text>Der vierte Teil einer Reihe von Dokumenten, die im Laboratorium X-18 zu finden waren.</text>
 		</string>
-<!--	<string id="doc_x18_4">		<text>The old document. Part IV</text>	</string>	<string id="enc_doc_x18_4">		<text>Last quarter of doumentov found in the laboratory X-18</text>	</string> -->
 		<string id="doc_x16">
-			<text>Old Document from Laboratory X-16</text>
+			<text>Altes Dokument aus dem Laboratorium X-16</text>
 		</string>
 		<string id="doc_x16_s">
-			<text>Old X-16 Document</text>
+			<text>Altes X-16 Dokument</text>
 		</string>
 		<string id="enc_doc_x16">
-			<text>Documentation found inside Laboratory X-16. A series of Scientific Formulas written in a language I do not understand. Apparently this is the last portion of a series of Documents which make up some sort of Report on Secretive Experiments throughout the Zone... It is signed by a one 'Benjamin Linus' of the Dharma Initiative... what does this mean?!.... and, who/what is this Dharma Initiative I keep seeing all over the place!?</text>
+			<text>Diese Dokument habe ich im Labor X-16 gefunden. Eine Reihe von wissenschaftlichen Formeln in einer Sprache, die ich als "Nicht  Wissenschaftler" überhaupt nicht verstehe.\n \nAnscheinend ist es wohl der letzte Teil einer Reihe von Dokumenten, die über ein geheimes Experiment  berichten was mit der gesamten Zone zu tun hat.\n \nEs wurde von einem 'Benjamin Linus' der Dharma-Initiative unterzeichnet ... was bedeutet das ?! .... und wer oder was ist diese Dharma-Initiative, die ich immer wieder sehe?(*)</text>
 		</string>
-<!--	<string id="doc_x16">		<text>Old document from the X-16</text>	</string>	<string id="enc_doc_x16">		<text>Documents found in the laboratory X-16. Formula, write a foreign language. Apparently this is the last part of the documents found</text>	</string> -->
 		<string id="pda_info">
-			<text>Broken PDA</text>
+			<text>Kaputter PDA</text>
 		</string>
 		<string id="pda_info_s">
 			<text>PDA</text>
 		</string>
 		<string id="enc_pda_info">
-			<text>A typical PDA, which in the zone a lot. Besides - a non-working and bruised. It is seen that the former owner was with him, not very thrifty. Activate the PDA can not be due to a broken screen. Flash cards do not. So fuck anything</text>
+			<text>\n \nEin typischer PDA wie man ihn in der Zone überall antrifft und findet. Dieser hier funktioniert nicht und hat ein Sprung in der Scheibe... Der ehemalige Besitzer war wohl nicht gerade sorgsam damit umgegangen. Der PDA läßt sich nicht aktivieren, gibt als keine möglichkeit den Inhalt auf einem USB Stick zu übertragen. Komme so nicht an die System Einstellung ran... Fuck nochmal!</text>
 		</string>
-<!--	<string id="pda_info">		<text>Broken PDA</text>	</string>	<string id="enc_pda_info">		<text>A typical PDA, which many in the Zone. Besides - a non-working and bruised. It is evident that the former owner was with him not very frugal. Insert a PDA can not be due to a broken screen. Flash card no. In general, nothing can fuck</text>	</string> -->
 		<string id="hand_teleporter_arhara">
-			<text>Defective hand teleporter</text>
+			<text>Defekter Mobile Teleporter</text>
 		</string>
 		<string id="hand_teleporter_arhara_s">
-			<text>Defective teleporter</text>
+			<text>Defekter Teleporter</text>
 		</string>
-<!--	<string id="hand_teleporter_arhara">		<text>Faulty manual teleportator</text>	</string> -->
 		<string id="hand_teleporter">
-			<text>Hand teleporter</text>
+			<text>Mobile Teleporter</text>
 		</string>
 		<string id="hand_teleporter_s">
-			<text>Hand teleporter</text>
+			<text>Mobile Teleporter</text>
 		</string>
-<!--	<string id="hand_teleporter">		<text>Hand teleportator</text>	</string> -->
 <!-- Documents on the Hood -->
 		<string id="bloknot_pantera">
-			<text>Panther's Notebook</text>
+			<text>Panther's Notizbuch</text>
 		</string>
 		<string id="bloknot_pantera_s">
-			<text>P. Notebook</text>
+			<text>P. Notizbuch</text>
 		</string>
 		<string id="enc_equipment_bloknot_pantera">
-			<text>Panther's personal notebook. It contains several indecipherable phrases, and the following code: 25190456... can be viewed by placing it in the first weapon slot:</text>
+			<text>\n \nPanther's persönliches Notizbuch. Es enthält mehrere nicht verschlüsselbare Phrasen, und darunter den folgende %c[255,220,220,100]Code: %c[255,1,255,1]25190456%c[default] ... \n \nHandbuch Schreibt: Um die Information einzusehen, Platzieren sie das Objekt in den ersten Waffen Steckplatz (Slot).</text>
 		</string>
-<!--	Duplicated string id from the "string_table_enc_equipment.xml" file - aleks1970	<string id="bloknot_pantera">		<text>Panthers Notebook</text>	</string>	<string id="enc_equipment_bloknot_pantera">		<text>Personal notebook Panthers. It was written a few sentences and some code: 25,190,456. To view a document, insert in pistol slot</text>	</string> -->
 		<string id="dosye_zvez">
-			<text>The "Astrologer" file</text>
+			<text>Profil Akte vom "Astrologe"</text>
 		</string>
 		<string id="dosye_zvez_s">
-			<text>Astrologer Profile</text>
+			<text>Astrologe Profil</text>
 		</string>
 		<string id="enc_equipment_dosye_zvez">
-			<text>A file containing information on the "Astrologer"... can be viewed by placing it in the first weapon slot:</text>
+			<text>\n \nEine Datei, die Informationen über den "Astrologen" ... enthält\n \nHandbuch Schreibt: Um die Information einzusehen, Platzieren sie das Objekt in den ersten Waffen Steckplatz (Slot).</text>
 		</string>
-<!--	Duplicated string id from the "string_table_enc_equipment.xml" file - aleks1970	<string id="dosye_zvez">		<text>Astrologer Profile</text>	</string>	<string id="enc_equipment_dosye_zvez">		<text>Quick profile on Astrologer. Insert in Pistol slot to view</text>	</string> -->
 		<string id="foto_kukla">
-			<text>Photo of a Doll</text>
+			<text>Foto von einer Puppe</text>
 		</string>
 		<string id="foto_kukla_s">
-			<text>Photo</text>
+			<text>Foto</text>
 		</string>
 		<string id="enc_equipment_foto_kukla">
-			<text>An old photograph of a child's toy doll... can be viewed by placing it in the first weapon slot:</text>
+			<text>\n \nEin altes Foto einer Spielzeug Puppe von einem Kind ... \n \nHandbuch Schreibt: Um es anzusehen, platzieren sie das Objekt in den ersten Waffen Steckplatz (Slot).</text>
 		</string>
-<!--		Duplicated string id from the "string_table_enc_equipment.xml" file - aleks1970	<string id="foto_kukla">		<text>Photo Doll</text>	</string>	<string id="enc_equipment_foto_kukla">		<text>Old photo normal infant dolls. Insert in Pistol slot to view</text>	</string> -->
 		<string id="pilot_zapiska">
-			<text>the Pilot's Letter</text>
+			<text>Pilotenbrief</text>
 		</string>
 		<string id="pilot_zapiska_s">
-			<text>Letter</text>
+			<text>Brief</text>
 		</string>
 		<string id="enc_equipment_pilot_zapiska">
-			<text>The Helicoptor Pilot's letter... which contains some very important information... can be viewed by placing it in the first weapon slot:</text>
+			<text>Der Brief von dem Helikopter Pilot ..., der einige sehr wichtige Informationen enthält ... \n \nHandbuch Schreibt: Um die Information einzusehen, Platzieren sie das Objekt in den ersten Waffen Steckplatz (Slot).</text>
 		</string>
-<!--	Duplicated string id from the "string_table_enc_equipment.xml" file - aleks1970	<string id="pilot_zapiska">		<text>Letter to the pilot</text>	</string>	<string id="enc_equipment_pilot_zapiska">		<text>Letter from a helicopter pilot with important information. Insert in Pistol slot to view</text>	</string> -->
 		<string id="foto_chaes_truba">
-			<text>Photo of the Pilot</text>
+			<text>Foto des Piloten</text>
 		</string>
 		<string id="foto_chaes_truba_s">
-			<text>Photo</text>
+			<text>Foto</text>
 		</string>
 		<string id="enc_equipment_foto_chaes_truba">
-			<text>The photograph of the burned helicoptor taken by the Pilot. In it, the large pipe alongside the burned helicopter can be seen clearly... can be viewed by placing it in the first weapon slot:</text>
+			<text>\n \nDas Foto des verbrannten Hubschraubers das von Piloten aufgenommen wurde. Deutlich zu sehen wie der Hubschrauber an einer grossen Rohrleitung sich  "verkettet" hat.\n \nHandbuch Schreibt: Um es anzusehen, platzieren sie das Objekt in den ersten Waffen Steckplatz (Slot).</text>
 		</string>
-<!--	Duplicated string id from the "string_table_enc_equipment.xml" file - aleks1970	<string id="foto_chaes_truba">		<text>Photo Driver</text>	</string>	<string id="enc_equipment_foto_chaes_truba">		<text>Photo taken a helicopter pilot. It is visible to a large pipe with the burning helicopter. Insert in Pistol slot to view</text>	</string> -->
 		<string id="foto_aver_mono">
-			<text>Group Photo</text>
+			<text>Gruppen Foto</text>
 		</string>
 		<string id="foto_aver_mono_s">
-			<text>Photo</text>
+			<text>Foto</text>
 		</string>
 		<string id="enc_equipment_foto_aver_mono">
-			<text>Photograph of the group that burned the helicoptor... can be viewed by placing it in the first weapon slot:</text>
+			<text>\n \nFoto der Gruppe, die in dem Hubschrauber verbrannt und umgekommen sind... \n \nHandbuch Schreibt: Um es anzusehen, platzieren sie das Objekt in den ersten Waffen Steckplatz (Slot).</text>
 		</string>
-<!--	Duplicated string id from the "string_table_enc_equipment.xml" file - aleks1970	<string id="foto_aver_mono">		<text>Photo of</text>	</string>	<string id="enc_equipment_foto_aver_mono">		<text>Group photo, fired on the helicopter. Insert in Pistol slot to view</text>	</string> -->
 		<string id="foto_aver_zvezd">
-			<text>Photo of the group "Leader"</text>
+			<text>Foto von dem "Anführer" der Gruppe</text>
 		</string>
 		<string id="foto_aver_zvezd_s">
-			<text>Photo</text>
+			<text>Foto</text>
 		</string>
 		<string id="enc_equipment_foto_aver_zvezd">
-			<text>Photograph of the Leader of the group that burned the helicoptor... can be viewed by placing it in the first weapon slot:</text>
+			<text>\n \nFoto von dem "AnFührer" der Gruppe, die in dem Hubschrauber verbrannt sind ... \n \nHandbuch Schreibt: Um es anzusehen, platzieren sie das Objekt in den ersten Waffen Steckplatz (Slot).</text>
 		</string>
-<!--	Duplicated string id from the "string_table_enc_equipment.xml" file - aleks1970	<string id="foto_aver_zvezd">		<text>Photos of the leader</text>	</string>	<string id="enc_equipment_foto_aver_zvezd">		<text>Photos of the leader who fired on the helicopter. Insert in Pistol slot to view</text>	</string> -->
 		<string id="chaes2_karta_kluk">
-			<text>Photo of the NPP</text>
+			<text>Foto vom Tchernobyl AKW</text>
 		</string>
 		<string id="chaes2_karta_kluk_s">
-			<text>Chernobyl</text>
+			<text>Tchernobyl</text>
 		</string>
 		<string id="enc_equipment_chaes2_karta_kluk">
-			<text>Photograph of the northern side of the Chernobyl NPP. There is a mark on it possibly indicating the way to the southern side of the NPP... can be viewed by placing it in the first weapon slot:</text>
+			<text>\n \nFoto von der Nordseite des Tschernobyl-AKW. Es gibt eine Markierung darauf, die möglicherweise den Weg zur südlichen Seite des AKW ... anzeigt\n \nHandbuch Schreibt: Um es anzusehen, platzieren sie das Objekt in den ersten Waffen Steckplatz (Slot).</text>
 		</string>
-<!--	Duplicated string id from the "string_table_enc_equipment.xml" file - aleks1970	<string id="chaes2_karta_kluk">		<text>Chernobyl Photo</text>	</string>	<string id="enc_equipment_chaes2_karta_kluk">		<text>Photo northern region of Chernobyl. It marked a rough passage on the other - the south side of the Chernobyl NPP. Insert in Pistol slot to view</text>	</string> -->
 		<string id="kreditka">
-			<text>Credit Card</text>
+			<text>Kredit Karte</text>
 		</string>
 		<string id="kreditka_s">
-			<text>Credit Card</text>
+			<text>Kredit Karte</text>
 		</string>
 		<string id="enc_equipment_kreditka">
-			<text>A Credit Card issued from the Bank of America with a $5000,000 limit on it!... can be viewed by placing it in the first weapon slot:</text>
+			<text>\n \nEne von der "Bank of America" ausgegebene Kreditkarte mit einem Limit von $ 5000.000! ... \n \nHandbuch Schreibt: Um es zu verwenden, Platzieren sie es in den ersten Waffen Steckplatz (Slot)</text>
 		</string>
-<!--	Duplicated string id from the "string_table_enc_equipment.xml" file - aleks1970	<string id="kreditka">		<text>Credit Card</text>	</string>	<string id="enc_equipment_kreditka">		<text>Credit Card Bank of America in denominations 5 mil. USD. To view the credit card insert in pistol slot</text>	</string> -->
 		<string id="razved_karta">
-			<text>Map Fragments</text>
+			<text>Karten Fragment</text>
 		</string>
 		<string id="razved_karta_s">
-			<text>Map Fragments</text>
+			<text>Karten Fragment</text>
 		</string>
 		<string id="enc_equipment_razved_karta">
-			<text>Old scraps of a map containing directions, or coordinates of some sort... can be viewed by placing it in the first weapon slot:</text>
+			<text>\n \nAltes Stück einer Karte, die Richtungen enthält, oder Koordinaten  ... \n \nHandbuch Schreibt: Um die Information einzusehen, Platzieren sie das Objekt in den ersten Waffen Steckplatz (Slot).</text>
 		</string>
-<!--	Duplicated string id from the "string_table_enc_equipment.xml" file - aleks1970	<string id="razved_karta">		<text>Scrap maps</text>	</string>	<string id="enc_equipment_razved_karta">		<text>Old scrap card with the coordinates of the transition. Insert in Pistol slot to view</text>	</string> -->
 		<string id="karta_peschera">
-			<text>Cave Map</text>
+			<text>Höhlenkarte</text>
 		</string>
 		<string id="karta_peschera_s">
-			<text>Map</text>
+			<text>Karte</text>
 		</string>
 		<string id="enc_equipment_karta_peschera">
-			<text>Old map of the caves... somebody has scribbled some possible directions on it... hard to decipher... maybe the way out of here?!... can be viewed by placing it in the first weapon slot:</text>
+			<text>\n \nAlte Karte der Höhle ... jemand hat irgendwelche Richtungen darauf gekritzelt ... schwer zu entziffern ... könnte der Weg nach draussen sein ...!\n \nHandbuch Schreibt: Um die Information einzusehen, Platzieren sie das Objekt in den ersten Waffen Steckplatz (Slot).</text>
 		</string>
-<!--	Duplicated string id from the "string_table_enc_equipment.xml" file - aleks1970	<string id="karta_peschera">		<text>Map of Cave</text>	</string>	<string id="enc_equipment_karta_peschera">		<text>An old map of the Cave. It shows all the moves and tunnels. There's also a label with the outputs of the Cave. Insert in Pistol slot to view</text>	</string> -->
 		<string id="recipi_bpb">
-			<text>STALKERs Note</text>
+			<text>Stalker Notiz</text>
 		</string>
 		<string id="recipi_bpb_s">
-			<text>STALKERs Note</text>
+			<text>Stalker Notiz</text>
 		</string>
 		<string id="enc_equipment_recipi_bpb">
-			<text>Unidentified STALKERs' note... there appears to be information here regarding being able to modify certain Artefacts!?... sounds interesting... can be viewed by placing it in the first weapon slot:</text>
+			<text>\n \nUnbekannter STALKER-Hinweis ... schein sich um Informationen zu handeln, wie man bestimmte Artefakte modifizieren kann ...? ... klingt interessant ... \n \nHandbuch Schreibt: Um die Information einzusehen, Platzieren sie das Objekt in den ersten Waffen Steckplatz (Slot).</text>
 		</string>
-<!--	Duplicated string id from the "string_table_enc_equipment.xml" file - aleks1970	<string id="recipi_bpb">		<text>Note stalker</text>	</string>	<string id="enc_equipment_recipi_bpb">		<text>Note an unknown stalker. There is information on the modification of the artifacts. Insert in Pistol slot to view</text>	</string> -->
 		<string id="stukach_book">
-			<text>Informant's Notebook</text>
+			<text>Informant's Notizbuch</text>
 		</string>
 		<string id="stukach_book_s">
-			<text>Notebook</text>
+			<text>Notizbuch</text>
 		</string>
 		<string id="stukach_book_desc">
-			<text>Notebook belonging to the "Freedom" informant. It contains information about modifying Artefacts... can be viewed by placing it in the first weapon slot:</text>
+			<text>\n \nNotizbuch von eimem Informanten der "Freiheit". Es enthält Informationen über das Modifizieren von Artefakten ... \n \nHandbuch Schreibt: Um die Information einzusehen, Platzieren sie das Objekt in den ersten Waffen Steckplatz (Slot).</text>
 		</string>
-<!-- from the "string_table_enc_equipment" file - aleks1970		<string id="stukach_book">		<text>Notebook informer</text>	</string>	<string id="stukach_book_s">		<text>Notebook informer</text>	</string>	<string id="stukach_book_desc">		<text>Notebook informer group of Liberty. There is information about the new artmod. Insert in Pistol slot to view</text>	</string> -->
-<!-- from the "sak_strings" file - aleks1970		<string id="stukach_book_desc">		<text>To view: insert the Laptop into the first slot.\nPavliks laptop. Besides some boring financial records, it contains a recipe for 'Artpreobrazovaniya'</text>	</string> -->
 	</string_table>
-<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96h ( 2017/02/01) =!!= Last changed: 10.02.2017 01:28:58 -->
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96h ( 2017/02/01) =!!= Last changed: 13.02.2017 03:29:46 -->
