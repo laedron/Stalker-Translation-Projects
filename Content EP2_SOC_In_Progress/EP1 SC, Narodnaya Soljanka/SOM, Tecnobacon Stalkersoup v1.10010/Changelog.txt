@@ -1,9 +1,9 @@
 SOM (Standalone Modifkation): Tecnobacon Stalkersoup v1.10010
-Übersetzung English -> Detusch
+Ãœbersetzung English -> Detusch
 
 XML Dateien 100%: (Diese Dateien sind 100% Deutsch, Es kann aber sein
-das es noch nicht so wirklich die Qualität wiederspiegelt. Das Kommt
-später wenn ich das Spiel -richtig- spiele)
+das es noch nicht so wirklich die QualitÃ¤t wiederspiegelt. Das Kommt
+spÃ¤ter wenn ich das Spiel -richtig- spiele)
 //============================================//
 - amk_escape_dialogs
 - amk_flame_dialogs
@@ -25,7 +25,7 @@ XML Dateien, Fast Fertig oder in Arbeit:
 - ui_st_pda
 - tb3d_dialogs_arhara_start
 - stable_dialogs_escape
-- dmx_mod_items
+- dmx_mod_weapons
 
 //============================================//
 Changelog 12.02.2017
@@ -42,14 +42,14 @@ Kleinere Korrekturen, Bessere Lesbarkeit
 - dmx_mod_encyclopedia
 
 Texturen
-	detail = 3 High Resolution Hinzugefügt
+	detail = 3 High Resolution HinzugefÃ¼gt
 		(Eine Kommt Via Foto aus Hamburg)
 	
-	docs = Resolution (512x512), Übersetzte texturen
-		(Dafür wird die doc_view.ltx benötigt)
+	docs = Resolution (512x512), Ãœbersetzte texturen
+		(DafÃ¼r wird die doc_view.ltx benÃ¶tigt)
 		(In der sind die neuen Position Koord. drin)
 
-	ui      = Entfernt den lästigen Circle
+	ui      = Entfernt den lÃ¤stigen Circle
 	wpn   = Scar (Von Crysis) benutzt die High Resolution
 		Texturen.
 
@@ -59,7 +59,7 @@ Changelog 10.02.2017
   Ein Paar Minimal "Return Zeichen" (\n) Fixes
 
 - dmx_mod_encyclopedia
-  100% Übersetzt, Ein paar Gramatische Verbesserungen.
+  100% Ãœbersetzt, Ein paar Gramatische Verbesserungen.
 
 //============================================//
 Changelog 09.02.2017
@@ -70,8 +70,8 @@ Changelog 09.02.2017
   Gammatikel Fixes
 
 - dmx_mod_dialogs
-  Der letzte rest der Datei ist in der Eng. Fassung eine Maschine Übersetzung,
-  Mit der Original Ru. Fassung abgeglichen und neu übersetzt.
+  Der letzte rest der Datei ist in der Eng. Fassung eine Maschine Ãœbersetzung,
+  Mit der Original Ru. Fassung abgeglichen und neu Ã¼bersetzt.
 
 //============================================//
 
