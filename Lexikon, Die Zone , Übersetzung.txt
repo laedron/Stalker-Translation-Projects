@@ -7,7 +7,7 @@ Agroprom							=	Agroprom
 //																						//
 //--------------------------------------------------------------------------------------//
 //																						//
-	Army warehouses						=	Armeelager Häuser
+	Army warehouses						=	Armee-Lagerhäuser
 //																						//
 //--------------------------------------------------------------------------------------//
 //																						//
@@ -262,10 +262,8 @@ Waffen Information:
 
 %c[221,255,193,255]Waffen Info\n
 %c[255,255,255,210]Munition  : %c[1,168,255,210]\n
-%c[255,255,255,210]Gewicht   : %c[1,168,255,210]\n
 %c[255,255,255,210]Kapazität : %c[1,168,255,210]\n
 %c[255,255,255,210]Verbaut   : %c[1,168,255,210]n/a\n
-%c[255,255,255,210]Feuerrate : %c[1,168,255,210]Keine Angabe\n
 %c[255,255,255,210]Länge     : %c[1,168,255,210]Keine Angabe\n 
 %c[255,255,255,210]Lauflänge : %c[1,168,255,210]Keine Angabe\n
 %c[255,255,255,210]Reichweite: %c[1,168,255,210]Keine Angabe\n \n
@@ -273,8 +271,14 @@ Waffen Information:
 %c[250,150,150,250]Art       : %c[1,168,255,210]Keine Angabe\n
 %c[250,150,150,250]Modis     : %c[1,168,255,210]Keine Angabe\n \n
 %c[221,255,193,255]Optionales Zubehör\n
-• n/a\n \n
+%c[250,150,150,250]n/a\n \n
 %c[221,255,193,255]Beschreibung\n%c[default]
+
+// Sub Info
+// Buckshot = Schrot/ Schrotladung
+// Slug		= Massiv
+// Dart		= Spitzgeschosse
+
 
 
 Mutanten
@@ -297,18 +301,44 @@ Mutanten
 
 
 ========================================================================================
+Waffen Minen
+%c[221,255,193,255]Waffen Info\n
+%c[255,255,255,210]Explosionsradius : %c[1,168,255,210]\n
+%c[255,255,255,210]Kapazität        : %c[1,168,255,210]\n
+%c[255,255,255,210]Detonationszeit  : %c[1,168,255,210]\n \n
+%c[default]\n
+
+========================================================================================
+Waffen Masken/Helme
+%c[221,255,193,255]Info Schutz Kleidung\n
+%c[255,255,255,210]Strahlenschutz   : %c[1,168,255,210]\n \n
+%c[default]\n
+
+========================================================================================
 Item Info: Medizin
-%c[255,220,220,100]Stärke            : %c[255,1,255,1]\n
-
-%c[255,220,220,100]Erhöhte Ausdauer : %c[255,1,255,1]%\n
-%c[255,220,220,100]Reduziert. Hunger: %c[255,1,255,1]%\n
-
-%c[255,220,220,100]Gesundheitsschub : %c[255,1,255,1]%\n
-%c[255,220,220,100]Blutung stillen  : %c[255,1,255,1]%\n
+%c[255,220,220,100]Stärke           : %c[255,1,255,1]\n
+%c[255,220,220,100]Kp. Alkohol Abbau: %c[255,1,255,1]\n
+%c[255,220,220,100]Erhöhte Ausdauer : %c[255,1,255,1]\n
+%c[255,220,220,100]Erhöhter Schutz  : %c[255,1,255,1]\n
+%c[255,220,220,100]Wirkungs Dauer   : %c[255,1,255,1]\n
+%c[255,220,220,100]PSI Schutz       : %c[255,1,255,1]\n
+%c[255,220,220,100]Reduziert. Hunger: %c[255,1,255,1]\n
+%c[255,220,220,100]Gesundheitsschub : %c[255,1,255,1]\n
+%c[255,220,220,100]Blutung stillen  : %c[255,1,255,1]\n
 %c[255,220,220,100]Packungs Menge   : %c[255,1,255,1]\n
 %c[255,220,220,100]Nebenwirkungen   : %c[255,1,255,1]\n
+%c[255,220,220,100]Strahlung        : %c[255,1,255,1]\n
 %c[default]\n \n
 
+========================================================================================
+Item Info: Outfits/ Vesten
 
+
+%c[255,220,220,100]Bequemlichkeit   : %c[255,1,255,1]\n
+%c[255,220,220,100]Festigkeitsklasse: %c[255,1,255,1]\n
 
 \nBeschreibung Fehlt, auch in der Original Englischen Stalkersoup Version\nKommt dann Später
+
+\n \nHandbuch Schreibt: Um es zu verwenden, Platzieren sie es in den ersten Waffen Steckplatz (Slot).
+\n \nHandbuch Schreibt: Um die Information einzusehen, Platzieren sie das Objekt in den ersten Waffen Steckplatz (Slot).
+\n \nHandbuch Schreibt: Um es anzusehen, platzieren sie das Objekt in den ersten Waffen Steckplatz (Slot).
