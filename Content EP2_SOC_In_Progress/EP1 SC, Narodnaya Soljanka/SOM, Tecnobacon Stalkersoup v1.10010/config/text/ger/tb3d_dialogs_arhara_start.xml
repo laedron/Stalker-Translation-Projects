@@ -36,10 +36,10 @@
 	</string>
 <!-- SWAMP DOCTOR -->
 	<string id="kordon_doctor_dialog_0">
-		<text>Hallo. Was brauchst du?</text>
+		<text>Ah-ha! Da bist du ja?</text>
 	</string>
 	<string id="kordon_doctor_dialog_1">
-		<text>Der "Astrologe" hat mich geschickt. Ich habe Probleme mich zu erinnern. Ich weiß nicht einmal, wer ich bin. Mein Körper ist ein einziger schmerz, und mein Kopf fühlt sich an, als wäre er als Sandsack missbraucht worden! Er bat mich auch, Ihnen zu sagen. Dass er auf Sie wartet - hinter der Brücke. Er meinte - Sie würden es verstehen. Können sie was für mich tun?</text>
+		<text>Ja? .. Der "Astrologe" hat mich geschickt. Ich habe Probleme mich zu erinnern. Ich weiß nicht einmal, wer ich bin. Mein Körper ist ein einziger schmerz, und mein Kopf fühlt sich an, als wäre er als Sandsack missbraucht worden! Er bat mich auch, Ihnen zu sagen. Dass er auf Sie wartet - hinter der Brücke. Er meinte - Sie würden es verstehen. Können sie was für mich tun?</text>
 	</string>
 	<string id="kordon_doctor_dialog_2">
 		<text>Hmm... Du sagst dass du dich nicht erinnern kannst wer du bist? Nun - ich weiß wer du bist. Aber dafür haben wir jetzt keine Zeit. Ich werde später wiederkommen und nach dir sehen. Hier, trinke diese Medizin und Ruhe dich erstmal für eine Weile aus.\n \nWenn du wach bist, gehe zum Händler hier im Lager. Sein Name ist Sidorovich. Er wird dich auf den richtigen Pfad  bringen. Es macht absolut keinen Sinn jetzt zu ihm zugehen. Er wird, wie alle hier, solange du nicht die Medizin genommen hast, nicht mit dir Sprechen wollen. Der Geruch des Toten Laster begleitet dich zurzeit überall hin, als hättest du eine Flasche vom Stärksten Parfum aus Douglas. \n \nTrinke die Medizin und leg dich hin. Wenn du aufwachst, dann sprichst du mit Sidorovich. So - Ich muss nun los mich mit dem "Astrologen" treffen. Angenehme Träume... Gezeichneter. Wir sehen uns wieder, das verspreche ich dir ...</text>
@@ -129,16 +129,16 @@
 	</string>
 <!-- SCREW MISSION COMPLETE -->
 	<string id="arhara_shurup_atp_propusk_0">
-		<text>Hi, Screw. I've got some good news for you...</text>
+		<text>Hi, Techniker. Ich habe ine paar tolle Neuigkeiten...</text>
 	</string>
 	<string id="arhara_shurup_atp_propusk_1">
-		<text>You've been gone a long time. I thought maybe the Zone had taken you!</text>
+		<text>Aha ... Du warst ganz schön lange weg. Ich habe schon angenommen das du dich in der Zone verlaufen hast!</text>
 	</string>
 	<string id="arhara_shurup_atp_propusk_2">
-		<text>Here - this bloody thing weighs a ton! I'm glad to be rid of it...</text>
+		<text>Hier - das verdammte ding wiegt ja'ne Tonne! Bin froh es loszuwerden...</text>
 	</string>
 	<string id="arhara_shurup_atp_propusk_3">
-		<text>Thank you very much. It'll certainly make my life a lot easier here. Here's a Controller's Brain you'll need for Lukash's job. It came from a Controller in NPP1. If you've not found another one yet, you'll need to go to NPP2, in Chernobyl North. That place is full of Controllers, so you're bound to find one there...</text>
+		<text>Vielen Dank.\n \nDas macht es mir aber um einiges leichter. Hier ist das "Gehirn eines Controller's" das du für den Job von "Lukash" benötigst. Es kommt von einem Controller im AKW1. Sollten dort keine seien, sind die im Nördlichen Teil von Tchernobyl - AKW2. Da muss du hin. Sei aber auf der Hut. Dort wirst du mitsicherheit weitere finden.</text>
 	</string>
 <!-- CHERNOBYL-2 TRANSITION MISSION -->
 	<string id="ugrum_perexod_0">
@@ -1005,4 +1005,4 @@
 		<text>Still a deals a deal and you get what you got off the trash we just took out. But at least you tried and we won't forget that</text>
 	</string>
 </string_table>
-<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96h ( 2017/02/01) =!!= Last changed: 08.02.2017 23:24:27 -->
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96h ( 2017/02/01) =!!= Last changed: 17.02.2017 01:11:52 -->
