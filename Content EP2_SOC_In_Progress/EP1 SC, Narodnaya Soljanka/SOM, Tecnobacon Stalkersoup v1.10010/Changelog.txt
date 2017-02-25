@@ -2,9 +2,9 @@ SOM (Standalone Modifkation): Tecnobacon Stalkersoup v1.10010
 Übersetzung English -> Detusch
 
 XML Dateien 100%: (Diese Dateien sind 100% Deutsch, Es kann aber sein
-das es noch nicht so wirklich die Qualität wiederspiegelt. Das Kommt
+das es noch nicht so wirklich die Qualität widerspiegelt. Das Kommt
 später wenn ich das Spiel -richtig- spiele)
-//============================================//
+//=============================================================================================//
 - amk_escape_dialogs
 - amk_flame_dialogs
 - amk_reload_dialogs
@@ -18,14 +18,52 @@ später wenn ich das Spiel -richtig- spiele)
 - ui_st_inventory
 - ui_st_keybinding
 
-//============================================//
+		//===========================================================================//
 
-XML Dateien, Fast Fertig oder in Arbeit:
-- aem_strings
-- ui_st_pda
-- tb3d_dialogs_arhara_start
-- stable_dialogs_escape
-- dmx_mod_weapons
+		XML Dateien, Fast Fertig oder in Arbeit:
+		- aem_strings
+		- ui_st_pda
+		- tb3d_dialogs_arhara_start
+		- stable_dialogs_escape
+		- dmx_mod_weapons
+
+		//===========================================================================//
+		
+		Sonstige Änderungen
+		Inventory Icon , Weapon Fixes (textures\ui_icon_equipment.dds)
+			> config\weapons\dmx_mod\w_m4a1\w_m4a1.ltx
+			  Icon hatte falsche Position Angabe= x:31, y:2, zeigte die Hälfte vom Brecheisen.
+		      Neues Icon Eingef𧴮 Neue Positions Angabe= x:47, Y:45
+		  
+		  
+		Waffen Offset Korrekturen (Kimme und Korn)
+			config\weapons\dmx_mod\w_scar.ltx
+			config\weapons\dmx_mod\w_scar_new.ltx
+			config\weapons\dmx_mod\w_fnc_red_dote.ltx
+		
+		
+		Texturen (Übersetzte Docs und Karten)
+		textures\docs								(Neue Versionen und Varianten)
+		
+		Texturen (HD und 4096x4096)
+		textures\crete\crete_dirty1_gr.dds			(selbst erstellt vom Foto)
+		textures\detail\detail_grnd_asphalt.dds		(etwas Dunkler)
+		textures\detail\detail_grnd_earth.dds		(selbst erstellt vom Foto)
+		textures\detail\detail_grnd_earth.dds		(selbst erstellt vom Foto)
+		textures\ston\ston_stairs1.dds				(selbst erstellt vom Foto)
+		
+		Texturen Änderungen
+		texture\ui\cursor							(Entfernt den lästigen Kreis, Fadenkreuz
+		textures\wpn\crysis_scar					(Benutzt die Originale HD Textuere von Crysis)
+		textures\wpn\wpn_mpk						(Hd Texture, Eigene und Teilsweise von CS Mire, Danke)
+
+		//===========================================================================//
+		Sonstiges:
+		Es gibt eine Waffen Konfig zuviel. 
+		Löscht die "GameData\config\weapons\dmx_mod\w_desert_eagle_new "
+		Richig, von den Config's gibt es zwei. Eine Config hat ein Space.
+//=============================================================================================//
+
 
 //============================================//
 Changelog 14.02.2017
@@ -35,7 +73,7 @@ In Arbeit
 Optische Korrekturen
 - arsenal_mod
 - davros_items
-=======
+
 
 //============================================//
 Changelog 12.02.2017
