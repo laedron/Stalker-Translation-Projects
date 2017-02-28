@@ -37,11 +37,9 @@ später wenn ich das Spiel -richtig- spiele)
 		  
 		  
 		Waffen Offset Korrekturen (Kimme und Korn)
-			config\weapons\dmx_mod\w_scar.ltx
-			config\weapons\dmx_mod\w_scar_new.ltx
-			config\weapons\dmx_mod\w_fnc_red_dote.ltx
-		
-		
+			config\weapons\dmx_mod\*.ltx
+
+			
 		Texturen (Übersetzte Docs und Karten)
 		textures\docs								(Neue Versionen und Varianten)
 		
@@ -57,9 +55,13 @@ später wenn ich das Spiel -richtig- spiele)
 		textures\wpn\crysis_scar					(Benutzt die Originale HD Textuere von Crysis)
 		textures\wpn\wpn_mpk						(Hd Texture, Eigene und Teilsweise von CS Mire, Danke)
 
+		Sound:
+		Nano Anzug: sounds\meceniy\outfit\*.ogg (Ins deutsche gebracht, bin mit dem Result nicht ganz zufriden)
+		Wichtig: Dazu die scripts\meceniy_outfit.scipt
+		Im Englishen Unterordner findet sich die Englische version sowie die Ru. Original version
 		//===========================================================================//
 		Sonstiges:
-		Es gibt eine Waffen Konfig zuviel. 
+		Es gibt eine Waffen Konfig zuviel. (Diese Liegt in den DB Archiv)
 		Löscht die "GameData\config\weapons\dmx_mod\w_desert_eagle_new "
 		Richig, von den Config's gibt es zwei. Eine Config hat ein Space.
 //=============================================================================================//
