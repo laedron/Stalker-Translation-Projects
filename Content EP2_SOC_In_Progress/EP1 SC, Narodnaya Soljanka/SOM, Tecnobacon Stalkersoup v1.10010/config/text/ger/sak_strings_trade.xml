@@ -162,7 +162,7 @@
 		<text>Hey, Rat?</text>
 	</string>
 	<string id="krysyk_start_dialog_2">
-		<text>Krysjuk! My surname is Krysjuk!</text>
+		<text>Krysjuk! My name is Krysjuk!</text>
 	</string>
 	<string id="krysyk_11_dialog_0">
 		<text>Okay! Calm down, I know Rat's not your real name! I have some business for you...</text>
@@ -463,7 +463,7 @@
 		<text>This is great, now it is possible to make new modification on the PDA! Here, take the PDA. It is now adjusted to detect Burers within 40-50 metres</text>
 	</string>
 	<string id="bar_docent_6dialog_4">
-		<text>Now, these ugly Burer creatures will become extinct in the ZONE...</text>
+		<text>Now, these ugly Burer creatures will become extinct in the Zone...</text>
 	</string>
 	<string id="bar_docent_7dialog_0">
 		<text>Greetings, Senior lecturer...</text>
@@ -487,7 +487,7 @@
 		<text>Yes, please advise me which mutant to choose first!</text>
 	</string>
 	<string id="bar_docent_dialog_5">
-		<text>I Suspect the most dangerous:\n - Burer,\n - Chimera,\n - Librarian,\n - Warewolf,\n - Bloodsucker,\n - Pseudo-Giant,\n - and the Controller.\nWhich one are you interested in detecting?</text>
+		<text>Well, I've chosen the most dangerous:\n - Burer,\n - Chimera,\n - Librarian,\n - Werewolf,\n - Bloodsucker,\n - Pseudogiant,\n - Controller.\nWhich would you prefer?</text>
 	</string>
 	<string id="bar_docent_dialog_54">
 		<text>Werewolf. those creepy night creatures brrr...</text>
@@ -517,7 +517,7 @@
 		<text>For proper adjustment I need hand of the Librarian, 1 hand and 30 Military PDAs</text>
 	</string>
 	<string id="bar_docent_dialog_74">
-		<text>I will find these Werewolf paws and bring the PDAs! No more hiding places in the ZONE for them...</text>
+		<text>I will find these Werewolf paws and bring the PDAs! No more hiding places in the Zone for them...</text>
 	</string>
 	<string id="bar_docent_dialog_75">
 		<text>These Chimeras. I often come across on to them, I will bring their claws and the PDAs</text>
@@ -575,16 +575,16 @@
 		<text>Blinn! I have no idea where he could be...</text>
 	</string>
 	<string id="bar_docent_npc_dialog_721">
-		<text>For Jurika I search, business I have with him.</text>
+		<text>I'm looking for Yurik. I have business with him</text>
 	</string>
 	<string id="bar_docent_npc_dialog_722">
-		<text>It is necessary to find Bes.</text>
+		<text>I need to find Bes</text>
 	</string>
 	<string id="bar_docent_npc_dialog_723">
-		<text>A conversation with Mole is necessary.</text>
+		<text>I need to talk with Mole...</text>
 	</string>
 	<string id="bar_docent_npc_dialog_731">
-		<text>This Bandit, Krysjuk "The Rat". I need to find him...</text>
+		<text>This bandit, Krysjuk the Rat. I need to find him...</text>
 	</string>
 	<string id="bar_docent_npc_dialog_732">
 		<text>Guide I want to find.</text>
@@ -653,7 +653,7 @@
 		<text>Medical Supplies...</text>
 	</string>
 	<string id="trade_dialog_sidor_5">
-		<text>Field Repair Kits...</text>
+		<text>Field repair kits...</text>
 	</string>
 	<string id="trade_dialog_sidor_21">
 		<text>I can offer the following:\n \n1. 12x70 buck for a Medusa artefact\n2. RG-5 Grenades(x2) for a Quirk artefact\n3. 5.45x39mm cartridges for a Droplet artefact\n4. 7.62x39mm cartridges for a Stone Blood artefact</text>
@@ -743,22 +743,22 @@
 		<text>You've got yourself a deal...</text>
 	</string>
 	<string id="trade_dialog_sidor_51">
-		<text>Here's the deal:\n \n1. armor Repair Kits in exchange for a Gravi artefact\n2. Weapon Repair Kits in exchange for a Stone Flower artefact...</text>
+		<text>Here's the deal:\n \n1. Armor repair kits in exchange for a Gravi artefact\n2. Weapon repair kits in exchange for a Stone Flower artefact...</text>
 	</string>
 	<string id="trade_dialog_sidor_52">
-		<text>I'll take the armor Repair Kits...</text>
+		<text>I'll take the Armor repair kits...</text>
 	</string>
 	<string id="trade_dialog_sidor_53">
-		<text>I'll need the Weapon Repair Kits...</text>
+		<text>I'll need the Weapon repair kits...</text>
 	</string>
 	<string id="trade_dialog_sidor_522">
-		<text>Three 10% armor Repair Kits for one Gravi...</text>
+		<text>Three 10% Armor repair kits for one Gravi...</text>
 	</string>
 	<string id="trade_dialog_sidor_521">
 		<text>Sounds good to me...</text>
 	</string>
 	<string id="trade_dialog_sidor_532">
-		<text>Three 10% Weapon Repair Kits for one Stone Flower</text>
+		<text>Three 10% Weapon repair kits for one Stone Flower</text>
 	</string>
 	<string id="trade_dialog_sidor_531">
 		<text>There can't be enough said about keeping your Weapons in check...</text>
@@ -1232,7 +1232,7 @@
 		<text>First-aid sets I will take...</text>
 	</string>
 	<string id="trade_dialog_skraga_43">
-		<text>In the ZONE without Antirad you will not live...</text>
+		<text>You won't survive for long in the Zone without Antirads...</text>
 	</string>
 	<string id="trade_dialog_skraga_422">
 		<text>For five first-aid sets one Medusa... agree?</text>
@@ -1268,10 +1268,10 @@
 		<text>Yes, I accept...</text>
 	</string>
 	<string id="sidor_repair_dialog_0">
-		<text>Can you explain for me how I go about using this Repair Kit?..</text>
+		<text>I've never seen this type of repair kit before. How do I use it?</text>
 	</string>
 	<string id="sidor_repair_dialog_1">
-		<text>To use the Kit : Open it up, and use salvaged parts that you pick up.. the Repairs to the armor will be applied to the armor being worn at present. In the case of Weapons, the repairs will be applied to the weapon that is currently equipped. If something is too badly damaged, then repairs of any sort may NOT be possible, and you should receive a PDA message indicating so... Quite simple, really...</text>
+		<text>Simple - When you open it up, it'll scan all the weapons and armor you're carrying, and inform you which ones can be used for spares. You select which items should be salvaged, but be careful not to choose your own kit! Repairs to your weapons will be the ones you're holding, not in your backpack. Repairs to armor will be to what you're wearing. If your kit's too badly damaged, then it may be beyond simple repair. The unit will send a message to your PDA via Bluetooth, and you'll need to see a weapons or armor specialist. If you're carrying something like a detector instead of a pistol, the kit won't recognise it, and you'll get a message telling you to put it away. That's all - just play with it. Oh, a useful tip - if you're ever in a place where you can't carry all the loot you find, then strip it down for spare parts instead. That'll also prevent other bastards finding it, and using it against you...</text>
 	</string>
 	<!--string id="sidor_repair_dialog_2">
 		<text>And what is this parts bag for?</text>
@@ -1292,7 +1292,7 @@
 		<text>Cartridges, grenades, a bullet-proof vest...</text>
 	</string>
 	<string id="trade_dialog_sak_3">
-		<text>Good Weapons...</text>
+		<text>Good weapons...</text>
 	</string>
 	<string id="trade_dialog_sak_4">
 		<text>First-aid...</text>
@@ -1301,7 +1301,7 @@
 		<text>Repair sets...</text>
 	</string>
 	<string id="trade_dialog_sak_21">
-		<text>I Can offer:\n1. Sniper cartridges for an artefact a Meat Chunk;\n2. Cartridges 9x39 to the Shaft and Vintorez for an artefact of Gravi;\n3. Charges for the Gauss for an artefact Fireball;\n4. Excellent Army CKAT-10 for armor for 3 Urchin artefacts</text>
+		<text>I Can offer:\n1. Sniper cartridges for an artefact a Meat Chunk;\n2. Cartridges 9x39 to the Shaft and Vintorez for an artefact of Gravi;\n3. Charges for the Gauss for an artefact Fireball;\n4. Excellent Army SKAT-10 for armor for 3 Urchin artefacts</text>
 	</string>
 	<string id="trade_dialog_sak_54">
 		<text>Nothing at the moment, thanks...</text>
@@ -1385,7 +1385,7 @@
 		<text>And what you ask?</text>
 	</string>
 	<string id="trade_dialog_sak_43">
-		<text>In the ZONE without vodka you will not live...</text>
+		<text>You won't survive for long in the Zone without vodka...</text>
 	</string>
 	<string id="trade_dialog_sak_422">
 		<text>For three first-aid sets one the Crystal Prickle... agree?</text>
@@ -1547,13 +1547,13 @@
 		<text>Yes, I will take.</text>
 	</string>
 	<string id="trade_dialog_jlob_0">
-		<text>And who are you?</text>
+		<text>Hi, who are you?</text>
 	</string>
 	<string id="trade_dialog_jlob_11">
-		<text>I'm in charge of provisions here. We need supplies badly, I can make it worth your while.</text>
+		<text>My name's Core. I'm in charge of provisions here. We're looking for people who can get food for us. I can make it worth your while...</text>
 	</string>
 	<string id="trade_dialog_jlob_12">
-		<text>Do you have weapons and ammo? What kind of supplies do you need?</text>
+		<text>What do you need? And what are you offering?</text>
 	</string>
 	<string id="trade_dialog_jlob_1">
 		<text>We don't need any money or artefacts. Those Duty bastards are trying to cut off our supplies and starve us out. And so far they have been doing a good job of it. What we need is food and fresh water. If you can get some beer and cigars that would be great also.</text>
@@ -1658,10 +1658,10 @@
 		<text>Vodka... you can never have enough, gimme...</text>
 	</string>
 	<string id="trade_dialog_jlob_51">
-		<text>Repair Kits:\n1. Three "Zone" Beer will get you one Armor Repair-Kit\n2. Three Cuban Cigar will get you one Weapon Repair-Kit</text>
+		<text>Repair kits:\n1. Three "Zone" Beer will get you one Armor repair kit\n2. Three Cuban Cigar will get you one Weapon repair kit</text>
 	</string>
 	<string id="trade_dialog_jlob_52">
-		<text>I,ll take the armor kit.</text>
+		<text>I'll take the Armor kit.</text>
 	</string>
 	<string id="trade_dialog_jlob_53">
 		<text>Weapon kits are what I need. Here, enjoy these Cuban cigars.</text>

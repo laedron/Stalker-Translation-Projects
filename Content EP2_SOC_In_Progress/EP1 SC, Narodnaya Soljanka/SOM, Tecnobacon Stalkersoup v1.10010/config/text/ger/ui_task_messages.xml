@@ -230,7 +230,7 @@
 		<text>Bring the heads and the vodka to Cook</text>
 	</string>
 	<string id="tasks_212">
-		<text>Bring the radio transmitter to Wolf</text>
+		<text>Bring the radio transceiver to Wolf</text>
 	</string>
 	<string id="tasks_213">
 		<text>Bring Miser the armor</text>
@@ -326,13 +326,13 @@
 		<text>Agroprom</text>
 	</string>
 	<string id="tasks_416">
-		<text>Bring the Minigun to Adrena</text>
+		<text>Bring the Minigun to Adrenalin</text>
 	</string>
 	<string id="tasks_417">
-		<text>Bring the mutant body parts to Adrena</text>
+		<text>Bring the mutant body parts to Adrenalin</text>
 	</string>
 	<string id="tasks_418">
-		<text>Bring the computer disk to Adrena</text>
+		<text>Bring the optical disk to Adrenalin</text>
 	</string>
 	<string id="tasks_419">
 		<text>Speak with Arhara</text>
@@ -383,7 +383,7 @@
 		<text>Find a vice for Screw</text>
 	</string>
 	<string id="tasks_638">
-		<text>Find the computer disk</text>
+		<text>Find the optical disk</text>
 	</string>
 	<string id="tasks_639">
 		<text>Find the Camouflage Exoskeleton</text>
@@ -485,7 +485,7 @@
 		<text>Speak with Prapor</text>
 	</string>
 	<string id="tasks_1305">
-		<text>Find the radio transmitter</text>
+		<text>Find the radio transceiver</text>
 	</string>
 	<string id="tasks_1306">
 		<text>Locate the modified MP5</text>

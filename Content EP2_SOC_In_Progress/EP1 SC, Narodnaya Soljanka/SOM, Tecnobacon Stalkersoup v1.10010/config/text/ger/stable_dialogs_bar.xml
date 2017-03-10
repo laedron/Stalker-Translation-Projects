@@ -432,7 +432,7 @@
 		<text>Here are the documents from the Institute.</text>
 	</string>
 	<string id="bar_bar_barmen_start_221">
-		<text>Great work, Marked One! We have the documents at last. I need to have a look at them now and maybe I'll work out how to get north. While I do that, if you have problems with money, you can fight at the Arena. The owner of the Arena is Arni. I've uploaded his coordinates.</text>
+		<text>Great work, Marked One! We have the documents at last. I need to have a look at them now and maybe I'll work out how to get north. While I do that, if you have problems with money, you can fight at the Arena. The owner of the Arena is Arnie. I've uploaded his coordinates.</text>
 	</string>
 	<string id="bar_bar_barmen_start_2211">
 		<text>Okay.</text>
@@ -462,7 +462,7 @@
 		<text>An experienced Stalker, as far as I know. He used to "work" through the northern exits from the Zone. He was hardly ever seen here, but there are rumors that he took his group right into the center of the Zone.</text>
 	</string>
 	<string id="bar_bar_barmen_talk_info_4">
-		<text>What do you know about a Stalker they call "Ghost?"</text>
+		<text>What do you know about a Stalker known as 'Ghost'?</text>
 	</string>
 	<string id="bar_bar_barmen_talk_info_41">
 		<text>He's one of Strelok's men. They say he can sneak in anywhere without being noticed. I heard that he took out the leader of some crazy group... What was the name? Ah, "Final Day," that's the one. They were pretty wild, those boys... Oh, by the way, I heard that Ghost is doing some job for the scientists, so if you're looking for him try by Lake Yantar at the mobile lab.</text>
@@ -582,10 +582,10 @@
 		<text>Here's what I got to say. You helped Freedom and made the right choice. Your fate is now tied with that of Freedom, and Duty has you in its sights. I'd say you oughtta go to the abandoned military base and join the ranks of Freedom - they need good fighters. There will be shootouts between the groups soon and whoever chooses the right side won't regret it.</text>
 	</string>
 	<string id="bar_bar_osvedomitel_start_11">
-		<text>I work as a dealer of information. I sell important info and buy charts, documents and lab records. My information is valuable and very useful to the one who possesses it!</text>
+		<text>I'm a broker of information. I deal in data, old lab records, and reliable hearsay. Information is knowledge, and knowledge is power, my friend...</text>
 	</string>
 	<string id="bar_bar_osvedomitel_start_21">
-		<text>Hello, Marked One. You helped Freedom and made the right choice. Your fate is now tied with that of Freedom, and Duty has you in its sights. I'd suggest you go to the abandoned military base and join Freedom - they need good fighters.</text>
+		<text>Hello, Marked One. You helped Freedom and made the right choice. Your fate is now linked with Freedom, and Duty has you in its sights. I'd suggest you go to the abandoned military base and join Freedom - they need good fighters.</text>
 	</string>
 	<string id="bar_bar_osvedomitel_start_211">
 		<text>I'll think about it.</text>
@@ -615,58 +615,58 @@
 		<text>Thanks for the information</text>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_0">
-		<text>I want to buy some information.</text>
+		<text>I'd like to buy some information...</text>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_21">
-		<text>Right now, I can sell you information about Strelok's group virtually for nothing - 4000 RU.</text>
+		<text>Well, I can sell you information about Strelok's group for next nothing. Just 4,000 roubles</text>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_211">
-		<text>Okay, I'll take it. Here's 4000.</text>
+		<text>Okay, here's your 4,000...</text>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_2111">
-		<text>Strelok's group had a base hideout. It's located at the Agroprom Research Institute, in one of the underground tunnels. You could probably find more information about the group's plans and a list of group members if you go there. The coordinates of the stash are attached.</text>
+		<text>Strelok's group had a base, or hideout if you prefer. It's supposed to be located at the Agroprom Research Institute, in one of the underground tunnels. You could probably find more information about the group's plans, maybe even a list of their members, if you go there. The coordinates of the stash are attached</text>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_212">
-		<text>No, I changed my mind.</text>
+		<text>No, I changed my mind</text>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_2121">
-		<text>Up to you. Come to the Bar when you decide otherwise - I'm always here.</text>
+		<text>Up to you. Come to the Bar when you decide otherwise - I'm always here...</text>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_31">
-		<text>Right now, I have some information about a group of guys that made it to the center of the Zone. I'm practically giving it away - only 2000 roubles.</text>
+		<text>Right now, I have information about a group of Stalkers that made it to the center of the Zone. I'm practically giving it away. Just 2,000 roubles...</text>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_311">
-		<text>Okay, I'll buy it. Here's 2000.</text>
+		<text>Okay, I'll take it. Here's 2,000</text>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_3111">
-		<text>Strelok, Ghost and Fang went to the center of the Zone. What they found there, no one knows, but Strelok went missing while Ghost and Fang came back distraught. The latest news on Ghost is that he went to the mobile lab by Lake Yantar. Coordinates of the scientists' camp are attached.</text>
+		<text>Strelok, Ghost and Fang went to the center of the Zone. What they found there, no one knows, but Strelok went missing while Ghost and Fang came back distraught. The latest news on Ghost is that he went to the mobile lab by Lake Yantar. Coordinates of the scientists' camp are attached</text>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_312">
-		<text>No, I changed my mind.</text>
+		<text>No, I changed my mind</text>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_3121">
-		<text>Up to you. Come to the Bar when you decide otherwise - I'm always here.</text>
+		<text>Up to you. Come to the Bar when you decide otherwise - I'm always here...</text>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_41">
-		<text>I've got some information about the secret of Lake Yantar. The price is just 3500 roubles - any less and I'd be paying you!</text>
+		<text>I've some information about the secret of Lake Yantar. Just 3,500 roubles. Any less and I'd be paying you for information!</text>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_411">
-		<text>Okay, I'll buy it. Take the 3500.</text>
+		<text>Okay, I'll bite. Here's your 3,500</text>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_4111">
-		<text>The secret of Lake Yantar is similar to the secret of the Brain Scorcher, and their effects are similar in many ways. Some kind of psi-emission zombifies all who come in contact with it. The zombified Stalkers move around the center of the emitter, attacking everyone. There is information to suggest that the solution to the riddle of Lake Yantar is below ground. Here are the coordinates of the emitter at Lake Yantar and those of the Brain Scorcher.</text>
+		<text>The secret of Lake Yantar is similar to that of the Brain Scorcher, and their effects are similar in many ways. Some kind of Psi-emission zombifies everyone who comes in contact with it. The zombified Stalkers move around the center of the emitter, attacking everyone. There's information to suggest that the riddle of Lake Yantar lies below ground. Here are the coordinates of the emitter at Lake Yantar, and of the Brain Scorcher</text>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_412">
-		<text>No, I changed my mind.</text>
+		<text>No, I changed my mind</text>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_4121">
-		<text>Up to you. Come to the Bar when you decide otherwise - I'm always here.</text>
+		<text>Up to you. Come to the Bar when you decide otherwise - I'm always here...</text>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_999">
-		<text>I don't have any new information at the moment. Shouldn't you know more than me by now, anyway?</text>
+		<text>I don't have any new information at the moment. But you probably know more than I do by now...</text>
 	</string>
 	<string id="bar_bar_visitors_1_start_11">
-		<text>It's about Damn time someone whacked Borov! If I knew who it was, I'd buy him a drink.</text>
+		<text>It's about damn time someone whacked Borov! If I knew who it was, I'd buy him a drink.</text>
 	</string>
 	<string id="bar_bar_visitors_1_start_111">
 		<text>Yeah, it was about time.</text>
@@ -1392,46 +1392,46 @@
 		<text>Can you tell me anything for free?</text>
 	</string>
 	<string id="bar_bar_osvedomitel_story_1">
-		<text>Okay, Marked one, I'll tell you, well, about a man that came close to the Sarcophagus.</text>
+		<text>Well, I can tell you about a Stalker, like yourself, who made it close to the Sarcophagus...</text>
 	</string>
 	<string id="bar_bar_osvedomitel_story_2">
-		<text>So, on with it already.</text>
+		<text>Yes, please carry on...</text>
 	</string>
 	<string id="bar_bar_osvedomitel_story_3">
-		<text>Not long ago, when I was in the military, I saw a man. He was very dirty, covered with leaves, mud and scum, and he was wearing an old jacket as an antiradiation suit. When I came close to him, I saw he wasn't wounded, but the look in his eyes was that of a mad man, of hunger. I asked him why he was here and what had happened. He begged for some food and drink. "I finally made it!", he kept saying. I gave him water and some bread with sausage. Then, I kindled a fire in a hollow and placed two cans of meat on since he said it was a long story. I had no hurries, so I stayed with him. His name was Efim, 43 years of age he was. One of the first to enter the Zone, and was pretty much everywhere, obtaining lots of unique artifacts. It wasn't that interesting until he spoke of how one day he decided to go beyond the Radar into Pripyat.</text>
+		<text>Not too long ago, when I was in the military, I came across a man. He was extremely dirty, covered with mud, leaves, scum, and wearing an old jacket as an antiradiation suit. When I approached him, I saw he wasn't wounded, but the look in his eyes was more than hunger, more like a madman. I lowered my rifle and asked him why he was here, and what had happened. He begged me for something to drink and eat, so I gave him my water bottle with some bread with sausage. The guy just tore into it, so I waited. In between mouthfuls he kept saying, "I made it. I finally made it!"\nHe told me it was a long story, so I kindled a fire in a hollow and put two cans of meat on. I had nothing better to do, so I stayed with him. His name was Efim, 43 years old, and one of the first to enter the Zone. He'd been pretty much everywhere, finding many unique artefacts, but his story wasn't so interesting until he went beyond Radar into Pripyat...</text>
 	</string>
 	<string id="bar_bar_osvedomitel_story_4">
-		<text>Really? How? What happened?</text>
+		<text>What? How? What happened?</text>
 	</string>
 	<string id="bar_bar_osvedomitel_story_5">
-		<text>I'm getting there..    You can't go through that route because the tunnel that connected Radar with Pripyat collapsed during a blowout, so I thought he was lying. But he kept going on about stuff that was so strange that he simply couldn't be lying. The tunnel ended in one of the supply stations. It was a huge storage warehouse that contained a lot of rotten, gnawed-off or soured food supplies, along with rusted cartridges and other things. When he got out of the warehouse, he ran into an anomaly. He described it as "silver threads in its center, like a cobweb, covered with tiny bubbles, not unlike dew. And behind this cobweb... darkness. Looked like the whole world was tightening in.. this darkness... As if the anomaly was pulling it away, winding it and tearing it. There was this grey dust everywere, suspended in the air". He was terrified. He decided to throw a bolt into the anomaly. At first the bolt flew normally, but then...</text>
+		<text>I'm getting there... You can't go that route now because the tunnel connecting Radar to Pripyat collapsed during a blowout, so I thought he was lying. But he kept going on about stuff so strange that he couldn't be making it up. He said the tunnel ended in one of the supply stations, a huge warehouse full of rotten, gnawed, and soured food supplies, rusted cartridges, all sorts of equipment in a similar condition. After finding nothing of any use, he got out of the warehouse and almost ran straight into an anomaly. He described it as having silver threads in its center like a cobweb, and covered in tiny bubbles like dew. But behind the cobweb, just darkness... He said it looked as if the whole world was being dragged into this darkness... as if the anomaly was pulling it in, spinning it, tearing it apart and compressing it. There was a grey dust everywere, suspended in the air. He was terrified, but decided to throw a bolt into the anomaly, just to see what lay in store for him if he moved... </text>
 	</string>
 	<string id="bar_bar_osvedomitel_story_6">
-		<text>What?</text>
+		<text>What happened?</text>
 	</string>
 	<string id="bar_bar_osvedomitel_story_7">
-		<text>The bolt suddenly bent, winding and threading over itself and twisting. After that, it burst into pieces, which turned into smaller and smaller fractions as they reached the center slowly, until it stood in the threshold of non-existence... Hardly swallowing, he avoided the strange anomaly and continued forward, throwing bolts behind him. He kept moving forward, quietly, throwing bolts before him. When he reached a group of houses, he found it was a Poltergeist den. He cleared it using grenades and used it as refuge for the night. When he woke up, he was in for a surprise: He had reached the city of Pripyat. In the central square was a statue of Lenin. It was completely rusted, and it almost seemed to be covered with hair. He threw a bolt at it out of sheer curiosity. As soon as it touched one of the "hairs", the bolt rusted and in a moment volatized into dust. Then, it was dawn in Pripyat...</text>
+		<text>Well, at first it flew normally, but then it started winding and twisting, as if caught in a vortex. Then it bent and... well, can you imagine a bolt turning itself inside out? That's how he described it. It tore itself apart from the inside and burst into pieces, each piece tearing into smaller and smaller pieces as they spiralled slowly towards the center, the threshold of non-existence...\nHe worked his way around this bizarre anomaly and continued forward, throwing bolts all around him. When he finally reached the safety of a group of houses, he found it was already home to den of a Poltergeists. He cleared it out using grenades, then used it as refuge for the night. When he woke up, he was amazed to find he'd reached the city of Pripyat. In the central square was a statue of Lenin, completely rusted, and looked as if it was covered with hair. Out of habit, he threw a bolt at it, but as soon as it touched one of the filaments, the bolt instantly rusted throughout and fell as dust...</text>
 	</string>
 	<string id="bar_bar_osvedomitel_story_8">
-		<text>That's very interesting. What happened next?</text>
+		<text>Oh! What happened next?</text>
 	</string>
 	<string id="bar_bar_osvedomitel_story_9">
-		<text>The sun ascended, oblivious that this light poured into such a terrible place as the Zone. Having passed an entrance in Chernobyl NPP, Efim, or as you probably have already guessed, Guide, saw it... The Sarcophagus! It looked gray with the sky as a background, which dimmed strangely behind the sieve-like roof. Then, the sky became gray, even more strongly. Black points flashed before his eyes, the world turning black and gray. The Geiger counter was off the scale. And suddenly, came a strange burst emission. It looked like the Sarcofagus jerked, as if something was still there. As he turned staggering, he felt a sharp, gnawing pain inside his head. New anomalies, different ones, acid, gravitational and electric spawned beside him, a poplar flew by, but he barely noticed this as his legs carried him away... off this vile place... while in his head something shouted "Why do you wake us?"!</text>	<!-- Changed 'Conductor' to 'Guide' - Sword2012 - 31 Oct 16-->
+		<text>This was dawn in Pripyat. The sun seemed unmoved by what it was illuminating, and continued its journey from east to west. Efim continued north, to the Chernobyl NPP. You'll have probably guessed by now that this is the man you know as Guide. Intuitively exploring his way through the plant, he found what he was looking for... the Sarcophagus! He said it looked gray against the sky, which seemed dim behind the stark, sieve-like roof. Then the sky darkened. Black points flashed around before his eyes, and his entire world turned black and gray.\nHis Geiger counter went off the scale as an emission suddenly burst, and the Sarcophagus seemed to shake, as if something much larger below tried to free itself from this millstone - something with a life of its own, yearning for freedom. There was a sharp, gnawing pain inside his head as he tried to understand what was happening, as anomalies of every kind now sprang up around him. An entire tree flew past, but he barely noticed as his legs desperately tried to bear him away from this tormented place, and something in his head cried "WHY HAVE YOU DONE THIS TO US?"</text> <!-- Changed 'Conductor' to 'Guide' - Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="bar_bar_osvedomitel_story_10">
-		<text>So what happened to him?</text>
+		<text>Shit... What happened to him?</text>
 	</string>
 	<string id="bar_bar_osvedomitel_story_11">
-		<text>Apparently, Guide's brain got fried. It was as if whatever shouted in his head, reached his cerebellum, forcing the understanding, but rendering him unable to feel pain... He happily got in an anomaly, a portal, and simply teleported somewhere on Radar. I have done the math. Yesterday there was an emission, not especially strong, and the radio waves don't lie. Guide choked in his own blood. The Zone was colored very strangely, a lilac hue. Oh well, what can you do...?</text>	<!-- Changed 'Conductor' to 'Guide' - Sword2012 - 31 Oct 16-->
+		<text>Apparently, his brain went into profound shock. As if whatever was in his head had forced this knowledge down so deep, past every filter, way beyond pain, that his psyche couldn't contain it... He had to get out, but he didn't just want to want to be somewhere else, or even anywhere else - he wanted to be nowhere. So he closed his eyes and ran towards an anomaly, a Teleport. He said he didn't have the words to describe what, or where happened next, but that he eventually became aware of being in Radar. He must have slept for nearly a week during this period - he didn't know this, but I did the math. The next day there was an emission - not particularly strong, and the radio waves never lie, but Guide started coughing and coughing and eventually choked on his own blood. The Zone turned an unusual color, a crimson and violet hue. And that's all I can tell you...</text>	<!-- Changed 'Conductor' to 'Guide' - Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="bar_bar_osvedomitel_story_12">
 		<text>Did he die?</text>
 	</string>
 	<string id="bar_bar_osvedomitel_story_13">
-		<text>Yes, he basically turned into jelly. A really gruesome sight, wish I could forget it.</text>
+		<text>Yes, he did. But even after death his body didn't stop until it was jellified. I tried to move him, to bury him, but I couldn't... I had to dig the hole next to where he was, and just... shit, I don't want to talk about this...</text>
 	</string>
 	<string id="bar_bar_osvedomitel_story_14">
-		<text>All right, thanks. You could write a book of memoirs about the Zone.</text>
+		<text>I'm sorry... That's no way for a good man to go. Nor for another to put him to rest...</text>
 	</string>
 	<string id="bar_bar_visitors_14_story_0">
 		<text>You, I see, you are a veteran. You probably have seen enough.</text>
@@ -1515,22 +1515,22 @@
 		<text>I would not discount him so quickly, I think that I will explore this Backwater when I can...</text>
 	</string>
 	<string id="bar_bar_osvedomitel_story2_0">
-		<text>Listen, how can I earn money in the Zone?</text>
+		<text>How do you recommend  I earn money in the Zone?</text>
 	</string>
 	<string id="bar_bar_osvedomitel_story2_1">
-		<text>Hunt for Artefacts, do missions, kill people who annoy other, richer Stalkers... That's pretty much it, really..</text>
+		<text>Find artefacts. Help people out. Kill people. Sell their stuff. That's pretty much it around here...</text>
 	</string>
 	<string id="bar_bar_osvedomitel_story2_2">
-		<text>Thanks, that was really,...   'useful'.</text>
+		<text>Thanks for being so succinct...</text>
 	</string>
 	<string id="bar_bar_osvedomitel_story2_3">
-		<text>Hey, don't be rude. Rude people don't stay for long in the Zone. Have you ever heard a saying 'The deeper in the Zone the closer to heaven'?</text>
+		<text>Do you know something? The most valuable assets here aren't artefacts, weapons and body armour, but friends. Have you heard the saying 'The further you get into the Zone, the closer you get to Heaven'?</text>
 	</string>
 	<string id="bar_dolg_petrenko_story_0">
 		<text>Hi chief, how's the service?</text>
 	</string>
 	<string id="bar_dolg_petrenko_story_1">
-		<text>Not so bad... By the way, Marked one, have you heard of a new monster?</text>
+		<text>Not so bad... By the way, Marked one, have you heard of a new mutant?</text>
 	</string>
 	<string id="bar_dolg_petrenko_story_2">
 		<text>No.</text>

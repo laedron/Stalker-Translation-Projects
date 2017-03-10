@@ -299,7 +299,7 @@
 		<text>Sometimes waiting is necessary, I must make all of the necessary repairs.</text>
 	</string>
 	<string id="dlinnuy_repair_9">
-		<text>Masterful work. Your the best damn Weaponsmith in the ZONE!!!</text>
+		<text>Masterful work. Your the best damn Weaponsmith in the Zone!</text>
 	</string>
 	<string id="dlinnuy_repair_10">
 		<text>Can you repair something else for me?</text>
@@ -320,7 +320,7 @@
 		<text>Give me the money ... stop complaining ...</text>
 	</string>
 	<string id="dlinnuy_repair_31">
-		<text>I will take your money ... no problem. Here in the ZONE, Traders profit from people such as yourself ...</text>
+		<text>I will take your money ... no problem. Here in the Zone, Traders profit from people such as yourself ...</text>
 	</string>
 	<!--****************************-->
 	<!-- lanky upgrade dialog start  -->
@@ -330,7 +330,7 @@
 		<text>Hello Master Technician, do you provide upgrades for various weapons?</text>
 	</string>
 	<string id="dlinnuy_upgrade_1">
-		<text>Yes, I can perform upgrades for certain weapons, but I warn you ... it's not cheap. Im the only Tech in the ZONE that can do this kind of work ... so don't complain about the price!! I don't, however, work on pistols - check your PDA ... I have uploaded a list of available upgrades. Also ... all upgrades take about 3 hours. Any weapons to be modified that also require repairs will cost more, and it will be necessary to wait even longer for the work to be completed.</text>
+		<text>Yes, I can perform upgrades for certain weapons, but I warn you ... it's not cheap. I'm the only tech in the Zone that can do this kind of work ... so don't complain about the price!! I don't, however, work on pistols - check your PDA ... I have uploaded a list of available upgrades. Also ... all upgrades take about 3 hours. Any weapons to be modified that also require repairs will cost more, and it will be necessary to wait even longer for the work to be completed.</text>
 	</string>
 	<string id="start_wnd_upgrade">
 		<text>Let's proceed to upgrade.</text>
@@ -367,7 +367,7 @@
 		<text>Tighten up the weapons grouping ... a mere miss of a few centimetres could cost me my life out here.</text>
 	</string>
 	<string id="dlinnuy_upgrade_313">
-		<text>Reduce the weight of the weapon - it will be easier to carry, Im not Shwarzenegger ... lol!!</text>
+		<text>Reduce the weight of the weapon - it will be easier to carry. My name's not Arnie!</text>
 	</string>
 	<string id="dlinnuy_upgrade_314">
 		<text>Don't do anything just yet ...</text>
@@ -382,7 +382,7 @@
 		<text>You want me to wait?! ... even after I've paid you that much!?</text>
 	</string>
 	<string id="dlinnuy_upgrade_9">
-		<text>Masterful work. Are you the best Weaponsmith in the ZONE?</text>
+		<text>Masterful work. Are you the best weaponsmith in the Zone?</text>
 	</string>
 	<string id="dlinnuy_upgrade_10">
 		<text>Can you upgrade something else for me?</text>
@@ -614,27 +614,28 @@
 	<!-- Repair dialogs end -->
 	<!--********************-->
 	<!-- the table of the compatible weapon for PDA-->
+	<!-- Corrected «,» and ' - aleks1970 -->
 	<string id="text_tabl_stvol">
 		<text>List of Compatible Weapons for Repairs:\n \n
-1. AS "Val" BCC "Vintorez" VSK-94, AK-9\n
-2. Winchester 1300, W1300 "Chaser", Winchester 1200, Franchi SPAS-12, SPAS-12 "Hunter", SPAS-12 «Storm», Prototype «Protecta», Protecta «Assault», Benelli M4 Scoped, Benelli M4 Super 90, Scattergun Benelli M3, Mossberg 590, Scattergun Remington 870, Remington 870, TDS-194, USAS-12\n
-3. AEK-971 AK-74 AKS-74 "Archer", AKS-74U AK-101 AK-104 AK-108, RPK-74 PP-19 "Bison", PP-20 "Bison", OTS -14 "Thunderstorm", OTS-14 "Groza" 5.45mm, OC-14 "Groza" 5.56mm, OC-14 Groza "Lynx", OC-14 Groza "Flame», FN FNC Para, VZ-58\n
+1. AS 'Val' BCC 'Vintorez' VSK-94, AK-9\n
+2. Winchester 1300, W1300 'Chaser', Winchester 1200, Franchi SPAS-12, SPAS-12 'Hunter', SPAS-12 «Storm», Prototype «Protecta», Protecta «Assault», Benelli M4 Scoped, Benelli M4 Super 90, Scattergun Benelli M3, Mossberg 590, Scattergun Remington 870, Remington 870, TDS-194, USAS-12\n
+3. AEK-971 AK-74 AKS-74 'Archer', AKS-74U AK-101 AK-104 AK-108, RPK-74 PP-19 'Bison', PP-20 'Bison', OTS -14 'Thunderstorm', OTS-14 'Groza' 5.45mm, OC-14 'Groza' 5.56mm, OC-14 Groza 'Lynx', OC-14 Groza «Flame», FN FNC Para, VZ-58\n
 4. Cut with BM-16, TOZ-34, Browning Auto-5\n
-5. AK-47, AKM, AKM "Ghost", AKS-47, RPD, PKM, SKS, rifle AR-F\n
-6. AN-94 "Abakan" AN-2012\n
+5. AK-47, AKM, AKM 'Ghost', AKS-47, RPD, PKM, SKS, rifle AR-F\n
+6. AN-94 'Abakan' AN-2012\n
 7. HK G36, Heckler-Koch MG-36, HK XM8 Para, XM8 Sharpshooter, HK G36 «Aimpoint»\n
 8. Enfield L85A2, Enfield L86A1, Enfield L86A2 LSW, Steyr AUG A1, Steyr AUG A3, Steyr AUG BMK\n
 9. LR-300ML, Colt M16A2, M4A1 SOPMOD, M4A1 Modded, M4 Compact, Diemaco C7, Ironsighted SBR, Heckler-Koch 416, Heckler-Koch 417 «Sniper», Knights SR-25, FN FAL C1\n
 10. SIG SG-550, SIG SG-552 «Commando», SIG SG-552 «Anaconda», FN SCAR-L, FN SCAR-H, Heckler-Koch G3A3, Magpul Masada, SCAR «Crysis»\n
-11. Saiga-12C, Saiga-12K, Tactical Saiga, Saiga Tactical "Sniper"\n
-12. HK MP5, HK MP5M, HK MP5K-PDW, HK MP5-SD, HK MP7, IMI UZI, Micro-Uzi, ScorpionVz.61, Steyr TMP, Ingram MAC-10, Heckler-Koch 53A3, Heckler-Koch UMP-45 PP-2000 PP-9 "Wedge"\n
-13. SVD, SVD-S, PRS "Tiger" IRS "hawk", IED, IED, AC, Arctic Warfare Police, «Iglomet» B-94, VSSK "exhaust" KSVK, Mosin Rifle, Rifle Mosin "Sniper" Cutting Mosin rifle, Zastava M76, M-14, M-14 DMR, M-21, Barrett M82, MSG-90, Sako TRG-42, Sako TRG-41, Arctic Warfare Police, Remington 700, M-21 «Warfare» , Walther WA-2000 «Warfare»\n
+11. Saiga-12C, Saiga-12K, Tactical Saiga, Saiga Tactical 'Sniper'\n
+12. HK MP5, HK MP5M, HK MP5K-PDW, HK MP5-SD, HK MP7, IMI UZI, Micro-Uzi, ScorpionVz.61, Steyr TMP, Ingram MAC-10, Heckler-Koch 53A3, Heckler-Koch UMP-45 PP-2000 PP-9 'Wedge'\n
+13. SVD, SVD-S, PRS 'Tiger' IRS 'hawk', IED, IED, AC, Arctic Warfare Police, «Iglomet» B-94, VSSK 'exhaust' KSVK, Mosin Rifle, Rifle Mosin 'Sniper' Cutting Mosin rifle, Zastava M76, M-14, M-14 DMR, M-21, Barrett M82, MSG-90, Sako TRG-42, Sako TRG-41, Arctic Warfare Police, Remington 700, M-21 «Warfare» , Walther WA-2000 «Warfare»\n
 14. Gauss-Pistol M72-GG, Gauss M72-GR, Gauss M72-G1, Gauss M72-G2, Gauss M72 «Ghost», Anomalous Gauss-SPAS\n
-15. FN F2000, FN F2000 "Sniper", FN-2000 "The Executioner», FN F2000 «Duo», XM-29 OICW\n
-16. RG-6, RG-6 "Bulldog», M-79\n
-17. RPG-7 RPG-7 "Bumblebee" MANPADS "Needle"\n
+15. FN F2000, FN F2000 'Sniper', FN-2000 «The Executioner», FN F2000 «Duo», XM-29 OICW\n
+16. RG-6, RG-6 «Bulldog», M-79\n
+17. RPG-7 RPG-7 'Bumblebee' MANPADS 'Needle'\n
 18. Beretta 92FS, Beretta M9A1, Beretta Cleric, Beretta 8000, Beretta PX4, Beretta 93R, Beretta Stars, FN Browning HP-SA, Walther P99, Walther P100, Walther PPK, Glock 17, Glock 18, Glock 19, Heckler-Koch P7, Bernardelli P-018, SIG-Sauer 226, SW MK-22, Intratec TEC DC-9\n
-19. APS, OC-33 "Pernach" Fort 12 Fort 14, PB, PM, Special PM, PM "Award", Army PM, CT-33, MP-444 "Bagheera"\n
+19. APS, OC-33 'Pernach' Fort 12 Fort 14, PB, PM, Special PM, PM 'Award', Army PM, CT-33, MP-444 'Bagheera'\n
 20. SIG-Sauer P220, HK USP, Colt M1911, Desert Eagle, Desert Eagle «Magnum», Desert Eagle «Steppe Eagle», Desert Eagle 9x19mm, Desert Eagle Mark XIX, Glock 35, FN Five-Seven\n
 21. Kriss super V, Kriss Waper PRO\n
 22. FAMAS Prototype, Tavor TAR 21, FW-900K, QBZ-97, KAC PDW\n
@@ -653,14 +654,14 @@
 			List of available Upgrades and Restrictive Variants:\n
 			1. After weight reduction, no further upgrades are possible\n \n
 			2. The weapons which can change calibre (only for base models):\n
-			* AK-74, AKS-74 "Cobra", AK-74U, AN-94 "Abakan" - with 5.45x39mm on 5.56x45mm\n
-			* PP-19 "Bizon", Scorpion SA Vz 82 - with 9x18mm on 9x19mm\n
+			* AK-74, AKS-74 'Cobra', AK-74U, AN-94 'Abakan' - with 5.45x39mm on 5.56x45mm\n
+			* PP-19 'Bizon', Scorpion SA Vz 82 - with 9x18mm on 9x19mm\n
 			* HK MP5A3, HK MP-5K-PDW, HK MP-7a3, IMI UZI - with 9x19mm on 9x18mm\n
 			* FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG552 «Commando», Enfield L85A2, FAMAS Prototype3, Colt M16A2, M4A1 SOPMOD, Tavor STAR 21, - with 5.56x45mm on 5.45x39mm\n \n
 			3. The weapon to which can lower return and to increase a grouping (only for base models):\n
-			AK-74, AKS-74 "Cobra", AKS-74U, AN-94 "Abakan", AK-47, PP-19 "Bizon", Scorpion Vz.61, HK MP5A3, HK MP-5K-PDW, HK MP-7A3, IMI UZI, FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG552 «Commando», Enfield L85A2, FAMAS Prototype3, Colt M16A2, M4A1 SOPMOD, Tavor STAR 21, HK 417 «Sniper», Knights SR25 Mk.11\n \n
+			AK-74, AKS-74 'Cobra', AKS-74U, AN-94 'Abakan', AK-47, PP-19 'Bizon', Scorpion Vz.61, HK MP5A3, HK MP-5K-PDW, HK MP-7A3, IMI UZI, FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG552 «Commando», Enfield L85A2, FAMAS Prototype3, Colt M16A2, M4A1 SOPMOD, Tavor STAR 21, HK 417 «Sniper», Knights SR25 Mk.11\n \n
 			4. Weapons which can be made more lightweight (no further upgrades):\n
-			AK-74, AKS-74 "Cobra", AKS-74U, AN-94 "Abakan", AK-47, PP-19 "Bizon", Scorpion Vz.61, OC-14-4 "Thunder-Storm", AS "Val", BCC "Vintorez", SVD, SVU-A, Mosin Rifle, B-94, "Iglomet", HK MP5A3, HK MP-5K-PDW, HK MP-7A3, IMI UZI, FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG552 «Commando», Enfield L85A2, FAMAS Prototype3, Colt M16A2, M4A1 SOPMOD, Tavor STAR 21, HK 417 «Sniper», Knights SR25 Mk.11, Saiga-12C, Winchester 1300, Franchi SPAS-12, BM16 (sawn-off), TOXZ-34, M4 SUPER 90, Protekta, PPSH-41, Kriss Super V, FN P90, PKM, M79 Grenade-Launcher\n
+			AK-74, AKS-74 'Cobra', AKS-74U, AN-94 'Abakan', AK-47, PP-19 'Bizon', Scorpion Vz.61, OC-14-4 'Thunder-Storm', AS 'Val', BCC 'Vintorez', SVD, SVU-A, Mosin Rifle, B-94, 'Iglomet', HK MP5A3, HK MP-5K-PDW, HK MP-7A3, IMI UZI, FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG552 «Commando», Enfield L85A2, FAMAS Prototype3, Colt M16A2, M4A1 SOPMOD, Tavor STAR 21, HK 417 «Sniper», Knights SR25 Mk.11, Saiga-12C, Winchester 1300, Franchi SPAS-12, BM16 (sawn-off), TOXZ-34, M4 SUPER 90, Protekta, PPSH-41, Kriss Super V, FN P90, PKM, M79 Grenade-Launcher\n
 		</text>
 	</string>
 </string_table>

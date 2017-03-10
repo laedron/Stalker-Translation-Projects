@@ -323,7 +323,7 @@
 		<text>Return Krysjuk's PDA to Borov</text>	<!-- Changed 'Krysyuk ' to 'Krysjuk '- Sword2012 - 31 Oct 16. Should Hog be Borov?-->	<!-- 'Should Hog be Borov?' Yes! - aleks1970 -->
 	</string>
 	<string id="Find_station_Agricultural_Industry_pda_name">
-		<text>Find an army radio transmitter in the agricultural industry</text>
+		<text>Find an army radio transceiver in the agricultural industry</text>
 	</string>
 	<string id="Bring_PlayBoys_pda_name">
 		<text>Bring Playboy magazines</text>
@@ -570,13 +570,13 @@
 		<text>Find a Playboy for Captain Ivantsov</text>	<!-- Changed 'Ivancova' to 'Captain Ivantsov'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="Find_the_station_pda_name">
-		<text>Find the army radio transmitter</text>
+		<text>Find the army radio transceiver</text>
 	</string>
 	<string id="Get_modified_MR5_pda_name">
 		<text>Find the modified MR5</text>
 	</string>
 	<string id="Get_a_Burer_Paw_pda_name">
-		<text>Find a Burer hand</text>
+		<text>Find a Burer's hand</text>
 	</string>
 	<string id="Find_unusual_artifact_pda_name">
 		<text>Find the unusual artefact</text>	<!-- Replaced artifact with artefact - Sword2012 -->
@@ -1099,7 +1099,7 @@
 		<text>Find a controller's brain for Lukash</text>
 	</string>
 	<string id="Find_disk_for_Adrenalin_pda_name">
-		<text>Find the disk for Adrenalin</text>
+		<text>Find the optical disk for Adrenalin</text>
 	</string>
 	<string id="With_ATP_Cordon_pda_name">
 		<text>From ATP to Cordon</text>

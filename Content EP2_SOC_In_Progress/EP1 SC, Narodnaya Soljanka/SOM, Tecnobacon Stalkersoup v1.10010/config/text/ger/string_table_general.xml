@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="windows-1252" standalone="yes"?>
-<!-- TB3D 1.1.0.0.0.4 bar chgd to rostok, new levels, f1, added/included files in this <string_table> - aleks1970, npp north and npp south -->
+<!-- TB3D 1.1.0.0.1.1 bar chgd to rostok, new levels, f1, added/included files in this <string_table> - aleks1970, npp north and npp south -->
+<!-- moved 'informer_recipt1' and 'informer_recipt2' into stable_dialogs_amk.xml file - aleks1970 -->
 <!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 08 Oct 16 -->
 <!-- Changed 'Tyrana' to 'Tirana' in Line 171 - Sword2012 - 31 Oct 16 -->
 <!-- Corrected many generic punctuation, in-game and US/UK spelling errors - Sword2012 - 12 Dec 16 -->
@@ -14,12 +15,6 @@
 #include "text\ger\string_table_amkzp_arts_desc.xml"
 #include "text\ger\string_table_enc_ald_weapons.xml"
 
-	<string id="informer_recipt1">
-		<text>Holy shit! Did your calculator add some extra zeroes to that price? It had better be worth it. Here, take your money...</text>
-	</string>
-	<string id="informer_recipt2">
-		<text>Consider it your lucky day... Hand it over...</text>
-	</string>
 	<string id="alenka_info">
 		<text>Please, don't kill me! I have a wife and children at home waiting for me. Please! Wait. Just wait... I have something for you.\nYou see, back there at the base, I was a simple pencil pusher - a desk jockey - sitting behind an old computer screen messing around with reports and documents and stuff. I came across a file one day... well, no one had bothered to decode it, so I thought I'd amuse myself with it. It took me a while before I cracked it. I wouldn't have been allowed to make a copy, but I have a good memory.\nIt was a report from those scientific eggheads about artefacts and anomalies! It said that if you take some mesa... meso-something or other... called 'Grandmother's Beads', or something like that - don't ask me what it means - and throw it into something called a 'Whirligig', then after ten minutes you'll get a totally different artefact. Well, essentially it's the same one, but with different properties. They called it 'Elder Beads' instead, and said it gives off an energy field that somehow warps gravity or space. Also, it can supposedly stop bleeding, and make you heal faster. Unfortunately, it's radioactive, so you need to be careful wearing it for too long.\nI hope this information is of more use to you than to me... and that it's worth sparing my life for... Please! I'm begging you...</text>
 	</string>
@@ -443,7 +438,7 @@
 		<text>Yes</text>
 	</string>
 	<string id="global_map">
-		<text>Map of the ZONE</text>
+		<text>Map of the Zone</text>
 	</string>
 	<string id="st_autosave">
 		<text>Autosave...</text>

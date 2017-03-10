@@ -564,10 +564,10 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>Diary</text>
 	</string>
 	<string id="doktor_book_desc">
-		<text>the Swamp Doctors Notebook. Judging from the contents, he was here recently!!!</text>
+		<text>The Swamp Doctor's Notebook. Judging from the contents, he was here recently!!!</text>
 	</string>
 	<string id="doktor_book_name">
-		<text>Doctors Diary</text>
+		<text>Doctor's Diary</text>
 	</string>
 	<string id="item_computer_desc">
 		<text>Computer systems unit in the Pripyat bus. Contains important information necessary for the operation of the teleport</text>
@@ -579,19 +579,19 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>Laptop, found in Laboratory X-16. Contains detailed Seismological and Geological maps of Yantar, and surrounding areas</text>
 	</string>
 	<string id="scaintist_pda_name">
-		<text>Scientists PDA</text>
+		<text>Scientist's PDA</text>
 	</string>
 	<string id="scaintist_pda_desc">
-		<text>Dead Pripyat scientists PDA. Contains information that attracts 'mojito'</text>
+		<text>Dead Pripyat scientist's PDA. Contains information that attracts 'mojito'</text>
 	</string>
 	<string id="item_diplomat_name">
 		<text>Diplomatic documents</text>
 	</string>
 	<string id="item_notebook_desc">
-		<text>Laptop found in Laboratory X-18. Surprisingly, it is still in working condition. Contains data on the seismic survey conducted in the area surrounding the Army Warehouses</text>
+		<text>Laptop found in Laboratory X-18. Surprisingly, still in working condition. Contains data on the seismic survey conducted in the area surrounding the Army Warehouses</text>
 	</string>
 	<string id="item_notebook_name">
-		<text>Laptop containing important information</text>
+		<text>Laptop with important data</text>
 	</string>
 	<!-- moved string id: "stukach_book_desc" in to the dmx_mod_items file - aleks1970 -->
 	<string id="item_decoder1_name">
@@ -601,19 +601,19 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>Complex Electronic Measuring Converter</text>
 	</string>
 	<string id="agroprom_pda_name">
-		<text>Moles PDA</text>
+		<text>Mole's PDA</text>
 	</string>
 	<string id="agroprom_pda_desc">
-		<text>PDA which belonged to the STALKER nicknamed Mole</text>
+		<text>PDA which belonged to the Stalker nicknamed Mole</text>
 	</string>
 	<string id="und_pda_name">
-		<text>Max Luberos PDA</text>
+		<text>Max Lubero's PDA</text>
 	</string>
 	<string id="und_pda_desc">
 		<text>Max Lubero brags that this PDA contains many secrets regarding the 'Duty' faction</text>
 	</string>
 	<string id="volkodav_pda_name">
-		<text>Wolfhounds PDA</text>
+		<text>Wolfhound's PDA</text>
 	</string>
 	<string id="volkodav_pda_desc">
 		<text>Among the encrypted data, there is a description concerning the transmutation of artefacts</text>
@@ -901,7 +901,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>\nBes, the leader of the Loners at the Garbage, has asked you to find him a special Stalker suit</text>
 	</string>
 	<string id="artmod_311_dialog_0">
-		<text>What the hell do you want Flesh Eyes for?</text>
+		<text>Can I get you anything while I'm there??</text>
 	</string>
 	<string id="artmod_311_dialog_1">
 		<text>With his health in disagreements, whether the local climate is not suitable, or something. In the back sometimes so shoots, I cannot straighten up. The guys over there they marched, but I do not to laugh. Held recently old Stalker, Guide beckoning, never met? So he advised me, tincture says make the eyes of the flesh, as arm lift. You bring me three, Hmmm, no, better four eyes, and I find something to thank you enough. I have a sniper rifle. Though old, but come in useful on occasion. I thought it pointless. You see yourself, we have here in peace and quiet. Pig only occasionally blazing. Cartridges, however, is not enough. So that it will save</text>	<!-- Changed 'Explorer' to 'Guide' - Sword2012 - 31 Oct 16-->
@@ -1108,7 +1108,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>Hello Wolf, I found Tolik</text>
 	</string>
 	<string id="artmod_872_dialog_1">
-		<text>What's wrong with him? Where's the transmitter?</text>
+		<text>What's wrong with him? Where's the radio tranceiver?</text>
 	</string>
 	<string id="artmod_872_dialog_2">
 		<text>Here, hold. And Tolik, weak-willed, I saw so bloodsucking flashed his heels, mind screwed, release started</text>
@@ -1123,13 +1123,13 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>Forgive me, I do not think that in a trouble I caused. On the way to me, threw two no, four bloodsuckers! I put down three, but ran out of ammunition and then my knife broke. Barely alive, gone. Now here's nerves vodka corrected, do not want 300 grams?</text>
 	</string>
 	<string id="artmod_873_dialog_2">
-		<text>Well Tolik, nerves of steal. Where's the transmitter?</text>
+		<text>Well Tolik, nerves of steel. Where's the transceiver?</text>
 	</string>
 	<string id="artmod_873_dialog_3">
 		<text>Yes there somewhere, for hangars at dump passes trench in which pipe lying around, tractor... I guess there is, if bloodsuckers themselves have not taken, and-and-a, sorry</text>
 	</string>
 	<string id="tex_mil_volk_resiver">
-		<text>Wolf is watching the soldiers, to ensure uninterrupted survalance he must have the radio station. Tolik was supposed to bring the radio station, but nothing about it is known. It is necessary to find and deliver the radio to Wolf</text>
+		<text>Wolf is trying to monitor the military, and ideally needs a proper army radio transceiver. Tolik was supposed to bring him one, but has not been in touch. I need to find out what happened to it, and deliver it to Wolf</text>
 	</string>
 	<string id="artmod_431_dialog_0">
 		<text>Wow! The guys at the Barrier ask for ammunition as if they feel every shot fired</text>
@@ -1504,13 +1504,13 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>Yes, judging by the description, nonsense! I promised him a new Exoskeleton for his brother, take it</text>
 	</string>
 	<string id="artmod_53_61_dialog_0">
-		<text>Don't knowledgeable people say: Information is the best investment?</text>
+		<text>Don't smart people say that information is the best investment?</text>
 	</string>
 	<string id="artmod_53_61_dialog_2">
-		<text>Can you help find the way to the base of Freedom?</text>
+		<text>Can you tell me the way to Freedom's base?</text>
 	</string>
 	<string id="artmod_53_61_dialog_90">
-		<text>Rumor has it that you can immediately get in the Sarcophagus, this true?</text>
+		<text>I've heard there's a way to get straight down into the Sarcophagus. Is this true?</text>
 	</string>
 	<string id="artmod_53_61_dialog_93">
 		<text>Well you say so, not one piece of information, besides very expensive.\nseems to be in stock anomaly, Jumper is called, and the one could throw, not in the Sarcophagus, no! But very close to him</text>
@@ -1522,67 +1522,67 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>held in the Radar at the Army Warehouses, and could not get back. Would you know how to get it back?</text>
 	</string>
 	<string id="artmod_53_61_dialog_3">
-		<text>Can. For some money</text>
+		<text>Most certainly. For the right price...</text>
 	</string>
 	<string id="artmod_53_61_dialog_41">
-		<text>find himself</text>
+		<text>Forget it. I'll find it myself...</text>
 	</string>
 	<string id="artmod_53_61_dialog_42">
-		<text>And how much will it cost?</text>
+		<text>How much?</text>
 	</string>
 	<string id="artmod_53_61_dialog_5">
-		<text>I think that it is not very much for this valuable information, a total of 100,000ru. Well, you take?</text>
+		<text>100,000 roubles for this information. Are you interested?</text>
 	</string>
 	<string id="artmod_53_61_dialog_55">
-		<text>I think that it is not very much for this valuable information, a total of 150,000ru. Well, you take?</text>
+		<text>For this valuable information, 150,000 roubles. Are you interested?</text>
 	</string>
 	<string id="artmod_53_61_dialog_95">
-		<text>see, a lot of stalkers would like to have such information, but only for you, total 400,000ru Timber. Hast such midwife?</text>
+		<text>At the moment this is exclusive information. The more people buy it, the cheaper it gets until it becomes common knowledge. That's how it works. It all depends on who wants to be first. If it's you, the price is 400,000 roubles</text>
 	</string>
 	<string id="artmod_53_61_dialog_61">
-		<text>Oh, no, I'll manage somehow</text>
+		<text>No, leave it. I'll manage somehow...</text>
 	</string>
 	<string id="artmod_53_61_dialog_62">
-		<text>With a good scheme. Life lessons. Keep</text>
+		<text>Yes, please...</text>
 	</string>
 	<string id="artmod_53_61_dialog_92">
 		<text>grandmother is not a problem, the main thing that all of the concepts was, keep</text>
 	</string>
 	<string id="artmod_53_61_dialog_7">
-		<text>right choice</text>
+		<text>I think you made the right choice...</text>
 	</string>
 	<string id="artmod_53_61_dialog_8">
-		<text>hope</text>
+		<text>I hope so...</text>
 	</string>
 	<string id="artmod_53_61_dialog_1">
-		<text>What for?</text>
+		<text>What are you looking for?</text>
 	</string>
 	<string id="artmod_53_61_dialog_10">
-		<text>Are there cheap recipes for transformation of artefacts?</text>
+		<text>Do you have any cheap Recipes for transforming artefacts?</text>
 	</string>
 	<string id="artmod_53_61_dialog_12">
-		<text>No, I do not need anything</text>
+		<text>I don't need anything, thanks...</text>
 	</string>
 	<string id="artmod_53_61_dialog_11">
-		<text>I'll find it. Price question, 30,000ru. Agreed</text>
+		<text>Yes, I do. 30,000 roubles. Agreed?</text>
 	</string>
 	<string id="artmod_53_61_dialog_141">
-		<text>agree</text>
+		<text>Agreed...</text>
 	</string>
 	<string id="artmod_53_61_dialog_142">
-		<text>no money</text>
+		<text>Thanks, but not enough money at the moment...</text>
 	</string>
 	<string id="artmod_53_61_dialog_20">
-		<text>Any other recipes for the transformation of artefacts?</text>
+		<text>Do you have any other Recipes for transforming artefacts?</text>
 	</string>
 	<string id="artmod_53_61_dialog_21">
-		<text>Recipe for Pacifiers. Price question, 50,000ru. Agreed</text>
+		<text>I've a Recipe for making a Dummy if you're interested, but it's 50,000 roubles. Agreed?</text>
 	</string>
 	<string id="artmod_53_61_dialog_241">
-		<text>agree</text>
+		<text>Agreed...</text>
 	</string>
 	<string id="artmod_53_61_dialog_15">
-		<text>threw off the data on the PDA</text>
+		<text>There you go. I've uploaded the data to your PDA</text>
 	</string>
 	<string id="artmod_53_61_dialog_16">
 		<text>Excellent</text>
@@ -2151,13 +2151,13 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>to the center of the zone closer to Pripyat least...</text>
 	</string>
 	<string id="teleport_yantar_dialog_21">
-		<text>Well, we can already do... To activate the teleport requires a Soul artefact...\nIs it you?</text>
+		<text>Well, we can already do... To activate the teleport requires a Soul artefact...\nDo you have one?</text>
 	</string>
 	<string id="teleport_yantar_dialog_22">
 		<text>Yes, there...</text>
 	</string>
 	<string id="teleport_yantar_dialog_23">
-		<text>Blinn, I do not have "souls"...</text>
+		<text>Sorry, I don't have one...</text>
 	</string>
 	<string id="teleport_yantar_dialog_221">
 		<text>excellent, setting the teleport takes a long time, but it is, as you know, money...</text>
@@ -2286,19 +2286,19 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>Hello Fanatic, I found the laptop...</text>	<!-- Changed 'Fan' to 'Fanatic'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="teleport_042_dialog_1">
-		<text>Is there card? Verify?</text>
+		<text>Is it working? Did you try it?</text>
 	</string>
 	<string id="teleport_042_dialog_2">
-		<text>How can I check... it must have been lying for five years, the web was all overgrown, I do not even try...\nSam look...</text>
+		<text>I booted it up to the BIOS, but I didn't go any further... It must have been lying there for years, though. There were cobwebs all over it, but it looks hopeful...</text>
 	</string>
 	<string id="teleport_042_dialog_3">
-		<text>Oh, ok all... Even included... There is a map!...\nTo activate the teleport at the Army Warehouses requires a Soul artefact, keep as a gift to...</text>
+		<text>Oh, it works... Thank you!... There's our map!...\nRight, to activate the teleport to the Army Warehouses will need a Soul artefact. Please accept this one as a gift, should you ever need to use it...</text>
 	</string>
 	<string id="teleport_05_dialog_0">
-		<text>And where else can you get?</text>
+		<text>Can you travel anywhere else?</text>
 	</string>
 	<string id="teleport_05_dialog_1">
-		<text>could be configured to Yantar swamp, but again need a map.</text>
+		<text>Well, it could be configured to Yantar swamp, but again I'll need a map...</text>
 	</string>
 	<string id="teleport_05_dialog_4">
 		<text>Ah-ah! I know - Marked One features are much, bring those traits that?</text>
@@ -3222,7 +3222,7 @@ new PKM ammunition box and descr. line:172 aleks1970, artmod_322_dialog_4, remov
 		<text>"Miming"... For me ?.</text>
 	</string>
 	<string id="strelok_pda1_dialog_0">
-		<text>Ehh... How many good men took by the ZONE.</text>
+		<text>Ehh... How many good men taken by the Zone...</text>
 	</string>
 	<string id="strelok_pda1_dialog_1">
 		<text>is exactly... I thought, and you too will not see more...</text>

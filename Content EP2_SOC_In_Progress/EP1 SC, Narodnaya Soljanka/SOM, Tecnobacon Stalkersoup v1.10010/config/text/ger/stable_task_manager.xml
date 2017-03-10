@@ -24,7 +24,7 @@
 		<text>Help Stalkers fight off the Bandits at Agroprom</text>
 	</string>
 	<string id="barmen_defend_camp_2_text">
-		<text>So here's the deal. Recently a group of stalkers went to Agroprom. The last time they contacted, they said that there was something valuable in the underground, but they were pressed hard by the bandits. They're holding on, but they can't clear out. Will you help them out?</text>
+		<text>So here's the deal. Recently a group of stalkers went to Agroprom. The last time they contacted us, they said that there was something valuable in the underground, but they were pressed hard by the bandits. They're holding on, but they can't clear out. Will you help them out?</text>
 	</string>
 	<string id="barmen_eliminate_camp_1">
 		<text>Eliminate the bandits at the Garbage</text>
@@ -132,7 +132,7 @@
 		<text>Find a Goldfish artefact</text>
 	</string>
 	<string id="barmen_find_artefact_5_text">
-		<text>Marked One, you know the fairytale about the Goldfish? Yeah, yeah, that's the one. There are a bunch of jokes about it too. So anyway, there's this old man who keeps on wanting to catch it. Bottom line, I need the one-of-a-kind artefact called Goldfish, the client is from the outside, respectable. Will you help out?</text>
+		<text>Marked One, you know the fairy tale about the Goldfish? Yeah, yeah, that's the one. There are a bunch of jokes about it too. So anyway, there's this old man who keeps on wanting to catch it. Bottom line, I need the one-of-a-kind artefact called Goldfish, the client is from the outside, respectable. Will you help out?</text>
 	</string>
 	<string id="barmen_find_item_1">
 		<text>Find psi-suit</text>
@@ -231,7 +231,7 @@
 		<text>Bring a Feral Cat's tail</text>
 	</string>
 	<string id="barmen_monster_part_3_text">
-		<text>There is in sight, there is... With the 'Big Land' received an application on the tail of the local cats. From an artist friend, he came to visit us once, 'to write a place full of decadent charm.' We did, of course with the territory is not allowed, but that was painted notable. So, he argues that from the wool of these cats get a very good pile of trusses. Of course, I understand, is a dangerous business, alone, these creatures do not run hither, but... money is money. Yes, and you're like no greenhorn. Well, Spot, would you take for it?</text>
+		<text>Received an assignment from the "Big Land" to get a tail of one of the local cats. An artist friend came to visit us once, "to write a place full of decadent charm", or so he said. Anyways, he says that the pelts of these cats are very valuable. Of course, I understand that this is dangerous business. These creatures are not easy to hunt down, but... money is money. So...what do you say?</text>
 	</string>
 	<string id="barmen_monster_part_4">
 		<text>Find a Tushkano head</text>
@@ -240,7 +240,7 @@
 		<text>Find a Tushkano head</text>
 	</string>
 	<string id="barmen_monster_part_4_text">
-		<text>Work, you say? I have a lesson for you, Spot. One of my friends, the local busy, as there he called it... 'Underground spirits'. He has a prescription compound, but the quality of end product - my compliments. So, he constantly needs Tushkano Heads, extracts it from their brains, Ha-ha-ha-ha, which opened his eyes? But the fusel oils and other rubbish in his home brew less than half that in the 'Cossacks"! But do not worry so reward for the extraction of Vodka do not you ladies. Well, respecting the old man?</text>
+		<text>Work, you say? I have some work for you. One of my friends want's a head from a tushkano. What for? No idea, maybe for a tasy stew, but I'd rather not know. Will you go get one for me?</text>
 	</string>
 	<string id="dolg_defend_lager_1">
 		<text>Protect the security post of the Duty</text>
@@ -258,7 +258,7 @@
 		<text>Destroy the zombies at Yantar</text>
 	</string>
 	<string id="dolg_eliminate_lager_1_text">
-		<text>Recently we sent a group to Yantar. Unfortunately, nobody from the group returned. I was informed that they saw a few zombied stalkers from the group not far from the mobile lab of the scientists at Yantar. We can't allow them to remain in that horrible state. Your assignment: find and destroy that, which they've become</text>
+		<text>Recently we sent a group to Yantar. Unfortunately, nobody from the group returned. I was informed that they saw a few zombied stalkers from the group not far from the mobile lab of the scientists at Yantar. We can't allow them to remain in that horrible state. Your assignment: find and destroy those which they've become</text>
 	</string>
 	<string id="dolg_eliminate_lager_10">
 		<text>Get rid of the pack of dogs</text>
@@ -402,7 +402,7 @@
 		<text>Get a poltergeist eye</text>
 	</string>
 	<string id="dolg_monster_part_1_text">
-		<text>Smirnov, Spot! Saluting! What you say? Already passed the guard on duty at the entrance? And even got a ticket? Well, joker... Okay, to business. In general, the 'great land' was urgently needed eye 'poltergeist'. Preferably, intact. I know, Spot, that you're an experienced stalker, seen a lot, so I think that with such a task you could do. Reward worthy. Well, if you do not want, tell me immediately. Forcing will not</text>
+		<text>The 'Great Land' has urgently requested the need for an eye from a Poltergeist. Preferably, still intact. I know that you're an experienced stalker and have seen a lot, so I think that you can do such a task. The reward will be worth it. What do you say?</text>
 	</string>
 	<string id="dolg_monster_part_2">
 		<text>Get a zombie hand</text>
@@ -411,7 +411,7 @@
 		<text>Get a zombie hand</text>
 	</string>
 	<string id="dolg_monster_part_2_text">
-		<text>Ease... Assignments, you say? There is a job, and just on your part. Met in the zone zombies? No, not those with weapons, and those who hand waving. What? Oh, no, no breaks! (Mumbles under his breath) And how do you do about the breaks you know them in the Zone for six months, as no. Oh, well. Look, how this creature looks like. I have it all to what... Job or appeared. The good, the money. We need, therefore, we hand it is from such a handsome man. Well, liking a little adventure?</text>
+		<text>A job, you say? There is a job. Just the right one for you, too. Have you met the Zone's local zombies? Go say hello to one of them, kill it, cut off one of its hands, and bring it back. So, do you have the guts?</text>
 	</string>
 	<string id="drunk_dolg_find_item">
 		<text>Find the Dutyer's lost weapon</text>
@@ -492,7 +492,7 @@
 		<text>Bring out of the underground laboratory X16 the unusual suit</text>
 	</string>
 	<string id="ecolog_find_item_2_text">
-		<text>We have some business with you. Recently we hired a stalker to get into the laboratory. Even then I noticed his unusual bodysuit - it gave off noticeable heat. The stalker said that the bodysuit itself can heal wounds. Bottom line - the stalker didn't return from the lab. Oh no - don't even think it! We had nothing to do with it! And his bodysuit is most likely still there. I would be very glad to get it for research</text>
+		<text>We have some business with you. Recently we hired a Stalker to get into the laboratory. Even then I noticed his unusual bodysuit - it gave off noticeable heat. The stalker said that the bodysuit itself can heal wounds. Bottom line - the Stalker didn't return from the lab. Oh no - don't even think it! We had nothing to do with it! And his bodysuit is most likely still there. I would be very glad to get it for research</text>
 	</string>
 	<string id="ecolog_monster_part_1">
 		<text>Obtain part of a Snork</text>
@@ -537,16 +537,16 @@
 		<text>What they are going to do with bloodsucker's jaw, I don't care. I care about how much they will give me for this rarity</text>
 	</string>
 	<string id="ecolog_monster_part_5_text">
-		<text>Oh, stalker, glad to see you! Listen... You've already encountered bloodsuckers in your travels? If not, then we would like to make it happen. As soon as you can, bring us the lower jaw of one - and all, so to speak, cutlery. Unfortunately, I cannot let you in on the details of the experiment... maybe this will negatively affect the stability of your psyche. We'll wait and see...</text>
+		<text>OOh, stalker, glad to see you! Listen… You already met bloodsuckers in your adventures, right? If not, then we want it to happen. Bring us the lower jaw of the representative of this species, with all his so to say tableware. Unfortunately, I can't disclose the details of the experiment, besides it will negatively impact the stability of your psyche. We'll be waiting...</text>
 	</string>
 	<string id="ecolog_monster_part_6">
-		<text>Get a hand controller</text>
+		<text>Find a hand of a Controller</text>
 	</string>
 	<string id="ecolog_monster_part_6_descr">
-		<text>Environmentalists want a controller hand, they do not accidentally want to also learn how to manage beings?</text>
+		<text>The scientists want a hand from a Controller</text>
 	</string>
 	<string id="ecolog_monster_part_6_text">
-		<text>Ekhm... Labelled? I think in your travels you come across one very curious creature, called 'controller"? Us, you see, are very interested in some of his abilities... If you provide us with the necessary material for research, a hand, for example, we will be very grateful...</text>
+		<text>I think in your travels that you have come across one very curious creature, called a 'Controller'. We are very interested in some of its abilities. If you provide us with the necessary material for research, perhaps a hand, for example, we will be very grateful...</text>
 	</string>
 	<string id="eliminate_lager">
 		<text>Camp elimination</text>
@@ -627,13 +627,13 @@
 		<text>Our sniper sits at the entrance to the base. He sits there in the tower at night...it's quiet, night-time...and suddenly there's an explosion, wild screeching, a flash! What the!...It turns out, Boars and fleshes got into the habit of wandering around by the minefield. The devil knows what makes them go there, but sure enough at least once every week one of those beasts gets torn up by a mine. The assignment is simple - kill all of those suckers off. Will you do it?</text>
 	</string>
 	<string id="freedom_eliminate_camp_7">
-		<text>Destroy the herd of rodents</text>
+		<text>Exterminate the Tushkano nest</text>
 	</string>
 	<string id="freedom_eliminate_camp_7_descr">
-		<text>Destroy the herd of rodents in the Wild Territory</text>
+		<text>Exterminate the Tushkano nest in the Wild Territory</text>
 	</string>
 	<string id="freedom_eliminate_camp_7_text">
-		<text>There are no rodents anywhere near our base, those these creatures can get anywhere. And just recently there were so many of them here - you wouldn't believe it. Two months we dealt with them...he he he. So, we figured out where the rodents came from to our base. From the Wild Territory, you follow? There's a fear that these jumping rats will multiply and return. We need a man to take care of them for us. Will you go?</text>
+		<text>There are no rodents anywhere near our base, but these creatures can get anywhere. And just recently there were so many of them here - you wouldn't believe it. Two months we dealt with them...he he he. So, we figured out where the rodents came from to our base. From the Wild Territory, you follow? There's a fear that these jumping rats will multiply and return. We need a man to take care of them for us. Will you go?</text>
 	</string>
 	<string id="freedom_find_item_1">
 		<text>Steal the sniper rifle</text>
@@ -642,7 +642,7 @@
 		<text>Steal the modified SVD from the Duty warehouse</text>
 	</string>
 	<string id="freedom_find_item_1_text">
-		<text>There is a special assignment. And pretty tough, too... So, you'll need to retrieve an improved Dragunov from the Duty Warehouse. This piece even has a name of its own, but never mind. The main thing is that with its awesome scope and recoil canceller you can shoot a squirrel in the eye from 400 meters. So, I trust you'll do it!</text>
+		<text>There is a special assignment. And pretty tough, too... So, you'll need to retrieve an improved Dragunov from the Duty Warehouse. This piece even has a name of its own, but never mind. The main thing is that with its awesome scope and recoil canceller you can shoot a squirrel in the eye from 400 metres. So, I trust you'll do it!</text>
 	</string>
 	<string id="freedom_find_item_2">
 		<text>Obtain the modified Chaser 13</text>
@@ -732,13 +732,13 @@
 		<text>Obtain the leg of a Boar</text>
 	</string>
 	<string id="freedom_monster_part_1_text">
-		<text>We got dinner planned in honor of the birthday of Bob Marley. You, brother, get us a Boar's leg tastiest, eh? Or better two! Jah will never forget you!.</text>
+		<text>We're planning a dinner party to celebrate Bob Marley's birthday. So why don't you get us some delicious ham? The more the better! Jah will never forget you!</text>
 	</string>
 	<string id="freedom_monster_part_2">
 		<text>Bring claw of chimeras</text>
 	</string>
 	<string id="freedom_monster_part_2_descr">
-		<text>Bring claw of chimeras</text>
+		<text>Find a Chimera's claw</text>
 	</string>
 	<string id="freedom_monster_part_2_text">
 		<text>Oh! Friend poor fellow, stalker sinner! Spot, psycho, the son of a whore! And we're just about you it led. So that I say: 'mark - a grip that from living chimeras claw inflicts!' And these two dunce do not believe me, can you imagine? They say: 'Let the dead at least a tear.' See what they are suspicious? I'll suggest that's what: you're my claw, and I'll - swag sack. Weighty. So, get me a claw?</text>
@@ -750,7 +750,7 @@
 		<text>The hunter is asking to purge the lair of the bloodsucker in the village near the Military Warehouses, and in return he promises a rare artefact</text>
 	</string>
 	<string id="hunter_eliminate_lager_text">
-		<text>Have you ever run into a bloodsucker? Horrible thing, isn't it? Well the other day I went to the village by the Military Warehouses, thought I'd look for some artefacts. And imagine this: suddenly I see a bloodsucker, black, and with scars all over. He's sitting over the corpse, doesn't see me. I freaked out and made a run for it. I shouldn't have started running though, because he heard me and went after me, and there was all this growling all around me and then I realised that he wasn't alone. I think they have a lair there. If you could chase them away from there, I would give you a rare artefact that I found a couple days ago</text>
+		<text>Have you ever run into a bloodsucker? Horrible thing, isn't it? Well the other day I went to the village by the Military Warehouses, thought I'd look for some artefacts. And imagine this: suddenly I see a bloodsucker, black, and with scars all over. He's sitting over the corpse, doesn't see me. I freaked out and made a run for it. I shouldn't have started running though, because he heard me and went after me, and there was all this growling all around me and then I realised that he wasn't alone. I think they have a lair there. If you could chase them away from there, I would gratefully give you a rare artefact that I found a couple days ago...</text>
 	</string>
 	<string id="kill_stalker">
 		<text>Kill the traitor</text>
@@ -762,25 +762,25 @@
 		<text>Baldy wants you to kill a traitor who took off with a very rare artefact</text>	<!-- Changed 'Bald' to 'Baldy'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="lisiy_kill_stalker_text">
-		<text>A while ago another stalker and I went looking for an artefact right next to the scorcher. We found so much stuff, even found a couple of artefacts that I'd never seen before, not even pictures of them. So that son of a bitch tricked me. During the last night he snuck off and hid the most valuable artefacts. And then tried to tell me that they disappeared on their own. A couple days ago I saw one of those very rare artefacts at the Bar. I was so pissed... Anyway, stalker, if you could find him, send him a lead greeting from me. And while you're at it, maybe you can find out where his secret stash is and get the second artefact. It's worth it, believe me</text>
+		<text>A while ago another Stalker and I went looking for an artefact right next to the Scorcher. We found so much stuff, even found a couple of artefacts I'd never seen before, not even pictures of them! Anyway, that son of a bitch tricked me. During the last night he snuck off and hid the most valuable artefacts. Then next day he tried to tell me that they disappeared on their own. When I saw one of those artefacts at the Bar a couple days ago... I felt so betrayed...\nAnyway, Stalker, if you find him, give him a heavy metal greeting from me. While you're at it, maybe you can find out where his secret stash is and get the second artefact. It's yours, with my compliments...</text>
 	</string>
 	<string id="mercenary_kill_stalker">
-		<text>Kill master stalker</text>
+		<text>Kill a Master Stalker</text>
 	</string>
 	<string id="mercenary_kill_stalker_descr">
-		<text>The Merc should pay for the culling of each Master Stalker. The fewer Masters there are, the easier it is for the Mercs</text>
+		<text>The Mercs should pay for the culling of each Master Stalker. The fewer Masters there are, the easier it is for the Mercs</text>
 	</string>
 	<string id="mercenary_kill_stalker_text">
-		<text>We're concerned about walking dreadnoughts wandering the Zone. Stalkers in Exoskeletons armed to the teeth. The work becomes even more dangerous and harder for us, and they get all the best pickings. The fewer of them there are - the better it is for us. Kill one of them - and receive a reward</text>
+		<text>Everyone's concerned about these walking dreadnoughts wandering the Zone. Stalkers in Exoskeletons armed to the teeth. They make everything harder and more dangerous for us, and they get all the best pickings. The fewer of them there are, the better it is for everyone else. Take down one of them, and you'll be well rewarded...</text>
 	</string>
 	<string id="monster_part">
 		<text>Obtain a mutant body part</text>	<!-- Was 'Get a part of a monster' - Sword2012-->
 	</string>
 	<string id="petrenko_kill_stalker">
-		<text>Destroy the stalker from Freedom</text>
+		<text>Destroy the Stalker from Freedom</text>
 	</string>
 	<string id="petrenko_kill_stalker_descr">
-		<text>One stalker, a former dutyer, who had a lot of important information about objects at Pripyat, recently came over to the Freedom side. He needs to be silenced before he says too much</text>
+		<text>One Stalker, a former Dutyer, who had a lot of important information about objects at Pripyat, recently came over to the Freedom side. He needs to be silenced before he says too much</text>
 	</string>
 	<string id="petrenko_kill_stalker_text">
 		<text>Listen here. We have maps of Pripyat - not up-to-date ones, but old ones, made in the early 90's. The most important thing on them is the marking of all military objects: underground warehouses, bomb shelters. Now there's little use from it, of course, but if we find a road to Pripyat, this information will become priceless. Here's the problem though. One of the officers went over to the Freedom side, and he knew about this information. Bottom line, he needs to be silenced before he says too much</text>
@@ -795,10 +795,10 @@
 		<text>Find the perfected suit</text>
 	</string>
 	<string id="shustriy_find_item_descr">
-		<text>Nimble told us about the stash of the bandits where they hid the Habar. He's asking to bring back the stolen suit, for a reward, of course</text>
+		<text>Nimble told us about the stash of the bandits where they hid the gear. He's asking to bring back the stolen suit, for a reward, of course</text>
 	</string>
 	<string id="shustriy_find_item_text">
-		<text>While I was in captivity, I heard the bandits talking about their secret stash, where they keep the Habar. Heard that they hid a cool coat there, and the next day some monster got his eye on the stash. And he became so interested in it that now they're afraid to go there. Do me a favor, bring me the suit, and I'll pay you well</text>
+		<text>While I was in captivity, I heard the bandits talking about their secret stash, where they keep the gear. Heard that they hid a cool coat there, and the next day some monster got his eye on the stash. And he became so interested in it that now they're afraid to go there. Do me a favor, bring me the suit, and I'll pay you well</text>
 	</string>
 	<string id="tm_barman_has_no_job">
 		<text>I can't offer anything at the moment</text>
@@ -822,7 +822,7 @@
 		<text>Cover the Duty detachment from the attack of the bandits in the Dark Valley</text>
 	</string>
 	<string id="tm_defend_camp_1_text">
-		<text>I finally managed to get it into the thick heads of the dutyers that it's high time to purge the Garbage from bandits. The Duty will get to enlarge its territory and they won't damage my regular clients as often. Well, here's the deal - the leadership of the Duty decided, for starters, to cut off the flow of bandits from the Dark Valley. So they sent out a blockade detachment and discovered that the bandits didn't like that. Who would have thought! So what I'm wondering is, could you help them secure the entrance to the Valley? I'll thank you handsomely</text>
+		<text>I finally managed to get it into the thick heads of the Dutyers that it's high time to purge the Garbage from bandits. The Duty will get to enlarge its territory and they won't damage my regular clients as often. Well, here's the deal - the leadership of the Duty decided, for starters, to cut off the flow of bandits from the Dark Valley. So they sent out a blockade detachment and discovered that the bandits didn't like that. Who would have thought! So what I'm wondering is, could you help them secure the entrance to the Valley? I'll thank you handsomely</text>
 	</string>
 	<string id="tm_dolg_has_no_job">
 		<text>There are no jobs available right now</text>
@@ -948,7 +948,7 @@
 		<text>Find a Night Star, a rare and expensive artefact</text>
 	</string>
 	<string id="tm_find_artefact_3_text">
-		<text>There is this one little job... rather unpleasant. Apparently, it's coming from the military, they're working on some new protection. Anyway, there's an order for the Night Star. It's quite a rare artefact, but it provides pretty good protection from bullets... So will you do it? I'll pay you well!</text>
+		<text>There is this one rather unpleasant little job... Apparently, it's coming from the military, they're working on some new protection. Anyway, there's an order for the Night Star. It's quite a rare artefact, but it provides pretty good protection from gunfire... So will you do it? I'll pay you well!</text>
 	</string>
 	<string id="tm_find_artefact_4">
 		<text>Find a Meat Chunk artefact</text>
@@ -963,10 +963,10 @@
 		<text>Find the perfected pistol</text>
 	</string>
 	<string id="tm_find_item_1_descr">
-		<text>Obtain the gun called Fort that has, rumor has it, a larger amount of cartridges in its magazine. Its last known owner was the commander of the military checkpoint under the broken down bridge</text>
+		<text>You need to find a modified Fort-12 pistol that's carries a larger amount of cartridges in its magazine. The last known owner was the commander of the military checkpoint under the broken-down bridge</text>
 	</string>
 	<string id="tm_find_item_1_text">
-		<text>Man, now there's a fad about using rigged weapons and nobody wants to shoot from normal weapons anymore, not even the newbies! Anyway, there's an order for an improved machine gun. Rumor has it the commander of the soldiers, the one who collects money for passing under the bridge, has a 'Fort' with a fat cartridge clip. Will you get it?</text>
+		<text>Man, there's a new fad about using rigged weapons and nobody wants to shoot normal weapons anymore - not even the rookies! Anyway, there's an order for a modified gun. Rumor has it the commander of the soldiers, the one who collects money for passing under the bridge, has a 'Fort-12' with an extended magazine. Will you get it?</text>
 	</string>
 	<string id="tm_freedom_has_no_job">
 		<text>There's no job right now, really...</text>
@@ -1059,7 +1059,7 @@
 		<text>Kill the 'sales representative'. The trader is looking after his reputation</text>
 	</string>
 	<string id="tm_kill_stalker_6_text">
-		<text>Imagine this: there's some weirdo running around here who introduces himself as my sales representative, uses my reputation, and then tries to hand off second-rate stuff! Broken barrels, the armor that's falling apart, expired canned goods. I've already had to deal with a few unhappy clients. Bottom line, I need a man to have a little chat with that 'sales representative', whatever it takes</text>
+		<text>Listen, there's a guy wandering around introducing himself as my sales representative. But he's using my reputation to pass off second-rate gear! Broken rifles, armor that's been shot up internally, cheap knock-offs. I've already had to deal with a few pissed off clients, and those are the ones who are still alive... Bottom line - someone needs to deal with him - you understand?</text>
 	</string>
 	<string id="tm_lisiy_has_no_job">
 		<text>For the moment there's nothing</text>
@@ -1098,7 +1098,7 @@
 		<text>So the tentacles of the Bloodsucker bring good luck? It's going to be an unlucky Bloodsucker...</text>
 	</string>
 	<string id="tm_monster_part_1_text">
-		<text>I heard a superstition that the jaw of a Bloodsucker brings you good luck. As if the one who wears that tooth around his neck gets past the anomalies, and artefacts fall right into his hands. Anyway, it's all bullshit, but there are some dopes who believe it all and are ready to pay well for it. If you bring me a bloodsucker jaw, I'll pay you well</text>
+		<text>I heard a superstition that the jaw of a Bloodsucker brings you good luck. As if the one who wears that thing around his neck gets past the anomalies, and artefacts fall right into his hands. Anyway, it's all bullshit, but there are some dopes who believe it all and are ready to pay well for it. If you bring me a bloodsucker jaw, I'll pay you well</text>
 	</string>
 	<string id="tm_monster_part_2">
 		<text>Bring over the tail of a Pseudodog</text>
@@ -1107,7 +1107,7 @@
 		<text>Bring over the tail of a Pseudodog</text>
 	</string>
 	<string id="tm_monster_part_2_text">
-		<text>Winter soon. And what in the winter there, on continent, women like to carry? Correct! To carry furs they love. Here the fashion new also has gone, accessories of Pseudodog tails! Wool there what that especial! More shortly, there is an order for such a tail. You will undertake?</text>
+		<text>Winter's coming soon. And what do chicks like to wear there on the Big Land during winter? That's right - furs. So now there's a new fashion going around, making various accessories from the tails of pseudodogs. It's some sort of special fur! Don't bring me a blind dog's tail -- I won't take it. Bottom line, I'll pay for a real pseudodog tail. Will you get me one?</text>
 	</string>
 	<string id="tm_monster_part_3">
 		<text>Find a hand of the Pseudogiant</text>
@@ -1119,13 +1119,13 @@
 		<text>Task is also difficult. It is hard work. You are ready, you speak? In general, one defensive enterprise has made the order for a hand of the Pseudogiant. What you speak? A foot? And, lines it will disassemble that this such! In general what it goes. The enterprise serious, pays very well. But consider, - the Pseudogiant - the creature is extremely dangerous. I already sent two - have hardly crawled back. And you the stalker serious, know the possibilities. What do you say?</text>
 	</string>
 	<string id="tm_monster_part_4">
-		<text>Find a Burer hand</text>
+		<text>Find a Burer's hand</text>
 	</string>
 	<string id="tm_monster_part_4_descr">
-		<text>Find a Burer hand</text>
+		<text>Find a Burer's hand</text>
 	</string>
 	<string id="tm_monster_part_4_text">
-		<text>So, Marked One... In trophies from the Zone, power structures friendly and not so friendly strongly are interested. One came to me recently: in a suit, with a diplomat, dry as a stick. Also speaks somehow miraculously... 'Is', - speaks, - 'organism strongly interesting a part of Burer. Very to wish it to receive.' Opens a suitcase, and there green that at the fool of candy wrappers. To You 'greens' to what, I know, but for me will not rust. I will present, so to say, swag and 'loot', he-he...</text>
+		<text>So, Marked One... powerful people, friendly and not so friendly, are strongly interested in trophies from the Zone. One came to me recently: in a suit, looking like a diplomat, dry as a stick. He spoke so properly... "His", - he says, - "organisation is strongly interested in aquiring a part of a Burer. For delivering this item, I will be most generous in compensation." He opens a suitcase, and it was full of cash, he-he...</text>
 	</string>
 	<string id="tm_petrenko_has_no_job">
 		<text>For the moment there's nothing</text>
@@ -1146,7 +1146,7 @@
 		<text>I'm here for the job</text>
 	</string>
 	<string id="tm_seek_job_abandon">
-		<text>I'm not interested in those kind of jobs</text>
+		<text>I'm not interested in that kind of job...</text>
 	</string>
 	<string id="tm_seek_job_no">
 		<text>Some other time</text>
@@ -1158,10 +1158,10 @@
 		<text>What will I receive for it?</text>
 	</string>
 	<string id="tm_seek_new_job">
-		<text>I need a job. Do you have something for me?</text>
+		<text>I need a job. Do you have anything?</text>
 	</string>
 	<string id="tm_shustriy_has_no_job">
-		<text>For the moment there's nothing</text>
+		<text>At the moment there's nothing, sorry...</text>
 	</string>
 	<string id="tm_shustriy_job_ask">
 		<text>Which assignment do you want to talk about?</text>
@@ -1278,7 +1278,7 @@
 		<text>Find a Mother's Beads artefact for Zahar</text>
 	</string>
 	<string id="green_find_artefact_3_text">
-		<text>Again, Marked One, scientists on a neck have sat down, here and now it is artefact 'Mother's Beads'! And where it to take? You will find - I will return the favor, an award corresponding! Yes, nearly has not forgotten, from me Marked One, cost for itself just in case, but, to you these things it is more necessary</text>
+		<text>Again, Marked One, scientists have ordered for an artefact. This time a Mother's Beads artefact. Find it and a reward will be given to you</text>
 	</string>
 	<string id="green_find_artefact_4">
 		<text>Find an Electric Porcupine artefact</text>
@@ -1287,16 +1287,16 @@
 		<text>Find an Electric Porcupine artefact for Zahar</text>
 	</string>
 	<string id="green_find_artefact_4_text">
-		<text>Both, Marked One! In time, just, business to you is. The order for one artefact, Sakharov lately absolutely - demands only the best, and good artefacts simply on road do not roll. In general, it is necessary to find artefact 'Electric Porcupine'. You will bring - you will not regret, I will begin to cry generously, besides, here one of ours has disappeared recently, and so, I will share the information about his hiding place. It is all the same not so necessary to it</text>
+		<text>Marked One! Just in time. There is business for you. Sakharov lately has demanded only the best artefacts. He wants an Electric Porcupine. Bring it and you will not regret doing so. For your reward, I will share information of a hidden stash.</text>
 	</string>
 	<string id="tm_green_has_no_job">
-		<text>At present there is nothing</text>
+		<text>Currently, there is nothing...</text>
 	</string>
 	<string id="tm_green_job_ask">
-		<text>About what task you want to talk?</text>
+		<text>What task do you want to talk about?</text>
 	</string>
 	<string id="tm_green_job_complete">
-		<text>Task is executed... take payment!</text>
+		<text>Task is completed... Here is the payment!</text>
 	</string>
 	<string id="tm_green_job_what">
 		<text>What about it?</text>

@@ -1,5 +1,6 @@
 <!-- TB3D 1.1.0.0.0.4 FSS, prvt ponds to adrenaline -->
 <!-- Names changed as commented below - Sword2012 - 31 Oct 16 -->
+<!-- Capitalised first letter of 31 names - Sword2012 - 05 Feb 17 -->
 <string_table>
 #include "text\ger\stable_generate_fnames.xml"
 	<string id="lname_bandit_0">
@@ -921,7 +922,7 @@
 		<text>Andrushchenko</text>
 	</string>
 	<string id="lname_captain_30">
-		<text>Vasiliev</text>	<!-- Changed 'Vasilev' to 'Vasiliev'- Sword2012 - 31 Oct 16-->
+		<text>Vasiliev</text> <!-- Changed 'Vasilev' to 'Vasiliev'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="lname_captain_31">
 		<text>Veselov</text>
@@ -1371,13 +1372,13 @@
 		<text>Protsenko</text>
 	</string>
 	<string id="lname_lieutenant_165">
-		<text>ponds</text>
+		<text>Ponds</text>
 	</string>
 	<string id="lname_lieutenant_166">
 		<text>Pustovar</text>
 	</string>
 	<string id="lname_lieutenant_167">
-		<text>packs</text>
+		<text>Packs</text>
 	</string>
 	<string id="lname_lieutenant_168">
 		<text>Rabinovich</text>
@@ -1458,7 +1459,7 @@
 		<text>Smelov</text>
 	</string>
 	<string id="lname_lieutenant_191">
-		<text>pitch</text>
+		<text>Pitch</text>
 	</string>
 	<string id="lname_lieutenant_192">
 		<text>Sorokin</text>
@@ -1521,7 +1522,7 @@
 		<text>Andrushchenko</text>
 	</string>
 	<string id="lname_lieutenant_30">
-		<text>Vasiliev</text>	<!-- Changed 'Vasilev' to 'Vasiliev'- Sword2012 - 31 Oct 16-->
+		<text>Vasiliev</text> <!-- Changed 'Vasilev' to 'Vasiliev'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="lname_lieutenant_31">
 		<text>Veselov</text>
@@ -1971,13 +1972,13 @@
 		<text>Protsenko</text>
 	</string>
 	<string id="lname_private_165">
-		<text>ponds</text>
+		<text>Ponds</text>
 	</string>
 	<string id="lname_private_166">
 		<text>Pustovar</text>
 	</string>
 	<string id="lname_private_167">
-		<text>packs</text>
+		<text>Packs</text>
 	</string>
 	<string id="lname_private_168">
 		<text>Rabinovich</text>
@@ -2058,7 +2059,7 @@
 		<text>Smelov</text>
 	</string>
 	<string id="lname_private_191">
-		<text>pitch</text>
+		<text>Pitch</text>
 	</string>
 	<string id="lname_private_192">
 		<text>Sorokin</text>
@@ -2745,7 +2746,7 @@
 		<text>Smelov</text>
 	</string>
 	<string id="lname_sergeant_191">
-		<text>pitch</text>
+		<text>Pitch</text>
 	</string>
 	<string id="lname_sergeant_192">
 		<text>Sorokin</text>
@@ -3051,7 +3052,7 @@
 		<text>Romantic</text>
 	</string>
 	<string id="lname_stalker_102">
-		<text>fierce</text>
+		<text>Fierce</text>
 	</string>
 	<string id="lname_stalker_103">
 		<text>Silach</text>
@@ -3132,7 +3133,7 @@
 		<text>Chronicles</text>
 	</string>
 	<string id="lname_stalker_127">
-		<text>thin</text>
+		<text>Thin</text>
 	</string>
 	<string id="lname_stalker_128">
 		<text>Tsinik</text>
@@ -3171,13 +3172,13 @@
 		<text>Counsel</text>
 	</string>
 	<string id="lname_stalker_139">
-		<text>doctor</text>
+		<text>Doctor</text>
 	</string>
 	<string id="lname_stalker_14">
 		<text>Blatnoj</text>
 	</string>
 	<string id="lname_stalker_140">
-		<text>apostle</text>
+		<text>Apostle</text>
 	</string>
 	<string id="lname_stalker_141">
 		<text>Artist</text>
@@ -3210,7 +3211,7 @@
 		<text>Bogatyr</text>
 	</string>
 	<string id="lname_stalker_150">
-		<text>fighter</text>
+		<text>Fighter</text>
 	</string>
 	<string id="lname_stalker_151">
 		<text>Bomzh</text>
@@ -3228,7 +3229,7 @@
 		<text>Bourget</text>
 	</string>
 	<string id="lname_stalker_156">
-		<text>bureaucrat</text>
+		<text>Bureaucrat</text>
 	</string>
 	<string id="lname_stalker_157">
 		<text>Vandal</text>
@@ -3261,13 +3262,13 @@
 		<text>Chief</text>
 	</string>
 	<string id="lname_stalker_166">
-		<text>thief</text>
+		<text>Thief</text>
 	</string>
 	<string id="lname_stalker_167">
 		<text>Voyazher</text>
 	</string>
 	<string id="lname_stalker_168">
-		<text>doctor</text>
+		<text>Doctor</text>
 	</string>
 	<string id="lname_stalker_169">
 		<text>Rider</text>
@@ -3441,7 +3442,7 @@
 		<text>Engineer</text>
 	</string>
 	<string id="lname_stalker_22">
-		<text>important</text>
+		<text>Important</text>
 	</string>
 	<string id="lname_stalker_220">
 		<text>Mogilschik</text>
@@ -3456,7 +3457,7 @@
 		<text>Butcher</text>
 	</string>
 	<string id="lname_stalker_224">
-		<text>mercenary</text>
+		<text>Mercenary</text>
 	</string>
 	<string id="lname_stalker_225">
 		<text>Nastroyschik</text>
@@ -3507,13 +3508,13 @@
 		<text>Pahar</text>
 	</string>
 	<string id="lname_stalker_24">
-		<text>lucky</text>
+		<text>Lucky</text>
 	</string>
 	<string id="lname_stalker_240">
 		<text>Patsifist</text>
 	</string>
 	<string id="lname_stalker_241">
-		<text>carrier</text>
+		<text>Carrier</text>
 	</string>
 	<string id="lname_stalker_242">
 		<text>Pianist</text>
@@ -3564,7 +3565,7 @@
 		<text>Professor</text>
 	</string>
 	<string id="lname_stalker_257">
-		<text>jumper</text>
+		<text>Jumper</text>
 	</string>
 	<string id="lname_stalker_258">
 		<text>Pchelovod</text>
@@ -3630,7 +3631,7 @@
 		<text>Slesar</text>
 	</string>
 	<string id="lname_stalker_277">
-		<text>suicide</text>
+		<text>Suicide</text>
 	</string>
 	<string id="lname_stalker_278">
 		<text>Sobachnik</text>
@@ -3642,10 +3643,10 @@
 		<text>Glyba</text>
 	</string>
 	<string id="lname_stalker_280">
-		<text>Sportsmen</text>
+		<text>Sportsman</text><!-- Was 'Sportsmen'- Sword2012 - 05 Feb 17-->
 	</string>
 	<string id="lname_stalker_281">
-		<text>stranger</text>
+		<text>Stranger</text>
 	</string>
 	<string id="lname_stalker_282">
 		<text>Student</text>
@@ -3666,13 +3667,13 @@
 		<text>Tankist</text>
 	</string>
 	<string id="lname_stalker_288">
-		<text>dancer</text>
+		<text>Dancer</text>
 	</string>
 	<string id="lname_stalker_289">
 		<text>Tiran</text>
 	</string>
 	<string id="lname_stalker_29">
-		<text>rotten</text>
+		<text>Rotten</text>
 	</string>
 	<string id="lname_stalker_290">
 		<text>Torgash</text>
@@ -3702,7 +3703,7 @@
 		<text>Sniper</text>
 	</string>
 	<string id="lname_stalker_299">
-		<text>chemist</text>
+		<text>Chemist</text>
 	</string>
 	<string id="lname_stalker_3">
 		<text>Rzhavy</text>
@@ -3966,13 +3967,13 @@
 		<text>Horek</text>
 	</string>
 	<string id="lname_stalker_378">
-		<text>worm</text>
+		<text>Worm</text>
 	</string>
 	<string id="lname_stalker_379">
 		<text>Shatun</text>
 	</string>
 	<string id="lname_stalker_38">
-		<text>dead</text>
+		<text>Dead</text>
 	</string>
 	<string id="lname_stalker_380">
 		<text>Absolut</text>
@@ -4023,7 +4024,7 @@
 		<text>Fanatic</text>	<!-- Changed 'Fan' to 'Fanatic'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="lname_stalker_395">
-		<text>helicopter</text>
+		<text>Helicopter</text>
 	</string>
 	<string id="lname_stalker_396">
 		<text>Wind</text>
@@ -4083,7 +4084,7 @@
 		<text>Castle</text>
 	</string>
 	<string id="lname_stalker_412">
-		<text>closure</text>
+		<text>Closure</text>
 	</string>
 	<string id="lname_stalker_413">
 		<text>Izotop</text>
@@ -4101,7 +4102,7 @@
 		<text>Karma</text>
 	</string>
 	<string id="lname_stalker_418">
-		<text>brick</text>
+		<text>Brick</text>
 	</string>
 	<string id="lname_stalker_419">
 		<text>Clay</text>
@@ -4344,7 +4345,7 @@
 		<text>Head</text>
 	</string>
 	<string id="lname_stalker_491">
-		<text>Fang</text>	<!-- Changed 'Canine' to 'Fang'- Sword2012 - 31 Oct 16-->
+		<text>Fang</text> <!-- Changed 'Canine' to 'Fang'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="lname_stalker_492">
 		<text>Kogot</text>
@@ -4836,6 +4837,6 @@
 		<text>Sharp</text>
 	</string>
 	<string id="Osoznanie">
-		<text>representative of "O-Consciousness"</text>
+		<text>Representative of the 'O-Consciousness'</text><!-- Was 'representative of "O-Consciousness"'- Sword2012 - 05 Feb 17-->
 	</string>
 </string_table>

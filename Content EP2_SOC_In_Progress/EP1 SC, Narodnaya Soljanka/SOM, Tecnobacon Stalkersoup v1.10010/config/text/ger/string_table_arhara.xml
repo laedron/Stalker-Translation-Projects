@@ -4,7 +4,8 @@
  tex_lukash_pechatka, tex_lysyi_klad and many minor edits, tex_otkrut_seif_sadik, boatswain, amber, lukash,
  doc_alive, map_mil_trader, map_mil_tehnician - aleks1970, tex_klenov_vse -->
 <!-- Names changed as commented below - Sword2012 - 31 Oct 16 -->
-<!-- Corrected many generic punctuation, in-game and US/UK spelling errors - Sword2012 - 12 Dec 16 -->
+<!-- Corrected many generic punctuation, in-game and US/UK spelling errors - Sword2012 - 13 Dec 16 -->
+ 
 <string_table>
 	<string id="blow_phrase1">
 		<text>Attention! An emission is imminent! Get out of the open! Find cover!</text>
@@ -13,7 +14,7 @@
 		<text>Attention! An emission is imminent! Find shelter quickly...</text>
 	</string>
 	<string id="blow_phrase3">
-		<text>Attention, Release is coming!</text>
+		<text>Attention! Attention! An emission is expected very soon!</text>
 	</string>
 	<string id="blow_phrase4">
 		<text>Based on meteorological and seismological data, an emission is fast-approaching! Get under cover!</text>
@@ -172,7 +173,7 @@
 	<string id="data_downloaded">
 		<text>Downloaded PDA data:</text>
 	</string>
-	<!-- <string id="mil_secret"> - Duplicated with the 119 line in to the "string_table_tasks_military.xml" file - aleks1970 -->
+<!-- <string id="mil_secret"> - Duplicated with the 119 line in to the "string_table_tasks_military.xml" file - aleks1970 -->
 	<string id="mil_secret_arhara">
 		<text>Military Secret:</text>
 	</string>
@@ -238,7 +239,7 @@
 	</string>
 	<!-- end 10991 -->
 	<string id="tex_take_arhara">
-		<text>Yes, in the zone is nothing just do not ... That's an example - to find the minigun for Adrenaline ... It should be found in Yantar, where the helicopter went down... And where is this Yantar? Customer hinted that he needed to talk with a professor by the name of Sakharov ...</text>
+		<text>Yes, in the zone is nothing just do not ... That's an example - to find the minigun for Adrenalin ... It should be found in Yantar, where the helicopter went down... And where is this Yantar? Customer hinted that he needed to talk with a professor by the name of Sakharov ...</text>
 	</string>
 	<string id="tex_baty_zadan">
 		<text>It was not so simple. We must take Sakharov's special detector, then go to the Wild Territory and seek with this detector for the military thing. What is that thing, I do not know. However, the detector will signal if I'm at a distance of ten meters away from it. After finding it, I should bring it to Sakharov and pick up a minigun for adrenaline.</text>
@@ -256,10 +257,10 @@
 		<text>It is necessary to extract and bring Lukash brain Controller of at least two pieces. You can search for it in the ATP or trudge to the north of Chernobyl ... In addition, find the anarchist and talk to my will, as long as my pocket will not be three hundred thousand scars.</text>
 	</string>
 	<string id="tex_take_disk">
-		<text>Adrenaline gave me information about one of the exits from the ATP and asks you to bring him to drive for the company, which carried him to one of the stalkers. You can, of course, drive, and do not look for it. I did, after all, and so knew where the exit from the territory ... Adrenaline had no choice as to tell me about it before setting. Otherwise, as I got out? But the conscience I still have. So I'll try to do the job.</text>
+		<text>Adrenalin gave me information about one of the exits from the ATP and asks you to bring him to drive for the company, which carried him to one of the stalkers. You can, of course, drive, and do not look for it. I did, after all, and so knew where the exit from the territory ... Adrenalin had no choice as to tell me about it before setting. Otherwise, as I got out? But the conscience I still have. So I'll try to do the job.</text>
 	</string>
 	<string id="enc_atp_way_kordon_text">
-		<text>Adrenaline gave me information about one of the exits from the ATP. Go to the Cordon, presumably, is on these stones.</text>
+		<text>Adrenalin gave me information about one of the exits from the ATP. Go to the Cordon, presumably, is on these stones.</text>
 	</string>
 	<string id="enc_atp_way_military_text">
 		<text>I got information about another outlet with the ATP, the army warehouses. It is somewhere in this corner of the roof. On the third passage knows Sakharov. We must see him, until the bullet is not words ...</text>
@@ -271,7 +272,7 @@
 		<text>I have information on the last, and it seems very proper transition from the ATP - in Pripyat. Judging by this picture, it is necessary to explore this part of the destroyed roof.</text>
 	</string>
 	<string id="tex_take_arhara_doctor">
-		<text>I need to find the lost locket for the Marsh Doctor. It is located in a backpack on the roof of one of the skyscrapers of Pripyat. I can not imagine how I will climbe on the roofs of these ... But the Doc hinted about the possibility of passage for high-rise with the ATP.</text>	<!-- Changed 'Bolotny Doctor' to 'Marsh Doctor '- Sword2012 - 31 Oct 16-->
+		<text>I need to find the lost locket for the Marsh Doctor. It is located in a backpack on the roof of one of the skyscrapers of Pripyat. I can not imagine how I will climbe on the roofs of these ... But the Doc hinted about the possibility of passage for high-rise with the ATP.</text><!-- Changed ‘Bolotny Doctor' to ‘Marsh Doctor '- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="enc_artmod_gusenica_text">
 		<text>Sakharov sold recipe Artefact Modification: From a Controller's bezoar in a Burner anomaly can come a Plasma Caterpillar artefact. Transform time of five minutes, the probability of a successful outcome of the transformation 75%</text>
@@ -289,13 +290,13 @@
 		<text>Shakhtar recovery day view needs two flashlights. Do nothing, will have to find them. And the old man helped himself, and use ... Who we've got trades on the border? Sidorovich, Akim and Kuznetsov ... Take an interest.</text>
 	</string>
 	<string id="tex_akim_kubik">
-		<text>Akim hit in childhood, a former army blew the roof ... He needs a Rubik's Cube, who threw one of the bandits on some of the roof of an unfinished building on the base of bandits in Dark Valley. Okay,'ll stay in the role of Batman a bit ...</text>
+		<text>Akim hit in childhood, a former army blew the roof ... He needs a Rubik's Cube, who threw one of the bandits on some of the roof of an unfinished building on the base of bandits in Dark Valley. Okay, I'll stay in the role of Batman a bit ...</text>
 	</string>
 	<string id="tex_shaxter_kniga">
 		<text>I'll Have to find somewhere on the outskirts of the Forgotten Forest remains Rasstrel's people. Who, when and why did it, I do not know .. I only know that one of these accidents was the book. Minor needs this book desperately. I know also that this place is located next to two or three large stones. And collapsed helicopter there still should be ...</text>
 	</string>
 	<string id="tex_lysyi_klad">
-		<text>Baldy decided to share his lost treasure and asked me to bring him the contents, which is in some Cave. Good luck! I have no superfluous gestures learned where to locate the entrance to the cave! That is, only ... Is there this Shakhtar? Or was the cave... a dream? Need to know. Or maybe a treasure I will find.. coins of gold ...\nI should see if the Miner knows anything about it.</text>	<!-- Changed 'Bald' to 'Baldy'- Sword2012 - 31 Oct 16-->
+		<text>Baldy decided to share his lost treasure and asked me to bring him the contents, which is in some Cave. Good luck! I have no superfluous gestures learned where to locate the entrance to the cave! That is, only ... Is there this Shakhtar? Or was the cave... a dream? Need to know. Or maybe a treasure I will find.. coins of gold ...\nI should see if the Miner knows anything about it.</text><!-- Changed 'Bald' to 'Baldy'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="tex_arx_strelok">
 		<text>Miner needs a 'Controller Scalp' artefact. Otherwise, he will not give me the PDA...</text>
@@ -304,13 +305,13 @@
 		<text>In ... Has not yet managed to escape from the cordon, and have already found ten hands of zombies ... I do not even know where they are found, look like ... Here is the news ... In the Zone is a zombie?</text>
 	</string>
 	<string id="tex_take_doc1">
-		<text>Akim needs some old docks ... Focus on: 'Dump, on a roof ...'. Not many roofs there, although this may be a bus roof, buildings, and even the roof of a container ...</text>
+		<text>Akim needs some old document. 'In the Dump, on top of something...' he said. A building? A bus? A container? Where the hell do I start?</text>
 	</string>
-	<string id="tex_take_doc2">
+	<string id="tex_take_doc2"><!-- It's Agroprom underground! - aleks1970 -->
 		<text>Well .. I knew it ... Now we must bring more to Akim and the second part of documents that are somewhere in the subway Institute ... It is easier for a needle in a haystack to find.</text>
 	</string>
 	<string id="tex_take_doc3">
-		<text>Here, blah ... Mats is missing! Come, look ... As much as three pieces of paper in the X-18. And a fourth, in some Korchagin, who lost it somewhere near the entrance to the lab! Kick ...</text>
+		<text>Akim needs a third document from X-18. However, this one has been separated into four sections! He says that three should be inside the lab, and the fourth somewhere outside near the lab's entrance...</text>
 	</string>
 	<string id="tex_take_doc4">
 		<text>Hired a courier's delivery ... I need to get: SCAT-10, the Exoskeleton of stalkers, bandits Exoskeleton, Academic Duty PSZ-9MD. And it's - there's more! We still have to find the PDA and document. The document is located somewhere in the X-16 and the PDA in the area of the crane, which stands at the base of an unfinished building of the bandit's base in Dark Valley. 'Short and sweet' ... Easier to get to Monolith, what does all this get.</text>
@@ -361,7 +362,7 @@
 		<text>Must meet the messenger who carries Kalinin information. He goes straight from the end of the road leading from ATP (the road the other side of ATP, if you look out from where I went to the ATP) and may die. Then the info and awards I have not seen ... Kalinin advises to use for speed a UAZ.</text>
 	</string>
 	<string id="tex_kalinin_btr">
-		<text>Preparing to attack two armored vehicles and a small group of special forces at Camp Kalinin ... He therefore wants to poke me in the inferno. We must get an iglomet to destroy the enemy from long distance ... But why an iglomet?</text>
+		<text>Kalinin is preparing for an attack on his camp from a group of special forces and two armored vehicles. He's asked me to bring him an Iglomet sniper rifle, his weapon of choice for this scenario...</text>
 	</string>
 	<string id="tex_btr_ataka">
 		<text>My goal, personally destroy two APC and commander of the military ... Well, screw yourself! Found the destroyer of technology ...</text>
@@ -373,10 +374,10 @@
 		<text>Shakhtar uploaded information on the transition from a cave to Agroprom. It is located next to the anomalies at the entrance to the Miner camp.</text>
 	</string>
 	<string id="ways_info_way_arhara_cvalka_peshera_text">
-		<text>Baldy at the bar said the transition from the dump to the cave, which is located in an abandoned railway tunnel.</text>	<!-- Changed 'Bald' to 'Baldy'- Sword2012 - 31 Oct 16-->
+		<text>Baldy at the bar said the transition from the dump to the cave, which is located in an abandoned railway tunnel.</text><!-- Changed 'Bald' to 'Baldy'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="info_way_arhara_agro_peshera_text">
-		<text>Baldy in the bar gave a tip about the transition from the Agricultural industry to the cave, which is literally in a railway tunnel</text>	<!-- Changed 'Bald' to 'Baldy'- Sword2012 - 31 Oct 16-->
+		<text>Baldy in the bar gave a tip about the transition from the Agricultural industry to the cave, which is literally in a railway tunnel</text><!-- Changed 'Bald' to 'Baldy'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="info_way_arhara_td_les_text">
 		<text>Kalinin gave a tip to the transition from the Dark Valley to the Forgotten Forest. Come in handy in any ...</text>
@@ -388,25 +389,25 @@
 		<text>It's good that the prisoner survived. He gave a tip to the transition of the Labyrinth of the cave. The transition is located on the lower level, in one of the caves near the entrance to the second cave of the Labyrinth.</text>
 	</string>
 	<string id="info_way_arhara_labirint_yantar_text">
-		<text>Fima Coal, a former prisoner Monolith, gave a tip to the transition of the Labyrinth at Yantar. The transition is at the top of the Labyrinth.</text>	<!-- Changed 'Coal Fima' to 'Fima Coal'- Sword2012 - 31 Oct 16-->
+		<text>Fima Coal, a former prisoner Monolith, gave a tip to the transition of the Labyrinth at Yantar. The transition is at the top of the Labyrinth.</text><!-- Changed 'Coal Fima' to 'Fima Coal'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="info_way_arhara_labirint_earth_text">
 		<text>Miner told to move out of the maze on Reconoitered Earth, which said Fima Coal. The transition is at the top of the Labyrinth.</text>
 	</string>
 	<string id="info_way_arhara_yantar_labirint_text">
-		<text>Adrenalin suggested that there is a transition to Yantar in the Labyrinth, and noted it on the map in my PDA.</text>	<!-- Changed 'Crank' to 'Adrenalin'- Sword2012 - 31 Oct 16-->
+		<text>Adrenalin suggested that there is a transition to Yantar in the Labyrinth, and noted it on the map in my PDA.</text><!-- Changed 'Crank' to 'Adrenalin'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="info_way_arhara_atp_pripyat_text">
 		<text>Sakharov as a reward for the bag said the transition from ATP to Pripyat. With a broken roof ridge on the ATP - the roof of Skyscraper on the Pripyat River.</text>
 	</string>
 	<string id="info_way_arhara_atp_military_text">
-		<text>Adrenaline kicked off his information on the transition from ATP to Army Warehouses.</text>
+		<text>Adrenalin gave me information on the transition from ATP to Army Warehouses.</text>
 	</string>
 	<string id="info_way_arhara_atp_kordon_text">
-		<text>Adrenaline gave information about the transition from ATP to the Cordon.</text>
+		<text>Adrenalin gave me information about the transition from ATP to the Cordon.</text>
 	</string>
 	<string id="info_way_arhara_atp_svalka_text">
-		<text>Kalinin gave a tip on the trail from the ATP landfill, said it started in my PDA.</text>
+		<text>Kalinin gave me a tip on the trail from the ATP landfill, said it started in my PDA.</text>
 	</string>
 	<string id="info_way_arhara_military_earth_text">
 		<text>The old man shared the trail from the Army Warehouses to the RECON.</text>
@@ -430,10 +431,10 @@
 		<text>Bodyguard Panthers announced the transition from a military lab in Army Warehouses, right on the base of Freedom. The transition mentioned in my PDA. Very useful information, by the way ...</text>
 	</string>
 	<string id="info_way_arhara_x18_warlab_text">
-		<text>Maples said that all the underground laboratories of the Zone were connected. One of them he knows that leads from the ground-floor of X-18 to a military lab. In my PDA is a marker.</text>	<!-- Changed 'Maple' to 'Maples'- Sword2012 - 31 Oct 16-->
+		<text>Maples said that all the underground laboratories of the Zone were connected. One of them he knows that leads from the ground-floor of X-18 to a military lab. In my PDA is a marker.</text><!-- Changed 'Maple' to 'Maples'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="info_way_arhara_kordon_boloto_text">
-		<text>Fanatic threw coordinates of a transition to the Swamps. The transition is located somewhere near the fence-nets for camping novices not far from Sidorovich's bunker.</text>	<!-- Changed 'Fan' to 'Fanatic'- Sword2012 - 31 Oct 16-->
+		<text>Fanatic threw coordinates of a transition to the Swamps. The transition is located somewhere near the fence-nets for camping novices not far from Sidorovich's bunker.</text><!-- Changed 'Fan' to 'Fanatic'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="info_way_arhara_radar_forest_text">
 		<text>Fang told me at the Bar that he had another scout, Pilgrim, who found a trail to the Red Forest. The transition is marked on the Radar and in my PDA. Just became known passage from Army Warehouses to Limansk.</text>
@@ -460,13 +461,13 @@
 		<text>The cache contained part of a card with a picture and the coordinates of the transition from the Agricultural Industry in the swamp. Just pointed out that the passage opens in the radioactive zone. Better bring a couple of Antirads or Vodka.</text>
 	</string>
 	<string id="info_way_arhara_bar_atp_text">
-		<text>Adrenalin spoke about the transition from the Bar to the ATP. There is also a mark on my PDA. Finding it may not be easy.</text>	<!-- Changed 'Crank' to 'Adrenalin'- Sword2012 - 31 Oct 16-->
+		<text>Adrenalin spoke about the transition from the Bar to the ATP. There is also a mark on my PDA. Finding it may not be easy.</text><!-- Changed 'Crank' to 'Adrenalin'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="info_way_arhara_gener_pripyat_text">
 		<text>Ghost has discovered a trail to the Generators from Pripyat. It begins near the village of stalkers.</text>
 	</string>
 	<string id="info_way_arhara_chaes2_chaes_text">
-		<text>The note from Strelok has information about extra transition from North to South Chernobyl. I copied the coordinates into your PDA</text>	<!-- Changed 'Arrow ' to 'Strelok '- Sword2012 - 31 Oct 16-->
+		<text>The note from Strelok has information about extra transition from North to South Chernobyl. I copied the coordinates into your PDA</text><!-- Changed 'Arrow ' to 'Strelok '- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="info_way_arhara_gener_hospital_text">
 		<text>Countryman suggested the trail to the Generators in the Hospital. It is located near the barrier on the old Betonka.</text>
@@ -508,10 +509,10 @@
 		<text>Miner gave a recipe for artefact modification: From the artefact 'Simbion' in the Anomaly 'Jelly' for ten minutes with a probability of 75% can be obtained with the absolute name of 'Rattle'.</text>
 	</string>
 	<string id="tex_fima_mulo">
-		<text>We must bring Fima Coal ten scientific kits, ten bandages, two pieces of soap and artefact 'Soul'. Soap is in the basement of a house in the village of newcomers to the Cordon.</text>	<!-- Changed 'Fimke' to 'Fima Coal'- Sword2012 - 31 Oct 16-->
+		<text>We must bring Fima Coal ten scientific kits, ten bandages, two pieces of soap and artefact 'Soul'. Soap is in the basement of a house in the village of newcomers to the Cordon.</text><!-- Changed 'Fimke' to 'Fima Coal'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="tex_adr_shkatulka">
-		<text>Have to go again in a maze and try to find the box and safe. Box, if found, must bring to Adrenaline. It is located on the second level of the Labyrinth, and you can get there via the teleporter, which is located somewhere on the lower level ... I know where the entrance to the lower cave is, close to the transition to the Miner. Now I can go to the Labyrinth and Yantar ...</text>
+		<text>Have to go again in a maze and try to find the box and safe. Box, if found, must bring to Adrenalin. It is located on the second level of the Labyrinth, and you can get there via the teleporter, which is located somewhere on the lower level ... I know where the entrance to the lower cave is, close to the transition to the Miner. Now I can go to the Labyrinth and Yantar ...</text>
 	</string>
 	<string id="tex_tretiy_kod">
 		<text>That is, bad luck ... First you need to prepare. Get two artefacts - 'rattle' and 'Plasma Caterpillars'. And then go to Sidorovich and, if lucky, join the group of fanatics. If I have vis armor - well. And if not, you will have to 'walk the gardens.' All around are enemies ... In the Labyrinth we must try to find Shadows of Monolith' missing code from the door, find a safe, again to take to Sidorovich, change the group and then bring safe to Miner. For memory, the first two codes are - 434018 and 206018.</text>
@@ -526,7 +527,7 @@
 		<text>We must learn from the Cyclops, where to get medical supplies and medications to find this place. Total and business somehow, but there is one thing. You can not kill or hurt anyone ... In short, Stealth ...</text>
 	</string>
 	<string id="tex_jora_accumul_seif">
-		<text>We must learn from the old man, where you can get a couple of batteries to open the second door safe. Find them and bring to Jora-Anomaly</text>	<!-- Changed 'Zhorka' to 'Jora-Anomaly'- Sword2012 - 31 Oct 16-->
+		<text>We must learn from the old man, where you can get a couple of batteries to open the second door safe. Find them and bring to Jora-Anomaly</text><!-- Changed ‘Zhorka' to ‘Jora-Anomaly'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="tex_starik_zadanie">
 		<text>Have to go to the Hermit for information, then find the Fiery cave and try to take out the batteries for Jora. Find watches for elders. We need to find both the entrance to the cave and try to get inside.</text>
@@ -535,7 +536,7 @@
 		<text>Hence, so ... We need to find a cache for Pilgrim. It is located somewhere behind the old cabins near the right of the trail leading to the caves. Bring him all that is in the backpack. However, there is a problem. The trail has been made base for snipers, and Pilgrim asked not to make noise and get the job done without unnecessary killings. He does not want punitive responses from the snipers. If you detected... then to the order will have to make more, and seventy thousand. Otherwise, the conversation with the Pilgrim will not happen.</text>
 	</string>
 	<string id="tex_otsh_pda">
-		<text>Victor-hologram is terminal but can be treated by special medical device, the Ultra-detector. Get one, and preferably two... and bring to Adrenaline. In addition, Adrenaline will give me the information.</text>
+		<text>Victor-hologram is terminal but can be treated by special medical device, the Ultra-detector. Get one, and preferably two... and bring to Adrenalin. In addition, Adrenalin will give me the information.</text>
 	</string>
 	<string id="tex_golo_detektor">
 		<text>Like, an honest deal. I need to get the two elite detectors and artefact 'Plasma Caterpillar'. A Victor-hologram gives a tip on location of the Ultra-detector and other useful swag.</text>
@@ -547,13 +548,13 @@
 		<text>Well, that one should not be dragged anywhere. Everything here is close. We must find the key to eliminating one of the teleports. Penetrate into the Fiery cavern and see what was on the base. We need to find two power supplies for Svoboda Exoskeleton and chip control (or something like that). And bring it all to the Gynecologist ... So much time here to drag ... Why, one wonders? Got another strange SMS from some colliding, which in the course of an old map ... Wonderful ...</text>
 	</string>
 	<string id="tex_chimaera_zadan">
-		<text>That is, how I lived ... To kill Sidorovich, but still bring his head to Chimera as proof. Otherwise, I do not get reagents for Perfuzor. Go to the Gynecologist, something must come up with ...</text>	<!-- Changed 'Shura' to 'Gynecologist '- Sword2012 - 31 Oct 16-->
+		<text>That is, how I lived ... To kill Sidorovich, but still bring his head to Chimera as proof. Otherwise, I do not get reagents for Perfuzor. Go to the Gynecologist, something must come up with ...</text><!-- Changed ‘Shura' to ‘Gynecologist '- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="tex_land_oxot">
 		<text>We must go to the Rusty Timber, there is one of the rocks that are located around the perimeter of the forest to find the corpse of the Controller and drag it Filin. On payment by the Hunters while no mention was. But, obviously, for nothing they do will not be stuffed.</text>
 	</string>
 	<string id="tex_ginek_vlip">
-		<text>Need to talk to a hunter named Owl. It should help make a Scarecrow Head of Sidorovich. Then give the head to Chimera, find the bulb with solutions for Perfuzor and bring the full flask to Gynecologist.</text>	<!-- Changed 'Shura' to 'Gynecologist '- Sword2012 - 31 Oct 16-->
+		<text>Need to talk to a hunter named Owl. It should help make a Scarecrow Head of Sidorovich. Then give the head to Chimera, find the bulb with solutions for Perfuzor and bring the full flask to Gynecologist.</text><!-- Changed ‘Shura' to ‘Gynecologist '- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="tex_vuxod_atp">
 		<text>For information on the transition from ATP Kalinin asks you to bring him three of the artefact. 'Glassbeads', 'Moonlight' and 'Flash'. All this can be gathered up in the ATP. Damn, I wonder.. rushed here without talking with stalkers of withdrawal ...</text>
@@ -580,10 +581,10 @@
 		<text>Must accompany the hologram on the Reconoitered Earth before entering the Army Warehouses. Further, he knows the way and gets himself.</text>
 	</string>
 	<string id="tex_klenov_gol">
-		<text>Have to go to the Hologram, to try to persuade him to return to Maples. In case of success, obviously, and to accompany ... However ...</text>	<!-- Changed 'Klenow' to 'Maples'- Sword2012 - 31 Oct 16-->
+		<text>Have to go to the Hologram, to try to persuade him to return to Maples. In case of success, obviously, and to accompany ... However ...</text><!-- Changed 'Klenow' to 'Maples'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="tex_klenov_vse">
-		<text>There is a chance to get an artificial artefact of 'Heart of Poltergeist.' You must bring to Maples: 'Heart Poltergeist' and ten 'Cobblestones'.</text>	<!-- Changed 'Klenow' to 'Maples'- Sword2012 - 31 Oct 16-->
+		<text>There is a chance to get an artificial artefact of 'Heart of Poltergeist.' You must bring to Maples: 'Heart Poltergeist' and ten 'Cobblestones'.</text><!-- Changed 'Klenow' to 'Maples'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="tex_vitamin_reyd">
 		<text>To get a present from Lucas and the key to a teleport in a military lab, I have to help the group to commit mop-up march on the Radar to the entrance to the military laboratory. Or rather, to show them an open road. With a group I meet on the Radar at the entrance to the Army Warehouses.</text>
@@ -610,7 +611,7 @@
 		<text>Need help stalkers to repel the attack squad, returning with a stripper on helicopters. After the successful outcome of the bout to talk to Kolmogor.</text>
 	</string>
 	<string id="tex_klenov_antena">
-		<text>Maples can not complete the experiment in a new generator for the artefacts. He needs a Psychiatric Mobile Antenna, the signal which comes from the Cordon. Who set it there? For what purpose? I am a complete layman in physics, higher mathematics and other tricks, so it is unclear how this Hallucinogenic Antenna can help him. However, the label on the PDA, and we should go. Something he mentioned about the mutants? Hmm ...</text>	<!-- Changed 'Maple' to 'Maples'- Sword2012 - 31 Oct 16-->
+		<text>Maples can not complete the experiment in a new generator for the artefacts. He needs a Psychiatric Mobile Antenna, the signal which comes from the Cordon. Who set it there? For what purpose? I am a complete layman in physics, higher mathematics and other tricks, so it is unclear how this Hallucinogenic Antenna can help him. However, the label on the PDA, and we should go. Something he mentioned about the mutants? Hmm ...</text><!-- Changed 'Maple' to 'Maples'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="tex_boloto_provod">
 		<text>Connoisseur Bolot requests that I reconnoiter the situation on the old farm. He needs to bring the two Zombie Embryos, who hid in one of three caches on this farm. This is his first condition for a tip on the transition from the Swamp to the old village via the Wasted Woodlands. Have to make this work.</text>
@@ -766,7 +767,7 @@
 		<text>Sony PSP</text>
 	</string>
 	<string id="enc_item_pult_anders_descr">
-		<text>Game console with a Joystick. Andersen used not only for recreation during free time. The corpus is built Coded chip to disable Psionic Antenna. Operates within a radius of about two meters from the Antenna.</text>
+		<text>Game console with a joystick. Andersen used not only for recreation during free time. The corpus is built Coded chip to disable Psionic Antenna. Operates within a radius of about two meters from the Antenna.</text>
 	</string>
 	<string id="item_simulator1">
 		<text>Simulator</text>
@@ -801,7 +802,7 @@
 	<string id="enc_item_samopisez_descr">
 		<text>A typical form of 'Black Box'. Contains records of conversations of pilots, state information systems, helicopter and crew actions.</text>
 	</string>
-	<!-- Excluded -
+<!-- Excluded -
 	<string id="name_adj_psi_gen_1">
 		<text>"Adjustable Psi-Generator 1"</text>
 	</string>
@@ -979,7 +980,7 @@
 		<text>Device consists of three lines of slots, and two control buttons (office - scroll and reset - do not count). In the middle range (Inv) - content inventory, the figure on top of an element means number of elements in this form (on the sides - buttons to scroll left and right). Clicking on an item in this range puts it into the top line (COMP) as a potential ingredient for cooking. Clicking on an element in Comp returns it back to Inv. The right of the comp down arrow button is used to reset the entire contents could line COMP ago Inv. In the same line of Complementary displayed in different cells.\n under the top line of a row of lemon-colored to display the name of the anomaly. If anomalies are not close (distance by less than 2m) - there is nothing displayed. If there is an anomaly, but the recipe for it to be developed - also have iformatsionnaya line.\n At the bottom line (Retz) appear prescriptions under the current anomaly in the future as a result of cooking (there are also buttons to scroll left and right). Clicking on an item in Retz is automatically filled Comp in the presence of components in inventory. If some components of the recipe is not enough - below the comp a red bar appears with the information.\n Start button starts the cooking of the selected components. If anomalies are not around - does not work.\n If the inventory is lit by a red line (ie, a recipe is, but lacks the components) - perhaps an unexpected reaction to the owner. If there is no recipe - red line in any case, nothing will - try to cook at your own risk (if not match the existing in-game recipes - the result can be placheven if guessing the recipe - start cooking, the owner transmutatora will be given a prescription). When the coincidence of the recipe ingredients and anomalies, and click Run - will start brewing process, the artefacts of the line comp automatically removed from inventory and launch signaled by flashing the screen.\n Exit button closes the user interface. The interface also closes automatically when the failure starts cooking.</text>
 	</string>
 	<string id="tex_izomorf_dial">
-		<text>Maples gave me isomorphic, saying that he was somehow affects the relationship with the zombie. In addition, he hinted that at Yantar someone svobodovtsev at the plant, where the entrance to the X-16 saw a strange zombie and some interesting subject. But first, the main task. We must get to the X-16 (good move there from Warlab known), and make two photos of fotopistoleta. The first photo - is the brain, which is hanging under the dome of the laboratory in a flask. Snapshot is better to do while on the upper level at the board. In this case about the right tip at the target will be a message on the display camera. Second photo - in the tunnels that lead from laboratory X-16 in Yantar. There lived a mutating controller, which is necessary for the history and photograph. Say, the brain had a sore, just for scientists. Fotopatrona all three. Hence, once can miss. After Maples include photographs, he promised to give to them something else.</text>	<!-- Changed 'Klenow' to 'Maples'- Sword2012 - 31 Oct 16-->
+		<text>Maples gave me isomorphic, saying that he was somehow affects the relationship with the zombie. In addition, he hinted that at Yantar someone svobodovtsev at the plant, where the entrance to the X-16 saw a strange zombie and some interesting subject. But first, the main task. We must get to the X-16 (good move there from Warlab known), and make two photos of fotopistoleta. The first photo - is the brain, which is hanging under the dome of the laboratory in a flask. Snapshot is better to do while on the upper level at the board. In this case about the right tip at the target will be a message on the display camera. Second photo - in the tunnels that lead from laboratory X-16 in Yantar. There lived a mutating controller, which is necessary for the history and photograph. Say, the brain had a sore, just for scientists. Fotopatrona all three. Hence, once can miss. After Maples include photographs, he promised to give to them something else.</text><!-- Changed 'Klenow' to 'Maples'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="item_chemodan_piyan">
 		<text>Case Checking</text>
@@ -997,13 +998,13 @@
 		<text>Withdraw Chernomor from the plant. Go long enough to get to the parking lot of stalkers, that in the hollow across the road from the entrance to the plant. Black Sea should not be lost.</text>
 	</string>
 	<string id="item_klenov_opisalovo">
-		<text>Instructions from Maples</text>	<!-- Changed 'Klenow' to 'Maples'- Sword2012 - 31 Oct 16-->
+		<text>Instructions from Maples</text><!-- Changed 'Klenow' to 'Maples'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="item_klenov_opisalovo_s">
-		<text>Instructions from Maples</text>	<!-- Changed 'Klenow' to 'Maples'- Sword2012 - 31 Oct 16-->
+		<text>Instructions from Maples</text><!-- Changed 'Klenow' to 'Maples'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="enc_item_klenov_opisalovo_descr">
-		<text>I have the honor to inform you the following items. Time to study the subject was not enough, so we found out only the basic parameters. When photographing is emitted from the barrel of energy in the form of an impulse, which is reaching the desired object, part of it is reflected, and partially penetrates into the object itself. If the object is a living creature, he applied considerable damage and sometimes death. Part of the reflected energy is imprinted on the matrix of the camera and converted into a picture. Probably on the images to appear something more than what the normal eye can see. The energy emitted in the production of the image is contained in an airtight container, built in the body. I experimented. Make a simple camera shots of objects is not possible. Probably, the momentum can be sent only to objects that have some additional qualities or characteristics. What are these objects and how to find them - an enigma. However, judging by the pictures made you successful, it is not quite ordinary objects or living beings.\nMaples ..</text>	<!-- Changed 'Klenov' to 'Maples'- Sword2012 - 31 Oct 16-->
+		<text>I have the honor to inform you the following items. Time to study the subject was not enough, so we found out only the basic parameters. When photographing is emitted from the barrel of energy in the form of an impulse, which is reaching the desired object, part of it is reflected, and partially penetrates into the object itself. If the object is a living creature, he applied considerable damage and sometimes death. Part of the reflected energy is imprinted on the matrix of the camera and converted into a picture. Probably on the images to appear something more than what the normal eye can see. The energy emitted in the production of the image is contained in an airtight container, built in the body. I experimented. Make a simple camera shots of objects is not possible. Probably, the momentum can be sent only to objects that have some additional qualities or characteristics. What are these objects and how to find them - an enigma. However, judging by the pictures made you successful, it is not quite ordinary objects or living beings.\nMaples ..</text><!-- Changed 'Klenov' to 'Maples'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="tex_plot_dialog">
 		<text>We'll have to climb to the dump, find the flesh, that ate stuff out of the bag a stalker, pick them up and return to the owner.</text>
@@ -1051,7 +1052,7 @@
 		<text>So, Senior Fellow, the latest recommendations:\n On a platform above the brain should be a couple modifiers. For us - a dummy and of no interest. Further, or in conjunction with this, to be activated teleporter. Look down, along the supply cables. You'll have to jump off the platform on the cable to the teleporter. I advise you to wear all the protection you have. Next. Do not rush to the teleporter, and after passing through a cable midway, turn to tank with the brain and destroy at the time of self-healing protective field of the Brain. The right weapon you have. Then you can go to the teleporter. Destroy the shield is essential to use the teleporter. Otherwise, you will die. Two modifiers should be in your backpack. You will get to the very brain. There should be a transformation in modifiers necessary for us to break the psy-ray influence of the Brain. Further activates the teleport to take you back to the surface. '</text>
 	</string>
 	<string id="tex_starsh_say">
-		<text>Will have to raise the morale of stalkers engage in robbery. We need to find the stalkers, the leading surveillance camp of bandits and place them at the right moment to commit robbery at the camp. Probably will not profit as much as, but we need to bring: twenty cans of corned beef, ten medkits, five bottles of vodka, ten packs of rounds, 'Kalash' and two truncated AKMA. Question. But whether all this is in the camp of bandits? Then you have to gather and bring the survivors of stalkers to their guests.</text>
+		<text>Will have to raise the morale of stalkers engage in robbery. We need to find the stalkers, the leading surveillance camp of bandits and place them at the right moment to commit robbery at the camp. Probably will not profit as much as, but we need to bring: twenty cans of corned beef, ten first-aid kits, five bottles of vodka, ten packs of rounds, 'Kalash' and two truncated AKMA. Question. But whether all this is in the camp of bandits? Then you have to gather and bring the survivors of stalkers to their guests.</text>
 	</string>
 	<string id="tex_dci_kontrik">
 		<text>It is necessary to pay a visit to this village and to protect the country Controller ... Really do not know how to defend a hostile mutant to you ...</text>
@@ -1072,7 +1073,7 @@
 		<text>With the device, which gave Norman have the coordinates found on the Agricultural Industry input into the unknown stash and pick out another device that allows you to remove protection from transitions in the dead city, established by people from the clan 'last day'.\n Here are the coordinates:\nDolgota 1924 ^ 14 * 30 '.61\nShirota 51 ^ 30 * 55 '.64\nVysota 183m</text>
 	</string>
 	<string id="tex_spasty_doka">
-		<text>Should be released Marsh Doctor who was taken hostage by people from the group 'The Last Day.' There are two options ... Perfumer was able to negotiate with the chief security officer by the name Duda ... It is located in a house with columns, which is near the area. The Doc is obviously held somewhere. If you have enough money to pay ransom, and finish the job 'peaceful' way. The Doc is released and he gets to the house of Perfumer. After it will be possible to arrange a showdown with the very group that if you disable protection center.\n The second option is also available. If money for the ransom is not enough, you can try to force release of the Doctor. But that he got to the Perfumer, it will have to change, that is, to give him time his masthalat and anomalous M-16.</text>	<!-- Changed 'Bolotny Doctor' to 'Marsh Doctor '- Sword2012 - 31 Oct 16-->
+		<text>Should be released Marsh Doctor who was taken hostage by people from the group 'The Last Day.' There are two options ... Perfumer was able to negotiate with the chief security officer by the name Duda ... It is located in a house with columns, which is near the area. The Doc is obviously held somewhere. If you have enough money to pay ransom, and finish the job 'peaceful' way. The Doc is released and he gets to the house of Perfumer. After it will be possible to arrange a showdown with the very group that if you disable protection center.\n The second option is also available. If money for the ransom is not enough, you can try to force release of the Doctor. But that he got to the Perfumer, it will have to change, that is, to give him time his masthalat and anomalous M-16.</text><!-- Changed ‘Bolotny Doctor' to ‘Marsh Doctor '- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="item_iskra_listok">
 		<text>Spark's Note</text>
@@ -1083,16 +1084,13 @@
 	<string id="enc_item_iskra_listok_descr">
 		<text>Hello ... I knew it all end badly ... Here are the coordinates ...\nDolgota 24 ^ 14 * 28 '.00\nShirota 51 ^ 30 * 53' .47\nVysota 188m\n Do not know how you're going to define them, but that place should be reachable, a leading .. .</text>
 	</string>
-	<string id="tex_otkrut_seif_sadik">
-		<!-- 109984 -->
+	<string id="tex_otkrut_seif_sadik">		<!-- 109984 -->
 		<text>Open the safe but do not let the radio operator die</text>
 	</string>
-	<string id="local_energy_zone">
-		<!-- 110000 -->
+	<string id="local_energy_zone">		<!-- 110000 -->
 		<text>Unknown Anomolous Zone</text>
 	</string>
-	<string id="map_mil_technician">
-		<!-- 110007 - aleks1970 -->
+	<string id="map_mil_technician">	<!-- 110007 - aleks1970 -->
 		<text>Military technician</text>
 	</string>
 	<string id="map_mil_trader">

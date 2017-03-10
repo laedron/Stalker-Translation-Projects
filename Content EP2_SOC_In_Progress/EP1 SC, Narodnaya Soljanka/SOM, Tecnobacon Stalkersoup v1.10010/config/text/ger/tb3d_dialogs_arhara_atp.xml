@@ -47,10 +47,10 @@
 		<text>What exactly is our defensive situation here?!</text>
 	</string>
 	<string id="kalinin_zadan_vzyt_5">
-		<text>YOUR THE MAN!!! Alright, they will attack us in two waves, advancing from the center. We need to fend off both of these attacks, and then you must infiltrate their base. That's their stronghold. They are led by a man named Shynra, a real piece of work. A sadist, they say he likes to torture animals and such. I want you to take him, and the rest of his sordid kind out of the picture. Kill everyone. All of them. Return to me when the job is done</text>
+		<text>Wow! You're the man! Alright, they will attack us in two waves, advancing from the center. We need to fend off both of these attacks, and then you must infiltrate their base. That's their stronghold. They are led by a man named Shynra, a real piece of work. A sadist, they say he likes to skin live animals and such. I want you to take him, and the rest of his sordid kind out of the picture. Kill everyone. All of them. Return to me when the job is done</text>
 	</string>
 	<string id="kalinin_zadan_vzyt_6">
-		<text>And such?!!! Don't wanna know! The exterminator at your service! Wait here until I return</text>
+		<text>And such? Don't wanna know! The exterminator at your service! Wait here until I return</text>
 	</string>
 	<string id="kalinin_zadan_vzyt_7">
 		<text>This is a bit too extreme for me right now, Sorry, maybe later, see ya</text>
@@ -59,7 +59,7 @@
 		<text>Well, Shynra is toast along with all his men, tisk, tisk</text>
 	</string>
 	<string id="kalinin_otvet_1">
-		<text>Marked One, you're one tough son of a psuedodog! You have truly done the World a favor!</text>
+		<text>Marked One, you're one tough son of a pseudodog! You've truly done the world a favor!</text>
 	</string>
 	<string id="kalinin_otvet_2">
 		<text>It would not be wise to move back into the Carpark tho. There will most likely be more Bandits on their way here, its like rabbits! They had the means to call for reinforcements!</text>
@@ -75,62 +75,62 @@
 	</string>
 	<!-- KALININ MISSION (Messenger) -->
 	<string id="gonets_talk_0">
-		<text>You must be the Courier that Kalinin spoke of</text>
+		<text>You must be the courier for Kalinin...</text>
 	</string>
 	<string id="gonets_talk_1">
-		<text>That would be me, yes. I've never been to this part of the Zone before, really sucks!</text>
+		<text>Yes, that would be me. I've never been to this part of the Zone before. It really sucks!</text>
 	</string>
 	<string id="gonets_talk_2">
-		<text>Seen worse!, ever seen Recife?, no, ah, never mind! Anyway, if you've never been here before, how did you expect to find Kalinin's camp?</text>
+		<text>I've seen worse! You ever been to Recife? No, never mind! If you've never been here before, how did you expect to find Kalinin's camp?</text>
 	</string>
 	<string id="gonets_talk_3">
-		<text>Kalinin sends a homing signal to my PDA. I just follow that all the way to the camp</text>
+		<text>Kalinin sends a homing signal to my PDA. I just follow it all the way to the camp</text>
 	</string>
 	<string id="gonets_talk_4">
-		<text>Yeh right!, take a bee-line right to him eh? Good thing I've been sent here to meet up with you before you end up feeding the wildlife! I've been sent to collect the Flash-Drive and escort you to the camp</text>
+		<text>You were going to take a straight line path right to him? This would have been your last time here, too... Kalinin heard about the bandits around here, and sent me to find you. I'm to carry the flash drive and escort you to the camp, for safety</text>
 	</string>
 	<string id="gonets_talk_5">
-		<text>Place that nice? Well ok, I just received same message from Kalinin. I also have been instructed to give you an artefact once we reach the camp</text>
+		<text>I just knew it was going to be one of those days... Okay, I just received confirmation from Kalinin, otherwise I'd not have believed you.... He also says he'll reward you with an artefact once I reach the camp in one piece...</text>
 	</string>
 	<string id="gonets_talk_6">
-		<text>Sounds good, now tho we've gotta get moving, not a good place for socials!</text>
+		<text>Sounds good to me. Now, though, we've gotta get moving. The bandits will already know we're here...</text>
 	</string>
 	<string id="gonets_talk_7">
-		<text>Sorry man, but you're on your own from here, later dude</text>
+		<text>Sorry man, but you're on your own from here. This place is a little too unfriendly...</text>
 	</string>
 	<!-- KALININ MISSION (Messenger) complete -->
 	<string id="gonets_vse_ok_0">
-		<text>Here's your Flash-Drive</text>
+		<text>Here's your flash drive...</text>
 	</string>
 	<string id="gonets_vse_ok_1">
-		<text>This is Excellent!! It contains the specific radio frequencies that the Bandits use to communicate throughout the Zone. Now I will know their every move before it even happens! This could be our chance to win back that which is rightfully ours! Thank you!! Here, take this RPG as payment for your efforts</text>
+		<text>This is excellent! It contains the specific radio frequencies that the Bandits use to communicate throughout the Zone. Now I'll know their every move before they do! This could be our chance to win back that which is rightfully ours! Thank you! Here, please accept this RPG as recompense for your efforts</text>
 	</string>
 	<string id="gonets_vse_ok_2">
-		<text>I can see myself putting this to good use</text>
+		<text>Whew! I can see myself putting this to good use...</text>
 	</string>
 	<string id="gonets_vse_ok_3">
 		<text>Stay in touch! We will likely need your help again soon</text>
 	</string>
 	<string id="kalinin_btr_vzyt_0">
-		<text>That Flash-Card I brought you, were there by any chance Military radio frequencies on it?</text>
+		<text>Hey, that flash drive I brought you. Do you know if there were military radio frequencies on it?</text>
 	</string>
 	<string id="kalinin_btr_vzyt_1">
-		<text>Well, let's see here, yes, I've gotten something. It's picking something up now, DAMN!! The Army is planning an excursion into this area, They are massing their troops as we speak!!!</text>
+		<text>Hmm, let's see... Yes, I'm getting something. Keep quiet a minute... Damn! The Military's planning a raid on this area. They're massing their troops right now!</text>
 	</string>
 	<string id="kalinin_btr_vzyt_2">
-		<text>When will they get here!!?</text>
+		<text>When will they get here?</text>
 	</string>
 	<string id="kalinin_btr_vzyt_3">
-		<text>They are awaiting the order to advance. It could happen at any time. We will not survive a Military attack, and you know it!! That RPG I gave you should take care of the armor, but we need you to get us a special Sniper Rifle, an Iglomet, that will take care of the Infantry!</text>
+		<text>They're awaiting the order to advance. It could be any time. We'll not survive an attack from the Military attack, and you know it! Look, that RPG I gave you should take care of the vehicles, but I need you to get us a special sniper rifle, an Iglomet. I'm very familiar with this model. On this terrain, we'll have the advantage over the infantry!</text>
 	</string>
 	<string id="kalinin_btr_vzyt_4">
-		<text>Damn! Always something! Stalker get THIS, Marked One get THAT, WHEN IS IT EVER GOING TO END?!!!! HUH? Oh sorry, bad day! Okay, I will find the 'Iglomet', and return as soon as I can</text>
+		<text>Damn! Always something! Stalker get 'This', Marked One get 'That', WHEN IS IT EVER GOING TO END? HUH? Oh sorry, bad day! Okay, I will find the 'Iglomet', and return as soon as I can</text>
 	</string>
 	<string id="kalinin_btr_vzyt_5">
 		<text>This isn't my fight! Best of luck to you, and your men tho, really</text>
 	</string>
 	<string id="kalinin_btr_unichtoz_0">
-		<text>I found the Iglomet, here it is, pretty cool!</text>
+		<text>I found the Iglomet. You were right. It's a pretty cool weapon!</text>
 	</string>
 	<string id="kalinin_btr_unichtoz_1">
 		<text>Perfect!! Here's what we'll do, you take out the armor, and their Commander with the RPG. We'll cover you</text>
@@ -511,7 +511,7 @@
 		<text>What happened to you?</text>
 	</string>
 	<string id="ziklop_aver_talk_1">
-		<text>Hello stranger, this is what happenes when you get too much PSI exposure. But strangly my mind is intact, but I became a walking corpse, even the psuedodogs dont want to eat me. I got caught in a blowout and when I regained consciousness and was surrounded by Monolithians. They accepted me as one of theirs! I escaped from them as soon as possible and found my way to The Doctor. He advised me to come here and to travel at night so no Stalkers mistook me for a zombie</text>
+		<text>Hello stranger, this is what happenes when you get too much PSI exposure. But strangly my mind is intact, but I became a walking corpse, even the pseudodogs don't want to eat me. I got caught in a blowout and when I regained consciousness and was surrounded by Monolithians. They accepted me as one of theirs! I escaped from them as soon as possible and found my way to The Doctor. He advised me to come here and to travel at night so no Stalkers mistook me for a zombie</text>
 	</string>
 	<string id="ziklop_aver_talk_2">
 		<text>How is this possible? However, I did see a Monolithian who looked similar to you. However, he became immortal</text>
@@ -1195,31 +1195,31 @@
 		<text>How is it possible to get out of this territory?</text>
 	</string>
 	<string id="vuxod_atp_1">
-		<text>It's quite a dilemma you have, you got here but you cant leave</text>
+		<text>It's quite a dilemma you have. You got here, but you can't leave...</text>
 	</string>
 	<string id="vuxod_atp_2">
-		<text>I've looked around and can't find an exit</text>
+		<text>I've looked around and can't find an exit anywhere...</text>
 	</string>
 	<string id="vuxod_atp_3">
-		<text>You didn't think to ask the person who sent you? I can show you a path to the Dump, but there will not be further conversation till you bring me three artefacts: a Glassbeads, Moonlight, and a Flash. All of them can be found on this territory. You bring them to me and I will show you the path</text>
+		<text>You didn't think to ask the person who sent you? I can show you a path to the Dump, but only after you bring me three artefacts: a Glassbeads, Moonlight, and a Flash. All of them can be found in this territory. You bring them to me, and I will show you the path...</text>
 	</string>
 	<string id="vuxod_atp1_0">
-		<text>Here's your artefacts, now could you show me the path</text>
+		<text>Here's your artefacts. Now, would you show me the path?</text>
 	</string>
 	<string id="vuxod_atp1_1">
-		<text>The path to the Dump is at the end of the road on the opposite side of this territory, I have sent the info to your PDA</text>
+		<text>The path to the Dump is at the end of the road on the opposite side of this territory. I've sent the info to your PDA</text>
 	</string>
 	<string id="vuxod_atp1_2">
 		<text>That's easy enough to find</text>
 	</string>
 	<string id="kluk_vstrecha_0">
-		<text>Fang??? Is it really you??? I thought you had been killed</text>
+		<text>Fang? Is it really you? I thought you'd been killed...</text>
 	</string>
 	<string id="kluk_vstrecha_1">
 		<text>Greetings Strelok, I've not seen you for a very long time. No, as you can see, they have not killed me. I was able to slip away. I was able to fool the Mercenaries into thinking they got me. You were gone, and Ghost went missing</text>
 	</string>
 	<string id="kluk_vstrecha_2">
-		<text>Ghost was lost on a mission inside X-16 but it's rumored that the body of his double lies there. He is capable of such a thing. Why didn't you leave me a message?</text>
+		<text>Ghost was lost on a mission inside X-16, but it's believed he left a body double there. That's typical of Ghost. Why didn't you leave me a message?</text>
 	</string>
 	<string id="kluk_vstrecha_3">
 		<text>I had to keep a low profile. You were gone somewhere in Chernobyl and it was rumored that you had entered the O-consciousness and became their assassin. So it was necessary to observe you. Now I know that the rumors were false. I met the Astrologer who told me he pulled you out of the death truck. I'm a little suspicious of him, it's too much of a coincidence and he asked a lot of questions. He knew about my map with the noted transitions. Therefore, I told you to make a copy, without my marks. I will take the map from you for awhile. Dont say anything about us meeting to the Astrologer yet. All I can say about the Pilgrim, he is a simple and honest friend who can be trusted</text>
@@ -1228,25 +1228,25 @@
 		<text>I'm glad that you are alive. I really did talk to the man from O-consciousness, but I refused to join them. After that everything is covered by a gloom, I remembered nothing. Cordon, the Astrologer, the Cave, the Doctor. I've been through so much in a short period of time. What will we do next, do you have any plans? Let's have a drink to our reunion</text>
 	</string>
 	<string id="kluk_vstrecha_5">
-		<text>Eh, that's good Vodka! Now about our plans, you already know about the decoder in Pripyat but there's no need to hurry with that. There is something else more important. I have information that the daughter of a boss from O-consciousness has arrived to visit daddy. She has gone missing, it's more likely she was abducted. The last time she was spotted was in the Radar, around the Aerials. All the Monolith are searching for her, and not only the Monolith. I'm searching for her also and I need your help</text>
+		<text>Eh, that's good Vodka! Now about our plans, you already know about the decoder in Pripyat but there's no need to hurry with that. There is something else more important. I have information that the daughter of a boss from O-consciousness has arrived to visit her father. She's gone missing, but it's more likely she was abducted. The last time she was spotted was in the Radar, around the antennae. All the Monolith are searching for her, and not only the Monolith. I'm searching for her also and I need your help</text>
 	</string>
 	<string id="kluk_vstrecha_6">
 		<text>Of course I will help. But why are we searching for her?</text>
 	</string>
 	<string id="kluk_vstrecha_7">
-		<text>We need to find out why there is so much intrest in this girl, there is something big going on here. Also if Ghost is alive he needs to be found, if he is dead then we need proof. I also need you to check out a new territory. It's a former Military Laboratory called Warlab. It is undergound near to Chernobyl, but the only entrance I know of is from the Radar, I will mark it in your PDA. I don't know who is there or what they're up to, but you need to find out. There is data that suggests the girl is there. The return path from the location is also known, I will also give you these coordinates. Possibly, the laboratories of the zone have been connected by underground tunnels. The transition to the exit is through a tunnel to X-16. The Pilgrim and I will be engaged in exploring the transitions on my map and determining if they work. I will stay in touch with you by SMS</text>
+		<text>We need to find out why there is so much interest in this girl, there is something big going on here. Also if Ghost is alive he needs to be found, if he is dead then we need proof. I also need you to check out a new territory. It's a former Military Laboratory called Warlab. It is undergound near to Chernobyl, but the only entrance I know of is from the Radar, I will mark it in your PDA. I don't know who is there or what they're up to, but you need to find out. There is data that suggests the girl is there. The return path from the location is also known, I will also give you these coordinates. Possibly, the laboratories of the zone have been connected by underground tunnels. The transition to the exit is through a tunnel to X-16. The Pilgrim and I will be engaged in exploring the transitions on my map and determining if they work. I will stay in touch with you by SMS</text>
 	</string>
 	<string id="kluk_vstrecha_8">
 		<text>I understand, we have much work to do</text>
 	</string>
 	<string id="kluk_vstr_after_prizrak_0">
-		<text>Fang??? Is it really you??? I thought you had been killed</text>
+		<text>Fang? Is it really you? I thought you'd been killed...</text>
 	</string>
 	<string id="kluk_vstr_after_prizrak_1">
 		<text>Greetings Strelok, I've not seen you for a very long time. No, as you can see, they have not killed me. I was able to slip away. I was able to fool the Mercenaries into thinking they got me. You were gone, and Ghost went missing</text>
 	</string>
 	<string id="kluk_vstr_after_prizrak_2">
-		<text>Ghost is alive and now in the Radar territory. He is just as sly as you. He left a body double in X-16 and even left an audio message. He was not easy to find. Why didn't you leave me a message?</text>
+		<text>Ghost is alive and now in the Radar territory. He's just as sly as you. He left a body double in X-16 and even left an audio message. He was not easy to find. Why didn't you leave me a message?</text>
 	</string>
 	<string id="kluk_vstr_after_prizrak_3">
 		<text>I had to keep a low profile. You were gone somewhere in Chernobyl and it was rumored that you had entered the O-consciousness and became their assassin. So it was necessary to observe you. Now I know that the rumors were false. I met the Astrologer who told me he pulled you out of the death truck. I'm a little suspicious of him, it's too much of a coincidence and he asked a lot of questions. He knew about my map with the noted transitions. Therefore, I told you to make a copy, without my marks. I will take the map from you for awhile. Don't say anything about us meeting to the Astrologer yet. What I will say about the Pilgrim, he is a simple and honest friend who can be trusted</text>
@@ -1267,7 +1267,7 @@
 		<text>I understand, we have much work to do</text>
 	</string>
 	<string id="kluk_vstrecha_otchet_0">
-		<text>Greetings. Seems I arrived at Warlab at an inappropriate moment. The Monolith attacked the mercenary base. Or on the contrary. But the Monolithians destroyed Mrcenaries, and then I finished off the Monolithians. The lab has been cleaned out. The entrance into one of the parts of the laboratory is closed off by a teleport. To pass through there is impossible. The girl was no where to be found, but a search of one of the leaders of the group has produced an interesting document. It's not difficult to guess to whom it belonged</text>
+		<text>Greetings. Seems I arrived at Warlab at an inappropriate moment. The Monolith attacked the mercenary base. Or on the contrary. But the Monolithians destroyed Mercenaries, and then I finished off the Monolithians. The lab has been cleaned out. The entrance into one of the parts of the laboratory is closed off by a teleport. To pass through there is impossible. The girl was no where to be found, but a search of one of the leaders of the group has produced an interesting document. It's not difficult to guess to whom it belonged</text>
 	</string>
 	<string id="kluk_vstrecha_otchet_1">
 		<text>This means the Astrologer is in communication with the Mercenaries. The guy needs to be checked up on to see if he really is double dealing here. Mercenaries, apparently, know about the girl, and know where she's at. Perhaps he too tries to find out it? We must find a way into this confidential part of Warlab</text>

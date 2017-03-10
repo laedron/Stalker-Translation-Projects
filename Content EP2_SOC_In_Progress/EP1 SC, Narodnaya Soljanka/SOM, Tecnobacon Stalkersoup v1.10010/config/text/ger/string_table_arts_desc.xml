@@ -1,6 +1,6 @@
 <!-- TB3D 1.1.0.0.0.6 removed '-' -->
 <!-- Stats rationalisation by GlowWormToo - 16 Jun 16-->
-<!-- Partial reworking of text - Sword2012 - 12 Dec 16-->
+<!-- Partial reworking of text. 31/31 artefact descriptions still to do - Sword2012 - 12 Dec 16-->
 
   <string id="enc_zone_rudiment_small_d">
 		<text>Fima told me the first part of the recipe: If you drop a Zombie's tooth and a sausage into a Tornado anomaly, you get a better and therefore more expensive Zombie part. Unfortunately, he doesn't have the second part of the recipe...\n%c[255,255,255,255]Time for transmutation %c[255,224,224,160]5 minutes\n%c[255,255,255,255]Probability of successful transmutation %c[255,1,255,1]50 %\n%c[255,255,255,255]Probability of destruction %c[255,255,1,1]50 %%c[default]</text>

@@ -2,18 +2,18 @@
 <!-- TB3D 1.1.0.0.0.4 text from the script files, added 326 to 334 line - aleks1970, pred messages, includes -->
 <!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 08 Oct 16 -->
 <string_table>
-#include "text\ger\amk_flame_dialogs.xml"
-#include "text\ger\amk_escape_dialogs.xml"
-#include "text\ger\string_table_timer.xml"
-#include "text\ger\stable_dialogs_amk.xml"
-#include "text\ger\meceniy_st_dialogs.xml"
-#include "text\ger\amk_reload_dialogs.xml"
-#include "text\ger\string_table_amk_metka.xml"
-#include "text\ger\string_table_amk_matras.xml"
-#include "text\ger\string_table_enc_sigaret.xml"
-#include "text\ger\stable_statistic_caption.xml"
-#include "text\ger\stable_miniquest_dialogs.xml"
-#include "text\ger\stable_dialog_manager_uni.xml"
+#include "text\eng\amk_flame_dialogs.xml"
+#include "text\eng\amk_escape_dialogs.xml"
+#include "text\eng\string_table_timer.xml"
+#include "text\eng\stable_dialogs_amk.xml"
+#include "text\eng\meceniy_st_dialogs.xml"
+#include "text\eng\amk_reload_dialogs.xml"
+#include "text\eng\string_table_amk_metka.xml"
+#include "text\eng\string_table_amk_matras.xml"
+#include "text\eng\string_table_enc_sigaret.xml"
+#include "text\eng\stable_statistic_caption.xml"
+#include "text\eng\stable_miniquest_dialogs.xml"
+#include "text\eng\stable_dialog_manager_uni.xml"
 	<string id="car_use">
 		<text>ENTER</text>
 	</string>

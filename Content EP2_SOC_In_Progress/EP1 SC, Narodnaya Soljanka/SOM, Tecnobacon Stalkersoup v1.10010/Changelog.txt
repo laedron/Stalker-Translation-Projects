@@ -10,62 +10,114 @@ später wenn ich das Spiel -richtig- spiele)
 - amk_reload_dialogs
 - amk_strings
 - arc_string_table
-- arsenal_mod
-- davros_items
+- arsenal_mod			<- (Waffen: Details für Optionalen Zusätze fehlen)*
+- davros_items			<- (Waffen: Details für Optionalen Zusätze fehlen)*
 - dmx_mod_dialogs
 - dmx_mod_encyclopedia
 - dmx_mod_items
 - ui_st_inventory
 - ui_st_keybinding
 
-		//===========================================================================//
+*Für welches Zielfernohr Genau, Welcher Granaten Typ genau, Welcher Schalldämpfer genau?
+Bisher sthet da nur z.b "Schaldämpfer" .. fertig.. Bei der Flut an Zusätzen fehlt die
+Geauigkeit.
+		//=================================================================================//
 
 		XML Dateien, Fast Fertig oder in Arbeit:
 		- aem_strings
 		- ui_st_pda
 		- tb3d_dialogs_arhara_start
 		- stable_dialogs_escape
-		- dmx_mod_weapons
+		- dmx_mod_weapons (95%)
+		  string_table_enc_ald_weapons (1%)
+		  kontroller_diaries (~30%)
+		  tb3d_dialogs_arhara_start (5%)
+		  ui_st_pda (50%)
 
-		//===========================================================================//
-		
+		//=================================================================================//
 		Sonstige Änderungen
 		Inventory Icon , Weapon Fixes (textures\ui_icon_equipment.dds)
 			> config\weapons\dmx_mod\w_m4a1\w_m4a1.ltx
 			  Icon hatte falsche Position Angabe= x:31, y:2, zeigte die Hälfte vom Brecheisen.
 		      Neues Icon Eingef𧴮 Neue Positions Angabe= x:47, Y:45
 		  
-		  
+		//=================================================================================//
 		Waffen Offset Korrekturen (Kimme und Korn)
-			config\weapons\dmx_mod\*.ltx
+			config\weapons\dmx_mod\*.ltx (Verschidene angepasst)
+			
+			config\weapons\dmx_mod\w_sbr.ltx
+			(Grantatwerfer Addon ausgeschaltet, die Position für das Addon gibt es im Hud Model
+			Es fehlt aber das Model selbst) *Kopfklatsch*
+
+			config\weapons\dmx_mod\w_gaussspas12.ltx
+			Recoil Geschwindigkeit verringert, (sieht unmögllich aus), Position/Zoom angepasst
 
 			
+		//=================================================================================//
+		Munition:
+		Die Munition in Stalkersoup ist total durcheinander und stimmt zum teil nicht
+		mit der  Beschreibung überein. Ich werde also gleichzeitig anfangen die Munitionstypen
+		zuzuordnen. Ein Kalbier 16x70 kann nicht in eine Flinte mit Kaliber 12x76.. 
+		logisch oder. Geändert (*.ltx)
+		16x70mm 
+		..\weapons\dmx_mod\w_bm16_full
+		..\weapons\dmx_mod\w_remington870
+		..\weapons\dmx_mod\w_wincheaster1200
+		..\weapons\w_bm16
+		12x76mm 
+		..\weapons\ald_mod\w_vepr12
+		
+		
+		//=================================================================================//
 		Texturen (Übersetzte Docs und Karten)
 		textures\docs								(Neue Versionen und Varianten)
 		
+
+		//=================================================================================//
 		Texturen (HD und 4096x4096)
 		textures\crete\crete_dirty1_gr.dds			(selbst erstellt vom Foto)
-		textures\detail\detail_grnd_asphalt.dds		(etwas Dunkler)
+		textures\detail\detail_grnd_asphalt.dds		(etwas Dunkler, passt mehr zur Umgebung)
 		textures\detail\detail_grnd_earth.dds		(selbst erstellt vom Foto)
 		textures\detail\detail_grnd_earth.dds		(selbst erstellt vom Foto)
 		textures\ston\ston_stairs1.dds				(selbst erstellt vom Foto)
 		
+
+		//=================================================================================//
 		Texturen Änderungen
 		texture\ui\cursor							(Entfernt den lästigen Kreis, Fadenkreuz
-		textures\wpn\crysis_scar					(Benutzt die Originale HD Textuere von Crysis)
-		textures\wpn\wpn_mpk						(Hd Texture, Eigene und Teilsweise von CS Mire, Danke)
+		textures\wpn\crysis_scar					(Benutzt die HD Texturen von Crysis)
+		textures\wpn\wpn_mpk						(Hd Texture, Eigene und Teilsweise von CS 
+													Mire, Danke)
 
+
+		//=================================================================================//
 		Sound:
 		Nano Anzug: sounds\meceniy\outfit\*.ogg (Ins deutsche gebracht, bin mit dem Result nicht ganz zufriden)
 		Wichtig: Dazu die scripts\meceniy_outfit.scipt
 		Im Englishen Unterordner findet sich die Englische version sowie die Ru. Original version
-		//===========================================================================//
+
+		//=================================================================================//
 		Sonstiges:
 		Es gibt eine Waffen Konfig zuviel. (Diese Liegt in den DB Archiv)
 		Löscht die "GameData\config\weapons\dmx_mod\w_desert_eagle_new "
 		Richig, von den Config's gibt es zwei. Eine Config hat ein Space.
+
+		//=================================================================================//
+		Soul Cube
+		Sound Verbessert und weitere hinzugefügt (Aktivierung, Versuchtes Entziehen und man hört nun ein "" )
+		Dazu das Script bind_soul_cube.script angepasst und minimal was hinzugefügt.
 //=============================================================================================//
 
+
+//============================================//
+Changelog 10.03.2017
+ - Viele Texte Verfeinert
+ - Waffen Config (Hauptsächlich Position und Zoom)
+ - Suit Sound Ticken bessere
+ - Soul Cube (Sound und Config überarbeitet)
+ 
+ Mehr Details im Changelog
+ 
 
 //============================================//
 Changelog 14.02.2017

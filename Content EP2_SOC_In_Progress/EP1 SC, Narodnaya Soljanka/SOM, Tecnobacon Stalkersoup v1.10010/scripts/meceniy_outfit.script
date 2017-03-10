@@ -1,6 +1,7 @@
---TB3D 1.1.0.0.0.4  removed upd, changed addrs to addx as addrs is a quest item, is_pleer, exo tb3d
--- Localization, nano outfit, redesign, tb3d adapted, is_storm, suit option, enable upgrade when the button is disabled, excluded: - tuskano and fracture from detection
-function my_ver() return "1.1.0.0.0.4" end
+--TB3D 1.1.0.0.1.1  removed upd, changed addrs to addx as addrs is a quest item, is_pleer, exo tb3d
+-- Localization, nano outfit, redesign, tb3d adapted, is_storm, suit option, enable upgrade when the button is disabled,
+-- excluded: - tuskano and fracture from detection, on_actor_update
+function my_ver() return "1.1.0.0.1.1" end
 --[[---------------------------------------------------------
  File         : meceniy_outfit.script
  Description  : \\"Nano and Exoskeleton Skat-15M outfits" .. With life support system (SZHP) and upgradeable options ..
@@ -116,7 +117,8 @@ local nano_system = Text_color_orange..translate("nano_sms_skat_system_m")
 -- ------------------------------------------- new part for outfit version check ------------------------------------------------------
 local log_delay = 0
 local outfit_check = 0
-function on_actor_update(is_scope)
+function on_actor_update(is_scope) -- Marty2Base Updated, Actor hat Outfit
+	if _g.is_disconnecting then return end				--110011
 	local advanced_outfit = act:get_current_outfit()
 	dyn_suit = amk.load_variable("option_dyn_suit",0)
 	if not advanced_outfit or not act:alive() then SMS_Skat = true enable_txt = true remove_txt() return end	--shutdown, if the player is dead or not wearing outfit - aleks1970
@@ -135,63 +137,63 @@ function on_actor_update(is_scope)
 		if string_find(outfit_section, "nano_outfit_") and not string_find(outfit_section, "nano_outfit_add") then
 			if SMS_enabled and SMS_Skat then
 				nano_heal = true
-				do_heal_sms(true, "suit_0", nano_system..Text_color_green..translate("nano_outfit_name"), 10000)
+				do_suit(true, "suit_0", nano_system..Text_color_green..translate("nano_outfit_name"), 10000)
 				SMS_Skat = false
 			end
 			outfit_type = true
 		elseif string_find(outfit_section, "nano_outfit_addh_") then
 			if SMS_enabled and SMS_Skat then
 				nano_heal = true
-				do_heal_sms(true, "suit_0", nano_system..Text_color_green..translate("nano_outfit_addh_name"), 10000)
+				do_suit(true, "suit_0", nano_system..Text_color_green..translate("nano_outfit_addh_name"), 10000)
 				SMS_Skat = false
 			end
 			outfit_type = true
 		elseif string_find(outfit_section, "nano_outfit_addw_") then
 			if SMS_enabled and SMS_Skat then
 				nano_heal = true
-				do_heal_sms(true, "suit_0", nano_system..Text_color_green..translate("nano_outfit_addw_name"), 10000)
+				do_suit(true, "suit_0", nano_system..Text_color_green..translate("nano_outfit_addw_name"), 10000)
 				SMS_Skat = false
 			end
 			outfit_type = true
 		elseif string_find(outfit_section, "exo_mil_exoskeleton_tb3d") then
 			if SMS_enabled and SMS_Skat then
 				nano_heal = false
-				do_heal_sms(true, "suit_0", skat_system..Text_color_green..translate("mil_exoskeleton_name_tb3d_s"), 10000)
+				do_suit(true, "suit_0", skat_system..Text_color_green..translate("mil_exoskeleton_name_tb3d_s"), 10000)
 				SMS_Skat = false
 			end
 			outfit_type = true
 		elseif string_find(outfit_section, "exo_mil_exoskeleton_dmx") then
 			if SMS_enabled and SMS_Skat then
 				nano_heal = false
-				do_heal_sms(true, "suit_0", skat_system..Text_color_green..translate("mil_exoskeleton_name_dmx_upgrade_s"), 10000)
+				do_suit(true, "suit_0", skat_system..Text_color_green..translate("mil_exoskeleton_name_dmx_upgrade_s"), 10000)
 				SMS_Skat = false
 			end
 			outfit_type = true
 		elseif string_find(outfit_section, "exo_mil_exoskeleton_addx") then
 			if SMS_enabled and SMS_Skat then
 				nano_heal = false
-				do_heal_sms(true, "suit_0", skat_system..Text_color_green..translate("mil_exoskeleton_name_addx_s"), 10000)
+				do_suit(true, "suit_0", skat_system..Text_color_green..translate("mil_exoskeleton_name_addx_s"), 10000)
 				SMS_Skat = false
 			end
 			outfit_type = true
 		elseif string_find(outfit_section, "exo_mil_exoskeleton_addr") then
 			if SMS_enabled and SMS_Skat then
 				nano_heal = false
-				do_heal_sms(true, "suit_0", skat_system..Text_color_green..translate("mil_exoskeleton_name_addr_s"), 10000)
+				do_suit(true, "suit_0", skat_system..Text_color_green..translate("mil_exoskeleton_name_addr_s"), 10000)
 				SMS_Skat = false
 			end
 			outfit_type = true
 		elseif string_find(outfit_section, "exo_mil_exoskeleton_add") then
 			if SMS_enabled and SMS_Skat then
 				nano_heal = false
-				do_heal_sms(true, "suit_0", skat_system..Text_color_green..translate("mil_exoskeleton_name_add_s"), 10000)
+				do_suit(true, "suit_0", skat_system..Text_color_green..translate("mil_exoskeleton_name_add_s"), 10000)
 				SMS_Skat = false
 			end
 			outfit_type = true
 		elseif string_find(outfit_section, "exo_mil_exoskeleton") then
 			if SMS_enabled and SMS_Skat then
 				nano_heal = false
-				do_heal_sms(true, "suit_0", skat_system..Text_color_green..translate("mil_exoskeleton_name"), 10000)
+				do_suit(true, "suit_0", skat_system..Text_color_green..translate("mil_exoskeleton_name"), 10000)
 				SMS_Skat = false
 			end
 			outfit_type = true
@@ -1400,10 +1402,26 @@ end
 
 local sound_delay = 0
 local audio_sms = true
-function do_heal_sms(a,stat,text,time) --aleks1970
+
+-- Marty2Base, Funktion gesplittet. Spielt wenn der Suit "angezogen wird"
+function do_suit(a,stat,text,time) --aleks1970
 --	if amk.load_variable("option_dyn_suit",0) == 1 then			--109997
 --	if dyn_suit == 1 then
 		local sms_tip_0 = [[meceniy\outfit\skat-nano_on]]	-- new sounds aleks1970
+		if stat == "suit_0" then
+			play_snd(sms_tip_0)
+			audio_sms = false
+		end
+		if (SMS_global_enabled==nil or SMS_global_enabled==true) then	--hide sms onscreen text when the "is_scope" is active - aleks1970
+			meceniy_send_tip_txt(act, stat, text, nil, "icon", time)
+		end
+--	end
+end
+
+function do_heal_sms(a,stat,text,time) --aleks1970
+--	if amk.load_variable("option_dyn_suit",0) == 1 then			--109997
+--	if dyn_suit == 1 then
+		local sms_tip_0 = [[meceniy\outfit\skat-nano_hit]]	-- new sounds aleks1970, Marty2base geändert
 		local sms_tip_1 = [[meceniy\outfit\skat_power_error]]
 		local sms_tip_1 = [[meceniy\outfit\skat_power_error_2]]
 		local sms_tip_2 = [[meceniy\outfit\skat_nano_con]]

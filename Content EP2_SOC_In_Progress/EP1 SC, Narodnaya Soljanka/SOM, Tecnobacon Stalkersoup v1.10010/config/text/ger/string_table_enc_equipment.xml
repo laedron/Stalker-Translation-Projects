@@ -119,7 +119,7 @@
 		<text>Simple Anomaly Detector. Emits a Geiger-counter sound when approaching an anomaly. Functions when worn on the belt</text>
 	</string>
 	<string id="enc_equipment_devic_detect2">
-		<text>Designed to detect the presence of abnormal and aberrational fields, and indicate their presence with a warning audio signal. Functions when worn on the belt</text>
+		<text>Detects the presence of abnormal and aberrational fields, indicating their presence with a warning audio signal. Needs to be out in the open and near the ground to work I.e. On your belt...</text>
 	</string>
 	<string id="enc_equipment_devic_detect3">
 		<text>Elite Anomaly Detector invented by Scientists in the Zone. Detects the presence of abnormal and aberrational fields, and displays them on the user's mini-map. Functions when worn on the belt</text>
@@ -133,11 +133,11 @@
 	<string id="enc_equipment_devic_device-torch1_m1">
 		<text>Powerful flashlight. Recharge time improved by using the latest battery technology, and a more efficient transducer</text>
 	</string>
-	<string id="enc_equipment_energydrink">
+	<string id="enc_equipment_energydrink"><!-- aleks1970 -->
 		<text>Energy drink containing caffeine, taurine, and a questionable mixture of 'rejuvenating vitamins'. Ideal for when you need to go just that little bit further...\nThe warning label states that 'Consumption in excessive quantities has proven lethal'</text>
 	</string>
 	<string id="enc_equipment_energydrinka">
-		<text>Nondescript can of unknown origin.\nNo, that can't be - is that a beer?</text>
+		<text>Anonymous, generic beverage carrying no specific name, trademark, nor point of origin, thus removing all responsibility from the seller.\nThe label simply states that it 'Contains caffeine, taurine, and  rejuvenating vitamins - ideal for when you need to go just that little bit further! Consumption in excessive quantities can lead to illness or death'</text>
 	</string>
 	<string id="enc_equipment_food_bread1">
 		<text>No one knows who manages to bake these loaves in the Zone, but they're not contaminated and seem quite fresh. Well, at least the Stalkers have no complaints about their daily bread...</text>
@@ -146,7 +146,7 @@
 		<text>Brain of the Experienced Controller at Chernobyl NPP2. Extremely rare! Upon successful cranial trepanation and removal of the brain, it acquires elasticity and a spherical form upon contact with the air. It is edible, with many beneficial properties - completely satisfying hunger, reducing radiation, restoring health, and eliminating weariness. Usually extracted by Monolithian field surgeons, they are highly prized items both inside and outside the Zone...</text>
 	</string>
 	<string id="enc_equipment_food_conserva1">
-		<text>Canned food from Military storehouses throughout the Zone that are regularly raided by experienced Stalkers... And the 'Best before' date is in the future!</text>
+		<text>Canned food from Military storehouses throughout the Zone that are raided by experienced Stalkers on a regular basis... And the 'Best before' date is in the future!</text>
 	</string>
 	<string id="enc_equipment_food_kolbasa1">
 		<text>A mix of chicken, soya, and possibly sawdust, this distasteful sausage is often, for lack of any other edible option, a Stalker's breakfast, lunch, and dinner all in one takeaway meal...</text>
@@ -170,13 +170,13 @@
 		<text>Specialised medical kit designed for working conditions in the Zone. Includes all the contents of an advanced medical kit, plus meds to prevent the development of radiation sickness, eliminate radionuclides, and lower the dosage of accumulated radiation in the body</text>
 	</string>
 	<string id="energy_drink_name">
-		<text>100 Rads* beer</text>
+		<text>'100 Rads' beer</text>
 	</string>
 	<string id="energy_drink_name_dbeer">
-		<text>Beer of unknown origin, but brewed specially for the eponymous Bar that sells it</text>
+		<text>Nondescript beverage</text>
 	</string>
 	<string id="energy_drink_name_dbeer_short">
-		<text>Beer of unknown origin</text>
+		<text>Can of beer</text>
 	</string>
 	<string id="amk_ballon_name">
 		<text>Colloidal Gas</text>
@@ -197,7 +197,7 @@
 		<text>Robust 20 litre fuel container made from pressed steel. Originally designed in Germany in the 1930's for military use, the development of the 'Jerrycan' was a huge improvement on earlier designs, which required tools and funnels to use</text>
 	</string>
 	<string id="energy_drink_short_name">
-		<text>100 Rads*</text>
+		<text>100 Rads</text>
 	</string>
 	<string id="Equipment">
 		<text>Equipment</text>
@@ -293,7 +293,7 @@
 		<text>Dosimeter - a device measuring the doseage or capacity of ionising radiation. Functions when worn on the belt</text>
 	</string>
 	<string id="st_detector_descr2">
-		<text>Designed to detect the presence of abnormal and aberrational fields, and indicate their presence with a warning audio signal. Functions when worn on the belt</text>
+		<text>Detects the presence of abnormal and aberrational fields, indicating their presence with a warning audio signal. Needs to be out in the open and near the ground to work I.e. On your belt...</text>
 	</string>
 	<string id="st_detector_descr3">
 		<text>Anomaly Detector invented by Zone scientists to detect the presence of abnormal and aberrational fields, and indicate their presence with a warning audio signal, while also displaying their location on the user's mini-map. Functions when worn on the belt</text>
@@ -357,7 +357,7 @@
 		<text>Ordinary carrion crow egg. High-protein product that satisfies hunger, raises health a little, and slightly reduces radiation. With the absence of hens and other egg-laying fowl in the Zone, these are considered a delicacy</text>
 	</string>
 	<string id="equip_snotvornoe_tele">
-		<text>Unfamiliar medicine</text>
+		<text>Exotic medicine</text>
 	</string>
 	<string id="equip_snotvornoe_tele_s">
 		<text>Medicine</text>
@@ -582,7 +582,7 @@
 		<text>'Whey' Tablets</text>
 	</string>
 	<string id="enc_equipment_suvorotka_descr">
-		<text>'Whey' tablets are known throughout the Zone to surpass all known first-aid kits and other medical concoctions for healing wounds and treating various sicknesses. They are extremely rare, and were only distributed amongst the Special Forces 'Spetsnaz' units while on secretive missions throughout the Zone\nNot to be confused with the toxic by-product of cheese making, these have a completely different origin. When a vein of iron disulphide, or 'Fools Gold' ran through a section of the anomaly known as 'The Oasis', the entire vein took on the miraculous healing properties of that anomalous area.\nThe Zone attracts all kinds of people. Some are smart. Others are, shall we say, 'hard of thinking'. Exploring an old mine, a Stalker by the name of Brilliant stumbled upon this Fool's Gold. Thinking it was real, he took a sample to the local scientists to confirm his wealth. Naturally, they recognised it for what it was, but they saw something else too.\nAfter trying to retrieve a Fireball artefact too close to its source, Brilliant's right hand was burned all over. All, that is, except where he had been holding tightly onto his piece of 'gold'. There, was the light pink of new skin forming. After further research they discovered that powdered iron disulphide from this vein mixed with magnesium hydroxide (milk of magnesia) created a highly reparative and restorative solution that could be compacted into small tablets. Not only that, but the gold flecks in the tablets made them look exclusive, effective, and expensive, and they were marketed as 'Oasis' Life Saver tablets.\nHowever, once fast-acting painkillers and euphoriants were added to the formula, the first and last syllables were dropped and they became simply known as 'Whey' Tablets, due to their immediate colloquial effect on the user...</text>
+		<text>'Whey' tablets are known throughout the Zone to surpass all known first-aid kits and other medical concoctions for healing wounds and treating various sicknesses. They are extremely rare, and were only distributed amongst the Special Forces 'Spetsnaz' units while on secretive missions throughout the Zone\nNot to be confused with the toxic by-product of cheese making, these have a completely different origin. When a vein of iron disulphide, or 'Fools Gold' ran through a section of the anomaly known as 'The Oasis', the entire vein took on the miraculous healing properties of that anomalous area.\nThe Zone attracts all kinds of people. Some are smart. Others are, shall we say, 'hard of thinking'. Exploring an old mine, a Stalker by the name of Brilliant stumbled upon this Fool's Gold. Thinking it was real, he took a sample to the local scientists to confirm his wealth. Naturally, they recognised it for what it was, but they saw something else too.\nAfter trying to retrieve a Fireball artefact too close to its source, Brilliant's right hand was burned all over. All, that is, except where he had been holding tightly onto his piece of 'gold'. There, was the light pink of new skin forming. After further research they discovered that powdered iron disulphide from this vein mixed with magnesium hydroxide (milk of magnesia) created a highly reparative and restorative solution that could be compacted into small tablets. Not only that, but the gold flecks in the tablets made them look effective, exclusive, and expensive, and they were marketed as 'Oasis' Life Saver tablets.\nHowever, once fast-acting painkillers and euphoriants were added to the formula, the first and last syllables were dropped and they became simply known as 'Whey' Tablets, due to their immediate colloquial effect on the user...</text>
 	</string>
 	<string id="gonets_flash_desc">
 		<text>Messenger's flash drive</text>	<!-- Removed 'USB' - Sword2012. 13 Oct 16 -->

@@ -43,7 +43,7 @@
 		<text>Well thanks, Marked One! Sorry for all the trouble. Now that I've got some good fire power those mutants are going to pay!... Here's you reward</text>
 	</string>
 	<string id="prapor_bring_jaw_0">
-		<text>Greetings, Prapor, I come on business. Fox said that your holding a parcel for him. He got injured by some Psuedodogs so I've come to pick it up</text>
+		<text>Greetings, Prapor, I come on business. Fox said that your holding a parcel for him. He got injured by some Pseudo-dogs, so I've come to pick it up</text>
 	</string>
 	<string id="prapor_bring_jaw_1">
 		<text>Well what do you think this is, a post office? If you want it, your going to have to earn it! Bring me a pair of Bloodsucker tentacles, then you can have the parcel. For storage fees, so to speak</text>	<!-- Changed 'two feelers' to 'a pair of tentacles' - Sword2012 - 31 Oct 16-->
@@ -314,7 +314,7 @@
 		<text>Greetings, Dan, here's the eyes!</text>
 	</string>
 	<string id="dan_trade_buck_3">
-		<text>Greetings, Dan, take these rodent heads!</text>
+		<text>Greetings, Dan. I have those Tushkano heads you wanted...</text>
 	</string>
 	<string id="dan_trade_buck_4">
 		<text>Mmat, till now noise in a head from this creature! It would be advisable to fill up cartridges, and, Dan?!</text>
@@ -371,7 +371,7 @@
 		<text>Why don't you send one of your own fighters?</text>
 	</string>
 	<string id="yakut_help_3">
-		<text>There are only a few of us left now, so I can't take the risk. Bandits and mutants grow in numbers, every man with a weapon is important. You, as I saw for myself, are a master. You know the catacombs better than any stalker. The men have donated cartridges to give to you</text>
+		<text>There are only a few of us left now, so I can't take the risk. Bandits and mutants grow in numbers, every man with a weapon is important. You, as I saw for myself, are a master. You know the catacombs better than any Stalker. The men have donated cartridges to give to you</text>
 	</string>
 	<string id="yakut_help_4">
 		<text>I will find your notebook, cartridges I always need</text>
@@ -380,7 +380,7 @@
 		<text>How's the situation now?</text>
 	</string>
 	<string id="yakut_help_bring_1">
-		<text>My fighters are under too much pressure holding this complex. I'm afraid its necessary to leave here. Do you have the notebook?</text>
+		<text>My fighters are under too much pressure holding this complex. We may need to leave here. Do you have the notebook?</text>
 	</string>
 	<string id="yakut_help_bring_2">
 		<text>Yes, here you are. Your man is dead, I believe he ran into an Electro anomaly while trying to escape the Controllers</text>
@@ -1374,19 +1374,19 @@
 		<text>Greetings, how are you doing?</text>
 	</string>
 	<string id="kashei_weapons_need_1">
-		<text>Greetings, you were sent by Sviblova? Their strength and positions are as follows, seven: four in the street and three more in the building. As you will make your the way onto the farm - search for a backpack, they store the weapon in it</text>
+		<text>Greetings. You were sent by Sviblov? Good. There are seven in there - four outside and three in the building. You'll need to make your way inside, then look for a stash bag. That's where the weapon will be. Remember, no trouble, okay? We don't want to start a war...</text>
 	</string>
 	<string id="kashei_weapons_need_2">
-		<text>Your not going with me?</text>
+		<text>You're not going with me?</text>
 	</string>
 	<string id="kashei_weapons_need_3">
-		<text>Together, we would make too much noise</text>
+		<text>No. Together, we'd make too much noise...</text>
 	</string>
 	<string id="kashei_weapons_need_4">
-		<text>Well, then wait for me here</text>
+		<text>Okay, then wait for me here...</text>
 	</string>
 	<string id="sveeblov_weapons_est_0">
-		<text>I bought the weapon</text>
+		<text>I brought the weapon</text>
 	</string>
 	<string id="sveeblov_weapons_est_1">
 		<text>What happened?</text>
@@ -1395,13 +1395,13 @@
 		<text>Things didn't go quite as planned. During the most interesting moment 'Hunters' arrived and a gunfight ensued. But I managed to get the machine gun</text>
 	</string>
 	<string id="sveeblov_weapons_est_3">
-		<text>I'm glad you were successful and came back unharmed. Here take this as a gift</text>
+		<text>I'm glad you were successful and came back unharmed. Here, take this as a gift</text>
 	</string>
 	<string id="dan_speak_about_kot_0">
 		<text>Can I help you?</text>
 	</string>
 	<string id="dan_speak_about_kot_1">
-		<text>Yes, I wanted to ask if you have seen any Monolithians? I mean here, on the bogs</text>
+		<text>Yes, I wanted to ask if you have seen any Monolithians? I mean here, in the swamps...</text>
 	</string>
 	<string id="dan_speak_about_kot_2">
 		<text>As far as I know, they are not present</text>
@@ -1566,7 +1566,7 @@
 		<text>Its not a dirty job, youll just need to run around a bit</text>
 	</string>
 	<string id="marsh_barman_help_8">
-		<text>Run around? I hope your not going to ask me to go after one of those giant swamp monsters</text>
+		<text>Run around? I hope you're not going to ask me to go after one of those giant swamp monsters</text>
 	</string>
 	<string id="marsh_barman_help_9">
 		<text>I don't want you to kill anything. A few days ago some of the men saw a 'Red Pseudogiant' on the Agropom. These are very rare, and their meat... Mind you... even at the best restaurant you couldnt get something as delicious</text>
@@ -2205,7 +2205,7 @@
 		<text>Hrenovo to me... kha-kha-kha... Wait... kha-kha-kha. Excuse blood and whips</text>
 	</string>
 	<string id="kurier_need_kurier_2">
-		<text>You, probably, also are the courier from Sviblova</text>
+		<text>You, probably, also are the courier from Sviblov</text>
 	</string>
 	<string id="kurier_need_kurier_3">
 		<text>Yes. Listen... Listen to me... kha-kha-kha. It is necessary... kha-kha-kha to deliver samples to Sakharov, it is very important. IMPORTANT, you understand. I. kha-kha-kha I can not any more</text>
@@ -2643,7 +2643,7 @@
 		<text>For three mushrooms: 5 drums for the Pistol-machine gun PPSh-41, or 3 magazines for the MG-42 machine gun, or 3 army first-aid sets, either 3 antirad, or 4 packs of NATO cartridges, or 4 packs for AK-74, or 3 packs of cartridges for the Thunder-storm. Only thing is mushrooms carry a little radiation</text>
 	</string>
 	<string id="grib_ghange_0">
-		<text>Here you are Cold, Mushrooms</text>
+		<text>Here you are, Cold. Mushrooms</text>
 	</string>
 	<string id="grib_ghange_1">
 		<text>Let me see!</text>
@@ -2652,7 +2652,7 @@
 		<text>Here three pieces</text>
 	</string>
 	<string id="grib_ghange_3">
-		<text>I don't have any, maybe later...</text>
+		<text>Oh, sorry. I thought I had some in there...</text>
 	</string>
 	<string id="grib_ghange_4">
 		<text>Which do you want?</text>

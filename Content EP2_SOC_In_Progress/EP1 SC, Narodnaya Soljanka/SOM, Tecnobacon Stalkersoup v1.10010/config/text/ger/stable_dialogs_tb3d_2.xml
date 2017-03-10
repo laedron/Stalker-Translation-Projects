@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1252"?>
-<!--TB3D 1.1.0.0.1.0 added new autosaves and sms messages, barman, sid, more content, tb3d_sms_bars_found, tb3d_sms_chaes_start, dialog imp, new dialogs -->
+<!--TB3D 1.1.0.0.1.1 added new autosaves and sms messages, barman, sid, more content, tb3d_sms_bars_found, tb3d_sms_chaes_start, dialog imp, new dialogs, additional content -->
 <!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 07 Oct 16 -->
 <!-- Corrected many generic punctuation, in-game and US/UK spelling errors - Sword2012 - 12 Dec 16 -->
 <string_table>
@@ -41,6 +41,8 @@
 	<string id="tb3d_sms_doc_book">
 		<text>Don't forget Doc's book. It might be around here somewhere...</text>
 	</string>
+	
+	<!-- ZEP dialogs -->
 	<string id="pred_trader_name">
 		<text>Krohobor</text>
 	</string>
@@ -110,6 +112,8 @@
 	<string id="barman_zep8_6">
 		<text>Ah, and to think I always took you for the insensitive type...</text>
 	</string>
+	
+	<!-- suit dialogs -->
 	<string id="lanky_suit_0">	<!-- mushroom art for suit -->
 		<text>Is there any way I can get a suit that'll protect me from this storm?</text>
 	</string>
@@ -191,6 +195,8 @@
 	<string id="lanky_suit5_2">
 		<text>Yeah, I salute you too. Will the one finger do? Thanks for the repair, though. I do appreciate it...</text>
 	</string>
+	
+	<!-- storm dialogs -->
 	<string id="barman_zep9_0">	<!-- during storm -->
 		<text>Why the bad mood?</text>
 	</string>
@@ -248,6 +254,8 @@
 	<string id="tb3d_sid_storm_3">
 		<text>I don't know, but I sure hope it burns itself out soon, and doesn't come this way!</text>
 	</string>
+	
+	<!-- reclaimation dialogs -->
 	<string id="tb3d_sid_after_0">	<!-- comment after storm -->
 		<text>Sid, old friend. How's life in the afterstorm?</text>
 	</string>
@@ -281,6 +289,7 @@
 	<string id="garb2_info_6">	<!-- 109996, new info about F1 -->
 		<text>Yes, very likely. See you around...</text>
 	</string>
+	
 	<!-- new in 110000, moved from stable_dialogs_tb3d.xml 110010 -->
 	<string id="tb3d_crest1_0">
 		<text>Nice to see some old faces still kickin!</text>
@@ -309,6 +318,7 @@
 	<string id="tb3d_crest1_8">
 		<text>Appreciate it... you take care</text>
 	</string>
+
 	<string id="tb3d_crest2_0">
 		<text>Glad to see you survived the storm!</text>
 	</string>
@@ -336,293 +346,5 @@
 	<string id="tb3d_crest2_8">
 		<text>Well... thanks for the advice, see ya</text>
 	</string>
-	<!-- Following dialogs to be created, 110010 -->
-	<!-- Karina in Dead Marshes -->
-	<string id="karina_dialog_food_0">
-		<text>food 1</text>
-	</string>
-	<string id="karina_dialog_food_1">
-		<text>food 2</text>
-	</string>
-	<string id="karina_dialog_food_2">
-		<text>food 3</text>
-	</string>
-	<string id="karina_dialog_food_3">
-		<text>food 4</text>
-	</string>
-	<string id="karina_dialog_food_4">
-		<text>food 5</text>
-	</string>
-	<string id="karina_dialog_food_5">
-		<text>food 6</text>
-	</string>
-	<string id="karina_dialog_food_6">
-		<text>food 7</text>
-	</string>
-	<string id="karina_dialog_food_7">
-		<text>food 8</text>
-	</string>
-	<string id="karina_dialog_food_8">
-		<text>food 9</text>
-	</string>
-	<string id="karina_dialog_food_9">
-		<text>food 10</text>
-	</string>
-	<string id="karina_dialog_food_10">
-		<text>food 11</text>
-	</string>
-	<string id="karina_dialog_food_11">
-		<text>food 12</text>
-	</string>
-	<string id="karina_dialog_arts_0">
-		<text>arts 1</text>
-	</string>
-	<string id="karina_dialog_arts_1">
-		<text>arts 2</text>
-	</string>
-	<string id="karina_dialog_arts_2">
-		<text>arts 3</text>
-	</string>
-	<string id="karina_dialog_arts_3">
-		<text>arts 4</text>
-	</string>
-	<string id="karina_dialog_arts_4">
-		<text>arts 5</text>
-	</string>
-	<string id="karina_dialog_arts_5">
-		<text>arts 6</text>
-	</string>
-	<string id="karina_dialog_arts_6">
-		<text>arts 7</text>
-	</string>
-	<string id="karina_dialog_arts_7">
-		<text>arts 8</text>
-	</string>
-	<string id="karina_dialog_arts_8">
-		<text>arts 9</text>
-	</string>
-	<string id="karina_dialog_arts_9">
-		<text>arts 10</text>
-	</string>
-	<string id="karina_dialog_arts_10">
-		<text>arts 11</text>
-	</string>
-	<string id="karina_dialog_arts_11">
-		<text>arts 12</text>
-	</string>
-	<!-- Liza in hr -->
-	<string id="liza_dialog1_1">
-		<text>liza1</text>
-	</string>
-	<string id="liza_dialog1_2">
-		<text>liza2</text>
-	</string>
-	<string id="liza_dialog1_3">
-		<text>liza3</text>
-	</string>
-	<string id="liza_dialog1_4">
-		<text>liza4</text>
-	</string>
-	<string id="liza_dialog1_5">
-		<text>liza5</text>
-	</string>
-	<string id="liza_dialog1_6">
-		<text>liza6</text>
-	</string>
-	<string id="liza_dialog1_7">
-		<text>liza7</text>
-	</string>
-	<string id="liza_dialog1_8">
-		<text>liza8</text>
-	</string>
-	<string id="liza_dialog1_9">
-		<text>liza9</text>
-	</string>
-	<string id="liza_dialog2_1">
-		<text>liza1</text>
-	</string>
-	<string id="liza_dialog2_2">
-		<text>liza2</text>
-	</string>
-	<string id="liza_dialog2_3">
-		<text>liza3</text>
-	</string>
-	<string id="liza_dialog2_4">
-		<text>liza4</text>
-	</string>
-	<string id="liza_dialog2_5">
-		<text>liza5</text>
-	</string>
-	<!-- Afanasyev in hr -->
-	<string id="afanasyev_dialog1_1">
-		<text>afanasyev1</text>
-	</string>
-	<string id="afanasyev_dialog1_2">
-		<text>afanasyev2</text>
-	</string>
-	<string id="afanasyev_dialog1_3">
-		<text>afanasyev3</text>
-	</string>
-	<string id="afanasyev_dialog1_4">
-		<text>afanasyev4</text>
-	</string>
-	<string id="afanasyev_dialog1_5">
-		<text>afanasyev5</text>
-	</string>
-	<string id="afanasyev_dialog1_6">
-		<text>afanasyev6</text>
-	</string>
-	<string id="afanasyev_dialog1_7">
-		<text>afanasyev7</text>
-	</string>
-	<string id="afanasyev_dialog1_8">
-		<text>afanasyev8</text>
-	</string>
-	<string id="afanasyev_dialog1_9">
-		<text>afanasyev9</text>
-	</string>
-	<string id="afanasyev_dialog2_1">
-		<text>afanasyev1</text>
-	</string>
-	<string id="afanasyev_dialog2_2">
-		<text>afanasyev2</text>
-	</string>
-	<string id="afanasyev_dialog2_3">
-		<text>afanasyev3</text>
-	</string>
-	<string id="afanasyev_dialog2_4">
-		<text>afanasyev4</text>
-	</string>
-	<string id="afanasyev_dialog2_5">
-		<text>afanasyev5</text>
-	</string>
-	<!-- Obmorok in pred -->
-	<string id="obmorok_dialog1_1">
-		<text>obmorok1</text>
-	</string>
-	<string id="obmorok_dialog1_2">
-		<text>obmorok2</text>
-	</string>
-	<string id="obmorok_dialog1_3">
-		<text>obmorok3</text>
-	</string>
-	<string id="obmorok_dialog1_4">
-		<text>obmorok4</text>
-	</string>
-	<string id="obmorok_dialog1_5">
-		<text>obmorok5</text>
-	</string>
-	<string id="obmorok_dialog1_6">
-		<text>obmorok6</text>
-	</string>
-	<string id="obmorok_dialog1_7">
-		<text>obmorok7</text>
-	</string>
-	<string id="obmorok_dialog1_8">
-		<text>obmorok8</text>
-	</string>
-	<string id="obmorok_dialog1_9">
-		<text>obmorok9</text>
-	</string>
-	<string id="obmorok_dialog2_1">
-		<text>obmorok1</text>
-	</string>
-	<string id="obmorok_dialog2_2">
-		<text>obmorok2</text>
-	</string>
-	<string id="obmorok_dialog2_3">
-		<text>obmorok3</text>
-	</string>
-	<string id="obmorok_dialog2_4">
-		<text>obmorok4</text>
-	</string>
-	<string id="obmorok_dialog2_5">
-		<text>obmorok5</text>
-	</string>
-	<!-- Karatel in pred spawns after Obmorok killed, if killed by actor: pred_karatel_deat-->
-	<string id="karatel_dialog1_1">
-		<text>karatel1</text>
-	</string>
-	<string id="karatel_dialog1_2">
-		<text>karatel2</text>
-	</string>
-	<string id="karatel_dialog1_3">
-		<text>karatel3</text>
-	</string>
-	<string id="karatel_dialog1_4">
-		<text>karatel4</text>
-	</string>
-	<string id="karatel_dialog1_5">
-		<text>karatel5</text>
-	</string>
-	<string id="karatel_dialog1_6">
-		<text>karatel6</text>
-	</string>
-	<string id="karatel_dialog1_7">
-		<text>karatel7</text>
-	</string>
-	<string id="karatel_dialog1_8">
-		<text>karatel8</text>
-	</string>
-	<string id="karatel_dialog1_9">
-		<text>karatel9</text>
-	</string>
-	<string id="karatel_dialog2_1">
-		<text>karatel1</text>
-	</string>
-	<string id="karatel_dialog2_2">
-		<text>karatel2</text>
-	</string>
-	<string id="karatel_dialog2_3">
-		<text>karatel3</text>
-	</string>
-	<string id="karatel_dialog2_4">
-		<text>karatel4</text>
-	</string>
-	<string id="karatel_dialog2_5">
-		<text>karatel5</text>
-	</string>
-	<!-- Zika in F1 -->
-	<string id="zika_dialog1_1">
-		<text>zika1</text>
-	</string>
-	<string id="zika_dialog1_2">
-		<text>zika2</text>
-	</string>
-	<string id="zika_dialog1_3">
-		<text>zika3</text>
-	</string>
-	<string id="zika_dialog1_4">
-		<text>zika4</text>
-	</string>
-	<string id="zika_dialog1_5">
-		<text>zika5</text>
-	</string>
-	<string id="zika_dialog1_6">
-		<text>zika6</text>
-	</string>
-	<string id="zika_dialog1_7">
-		<text>zika7</text>
-	</string>
-	<string id="zika_dialog1_8">
-		<text>zika8</text>
-	</string>
-	<string id="zika_dialog1_9">
-		<text>zika9</text>
-	</string>
-	<string id="zika_dialog2_1">
-		<text>zika1</text>
-	</string>
-	<string id="zika_dialog2_2">
-		<text>zika2</text>
-	</string>
-	<string id="zika_dialog2_3">
-		<text>zika3</text>
-	</string>
-	<string id="zika_dialog2_4">
-		<text>zika4</text>
-	</string>
-	<string id="zika_dialog2_5">
-		<text>zika5</text>
-	</string>
+	<!-- strings were moved to *tb3d_forbidden_zone_dialogs.xml* file - aleks1970 -->
 </string_table>

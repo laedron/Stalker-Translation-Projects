@@ -37,7 +37,7 @@
 		<text>12x70 'Buck'</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-12x70-buck">
-		<text>The 12x70 'Buckshot' is probably the most popular load used in shotguns today. The eight to ten large balls of lead are each about the size and power of a 357 magnum and against poorly armored opponents a single shot is often lethal. They have proven to be one of the most effective rounds against mutants throughout the ZONE</text>
+		<text>The 12x70 'Buckshot' is probably the most popular load used in shotguns today. The eight to ten large balls of lead are each about the size and power of a 357 magnum and against poorly armored opponents a single shot is often lethal. They have proven to be one of the most effective rounds against mutants throughout the Zone</text>
 	</string>
 	<!-- 12x76-Slug -->
 	<string id="ammo-12x76-zhekan">
@@ -62,7 +62,7 @@
 		<text>12x76 'Isomorphic'</text>
 	</string>
 	<string id="enc_weapons_ammo_zhekan_izomorf">
-		<text>A conventional slug enhanced with alien particles of an unknown origin. A spark is produced that spontaneously combusts upon contact with a target. The term 'Isomorphic' means 'having the same form,' and is used in many branches of Science to identify physical objects which have identical structural properties.... nobody knows how, and when these arrived in the ZONE...</text>
+		<text>A conventional slug enhanced with alien particles of an unknown origin. These particles cause any material around the slug to spontaneously combust upon contact with a target. The term 'Isomorphic' means 'having the same form,' and is used in many branches of science to identify physical objects which have identical structural properties... Nobody has a clue as to how these arrived in the Zone...</text>
 	</string>
 	<!-- 5.45x39mm -->
 	<string id="ammo-5.45x39-fmj">
@@ -90,7 +90,7 @@
 		<text>5.45x39 'Isomorphic'</text>
 	</string>
 	<string id="enc_weapons_ammo_5.45x39_izomorf">
-		<text>Cartridge based on the conventional 5.45x39mm cartridge. Enhanced with alien particles of an unknown origin, a spark is produced that spontaneously combusts upon contact with a target. The term 'Isomorphic' means 'having the same form,' and is used in many branches of Science to identify physical objects which have identical structural properties.... nobody knows how, and when these arrived in the Zone...</text>
+		<text>Based upon the conventional 5.45x39mm cartridge, and enhanced with alien particles of an unknown origin. These particles cause any material around the bullet to spontaneously combust upon contact with a target. The term 'Isomorphic' means 'having the same form,' and is used in many branches of science to identify physical objects which have identical structural properties... Nobody has a clue as to how these arrived in the Zone...</text>
 	</string>
 	<!-- 5.56x45mm -->
 	<string id="ammo-5.56x45-ss190">
@@ -199,7 +199,7 @@
 		<text>7.62x54mm 'Isomorphic'</text>
 	</string>
 	<string id="enc_weapons_ammo_7.62x54_izomorf">
-		<text>Cartridge made on the basis of a conventional 7.62x54mm round. Enhanced with alien particles of an unknown origin, a spark is produced that spontaneously combusts upon contact with a target. The term 'Isomorphic' means 'having the same form,' and is used in many branches of Science to identify physical objects which have identical structural properties.... nobody knows how, and when these arrived in the ZONE...</text>
+		<text>Cartridge made on the basis of a conventional 7.62x54mm round. Enhanced with alien particles of an unknown origin, these particles cause any material around the bullet to spontaneously combust upon contact with a target. The term 'Isomorphic' means 'having the same form,' and is used in many branches of science to identify physical objects which have identical structural properties... Nobody has a clue as to how these arrived in the Zone...</text>
 	</string>
 	<!-- 9x18mm -->
 	<string id="ammo-9x18-fmj">
@@ -283,7 +283,7 @@
 		<text>9x39 'Isomorphic'</text>
 	</string>
 	<string id="enc_weapons_ammo_9x39_izomorf">
-		<text>Cartridge based on the conventional 9x39mm cartridge. Enhanced with alien particles of an unknown origin, a spark is produced that spontaneously combusts upon contact with a target. The term 'Isomorphic' means 'having the same form', and is used in many branches of Science to identify physical objects which have identical structural properties.... nobody knows how, and when these arrived in the ZONE...</text>
+		<text>Based upon the conventional 9x39mm cartridge, and enhanced with alien particles of an unknown origin. These particles cause any material around the bullet to spontaneously combust upon contact with a target. The term 'Isomorphic' means 'having the same form', and is used in many branches of science to identify physical objects which have identical structural properties... Nobody has a clue as to how these arrived in the Zone...</text>
 	</string>
 	<!-- Gauss -->
 	<string id="ammo-gauss">
@@ -302,7 +302,7 @@
 		<text>'S-Gauss'</text>
 	</string>
 	<string id="enc_weaponss_ammo_super_gauss">
-		<text>Extremely lethal power-capacitor for the experimental Gauss-Pistol. Contains a fragment of the 'Moonlight' artefact encapsulated inside an energy cell. Dangerous, and very unstable</text>
+		<text>Extremely lethal charged power capacitor for the experimental Gauss Pistol. Contains a fragment of the 'Moonlight' artefact encapsulated inside an energy cell. Very dangerous and unstable, in or out of the weapon</text>
 	</string>
 	<!-- OG-7B -->
 	<string id="ammo-og-7b">
@@ -483,7 +483,7 @@
 		<text>GP-25 Grenade Launcher</text>
 	</string>
 	<string id="enc_weapons1_wpn-addon-grenade-launcher">
-		<text>The GP-25 Kostyor 'Bonfire' is an under barrel grenade launcher for the AK-series of assault rifle. It was first seen by the west in 1984 during the Soviet Invasion of Afghanistan. For use with both the VOG-25 and VOG-25P (40mm) grenade types, and uses the same High-Low System developed by Germany in late World War II, designed to keep recoil forces low without a rocket or other type of recoilless weapon back blast.... Standard equipment for countries supporting the Warsaw Pact</text>
+		<text>The GP-25 Kostyor 'Bonfire' is an under barrel grenade launcher for the AK-series of assault rifle. It was first seen by the west in 1984 during the Soviet Invasion of Afghanistan. For use with both the VOG-25 and VOG-25P (40mm) grenade types, and uses the same High-Low System developed by Germany in late World War II, designed to keep recoil forces low without a rocket or other type of recoilless weapon back blast... Standard equipment for countries supporting the Warsaw Pact</text>
 	</string>
 	<string id="wpn-addon-grenade-launcher-m203">
 		<text>M203 Grenade Launcher</text>
@@ -507,7 +507,7 @@
 		<text>SUSAT Scope</text>
 	</string>
 	<string id="enc_weapons1_wpn-addon-scope-susat">
-		<text>SUSAT (Sight Unit Small Arms) L9A1 Optical Sight (Trilux Style).... A sophisticated (4x) magnification sight manufactured for NATO countries. It is installed on standard 'Picatinny Rod' NATO fastening.... with tritium-powered illumination, utilised at dusk or dawn. Not designed as a sniper sight, but rather intended to be mounted on a variety of rifles and to be used by all Infantrymen. SUSAT is constructed from a one-piece, pressure die-cast, aluminium body, into which the eyepiece, objective lens and prisms are fitted as assemblies. Developed in Great Britain by Royal Armaments Research Development Establishment (RARDE) and manufactured by United Scientific Instruments and Avimo, now known as Thales Optics</text>
+		<text>SUSAT (Sight Unit Small Arms) L9A1 Optical Sight (Trilux Style)... A sophisticated (4x) magnification sight manufactured for NATO countries. It is installed on standard 'Picatinny Rod' NATO fastening... with tritium-powered illumination, utilised at dusk or dawn. Not designed as a sniper sight, but rather intended to be mounted on a variety of rifles and to be used by all Infantrymen. SUSAT is constructed from a one-piece, pressure die-cast, aluminium body, into which the eyepiece, objective lens and prisms are fitted as assemblies. Developed in Great Britain by Royal Armaments Research Development Establishment (RARDE) and manufactured by United Scientific Instruments and Avimo, now known as Thales Optics</text>
 	</string>
 	<string id="wpn-addon-silencer">
 		<text>PBS-1 Silencer</text>
@@ -724,25 +724,25 @@
 		<text>VGI Gauss M72 'Ghost'</text>
 	</string>
 	<string id="enc_weapons1_wpn_dark_gauss">
-		<text>• Ammunition: 2-mm Gauss Capsules\n• Effective Range: 1000 metres\n• Capacity: 20 Rounds\nThe m72 Gauss Rifle that once belonged to 'Ghost'. This weapon was found laying in a 'Fruit Punch' anomaly, which has permanently altered its firing characteristics. It now possesses a furious rate of fire in comparison with other Gauss Rifles. A very unique, and powerful weapon.... handle with extreme caution</text>
+		<text>• Ammunition: 2-mm Gauss Capsules\n• Effective Range: 1000 metres\n• Capacity: 20 Rounds\nThe m72 Gauss Rifle that once belonged to 'Ghost'. This weapon was found laying in a 'Fruit Punch' anomaly, which has permanently altered its firing characteristics. It now possesses a furious rate of fire in comparison with other Gauss Rifles. A very unique, and powerful weapon... handle with extreme caution</text>
 	</string>
 	<string id="wpn-fn2000_sniper">
 		<text>F2000 TR 'Executioner'</text>
 	</string>
 	<string id="enc_weapons1_wpn-fn2000_sniper">
-		<text>• Ammunition: 7.62x54mm 7H1, 7.62x54mm 7H14, 7.62x54mm AP, 7.62x54mm IZOMORF, 7.62x54mm R • Scope: (1.8x)\n• Range: 1000 metres • Rate of Fire: 850 rpm\n• Capacity: 30 Rounds\n \nA most unique weapon based upon the Belgian FN Herstal F2000 Tactical TR-7.... Customized to serve as a Tactical Sniper Rifle, this particular specimen utilizes a computerized scope system, which allows for more precise, quick aiming.... offering obvious benefits over its automatic counterparts. It has a lengthened 750mm barrel, and a completely redesigned single-shot firing mechanism with increased firing range. Both of these factors serve to increase the weapon's accuracy.... Without a doubt, this used to belong to someone not worth reckoning with.... The word 'Executioner' has been carefully etched into the butt of it...</text>
+		<text>• Ammunition: 7.62x54mm 7H1, 7.62x54mm 7H14, 7.62x54mm AP, 7.62x54mm IZOMORF, 7.62x54mm R • Scope: (1.8x)\n• Range: 1000 metres • Rate of Fire: 850 rpm\n• Capacity: 30 Rounds\n \nA most unique weapon based upon the Belgian FN Herstal F2000 Tactical TR-7... Customized to serve as a Tactical Sniper Rifle, this particular specimen utilizes a computerized scope system, which allows for more precise, quick aiming... offering obvious benefits over its automatic counterparts. It has a lengthened 750mm barrel, and a completely redesigned single-shot firing mechanism with increased firing range. Both of these factors serve to increase the weapon's accuracy... Without a doubt, this used to belong to someone not worth reckoning with... The word 'Executioner' has been carefully etched into the butt of it...</text>
 	</string>
 	<string id="wpn-fn2000_comp">
 		<text>FN-2000 'Compact'</text>
 	</string>
 	<string id="enc_weapons1_wpn-fn2000_comp">
-		<text>• Ammunition: 7.62x39mm FMJ, 7.62x39mm AP • Reticicle: (1.6x)\n• Effective range: 480 metres • Rate of Fire: 850 r/m\n• Capacity: 30 Rounds\nUnique Belgian FN-2000 'Compact'.\nThis particular model utilizes a second level computerized scope system, which allows for more precise aiming alongside other benefits. It has a lengthier barrel, and a completely redesigned automatic firing mechanism. Both factors lead to an increase in accuracy.Without a doubt, this is one of the best sniper rifles to be found in the ZONE</text>
+		<text>• Ammunition: 7.62x39mm FMJ, 7.62x39mm AP • Reticicle: (1.6x)\n• Effective range: 480 metres • Rate of Fire: 850 r/m\n• Capacity: 30 Rounds\nUnique Belgian FN-2000 'Compact'.\nThis particular model utilizes a second level computerized scope system, which allows for more precise aiming alongside other benefits. It has a lengthier barrel, and a completely redesigned automatic firing mechanism. Both factors lead to an increase in accuracy.Without a doubt, this is one of the best sniper rifles to be found in the Zone</text>
 	</string>
 	<string id="wpn-fn2000_old">
 		<text>FN-2000 'worn'</text>
 	</string>
 	<string id="enc_weapons1_wpn-fn2000_old">
-		<text>• Ammunition: 5.45x39mm FMJ, 5.45x39mm AP • Reticicle: (1.6x)\n• Effective range: 540 metres • Rate of Fire: 850 r/m\n• Capacity: 30 Rounds\nHeavily worn, war-torn version of the unique Belgian FN-2000. This particular model utilizes a computerized scope system, which allows for more precise aiming alongside other benefits. It has a lengthier barrel, and a completely redesigned automatic firing mechanism. Both factors lead to an increase in accuracy.Without a doubt, this is one of the best sniper rifles to be found in the ZONE</text>
+		<text>• Ammunition: 5.45x39mm FMJ, 5.45x39mm AP • Reticicle: (1.6x)\n• Effective range: 540 metres • Rate of Fire: 850 r/m\n• Capacity: 30 Rounds\nHeavily worn, war-torn version of the unique Belgian FN-2000. This particular model utilizes a computerized scope system, which allows for more precise aiming alongside other benefits. It has a lengthier barrel, and a completely redesigned automatic firing mechanism. Both factors lead to an increase in accuracy.Without a doubt, this is one of the best sniper rifles to be found in the Zone</text>
 	</string>
 	<string id="wpn_mp7a3">
 		<text>HK MP7</text>
@@ -751,10 +751,10 @@
 		<text>• Ammunition: 9x19mm, 9x19mm PBP\nThe MP7 is a German submachine gun manufactured by Heckler and Koch. It was designed in conjunction with NATO requirements published in 1989 calling for a personal defense weapon (PDW) class firearm with a greater ability to defeat body armor than current weapons, which are limited due to the use of conventional pistol cartridges. The MP7 went into production in 2001. It is a direct rival to the FN P90, also developed in response to NATO's requirement. The weapon has been revised since its introduction and the current production version is the MP7A3</text>
 	</string>
 	<string id="wpn-bizon">
-		<text>PP-19 'Bizon'</text>
+		<text>PP-19 Bizon</text>
 	</string>
 	<string id="enc_weapons1_wpn-bizon">
-		<text>• Ammunition: 9x18mm, 9x18mm +P\nThis interesting submachine gun had been developed in Izhevsk at the famous IZHMASH state arms factory during the early 1990's, and first appeared in public circa 1993. Obviously influenced by the somewhat unsuccessful Calico submachine guns, the Bizon (Bison) SMG combined a high capacity 'helical' magazine with a more conventional appearance and layout. The Bizon is based on the AKS-74 assault rifle, and actually built on shortened AKS-74 receivers, with the AKS-74 pistol grip, trigger unit and folding butt. Latter models introduced a somewhat improved shape of the pistol grip, with better ergonomics. The large capacity magazine is located under the barrel, and serves as a forearm, resulting in a comfortable hold and trim profile. This firearm is said to be both comfortable to carry and easy to fire, and provides lots of firepower</text>
+		<text>• Ammunition: 9x18mm, 9x18mm +P\nThis interesting submachine gun had been developed in Izhevsk at the famous IZHMASH state arms factory during the early 1990's, and first appeared in public circa 1993. Obviously influenced by the somewhat unsuccessful Calico submachine guns, the Bizon (Bison) SMG combined a high capacity 'helical' magazine with a more conventional appearance and layout. The Bizon is based on the AKS-74 assault rifle, and actually built on shortened AKS-74 receivers, with the AKS-74 pistol grip, trigger unit and folding butt. Latter models introduced a somewhat improved shape of the pistol grip, with better ergonomics. The 64-round magazine is located under the barrel, and serves as a forearm, resulting in a comfortable hold and trim profile. This firearm is said to be both comfortable to carry and easy to fire, and provides lots of firepower</text>
 	</string>
 	<string id="wpn-bizon1">
 		<text>PP-19 'Anomalous Bizon'</text>
@@ -882,13 +882,13 @@
 		<text>AWP 'Iglomet' Crossbow</text>
 	</string>
 	<string id="enc_weapons1_wpn-usp_big">
-		<text>• Ammunition: specialized 'Iglomet' arrows\nManufactured by Accuracy International (L96 A1)/Arctic Warfare (Great Britain) specifically for its silent shooting capabilities. A formidable stealth weapon!!! Skillfully modified to fire custom arrows, and with a special capsule built into the butt housing a small sample of a little known artefact.... This enhancement gives the arrows a faster, more true trajectory. Arctic Warfare rifles are generally outfitted with a Schmidt + Bender PM II telescopic sight, which is rare for a rifle manufacturer. However, the German and Russian Armies preferred a telescopic sight made by Zeiss over Accuracy International's preference. This customized Sniper Rifle possesses very powerful penetrative ability and an extremely long range!!!</text>
+		<text>• Ammunition: specialized 'Iglomet' arrows\nManufactured by Accuracy International (L96 A1)/Arctic Warfare (Great Britain) specifically for its silent shooting capabilities. A formidable stealth weapon!!! Skillfully modified to fire custom arrows, and with a special capsule built into the butt housing a small sample of a little known artefact... This enhancement gives the arrows a faster, more true trajectory. Arctic Warfare rifles are generally outfitted with a Schmidt + Bender PM II telescopic sight, which is rare for a rifle manufacturer. However, the German and Russian Armies preferred a telescopic sight made by Zeiss over Accuracy International's preference. This customized Sniper Rifle possesses very powerful penetrative ability and an extremely long range!!!</text>
 	</string>
 	<string id="ammo-igl">
 		<text>'Iglomet' Arrows</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-igl">
-		<text>Arrows made from an unknown alloy by skilled Craftsmen belonging to the 'Monolith' faction. Possessing amazing penetrative ability, these dangerous projectiles have been known to impail unfortunate victims entirely.... effectively 'nailing' them to walls, and other nearby surfaces. Some boxes of these rare projectiles were found a year ago by group of Stalkers and subsequently sold off to Traders in order to make a quick profit</text>
+		<text>Arrows made from an unknown alloy by skilled Craftsmen belonging to the 'Monolith' faction. Possessing amazing penetrative ability, these dangerous projectiles have been known to impail unfortunate victims entirely... effectively 'nailing' them to walls, and other nearby surfaces. Some boxes of these rare projectiles were found a year ago by group of Stalkers and subsequently sold off to Traders in order to make a quick profit</text>
 	</string>
 	<!-- Samopal Cartridges -->
 	<string id="wpn-samopal">
@@ -908,7 +908,7 @@
 		<text>Crossbow</text>
 	</string>
 	<string id="enc_weapons_wpn-arb">
-		<text>• Projectile Speed: 1995 m/s\n• Torque: 79.5 kg\n• Kinetic Energy: 140 kj\n• Effective Range: 50-75 metres\nLightweight hunting crossbow equipped with a very high frequency Night Vision Optical Sight. A deadly silent weapon possessing outstanding accuracy at the expense of a slow rate of fire. This particular weapon was brought into the ZONE by foreign Hunters. Best suited for night-time missions requiring stealth. During the daylight hours, the specialized Night Vision Scope producing a blinding glare, and is practically unuseable</text>
+		<text>• Projectile Speed: 1995 m/s\n• Torque: 79.5 kg\n• Kinetic Energy: 140 kj\n• Effective Range: 50-75 metres\nLightweight hunting crossbow equipped with a very high frequency Night Vision Optical Sight. A deadly silent weapon possessing outstanding accuracy at the expense of a slow rate of fire. This particular weapon was brought into the Zone by foreign Hunters. Best suited for night-time missions requiring stealth. During the daylight hours, the specialized Night Vision Scope producing a blinding glare, and is practically unuseable</text>
 	</string>
 	<string id="ammo-arbolt">
 		<text>Arrow</text>
@@ -965,7 +965,7 @@
 		<text>7.62x51mm</text>
 	</string>
 	<string id="enc_maschinengewehr_ammo">
-		<text>German Military issue - 50 round ammo Belt for use with the MG42 Heavy Machinegun. These steel belts are to be used with one 50 ammunition basket drum or they were combined to build 100 and 150 round belts that were carried in the 250 can . The 7.62x51mm round is the rifle cartridge used by the MG-3, and also comes in an Armor-Piercing variant. These rounds are very hard to come by, and only exist in certain rare hiding places. The only people that sell them in the ZONE are Eremite, and the Barkeep</text>
+		<text>German Military issue - 50 round ammo Belt for use with the MG42 Heavy Machinegun. These steel belts are to be used with one 50 ammunition basket drum or they were combined to build 100 and 150 round belts that were carried in the 250 can . The 7.62x51mm round is the rifle cartridge used by the MG-3, and also comes in an Armor-Piercing variant. These rounds are very hard to come by, and only exist in certain rare hiding places. The only people that sell them in the Zone are Eremite and the Barkeep</text>
 	</string>
 	<!-- FLAME THROWER -->
 	<string id="wpn-flame_name">
@@ -975,7 +975,7 @@
 		<text>Flamethrower</text>
 	</string>
 	<string id="wpn-flame_readme">
-		<text>Hand-made Flamethrower designed by 'Screw'. Takes a dual-component mix of colloidal gas 'F' and mineral oil. The mix ignites spontaneously when it makes contact with the open air. The design is extremely simple. However, because of the volatile chemical reaction involved in mixing these two agents together, it is an extremely sensitive, and dangerous weapon. Apparently, the only person with the knowledge on how to mix them safely, and correctly is the weapon's designer.... 'Screw"</text>
+		<text>Hand-made Flamethrower designed by 'Screw'. Takes a dual-component mix of colloidal gas 'F' and mineral oil. The mix ignites spontaneously when it makes contact with the open air. The design is extremely simple. However, because of the volatile chemical reaction involved in mixing these two agents together, it is an extremely sensitive, and dangerous weapon. Apparently, the only person with the knowledge on how to mix them safely, and correctly is the weapon's designer... 'Screw"</text>
 	</string>
 	<string id="wpn-flame_name_modern">
 		<text>Flamethrower M2</text>
@@ -990,7 +990,7 @@
 		<text>Gas Mixture</text>
 	</string>
 	<string id="enc_ammo_flame_name_descr">
-		<text>Gas mixture: Ammunition for a various flamethrower models in ZONE...</text>
+		<text>Gas mixture: Ammunition for the various models of flamethrower in the Zone...</text>
 	</string>
 	<!-- CAMERA GUN AND- FILM CARTRIDGES -->
 	<string id="enc_weapons1_wpn-svd-foto">
@@ -1036,7 +1036,7 @@
 		<text>M4A1-Taktikal</text>
 	</string>
 	<string id="enc_weapons_wpn_m4_taktik">
-		<text>• Ammunition: 5.56x45mm, SS109, 5.56x45mm AP\n• Capacity: 30 Rounds\n• Weight: 2.7kg\n• Rate of Fire: 800 r/m\n• Range: 300 metres\n• Scope: Susat (2x) • Silencer: NATO (attachable)\nThe M4A1 carbine is a fully-automatic variant of the basic M4 carbine intended for special operations use. The M4A1 is used by almost all U.S special operation units. It is especially favored by Counter-Terrorist and Special Forces units for close quarters combat because of the carbine's compactness and firepower. These features are also very useful in urban warfare.... This particular gun has seen better days, as it looks like it has been left out in the Zone's harsh conditions for far too long. 'Raven' told me that he received it as part of a trade from a strange American fellow by the name of Nathan Drake...</text>
+		<text>• Ammunition: 5.56x45mm, SS109, 5.56x45mm AP\n• Capacity: 30 Rounds\n• Weight: 2.7kg\n• Rate of Fire: 800 r/m\n• Range: 300 metres\n• Scope: Susat (2x) • Silencer: NATO (attachable)\nThe M4A1 carbine is a fully-automatic variant of the basic M4 carbine intended for special operations use. The M4A1 is used by almost all U.S special operation units. It is especially favored by Counter-Terrorist and Special Forces units for close quarters combat because of the carbine's compactness and firepower. These features are also very useful in urban warfare... This particular gun has seen better days, as it looks like it has been left out in the Zone's harsh conditions for far too long. 'Raven' told me that he received it as part of a trade from a strange American fellow by the name of Nathan Drake...</text>
 	</string>
 	<string id="wpn_protecta">
 		<text>Prototype 'Protecta"</text>
@@ -1048,7 +1048,7 @@
 		<text>M4 Carbine -Modified-</text>
 	</string>
 	<string id="enc_weapons_wpn_m4">
-		<text>• Ammunition: 5.56x45mm ss109, 5.56x45mm AP • Weight: 4.4 kg\n• Magazine Capacity: 100 Rounds • Range: 900 metres\n \nThis heavily modified version of the M4 Carbine Assault Rifle is equipped with a specially designed dual-barrel magazine with a high capacity of 100 rounds....thus making it a much heavier weapon than the standard M4 Carbine Assault Rifle. It has been outfitted with a permanent silencer, making it an excellent stealth weapon. The fixed Tactical Holographic Sights allow for good peripheral vision whilst in combat situations. It supports both single, and Full Auto settings.... It is not known who performs such modifications here in the Zone, or if it was possibly brought in from somewhere in the outside world. Either way, it is a useful tool to sometimes have in one's Arsenal</text>
+		<text>• Ammunition: 5.56x45mm ss109, 5.56x45mm AP • Weight: 4.4 kg\n• Magazine Capacity: 100 Rounds • Range: 900 metres\n \nThis heavily modified version of the M4 Carbine Assault Rifle is equipped with a specially designed dual-barrel magazine with a high capacity of 100 rounds...thus making it a much heavier weapon than the standard M4 Carbine Assault Rifle. It has been outfitted with a permanent silencer, making it an excellent stealth weapon. The fixed Tactical Holographic Sights allow for good peripheral vision whilst in combat situations. It supports both single, and Full Auto settings... It is not known who performs such modifications here in the Zone, or if it was possibly brought in from somewhere in the outside world. Either way, it is a useful tool to sometimes have in one's Arsenal</text>
 	</string>
 	<string id="wpn_mp5_sd">
 		<text>HK MP5-SD</text>
@@ -1072,7 +1072,7 @@
 		<text>Anomalous Walther WA 2000</text>
 	</string>
 	<string id="enc_weapons_walther_wa2000">
-		<text>• Ammunition: 7.62x54mm (7H1, BP, 7H14)\n• Weight: 4.1 kg\n• Capacity: 10 rounds\nAnomalous Chernomor Sniper Rifle based on the Walther WA 2000 design.... Significantly reduced weight, and wear due to the change itself beginning at the molecular level under the direct influence of an unknown Isomorphic Element. Computerized sight. Used a homemade high-capacity magazine. But most importantly - a weapon capable of firing abnormal 7.62x54mm calibre rounds. Developed by the German company Carl Walther Waffenfabrik in the early 1980s as a specialized weapon for police and counter-terrorist units. Unlike many other rifles of the same period, Walther WA 2000 was originally designed as a specialized weapon, and had a number of interesting features. However, despite its merits, this rifle had one drawback - a very high price and because its release was very limited and did not exceed 180 copies</text>
+		<text>• Ammunition: 7.62x54mm (7H1, BP, 7H14)\n• Weight: 4.1 kg\n• Capacity: 10 rounds\nAnomalous Chernomor Sniper Rifle based on the Walther WA 2000 design... Significantly reduced weight, and wear due to the change itself beginning at the molecular level under the direct influence of an unknown Isomorphic element. Computerized sight. Used a homemade high-capacity magazine. But most importantly - a weapon capable of firing abnormal 7.62x54mm calibre rounds. Developed by the German company Carl Walther Waffenfabrik in the early 1980s as a specialized weapon for police and counter-terrorist units. Unlike many other rifles of the same period, Walther WA 2000 was originally designed as a specialized weapon, and had a number of interesting features. However, despite its merits, this rifle had one drawback - a very high price and because its release was very limited and did not exceed 180 copies</text>
 	</string>
 	<string id="wpn_m79">
 		<text>M79 Grenade launcher</text>
@@ -1147,7 +1147,7 @@
 		<text>• Ammunition: .45 ACP, .45 Hydro-Shock\n• Effective Range: 62 metres\n• Magazine capacity: 7 rounds\nThe M1911 is a single-action, semi-automatic, magazine-fed, and recoil-operated handgun chambered for the .45 ACP cartridge. John M. Browning designed the firearm which was the standard-issue side arm for the United States armed forces from 1911 to 1985. The M1911 is still carried by some U.S. forces. It was widely used in World War I, World War II, the Korean War, and the Vietnam War</text>
 	</string>
 	<string id="enc_weapons1_wpn-colt_m1">
-		<text>• Ammunition: .45 ACP, .45 Hydro-Shock\n• Effective Range: 62 metres\n• Magazine capacity: 7 rounds\nA custom silenced Colt M1911. The weapon of choice of hired Assassins. This one is said to have once belonged to a legendary Stalker that worked as an Elite Assassin throughout the Zone. His name was 'BlackByte', and he was both revered as well as feared by all whom were unfortunate enough to cross his path, or even worse.... end up on his list.... It is equipped with a non-detachable silencer. The design uses the straight blowback system of operation by attaching the silencer directly to the slide, with a special fixed barrel. The mass of the suppressor/slide assembly has been engineered to produce sufficient dwell-time so as to delay the opening of the breech, thereby gaining maximum bullet velocity while eliminating breech flash and inherent mechanical noise</text>
+		<text>• Ammunition: .45 ACP, .45 Hydro-Shock\n• Effective Range: 62 metres\n• Magazine capacity: 7 rounds\nA custom silenced Colt M1911. The weapon of choice of hired Assassins. This one is said to have once belonged to a legendary Stalker that worked as an Elite Assassin throughout the Zone. His name was 'BlackByte', and he was both revered as well as feared by all whom were unfortunate enough to cross his path, or even worse... end up on his list... It is equipped with a non-detachable silencer. The design uses the straight blowback system of operation by attaching the silencer directly to the slide, with a special fixed barrel. The mass of the suppressor/slide assembly has been engineered to produce sufficient dwell-time so as to delay the opening of the breech, thereby gaining maximum bullet velocity while eliminating breech flash and inherent mechanical noise</text>
 	</string>
 	<string id="enc_weapons1_wpn-desert-eagle">
 		<text>• Ammunition: .45 ACP, .45 Hydro-Shock\n• Effective Range 80 metres\n• Magazine capacity: 7 rounds\nThe Desert Eagle is a large-framed gas-operated semi-automatic pistol designed by Magnum Research in the U.S., and manufactured primarily in Israel by IMI (Israel Military Industries, now Israel Weapon Industries). Manufacturing was moved to Saco Defense in the state of Maine from 1996 to 2000 which carried the XIX designation, but shifted back to Israel when Saco was acquired by General Dynamics. The Desert Eagle has been featured in roughly 500 motion pictures and TV films, considerably increasing its popularity and boosting sales</text>
@@ -1192,7 +1192,7 @@
 		<text>• Ammunition: 5.56x45mm SS109, 5.56x45mm AP\n• Effective Range: 300 metres\n• Rate of Fire: 910 r/m\n• Magazine Capacity: 30 rounds\nThe LR 300 is an assault rifle and conversion kit designed and manufactured by Z-M Weapons. It is based on the AR-15 platform and is broadly similar to the United States service rifle, the M16. The weapon is touted as an 'excellent entry weapon system' indicating a suitability for military use in close quarters battle which often involves aggressive and rapid building entries requiring a compact yet powerful selective fire weapon. Also notable is the rifle's capability to use a fully folding and adjustable skeletal stock. Most AR-15/M16 rifle variants have a thick, cylindrical recoil buffer tube, more properly called the receiver extension, that protrudes approximately 20 cm straight back from the rear of the receiver, and the firearm cannot operate without it. This normally precludes the use of anything but fixed or telescoping stocks. The LR 300 however uses an adapted version of the AR-15's standard direct impingement gas operating system which removes the need for a receiver extension</text>
 	</string>
 	<string id="enc_weapons1_wpn-lr300_m1">
-		<text>• Ammunition: 5.56x45mm SS109, 5.56x45mm AP\n• Optical Sight SUSAT (x4)\n• PBiBS\n• Effective Range: 300 metres\n• Rate of Fire: 910 r/m\n• Magazine Capacity: 30 rounds\nAn upgrade to the well known and popular LR 300 rifle.This variant is equipped with a (4x) SUSAT Scope, and has been modified for single-fire operation so that it may be used as a lightweight sniper rifle. Uses standard AR-15-typelower receivers; only the upper receivers are different and contain patented modified gas system. The key reason for the modification was to prowide AR-15-type weapon with capability to mount side-folding stock rather than partially collapsible M4 carbine-typestock. Z-M Weapons intended its rifles mostly for military and law enforcement personnel, by offering LR-300-ML weapons with short barrels and select-fire capability. Civilian (semi-automatic only) versions also were offered to general public, but at prices well above the average price of AR-15-type rifle</text>
+		<text>• Ammunition: 5.56x45mm SS109, 5.56x45mm AP\n• Optical Sight SUSAT (x4)\n• PBiBS\n• Effective Range: 300 metres\n• Rate of Fire: 910 r/m\n• Magazine Capacity: 30 rounds\nAn upgrade to the well-known and popular LR-300 rifle. This variant is equipped with a (4x) SUSAT Scope, and has been modified for single-fire operation for use as a lightweight sniper rifle. Uses standard AR-15-type lower receivers, although the upper receivers are different and contain a patented modified gas system. The key reason for the modification was to provide an AR-15-type weapon with the capability to mount a side-folding stock, rather than the partially collapsible M4 carbine-type stock. Z-M Weapons intended its rifles mainly for military and law enforcement personnel, by offering LR-300ML weapons with short barrels and select-fire capability. Civilian (semi-automatic only) versions were offered to general public, but at prices well above the average price of an AR-15-type rifle</text>
 	</string>
 	<string id="enc_weapons1_wpn-mp5">
 		<text>• Ammunition: 9x19mm PM, 9x19mm P\n• Effective Range: 25-100 metres\n• Rate of Fire: 800 r/m\n• Magazine Capacity: 30 rounds\nThe Heckler and Koch MP5 (From Maschinenpistole 5 - German: 'machine pistol model 5') is a 9mm submachine gun of German design, developed in the 1960s by a team of engineers from the German small arms manufacturer Heckler and Koch GmbH (HK) of Oberndorf am Neckar. The MP5 is currently one of the most widely used submachine guns in the world, having been adopted by numerous law enforcement agencies and special forces groups. In the 1990's</text>
@@ -1210,7 +1210,7 @@
 		<text>• Ammunition: 9x18mm, 9x18mm MSDS\n• Effective Range: 25 metres\n• Magazine Capacity: 8 rounds\nThe Red Army fought the Great Patriotic War of 1941-45 with both the semi-automatic Tokarev TT pistols and the obsolete Nagant M1895 revolvers. Despite the fact that more potent pistols were designed just before and during the war, the TT remained the mainstream weapon. Wartime experience, which included a close (and sometimes very personal) familiarity with German pistols, resulted in a major change of thinking about the role and necessary features of a military pistol for the Soviet army. Another factor that played a major role in the development of new requirements for the next military pistol, was the realistic prospect of a Third World War, with massive nuclear bombing and other such large-scale actions; as a result, pistols played a very minor role in both strategic and tactical doctrines of the Soviet Army. Furthermore, Tokarev pistols, despite being relatively simple and powerful, showed significant deficiencies, some of them quite serious, such as the lack of positive safety, so almost immediately after the war the GAU (Glavnoye Artillerijskoe Upravlenie and General Artillery Department of General Staff) issued a new set of requirements for a military and police pistol</text>
 	</string>
 	<string id="enc_weapons1_wpn-rg-6">
-		<text>• Ammunition: VOG-25, VOG-25P Grenades\n• Maximum Range: 380 metres\n• Capacity: 6 Grenades\nThe RG-6, or 'Bulldog' as it has come to be known by Stalkers.... was developed between 1993 and 1994. The new stand-alone, rapid firing multi-shot launcher was required to increase the firepower of the infantry during the urban combat, specific for recent small-scale conflicts, such as Chechen wars. The RG-6 entered limited production by mid-1990 and is now in use by various elements of Russian Army and special forces, as well as by special forces in MVD (Internal Affairs Ministry). It is designed to fire all standard 40mm 'caseless' grenades, available for general issue, underbarrel launchers. These rounds include VOG-25 fragmentation grenade, VOG-25P bouncing fragmentation grenade and 'Gvozd' (Nail) less-lethal tear gas grenade for riot control. The design of the RG-6 is, apparently, heavily influenced by the South African Milkor MGL grenade launcher, with some differences. The key difference is that RG-6 uses 'caseless' rounds,and thus its cylinder is loaded from the front. The 'barrel' is, in fact, a smoothbore tube, which served only as a support for front grip and sights; each chamber in the cylinder is a separate muzzle-loading rifled barrel,similar in design to the GP-25 barrel. Thedouble-action only trigger unit is also modified from GP-25,with manual safety and several automatic safeties. Cylinder is rotated using clockwork-type spring, which is manually wound during reloading. For reloading,the front cylinder plate with the 'barrel' tube are unlocked from the frame and then rotated sideways, to expose the front of the cylinder. The sights are folding for more convenient carry and storage, with ladder-type rear sight.The buttstock is telescoped into the frame, when not in use, and fitted with rubber recoil pad</text>
+		<text>• Ammunition: VOG-25, VOG-25P Grenades\n• Maximum Range: 380 metres\n• Capacity: 6 Grenades\nThe RG-6, or 'Bulldog' as it has come to be known by Stalkers... was developed between 1993 and 1994. The new stand-alone, rapid firing multi-shot launcher was required to increase the firepower of the infantry during the urban combat, specific for recent small-scale conflicts, such as Chechen wars. The RG-6 entered limited production by mid-1990 and is now in use by various elements of Russian Army and special forces, as well as by special forces in MVD (Internal Affairs Ministry). It is designed to fire all standard 40mm 'caseless' grenades, available for general issue, underbarrel launchers. These rounds include VOG-25 fragmentation grenade, VOG-25P bouncing fragmentation grenade and 'Gvozd' (Nail) less-lethal tear gas grenade for riot control. The design of the RG-6 is, apparently, heavily influenced by the South African Milkor MGL grenade launcher, with some differences. The key difference is that RG-6 uses 'caseless' rounds,and thus its cylinder is loaded from the front. The 'barrel' is, in fact, a smoothbore tube, which served only as a support for front grip and sights; each chamber in the cylinder is a separate muzzle-loading rifled barrel,similar in design to the GP-25 barrel. Thedouble-action only trigger unit is also modified from GP-25,with manual safety and several automatic safeties. Cylinder is rotated using clockwork-type spring, which is manually wound during reloading. For reloading,the front cylinder plate with the 'barrel' tube are unlocked from the frame and then rotated sideways, to expose the front of the cylinder. The sights are folding for more convenient carry and storage, with ladder-type rear sight.The buttstock is telescoped into the frame, when not in use, and fitted with rubber recoil pad</text>
 	</string>
 	<string id="enc_weapons1_wpn-rg6_m1">
 		<text>• Ammunition: M209 Grenades\n• Maximum Range: 380 metres\n• Capacity: 6 Grenades\nDeveloped by Russia's KBP Instrument Design Bureau in Tula, the weapon has been modified to make use of the Western M209 fragmentation grenades. It is invaluable for short to medium-range rapid bombardment and flushing out troop concentrations. Its ability to launch 6 grenades in rapid succesion is an invaluable asset in the Zone.The cylinder is rotated using clockwork-type spring, which is manually wound during reloading. For reloading,the front cylinder plate with the 'barrel' tube are unlocked from the frame and then rotated sideways, to expose the front of the cylinder. The sights are folding for more convenient carry and storage, with ladder-type rear sight. The buttstock is telescoped into the frame, when not in use, and fitted with rubber recoil pad</text>
@@ -1252,13 +1252,13 @@
 		<text>• Ammunition: .45 ACP, .45 Hydro-Shock\n• Effective Range: 60 metres\n• Magazine Capacity: 8 rounds\nDesign work on a new family of pistols commenced in September 1989 focused primarily on the U.S. commercial and law enforcement markets. In 1991, USP prototypes participated in rigorous testing alongside HK's entry in the OHWS (Offensive Handgun Weapon System) program requested by the U.S. Special Operations Command (USSOCOM) and which would later result in the Mk 23 Mod 0. The USP prototypes were then refined in 1992, based on input from the OHWS trials and the design was finalized in December of the same year. The USP was formally introduced in January 1993 with the USP40 model (the base version) chambered for the increasingly popular .40 SW cartridge, followed soon by the USP9 (using the 9x19mm Parabellum cartridge), and in May 1995 - USP45 (caliber .45 ACP)</text>
 	</string>
 	<string id="enc_weapons1_wpn-val">
-		<text>• Ammunition: 9x39mm PAB9, SP-5, SP-6\n• Effective Range: 250 metres\n• Magazine Capacity: 20 rounds\nThe AS 'Val' special EXPERT 'Shaft' (6P30) was created on the basis of the VSS 'Vintorez' silenced sniper rifle. It has a collapsable butt, and a larger magazine. The AS 'Val' was designed by TSNIITOCHMASH in the late 1980's as a specialised weapon for Spetsnaz forces. Due to the nature of operations Spetsnaz usually carries out, they are in need of silenced, flashless weapons. Initially, this niche was filled by AK-47/AKM rifles, fitted with detachable silencers and supplied with subsonic ammunition, and Stechkin APSB pistols. However, those were not adequate enough for the intended goals, and Spetsnaz command had requested development of specialised weaponry. For this, a special cartridge was developed. Existing in two versions, SP-5 and SP-6, this cartridge was, in essence, 7.62X39 cartridge for AK, necked out to fit 9 mm heavy bullet. Powder charge was also replaced with specific load to provide subsonic speed with high muzzle energy. Around those cartridges, the AS 'Val' was built, along with its 'sister' rifle VSS 'Vintorez'. What`s curious, is that despite AS 'Val' being assault rifle, and VSS 'Vintorez' - sniper rifle, they have about 70% of interchangeable parts.Initially, it was intended to be issued to Special Forces units within the Military, but soon after the Zone was created.... many such rifles started showing up in the hands of experienced Stalkers from all factions</text>
+		<text>• Ammunition: 9x39mm PAB9, SP-5, SP-6\n• Effective Range: 250 metres\n• Magazine Capacity: 20 rounds\nThe AS 'Val' special EXPERT 'Shaft' (6P30) was created on the basis of the VSS 'Vintorez' silenced sniper rifle. It has a collapsable butt, and a larger magazine. The AS 'Val' was designed by TSNIITOCHMASH in the late 1980's as a specialised weapon for Spetsnaz forces. Due to the nature of operations Spetsnaz usually carries out, they are in need of silenced, flashless weapons. Initially, this niche was filled by AK-47/AKM rifles, fitted with detachable silencers and supplied with subsonic ammunition, and Stechkin APSB pistols. However, those were not adequate enough for the intended goals, and Spetsnaz command had requested development of specialised weaponry. For this, a special cartridge was developed. Existing in two versions, SP-5 and SP-6, this cartridge was, in essence, 7.62X39 cartridge for AK, necked out to fit 9 mm heavy bullet. Powder charge was also replaced with specific load to provide subsonic speed with high muzzle energy. Around those cartridges, the AS 'Val' was built, along with its 'sister' rifle VSS 'Vintorez'. What`s curious, is that despite AS 'Val' being assault rifle, and VSS 'Vintorez' - sniper rifle, they have about 70% of interchangeable parts.Initially, it was intended to be issued to Special Forces units within the Military, but soon after the Zone was created... many such rifles started showing up in the hands of experienced Stalkers from all factions</text>
 	</string>
 	<string id="enc_weapons1_wpn-val_m1">
 		<text>• Ammunition: 9x39mm PAB9, SP-5, SP-6\n• Aiming Range: 400 metres\n• Magazine Capacity: 20 rounds\nThe Special Forces, generally known as 'Spetsnaz' [after the Russian term 'Voiska Spetsialnogo Naznacheniya' or 'Special Purpose Troops"], always played a key role in Soviet Military Doctrine. One of the aspects of every Special Forces is that they prefer to operate stealthily, with as little sound and flash as possible from their weapons. The first generation Spetsnaz weapons were no more than AK and AKM rifles, fitted with quick-detachable sound suppressors, and loaded with special subsonic ammunition with heavy bullets. Apparently, this was not enough, since in the mid-1980s the development of new, more effective silenced weapons was initiated. At first, designers from TSNIITOCHMASH in the city of Klimovsk developed a special-purpose 9 mm subsoniccartridges, known as 9x39 SP-5 and SP-6, based on necked-out 7.62 x 39 case. These cartridges were fitted with heavy (about 16-17 gram) standard 'ball' or armor piercing bullets, with muzzle velocities about 280-300 metres per second</text>
 	</string>
 	<string id="enc_weapons1_wpn-vintorez">
-		<text>• Ammunition: 9x39mm PAB9, SP-5, SP-6\n• Optical Sights: PSO-1 (x4)\n• Aiming Range: 400 metres\n• Magazine Capacity: 10 rounds\nA specialized, custom built 'Vintorez' 'ARIA' rifle.... intended for silent and flameless sniper operations, and as such is equipped with an integrated silencer, and a PSO-1 (4x) optical Sight. A highly sought after weapon by Stalkers of any faction. The first ARIA Vintorez weapon in the Zone, was given to the 'Astrologer' by a man they called 'Strelok'</text>
+		<text>• Ammunition: 9x39mm PAB9, SP-5, SP-6\n• Optical Sights: PSO-1 (x4)\n• Aiming Range: 400 metres\n• Magazine Capacity: 10 rounds\nA specialized, custom built 'Vintorez' 'ARIA' rifle... intended for silent and flameless sniper operations, and as such is equipped with an integrated silencer, and a PSO-1 (4x) optical Sight. A highly sought after weapon by Stalkers of any faction. The first ARIA Vintorez weapon in the Zone, was given to the 'Astrologer' by a man they called 'Strelok'</text>
 	</string>
 	<string id="enc_weapons1_wpn-vintorez_m1">
 		<text>• Ammunition: 9x39mm PAB9, SP-5, SP-6\n• Optical Sights: PSO-3 (x8)\n• Aiming Range: 400 metres\n• Magazine Capacity: 20 rounds\nAnother specialized 'Vintorez' 'Aria' with although this one is rebuilt with custom milled stainless steel receiver and mandrel forged barrel. The quality of workmanship on this rifle is astounding. A silenced rifle with a side rail on the receiver, and compatible with PSO-3 scope (8x magnification). It is chambered for 9x39mm ammunition. It is also compatible with the NSPU-3 night sight (3.5x magnification). Effective range of the VSS at night is limited to 300 metres. This rifle is fitted with an integrated silencer, which is easily removed for storage and maintenance. The whole rifle is easily disassembled into 3 main parts. Stalkers have gone far out of their way to obtain a weapon such as this</text>
@@ -1314,7 +1314,7 @@
 		<text>Barrel 200L</text>
 	</string>
 	<string id="enc_bochka_barrel_descr">
-		<text>A 200-litre drum (known as a 55-gallon drum in the US and a 44-gallon drum in the United Kingdom) is a cylindrical container with a nominal capacity of 200 litres.\nHmm.... this one seems almost empty now!?</text>
+		<text>A 200-litre drum (known as a 55-gallon drum in the US and a 44-gallon drum in the United Kingdom) is a cylindrical container with a nominal capacity of 200 litres.\nHmm... this one seems almost empty now!?</text>
 	</string>
 	<string id="kanistra">
 		<text>Gasoline Canister</text>
@@ -1480,7 +1480,7 @@
 		<text>Armed Suitcase Bomb</text>
 	</string>
 	<string id="enc_bomba_timer_b_30_activated">
-		<text>Suitcase with armed explosives inside. Extremely volatile, and ready to detonate. You might want to put some distance between this, and yourself.... and, with due haste!</text>
+		<text>Suitcase with armed explosives inside. Extremely volatile, and ready to detonate. You might want to put some distance between this, and yourself... and, with due haste!</text>
 	</string>
 	<!-- TIMED EXPLOSIVES -->
 	<string id="bomba_timer_n_10_base">
@@ -1519,32 +1519,32 @@
 		<text>NK-37 Detonator</text>
 	</string>
 	<string id="enc_detonator-2">
-		<text>Improved electronic detonator for explosives. Allows you to detonate different brands and types within a radius of 150 metres. Manufactured in Russia.... Increased speed and reliability</text>
+		<text>Improved electronic detonator for explosives. Allows you to detonate different brands and types within a radius of 150 metres. Manufactured in Russia... Increased speed and reliability</text>
 	</string>
 	<!-- DKZ/CS added weapons start !!!!TB3D -->
 	<string id="wpn_ak47_sk1">
 		<text>KL-7.62 'Tactical'</text>
 	</string>
 	<string id="enc_weapons1_wpn_ak47_sk1">
-		<text>• Ammunition: 7.62x39mm, 7.62x39mm AP\n• Magazine Capacity: 30 rounds • Effective Range: 500 metres\n• Rate of Fire: 750 m/sec • GP-30 Grenade Launcher\n• Optical Sight: PSO-1 (4x) • Silencer: Model 7.62ar\nThe Iranian state arms conglomerate Defense Industries Organization (DIO) currently manufactures the 7.62x39mm Kalashnikov-type assault rifle for the Iranian Armed Forces, which is designated the KL-7.62.... It is an unlicensed, reverse-engineered copy of the Type 56 assault rifle, which Iran purchased from the Chinese government in enormous numbers to equip its forces in the Iran-Iraq War. The original version of the KL-7.62 was indistinguishable from the Type 56, but in recent years DIO appears to have made some improvements to the Type 56 design...</text>
+		<text>• Ammunition: 7.62x39mm, 7.62x39mm AP\n• Magazine Capacity: 30 rounds • Effective Range: 500 metres\n• Rate of Fire: 750 m/sec • GP-30 Grenade Launcher\n• Optical Sight: PSO-1 (4x) • Silencer: Model 7.62ar\nThe Iranian state arms conglomerate Defense Industries Organization (DIO) currently manufactures the 7.62x39mm Kalashnikov-type assault rifle for the Iranian Armed Forces, which is designated the KL-7.62... It is an unlicensed, reverse-engineered copy of the Type 56 assault rifle, which Iran purchased from the Chinese government in enormous numbers to equip its forces in the Iran-Iraq War. The original version of the KL-7.62 was indistinguishable from the Type 56, but in recent years DIO appears to have made some improvements to the Type 56 design...</text>
 	</string>
 	<string id="wpn-rk95">
 		<text>SAKO Rk.95Tp</text>
 	</string>
 	<string id="enc_weapons1_wpn-rk95">
-		<text>• Ammunition: 5.56x45mm ss190, 5.56x45mm AP\n• Magazine Capacity: 30 rounds • Effective Range: 370 metres\n• Rate of Fire: 750 r/m • GP-30 Grenade Launcher\n• Optical Sight: PSO-3 (9x) • Silencer: PBiBS\nThe Rk.95Tp is a select-fire, gas-operated firearm using the Kalashnikov-pattern operating system with a long stroke gas piston rod coupled to the bolt carrier as in the AK rifle. The rotating bolt locks into battery via two locking lugs. It is the latest variation of the Finnish military rifle, featuring an old-style milled receiver, but new, and improved side-folding skeleton-type buttstock, muzzle flash guard, and handguards. The triggerguard is enlarged to enable shooting whilst wearing gloves during the cold Finnish winters.... The Rk.95TP was issued to the Finnish Army in very small quantities (only one batch having being manufactured).... How this one managed to make its way into the Zone is nothing short of a mystery.... it appears to have been modified to 5.56x45mm rounds.... it also uses a special, customized PS0-3 scope, as well as a GP30 series Grenade Launcher.... It bears the unique name of 'Ruoska' on the folding stock...</text>
+		<text>• Ammunition: 5.56x45mm ss190, 5.56x45mm AP\n• Magazine Capacity: 30 rounds • Effective Range: 370 metres\n• Rate of Fire: 750 r/m • GP-30 Grenade Launcher\n• Optical Sight: PSO-3 (9x) • Silencer: PBiBS\nThe Rk.95Tp is a select-fire, gas-operated firearm using the Kalashnikov-pattern operating system with a long stroke gas piston rod coupled to the bolt carrier as in the AK rifle. The rotating bolt locks into battery via two locking lugs. It is the latest variation of the Finnish military rifle, featuring an old-style milled receiver, but new, and improved side-folding skeleton-type buttstock, muzzle flash guard, and handguards. The triggerguard is enlarged to enable shooting whilst wearing gloves during the cold Finnish winters... The Rk.95TP was issued to the Finnish Army in very small quantities (only one batch having being manufactured)... How this one managed to make its way into the Zone is nothing short of a mystery... it appears to have been modified to 5.56x45mm rounds... it also uses a special, customized PS0-3 scope, as well as a GP30 series Grenade Launcher... It bears the unique name of 'Ruoska' on the folding stock...</text>
 	</string>
 	<string id="wpn-addon-scope-sako">
 		<text>PS0-3 'SAKO'</text>
 	</string>
 	<string id="enc_weapons1_wpn-addon-scope-sako">
-		<text>Expertly customized PSO-3 Optical Sight (9x magnification) for an unusual SAKO Rk.95Tp rifle that I found stashed away in the Agroprom Catacombs.... I don't think that I'll be getting rid of this little beauty any time soon!!!</text>
+		<text>Expertly customized PSO-3 Optical Sight (9x magnification) for an unusual SAKO Rk.95Tp rifle that I found stashed away in the Agroprom Catacombs... I don't think that I'll be getting rid of this little beauty any time soon!!!</text>
 	</string>
 	<string id="wpn_ognemet">
 		<text>The 'Poltergeist'</text>
 	</string>
 	<string id="enc_weapons1_ognemet">
-		<text>Looks like a modified FN2000 design bearing a maker's mark 'Dimak'. Shoots up to 20 feet of flame within a single burst. When the ignition valve is open, compressed flammable gas from specially mixed tanks flows through a short length of hose to the end of the gun. Here, it is mixed with the open air, and released through several small holes into the chamber in front of the nozzle. The gun also has two spark plugs strategically positioned in front of the nozzle, which are powered by a small, portable battery. It is fired by opening up the ignition valve and pressing a button that activates the spark plug. This creates a small flame in front of the nozzle, which ignites the flowing fuel, that is then propelled forth with a significant amount of pressure, practically 'peppering' targets with ignited fuel particles as they are engulfed in flames.... very nasty indeed!!</text>
+		<text>Looks like a modified FN2000 design bearing a maker's mark 'Dimak'. Shoots up to 20 feet of flame within a single burst. When the ignition valve is open, compressed flammable gas from specially mixed tanks flows through a short length of hose to the end of the gun. Here, it is mixed with the open air, and released through several small holes into the chamber in front of the nozzle. The gun also has two spark plugs strategically positioned in front of the nozzle, which are powered by a small, portable battery. It is fired by opening up the ignition valve and pressing a button that activates the spark plug. This creates a small flame in front of the nozzle, which ignites the flowing fuel, that is then propelled forth with a significant amount of pressure, practically 'peppering' targets with ignited fuel particles as they are engulfed in flames... very nasty indeed!!</text>
 	</string>
 	<string id="ammo-12x70-kart">
 		<text>12x70 'Tungsten Buckshot'</text>
@@ -1563,7 +1563,7 @@
 		<text>Binoculars</text>
 	</string>
 	<!-- DKZ added weapons end -->
-	<!-- Liquid Nitrogen storage.... aleks1970 -->
+	<!-- Liquid Nitrogen storage... aleks1970 -->
 	<string id="enc_can_liquid_nitrogen_tmp">
 		<text>Liquid Nitrogen Storage Tank</text>
 	</string>
@@ -1573,7 +1573,7 @@
 	<string id="enc_can_liquid_nitrogen_tmp_descr">
 		<text>10L Liquid Nitrogen static cryogenic container</text>
 	</string>
-	<!-- Weapons text strings from .ltx files.... aleks1970 -->
+	<!-- Weapons text strings from .ltx files... aleks1970 -->
 	<string id="enc_wpn_Og-7b_tmp">
 		<text>Og-7b</text>
 	</string>

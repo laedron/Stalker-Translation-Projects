@@ -20,7 +20,7 @@
 			<text>Tschernigow Bier</text>
 		</string>
 		<string id="enc_equipment_pivo">
-			<text>\n \nKeine Ahnung wer dieses Bier in die Zone gebracht hat, aber es wurde schnell zum Lieblings Bier unter den Stalkern ... Jetzt kann es bei praktisch bei jedem Händler in der Zone gefunden und gekauft werden.</text>
+			<text>\n \nKeine Ahnung wer dieses Ukrainische Bier in die Zone gebracht hat, aber es wurde schnell zum Lieblings Bier unter den Stalkern ... Jetzt kann es bei praktisch bei jedem Händler in der Zone gefunden und gekauft werden.</text>
 		</string>
 		<string id="irp-b">
 			<text>Militärische Rationen</text>
@@ -161,7 +161,7 @@
 			<text>\n \nRussische Einmannpackungs-Ration (SSP5). Diese Kompakte Mahlzeit wurde für sehr harte Feldbedingungen entwickelt. Nahrhafter als die NATO Version.</text>
 		</string>
 		<string id="pivo_baltika">
-			<text>Baltic Beer</text>
+			<text>Bier "Baltica 9"</text>
 		</string>
 		<string id="enc_equipment_pivo_baltika">
 			<text>\n \n%c[255,220,220,100]Stärke            : %c[255,1,255,1]8.0%\n \n%c[default]Baltika ist die größte Brauereigruppe in der Russischen Föderation. Sie wurde 1990 in Leningrad (Sankt Petersburg) gegründet und hat sich schnell zu einem wichtigen Wirtschaftsfaktor für die Stadt entwickelt. Ursprünglich war Baltika ein Joint-Venture der finnischen Getränkefirma Hartwall und deren norwegischem Partner Orkla. Baltika nahm 1990 die Produktion auf.\n \nBaltika ist auch in Deutschland erhältlich und findet sich meist in russischen Supermärkten oder Getränkefachmärkten. Der Sitz der Baltika Deutschland GmbH befindet sich in Hamburg. Seit August 2011 wird die Sorte Baltika 3 auch von der Brauerei Königshof in Krefeld für Baltika Deutschland hergestellt, abgefüllt und von dort im mitteleuropäischen Raum vertrieben.</text>
@@ -240,7 +240,7 @@
 			<text>Vinca</text>
 		</string>
 		<string id="st_drug_coagulant_descr">
-			<text>\n \n%c[255,220,220,100]Erhöhter Schutz  : %c[255,1,255,1]30 (+)\n%c[255,220,220,100]Wirkungs Dauer   : %c[255,1,255,1]20 Sekunden\n%c[default]\n \nUkrainisches Vikasolum - ein künstliches Äquivalent zu Vitamin K. Der Hauptzweck dieses Mittels ist die Beschleunigung der Blutgerinnung. Besonders bei Stalkern begehrt, die ihre langsam heilenden Wunden und Verletzungen, die ihnen von Mutanten zugefügt wurden, schneller verheilen lassen wollen. Die Wirkung des Mittels hält lange an.</text>
+			<text>\n \n%c[255,220,220,100]Erhöhter Schutz  : %c[255,1,255,1]30 (+)\n%c[255,220,220,100]Wirkungs Dauer   : %c[255,1,255,1]20 Sekunden\n%c[default]\n \nUkrainisches Vikasolum - ein künstliches Äquivalent zu Vitamin K3. Der Hauptzweck dieses Mittels ist die Beschleunigung der Blutgerinnung. Besonders bei Stalkern begehrt, die ihre langsam heilenden Wunden und Verletzungen, die ihnen von Mutanten zugefügt wurden, schneller verheilen lassen wollen. Die Wirkung des Mittels hält lange an.</text>
 		</string>
 		<string id="st_drug_yadulin">
 			<text>Yadulin</text>
@@ -652,10 +652,10 @@
 			<text>Detektor der in der Lage ist, Gegenstände die Partikel einer "Ausserirdischen(*)" Kraft zu erfassen und diese Elemente auf der Karte innerhalb eines Radius von fünfzig bis sechzig Meter, durch Signaltöne, zu erkennen. Es ist auch möglich damit Artefakte zu lokalisieren.\n \nHandbuch Schreibt: Um es zu verwenden, Platzieren sie es in den Pistolen Steckplatz (Slot).\n \n \n \nMarty2Base: Echt "Alien Power?"</text>
 		</string>
 		<string id="detector_elite_john">
-			<text>Ultra Detektor</text>
+			<text>Ultra Anomalie Detektor</text>
 		</string>
 		<string id="detector_elite_john_s">
-			<text>Ultra Detektor</text>
+			<text>Ultra Artefakt Detektor</text>
 		</string>
 <!-- DOCUMENTS AKIM -->
 		<string id="doc_garbage">
@@ -822,7 +822,7 @@
 			<text>Kredit Karte</text>
 		</string>
 		<string id="enc_equipment_kreditka">
-			<text>\n \nEne von der "Bank of America" ausgegebene Kreditkarte mit einem Limit von $ 5000.000! ... \n \nHandbuch Schreibt: Um es zu verwenden, Platzieren sie es in den ersten Waffen Steckplatz (Slot)</text>
+			<text>\n \nEne von der "Bank of America" ausgegebene Kreditkarte mit einem Limit von $5,000,000! ... \n \nHandbuch Schreibt: Um es zu verwenden, Platzieren sie es in den ersten Waffen Steckplatz (Slot)</text>
 		</string>
 		<string id="razved_karta">
 			<text>Karten Fragment</text>
@@ -861,4 +861,4 @@
 			<text>\n \nNotizbuch von eimem Informanten der "Freiheit". Es enthält Informationen über das Modifizieren von Artefakten ... \n \nHandbuch Schreibt: Um die Information einzusehen, Platzieren sie das Objekt in den ersten Waffen Steckplatz (Slot).</text>
 		</string>
 	</string_table>
-<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96h ( 2017/02/01) =!!= Last changed: 13.02.2017 03:29:46 -->
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 06.03.2017 18:13:50 -->

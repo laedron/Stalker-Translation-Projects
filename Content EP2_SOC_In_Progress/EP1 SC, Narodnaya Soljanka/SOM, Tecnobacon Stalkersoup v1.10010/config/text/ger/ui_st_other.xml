@@ -94,7 +94,7 @@
 		<text>Voting is disabled</text>
 	</string>
 	<string id="ui_st_want_to_leave_game_q">
-		<text>Do you really want to leave the Zone???</text><!-- Removed capitals from ZONE -->
+		<text>Do you really want to leave the Zone?</text><!-- Removed capitals from ZONE -->
 	</string>
 	<string id="ui_st_your_items">
 		<text>Your items</text><!-- Removed capital from letter I -->
@@ -175,7 +175,7 @@
 		<text>..... Scanning for Anomalous Activity ..</text><!-- Was 'Anomolous' -->
 	</string>
 	<string id="st_creating_new_game">
-		<text>..... Creating the ZONE ..</text>
+		<text>..... Creating the Zone ..</text>
 	</string>
 	<string id="st_loading_alife_simulator">
 		<text>SERVER: Loading A-Life Simulator</text><!-- Was 'A-life' -->

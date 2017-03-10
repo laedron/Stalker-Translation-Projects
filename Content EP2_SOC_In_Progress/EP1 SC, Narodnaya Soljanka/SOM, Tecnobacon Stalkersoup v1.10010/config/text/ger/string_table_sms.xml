@@ -297,7 +297,7 @@
 	</string>
 	<!-- TB3D -->
 	<string id="sms_coll_greet">
-		<text>Marked One.. made it this far eh, look like crap though! Well... come on in then before the military come back... OH.. and watch your back... you're reputation precedes you!</text>
+		<text>Marked One.. made it this far eh, look like crap though! Well... come on in then before the military come back... Oh, and watch your back... your reputation precedes you!</text>
 	</string>
 	<string id="sms_plenty_ammo">
 		<text>Hope you have plenty of ammo.. things have changed since you first came through here!</text>
@@ -1437,7 +1437,7 @@
 		<text>You're in an area containing a specific plastic</text>
 	</string>
 	<string id="sms_pda_slom_1">
-		<text>Navigation module for your PDA out of order. to the display card indicators temporarily impossible.</text>
+		<text>Navigation module for your PDA out of order. To the display card indicators temporarily impossible.</text>
 	</string>
 	<string id="sms_pda_slom_2">
 		<text>This is blah... How wrong time...</text>
@@ -1458,7 +1458,7 @@
 		<text>Navigation module for your PDA is running. Perhaps repetition of a fatal error. Contact service department.</text>
 	</string>
 	<string id="sms_pda_sdelan_2">
-		<text>Navigation module for your PDA is ready to work. Fatal error corrected.</text>
+		<text>PDA Navigation module is now working. Synchronising now...</text>
 	</string>
 	<string id="sms_girl3_nachalo">
 		<text>Hello. Do not be surprised, it is not your Panther. I overheard your last dialog with Fang. A mutual meeting would be useful but.. remove the bug from your PDA before we talk more.</text>
@@ -2136,19 +2136,19 @@
 		<text>Strelok, which Lenin??? I was at the entrance to the headquarters, meet.</text>
 	</string>
 	<string id="sms_operator_babki_otdat">
-		<text>Dear users of local network! Your carrier said that the modernization of equipment from the account of each user will soon be withdrawn for 3000 rubles.</text>
+		<text>Attention all users of the local communications network... Your mobile carrier needs to upgrade your equipment.  If you wish to keep on using it, please leave your PDA switched on and it will update automatically. 3,000Ru will be debited from your account</text>
 	</string>
 	<string id="sms_operator_babki_otdat1">
-		<text>Thieves... This stinks of Duty!</text>
+		<text>Bastards! This is what happens when Duty run the network!</text>
 	</string>
 	<string id="sms_operator_babki_otdat2">
-		<text>EH!!!! I have to budget an allowance!!!</text>
+		<text>WTF? I didn't budget for this. And I've not been paid this month!</text>
 	</string>
 	<string id="sms_operator_babki_otdat3">
-		<text>That box...</text>
+		<text>That stupid box is always causing trouble...</text>
 	</string>
 	<string id="sms_operator_babki_otdat4">
-		<text>3,000 rubles have been deducted from your account. Thank you for your understanding and cooperation.</text>
+		<text>3,000Ru has been debited from your account. Thank you for your continued custom...</text>
 	</string>
 	<string id="sms_bland">
 		<text>Hey, neutral! I see you have the bast outfit! For the ladder that you climbed, the average person, and even with your little ruksak not be able to climb. For flash here?</text>
@@ -2178,7 +2178,7 @@
 		<text>Panther, like the way free. I'm going to meet tyabya. You can be nominated to meet him. Throw off the coordinates.</text>
 	</string>
 	<string id="sms_village_kap_pda">
-		<text>Well, where are you? Look, do not lay an egg at this time. I need only girlfriend, her second brother safely soak along with his thugs. This idiot Strelok preferably not extinguish...</text>	<!-- Changed 'Arrow' to 'Strelok'- Sword2012 - 31 Oct 16-->
+		<text>Well, where are you? Look, do not lay an egg at this time. I need only girlfriend, her second brother safely soak along with his thugs. This idiot Strelok preferably not extinguish...</text> <!-- Changed 'Arrow' to 'Strelok'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="sms_village_kap_pda_2">
 		<text>Although - in charge it if the girl will be ours. He has otigral role.</text>

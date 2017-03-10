@@ -24,7 +24,7 @@
 		<text>Accompany the Duty party to the base\nTake out the three snipers\nKill Lukash</text>
 	</string>
 	<string id="mil_dolg_kill_sniper_descr">
-		<text>Kill the sniper in the tower. You'll need a single clean headshot to avoid any retaliation...</text>
+		<text>Kill the sniper in the tower. You'll need a single clean headshot to avoid retaliation...</text>
 	</string>
 	<string id="mil_flash_bandit_descr">
 		<text>Crap! Those stupid goats from Duty have driven us from our base. We're dug in at the farm, and didn't even have time to collect our stuff. The Freedom base is close by. Get to them quickly...</text>
@@ -57,7 +57,7 @@
 		<text>Hiding place in Cordon. You'll need to search in the wood, near the abandoned factory</text>
 	</string>
 	<string id="esc_kostya_taynik2">
-		<text>Hiding place in Cordon. At the crossing south of the tracks, under a fir tree</text>
+		<text>Hiding place in Cordon near the cross, south of the tracks. Look under a fir tree...</text>
 	</string>
 	<string id="esc_kostya_taynik3">
 		<text>Hiding place in Cordon. To the east of the Rookie village, under a pile of stones</text>

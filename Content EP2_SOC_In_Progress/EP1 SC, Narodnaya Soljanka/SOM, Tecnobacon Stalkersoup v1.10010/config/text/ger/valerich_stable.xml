@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="windows-1252"?>
 <!-- TB3D 1.1.0.0.0.4 new Collector, more dav updates, val_zapis_9, dav update 16Apr14, hunt_part2_message, 27_2, hunt_doc_jupu, minor edits, \n\n to \n.\n-->
 <!-- Corrected many generic punctuation, in-game and US/UK spelling errors - Sword2012 - 12 Dec 16 -->
+<!-- Reworked and proofed all text - Sword2012 - 16 Feb 17 -->
+
 <string_table>
 #include "text\ger\stable_bio_name.xml"
 #include "text\ger\string_table_arts_desc.xml"
@@ -11,226 +13,226 @@
 		<text>Somewhere in the Cordon, above a tunnel. No rail tracks there...</text>
 	</string>
 	<string id="val_zapis_2">
-		<text>Stalker... once you read this... it means that I may already be dead. This all started when I was on a job near the Radar for the Initiative. They wanted me to find a couple of 'rare' artefacts that can only be found up there. I found myself hiding for my life from those Monolith freaks. I ducked down behind some bushes, and found myself enveloped in a thick dense fog that seemed to suddenly form out of nothing. It only enveloped me for a few seconds, my Geiger counter and anomaly detector went wild, and I felt very strange...\n the rest... well, I lost consciousness... I woke up feeling fine, and somewhat rejuvenated. Some time later, I began to notice something... I could sense nearby artefacts. And then it started... I found the Artefracts for each order with ease. I made it to the Chernobyl NPP but I could not find the Sarcophagus. I did manage to gather a lot of rare unknown artefacts and unusual mutations of mushrooms.\nThe Mushrooms are very interesting as these have very high levels of Caesium-137, strontium-90, barium-137, Iodine-131, tellurium and rubidium isotopes, plutonium and other heavy elements - all naturally absorbed, a characteristic of mushrooms.\n.\n Each time I came back to the Cordon, I left well concealed caches in the areas I traveled through as well as notes with hints of other locations. With my fading health and memory I knew these cryptic clues would be needed. With each passing day, the cumulative affects of CS-134 and other radioactive isotopes are quickly bringing me to my demise. Each time I look at my reflection I am significantly older. Only a few months after that incident at the Radar, my life is at an end.\nBut lucky for you... you found my last note. Good luck to you Stalker, in pursuit of my treasures. I moved my stashes between 3 locations so it will be in one of them...\n• In the Cordon:\n In a tree south of the Military outpost...\n• Check under the Railroad cars...\n• Amongst some stones East of the place of Guide...</text>
+		<text>Stalker, if you're reading this it means that I may already be dead. It all started when I was on a job near Radar for the Initiative. They wanted me to find a couple of rare artefacts that only turn up there. I found myself hiding for my life from those Monolith freaks. I ducked down behind some bushes, and got immediately enveloped in this thick fog that just formed out of the air. It was only for a few seconds but my Geiger counter and anomaly detector went wild, and I felt really strange. Then I lost consciousness...\nI woke up feeling absolutely fine, rejuvenated even... Soon after, I started to notice something. I could sense artefacts nearby. So I started looking and, well, I found those artefacts for the order with ease\nI made it to the Chernobyl NPP, but I couldn't find the Sarcophagus. I'd found loads of rare, and even unknown artefacts, plus several unusual mushroom mutations. These local mushrooms are interesting because they have really high levels of Caesium-137, Strontium-90, Barium-137, Iodine-131, Tellurium and Rubidium isotopes, Plutonium, and other heavy elements - all naturally absorbed, which is what mushrooms do...\nEach time I returned to the Cordon, I hid caches in the areas I travelled through, as well as notes with reminders of my other locations. With my fading health and memory, I knew I'd need these cryptic clues. Now I realize that, with each passing day, the cumulative effect of all those isotopes has been killing me. Each time I look at my reflection I've become significantly older. Only a few months after that incident at Radar, my life has been used up...\nBut you have found my last note so - good luck to you Stalker, in pursuit of my treasures. I continually moved my stash between three locations in the Cordon, but it's sure to be in one of them...\n• In a tree south of the Military outpost...\n• Under the railroad cars...\n• Amongst some stones east of the place of Guide...</text>
 	</string>
 	<string id="val_zapis_3">
-		<text>At the Dump\n• Between a heap of pipes and the transition to Agroprom, try looking up...\n• A body on a chopper...\n• In a pipe on a hill 50m behind the bus...</text>
+		<text>At the Dump\n• Between a heap of pipes and the transition to Agroprom. Look up...\n• A body on a chopper...\n• In a pipe on a hill 50m behind the bus...</text>
 	</string>
 	<string id="val_zapis_4">
-		<text>At Agroprom\n• A pipe in the Swamp...\n• A nother P ossible C ache...\n• Nearby four large containers and a wall...</text>
+		<text>At Agroprom\n• A pipe in the Swamp...\n• Another Possible Cache...\n• Near to four large containers and a wall...</text>
 	</string>
 	<string id="val_zapis_5">
-		<text>At the Dump\n• Inside next to a pillar of the Northern side of the Hanger...\n• Up high in a ruined Building near the Duty checkpoint - difficult climb...\n• On the radioactive hill closest to the Duty checkpoint...</text>
+		<text>At the Dump\n• Inside, next to a pillar of the northern side of the hangar...\n• Up high in a ruined building near the Duty checkpoint - a difficult climb...\n• On the radioactive hill closest to the Duty checkpoint...</text>
 	</string>
 	<string id="val_zapis_6">
-		<text>In the Dark Valley\n• On a two Story red Brick Electrical building...\n• A high tree near the X-18 Lab...\n• Main Base, high and near a Crane...</text>
+		<text>In the Dark Valley\n• On a two-storey red brick electrical building...\n• A high tree near the X-18 Lab...\n• Main base, high, and near a crane...</text>
 	</string>
 	<string id="val_zapis_7">
-		<text>At the BAR\n• Roof near Southern Duty outpost - behind the fence...\n• On the second level...4 water collector stacks...\n• Beyond the Iron gates...Wild Territory transition...rubbish dumpster</text>
+		<text>At the Bar\n• Roof near southern Duty outpost - behind the fence...\n• On the second level. Four water collector stacks...\n• Beyond the iron gates, Wild Territory transition, rubbish dumpster</text>
 	</string>
 	<string id="val_zapis_8">
-		<text>In the Wild Territory\n• In an unfinished 3 story building...\n• Room at the transition to the Bar, need jump on rail for this one...\n• Fence near the snipers - But how to get there? and how to get out?...</text>
+		<text>In the Wild Territory\n• In an unfinished three-storey building...\n• Room at the transition to the Bar. Need to jump on rail for this one...\n• Fence near the snipers - but how to get there, and how to get out?</text>
 	</string>
 	<string id="val_zapis_9">
-		<text>In Yantar\n• Beam of a hanger with some roof missing...\n• 3 pipes near 4 corpses and a backpack...\n• A=1...4,9,7,7,5,18...Z=26...</text>
+		<text>In Yantar\n• Beam of a hangar with some roof missing...\n• Three pipes near four corpses and a backpack...\n• A=1...4,9,7,7,5,18...Z=26</text>
 	</string>
 	<string id="val_zapis_10">
-		<text>In the Wild Territory\n• Two utility sheds near the rail track\n• higher than 4 snipers nearest the Bar transition, a sight from a tower...\n• Beside the grave marked with a cross...</text>
+		<text>In the Wild Territory\n• Two utility sheds near the railway track\n• Higher than the four snipers nearest the Bar transition, a sight from a tower...\n• Beside the grave marked with a cross...</text>
 	</string>
 	<string id="val_zapis_11">
-		<text>At the Army Warehouses\n• near a crashed helicopter - under the concrete channels...\n• metal pipes near concrete slabs...\n• amongst 3 stones, behind the barbed wire fence near the APC, not an obvious climb...</text>
+		<text>At the Army Warehouses\n• Near a crashed helicopter, under the concrete channels...\n• Metal pipes near concrete slabs...\n• Amongst three stones, behind the barbed wire fence near the APC - not an obvious climb...</text>
 	</string>
 	<string id="val_zapis_12">
-		<text>At the Radar\n• next to the twin transmission towers above the X-10 Lab, look for a ladder...\n• the tank aims too low ??...\n• In rocks, just behind a fence, behind an Armored Troop Carrier by the cliffs...</text>
+		<text>At Radar\n• Next to the twin transmission towers above the X-10 Lab. Look for a ladder...\n• The tank aims too low?\n• In rocks, just behind a fence, behind an armored troop carrier by the cliffs...</text>
 	</string>
 	<string id="val_zapis_13">
-		<text>In Pripyat\n• In the nine-story with the collapsed corner...\n• broken Gondola...\n• Helmet of the Statue...</text>
+		<text>In Pripyat\n• In the nine-storey with the collapsed corner...\n• Broken gondola...\n• Helmet of the statue...</text>
 	</string>
 	<string id="val_zapis_14">
-		<text>At Chernobyl\n• a far away Red Truck...\n• Under the fallen trees...\n• Under the railroad bridge...</text>
+		<text>At Chernobyl\n• A faraway red truck...\n• Under the fallen trees...\n• Under the railroad bridge...</text>
 	</string>
 	<string id="val_zapis_15">
-		<text>In the Radar forest\n• Near the crashed helicopter I ran towards the cliffs in total darkness - chased by snorks and Zombies.\n A monster with huge claws appeared in front of me, I thought this was the end but the beast was a tree.\n Jumping and climbing the tree Beast I found refuge and left my stash...</text>
+		<text>In the Radar forest\n• Near the crashed helicopter I encountered Snorks and Zombies, which chased me as I ran towards the cliffs in total darkness\nA monster with huge claws appeared in front of me, and I thought this was the end, but the beast turned out to be a tree\nIn jumping and climbing the tree beast I found refuge, and gratefully left my stash...</text>
 	</string>
 	<string id="val_zapis_16">
-		<text>In the forest of the Radar, I happened upon a pack of Chernobyl Psi-Dogs, I also encountered a group of Snorks. All I could do was climb up a tree, firing, as I climbed from branch to branch... and then there it was... a teleport... I woke up on the ground on one of the low hills in the forest. As I began to investigate the area, I discovered that all the hills are connected by the same source. Roaming those hills, I have found my fortune in artefacts, including some very 'rare' and expensive ones. I carried what I could, and left the rest inside a Cache; the properties of which are very specific... very specific indeed!!!</text>
+		<text>In the forest near Radar, I happened upon a pack of Chernobyl Psi-dogs. I also encountered a group of Snorks. All I could do was climb a tree, firing as I clambered from branch to branch... Then there it was... a teleport... I woke up on the ground on one of the low hills in the forest. As I began to investigate the area, I discovered that all the hills are connected by the same source. Roaming those hills, I have found my fortune in artefacts, including very rare and expensive ones. I carried what I could, and left the rest inside a cache, the properties of which are very specific... Very specific indeed!</text>
 	</string>
 	<string id="val_zapis_17">
-		<text>Stalker, well done - you have found my main stash. These unique and rare artefacts will be of great help to you. Watch their negative properties though!.\n.\n Live long and Prosper.\n.\nPS...I passed some of my unusual finds to a good friend of mine nicknamed Caesier. He's a very smart Scientist who thinks he can develop an antidote for Cs-134 poisoning. Find him or his clues and you'll be very happy</text>
+		<text>Well done, Stalker. You've found my main stash. These unique and rare artefacts will be of great help to you. Just watch out for their negative properties!\n.\nLive long and prosper...\n.\nPS I passed on some of my more 'unusual' finds to a good friend nicknamed Caesier. He's a very smart scientist who believes he can develop an antidote for Cs-134 poisoning. If you can find him, or his clues, you'll be very pleased you did...</text>
 	</string>
 	<string id="val_zapis_18">
-		<text>I haven't seen the Collector for a while now. Maybe he finally succumbed to the Zone, some say he was enveloped by a bright light and he ascended to the sky.\nHe passed information onto me about rare arteacts, how to modify weapons with special artefacts and how to breed unique flora and plants, including his favorite Mushrooms.\nLike the Collector, I have left my stashes over the Zone - in the New Territories. Some of these stashes contain very special weapons or artefacts. They will be very difficult to find as these items are far too powerful for the inexperienced. I wish you luck in finding my stashes...\nAt the Base nearby there is a broken round pipe on top of some concrete slabs. Beware, the Base may be well defended\n.\nCaesier</text>
+		<text>I haven't seen the Collector for a while now. Maybe he finally succumbed to the Zone. Some say he was enveloped by a bright light, and ascended to the sky.\nHe passed information on to me about rare arteacts, how to modify weapons with special artefacts, and how to breed unique flora, including his favorite mushrooms.\nLike the Collector, I left my stashes around the Zone - but in the New Territories. Some of these stashes contain very special weapons or artefacts. They are intentionally difficult to find as these items are far too powerful to be in inexperienced hands. I wish you luck, skill, and perseverance in finding them...\nAt the base nearby is a broken round pipe on top of some concrete slabs. Beware, however, because this base is usually well guarded...\n.\nCaesier</text>
 	</string>
 	<string id="val_zapis_19">
-		<text>RECON\n.\n• In a pool under a lake...\n• Under a large rock in a crater, in Mr Bones NE view...\n• In large rocks near the trail to the Army Warehouses...</text>
+		<text>Recon\n.\n• In a pool under a lake...\n• Under a large rock in a crater, in Mr Bones' NE view...\n• In large rocks near the trail to the Army Warehouses...</text>
 	</string>
 	<string id="val_zapis_20">
-		<text>\nSwamp\n• On the CS Main Base roof - but it may wash off...\n• On the top of a high water Tower...\n• A Train carriage near a Cave...</text>
+		<text>\nSwamp\n• On the CS main base roof - although it may wash off...\n• On top of a tall water tower...\n• A train carriage near a cave...</text>
 	</string>
 	<string id="val_zapis_21">
-		<text>\nOld Village\n• Old Tractor taken by the trees...\n• In a house Chimney...\n• An attic of a high up house...</text>
+		<text>\nOld Village\n• Old tractor taken by the trees...\n• In a house chimney...\n• The attic of a high-up house...</text>
 	</string>
 	<string id="val_zapis_22">
-		<text>\nHospital\n• Under a Star...\n• The Dome is Holographic...\n• On the Digger Track...\n• On the Digger Scoop</text>
+		<text>\nHospital\n• Under a star...\n• The dome is holographic...\n• On the digger track...\n• On the digger scoop</text>
 	</string>
 	<string id="val_zapis_23">
-		<text>\nLimansk\n• Tactpohom...\n• Tunnel under Antenna array...\n...Take a leap of faith\n• Suspended up high...</text>
+		<text>\nLimansk\n• Tactpohom...\n• Tunnel under antenna array...\n...Take a leap of faith\n• Suspended up on high...</text>
 	</string>
 	<string id="val_zapis_24">
-		<text>\nGenerators\n• Epicenter...\n• Spiked tree in front of the Truck...\n• Solitary power building roof</text>
+		<text>\nGenerators\n• Epicenter...\n• Spiked tree in front of truck...\n• Roof of solitary power building</text>
 	</string>
 	<string id="val_zapis_25">
-		<text>\nWarlab\n• down, R1, down, under steps...\n• Pool room Sofa...\n• On top of 1 of 6 tanks...\n• Top of first level power cabinets...\n.\n.\ngenerated in the mirror 65409152</text>
+		<text>\nWar Lab\n• Down, R1, down, under steps...\n• Pool room sofa...\n• On top of one of six tanks...\n• Top of first level power cabinets...\n.\n.\nGenerated in the mirror 65409152</text>
 	</string>
 	<string id="val_zapis_26">
-		<text>\n Red Forest\n• Three rocks down by river\n• Under the floorboards across the river...\n• River Truck...\n• 1 of 3 pipes near Truck...\n• Overlooking the Boiler Anamoly...</text>
+		<text>\nRed Forest\n• Three rocks down by the river\n• Under the floorboards across the river...\n• River truck...\n• One of three pipes near truck...\n• Overlooking the Boiler anomaly...</text>
 	</string>
 	<string id="val_zapis_27">
-		<text>\nDead City\n• Crashed helicopter...\n• Under a Transition Bridge...\n• Photo board...\n• Follow 2 power lines near an antenna...</text>
+		<text>\nDead City\n• Crashed helicopter...\n• Under a transition bridge...\n• Photo board...\n• Follow two power lines near an antenna...</text>
 	</string>
 	<string id="val_zapis_28">
-		<text>\nBackwater\n• Overlooking the Electric Chopper...\n• A rock overlooking 2 Cranes...\n• Waste Processing station - In 1 of 3 overhead Pipes...\n• Waste Processing station water reservoir...\n.\nThe end of a chopper blade will give you a nice surprise</text>
+		<text>\nBackwater\n• Overlooking the electric chopper...\n• A rock overlooking two cranes...\n• Waste Processing station - In one of three overhead pipes...\n• Waste Processing station water reservoir...\n.\nThe end of a chopper blade will give you a nice surprise</text>
 	</string>
 	<string id="val_zapis_29">
-		<text>\nJupiter\n.\nAt the end of the Rail lines there is a a room with a door and a Transition to Caesier's Lookout\n.\n• Stair Platform you can't get to...\n• Factory roof tree...\n• Factory roof overlooking the Chopper...\n• Storm drain behind the Factory...</text>
+		<text>\nJupiter\n.\nAt the end of the railway lines is a room with a door and a transition to Caesier's lookout\n.\n• Stair platform you can't get to...\n• Factory roof tree...\n• Factory roof overlooking the chopper...\n• Storm drain behind the factory...</text>
 	</string>
 	<string id="val_zapis_30">
-		<text>\nEast Pripyat\nAt the River port, there is a Teleport Booth that leads to my safe area.\nFind my photo document and your search for my Stash will be easier. Look for the X that marks the spot and risk the jump...</text>
+		<text>\nEast Pripyat\nAt the River Port is a teleport booth that leads to my safe area...\nFind my photo document and your search for my stash will be easier. Look for the X that marks the spot, and make the jump...</text>
 	</string>
 	<string id="val_zapis_31">
-		<text>\nAt the River Port Pier there is transport to Jupiter. Find the elevator in the old Jupiter Factory and make your way underground.\nJupiter underground\n.\nClimb through the Tunnel bars - a Teleport awaits you.\nMake your next choice wisely - your life depends on it...</text>
+		<text>\nAt the River Port pier is transport to Jupiter. Find the elevator in the old Jupiter factory and make your way underground...\nJupiter underground\n.\nClimb through the tunnel bars, where a teleport awaits you...\nMake your next choice wisely, as your life will depend upon it...</text>
 	</string>
 	<string id="val_zapis_32">
-		<text>\nCaesier's last Secret Note</text>
+		<text>\nCaesier's last secret note</text>
 	</string>
 	<string id="tayniki_coll_0">
-		<text>Listen Sid... I have heard rumors about some very rare artefacts that are very hard to find. It is said that someone had found some of them deep inside the Zone, and that they had sold some of them to you here in the Cordon...</text>
+		<text>Hey, Sid... I've heard rumors about some rare artefacts that are very difficult to find. They say that someone found a few of them deep inside the Zone, and that they sold some of them to you here, in the Cordon...</text>
 	</string>
 	<string id="tayniki_coll_1">
-		<text>Well, yes... that much is true. Most of the orders I received were for one particular artefact, but... I have since had several orders for a particular type in a certain quantity - the payment, as you know... will suit the job. Roughly speaking though... it would be twice as profitable as the total value if the artefacts were sought out individually...</text>
+		<text>Well, yes... that much is true. Most of the orders I received were for one particular artefact, but... I have since had several orders for a particular type and quantity... The payment, as you know, will suit the job. Roughly speaking though, if the artefacts were to be sought out individually, it would work out twice as profitable as the total job, if you get what I mean...</text>
 	</string>
 	<string id="tayniki_coll_2">
-		<text>Sounds good to me... Let us talk business, then...</text>
+		<text>Sounds good to me. Let's talk business, then...</text>
 	</string>
 	<string id="tayniki_coll_3">
-		<text>That's exactly all it is at this point... Talk!! I'm at a loss as to what to do. The Stalker who took these orders has disappeared without a trace... and with him... the mystery of it all as well... By the way... have you heard tell of this Collector fellow at all?!... well, that's his nickname around these parts, anyways...</text>
+		<text>Well, that's exactly all it is at this point - Talk! I'm at a loss what to do. The Stalker who took these orders has disappeared without a trace... and with him, all the informationl... By the way, have you heard tell of this 'Collector' Stalker at all? Well, that's what they call him around these parts...</text>
 	</string>
 	<string id="tayniki_coll_4">
-		<text>No, this is the first I've heard tell of him... please go on...</text>
+		<text>No, this is the first I've heard of him... Please go on...</text>
 	</string>
 	<string id="tayniki_coll_5">
-		<text>That's understandable. The Old-Timers that knew him only tend to spend a day or two in the Zone and they don't like to talk about him much. From what they have revealed the 'Collector' was a seasoned Stalker that took orders for rare artefacts, plants and fauna from some Zone factions and loners.  Some of these 'rare' artefacts can only be found near the Radar. The level of anomalous activity and concentration of heavy metals and Radioactive substances are ideal for the creation of all forms of unique items. I remember one job the Collector took and he was probably gone more than a month, I thought that the Zone took him... like so many others before. And then suddenly one day he shows up... and, with the ordered artefacts as well!! None of us had ever seen such artefacts... such treasures!! But, he had changed very much since he left. He seemed older, somehow...\n A week later he was back again - this time to sell me two very rare artefacts - he looked awful... as if he had aged five years...\n Later I asked 'Wolf' about him, and he said that an 'old' man fitting his description wandered into the village, but didn't speak to anyone... not even him. He only stayed overnight, sleeping near the fire in the center of the village, and then he left early the next morning. No-one has seen or heard from him since...</text>
+		<text>That's understandable. The old-timers who knew him tend to only spend a day or two in the Zone, and they don't like to talk about him much\nFrom what they've said the 'Collector' was an experienced Stalker who took orders from various factions and loners for rare artefacts, plants and animal life. Some of these rarities, particularly artefacts, can only be found near Radar. The concentrations of anomalous activity, heavy metals, and radioactive substances there are ideal for creating all forms of unique items\nI remember one job the Collector took on, and he was gone for over a month. I thought the Zone had taken him, like so many others... And then suddenly one day he shows up, with all the ordered artefacts! None of us had ever seen such artefacts... Such rare treasures! I wish I could have kept hold of some of them, but they were worth so much...\nBut this Collector guy, he'd changed so much since he'd left. He looked much older, somehow... A week later he was back, this time to sell me two very rare artefacts. But he looked even worse... as if he'd aged five years...\n Later I asked Wolf about him, and he said that an old man fitting his description had wandered into the village, but didn't speak to anyone... not even Wolf. He only stayed overnight, sleeping near the fire in the center of the village, then he left early the next morning. Nobody has seen or heard of him since...</text>
 	</string>
 	<string id="tayniki_coll_6">
 		<text>So what are you proposing then?...</text>
 	</string>
 	<string id="tayniki_coll_7">
-		<text>Well, nothing really... don't get too excited... it could all just be a bunch of campfire talk...</text>
+		<text>Well, nothing really... Don't get too excited. It could all be just a bunch of campfire talk...</text>
 	</string>
 	<string id="tayniki_coll_8">
-		<text>Well, I suppose so... but, it might be worth looking into all the same...</text>
+		<text>Well, I suppose so... But, do you think it might be worth looking into?</text>
 	</string>
 	<string id="tayniki_coll_9">
-		<text>Well, I'll tell you one thing... this 'Collector' fellow was no dummy. How could he possibly spend a few days here in the Cordon and find such rare artefacts that can only be found near the center of the Zone!? My guess is that he had them hidden away somewhere in secret caches that only he knew about. There may still be some of these 'Caches' still out there. If you are the curious type that I think you are, then have a good, close look around here in the Rookie Village. This is the last place he was seen, after all...</text>
+		<text>Well, I'll tell you one thing - this 'Collector' was no idiot. It was obvious he knew his way around the Zone. But how could he possibly be away from the Cordon for just a few days, and then bring back artefacts so rare that you have to get to the center of the Zone just to start looking for them? My guess is that he had them hidden away somewhere, in secret caches that only he knew about. If he's dead, there may still be some of his stashes still out there. If you're the smart kind of guy I think you are, I think you'd do well having a good, close look around here in the Rookie Village. After all, this is the last place he was seen...</text>
 	</string>
 	<string id="tayniki_coll_10">
-		<text>Food for thought... I may check into that. Talk to you later...</text>
+		<text>Food for thought... Thank you. I may well check this out. Talk to you later...</text>
 	</string>
 	<string id="wpn_hand_name_c1">
-		<text>Rubberized Gloves</text>
+		<text>Vulcanized Gloves</text>
 	</string>
 	<string id="enc_weapons1_wpn-hand_c1">
-		<text>Capable of blocking up to 30 percent of the harmful effects of the selected artefact. Essentially, a simple pair of Fighting Gloves that have been re-enforced heavily with a thick rubberized compound...</text>
+		<text>Capable of blocking up to 30 percent of the harmful effects of the selected artefact. Essentially, a simple pair of fighting gloves that have been heavily reinforced with a thick rubberized compound...</text>
 	</string>
 	<string id="wpn_hand_name_c2">
-		<text>Improved Gloves</text>
+		<text>'Anomalized' Gloves</text>
 	</string>
 	<string id="enc_weapons1_wpn-hand_c2">
-		<text>Capable of blocking up to 50 percent of the harmful effects of the selected artefact. These gloves were treated by throwing them into the WEB anomaly. Abnormal filaments have been implanted into the fibers of the gloves themselves, thereby increasing their protective characteristics...</text>
+		<text>Capable of blocking up to 50 percent of the harmful effects of the selected artefact. These strong gloves were further treated by leaving them in a Web anomaly overnight, causing high tensile microfilaments to splice with the natural fibers of the gloves themselves, thereby increasing their protective strength without losing flexibility...</text>
 	</string>
 	<string id="wpn_hand_name_c3">
-		<text>Upgraded Gloves</text>
+		<text>'Exo' Gloves</text>
 	</string>
 	<string id="enc_weapons1_wpn-hand_c3">
-		<text>Capable of blocking up to 70 percent of the harmful effects of the selected artefact. Advanced pair of Gloves taken from an Exoskeleton which was enhanced somehow by means of the venerable 'Burr' artefact...</text>
+		<text>Capable of blocking up to 70 percent of the harmful effects of the selected artefact. These metacarpal assemblies were removed from an Exoskeleton which was itself strengthened by carrying a rare 'Burr' artefact...</text>
 	</string>
 	<string id="wpn_hand_name_c4">
-		<text>'Unique' Gloves</text>
+		<text>'Enhanced' Gloves</text>
 	</string>
 	<string id="enc_weapons1_wpn-hand_c4">
-		<text>These Gloves completely block 100 percent of the harmful effects of the selected artefact and seem to amplify the users striking energy, making them excellent fighting gloves as well. Taken off of a rare Exoskeleton, and by means of many unsafe experiments... using a combination of two artefacts - the 'Burr' and the 'Igla', which managed somehow to completely negate the harmful effects of the artefacts without harming the person wearing them. The 'Igla' is very rare artefact, so these gloves are literally worth their weight in Gold...</text>
+		<text>Not only do these gloves completely block 100 percent of the harmful effects of the selected artefact, they also amplify the wearer's striking energy, making them superb fighting gloves too. The metacarpal assemblies from an enhanced Exoskeleton have been thermally sprayed with powdered 'Burr' and 'Igla' artefacts. Considering the rarity of these artefacts alone, these gloves are literally worth their weight in gold...</text>
 	</string>
 	<string id="collector_clue_1">
 		<text>…Somewhere very close to a blocked tunnel …</text>
 	</string>
 	<string id="collector_clue_2_1">
-		<text>...I was high on Mushrooms, South of the the Military outpost, check the trees...</text>
+		<text>...I was high on Mushrooms, South of the Military outpost. Check the trees...</text>
 	</string>
 	<string id="collector_clue_2_2">
-		<text>...check the Railroad cars carefully...</text>
+		<text>...Check the railway cars carefully...</text>
 	</string>
 	<string id="collector_clue_2_3">
-		<text>...Buried amongst some stones East of the place of Guide...</text>
+		<text>...Buried amongst some stones, east of the place of Guide...</text>
 	</string>
 	<string id="collector_clue_3_1">
-		<text>...between a heap of pipes and the transition to Agroprom...</text>
+		<text>...Between a heap of pipes and the transition to Agroprom...</text>
 	</string>
 	<string id="collector_clue_3_2">
-		<text>...on a hill between a hangar and a Duty outpost, a piped box...</text>
+		<text>...On a hill between a hangar and a Duty outpost. A piped box...</text>
 	</string>
 	<string id="collector_clue_3_3">
-		<text>...on a hill between a hangar and a parking yard, on the side closest to the central road...</text>
+		<text>...On a hill between a hangar and a parking yard, on the side closest to the central road...</text>
 	</string>
 	<string id="collector_clue_4_1">
-		<text>...in a swamp pipe...</text>
+		<text>...In a swamp pipe...</text>
 	</string>
 	<string id="collector_clue_4_2">
-		<text>...A nother P ossible C ache...</text>
+		<text>...Another Possible Cache...</text>
 	</string>
 	<string id="collector_clue_4_3">
-		<text>...nearby four large containers...</text>
+		<text>...Nearby four large containers...</text>
 	</string>
 	<string id="collector_clue_5_1">
-		<text>...inside the Hanger... Northern wall...</text>
+		<text>...Inside the Hangar. Northern wall...</text>
 	</string>
 	<string id="collector_clue_5_2">
-		<text>...in the rubble near the Duty checkpoint...</text>
+		<text>...In the rubble near the Duty checkpoint...</text>
 	</string>
 	<string id="collector_clue_5_3">
-		<text>...on the radioactive hill near the Duty checkpoint...</text>
+		<text>...On the radioactive hill near the Duty checkpoint...</text>
 	</string>
 	<string id="collector_clue_6_1">
-		<text>...red brick electrical switch building...</text>
+		<text>...Red brick electrical switch building...</text>
 	</string>
 	<string id="collector_clue_6_2">
-		<text>...tree near lab...</text>
+		<text>...Tree near lab...</text>
 	</string>
 	<string id="collector_clue_6_3">
 		<text>...701 bin...</text>
 	</string>
 	<string id="collector_clue_7_1">
-		<text>...near the Duty outpost close to the Dump...</text>
+		<text>...Near the Duty outpost close to the Dump...</text>
 	</string>
 	<string id="collector_clue_7_2">
-		<text>...on the second level... 4 water collector stacks...</text>
+		<text>...On the second level. Four water collector stacks...</text>
 	</string>
 	<string id="collector_clue_7_3">
-		<text>...iron gates...Wild Territory transition...rubbish dumpster...</text>
+		<text>...Iron gates. Wild Territory transition. Rubbish dumpster...</text>
 	</string>
 	<string id="collector_clue_8_1">
-		<text>...in an unfinished 3 story building...</text>
+		<text>...In an unfinished three-storey building...</text>
 	</string>
 	<string id="collector_clue_8_2">
-		<text>...at the transition to the Bar there's a room in another dimension, no soldiers, no people anywhere...</text>
+		<text>...At the transition to the Bar there's a room in another dimension, with no soldiers nor people anywhere...</text>
 	</string>
 	<string id="collector_clue_8_3">
-		<text>...collapsed train platform...</text>
+		<text>...Collapsed train platform...</text>
 	</string>
 	<string id="collector_clue_9_1">
-		<text>...the barbed-wire fence...</text>
+		<text>...The barbed wire fence...</text>
 	</string>
 	<string id="collector_clue_9_2">
-		<text>...3 pipes near 4 corpses and a backpack...</text>
+		<text>...Three pipes near four corpses and a backpack...</text>
 	</string>
 	<string id="collector_clue_9_3">
 		<text>...4, 9, 7, 7, 5, 18...</text>
@@ -239,91 +241,91 @@
 		<text>...Two utility sheds near the rail track...</text>
 	</string>
 	<string id="collector_clue_10_2">
-		<text>...higher than 4 snipers and seen from the Bar transition...</text>
+		<text>...Higher than the four snipers observed from the Bar transition...</text>
 	</string>
 	<string id="collector_clue_10_3">
-		<text>...beside the grave marked with a cross...</text>
+		<text>...Beside the grave marked with a cross...</text>
 	</string>
 	<string id="collector_clue_11_1">
-		<text>...near the crashed helicopter - under the concrete channels...</text>
+		<text>...Near the crashed helicopter. Under the concrete channels...</text>
 	</string>
 	<string id="collector_clue_11_2">
-		<text>...metal pipes near concrete slabs...</text>
+		<text>...Metal pipes near concrete slabs...</text>
 	</string>
 	<string id="collector_clue_11_3">
-		<text>...amongst 3 stones, behind the barbed wire fence near the Mercenary Outpost...</text>
+		<text>...Amongst three stones, behind the barbed wire fence near the Mercenary Outpost...</text>
 	</string>
 	<string id="collector_clue_12_1">
-		<text>...next to the transmission towers above X-10...</text>
+		<text>...Next to the transmission towers above X-10...</text>
 	</string>
 	<string id="collector_clue_12_2">
-		<text>...the tank barrel points the way - up...</text>
+		<text>...The tank barrel points the way - up...</text>
 	</string>
 	<string id="collector_clue_12_3">
-		<text>...amongst some stones nearby an armored troop-carrier...</text>
+		<text>...Amongst some stones near an armored troop carrier...</text>
 	</string>
 	<string id="collector_clue_13_1">
-		<text>...in the collapsed corner of a nine-storey building...</text>
+		<text>...In the collapsed corner of a nine-storey building...</text>
 	</string>
 	<string id="collector_clue_13_2">
-		<text>...broken Gondola...</text>
+		<text>...Broken gondola...</text>
 	</string>
 	<string id="collector_clue_13_3">
-		<text>...in the kindergarten...</text>
+		<text>...In the kindergarten...</text>
 	</string>
 	<string id="collector_clue_14_1">
-		<text>...outside the fence, next to the locomotive...</text>
+		<text>...Outside the fence. Next to the locomotive...</text>
 	</string>
 	<string id="collector_clue_14_2">
-		<text>...under the fallen trees...</text>
+		<text>...Beneath the fallen trees...</text>
 	</string>
 	<string id="collector_clue_14_3">
-		<text>...under the rail bridge...</text>
+		<text>...Under the railway bridge...</text>
 	</string>
 	<string id="collector_clue_15">
-		<text>...there where the BEAUTY is embraced by the BEAST...</text>
+		<text>...There, where the beauty is embraced by the beast...</text>
 	</string>
 	<string id="collector_clue_16">
-		<text>...in the hills surrounding the Radar...</text>
+		<text>...In the hills surrounding Radar...</text>
 	</string>
 	<string id="collector_clue_17">
-		<text>...dAVROs has a hidden message...</text>
+		<text>...dAVROs left a hidden message...</text>
 	</string>
 	<string id="collector_clue_18">
-		<text>...ATP Bandit Base...</text>
+		<text>...ATP Bandit base...</text>
 	</string>
 	<string id="collector_clue_19_1">
-		<text>...pool under lake...</text>
+		<text>...Pool under lake...</text>
 	</string>
 	<string id="collector_clue_19_2">
-		<text>...crater rock, in Mr Bones NE view...</text>
+		<text>...Crater rock, in Mr Bones NE view...</text>
 	</string>
 	<string id="collector_clue_19_3">
-		<text>...rocks near AW transition...</text>
+		<text>...Rocks near Army Warehouses transition...</text>
 	</string>
 	<string id="collector_clue_20_1">
-		<text>...Base watertank...</text>
+		<text>...Base water tank...</text>
 	</string>
 	<string id="collector_clue_20_2">
-		<text>...top of high water tower...</text>
+		<text>...Top of high water tower...</text>
 	</string>
 	<string id="collector_clue_20_3">
-		<text>...train carrage near cave...</text>
+		<text>...Train carriage, near cave...</text>
 	</string>
 	<string id="collector_clue_21_1">
-		<text>...old tractor...</text>
+		<text>...Old tractor...</text>
 	</string>
 	<string id="collector_clue_21_2">
 		<text>...Chimney...</text>
 	</string>
 	<string id="collector_clue_21_3">
-		<text>...attic...</text>
+		<text>...Attic...</text>
 	</string>
 	<string id="collector_clue_22_1">
-		<text>...under the star...</text>
+		<text>...Under the star...</text>
 	</string>
 	<string id="collector_clue_22_2">
-		<text>...Holographic Dome...</text>
+		<text>...Holographic dome...</text>
 	</string>
 	<string id="collector_clue_22_3">
 		<text>...Digger track...</text>
@@ -335,7 +337,7 @@
 		<text>...Tactpohom...</text>
 	</string>
 	<string id="collector_clue_23_2">
-		<text>...Tunnel under Antenna array...</text>
+		<text>...Tunnel under antenna array...</text>
 	</string>
 	<string id="collector_clue_23_3">
 		<text>...Chimney near sniper tower...</text>
@@ -344,93 +346,93 @@
 		<text>...Epicenter...</text>
 	</string>
 	<string id="collector_clue_24_2">
-		<text>...Spiked tree in front of Truck...</text>
+		<text>...Spiked tree in front of truck...</text>
 	</string>
 	<string id="collector_clue_24_3">
-		<text>...down, R1, down under 4 steps...</text>
+		<text>...Down, R1, down under 4 steps...</text>
 	</string>
 	<string id="collector_clue_25_1">
 		<text>...Pool room sofa...</text>
 	</string>
 	<string id="collector_clue_25_2">
-		<text>...top of 1 of 6 tanks...</text>
+		<text>...Top of one of six tanks...</text>
 	</string>
 	<string id="collector_clue_25_3">
-		<text>...top of power cabinets...</text>
+		<text>...Top of power cabinets...</text>
 	</string>
 	<string id="collector_clue_26_1">
-		<text>...3 rocks down by river...</text>
+		<text>...Three rocks down by the river...</text>
 	</string>
 	<string id="collector_clue_26_2">
-		<text>...under the floorboards on the otherside...</text>
+		<text>...Under the floorboards on the other side...</text>
 	</string>
 	<string id="collector_clue_26_3">
-		<text>...river truck...</text>
+		<text>...River truck...</text>
 	</string>
 	<string id="collector_clue_26_4">
-		<text>...1 of 3 pipes near truck...</text>
+		<text>...One of three pipes near a truck...</text>
 	</string>
 	<string id="collector_clue_26_5">
-		<text>...overlooking the boiler...</text>
+		<text>...Overlooking the boiler...</text>
 	</string>
 	<string id="collector_clue_27_1">
 		<text>...Chopper...</text>
 	</string>
 	<string id="collector_clue_27_2">
-		<text>...so much rubble...</text>
+		<text>...So much rubble...</text>
 	</string>
 	<string id="collector_clue_28_1">
-		<text>...overlooking the electric chopper...</text>
+		<text>...Overlooking the electric chopper...</text>
 	</string>
 	<string id="collector_clue_28_2">
-		<text>...rock overlooking 2 cranes...</text>
+		<text>...Rock overlooking two cranes...</text>
 	</string>
 	<string id="collector_clue_28_3">
-		<text>...in 1 of 3 overhead pipes...</text>
+		<text>...In one of three overhead pipes...</text>
 	</string>
 	<string id="collector_clue_28_4">
-		<text>...near the 3 pipes high up pillar...</text>
+		<text>...Near the three pipes, high up a pillar...</text>
 	</string>
 	<string id="collector_clue_29_1">
-		<text>...Jupiter factory inaccesible stairs...</text>
+		<text>...Jupiter factory. Inaccessible stairs...</text>
 	</string>
 	<string id="collector_clue_29_2">
-		<text>...Jupiter factory roof tree...</text>
+		<text>...Jupiter factory. Roof tree...</text>
 	</string>
 	<string id="collector_clue_29_3">
-		<text>...Jupiter factory roof overlooking the chopper...</text>
+		<text>...Jupiter factory roof, overlooking the chopper...</text>
 	</string>
 	<string id="collector_clue_29_4">
-		<text>...Behind Jupiter factory strom drain...</text>
+		<text>...Behind Jupiter factory storm drain...</text>
 	</string>
 	<string id="collector_clue_30_1">
-		<text>...round and round a prominent figure...</text>
+		<text>...Round and round a prominent figure...</text>
 	</string>
 	<string id="collector_clue_30_2">
-		<text>...prominent figure...</text>
+		<text>...Prominent figure...</text>
 	</string>
 	<string id="collector_clue_30_3">
-		<text>...good reception...</text>
+		<text>...Good reception...</text>
 	</string>
 	<string id="collector_clue_30_4">
-		<text>...roof...</text>
+		<text>...Roof...</text>
 	</string>
 	<string id="collector_clue_31">
 		<text>...Secret room stash...</text>
 	</string>
 	<string id="hunt_part2_message">
-		<text>...Marked One, I overheard a conversation about Caesier. He was last seen in the ATP, far to the northwest...</text>
+		<text>...Marked One, I overheard a conversation about Caesier. He was last seen in the ATP, far to the north-west...</text>
 	</string>
 	<string id="hunt_ldk_warning">
-		<text>ATTENTION: LDK have been seen infiltrating the underground facilities in the North, use extreme caution!</text>
+		<text>ATTENTION: LDK have been spotted infiltrating the underground facilities in the north. Use extreme caution!</text>
 	</string>
 	<string id="hunt_bkwtr_warning">
 		<text>ATTENTION: Reported confrontation with LDK in Backwater. Military troops are to withdraw from that area immediately!</text>
 	</string>
 	<string id="hunt_doc_jupu">
-		<text>This is my last hideout.\nI left small stashes of weapons throughout the Zone for my use.\nYou are welcome to them as I no longer need them, hopefully I will make it to Moscow as a stowaway in the LDK evacuation.\nYou can escape by jumping onto the ledge below the opening and sliding through the window.\nI have also left my hand teleporter to Limansk which may come in handy at times!\nGood luck and stay cautious!</text>
+		<text>This is my last hideout.\nI left small stashes of weapons throughout the Zone for my use.\nThey are no longer of use to me, and you are welcome to them. With luck I shall make it to Moscow as a stowaway in the LDK evacuation.\nYou can escape by jumping onto the ledge below the opening, then sliding through the window.\nI have also left you my Hand teleporter to Limansk, which I've often found useful!\nGood luck, and keep cautious!</text>
 	</string>
 	<string id="hunt_doc_j">
-		<text>To he who finds this</text>
+		<text>To the one who finds this...</text>
 	</string>
 </string_table>

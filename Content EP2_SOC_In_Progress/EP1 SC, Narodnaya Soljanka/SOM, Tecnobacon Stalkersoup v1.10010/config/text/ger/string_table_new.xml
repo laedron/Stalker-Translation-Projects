@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="windows-1252"?>
 <!-- TB3D 1.1.0.0.0.4 unflawed sky -->
-<!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for accuracy, clarity, brevity, and consistency. Work still in progress on 14 Russian-English files - 31 Oct 16 -->
+<!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for accuracy, clarity, brevity, and consistency - 31 Oct 16 -->
 <!-- Names changed as commented below - Sword2012 - 31 Oct 16 -->
 <!-- Corrected many generic punctuation, in-game and US/UK spelling errors - Sword2012 - 12 Dec 16 -->
+<!-- All lines reworked and proofed - Sword2012 - 11 Feb 17 -->
 <string_table>
 	<string id="tex_take_pushka">
 		<text>While Fox sits here on his backside, getting drunk with the Doctor, I have to go and pick up his parcel from Prapor. This had better be worth it...</text>
 	</string>
 	<string id="tex_atak_larger">
-		<text>I need to return to the Cordon, and find the old hunter known as 'Sepator'. That's all I know for now...</text>
+		<text>I need to return to the Cordon and find the old hunter, Sepator. That's all I know for now...</text>
 	</string>
 	<string id="saharov_about_klik_text">
-		<text>Sakharov knows something about the death of Fang, and advises me to talk to Voronin</text>
+		<text>Sakharov advises me to talk to Voronin about Fang's death</text>
 	</string>
 	<string id="voronin_about_klik_text">
-		<text>So Fang was somehow crossed by the mercenaries, according to Voronin. He advises me to talk to the informant, Snitch, who should have some information on those mercs...</text>
+		<text>So, according to Voronin, Fang was somehow crossed by the mercenaries. He advises me to talk to the informant, Snitch, who should have some information on those bastards...</text>
 	</string>
 	<string id="voronin_begin">
 		<text>Voronin: The murder investigation proceeds...</text>
@@ -23,28 +24,28 @@
 		<text>Informant: We move a step closer...</text>
 	</string>
 	<string id="informator_about_klik_text">
-		<text>That dodgy dealer Snitch wanted me to find Tirana's PDA for him before he'd tell me anything. I finally got the PDA from that swamp dweller, Dan. In exchange, Snitch will arrange a meeting with LeHavre, which should help move my investigation along</text>
+		<text>Snitch wanted me to find Tirana's PDA for him before he'd tell me anything. I finally got it from that swamp dweller, Dan. In exchange, Snitch will arrange a meeting with LeHavre, which should help move my investigation along...</text>
 	</string>
 	<string id="gavr_begin">
 		<text>LeHavre</text>
 	</string>
 	<string id="gavr_about_klik1_text">
-		<text>So much time has passed, and still I know practically nothing. This scumbag LeHavre is involving me in his personal dirty work, but it's necessary to stay with him for now - instead of taking his fucking head off. I just want to bring all this to an end...</text>
+		<text>So much time and effort, and still I know practically nothing. This scumbag LeHavre is involving me in his personal dirty work, but it's necessary to stay with him for now - instead of taking his fucking head off. I just want to bring all this to an end...</text>
 	</string>
 	<string id="gavr_begin2">
 		<text>LeHavre. Continued...</text>
 	</string>
 	<string id="gavr_about_klik2_text">
-		<text>LeHavre has sent me on an assignment - to find some documents. Strange documents they are, with scribbled notes in every available space. Even the attached map is covered with numbers, arrows, and times...\nFor some unknown reason, as soon as I started searching for Fang's murderer, a shitload of foreign mercenaries come looking for me. I haven't a fucking clue what's going on, but I appear to have stirred up something... something... something in the back of my mind keeps trying to surface. Anyway, I've made a copy of the documents, just in case, and will show them to Freeman. I feel I've met him before somewhere, and that he knows something that can help me...</text>
+		<text>LeHavre has sent me on an assignment - to find some documents. Strange documents they are, with scribbled notes in every available space. Even the attached map is covered with numbers, arrows, and times...\nInterestingly, as soon as I started searching for Fang's murderer, a shitload of foreign mercenaries come looking for me. I haven't a fucking clue what's going on, but I appear to have stirred up something... something... something in the back of my mind keeps trying to surface. Anyway, I've made a copy of the documents, just in case, and will show them to Freeman. I feel I've met him before somewhere, and that he knows something that can help me...</text>
 	</string>
 	<string id="freeman_begin">
 		<text>Freeman</text>
 	</string>
 	<string id="freeman_about_klik_text">
-		<text>Through Freeman I've finally learned who ordered Fang's death - that bastard LeHavre. Now I just need to tidy up a loose end. You're a dead man stalking, LeHavre, and your funeral date is in my diary...</text>
+		<text>Through Freeman I've finally learned who ordered Fang's death - that bastard LeHavre. Now I just need to tidy up a loose end. You're a dead man stalking, LeHavre, and I've just written your funeral date in my diary...</text>
 	</string>
 	<string id="ecolog_about_prizrak_text">
-		<text>The Ecologist doesn't believe that Ghost is dead. Under its commission descended behind Ghost diary. The diary, truth, - while the Ecologist understands very bad condition, I descend, I will talk to the Barman</text>
+		<text>The Ecologist doesn't think that Ghost is dead. On his instructions, I went searching for Ghost's PDA. It's barely decipherable so, until the Ecologist can figure it out, I'll go have a talk with the Barkeep</text>
 	</string>
 	<string id="ecolog_talk">
 		<text>Ecologist. First conversation</text>
@@ -53,19 +54,19 @@
 		<text>The search for Ghost</text>
 	</string>
 	<string id="barmen_about_prizrak_text">
-		<text>The Ecologist's suspicion that Ghost was not working alone has been confirmed by the Barkeep, who gave me an obsolete decryption device to take back to him. Maybe we'll finally read Ghost's diary...</text>
+		<text>The Ecologist's suspicion that Ghost was not working alone has been confirmed by the Barkeep, who found a 'lookalike' for Ghost to cover his back if any shit happened, and was with Ghost in the lab. He also gave me an obsolete decryption device to try out. Maybe we'll finally read Ghost's diary...</text>
 	</string>
 	<string id="barmen_talk">
-		<text>Barkeep talks</text>
+		<text>Barkeep conversation</text>
 	</string>
 	<string id="ecolog_about_prizrak2_text">
-		<text>The Ecologist has sent me for new decryption device, saying that we can't go any further without one. We could only decipher a small fragment of the message - 'Yakut'. If it's the Yakut I know, I'll go and talk to him...</text>
+		<text>The Ecologist sent me for new decryption device, as we can't go any further without one. We could only decipher a small fragment of the message - 'Yakut'. If it's the Yakut I know, though, I'll go and talk to him...</text>
 	</string>
 	<string id="ecolog_talk2">
 		<text>Ecologist. Second conversation</text>
 	</string>
 	<string id="yakut_about_prizrak_text">
-		<text>Yakut sent me to the Agroprom underground, but I've not found anything here other than bloodsuckers and a bunch of Bandit shitbags. I'll need to talk to him again...</text>
+		<text>Yakut sent me to the Agroprom underground, but I've not found anything here other than Bloodsuckers and a bunch of Bandit shitbags. I'll need to talk to him again...</text>
 	</string>
 	<string id="yakut_talk">
 		<text>Yakut. First conversation</text>
@@ -77,7 +78,7 @@
 		<text>Yakut. Second conversation</text>
 	</string>
 	<string id="prizrak_about_prizrak_text">
-		<text>As I understand it, Ghost was hunted down by a certain organization or group. Their leader goes by the name of Beast. What kind of man gives himself a name like that? Whatever, I need to pay them a reciprocal visit, and this Beast is about to become extinct...</text>
+		<text>As I understand it, Ghost was hunted down by a certain group or organization. Their leader goes by the name of Beast. What kind of man gives himself a name like that? Whatever, I need to pay them a reciprocal visit. This Beast is about to become extinct...</text>
 	</string>
 	<string id="prizrak_talk">
 		<text>Ghost. First conversation</text>
@@ -89,13 +90,14 @@
 		<text>Ghost. Second conversation</text>
 	</string>
 	<string id="sysh_about_prizrak_text">
-		<text>I do not know, whether I can convey it any other way. Though, my literary trash, you, most likely, will see, when I will leave... Dead to shame not imut... You should know everything, it is last payment on my debts...\nThat fight in Rusty Wood is not that you think, we waited for you. Expensive murder... to Whom you have passed road, Ghost? The equipment and a legend were adjusted by the customer: nauchniki come back from the task, two are wounded, temporary camp. Ecologists ask the help, here even I would want to help... But I had a role. From fifty metres to get to the illuminated purpose...\nYou will not believe, the controller has rescued you. And you have unrolled the saviour, such here irony... it has deduced The dogs on me and has thrown, and itself has grasped guys at a fire...\nThis Swiss silly woman was good for distances, and from flight of dogs only and to wave away, as an oar. Have torn me while drove. To a fire has stolen up, blood whips, I already a round dance start to drive the buddy. I have put them... And then 'the white haze' has rolled, the controller... You after all has got me could me the first, and it after. But did not become, though I then have wounded you... that Controller to me too have done an ill turn, have dropped a muzzle in a fire, now nobody learns...\nI that night as anew was born. After 'a white haze' all in another way, believe. Looked, how you bury my guys, a loot without taking... All thought, and I could so? And, while you to the Doctor dragged me, all life have touched, a little there the good. One pus. For the sake of what veins? Neither families, nor friends. The contract behind the contract...\nFor all that time that at the Doctor rested, you and have not talked to hour to me. Guessed, is not present? I all sleeping pretended to be, there were no forces in eyes to look. It is good that you have left earlier. And when I absolutely on feet have risen, the Doctor to me one thing has told: to you, Owls, the Zone life has presented, and for what, it you solve...\nI then searched for death, yes only death washing with the party went, as disdained... On Arena week have spent, to Bestiaries, and here to shoot - at people the hand did not rise. The young growth to me was pulled, Palyonyj, say, the second pair of eyes on a nape has grown, with it will not be gone. Group of rookies drove, taught some good sense... Knew that while debts I will not return, the Zone will not release me.\nAnd when children have risen, who on credit who to the Mole has left, remained I one. Began to search for your customer that advance payment and the penalty to return... Has found yet, let the earth to it will be down. Here, since that day, the fear to me also has returned... Soon we go to spot-check, has received from Arhary the offer... Perhaps there we will meet. Shakes everything, but again the live I feel. Whether for a long time...\nWell, Brother!! It is necessary - to find the most difficult you and to tell all...</text>
+		<text>My dear Owl. Please forgive me, but if you're reading this I'm probably dead. There is no shame in death, my friend. I want to tell you everything, and this will be the final payment of my debts\nThat fight at the Army Warehouses is not what you think. We were waiting for you, but a hit squad was waiting for us! Whomever Ghost crossed, the equipment and weapons used against us must have come from someone who really wanted him dead... The Ecologists had just returned, two of them wounded, and they'd set up a temporary camp. I was waiting, about fifty metres from them, when they called to me for help. Near the Red Forest! But it was my job, and I couldn't refuse...\nJust as I stood up, someone took a shot at Ghost from God knows where and, at the exact same moment, a Controller appeared behind us! Maybe the shot confused it, because as Ghost went down, it ignored me and went straight for for the Ecologists! The Controller hurled them all into their campfire, while a pack of blind dogs started to attack me!\nThere was an old woman dressed in red in the distance, well away from the dogs, and she was waving to me! It was so surreal, but her waving arm was like a warning flag to me, and pulled me from my panic. I ended up with injuries to my hands, arms and legs, though I managed to drive us to Pripyat. Ghost looked in pretty bad condition, so we stopped and started a camp fire. I'd just laid Ghost down to rest by the fire, when the 'white haze' came out of nowhere... that Controller had followed us! Fang and I ran in opposite directions and it went after him, so I doubled back and emptied the rest of my mag into it. But by the time I returned to Ghost, the remaining part of his mind had been taken, and our friend lay there lifeless...\nThat night, after 'the white haze', something new was born within me. Something very, very different. After a while the Doctor arrived and dragged me away. He sensed that my body wasn't all that was wounded...\nWe'd given everything for nothing! I'd risked my life for the Zone... for the sake of what? I realized then that every contract has a deeper contract hidden behind it...\nFor all the time that I rested at the Doctor's place, he never once spoke to me. Sometimes he went away, never telling me where. I'd pretend to be asleep, but in reality there was no energy left behind my eyes...\n
+		A few days later I was able to sit up, and the Doctor asked me just one thing. Why did the Zone present itself to me? Why me, and for what? What did it need me to do? What does it want resolved? I couldn't give him answers, because the answers had left me. He told me he had to leave, but that we would meet again\nAlone, I searched for death within myself, knowing it was there and waiting for it to show itself... When it did not I willed myself to the Arena instead, taking on allcomers, hoping that someone, or something, would do what the Zone could not - turn me to offal, fit only for pigs. But it wasn't to be, and every match made me stronger and sharper. I hung around Rostok for several weeks. Everyone knew that Ghost had gone missing, but not one approached me... I spent some time training rookies, teaching them the ways of the Zone (Ha! one of my favourite students, Palyonyj, said I must have mutated extra eyes in the back of my head!) but each time I potentially saved a life I knew that, while I was still in debt, the Zone would never release me...\nLater I met Mole, but he left for the Cordon. I remained alone, and began to search for the one who'd ordered the hit on Ghost. I talked discretely to many people, followed leads, went undercover to seek out contracts and remuneration, and tried to figure out the payment I should make in return. I have yet to find it! Worse still, since that day in Pripyat, the old fear has returned, and I no longer know how to face it...\nSoon I will go to check out something. I have received an offer from Arhara... Maybe I will go to meet him...\nI'm sorry, my friend. It is so difficult, but so necessary, to tell you all this...\nYour friend through everything, Strelok</text>
 	</string>
 	<string id="sysh_talk">
-		<text>Owl's note for Ghost</text>
+		<text>Ghost's note to Owl</text>
 	</string>
 	<string id="voen_about_group_text">
-		<text>I remained one, the task is ruined... These records - the only thing that keeps my person from the further disintegration... Memory - as a sieve, but, writing down and re-reading these lines, I hope to be kept in consciousness and to reach the. The main thing - to reach, and there, under gipnodoprosom, I will tell all. I hope... Usual mission of a convoy as it is told in the introduction. 'Working off of operations in the conditions of variable intensity of psi-fields, testing of a hardware-pharmaceutical complex of mental protection', Th there still... Harmoniously sing nauchniki... Though, on bearing it was visible, two from them obviously our, army... That there was required to them, I do not know... Possibly, have not cleaned behind myself last time... Knowingly speak, the loony with a machine gun not so is dangerous, as any idealist in points and a white dressing gown... Went in strange rate, frequent stops... For gaugings as they spoke... the Schedule of change of intensity of a psi-field have forced to learn by heart... the Helmet heaviest, the head hoots, the neck bends sideways... Here still injectors of these, prick each two hours... However, psi-protection not bad... Have got far, with sight something is created, paints absolutely is not present, all yellow, the zombie gad... Well to us not to get used, have unrolled them... In advanced escort there was a five of the Sarmatian... the Sniper the good. Were... Attack of the controller has coincided with inclusion of radiators... Out of the schedule have joined, to see, someone there manually twists this street organ... it Has grasped them... Me have well put, on a tangent in a head... the Helmet has sustained, and here all electronics - in stuff, and a brain concussion has earned... Has regained consciousness by the evening, in live - one Sarmatian with empty Vintorezom circles round the controller goes... I Have put them, both... And from a brain concussion advantage happens... Our all perished in... Scientists too... their Controller among themselves has pitted... the Second days get out to the, a head is ill, a nausea inside out turns out... in the first-aid set something is necessary, helps on a pair of clocks... Then sit down, remember and write down... Then - again a gloom... In Garbage has met the stalker... Badly remember, it the wounded man like was... Shuganul bandyukov in ruins, to see it it stalker has hooked... Strange any, lay, and then a trunk to swing the beginnings - it has conceived to be shot that-whether? Has given on a neck that did not make a fool... Has left to it the backpack, bandage, a first-aid set part, vodka and all grub - not to meal to me... Have agreed that it when will rest in bed, PDA to ours on a post will carry mine, there the route is noted also a diary copy... I Am afraid, not to reach to me... it is necessary to reach... at any cost... the Sarmatian, forgive...</text>
+		<text>I am the only one left from our group. The mission is a failure... This document is the only thing that keeps my identity alive... My memory fails me constantly, and I need to keep writing down my thoughts and re-reading them. This is the only way that works, and I hope it will keep my mind right until I get there, and tell everyone everything I know - this is the most important thing now...\nIt was a standard escort mission, protecting scientists working north of the Army Warehouses within variable intensity Psi-fields. They were testing a combined hardware-chemical device to protect against a new type of Psi-emitter. Everyone was in a good mood. Even Nauchniki was singing as he walked. I noticed a patrol on the left. What they were doing there I had no idea. There were two of them, obviously military, although the loony with the machine gun looked more dangerous to his buddy. Any idiot can fire a gun - the trick is to put your rounds where they need to go...\nThe spikes in Psi-activity occurred at an unusual rate, frequently stopping, and enabling the Scientists to take measurements. The pattern of the Psi-field intensity forced you to learn it by heart - at its height your helmet becomes heavy, your head twists and your neck bends sideways. Everything looks yellow, and this is when zombification starts. The cycle repeats every two hours... It was one of the scariest jobs I've ever done, knowing that if their Psi-protection failed... But they've come a long way with this experiment, and we were able to stay alert and alive... Well, until we compromised the patrol - and now there were five of them! They suddenly sprang into action... God, their sniper was good! Then a Controller arrived, coinciding with the new Psi-cycle! We hadn't noticed it with our protection on... Then the patrol started firing, and the Controller dominated them... The sniper got me in the head. My helmet was damaged, the electronics went crazy, and I got hit with a mix of concussion and Psi-activity... I saw the sniper with the Vintorez circling around the controller, before I fell to the ground... I watched everyone in our group get killed, including the scientists, then the Controller disappeared...\nI didn't regain any kind of consciousness until the evening, but I couldn't stand up until the next day. My head still pounded, I was full of nausea, but I knew I had to get myself together... I used a medkit, and put on a new bandage. I started to write things down as I remembered them. Then I blacked out again...\nLater on, in the Dump, I met another Stalker. I hardly remember him, since my head was still wounded... He knew I was injured, and gave me a backpack with a bandage, a medkit, half a bottle of vodka and some food. On his insistence, I agreed to find a bed and rest. I will leave my PDA on a post. It will contain a route, and a copy of my diary. I'm afraid. Please do not look for me. I just want to find the Samaritan, and thank him... Ghost</text>
 	</string>
 	<string id="voen_talk">
 		<text>Soldier's note</text>
@@ -104,55 +106,55 @@
 		<text>Search for the missing Scientists</text>
 	</string>
 	<string id="bandranen_about_group_text">
-		<text>Yesterday, as always, we with the buddy ambushed, I pretended to be the wounded man. Was nobody, boringly, have done some shooting local dogs. Vazali on a glass, everything thought already, a regional ohm for today as have suddenly noticed the fighter. This pogonnik lane from the Valley, usually with fighters we try not to communicate, the loot at them with itself is not present, and are armed not bad. But this hardly hobbled. It is visible, has been wounded, wound it fine. At first it went to my party, but then, on visible, has noticed my buddy. A bough, how many time spoke to it, be not put out ahead of time. Here also has received olive in a shoulder, well still, live remained. Lines, it is good them there prepare - I Volyn have not had time to get, and it to me cut. Keep, speaks, the stalker, Nehru to be shot because of a trifle, not time to us to die. Well, I played a role up to the end, have dissolved the sucker on loots, without shooting have managed. It even has given the computer to me, carry, speaks, there, you will tell, the lieutenant such has sent. Aha, search for fools. Not, well as the child directly. I even to it was ashamed to shoot at a back. It has left, I from eaves have hardly pulled down the buddy, have tied up yes on a neck cut. On business, without insults, is for what. Razderbanili we of loots for two, vodka there, canned food. Were not in time... Was, the swine... Looking from a Borov, a bough... Visors PDA Voyakin, half loot of ours and has set in Agroprom. Here to whom I with pleasure in a back fired...</text>
+		<text>Yesterday, as usual, we set up an ambush, with my turn to be the wounded one. I lay down in that fucking road all day, but no one showed up. We'd have been better off just shooting the local dogs. Vmazali just sat there behind a rock, drinking vodka, like everything was normal, but then I noticed a Stalker by the road that leads to the Dark Valley. Usually we avoid Stalkers, and this one didn't appear to have anything of value. He wasn't even armed, for fuck's sake! But he was stumbling a bit and didn't look well. Is he playing us, I thought? No, he was obviously injured. At first I went over to join the others, but then this guy noticed my buddy and waved. We went over to him, and he offered us some bread and a few other things. He didn't seem to want to keep anything - he even gave us his PDA! Well, we thought it was our lucky day... until later on when we found Razderbanili, one of ours. Someone had strung him to a tree by his neck and cut his throat. What was scary was that he still all had his stuff on him, including his PDA... It said he was looking for that bastard, Borov. Well, we didn't want to hang around, so we took his loot and headed for Agroprom...</text>
 	</string>
 	<string id="bandranen_talk">
 		<text>Wounded Bandit's PDA</text>
 	</string>
 	<string id="fraer_about_group_text">
-		<text>RECORD for yesterday. 'Lines, yesterday thumped all the day long. Vodka has early come to an end. Well, I also have gone to a Borov, to occupy from obschaka. And this of a bough has shouted at me. Has told, that I was cleaned a malefice down with. Well, I also have left from base. Has decided to go in Agroprom, what for? And lines knows, thought on road vodka I will get hold. in Garbage has met these two morons. Blah, all Zone knows about this ambush. Happens, suckers fly, well so on that they and suckers. Che from them to take the ten cartridges yes to steam cans. Truth this time it has carried. More precisely, me... These idiots had a backpack with vodka, and zakus. They have warmed up me... I Will go with boys I will thump. I do not love one. The backpack has given to one small dog, there PDA was, has told that on base has carried. Lines, with drunk has not thought, the information interesting can was. All right tomorrow I will find it '. A Marked One: Where I will find this greenhorn? It is necessary to ask only somebody in Garbage. Perhaps who from its constant inhabitants can help me</text>
+		<text>Recording from yesterday... Damn, we boozed all day long, and the vodka ran out pretty quickly. So I went to Borov, to get some more from our stockpile. He told me to fuck off, so I left the base and headed off to Agroprom. I don't remember why... I really needed vodka, so I stopped these two morons with backpacks at the Dump. I had some vodka with them, and noticed they had a nice-looking PDA before they left for the base. Right, tomorrow I'm going to find it. One of the locals is bound to remember them, and where they went...</text>
 	</string>
 	<string id="fraer_talk">
-		<text>Friar's PDA</text>	<!-- Changed 'Fraer' to 'Friar'- Sword2012 - 31 Oct 16-->
+		<text>Friar's PDA</text><!-- Changed 'Fraer' to 'Friar'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="prapor_about_group_text">
-		<text>I just received info from the Duty fighters at Cordon. They've caught this bandit, who insists that it was Friar who gave him the backpack he was carrying. They think it might be of use to me, so I just need to find ten scientific medkits for a fair exchange...</text>	<!-- Changed 'Fraer' to 'Friar'- Sword2012 - 31 Oct 16-->
+		<text>I just received info from the Duty fighters at Cordon. They've caught this bandit, who insists that it was Friar who gave him the backpack he was carrying. They think it might be of use to me, so I just need to find ten Scientific medkits for a fair exchange...</text><!-- Changed 'Fraer' to 'Friar'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="prapor_talk">
 		<text>First conversation with Prapor</text>
 	</string>
 	<string id="prapor_about_group2_text">
-		<text>Has brought an ensign in 1910 first-aid sets scientific. It has given to me PDA. Yes, 10 Zhovten'ka for the broken device. I will go to the Barman that-whether I descend, will find can whom who can repair to me it</text>
+		<text>I brought Prapor the ten Scientific medkits. In exchange he gave me a broken PDA. Great... Now I need to see the Barman. Maybe he'll know if someone can fix it...</text>
 	</string>
 	<string id="prapor_talk2">
 		<text>Second conversation with Prapor</text>
 	</string>
 	<string id="barrem_about_group_text">
-		<text>At all I do not know what to write. On favour Rabotnichki the Barman has lost a unique thread. It is the end?</text>
+		<text>I don't know what to write... The trail has gone cold... Is this the end for me, too?</text>
 	</string>
 	<string id="barrem_talk">
 		<text>Conversation with the Barkeep</text>
 	</string>
 	<string id="ara_about_group_text">
-		<text>Was on Rostok, communicated with Gray. He to me has told interesting things. It appears, it and its children grazed scientists to the Radar, is more true to Red wood. Further to go were afraid. Burner could join at any moment, have settled in Warehouses, have waited three days. But scientists and have not returned. The next group of condemned men. Yes, these scientists obviously are not on friendly terms with a head. Hoped to pass there where it was possible to nobody</text>
+		<text>When I was in Rostok, I spoke with Gray. He told me many things of interest, including the fact that he and his group were working with the scientists at Radar and the Red Forest, but were afraid to go further. The Brain Scorcher was close by, so they settled in the Army Warehouses to wait for the scientists, but after three days they gave up and left. He reckons that those eggheads, who'd decided to research a place from which nobody has ever returned, had clearly not thought it through...</text>
 	</string>
 	<string id="ara_talk">
 		<text>Flash drive belonging to the mercenary Ara</text>
 	</string>
 	<string id="siv_about_group_text">
-		<text>Record for. Number: Our person at scientists has told that any group goes to expedition. Where, has not informed, so we have sat down on Rostock near to the tunnel. We waited for them not for long, by the evening there was an advance party of fighters, and behind it the basic group was tightened. Jean suggested to attack, a place Good, narrow, convenient for us. But, having estimated their our forces, there fighters the person 15-20 was not less us all five, has allowed a command to follow them. We pursued them to the Most red wood, but further... There was no sense to go Further. Emission, and Vyzhigatel nearby soon should begin. Have decided to return on Militari and to wait for them there, hope truth that they will return, at me almost was not. I not at any price there have not gone, to me the head is more expensive. But these scientists... Something there very important for them. Have waited emission, on Military have waited still couple of days and have decided to return. Especially, Jean and one more was hit by stalkers. Jean - the cretin hot, does not like to wait, took yes Rushed on parking of stalkers. Has filled up a two, and the third, dexterous, bitch, it has appeared, valnul and Jean and the second (as him called? Fedot it seems). I and so some days have killed on this damn group of scientists did not begin to understand</text>
+		<text>Our scientists told us of a group that were on an expedition. We weren't informed exactly where, so we camped in Rostok near the tunnel. We didn't have to wait long, because they showed up by the evening. Jean suggested attacking them there and then, since it was dark and they'd be tired. The location in our favour, too - narrow and open. But they had fifteen to twenty people and we had only five, so we followed them to the Red Forest. Then we got news of an emission, and the Brain Scorcher was nearby, so we hot-tailed it to the Army Warehouses and waited for them there, hoping they'd return soon\nIt became obvious that there was something really important for these scientists there. We waited a couple of days at the Army Warehouses, then went looking for them again. As soon as we found them, just pottering around, Jean decided to rush in and shot a couple of them, but a third one he hadn't spotted took him down with a single burst...</text>
 	</string>
 	<string id="siv_talk">
 		<text>Flash drive belonging to the mercenary Gray</text>
 	</string>
 	<string id="sah_about_group_text">
-		<text>Sakharov has told to me about expedition of scientists on Vyzhigatel. He assumes that all of them were lost. Well, it is necessary to check up most</text>
+		<text>Sakharov told me about the scientists' expedition to Radar. He believes that they all died. I need to check this out...</text>
 	</string>
 	<string id="sah_talk">
 		<text>Conversation with Sakharov</text>
 	</string>
 	<string id="ucen_about_group_text">
-		<text>It there was a heavy conversation. I see death every day, but it is always heavy to come face to face with death so close. You still will take away skolkih people, the ZONE?</text>
+		<text>This was a heavy conversation. I'm used to seeing death every day, but seldom this close. How many good people will the Zone continue to take?</text>
 	</string>
 	<string id="ucen_talk">
 		<text>Conversation with the wounded scientist</text>
@@ -176,28 +178,28 @@
 		<text>Clear Sky</text>
 	</string>
 	<string id="text_arc_dyak_help_need">
-		<text>Clerik, the commander of the Clear Sky fighters at the entrance from Cordon, has asked for help to release their scout from the clutches of the Bandits settled around the abandoned church</text>	<!-- Changed 'Clerk' to 'Clerik'- Sword2012-->
+		<text>Clerik, the commander of the Clear Sky fighters at the entrance from Cordon, has asked for help to free their scout from the Bandits at the abandoned church</text>	<!-- Changed 'Clerk' to 'Clerik'- Sword2012-->
 	</string>
 	<string id="box_kalmyak_name">
 		<text>Box of Kalmyak's possessions</text>
 	</string>
 	<string id="box_kalmyak_desc">
-		<text>Heavy steel box</text>	<!-- Removed 'of Kalmyak's possessions'- Sword2012 - 11 Dec 16 -->
+		<text>Heavy steel box</text><!-- Removed 'of Kalmyak's possessions'- Sword2012 - 11 Dec 16 -->
 	</string>
 	<string id="maz">
 		<text>Kalmyak's ointment</text>
 	</string>
 	<string id="maz_desc">
-		<text>Kalmyak's ointment. Neutralizes radiation in a wound, and stimulates healing</text>
+		<text>Kalmyak's ointment. Neutralizes the radiation in a wound, and stimulates healing</text>
 	</string>
 	<string id="text_arc_kalmyak_need">
-		<text>Kalmyak asked me to find his old backpack, and bring him the container inside. The problem is that a Teleport anomaly has since formed near it...</text>
+		<text>Kalmyak asked me to find his old backpack, and bring him the container inside. The problem is that a Teleport anomaly has formed near it...</text>
 	</string>
 	<string id="text_arc_marsh_remont">
-		<text>Vasily, the repairman at the Clear Sky base, is in too much pain to fix anything. His foot has swelled up, and he requires some of Kalmyak's ointment. However, it can only be obtained from Kalmyak himself...</text>
+		<text>Vasily, the repairman at the Clear Sky base, is in too much pain to repair anything. His foot has swelled up badly, and he needs some of Kalmyak's ointment. However, it can only be obtained from Kalmyak himself...</text>
 	</string>
 	<string id="text_arc_dyak_maz">
-		<text>Clerik can give you three tins of Kalmyak's ointment, but requests a 'Soul' artefact in exchange</text>	<!-- Changed 'Clerk' to 'Clerik'- Sword2012-->
+		<text>Clerik can give you three tins of Kalmyak's ointment, but requests a 'Soul' artefact in exchange</text><!-- Changed 'Clerk' to 'Clerik' - Sword2012-->
 	</string>
 	<string id="red_mozg">
 		<text>Controller's brain</text>
@@ -215,13 +217,13 @@
 		<text>Red Burer hand</text>
 	</string>
 	<string id="mutant_burer_red_hand_description">
-		<text>A red Burer hand. A unique and rare item...</text>
+		<text>A red Burer hand. A rare item indeed...</text>
 	</string>
 	<string id="text_arc_controller_hutor">
-		<text>According to Sviblov, unusual variations of mutants have been sighted recently. One of these is a Controller on a farm in the North West, not far from the railway junctions. He asks you to bring him the brain of this Controller for research into the phenomenon...</text>
+		<text>According to Sviblov, unusual mutant variations have been sighted recently. One of these is a Controller on a farm in the north-west, not far from the railway junctions. He asks you to bring him the brain of this Controller for research into the phenomenon...</text>
 	</string>
 	<string id="text_arc_sveeblov_ferma">
-		<text>Sviblov wants to organize spot checks on all large mutants, and needs a powerful weapon for this task. He asks you to steal a PKM machine gun from the Bandits camped on an abandoned farm. However, he doesn't want to provoke an needless war with the Bandit faction, so asks you to go about this job as discreetly as possible without bloodshed. Before you go, however, you need to talk with the Clear Sky scout called Kashcheev...</text>
+		<text>Sviblov wants to organize spot checks on all large mutants, and needs a powerful weapon for this task. He asks you to steal a PKM machine gun from the Bandits camped on an abandoned farm. However, he doesn't want to provoke an endless and probably needless war with the Bandit faction, so asks you to do this job as an outsider, as discreetly as possible and without bloodshed. Before you go, however, you need to talk with Kashcheev, the Clear Sky scout near there...</text>
 	</string>
 	<string id="mono_dead_doc_name">
 		<text>Documents on the corpse of the Monolithian</text>
@@ -233,7 +235,7 @@
 		<text>TV</text>
 	</string>
 	<string id="televizor_desc">
-		<text>Television set. Old valve model, but still works better than a generic Chinese one...</text>
+		<text>Television set. Old valve model, but more reliable than a generic new one...</text>
 	</string>
 	<string id="mono_note_name">
 		<text>Notebook of the Monolithian</text>
@@ -245,7 +247,7 @@
 		<text>Cat is concerned about the presence of Monolithians in the Swamp. He's asked you to find two of them who've been sighted in the area, and obtain information from them in any way necessary. These Monolithians won't be easy to find, and you'd be advised to ask around the base for info on their last whereabouts...</text>
 	</string>
 	<string id="text_arc_need_televizor">
-		<text>Chiston can help you find the Monolithians, but in return he'd like you to find him a television set</text>
+		<text>Chiston can help you find the Monolithians, but in return he'd like you to find him a TV set. Does he think he's going to get a decent signal here?</text>
 	</string>
 	<string id="wpn_awm_new">
 		<text>Modified 'Iglomet' dart gun</text>
@@ -260,10 +262,10 @@
 		<text>A.50 calibre ballistic syringe containing a tiny tracking device in liquid suspension. The hypodermic needle falls away after impacting the skin, leaving the device deeply inside the body of the target</text>
 	</string>
 	<string id="text_arc_gigant_red">
-		<text>According to Holodova, a unique Red Pseudogiant has been spotted at Agroprom. He asks you to find this animal, and 'tag' it with a modified Iglomet that shoots tracking darts. On no account must you kill it! Just tag it and report back to him. He'll organize others to capture it...</text>
+		<text>According to Cold, a unique Red Pseudogiant has been spotted at Agroprom. He asks you to find this animal, and 'tag' it with a modified Iglomet that shoots tracking darts. On no account must you kill it! Just tag it and report back to him. He'll organize others to capture it...</text><!-- Changed 'Holodova' to 'Cold' - Sword2012-->
 	</string>
 	<string id="pda_francuz_desc">
-		<text>PDA belonging to the Frenchman. Standard PDA carried by many Stalkers</text>
+		<text>PDA belonging to the Frenchman. Standard PDA carried by many Stalkers, but with a lot more interesting information...</text>
 	</string>
 	<string id="pda_francuz">
 		<text>The Frenchman's PDA</text>
@@ -281,10 +283,10 @@
 		<text>Borman has asked you to find the signal jammer that's currently intercepting and suppressing Freedom's radio signals, and take it to Miser to have it recoded. Then position it back where you found it, thus restoring Freedom's safe transmission channels and allowing them to intercept Monolith ones. The jammer is expected to be on or near the top of a tall building</text>
 	</string>
 	<string id="lekar_kalmyak_desc">
-		<text>%c[255,255,255,255]Radiation %c[255,255,1,1]+80\n%c[default]Medicine for Kalmyak. Using a recipe from his grandmother, this home-made antidote is highly effective in removing radiation from the human body</text>
+		<text>%c[255,255,255,255]Radiation %c[255,255,1,1]+80\n%c[default]Medicine for Kalmyak. Using a recipe he learned from his grandmother, this improved home-made antidote is highly effective in removing radiation from the human body</text>
 	</string>
 	<string id="text_arc_xalyava_nebo">
-		<text>Sviblov asks you to witness a transaction between Freebie and a group of mercenaries at an abandoned farm in Cordon. Under no circumstances must you be spotted, or the mercs will cover their tracks - and we need that traitor Freebie alive...</text>
+		<text>Sviblov has asked you to witness a transaction between Freebie and a group of mercenaries at an abandoned farm in Cordon. Under no circumstances must you be spotted, or the Mercs will cover their tracks - and we need that traitor Freebie alive...</text>
 	</string>
 	<string id="text_arc_kot_agro_mono">
 		<text>According to Cat, there's a group of Monolithians at Agroprom. He wants me to find out as much as I can from them...</text>
@@ -293,42 +295,42 @@
 		<text>Sviblov's case</text>
 	</string>
 	<string id="case_nebo_desc">
-		<text>%c[255,255,255,255]Radiation %c[255,255,1,1]+30\n%c[default]Sviblov's case. In a case what that flasks though the case also protects from radiation, fonit from a case God grant</text>
+		<text>%c[255,255,255,255]Radiation %c[255,255,1,1]+30\n%c[default]Sviblov's case. A radiation and shock-proof case protecting the flasks inside, and the carrier from its contents...</text>
 	</string>
 	<string id="text_arc_brat_luis">
-		<text>According to Zahar, on the basis of Avengers from the Swamps, just now to be Brother Louis, one of heads of avengers, it is necessary to learn from him where to be the Frenchman</text>
+		<text>Zahar tells me that Brother Louis, one of leaders of the 'Avengers' from the Swamps, is looking for the Frenchman. So I need to find him first...</text>
 	</string>
 	<string id="text_arc_francuz_start">
-		<text>Frenchman hidden in warehouses, on the basis of freedom from avengers, it is necessary to hurry, while it was got by avengers</text>
+		<text>The dealer known as 'The Frenchman' has sought refuge at the Freedom base. I need to hurry before the 'Avengers' find him...</text>
 	</string>
 	<string id="text_arc_kot_find_rabi">
-		<text>Dealer Rabinovich, unique clue to understand that has conceived a monolith. Cat sends you to the Miser, as he said, they had any common causes</text>
+		<text>If the Monolith are building something, the dealer Rabinovich will know. Zahar advises you to talk with Miser, as he knows they've done business together recently</text>
 	</string>
 	<string id="nebo_clear">
 		<text>Anomaly Annihilator</text>
 	</string>
 	<string id="anigilator_anomal_zones">
-		<text>Anomaly Annihilator. Intended for the destruction of anomalies, including Teleports. Instructions for use: Throw it into the anomaly...</text>
+		<text>Anomaly Annihilator. Designed to collapse and dissipate the energies of an anomaly, including Teleports. Instructions for use: Throw it into the center of the anomaly...</text>
 	</string>
 	<string id="text_arc_nebo_kurier">
-		<text>Sviblov has asked you to find the missing courier from Radar. The courier went on Yantar, so it would make sense to start near the Brain Scorcher...</text>
+		<text>Sviblov has asked you to find the missing courier from Radar. The courier was on his way to Yantar, so it would make sense to start near the Brain Scorcher...</text>
 	</string>
 	<string id="price_upgr_marsh_remont_text">
-		<text>List of upgrades for Vasily's suits:\n \n1. Adding night vision to the following suits (grouping Clear Sky exoskeleton, Clear Sky scientific suit, Monolith black suit):\n-PNV 'Green' - 10,000 Ru;\n-PNV 'Digital' - 25,000 Ru;\n-PNV 'Sepia' - 15,000 Ru;\n-PNV 'Halogen' - 20,000 Ru;\n-PNV 'Cat's eye' - 30,000 Ru;\n-PNV 'Psi effect' - 25,000 Ru;\n-PNV 'Moonlight' - 25,000 Ru;\n-PNV 'White night' - 30,000 Ru;\n \n2</text>
+		<text>List of upgrades for Vasily's suits:\n \n1. Adding night vision to the following suits (Classification: Clear Sky exoskeleton, Clear Sky scientific suit, Monolith black suit):\n-PNV 'Green' - 10,000 Ru;\n-PNV 'Digital' - 25,000 Ru;\n-PNV 'Sepia' - 15,000 Ru;\n-PNV 'Halogen' - 20,000 Ru;\n-PNV 'Cat's eye' - 30,000 Ru;\n-PNV 'Psi effect' - 25,000 Ru;\n-PNV 'Moonlight' - 25,000 Ru;\n-PNV 'White night' - 30,000 Ru;\n \n2</text>
 	</string>
 	<string id="text_arc_shadowman_zver">
-		<text>Shadowman has asked me to help the Stalkers at the tower camp outside the Red Forest to fend off a mutant wave. They're not prepared for this, and will be torn to shreds. He's left a Winchester shotgun and cartridges in a bag on the second floor, in case of such an emergency. If I can save even one Stalker, my efforts won't have been in vain...</text>
+		<text>Shadows has asked me to help the Stalkers at the tower camp outside the Red Forest to fend off a mutant wave. They're not prepared for this, and will be ripped to shreds. He's left a Winchester shotgun and cartridges in a bag on the second floor, in case of such an emergency. If I can save even one Stalker, my efforts won't have been in vain...</text><!-- Changed 'Shadowman' to 'Shadows' - Sword2012-->
 	</string>
 	<string id="text_arc_shadowman_forest">
-		<text>Shadowman requests help to defend the Stalkers against the mercenaries at the Limansk bridge</text>
+		<text>Shadows has requested help to defend the Stalkers against the mercenaries at the Limansk bridge</text><!-- Changed 'Shadowman' to 'Shadows' - Sword2012-->
 	</string>
 	<string id="price_grib_marsh_xolod_text">
-		<text>For three mushrooms, Cold will give:\n-Five boxes of 7.62x25 mm for the machine pistol PPSH-41;\n-Three boxes of 7.92x57 for the Maschinengewehr 42 (MG-42) machine gun;\n-Three Army medkits;\n-Three Antirads;\n-Four boxes of 5.45x39mm;\n-Four boxes of 5.56x45mm SS109;\n-Three boxes of 9x39mm PAB-9;</text>
+		<text>For three mushrooms, Cold will give:\n-Five boxes of 7.62x25 mm for the machine pistol PPSH-41;\n-Three boxes of 7.92x57 for the Maschinengewehr 42 (MG-42) machine gun;\n-Three Army medkits;\n-Three Antirads;\n-Four boxes of 5.45x39mm;\n-Four boxes of 5.56x45mm SS109;\n-Three boxes of 9x39mm PAB-9</text>
 	</string>
 	<string id="text_arc_klyak_forest_doc">
 		<text>Fang has asked me to retrieve a set of documents from the hunters in the Red Forest</text>
 	</string>
 	<string id="text_arc_denis_wound">
-		<text>Fang has urged you to find his comrade Denis, who went to the Red Forest to check out a stash in the old abandoned mine. That was two days ago, and there's been no contact from him. Please find Denis, and help him bring back what's in the stash</text>
+		<text>Fang has urged you to find his friend Denis, who went to the Red Forest alone to check out a stash in the abandoned mine. That was two days ago, and there's been no word from him. Please find Denis, and help him bring back what he found...</text>
 	</string>
 </string_table>

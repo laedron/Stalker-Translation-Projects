@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="windows-1251" ?>
-<!-- TB3D 1.1.0.0.0.4 -->
+<!-- TB3D 1.1.0.0.1.1 -->
 <!-- AMK Dialogs -->
 <!-- Added dialogue with the Informant(Snitch) about recipes - aleks1970 -->
+<!-- 05.02.2017 Reformatted Snitch receipt info dialogues - aleks1970 -->
 	<!-- Dialogue with the Culinary Specialist -->
 <!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 07 Oct 16 -->
 <!-- Corrected many generic punctuation, in-game and US/UK spelling errors - Sword2012 - 12 Dec 16 -->
@@ -36,7 +37,7 @@
 		<text>Can you tell me about him?</text>
 	</string>
 	<string id="artem_kulinar_10">
-		<text>Do you know what the most comfortable creature is in the Zone?\nRavens. They have no natural predators here, and if they have one survival skill amongst them it's knowing where and when death is going to strike next. They just fly around safely, just waiting for fresh dead meat. That's how Vitek got his nickname, Raven. He makes his living from the deaths of rookies in the Garbage...</text>
+		<text>Do you know what the most comfortable creature is in the Zone?\nRavens. They have no natural predators here, and if they have one survival skill amongst them it's knowing where and when death is going to strike next. They just fly around safely, just waiting for fresh dead meat. That's how Vitek got his nickname, Raven. He makes his living from the dying. All those rookies in the Dump...</text>
 	</string>
 	<string id="artem_kulinar_11">
 		<text>I see. Thanks for telling me about this 'Raven'</text>
@@ -67,6 +68,12 @@
 		<text>That's fine with me. Let's get down to business. What do you have?</text>
 	</string>
 	<!-- Dialogue with the Informant Snitch about recipes start -->
+	<string id="informer_recipt1">
+		<text>Holy shit! Did your calculator add some extra zeroes to that price? It had better be worth it. Here, take your money...</text>
+	</string>
+	<string id="informer_recipt2">
+		<text>Whew, that's more than I was expecting... Okay, I'll give it a try...</text>
+	</string>
 	<string id="dialog_amk_00_recipt">
 		<text>May I ask a question?</text>  <!-- !!!!TB3D 134 -->
 	</string>
@@ -92,22 +99,22 @@
 		<text>Good choice...</text>  <!-- !!!!TB3D 134 -->
 	</string>
 	<string id="dialog_amk_08_recipt">
-		  <text>I hope so</text>  <!-- !!!!TB3D 134 -->
+		  <text>I'm hoping so...</text>  <!-- !!!!TB3D 134 -->
 	</string>
 	<string id="dialog_amk_01_recipt">
-		<text>What are you looking for?</text>  <!-- !!!!TB3D 134 -->
+		<text>What do you need?</text>  <!-- !!!!TB3D 134 -->
 	</string>
 	<string id="dialog_amk_10_recipt">
-		<text>Do you have any other Recipes?</text> <!-- !!!!TB3D 134 -->
+		<text>Do you have any Recipes?</text> <!-- !!!!TB3D 134 -->
 	</string>
 	<string id="dialog_amk_12_recipt">
-		<text>No, I've nothing else at the moment</text> <!-- !!!!TB3D 134 -->
+		<text>Sorry, nothing at the moment...</text> <!-- !!!!TB3D 134 -->
 	</string>
 	<string id="dialog_amk_11_recipt">
-		<text>So, 30,000 roubles. Agreed?</text> <!-- !!!!TB3D 134 -->
+		<text>Yes I do, at 30,000 roubles each. Agreed?</text> <!-- !!!!TB3D 134 -->
 	</string>
 	<string id="dialog_amk_142_recipt">
-		<text>That's rather expensive...</text> <!-- !!!!TB3D 134 -->
+		<text>That's a little pricey for me right now...</text> <!-- !!!!TB3D 134 -->
 	</string>
 	<string id="dialog_amk_15_recipt">
 		<text>I've transferred the data to your PDA...</text> <!-- !!!!TB3D 134 -->
@@ -116,16 +123,19 @@
 		<text>Excellent</text> <!-- !!!!TB3D 134 -->
 	</string>
 	<string id="dialog_amk_12_18_recipt">
+		<text>Yes, for the standard 30,000 roubles</text> <!-- !!!!TB3D 134 -->
+	</string>
+	<string id="dialog_amk_12_181_recipt">
 		<text>Okay, here's your money. 30,000 roubles</text> <!-- !!!!TB3D 134 -->
 	</string>
 	<string id="dialog_amk_12_19_recipt">
-		<text>That's a little pricey for me right now...</text> <!-- !!!!TB3D 134 -->
+		<text>Do you have any Recipes for absolute artefacts?...</text> <!-- !!!!TB3D 134 -->
 	</string>
 	<string id="dialog_amk_12_20_recipt">
-		<text>Dig deeper in your pockets. 30,000 is quite normal, especially for non-exclusivity... Do you want the Recipe or not?</text> <!-- !!!!TB3D 134 -->
+		<text>Yes I do. 30,000 roubles for a Sphere recipe. Okay?</text> <!-- !!!!TB3D 134 -->
 	</string>
 	<string id="dialog_amk_12_21_recipt">
-		<text>Lost data?</text> <!-- !!!!TB3D 134 -->
+		<text>Okay. I agree...</text> <!-- !!!!TB3D 134 -->
 	</string>
 	<string id="dialog_amk_12_22_recipt">
 		<text>Do you have any other Recipes?</text> <!-- !!!!TB3D 134 -->
