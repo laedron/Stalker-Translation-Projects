@@ -1,38 +1,48 @@
 SOM (Standalone Modifkation): Tecnobacon Stalkersoup v1.10010
 Übersetzung English -> Detusch
 
-XML Dateien 100%: (Diese Dateien sind 100% Deutsch, Es kann aber sein
-das es noch nicht so wirklich die Qualität widerspiegelt. Das Kommt
-später wenn ich das Spiel -richtig- spiele)
+
+
+
 //=============================================================================================//
+XML Dateien 100%
+Diese Dateien sind 100% Deutsch, Es kann aber sein das es noch nicht so wirklich die Qualität
+widerspiegelt. Das Kommt später wenn ich das Spiel -richtig- spiele oder wenn es feedback
+gibt.
+
 - amk_escape_dialogs
 - amk_flame_dialogs
 - amk_reload_dialogs
 - amk_strings
 - arc_string_table
-- arsenal_mod			<- (Waffen: Details für Optionalen Zusätze fehlen)*
-- davros_items			<- (Waffen: Details für Optionalen Zusätze fehlen)*
+- arsenal_mod			<- (Waffen Todo: Details)**
+- davros_items			<- (Waffen Todo: Details)**
 - dmx_mod_dialogs
 - dmx_mod_encyclopedia
 - dmx_mod_items
+- dmx_mod_weapons		<- (Waffen Todo: Details)**
 - ui_st_inventory
 - ui_st_keybinding
 
-*Für welches Zielfernohr Genau, Welcher Granaten Typ genau, Welcher Schalldämpfer genau?
-Bisher sthet da nur z.b "Schaldämpfer" .. fertig.. Bei der Flut an Zusätzen fehlt die
-Geauigkeit.
+**
+- Für welches Zielfernohr Genau (Welche Stärke?)
+- Welcher Granaten Typ genau
+- Welcher Schalldämpfer genau?
+Bei der Flut an Waffen und Zusätzen fehlt die Genauigkeit.
+
+
 		//=================================================================================//
 
 		XML Dateien, Fast Fertig oder in Arbeit:
+		- meceniy_st_dialogs.xml (Aktuell)
 		- aem_strings
 		- ui_st_pda
 		- tb3d_dialogs_arhara_start
 		- stable_dialogs_escape
-		- dmx_mod_weapons (95%)
-		  string_table_enc_ald_weapons (1%)
-		  kontroller_diaries (~30%)
-		  tb3d_dialogs_arhara_start (5%)
-		  ui_st_pda (50%)
+		- string_table_enc_ald_weapons (1%)
+		- kontroller_diaries (~30%)
+		- tb3d_dialogs_arhara_start (5%)
+		- ui_st_pda (50%)
 
 		//=================================================================================//
 		Sonstige Änderungen
@@ -41,6 +51,7 @@ Geauigkeit.
 			  Icon hatte falsche Position Angabe= x:31, y:2, zeigte die Hälfte vom Brecheisen.
 		      Neues Icon Eingef𧴮 Neue Positions Angabe= x:47, Y:45
 		  
+		
 		//=================================================================================//
 		Waffen Offset Korrekturen (Kimme und Korn)
 			config\weapons\dmx_mod\*.ltx (Verschidene angepasst)
@@ -52,21 +63,15 @@ Geauigkeit.
 			config\weapons\dmx_mod\w_gaussspas12.ltx
 			Recoil Geschwindigkeit verringert, (sieht unmögllich aus), Position/Zoom angepasst
 
-			
+		* Minimale Details "die dre rede nicht wert sind" für die geänderten Waffen finden
+		sich in den Configs selber
+		
+		
 		//=================================================================================//
 		Munition:
-		Die Munition in Stalkersoup ist total durcheinander und stimmt zum teil nicht
-		mit der  Beschreibung überein. Ich werde also gleichzeitig anfangen die Munitionstypen
-		zuzuordnen. Ein Kalbier 16x70 kann nicht in eine Flinte mit Kaliber 12x76.. 
-		logisch oder. Geändert (*.ltx)
-		16x70mm 
-		..\weapons\dmx_mod\w_bm16_full
-		..\weapons\dmx_mod\w_remington870
-		..\weapons\dmx_mod\w_wincheaster1200
-		..\weapons\w_bm16
-		12x76mm 
-		..\weapons\ald_mod\w_vepr12
-		
+		Die Munition in Stalkersoup ist mehr oder weniger durcheinander und stimmt zum teil nicht
+		mit der Beschreibung überein. Ich werde also gleichzeitig anfangen die Munitionstypen
+		zuzuordnen. 
 		
 		//=================================================================================//
 		Texturen (Übersetzte Docs und Karten)
@@ -89,7 +94,6 @@ Geauigkeit.
 		textures\wpn\wpn_mpk						(Hd Texture, Eigene und Teilsweise von CS 
 													Mire, Danke)
 
-
 		//=================================================================================//
 		Sound:
 		Nano Anzug: sounds\meceniy\outfit\*.ogg (Ins deutsche gebracht, bin mit dem Result nicht ganz zufriden)
@@ -106,6 +110,15 @@ Geauigkeit.
 		Soul Cube
 		Sound Verbessert und weitere hinzugefügt (Aktivierung, Versuchtes Entziehen und man hört nun ein "" )
 		Dazu das Script bind_soul_cube.script angepasst und minimal was hinzugefügt.
+		Den Text mit der "Lament Konfiguration des Spielzeugmachers" nicht übernommen.
+		Der Soul Cube hat nichts mit Hell Raiser zu tun ;)
+		
+		//=================================================================================//
+		Neuer Schriftsatz:
+		Der die Lesbarkeit von gegliederten Texten in der Beschreibung verbessert.
+		Dieser Liegt in ..\Texture\fonts\ui_font_letter_16_1600_west.dds.
+		Die Config dazu in ..\Gamedata\Config\fonts.ltx.
+					
 //=============================================================================================//
 
 
