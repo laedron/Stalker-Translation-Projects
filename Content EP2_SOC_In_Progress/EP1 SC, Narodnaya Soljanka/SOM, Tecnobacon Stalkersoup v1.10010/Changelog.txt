@@ -119,7 +119,13 @@ Bei der Flut an Waffen und Zusätzen fehlt die Genauigkeit.
 		Der die Lesbarkeit von gegliederten Texten in der Beschreibung verbessert.
 		Dieser Liegt in ..\Texture\fonts\ui_font_letter_16_1600_west.dds.
 		Die Config dazu in ..\Gamedata\Config\fonts.ltx.
-					
+		
+		Einen weiteren Schriftsatz für die Enziklpädie. Texte werden gegliedert und mehr 
+		Zentriert angezeigt. ..\Texture\fonts\ui_font_arial_14_1600_west.dds.
+		
+		Wichtig: Die Schritsätze funktionieren erst ab eine Auflösung von 1600+
+		Sollte bedarf für eine Auflösung unter HD bestehen kann ich diese erstellen.
+		
 //=============================================================================================//
 
 

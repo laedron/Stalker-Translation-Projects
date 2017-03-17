@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ************ TB3D 1.0.9.9.7.0 *************** -->
+<!-- Marty2Base, Modifed Font airal 14 to use a Monospace Font fpr beter reading -->
+<!-- Marty2Base, Changed Align Text frame, more center   -->
+<window>
+	<events_wnd>
+		<objective_item x="55" y="0" width="390" height="10">
+			<image x="55" y="32" width="5" height="5" stretch="1"/>
+			<text_cont x="55" y="96" width="390" height="10" complex_mode="1">
+				<text font="letterica18" r="255" g="255" b="255"/>
+			</text_cont>
+		</objective_item>
+	</events_wnd>
+	<encyclopedia_wnd>
+		<objective_item x="55" y="0" width="390" height="10">
+			<image x="55" y="0" width="5" height="5" stretch="1"/>
+			<text_cont x="55" y="96" width="390" height="10" complex_mode="1">
+				<text font="arial_14" r="255" g="255" b="255"/>
+			</text_cont>
+		</objective_item>
+	</encyclopedia_wnd>
+</window>
