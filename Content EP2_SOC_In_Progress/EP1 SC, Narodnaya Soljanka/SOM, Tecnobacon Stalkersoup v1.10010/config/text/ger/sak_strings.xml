@@ -146,7 +146,7 @@
 			<text>Sicher, kein Problem\n.\n:</text>
 		</string>
 		<string id="dolgovazyi_name">
-			<text>Bohnenstange</text>
+			<text>Lanky</text>
 		</string>
 		<string id="bar_docent_name">
 			<text>Dozent</text>
@@ -161,17 +161,7 @@
 			<text>-- WIRD NICHT BENUTZT --</text>
 		</string>
 		<string id="enc_weapons1_ammo_ammo-7.62x54r_box">
-			<text>%c[221,255,193,255]Munition\n
-%c[255,255,255,210]Kaliber® : %c[1,168,255,210]7.62x54mm Rand\n
-%c[255,255,255,210]Waffen®® : \n%c[1,168,255,210]
-- PK (Pulemyot Kalashnikova)
-%c[default]\n \n
-Die 7.62x54mmR ist eine Standardmunition der russischen Streitkräfte für Gewehre und Maschinengewehre. Die auch Mosin M1908/30 genannte Patrone ist seit mehr als 120 Jahren ununterbrochen in Verwendung und damit die dienstälteste Militärmunition der Welt.\n \n
-Die Entwicklung dieser Randpatrone begann im Zarenreich zu Ende des 19. Jahrhunderts im Zuge der Beschaffung von neuen Infanteriegewehren für die Kaiserlich Russische Armee. Die Wahl fiel im Jahr 1891 auf das Gewehr M1891, das aus den Entwürfen des Russen Sergei Mosin und des Belgiers Leon Nagant hervorging.\n \n
-Im Jahr 1908 wurde das Rundkopf- durch ein Spitzgeschoss ersetzt, 1930 die Patrone von sowjetischen Konstrukteuren in ihrer Leistung optimiert und wird seitdem als Mosin M1908/30 geführt.\n \n
-Randpatrone:\nDie ursprüngliche Form samt Patronenrand blieb bis heute erhalten. Die letzte andere Randpatrone, die .303 British, wurde nach dem Zweiten Weltkrieg nach und nach durch moderne randlose Munition wie die 7.62x51mm NATO ersetzt. Im Gegensatz dazu stieg die Verbreitung der Mosin-Patrone eher noch, da sie nach 1945 in allen Warschauer Vertragsstaaten Standardmunition des Militärs wurde. Sie fand auch Eingang ins Arsenal der chinesischen Streitkräfte, die vielfältige Versionen russischer Infanteriewaffen fertigten.\n \n
-Die 7.62x54mmR gibt es mit verschiedenen Geschossen. Bis zum 2. Weltkrieg war das Bleikernvollmantelgeschoss Standard. Es existieren Stahlkern-, Panzer-, Panzerbrand- und Leuchtspurgeschosse sowie Präzisionsmunition für die Verwendung in Scharfschützengewehren wie dem SWD.\n \n
-Für die PK (Pulemyot Kalashnikova) gibt es sie in 100er Trommelmagazin oder 200er Trommelmagazin Magazinen.</text>
+			<text>%c[221,255,193,255]Munition\n%c[255,255,255,210]Kaliber® : %c[1,168,255,210]7.62x54mm Rand\n%c[255,255,255,210]Waffen®® : \n%c[1,168,255,210]- PK (Pulemyot Kalashnikova)%c[default]\n \nDie 7.62x54mmR ist eine Standardmunition der russischen Streitkräfte für Gewehre und Maschinengewehre. Die auch Mosin M1908/30 genannte Patrone ist seit mehr als 120 Jahren ununterbrochen in Verwendung und damit die dienstälteste Militärmunition der Welt.\n \nDie Entwicklung dieser Randpatrone begann im Zarenreich zu Ende des 19. Jahrhunderts im Zuge der Beschaffung von neuen Infanteriegewehren für die Kaiserlich Russische Armee. Die Wahl fiel im Jahr 1891 auf das Gewehr M1891, das aus den Entwürfen des Russen Sergei Mosin und des Belgiers Leon Nagant hervorging.\n \nIm Jahr 1908 wurde das Rundkopf- durch ein Spitzgeschoss ersetzt, 1930 die Patrone von sowjetischen Konstrukteuren in ihrer Leistung optimiert und wird seitdem als Mosin M1908/30 geführt.\n \nRandpatrone:\nDie ursprüngliche Form samt Patronenrand blieb bis heute erhalten. Die letzte andere Randpatrone, die .303 British, wurde nach dem Zweiten Weltkrieg nach und nach durch moderne randlose Munition wie die 7.62x51mm NATO ersetzt. Im Gegensatz dazu stieg die Verbreitung der Mosin-Patrone eher noch, da sie nach 1945 in allen Warschauer Vertragsstaaten Standardmunition des Militärs wurde. Sie fand auch Eingang ins Arsenal der chinesischen Streitkräfte, die vielfältige Versionen russischer Infanteriewaffen fertigten.\n \nDie 7.62x54mmR gibt es mit verschiedenen Geschossen. Bis zum 2. Weltkrieg war das Bleikernvollmantelgeschoss Standard. Es existieren Stahlkern-, Panzer-, Panzerbrand- und Leuchtspurgeschosse sowie Präzisionsmunition für die Verwendung in Scharfschützengewehren wie dem SWD.\n \nFür die PK (Pulemyot Kalashnikova) gibt es sie in 100er Trommelmagazin oder 200er Trommelmagazin Magazinen.</text>
 		</string>
 		<string id="ammo-7.62x54r_100_s">
 			<text>Munition: 7.62x54mm Rand (100 Trommel)</text>
@@ -228,24 +218,16 @@ Für die PK (Pulemyot Kalashnikova) gibt es sie in 100er Trommelmagazin oder 200e
 			<text>Miliär PDA</text>
 		</string>
 		<string id="enc_equipment_device_pda1">
-			<text>\n \nEin "Persönlicher Digitaler Assistent"\n \nEs ist ein kompakter, tragbarer Computer, der neben vielen anderen Programmen hauptsächlich für die persönliche Aufgaben, Karten- und Nachrichtenverwaltung benutzt wird.\n \n
-Die Bedienung erfolgt über ein berührungsempfindliches LC-Display. Viele PDAs beherrschen auch eine Handschrifterkennung. Anfang der 1990er Jahre verwendete Apple für sein neu eingeführtes Newton MessagePad erstmals die Bezeichnung PDA. Seit Ende der 1990er Jahre wurde die Bezeichnung im deutschen Sprachraum oft synonym für alle tragbaren Kleincomputer benutzt.\n \n
-Heute spielen klassische PDAs am Markt praktisch keine Rolle mehr, sie sind durch Smartphones, die zusätzlich die Funktionen von Mobiltelefonen haben, und Tablet-PCs mit größeren Bildschirmen ersetzt. Diese Geräte verfügen, im Gegensatz zu PDAs, in der Regel auch über einen mobilen Internetzugang.\n \n
-Im Gegensatz zu den PDA's in der Zone. Diese beherbergen noch die alte Sendefrequenz womit sich Stalker in der Verstrahlten Zone austauschen oder Nachrichten versenden. Was Smartphones obsolet machen. Diese PDA's wurden auch über die Zeit weiterentwickelt und verfügen über zusätzliche integrierte ROM-Speichermodule. Sowie komplette Datenbanksätze der Umwelt und Tieren oder vernetzte Statistiken der Stalker untereinander.\n \nEs ist möglich komplette Daten Pakete in einem PDA hoch- und runterzuladen. Die "meisten" sind überwiegend jedoch nicht geschützt was ein Zugriff von außerhalb erlaubt. Spezielle PDA's besitzen ein weitere Sensor Technik die es den Stalker erlaubt andere Lebewesen in einem gewissen umkreis zu erkennen.\n \nAusserhalb der Zone wird die Existenz solcher PDA's verschwiegen. Alle Persönlichen Digitalen Assistenten werden vom Militär, da sie sich leicht aufspüren lassen, eingesammelt.</text>
+			<text>\n \nEin "Persönlicher Digitaler Assistent"\n \nEs ist ein kompakter, tragbarer Computer, der neben vielen anderen Programmen hauptsächlich für die persönliche Aufgaben, Karten- und Nachrichtenverwaltung benutzt wird.\n \nDie Bedienung erfolgt über ein berührungsempfindliches LC-Display. Viele PDAs beherrschen auch eine Handschrifterkennung. Anfang der 1990er Jahre verwendete Apple für sein neu eingeführtes Newton MessagePad erstmals die Bezeichnung PDA. Seit Ende der 1990er Jahre wurde die Bezeichnung im deutschen Sprachraum oft synonym für alle tragbaren Kleincomputer benutzt.\n \nHeute spielen klassische PDAs am Markt praktisch keine Rolle mehr, sie sind durch Smartphones, die zusätzlich die Funktionen von Mobiltelefonen haben, und Tablet-PCs mit größeren Bildschirmen ersetzt. Diese Geräte verfügen, im Gegensatz zu PDAs, in der Regel auch über einen mobilen Internetzugang.\n \nIm Gegensatz zu den PDA's in der Zone. Diese beherbergen noch die alte Sendefrequenz womit sich Stalker in der Verstrahlten Zone austauschen oder Nachrichten versenden. Was Smartphones obsolet machen. Diese PDA's wurden auch über die Zeit weiterentwickelt und verfügen über zusätzliche integrierte ROM-Speichermodule. Sowie komplette Datenbanksätze der Umwelt und Tieren oder vernetzte Statistiken der Stalker untereinander.\n \nEs ist möglich komplette Daten Pakete in einem PDA hoch- und runterzuladen. Die "meisten" sind überwiegend jedoch nicht geschützt was ein Zugriff von außerhalb erlaubt. Spezielle PDA's besitzen ein weitere Sensor Technik die es den Stalker erlaubt andere Lebewesen in einem gewissen umkreis zu erkennen.\n \nAusserhalb der Zone wird die Existenz solcher PDA's verschwiegen. Alle Persönlichen Digitalen Assistenten werden vom Militär, da sie sich leicht aufspüren lassen, eingesammelt.</text>
 		</string>
 		<string id="enc_equipment_device_pda_npc">
-			<text>\n \nEin "Persönlicher Digitaler Assistent"\n \nEs ist ein kompakter, tragbarer Computer, der neben vielen anderen Programmen hauptsächlich für die persönliche Aufgaben, Karten- und Nachrichtenverwaltung benutzt wird.\n \n
-Die "PDA Militär" Variante wurde eigens für die Zone, für das Militärpersonal, entworfen. Es besitzt alle Eigenschaften und Merkmale wie der Normale PDA.\n \nMeist Technik versierte Stalker sind immer auf der Suche nach solchen Geräten. Da sie in der Regel  aktualisierte und Streng geheime Informationen über die Verstrahlte Zone enthalten sowie die Bewegungs Daten des Militärpersonals und anderer "Interessante Personen".</text>
+			<text>\n \nEin "Persönlicher Digitaler Assistent"\n \nEs ist ein kompakter, tragbarer Computer, der neben vielen anderen Programmen hauptsächlich für die persönliche Aufgaben, Karten- und Nachrichtenverwaltung benutzt wird.\n \nDie "PDA Militär" Variante wurde eigens für die Zone, für das Militärpersonal, entworfen. Es besitzt alle Eigenschaften und Merkmale wie der Normale PDA.\n \nMeist Technik versierte Stalker sind immer auf der Suche nach solchen Geräten. Da sie in der Regel  aktualisierte und Streng geheime Informationen über die Verstrahlte Zone enthalten sowie die Bewegungs Daten des Militärpersonals und anderer "Interessante Personen".</text>
 		</string>
 		<string id="super_gauss">
 			<text>Munition: Supergauss</text>
 		</string>
 		<string id="enc_weapons1_ammo_super_gauss">
-			<text>%c[221,255,193,255]Munition\n
-%c[255,255,255,210]Kaliber® : %c[1,168,255,210]Energiezelle\n
-%c[255,255,255,210]Waffen®® : \n%c[1,168,255,210]
-%c[default]\n \n
-Energiezellen in einem Magazin. Als Energiequelle dient ein eingekapseltes Stück des Artefakts "Mondlicht". Unglaubliche Durchschlagskraft.</text>
+			<text>%c[221,255,193,255]Munition\n%c[255,255,255,210]Kaliber® : %c[1,168,255,210]Energiezelle\n%c[255,255,255,210]Waffen®® : \n%c[1,168,255,210]%c[default]\n \nEnergiezellen in einem Magazin. Als Energiequelle dient ein eingekapseltes Stück des Artefakts "Mondlicht". Unglaubliche Durchschlagskraft.</text>
 		</string>
 		<string id="strelok_pda_name">
 			<text>Strelok's PDA</text>
@@ -263,103 +245,26 @@ Energiezellen in einem Magazin. Als Energiequelle dient ein eingekapseltes Stück
 			<text>Türschloss Kombinationen</text>
 		</string>
 		<string id="ways_info_door_sak_text">
-			<text>\n \nSak gab mir eine Schlosskombination für die Tür eines kleinen Bunkers, in der Nähe der Straßenabzweigung nach Prypjat.\n \nDas ist die Ziffernfolge: 1287975.</text>
+			<text>\n \n \n \n \n \nSak gab mir eine Schlosskombination für die Tür eines kleinen Bunkers, in der Nähe der Straßenabzweigung nach Prypjat.\n \nDas ist die Ziffernfolge: 1287975.</text>
 		</string>
 		<string id="dead_monolit_title">
-			<text>Informationen von den toten Monolithern</text>
+			<text>Informationen von einem Toten Monolither</text>
 		</string>
 		<string id="dead_monolit_text">
-			<text>\n \nIch hab einige vermoderte Dokumente gefunden in den verblichene Fotos und sonstige Tabellen und Kritzeleien drin sind. Sieht aus wie ein "Laboratorium" und auf dem anderen Foto ist wohl "Limansk" abgebildetet.\n \n
-Der Rest ist unmöglich zu Lesen. Es gibt noch einen Code .. '8-8-6-6-7-7'. Könnte ein Türcode sein.\n \nWer bitte würde ein Sicherheits Türcode auf ein dieser Notiz-Zettel Schreiben..</text>
+			<text>\n \n \n \n \n \nIch hab einige vermoderte Dokumente gefunden in den verblichene Fotos und sonstige Tabellen und Kritzeleien drin sind. Sieht aus wie ein "Laboratorium" und auf dem anderen Foto ist wohl "Limansk" abgebildetet.\n \nDer Rest ist unmöglich zu Lesen. Es gibt noch einen Code .. '8-8-6-6-7-7'. Könnte ein Türcode sein.\n \nWer bitte würde ein Sicherheits Türcode auf ein dieser Notiz-Zettel Schreiben..</text>
 		</string>
 		<string id="enc_ways">
 			<text>Entdeckte Level-Übergänge</text>
 		</string>
 <!-- AR -->
 		<string id="enc_info_red_battery_text">
-			<text>\n \nRubin-Batterie Modifkation\n
-%c[221,255,193,255]Körperliche Eigenschaften\n
-%c[255,255,255,210]Vital Gesundheit : %c[255,1,255,1]n/a\n
-%c[255,255,255,210]Vital Blutung®®® : %c[default]n/a\n
-%c[255,255,255,210]Vital Ausdauer®® : %c[255,1,255,1]+182\n
-%c[255,255,255,210]Vital Hunger®®®® : %c[default]n/a\n
-%c[default]\n \n
-%c[221,255,193,255]Schutz und Resistenz\n
-%c[255,255,255,210]Strahlung®®®®®®® : %c[255,255,1,1]+10\n
-%c[255,255,255,210]Verbrennung®®®®® : %c[default]n/a\n
-%c[255,255,255,210]Elektroschock®®® : %c[255,1,255,1]+16 %\n
-%c[255,255,255,210]Chemisch Verbre. : %c[default]n/a\n
-%c[255,255,255,210]PSI Telepatie®®® : %c[default]n/a\n
-%c[255,255,255,210]Vor Reißwunden®® : %c[default]n/a\n
-%c[255,255,255,210]Vor Projektile®® : %c[255,1,255,1]+2 %\n
-%c[255,255,255,210]Vor Explosion®®® : %c[255,1,255,1]+5 %\n
-%c[255,255,255,210]Aufprall Schutz® : %c[255,1,255,1]+8 %\n
-%c[default]\n \n
-%c[221,255,193,255]Artefakt Trans-und MesoMutation\n
-%c[255,255,255,210]Benötigte Zeit®® : %c[255,224,224,160]5 Minuten\n
-%c[255,255,255,210]Wirkung Positiv® : %c[255,1,255,1]99%\n
-%c[255,255,255,210]Wirkung Negativ® : %c[255,255,1,1]1%\n
-%c[255,255,255,210]Ursprung®®®®®®®® : %c[255,1,255,1]Batterie\n
-%c[255,255,255,210]Anomalie Abhängig: %c[255,1,255,1]Eissturz\n
-%c[default]\n \n
-Einzigartiges Artefakt, das einer normalen "Batterie" im Aussehen ähnelt, komplett rot ist. Es ist Radioaktiv und strahlt einemenge Licht aus. Hat einen positiven Effekt auf die Wiederherstellung der Ausdauer und bietet einigen Schutz vor Stößen. Das "Rubin Batterie" Artefakt sollte die Effekte der Anomalien "Elektra" und "Vortex" liquidieren. Wenn man eine "Batterie" in die Anomalie "Eisschrank" wirft, kann man eine "Rubin-Batterie" bekommen.</text>
+			<text>\n \nRubin-Batterie Modifkation\n%c[221,255,193,255]Körperliche Eigenschaften\n%c[255,255,255,210]Vital Gesundheit : %c[255,1,255,1]n/a\n%c[255,255,255,210]Vital Blutung®®® : %c[default]n/a\n%c[255,255,255,210]Vital Ausdauer®® : %c[255,1,255,1]+182\n%c[255,255,255,210]Vital Hunger®®®® : %c[default]n/a\n%c[default]\n \n%c[221,255,193,255]Schutz und Resistenz\n%c[255,255,255,210]Strahlung®®®®®®® : %c[255,255,1,1]+10\n%c[255,255,255,210]Verbrennung®®®®® : %c[default]n/a\n%c[255,255,255,210]Elektroschock®®® : %c[255,1,255,1]+16 %\n%c[255,255,255,210]Chemisch Verbre. : %c[default]n/a\n%c[255,255,255,210]PSI Telepatie®®® : %c[default]n/a\n%c[255,255,255,210]Vor Reißwunden®® : %c[default]n/a\n%c[255,255,255,210]Vor Projektile®® : %c[255,1,255,1]+2 %\n%c[255,255,255,210]Vor Explosion®®® : %c[255,1,255,1]+5 %\n%c[255,255,255,210]Aufprall Schutz® : %c[255,1,255,1]+8 %\n%c[default]\n \n%c[221,255,193,255]Artefakt Trans-und MesoMutation\n%c[255,255,255,210]Benötigte Zeit®® : %c[255,224,224,160]5 Minuten\n%c[255,255,255,210]Wirkung Positiv® : %c[255,1,255,1]99%\n%c[255,255,255,210]Wirkung Negativ® : %c[255,255,1,1]1%\n%c[255,255,255,210]Ursprung®®®®®®®® : %c[255,1,255,1]Batterie\n%c[255,255,255,210]Anomalie Abhängig: %c[255,1,255,1]Eissturz\n%c[default]\n \nEinzigartiges Artefakt, das einer normalen "Batterie" im Aussehen ähnelt, komplett rot ist. Es ist Radioaktiv und strahlt einemenge Licht aus. Hat einen positiven Effekt auf die Wiederherstellung der Ausdauer und bietet einigen Schutz vor Stößen. Das "Rubin Batterie" Artefakt sollte die Effekte der Anomalien "Elektra" und "Vortex" liquidieren. Wenn man eine "Batterie" in die Anomalie "Eisschrank" wirft, kann man eine "Rubin-Batterie" bekommen.</text>
 		</string>
 		<string id="enc_info_red_spring_text">
-			<text>\n \nRubin-Sprungfeder Modifkation\n
-%c[221,255,193,255]Körperliche Eigenschaften\n
-%c[255,255,255,210]Vital Gesundheit : %c[default]n/a\n
-%c[255,255,255,210]Vital Blutung®®® : %c[default]n/a\n
-%c[255,255,255,210]Vital Ausdauer®® : %c[default]n/a\n
-%c[255,255,255,210]Vital Hunger®®®® : %c[default]n/a\n
-%c[default]\n \n
-%c[221,255,193,255]Schutz und Resistenz\n
-%c[255,255,255,210]Strahlung®®®®®®® : %c[255,255,1,1]+5\n
-%c[255,255,255,210]Verbrennung®®®®® : %c[default]n/a\n
-%c[255,255,255,210]Elektroschock®®® : %c[default]n/a\n
-%c[255,255,255,210]Chemisch Verbre. : %c[default]n/a\n
-%c[255,255,255,210]PSI Telepatie®®® : %c[default]n/a\n
-%c[255,255,255,210]Vor Reißwunden®® : %c[default]n/a\n
-%c[255,255,255,210]Vor Projektile®® : %c[255,1,255,1]+4 %\n
-%c[255,255,255,210]Vor Explosion®®® : %c[255,1,255,1]+6 %\n
-%c[255,255,255,210]Aufprall Schutz® : %c[255,1,255,1]+16 %\n
-%c[default]\n \n
-%c[221,255,193,255]Artefakt Trans-und MesoMutation\n
-%c[255,255,255,210]Benötigte Zeit®® : %c[255,224,224,160]5 Minuten\n
-%c[255,255,255,210]Wirkung Positiv® : %c[255,1,255,1]99%\n
-%c[255,255,255,210]Wirkung Negativ® : %c[255,1,255,1]1%\n
-%c[255,255,255,210]Ursprung®®®®®®®® : %c[255,1,255,1]Sprungfeder\n
-%c[255,255,255,210]Anomalie Abhängig: %c[255,1,255,1]Eissturz\n
-%c[default]\n \n
-Einzigartiges Artefakt, das einer "Sprungfeder" im Aussehen ähnelt, rot leuchtend. Etwas radioaktiv und strahlt Licht aus. Bietet Schutz von Aufprallen. Das "Rubin-Springfeder" Artefakt kann die Effekte der Karussel-Anomalie liquidieren\n Wird geformt, wenn man das  "Sprungfeder" Artefakt in die Anomalie "Eissturz" wirft, bekommt man das Artefakt "Rubin-Sprungfeder" </text>
+			<text>\n \nRubin-Sprungfeder Modifkation\n%c[221,255,193,255]Körperliche Eigenschaften\n%c[255,255,255,210]Vital Gesundheit : %c[default]n/a\n%c[255,255,255,210]Vital Blutung®®® : %c[default]n/a\n%c[255,255,255,210]Vital Ausdauer®® : %c[default]n/a\n%c[255,255,255,210]Vital Hunger®®®® : %c[default]n/a\n%c[default]\n \n%c[221,255,193,255]Schutz und Resistenz\n%c[255,255,255,210]Strahlung®®®®®®® : %c[255,255,1,1]+5\n%c[255,255,255,210]Verbrennung®®®®® : %c[default]n/a\n%c[255,255,255,210]Elektroschock®®® : %c[default]n/a\n%c[255,255,255,210]Chemisch Verbre. : %c[default]n/a\n%c[255,255,255,210]PSI Telepatie®®® : %c[default]n/a\n%c[255,255,255,210]Vor Reißwunden®® : %c[default]n/a\n%c[255,255,255,210]Vor Projektile®® : %c[255,1,255,1]+4 %\n%c[255,255,255,210]Vor Explosion®®® : %c[255,1,255,1]+6 %\n%c[255,255,255,210]Aufprall Schutz® : %c[255,1,255,1]+16 %\n%c[default]\n \n%c[221,255,193,255]Artefakt Trans-und MesoMutation\n%c[255,255,255,210]Benötigte Zeit®® : %c[255,224,224,160]5 Minuten\n%c[255,255,255,210]Wirkung Positiv® : %c[255,1,255,1]99%\n%c[255,255,255,210]Wirkung Negativ® : %c[255,1,255,1]1%\n%c[255,255,255,210]Ursprung®®®®®®®® : %c[255,1,255,1]Sprungfeder\n%c[255,255,255,210]Anomalie Abhängig: %c[255,1,255,1]Eissturz\n%c[default]\n \nEinzigartiges Artefakt, das einer "Sprungfeder" im Aussehen ähnelt, rot leuchtend. Etwas radioaktiv und strahlt Licht aus. Bietet Schutz von Aufprallen. Das "Rubin-Springfeder" Artefakt kann die Effekte der Karussel-Anomalie liquidieren\n Wird geformt, wenn man das  "Sprungfeder" Artefakt in die Anomalie "Eissturz" wirft, bekommt man das Artefakt "Rubin-Sprungfeder" </text>
 		</string>
 		<string id="enc_info_red_pellicle_text">
-			<text>\n \nRubin-Pellicula Modifkation\n
-%c[221,255,193,255]Körperliche Eigenschaften\n
-%c[255,255,255,210]Vital Gesundheit : %c[255,1,255,1]+700 %\n
-%c[255,255,255,210]Vital Blutung®®® : %c[255,1,255,1]-33 %\n
-%c[255,255,255,210]Vital Ausdauer®® : %c[default]n/a\n
-%c[255,255,255,210]Vital Hunger®®®® : %c[default]n/a\n
-%c[default]\n \n
-%c[221,255,193,255]Schutz und Resistenz\n
-%c[255,255,255,210]Strahlung®®®®®®® : %c[255,255,1,1]+5\n
-%c[255,255,255,210]Verbrennung®®®®® : %c[default]n/a\n
-%c[255,255,255,210]Elektroschock®®® : %c[default]n/a\n
-%c[255,255,255,210]Chemisch Verbre. : %c[default]n/a\n
-%c[255,255,255,210]PSI Telepatie®®® : %c[default]n/a\n
-%c[255,255,255,210]Vor Reißwunden®® : %c[default]n/a\n
-%c[255,255,255,210]Vor Projektile®® : %c[255,255,1,1]-50 %\n
-%c[255,255,255,210]Vor Explosion®®® : %c[default]n/a\n
-%c[255,255,255,210]Aufprall Schutz® : %c[255,1,255,1]+5 %\n
-%c[default]\n \n
-%c[221,255,193,255]Artefakt Trans-und MesoMutation\n
-%c[255,255,255,210]Benötigte Zeit®® : %c[255,224,224,160]5 Minuten
-%c[255,255,255,210]Wirkung Positiv® : %c[255,1,255,1]99 %\n
-%c[255,255,255,210]Wirkung Negativ® : %c[255,255,1,1]1 %\n
-%c[255,255,255,210]Ursprung®®®®®®®® : %c[255,1,255,1]Pellicula\n
-%c[255,255,255,210]Anomalie Abhängig: %c[255,1,255,1]EisSturz\n
-%c[default]\n \n
-Einzigartiges Artefakt, aber etwas Radioaktiv. Hat ein paar  bemerkenswerte Eigenschaften wie schnell heilenden "kräfte" sowie eine schnell Heilende wirkung auf offene Wunden. Das Artefakt hat eine magnetische wirkung auf Metallische Objekte.\n \nArtefakt "Rubin-Pellicula" kann die Anomalie "Sprungbrett" liquidieren.\nWenn man das Artefakt  "Pellicula" in die Anomalie "EisSturz" wirft, bekommt man dadurch ein "Rubin-Pellicula" 
-</text>
+			<text>\n \nRubin-Pellicula Modifkation\n%c[221,255,193,255]Körperliche Eigenschaften\n%c[255,255,255,210]Vital Gesundheit : %c[255,1,255,1]+700 %\n%c[255,255,255,210]Vital Blutung®®® : %c[255,1,255,1]-33 %\n%c[255,255,255,210]Vital Ausdauer®® : %c[default]n/a\n%c[255,255,255,210]Vital Hunger®®®® : %c[default]n/a\n%c[default]\n \n%c[221,255,193,255]Schutz und Resistenz\n%c[255,255,255,210]Strahlung®®®®®®® : %c[255,255,1,1]+5\n%c[255,255,255,210]Verbrennung®®®®® : %c[default]n/a\n%c[255,255,255,210]Elektroschock®®® : %c[default]n/a\n%c[255,255,255,210]Chemisch Verbre. : %c[default]n/a\n%c[255,255,255,210]PSI Telepatie®®® : %c[default]n/a\n%c[255,255,255,210]Vor Reißwunden®® : %c[default]n/a\n%c[255,255,255,210]Vor Projektile®® : %c[255,255,1,1]-50 %\n%c[255,255,255,210]Vor Explosion®®® : %c[default]n/a\n%c[255,255,255,210]Aufprall Schutz® : %c[255,1,255,1]+5 %\n%c[default]\n \n%c[221,255,193,255]Artefakt Trans-und MesoMutation\n%c[255,255,255,210]Benötigte Zeit®® : %c[255,224,224,160]5 Minuten%c[255,255,255,210]Wirkung Positiv® : %c[255,1,255,1]99 %\n%c[255,255,255,210]Wirkung Negativ® : %c[255,255,1,1]1 %\n%c[255,255,255,210]Ursprung®®®®®®®® : %c[255,1,255,1]Pellicula\n%c[255,255,255,210]Anomalie Abhängig: %c[255,1,255,1]EisSturz\n%c[default]\n \nEinzigartiges Artefakt, aber etwas Radioaktiv. Hat ein paar  bemerkenswerte Eigenschaften wie schnell heilenden "kräfte" sowie eine schnell Heilende wirkung auf offene Wunden. Das Artefakt hat eine magnetische wirkung auf Metallische Objekte.\n \nArtefakt "Rubin-Pellicula" kann die Anomalie "Sprungbrett" liquidieren.\nWenn man das Artefakt  "Pellicula" in die Anomalie "EisSturz" wirft, bekommt man dadurch ein "Rubin-Pellicula"</text>
 		</string>
 		<string id="enc_enc_info_way100a_text">
 			<text>\n \n \n \n \n \nIm Agroprom gibt es einen Übergang zum Kordon.</text>
@@ -416,7 +321,7 @@ Einzigartiges Artefakt, aber etwas Radioaktiv. Hat ein paar  bemerkenswerte Eige
 			<text>\n \n \n \n \nEs gibt eine Klasse der Anomalien, deren Wirkungsweise unbegreiflich ist\n \nAls Beispiel dafür kann eine Anomalie dienen, die Stalker "Teleport" nennen. Diese Anomalie kann, in einer fast nicht messbaren Zeitspanne, alles, was in ihr Inneres Gravitations Feld kommt, über große Entfernungen bewegen.\n \nDabei wirken auf das zu transportierende Objekt keinerlei Physische Kräfte ein. Gerüchten zufolge, gibt's nicht weit von der Bar - bei den Armeelagerhäusern - eine solche Anomalie, die einen direkt zum sagenumwobenen Monolithen teleportiert...</text>
 		</string>
 		<string id="ways_info_way100a_text">
-			<text>\n \nAn den Kommandant des Truppen-Kontingentes "Schutzkordon".\n \nBericht\n \nAm 14.03.2012, gegen 2200 bei dem Abend-Appell, wurde entdeckt, das drei Soldaten meiner Abteilung, die auf dem Gebiet des ehemaligen Agroprom-Instituts stationiert ist, fehlten. Bei der Befragung anderer Soldaten kamen folgende Fakten zu Tage - die verschwundenen Dienstleistenden haben schon mehrmals die fehlenden Kontrollen seitens Unteroffiziere ausgenutzt und einen gewissen "Sidorowitsch" besucht, der ihnen alkoholische Getränke und berauschende Substanzen geliefert hat.\n \nDen Berichten anderer Dienstleistenden nach, haben die Verschwundenen während der Patrouillen einen unbekannten Durchgang nach "Kordon" gefunden. Die Lage und Koordinaten sind auf der beigelegten Karte gekennzeichnet. Die von mir durchgeführten Maßnahmen zur Suche nach vermissten Dienstleistenden haben keine Resultate gebracht.</text>
+			<text>\n \n \n \n \nAn den Kommandant des Truppen-Kontingentes "Schutzkordon".\n \nBericht\n \nAm 14.03.2012, gegen 2200 bei dem Abend-Appell, wurde entdeckt, das drei Soldaten meiner Abteilung, die auf dem Gebiet des ehemaligen Agroprom-Instituts stationiert ist, fehlten. Bei der Befragung anderer Soldaten kamen folgende Fakten zu Tage - die verschwundenen Dienstleistenden haben schon mehrmals die fehlenden Kontrollen seitens Unteroffiziere ausgenutzt und einen gewissen "Sidorowitsch" besucht, der ihnen alkoholische Getränke und berauschende Substanzen geliefert hat.\n \nDen Berichten anderer Dienstleistenden nach, haben die Verschwundenen während der Patrouillen einen unbekannten Durchgang nach "Kordon" gefunden. Die Lage und Koordinaten sind auf der beigelegten Karte gekennzeichnet. Die von mir durchgeführten Maßnahmen zur Suche nach vermissten Dienstleistenden haben keine Resultate gebracht.</text>
 		</string>
 		<string id="ways_info_way101a_text">
 			<text>\n \n \n \n \n \n"Führer" berichtete:\n \nNicht weit hinter der ehemaligen Farm gibt es einen geheimen Übergang zum Agroprom Institut.</text>
@@ -452,13 +357,13 @@ Einzigartiges Artefakt, aber etwas Radioaktiv. Hat ein paar  bemerkenswerte Eige
 			<text>\n \n \n \n \n \nIn Dankbarkeit für die erbrachten Leistungen gab Lukash mir die Erlaubnis, die geheime Passage aus dem Lager der "Freiheit" ins Dunkle Tal zu nutzen.</text>
 		</string>
 		<string id="ways_info_way112a_text">
-			<text>\n \n \n \n \n \nEntdeckte Level-Übergänge</text>
+			<text>\n \n \n \n \n \nVon einem Informanten hab ich die Übergangs  Koordinaten von Radar zu den Armee-Lagerhäuser.</text>
 		</string>
 		<string id="ways_info_way113a_text">
 			<text>\n \n \n \n \n \nInformationen von Mojito erhalten in Bezug auf einen Übergang mit dem Ziel zu den Armee-Lagerhäusern.</text>
 		</string>
 		<string id="ways_info_way114a_text">
-			<text>\n \n \n \n \n \nDer Wirt hat mir Infos über die Übergangsmöglichkeit zur Rostok-Fabrik auf meinem PDA hochgeladen.</text>
+			<text>\n \n \n \n \n \nDer Wirt hat mir Infos über die Übergangsmöglichkeit zur Rostok-Fabrik auf meinem PDA hochgeladen.\n \n \n \n \n \n(Marty2base, das muss überprüft werden weil der Titel "Vom Sumpf zum alten Dorf" nicht mit dem Inhalt übereinstimmt.</text>
 		</string>
 		<string id="item_quest_case_03_desc">
 			<text>Scholar's Dokumente</text>
@@ -467,406 +372,403 @@ Einzigartiges Artefakt, aber etwas Radioaktiv. Hat ein paar  bemerkenswerte Eige
 			<text>Scholars Dokumente</text>
 		</string>
 		<string id="playboy_desc">
-			<text>\n \nPlayboy ist ein US-amerikanisches Männermagazin, das primär für erotische Fotografie bzw. Aktfotografie bekannt ist, sich in seinen Artikeln aber auch mit verschiedensten Lifestyle-Themen beschäftigt.\n \nHerausgeber der amerikanischen Ausgabe ist das Unternehmen "Playboy Enterprises", das von Hugh Hefner gegründet und später von seiner Tochter Christie Hefner geleitet wurde. Es erscheint mittlerweile jeweils als Lizenzprodukt in der Landessprache und mit eigenen Themen in über 30 Ländern.\n \n
-Die erste Ausgabe erschien im Dezember 1953 in den Vereinigten Staaten und enthielt ein aufklappbares Blatt (Centerfold), auf dem Marilyn Monroe recht freizügig posierte, daneben eine Sherlock-Holmes-Geschichte, einen Artikel über die Dorsey-Brüder (Jimmy und Tommy) und einen Bericht über das Tisch-Design im modernen Büro. Von den 70.000 Exemplaren der Startauflage wurden 54.175 zum Preis von 0,50 US-Dollar verkauft.\n \n
-Ursprünglich sollte die Zeitschrift Stag Party ("Junggesellen-Party“) heißen, was aus markenrechtlichen Gründen jedoch nicht möglich war. Ein Freund des Herausgebers Hugh Hefner schlug dann den Namen Playboy vor.\n \n
-Zu seinem Höhepunkt im Jahr 1975 hatte das Magazin für "Alles, was Männern Spaß macht“ in den Vereinigten Staaten eine reguläre Auflage von 5,6 Millionen Exemplaren. Die Ausgabe vom November 1972 verkaufte sogar eine einmalige Auflage von 7 Millionen Heften.\n \n Anfang der 1970er Jahre begann das Heft mit fremdsprachigen Ausgaben in europäischen Ländern, die ersten erschienen in Deutschland, Italien und Frankreich. Weitere internationale Ausgaben folgten.</text>
+			<text>\n \nPlayboy ist ein US-amerikanisches Männermagazin, das primär für erotische Fotografie bzw. Aktfotografie bekannt ist, sich in seinen Artikeln aber auch mit verschiedensten Lifestyle-Themen beschäftigt.\n \nHerausgeber der amerikanischen Ausgabe ist das Unternehmen "Playboy Enterprises", das von Hugh Hefner gegründet und später von seiner Tochter Christie Hefner geleitet wurde. Es erscheint mittlerweile jeweils als Lizenzprodukt in der Landessprache und mit eigenen Themen in über 30 Ländern.\n \nDie erste Ausgabe erschien im Dezember 1953 in den Vereinigten Staaten und enthielt ein aufklappbares Blatt (Centerfold), auf dem Marilyn Monroe recht freizügig posierte, daneben eine Sherlock-Holmes-Geschichte, einen Artikel über die Dorsey-Brüder (Jimmy und Tommy) und einen Bericht über das Tisch-Design im modernen Büro. Von den 70.000 Exemplaren der Startauflage wurden 54.175 zum Preis von 0,50 US-Dollar verkauft.\n \nUrsprünglich sollte die Zeitschrift Stag Party ("Junggesellen-Party“) heißen, was aus markenrechtlichen Gründen jedoch nicht möglich war. Ein Freund des Herausgebers Hugh Hefner schlug dann den Namen Playboy vor.\n \nZu seinem Höhepunkt im Jahr 1975 hatte das Magazin für "Alles, was Männern Spaß macht“ in den Vereinigten Staaten eine reguläre Auflage von 5,6 Millionen Exemplaren. Die Ausgabe vom November 1972 verkaufte sogar eine einmalige Auflage von 7 Millionen Heften.\n \n Anfang der 1970er Jahre begann das Heft mit fremdsprachigen Ausgaben in europäischen Ländern, die ersten erschienen in Deutschland, Italien und Frankreich. Weitere internationale Ausgaben folgten.</text>
 		</string>
 		<string id="wpn_vintorez_m1">
-			<text>Unique BCC 'Vintorez'</text>
+			<text>-- WIRD NICHT BENUTZT? --</text>
 		</string>
 		<string id="enc_wpn_vintorez_m1">
-			<text>Ammunition -\n: 9x39mm SP-6 - armor\n: 9x39mm SP-5 - sniper\nSpecial 'Vintorez' sniper rifle. Optical (daytime) and electro-optical (night) sights enable accurate shooting at a distance, and an integrated silencer ensures noise-free, flashless shots. A peculiarity of this unique weapon is the low wear and tear of the barrel. Rumor has it that this rifle has been enhanced by placement inside an anomaly</text>
+			<text>-- WIRD NICHT BENUTZT? --</text>
 		</string>
 		<string id="playboy_name">
 			<text>Der Playboy</text>
 		</string>
 		<string id="playboy_kruglov_desc">
-			<text>Since reaching its peak in the 1970s, Playboy has seen a decline in circulation and cultural relevance due to additional competition in the field it founded. Firstly from 'Penthouse', 'Oui' (published as a spin-off from Playboy) and 'Gallery' in the 1970s, then from increasingly explicit pornographic videos, more recently from 'lads' mags' such as Maxim and FHM, and finally the internet. In response, Playboy has attempted to reassert its hold on the 18-35 male demographic with slight changes to content, and focusing on issues and personalities more relevant to its target audience</text>
+			<text>\n \nPlayboy ist ein US-amerikanisches Männermagazin, das primär für erotische Fotografie bzw. Aktfotografie bekannt ist, sich in seinen Artikeln aber auch mit verschiedensten Lifestyle-Themen beschäftigt.\n \nHerausgeber der amerikanischen Ausgabe ist das Unternehmen "Playboy Enterprises", das von Hugh Hefner gegründet und später von seiner Tochter Christie Hefner geleitet wurde. Es erscheint mittlerweile jeweils als Lizenzprodukt in der Landessprache und mit eigenen Themen in über 30 Ländern.\n \nDie erste Ausgabe erschien im Dezember 1953 in den Vereinigten Staaten und enthielt ein aufklappbares Blatt (Centerfold), auf dem Marilyn Monroe recht freizügig posierte, daneben eine Sherlock-Holmes-Geschichte, einen Artikel über die Dorsey-Brüder (Jimmy und Tommy) und einen Bericht über das Tisch-Design im modernen Büro. Von den 70.000 Exemplaren der Startauflage wurden 54.175 zum Preis von 0,50 US-Dollar verkauft.\n \nUrsprünglich sollte die Zeitschrift Stag Party ("Junggesellen-Party“) heißen, was aus markenrechtlichen Gründen jedoch nicht möglich war. Ein Freund des Herausgebers Hugh Hefner schlug dann den Namen Playboy vor.\n \nZu seinem Höhepunkt im Jahr 1975 hatte das Magazin für "Alles, was Männern Spaß macht“ in den Vereinigten Staaten eine reguläre Auflage von 5,6 Millionen Exemplaren. Die Ausgabe vom November 1972 verkaufte sogar eine einmalige Auflage von 7 Millionen Heften.\n \n Anfang der 1970er Jahre begann das Heft mit fremdsprachigen Ausgaben in europäischen Ländern, die ersten erschienen in Deutschland, Italien und Frankreich. Weitere internationale Ausgaben folgten.\n \nKruglow kann, von Zeit zur Zeit, neue Ausgaben besorgen.</text>
 		</string>
 		<string id="playboy_kruglov_name">
-			<text>'Playboy' collection (2006)</text>
+			<text>Playboy Sammlung (2006)</text>
 		</string>
 		<string id="outfit_soldiersak_desc">
-			<text>Flak-jacket modified with the anti-gravity Cobblestone artefact. Allows the carrying of much heavier equipment, without being hampered by the extra weight. Unfortunately, this modification makes the wearer more susceptible to harm, especially from explosive and impact damage</text>
+			<text>-- WIRD NICHT BENUTZT --</text>
 		</string>
 		<string id="outfit_soldiersak_name">
-			<text>'Cobblestone' Armor</text>
+			<text>-- WIRD NICHT BENUTZT --</text>
 		</string>
 		<string id="artmod_861_dialog_0">
-			<text>I need a better weapon. Are there any special jobs I can do to earn one?</text>
+			<text>Ich brauche echt eine bessere Waffe. Gibt es irgendwelche besonderen Jobs, die ich tun kann?.</text>
 		</string>
 		<string id="artmod_861_dialog_1">
-			<text>One Stalker is in possession of a document I really need. I won't say who, nor from where, but it was quite near here that he fell into an anomaly. He survived, but the document was lost. I'd have gone looking for it myself, but I can't leave these Rookies alone. Find this document, bring it to me, and I'll give you an AK-74U as a reward. It's in the underpass under the railroad tracks, directly to the North.\nWill you do this for me?</text>
+			<text>Nun.. Ich hätte da was für dich. Einer der Stalker war mit einem wichtigen Dokument zu mir unterwegs. Allerdings tappte er auf den weg in eine Anomalie. Er ist am Leben aber verlor das Dokument. Im moment ist er nicht in der Lage auch nur zu Krabbeln und ich kann die Rookies hier im Dorf nicht alleine lassen.\n \nWenn du das Dokument für mich findest, schenke ich dir eine "AK-74U". Das Dokument sollte irgendwo direkt Nördlich im Tunnel unter den Eisenbahngleisen liegen...\n \nWäre das Ok?</text>
 		</string>
 		<string id="artmod_861_dialog_2">
-			<text>Okay, if it's still there, in the underpass, I'll find it for you</text>
+			<text>Na sicher.. warum nicht. Wenn die Dokumente dort liegen bringe ich sie dir.</text>
 		</string>
 		<string id="artmod_861_dialog_3">
-			<text>Sorry Wolf, but I'm not going near any anomaly without protection</text>
+			<text>Tut mir leid "Wolf", aber das ist nichts für mich.</text>
 		</string>
 		<string id="artmod_862_dialog_0">
-			<text>Hey there Wolf, anything new happening?</text>
+			<text>Hey Wolf. Alles ruhig? Hast du was Neues?</text>
 		</string>
 		<string id="artmod_862_dialog_1">
-			<text>Baby-sitting these Rookies, and drinking bad vodka. A typical day in the Zone!</text>
+			<text>Na ja.. Das Militär beim Posten dort unten ist nervös mit dem Zeigefinger, die "Wildschweine" und "Fleisch" statten uns ab und zu ein Besuch ab, Baby Sitter für die Neulinge spielen und hin und wieder Schlechten Wodka trinken. Halt ein Typischer Tag in der Zone - aber sonst - alles normal und ruhig...</text>
 		</string>
 		<string id="artmod_862_dialog_2">
-			<text>Here, I found that document for you. I could really use that weapon you promised...</text>
+			<text>Hier, ich hab ein Dokument gefunden. Meintest du das..?</text>
 		</string>
 		<string id="artmod_862_dialog_3">
-			<text>Yes! You're no Rookie now, are you?! Here you go. It's only got one full clip.\nSee if you can talk with Kuznetsov. He should be able to help you with more cartridges</text>
+			<text>Ja, genau, das ist es. Hier hast du die "AK-74U". Munition ist leider recht knapp, Ich konnte ein Magazin entbehren...\n \nVersuch mit "Kusnezow" zu reden, vielleicht kann er mit weiterer Munition  aushelfen...</text>
 		</string>
 		<string id="tex_escape_lager_volk_document">
-			<text>\nWolf asked me to find a lost document for him in the passageway under the railroad tracks. I should earn a decent AK-74u for this job...</text>
+			<text>\n \n \n \n \n \nWolf bat mich, ihm ein Dokument widerzubeschaffen welches in Kordon, Nördlich im Tunnel unter den Eisenbahngleisen zu finden sein soll. Damit hätte ich dann eine anständige "AK-74U".\n \nKein Problem...</text>
 		</string>
 		<string id="item_quest_case_02_desc">
-			<text>A tough, heat-resistant document case</text>
+			<text>\n \nFeuerfester Aktenkoffer mit Dokumenten.</text>
 		</string>
 		<string id="item_quest_case_02_name">
-			<text>Military documents</text>
+			<text>Militär-Dokumente</text>
 		</string>
 		<string id="item_quest_case_06_desc">
-			<text>Locked metal briefcase, requiring a code to unlock it electronically. According to the soldier hiding in the old trailer in the swamp, it contains data sent by the Base Commander about one of the excursions deep into the Zone</text>
+			<text>\n \nEin Metall-Aktenkoffer.\n \nDer Fahnenflüchtige beim "Alten Trailer" in den "Sümpfen" sagte, das in diesem Koffer sich Hochbrisante Daten über die Zone befinden, die für den Kommandanten der Basis zugestellt wurden. Elektronisch abgeschlossen. Kann man entweder durch "Bruteforce" oder des jeweiligen "Codes" öffnen.</text>
 		</string>
 		<string id="item_quest_case_06_name">
-			<text>Documents from the Military Base</text>
+			<text>Dokumente aus der Militär-Basis</text>
 		</string>
 		<string id="item_quest_sak_plan_name">
-			<text>Bag of 'weed'</text>
+			<text>Sack mit "Gras"</text>
 		</string>
 		<string id="item_quest_sak_plan_desc">
-			<text>Moisture-proof bag filled with Afghan Kush marijuana</text>
+			<text>\n \nEin in wasserdichtes Sack verpacktes, hochwertiges "Afghan Kush Marijuana".</text>
 		</string>
 		<string id="val_escort_captive_name">
 			<text>Max Lubero</text>
 		</string>
 		<string id="sak_resiver_name">
-			<text>Army radio</text>
+			<text>Militär-Funkgerät</text>
 		</string>
 		<string id="sak_resiver_desc">
-			<text>Army-issue VHF radio. An old, outdated model, but better than any other to resist most types of radiation throughout the Zone</text>
+			<text>\n \nEin simples Armee-Funkgerät. Die veralterte Lampen-Bauweise macht dieses aber am widerstandsfähigsten gegen verschiedene Strahlungsarten der in der Zone.</text>
 		</string>
 		<string id="sak_resiver_yantar_name">
-			<text>Monitoring unit</text>
+			<text>Überwachungseinheit</text>
 		</string>
 		<string id="sak_resiver_yantar_desc">
-			<text>Modern surveillance system that monitors the frequencies of regular Army VHF radios. This design allows remote monitoring, and in some cases may provide a more precise tuning of the teleports found throughout the Zone</text>
+			<text>\n \nIn ein einfaches Armee-Funkgerät modernes Überwachungssystem, das die Frequenzen der regulären UKW-Funkgeräte überwacht.\n \nDieses Konstruktion ermöglicht Fernüberwachung und kann in manchen Fällen eine genaue Ortung der gefundenen Teleporter, in der gesamten Zone aufspüren.</text>
 		</string>
 		<string id="item_case_esc_name">
-			<text>Outpost documents</text>
+			<text>Dokumente vom Außenposten</text>
 		</string>
 		<string id="sak_document_desc">
-			<text>Documents found on the bodies on the path</text>
+			<text>\n \nIn dem Dokument gibt es Infos über einen gefundenen Übergang.</text>
 		</string>
 		<string id="sak_document_name">
-			<text>Secret document</text>
+			<text>Geheimes Dokument</text>
 		</string>
 		<string id="item_rad_document6_desc">
-			<text>Documents containing orders and notes. What could possibly be of use in this jumbled old pile of papers?</text>
+			<text>\n \nDokumente mit Aufträgen und Notizen. Es könnte in diesem  alten Stapel von Papieren was nützliches dabei sein?</text>
 		</string>
 		<string id="item_rad_document6_name">
-			<text>File-folder containing documents</text>
+			<text>Mappe mit Dokumenten</text>
 		</string>
 		<string id="item_rad_document7_desc">
-			<text>Orders of the Troop Commander from over the past six months</text>
+			<text>\n \nMilitärbefehle der letzten sechs Monaten.</text>
 		</string>
 		<string id="item_rad_document7_name">
-			<text>File-folder containing documents</text>
+			<text>Mappe mit Dokumenten</text>
 		</string>
 		<string id="sak_document2_desc">
-			<text>Contains important information on the current methods of transforming artefacts</text>
+			<text>\n \nIn diesem Dokument sind Informationen über die möglichkeit einer Artefakt-Umwandlung enthalten.</text>
 		</string>
 		<string id="sak_document2_name">
-			<text>Documents plus unreadable disc</text>
+			<text>Dokumente und eine nicht lesbare Disk</text>
 		</string>
 		<string id="garbage_pda_name">
-			<text>PDA containing important information</text>
+			<text>PDA mit wichtigen Informationen</text>
 		</string>
 		<string id="garbage_pda_desc">
-			<text>PDA found at the dump, in a Bandit camp. Among other useful information, it contains instructions on how to transmutate an artefact</text>
+			<text>\n \nPDA von der "Müllhalde" aus dem Lager der Banditen gefunden. Beeinhaltet nützliche Informationen zur Umwandlung eines Artefakts.</text>
 		</string>
 		<string id="inventory_sakbox_01_name">
-			<text>box of cartridges</text>
+			<text>Kiste mit Munition</text>
 		</string>
 		<string id="inventory_sakbox_01_desc">
-			<text>heavy wooden box. Inside are boxes of cartridges</text>
+			<text>\n \nSchwere Holzkiste mit Muntion.</text>
 		</string>
 		<string id="inventory_sakbox_02_name">
-			<text>Metal Box</text>
+			<text>Metall-Kiste</text>
 		</string>
 		<string id="inventory_sakbox_02_desc">
-			<text>Metal box containing a set of tools</text>
+			<text>\n \nMetall Kiste mit einem Set von Werkzeugen</text>
 		</string>
 		<string id="inventory_sakbox_03_name">
-			<text>Safe</text>
+			<text>Tresor</text>
 		</string>
 		<string id="inventory_sakbox_03_desc">
-			<text>Fireproof, armored safe Locked with a magnetic key code. Inaccessible, without a blowtorch! Contents: - unknown</text>
+			<text>\n \nFeuerfester, gepanzerter Tresor. Codierter Magnetverschluss. Nur mir einem Gasbrenner zu öffnen. Was drin ist, weißt keiner...</text>
 		</string>
 		<string id="inventory_sakbox_04_name">
-			<text>little box</text>
+			<text>Kleine Kiste</text>
 		</string>
 		<string id="inventory_sakbox_04_desc">
-			<text>Metal Box</text>
+			<text>\n \nMetallkiste</text>
 		</string>
 		<string id="inventory_sakbox_05_name">
-			<text>High Security Container</text>
+			<text>Schutzbehälter</text>
 		</string>
 		<string id="inventory_sakbox_05_desc">
-			<text>Steel laboratory container designed for storage and transportation of hazardous materials. In the Zone is used for transportation of artefacts with unknown properties</text>
+			<text>\n \nEin Laborbehälter aus Metall. Dient dem Transport gefährlicher oder zerbrechlicher Substanzen und Gegenstände. In der Zone wird er  für den Transport von Artefakten mit unbekannten Eigenschaften benutzt.</text>
 		</string>
 		<string id="sak_book1_name">
-			<text>Book</text>
+			<text>Buch</text>
 		</string>
 		<string id="sak_book1_desc">
-			<text>scientific book. Very difficult to understand</text>
+			<text>\n \Wissenschaftliches Buch. Schwere Kost.</text>
 		</string>
 		<string id="sak_book2_name">
-			<text>Notebook</text>
+			<text>Notizbuch</text>
 		</string>
 		<string id="sak_book2_desc">
-			<text>Notebook filled with various scientific formulas and confusing tables</text>
+			<text>\n \nNotizbuch, voll mit Formeln und Tabellen.</text>
 		</string>
 		<string id="sak_book3_name">
-			<text>Book</text>
+			<text>Buch</text>
 		</string>
 		<string id="sak_book3_desc">
-			<text>An unremarkable looking book with tattered pages protruding at the edges</text>
+			<text>\n \nEin unscheinbares Buch mit zerrissenen Seiten, die an den Rändern hervorstehen.</text>
 		</string>
 		<string id="stukach_book_name">
-			<text>Diary</text>
+			<text>Tagebuch</text>
 		</string>
 		<string id="doktor_book_desc">
-			<text>The Swamp Doctor's Notebook. Judging from the contents, he was here recently!!!</text>
+			<text>\n \nDas Notizbuch des Sumpfdoktors. Den Einträgen nach zu urteilen - war er vor kurzem hier!</text>
 		</string>
 		<string id="doktor_book_name">
-			<text>Doctor's Diary</text>
+			<text>Doktors Tagesplaner</text>
 		</string>
 		<string id="item_computer_desc">
-			<text>Computer systems unit in the Pripyat bus. Contains important information necessary for the operation of the teleport</text>
+			<text>\n \nEin Computer aus dem Busbahnhof von Prypjat. Enthält wichtige Informationen, die nötig sind, um eine Teleportation zu berechnen.</text>
 		</string>
 		<string id="item_computer_name">
 			<text>Laptop</text>
 		</string>
 		<string id="item_diplomat_desc">
-			<text>Laptop, found in Laboratory X-16. Contains detailed Seismological and Geological maps of Yantar, and surrounding areas</text>
+			<text>\n \nEin Laptop aud dem "X-16 Labor". Enthält detaillierte seismologische und geologische Karten vom Jantar und umgebung.</text>
 		</string>
 		<string id="scaintist_pda_name">
-			<text>Scientist's PDA</text>
+			<text>PDA eines Wissenschaftlers</text>
 		</string>
 		<string id="scaintist_pda_desc">
-			<text>Dead Pripyat scientist's PDA. Contains information that attracts 'mojito'</text>
+			<text>\n \nPDA des Wissenschaftlers, der in Prypjat ums Leben kam. Enthält Informationen, die "Mojito" interessieren.</text>
 		</string>
 		<string id="item_diplomat_name">
-			<text>Diplomatic documents</text>
+			<text>Aktenkoffer mit Dokumenten</text>
 		</string>
 		<string id="item_notebook_desc">
-			<text>Laptop found in Laboratory X-18. Surprisingly, still in working condition. Contains data on the seismic survey conducted in the area surrounding the Army Warehouses</text>
+			<text>\n \nEin Laptop aus dem "X-18 Labor". Trotz der Feuchtigkeit ist das Ding ist noch funktionstüchig... Auf der Festplatte sind seismologische Karten der Armeelagerhäuser gespeichert.</text>
 		</string>
 		<string id="item_notebook_name">
-			<text>Laptop with important data</text>
+			<text>Laptop mit wichtigen Daten</text>
 		</string>
 		<string id="item_decoder1_name">
-			<text>Kruglovs device</text>
+			<text>Kruglows Gerät</text>
 		</string>
 		<string id="item_decoder1_desc">
-			<text>Complex Electronic Measuring Converter</text>
+			<text>\n \nEin kompliziertes Mess- und Umwandlungsgerät.</text>
 		</string>
 		<string id="agroprom_pda_name">
 			<text>Mole's PDA</text>
 		</string>
 		<string id="agroprom_pda_desc">
-			<text>PDA which belonged to the Stalker nicknamed Mole</text>
+			<text>\n \nEin PDA der einem Stalker mit dem Spitznamen Mole (Maulwurf) gehört.</text>
 		</string>
 		<string id="und_pda_name">
 			<text>Max Lubero's PDA</text>
 		</string>
 		<string id="und_pda_desc">
-			<text>Max Lubero brags that this PDA contains many secrets regarding the 'Duty' faction</text>
+			<text>\n \nMax Luber behauptet, das auf diesem PDA viele "Wächter"-Geheimnisse gespeichert sind.</text>
 		</string>
 		<string id="volkodav_pda_name">
-			<text>Wolfhound's PDA</text>
+			<text>PDA von Wolfhound</text>
 		</string>
 		<string id="volkodav_pda_desc">
-			<text>Among the encrypted data, there is a description concerning the transmutation of artefacts</text>
+			<text>\n \nZwischen den ganzen verschlüsselten Daten gibt es auch eine Beschreibung der Artefakt-Modifikation.</text>
 		</string>
 		<string id="ara_pda_name">
-			<text>Mercenary's PDA</text>
+			<text>Söldners PDA</text>
 		</string>
 		<string id="ara_pda_desc">
-			<text>A Mercenary named Ara kept many secrets concerning his group, including a description of the secret passage between the Army Warehouses and the Wild Territory</text>
+			<text>\n \nSöldner "Ara" hat viele Geheimnisse seiner Fraktion aufbewahrt, unter anderem die Beschreibung eines geheimen Übergangs zwischen Armeelagerhäusern und dem Wildgebiet.</text>
 		</string>
 		<string id="rad_pda_name">
-			<text>Monolith PDA (unknown)</text>
+			<text>PDA eines unbekannten Monolith-Anhängers</text>
 		</string>
 		<string id="rad_pda_desc">
-			<text>Found a PDA near the Psi-Emitter. In amongst all the gibberish was an artefact transmutation recipe</text>
+			<text>\n \nIn der Nähe des Hirnschmelzers gefundener PDA. Zwischen dem ganzen religiösen Absurdum fand sich ein Rezept für Artefakt-Transmutation...</text>
 		</string>
 		<string id="quest_manycase_01_desc">
-			<text>Fireproof steel case with a combination lock\nContents: Cash</text>
+			<text>\n \nStahl-Aktenkoffer mit Codeschloss. Inhalt - Geld.</text>
 		</string>
 		<string id="quest_manycase_01_name">
-			<text>Steel case</text>
+			<text>Stahl-Aktenkoffer</text>
 		</string>
 		<string id="tex_esc_provodnik_groza">
-			<text>\nThe Stalker named Guide asked me to find him a good weapon. A Tunder assault rifle should do the trick</text>
+			<text>\n \n \n \n \n \nEin Stalker mit dem Namen "Führer" hat mich gebeten, ihm eine gute Waffe zu finden. Sturmgewehr "Thunder Assault" ist genau das Richtige.</text>
 		</string>
 		<string id="tex_yan_scientist_find_af_dummy_glassbeads">
-			<text>\nProfessor Sakharov from the lab in the Yantar swamplands has asked me to find him a rare artefact, a Glassbeads. In return, he'll show me a hidden pathway</text>
+			<text>\n \n \n \n \n \nProf. Sacharow braucht für eine Reihe von Experimenten ein seltenes Artefakt - "Mamas Perlen". Als Dank dafür, wird er Koordinaten eines neuentdeckten Übergangs verraten.</text>
 		</string>
 		<string id="tex_yan_scientist_find_case">
-			<text>\nProfessor Sakharov said that the Military has stolen a metal case of documents relating to the study of pathways throughout the Zone</text>
+			<text>\n \n \n \n \n \nProf. Sacharow berichtete, das man dem Militär einen Metall-Aktenkoffer entwendet hat, in dem, unter anderem, auch Daten über dir Erforschung der Wege in die "tiefere" Zone liegen.</text>
 		</string>
 		<string id="tex_bar_dolg_leader_find_case">
-			<text>\nGeneral Voronin urgently needs to find a metal case containing important documents, which got lost in the Dark Valley. Exactly what these documents pertain to is a mystery</text>
+			<text>\n \n \n \n \n \nGeneral Woronin braucht dringend die Metallkiste mit Dokumenten, die im Dunklen Tal verloren wurde. Was in dieser Kiste ist - unbekannt...</text>
 		</string>
 		<string id="tex_mil_lukash_find_dinamit">
-			<text>A leader within Freedom says that they need some dynamite. Maybe this'll help pave the way into the Dark Valley. According to Lukash, there should be some dynamite in the Rookie camp. Exactly where, I've no idea...</text>
+			<text>\n \n \n \n \n \nDer Anführer der "Freiheit"-Fraktion braucht Dynamit. Damit wird, vielleicht, ein Weg ins Dunkle Tal frei gemacht. Lukash sagte, das man Dynamit in Kordon im Lager der Neulinge finden kann. Wo genau - tja...</text>
 		</string>
 		<string id="tex_esc_reward_case">
-			<text>\nInside the box taken from the Military base at Agroprom was a disk containing encrypted data. I'm told that the Barkeep in the old factory at Rostok can decipher it</text>
+			<text>\n \n \n \n \n \nIn der Kiste,die ich von der Militärbasis in Agroprom gestohlen habe, liegen ausschließlich verschlüsselte Dokumente die nur der Wirt in Rostok entziffern kann.</text>
 		</string>
 		<string id="tex_esc_tolik_five_teily">
-			<text>\nTolik asked me to bring him five blind dog's tails. He needs them to convert an artefact</text>
+			<text>\n \n \n \n \n \nTolik möchtet fünf Hundeschwänze haben. Er braucht diese für seine Artefakt-Modifikationen.</text>
 		</string>
 		<string id="artmod_111_dialog_0">
-			<text>Did you want to ask me something?</text>
+			<text>Was gibt's denn noch? Willst du mich was fragen?</text>
 		</string>
 		<string id="artmod_111_dialog_1">
-			<text>I met a seasoned Stalker recently. We shared a bottle, and he taught me how to make a Meat Chunk by combining two other artefacts plus some blind dog's tails. I was trying to get them myself but, as you can see, I barely survived. If you can bring me these tails, I'll share the secret with you, and we can make them together</text>
+			<text>Ich traf vor kurzem einen erfahrenen Stalker, als wir zusammen ein getrunken haben, erzählte er mir über die Möglichkeit das Artefakt "Fleischklumpen" aus zwei anderen - zu bekommen. Dafür braucht man noch ein Hundeschwanz. Ich wollte ja welche besorgen - aber du siehst ja. Ich bin grade so am Leben geblieben. Wenn du mir so um 5 Stück von den Schwänzen bringst, erzähl ich dir wie das geht...</text>
 		</string>
 		<string id="artmod_111_dialog_2">
-			<text>Okay, I'll try to get the tails for you</text>
+			<text>Gut, dann werd ich mal die blinden Biester ein bisschen rumscheuchen...</text>
 		</string>
 		<string id="artmod_111_dialog_3">
-			<text>I'm sorry, but I can't help you</text>
+			<text>Nein, keine Zeit für so einen Qutsch..</text>
 		</string>
 		<string id="artmod_112_dialog_0">
-			<text>I brought you those tails you asked for</text>
+			<text>Hallo. Ich bring dir die Hundeschwänze...</text>
 		</string>
 		<string id="artmod_112_dialog_1">
-			<text>Wow! Marked One, I can't thank you enough!</text>
+			<text>Danke, Gezeichneter. Ich kann dir nicht genug danken!</text>
 		</string>
 		<string id="artmod_112_dialog_2">
-			<text>Please take them. They stink!</text>
+			<text>Pack ein, solange sie noch nicht stinken...</text>
 		</string>
 		<string id="artmod_112_dialog_3">
-			<text>Wait here. I wrote down how to use these to make a Meat Chunk. Though I've not been able to test it yet, so cross your fingers...</text>
+			<text>Hier... Ich hab mir aufgeschrieben, wie man ein "Fleischklumpen" kochen kann... Hab's aber selber noch nicht versucht...</text>
 		</string>
 		<string id="artmod_121_dialog_0">
-			<text>How can I can help you?</text>
+			<text>Wie kann ich dir helfen?</text>
 		</string>
 		<string id="artmod_121_dialog_1">
-			<text>We control this territory, protecting it against Bandits and other nasties. Occasionally we provide goodies, like useful information. As you can see, our weapons are quite archaic, but at least we're not short of ammunition. I need you to bring me a TOZ-34 hunting rifle. For what we need, it's the most suitable weapon. In return, I'll tell you how to transform a poor artefact into a pretty good one</text>
+			<text>Ich und die Jungs versuchen dieses Gebiet zu kontrollieren und debei es von den Banditen und Mutanten zu beschützen. Dafür helfen Wolf und andere erfahrene Stalker uns mit Lebensmitel, Infos und anderen Sachen aus. NUr leider nicht was unsere Ausrüstung und Waffen angeht, das ist nicht gerade das beste, auch wenn man hier nicht viel Munition verbrät. \n \nWenn du eine Möglichkeit siehst, kannst du mir ein "TOZ-34" Jagdgewehr besorgen? Für unsere Aktion hier ist es die passende Waffe... Und ich erzähl dir dafür, wie man aus einem billigen Artefakt - ein höherwertiges bekommt...</text>
 		</string>
 		<string id="artmod_121_dialog_2">
-			<text>Sure, no problem. Shouldn't be difficult. I think Sidorovich has one in stock</text>
+			<text>Alles klar - mache ich. ich sah eins bei Sidorowitsch.</text>
 		</string>
 		<string id="artmod_121_dialog_3">
-			<text>Thank you. I hope you can help me out</text>
+			<text>Beweg dein Arsch selbst. Bin doch nicht dein Lakei...</text>
 		</string>
 		<string id="artmod_122_dialog_0">
-			<text>Hey there! I brought you the Toz</text>
+			<text>Grüß dich noch mal... Wie ist die Lage? Her ist das Jagdgewehr.</text>
 		</string>
 		<string id="artmod_122_dialog_1">
-			<text>You came just at the right time. The Bandits are causing trouble again...</text>
+			<text>Genau im richtigen Moment. Die Banditen verursachen wieder Probleme ...</text>
 		</string>
 		<string id="artmod_122_dialog_2">
-			<text>Do you need my help?</text>
+			<text>Ok .. Hier hast du es. Braucht ihr Hilfe?</text>
 		</string>
 		<string id="artmod_122_dialog_3">
-			<text>Thanks, but they're gone for now. Wait, I promised to tell you how to make Slugs, so here: Get a Medusa, a Quirk, a Blind dog's tail and a 300 gram sausage. Don't laugh, I'm serious! Drop it all into a Vortex anomaly, and wait. After ten minutes you'll have a Slug artefact. Really!</text>
+			<text>Nein, wir schaffen das schon, aber danke - Warte, ich wollte dir doch noch erzählen, wie man das Arttefakt "Reglette" bekommt. Also: du nimmst eine "Qualle", "Gepresstes", ein Hundeschwanz und Stück ein Wurst .. so um die 300 Gramm... Lach nicht, das ist ernst!  Wirfst das alles in die "Vortex" Anomalie, und so nach 10 Minuten ist die "Reglette" fertig. Ich hab's schon mal selbst gemacht - glaub mir.</text>
 		</string>
 		<string id="tex_esc_petruha_toz">
-			<text>\nPetruha, team leader, requests you to bring him a TOZ-34 hunting rifle, to help him protect the area from mutants</text>
+			<text>\n \n \n \n \n \nPetruha benötigt mehr Feuerkraft bei wenig Muntion. Er bat mich um ein "TOZ-34" Jagdgewehr, welches ihm bei der Verteidigung gegen die Banditen und Mutanten, bei der Autowerkstatt, von Nutzen wäre...</text>
 		</string>
 		<string id="artmod_131_dialog_0">
-			<text>Do you have any info on artefact modification?</text>
+			<text>Hast du irgendwelche Informationen über - sogenannte Artefakt-Modifikation?</text>
 		</string>
 		<string id="artmod_131_dialog_1">
-			<text>Yesterday one of the local Bandits, after a strong drink, started boasting that he'd soon be rich. Claimed that he could convert a Medusa into a better artefact. Let's try it out! You find a Medusa, bring it to me, and I'll share his recipe with you. Deal?</text>
+			<text>Oh ja - Hatte einen besoffenen Banditen belauscht, wie er rumprallte, das er bald reich wäre... Das man aus einer "Qualle" ein "cooleres" Artefakt machen kann.\n \nWollen wir es versuchen? Wenn du eine "Qualle" besorgst, erzähl ich dir wie es geht...</text>
 		</string>
 		<string id="artmod_131_dialog_2">
-			<text>Sounds interesting enough. Let's give it a try</text>
+			<text>Interessant, lass uns das versuchen...</text>
 		</string>
 		<string id="artmod_131_dialog_3">
-			<text>Sounds like bullshit to me...</text>
+			<text>Ach Quatsch, Da hast du dich verhört...</text>
 		</string>
 		<string id="artmod_132_dialog_0">
-			<text>I found a Medusa for you</text>
+			<text>Wie geht's? Ich hab hier eine "Qualle" gefunden...</text>
 		</string>
 		<string id="artmod_132_dialog_1">
-			<text>Okay, let's try out this transmutation recipe of yours</text>
+			<text>Toll, dann werde ich mal versuchen diese - Transmutation, ist wohl ein Fachjargon für Modifkation - zu machen...</text>
 		</string>
 		<string id="artmod_132_dialog_2">
-			<text>Here you go. So, how's it done?</text>
+			<text>Klar! .. also Hier. Und wie geht es nun weiter?</text>
 		</string>
 		<string id="artmod_132_dialog_3">
-			<text>The Bandit said to toss a Medusa, a Stone Blood, an ordinary bandage, and a can of food into a Whirligig anomaly, then leave it for about ten minutes. I'm not sure what's supposed to happen after that, but we'll soon find out!</text>
+			<text>O-K-A-Y .. Also der Bandit erzählte das man je eins von den Artefakten "Qualle" und "Steinblut" in die Anomlie "Karussell" wirft. Und jetzt komms .. dazu noch ein Verband und eine Konserve. Was dabei rauskommt - keien Ahnung. Das konnt ich nicht mehr verstehen. Ist aber sicher nützlich...</text>
 		</string>
 		<string id="tex_esc_shustryi_medusa">
-			<text>\nNimble wants to try out a new transmutation that he learned from a Bandit. To do this, he needs a Medusa artefact</text>
+			<text>\n \n \n \n \n \nNimble möchte die Artefakt-Modifikation ausprobieren, über die er von einem Banditen hörte. Dafür braucht er das Artefakt "Qualle"\n \n \n \n \n \ntex_esc_shustryi_medusa (Doppelt?)</text>
 		</string>
 		<string id="tex_esc_shustryi_Jellyfish">
-			<text>\nNimble wants to try out a new transmutation that he learned from a Bandit. To do this, he needs a Medusa artefact</text>
+			<text>\n \n \n \n \n \nNimble möchte die Artefakt-Modifikation ausprobieren, über die er von einem Banditen hörte. Dafür braucht er das Artefakt "Qualle"\n \n \n \n \n \ntex_esc_shustryi_Jellyfish (Doppelt?)</text>
 		</string>
 		<string id="artmod_141_dialog_0">
-			<text>Hello Major. Are you interested in doing some business?</text>
+			<text>Major..? Sagen sie, wie wäre es mit einem Geschäft? Ich möchte nicht repektlos erscheinen aber sie und ihre Jungs scheinen da ja ein kleinen wenig Bedarf an Alkohol zu haben. 1 Flasche? .. Kommen sie ... da geht mehr - interessiert?</text>
 		</string>
 		<string id="artmod_141_dialog_1">
-			<text>It'll be my birthday soon, so listen up! We've plenty of food, but not enough booze. Unfortunately, I can't just go to a corner shop and buy some around here... So, if you were to bring me, let's say, ten bottles of vodka, I will give you three boxes of ammunition, plus some useful information. We recently detained a Stalker who swore that he could create a Crystal Thorn. I'll tell you when you bring the vodka, okay? This'll be one piece of business you'll not regret!</text>
+			<text>Hmm... Pass auf... Ich hab bald Geburtstag. Eine runde Zahl. Das möchte ich richtig feiern. Zu essen gibt's genug, aber kaum was zum Aufwärmen.\n \nSelbst kann ich nicht zum Händler - bin ja im Dienst. Wenn du mir eine halbe Kiste Wodka bringst, also 10 Flaschen, dann können wir hier abfeiern. Mal sehen .. Munition hätte ich für dich - zum Beispiel. Und eventuell auch Informationen. \n \nZum beispiel haben wir vor kurzem einen "Runner" verhaftet. Das sind die die versuchen entweder Links oder Rechts über die Gleise zu laufen und hoffen nicht erwischt zu werden. Er brabbelte, das man eine "Qualle" zum "Dornenkristall" verwandeln könnte.\n \nWenn du mehr wissen willst - besorg den Wodka.</text>
 		</string>
 		<string id="artmod_141_dialog_2">
-			<text>Interesting. I really like the sound of this</text>
+			<text>Halbe Kiste also... So schwer wird es schon nicht sein, diese Menge zu besorgen. Und neugierig auf diese Artefakt-Umwandlung bin ich auch.</text>
 		</string>
 		<string id="artmod_141_dialog_3">
-			<text>Not interested. Sorry...</text>
+			<text>Neee, das ist mir die Mühe nicht Wert. Entschuldigen sie die Störung...</text>
 		</string>
 		<string id="artmod_142_dialog_0">
-			<text>Good morning Major, and a happy birthday to you!</text>
+			<text>Seien Sie gegrüßt und herzlichen Glückwunsch!</text>
 		</string>
 		<string id="artmod_142_dialog_1">
-			<text>Fuck that, Stalker! Did you bring the vodka?</text>
+			<text>Oha, da hat jemand wort gehalten. Hast du etwas was für mich?</text>
 		</string>
 		<string id="artmod_142_dialog_2">
-			<text>Yep, ten bottles as requested. The real deal, too...</text>
+			<text>Ja, hier. 10 Flaschen. Nix selbstgebranntes, alles Original.</text>
 		</string>
 		<string id="artmod_142_dialog_3">
-			<text>Well done Stalker! I remembered your reward - three boxes of ammo. Oh, and the recipe. Let me put that in your PDA.\nIf you need any gear from me in future, don't forget to bring vodka!\nThere's another little matter I'd like to discuss with you, but it can wait until later...</text>
+			<text>Sehr schön! JUNGS HIER GIBST WAS ZU TRINKEN!\n \nDein Gesicht werde ich mir merken, auf dich ist wohl verlass. Also wenn du mal was brauchst... Hier hast du zwei - nein - drei Packungen Munition. Panzerbrechend. Ach ja, und das versprochene Rezept... Hol mal dein PDA raus, wir sollten nicht zu lange quatschen und wie gesagt wenn du irgendwelche Ausrüstung von mir in Zukunft haben willst, vergesse nicht den Wodka mitzubringen.\n \nEs gibt noch eine kleine Sache die ich mit dir besprechen möchte, aber das kann warten ...</text>
 		</string>
 		<string id="tex_esc_bridge_vodka">
-			<text>\nMajor Kuznetsov can supply rounds for an AK-74, plus useful information on artefact transformation, in exchange for ten bottles of vodka. He also promised further bargains to be had upon the successful execution of a personal favour</text>
+			<text>\n \n \n \n \n \nMajor Kusnezow kann was über Artefakt-Modifikationen erzählen und mich mit Munition versorgen. Als Gegenleistung für eine halbe Kiste Wodka.\n \n10 Flaschen werden sicher kein Problem sein. </text>
 		</string>
 		<string id="artmod_161_dialog_0">
-			<text>What kind of medkit do you need?</text>
+			<text>Brauchst du noch ein Medikit?</text>
 		</string>
 		<string id="artmod_161_dialog_1">
-			<text>I'm not sure. The blind dogs around here seem to getting even more mutated, so even the tiniest cut could mean the difference between life and death! You have to cut out the piece of contaminated flesh completely, and disinfect it immediately.\nIf you're up to it, bring me a dozen medkits. I'll give you another artefact recipe, okay?</text>
+			<text>Sag lieber nichts... Diese blinden Hunde mutieren ständig weiter. Eine kleine Wunde reicht um draufzugehen, wenn man diese nicht sofort behandelt. \n \nWenn du einverstanden wärst, würde ich dir für 12 Standart-Medikits ein Rezept einer Artefakt-Transmutation zukommen lassen.</text>
 		</string>
 		<string id="artmod_161_dialog_2">
-			<text>Okay, I'll get them for you\nAh, the Zone! It's like shit - the deeper you're in, the worse it gets!</text>
+			<text>Gut, werde ich besorgen. Tja, die Zone... Je weiter, desto schlimmer.</text>
 		</string>
 		<string id="artmod_161_dialog_3">
-			<text>Sorry Fox, but I need to move on. You're on your own...</text>
+			<text>Tut mir leid Fox, aber ich muss weiter. Du schaffst das schon ...</text>
 		</string>
 		<string id="artmod_162_dialog_0">
-			<text>Hi Fox. I've got the ten kits you wanted</text>
+			<text>Hey Fox, ich hab dir die Medikits mitgebracht, wie versprochen.</text>
 		</string>
 		<string id="artmod_162_dialog_1">
-			<text>Excellent. You brought me Army medkits? Right?</text>
+			<text>Ausgezeichnet. Da sind Armee-Medkits? Richtig?</text>
 		</string>
 		<string id="artmod_162_dialog_2">
-			<text>No, the regular ones. You didn't say anything about Army kits...</text>
+			<text>Ja, klar. 110% - Diese wolltest du ja. Das habe ich gefühlt und Armee-Medikits gibst hier in Hülle und Fülle - alter? Natürlch nur die Normalen Standard Medikits.</text>
 		</string>
 		<string id="artmod_162_dialog_3">
-			<text>Sorry, my mistake. They'll do. Here's your recipe, as I promised. Find an Electro anomaly, and throw in a Stone Blood, a Medusa, a dog's tail, and a bottle of vodka. After about ten minutes you'll get a Fireball!</text>
+			<text>Oh .. Na gut! Sorry, mein Fehler.\n \nHier Schreib dir mal das Rezept auf - du wirfst nacheinander in die "Elektra" Anomalie ein "Steinblut", eine "Qualle" und ein Hundeschwanz und das alles wird mit einem halben Liter Wodka übergossen. Nach 10-15 Minuten bekommst du das Artefakt "Feuerball"!\n \nNur Standard Medikits ...</text>
 		</string>
 		<string id="tex_esc_fox_medkit">
-			<text>Fox needs at least ten medkits</text>
+			<text>\n \n \n \n \n \n"Fox" braucht Medikits, mindestens 10 Stück.</text>
 		</string>
 		<string id="artmod_211_dialog_0">
-			<text>Did you say "Thank you?" Sorry, I didn't hear you. How many times I have brought you back from the dead?</text>
+			<text>Hast du gesagt "Danke?" Tut mir leid - ich habe dich nicht gehört. Wie oft habe ich dich von den Toten zurückgebracht?</text>
 		</string>
 		<string id="artmod_211_dialog_1">
 			<text>Yes, you did rescue me. Forgive my discourtesy, but I do see you're an experienced Stalker, A craftsman recently converted an MP5 submachine gun to use a heavier cartridge. With this, it would be easier for me to fight. I know that a Stalker carrying this very weapon perished in the railway tunnel leading from the Garbage to Agroprom. I'd like you to get it for me. In return, I'll share information I have on how to convert an artefact</text>
@@ -3402,4 +3304,4 @@ Zu seinem Höhepunkt im Jahr 1975 hatte das Magazin für "Alles, was Männern Spaß 
 			<text>Borov? I'll have a word with him... when I see him</text>
 		</string>
 	</string_table>
-<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 17.03.2017 07:20:39 -->
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 18.03.2017 03:12:00 -->
