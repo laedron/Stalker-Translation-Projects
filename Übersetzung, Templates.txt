@@ -1,0 +1,178 @@
+Für Enziklopädie Texte die zu kurz sind. 1-6 Sätze, Quick Return zeichen
+========================================================================================
+\n \n \n \n \n \n
+
+Sonderzeichen für die Stalker Texte
+========================================================================================
+Das '&' zeichen wird nicht dargestellt. Schreiben muss man es als: 
+&amp;
+
+
+========================================================================================
+Nur für die Waffen info als Zwischen Titel
+	Serie Avtomat Kalaschnikow 1947\n \n
+
+
+
+TEMPLATES
+Diese Templates vereinheitlichen alle Aufistungen von Waffen, Anzüge, Artefakte, Items
+Anomalien, Munition, Visiere.
+
+
+- Artefakt Info:
+========================================================================================
+%c[221,255,193,255]Körperliche Eigenschaften\n
+%c[255,255,255,210]Vital Gesundheit : %c[default]n/a\n
+%c[255,255,255,210]Vital Blutung®®® : %c[default]n/a\n
+%c[255,255,255,210]Vital Ausdauer®® : %c[default]n/a\n
+%c[255,255,255,210]Vital Hunger®®®® : %c[default]n/a\n
+%c[default]\n \n
+%c[221,255,193,255]Schutz und Resistenz\n
+%c[255,255,255,210]Strahlung®®®®®®® : %c[default]n/a\n
+%c[255,255,255,210]Verbrennung®®®®® : %c[default]n/a\n
+%c[255,255,255,210]Elektroschock®®® : %c[default]n/a\n
+%c[255,255,255,210]Chemisch Verbre. : %c[default]n/a\n
+%c[255,255,255,210]PSI Telepatie®®® : %c[default]n/a\n
+%c[255,255,255,210]Vor Reißwunden®® : %c[default]n/a\n
+%c[255,255,255,210]Vor Projektile®® : %c[default]n/a\n
+%c[255,255,255,210]Vor Explosion®®® : %c[default]n/a\n
+%c[255,255,255,210]Aufprall Schutz® : %c[default]n/a\n
+%c[default]\n \n
+%c[221,255,193,255]Artefakt Trans-und MesoMutation\n
+%c[255,255,255,210]Benötigte Zeit®® : %c[255,224,224,160]n/a\n
+%c[255,255,255,210]Wirkung Positiv® : %c[255,1,255,1]n/a\n
+%c[255,255,255,210]Wirkung Negativ® : %c[255,1,255,1]\n
+%c[255,255,255,210]Ursprung®®®®®®®® : %c[255,1,255,1]\n
+%c[255,255,255,210]Anomalie Abhängig: %c[255,1,255,1]\n
+%c[default]\n \n
+
+
+
+Waffen Information:
+========================================================================================
+%c[221,255,193,255]Waffen Info\n
+%c[255,255,255,210]Munition® : %c[1,168,255,210]\n
+%c[255,255,255,210]Kapazität : %c[1,168,255,210]\n
+%c[255,255,255,210]Verbaut®® : %c[1,168,255,210]n/a\n
+%c[255,255,255,210]Länge®®®® : %c[1,168,255,210]Keine Angabe\n 
+%c[255,255,255,210]Lauflänge : %c[1,168,255,210]Keine Angabe\n
+%c[255,255,255,210]Reichweite: %c[1,168,255,210]Keine Angabe\n \n
+%c[221,255,193,255]Weitere Eigenschaften\n
+%c[250,150,150,250]Typ®®®®®® : %c[1,168,255,210]Keine Angabe\n
+%c[250,150,150,250]Modis®®®® : %c[1,168,255,210]Keine Angabe\n \n
+%c[221,255,193,255]Optionales Zubehör\n
+%c[250,150,150,250]n/a\n \n
+%c[221,255,193,255]Beschreibung\n%c[default]
+
+
+
+/// Schalldämpfer
+========================================================================================
+Schalldдmpfer (Kaliber xxx)
+%c[221,255,193,255]Schalldämpfer\n
+%c[255,255,255,210]Kaliber®  : %c[1,168,255,210]\n
+%c[255,255,255,210]Waffen®®  : \n%c[1,168,255,210]\n
+%c[default]\n \n
+
+//// Optik, Visiere. Für den genauen Zoom Faktor die Excel Tabelle einsehen
+========================================================================================
+%c[221,255,193,255]Visier Einrichtung\n
+%c[255,255,255,210]Name®®®® : %c[1,168,255,210]\n
+%c[255,255,255,210]Zoom®®®® : %c[1,168,255,210]1x\n
+%c[255,255,255,210]Nacht®®® : %c[1,168,255,210]n/a\n
+%c[255,255,255,210]Waffen®® : \n%c[1,168,255,210]
+%c[default]\n \n
+
+//// Munition						////Title    				Munition: xxxxxx Kaliber
+========================================================================================
+%c[221,255,193,255]Munition\n
+%c[255,255,255,210]Kaliber® : %c[1,168,255,210]\n
+%c[255,255,255,210]Waffen®® : \n%c[1,168,255,210]
+%c[default]\n \n
+
+========================================================================================
+%c[221,255,193,255]Messer\n
+%c[255,255,255,210]Name®®®® : %c[1,168,255,210]\n
+%c[255,255,255,210]Schaden® : %c[1,168,255,210]%\n
+%c[255,255,255,210]Distance : %c[1,168,255,210]m\n
+%c[default]\n \n
+
+///// Waffen Minen
+========================================================================================
+%c[221,255,193,255]Waffen Info\n
+%c[255,255,255,210]Explosionsradius : %c[1,168,255,210]\n
+%c[255,255,255,210]Kapazität        : %c[1,168,255,210]\n
+%c[255,255,255,210]Detonationszeit  : %c[1,168,255,210]\n \n
+%c[default]\n
+
+///// Masken, Helme etc...
+========================================================================================
+%c[221,255,193,255]Info Schutz Kleidung\n
+%c[255,255,255,210]Strahlenschutz   : %c[1,168,255,210]\n \n
+%c[default]\n
+
+Mutanten
+=======================================================================================
+
+%c[255,220,220,100]• %c[255,1,255,255]Vitalität    : %c[255,1,255,1]\n
+%c[255,220,220,100]• %c[255,1,255,255]Gewicht      : %c[255,1,255,1]kg\n
+%c[255,220,220,100]• %c[255,1,255,255]Angriff      : %c[255,1,255,1]\n
+%c[255,220,220,100]• %c[255,1,255,255]Schnelligkeit: %c[255,1,255,1]\n \n
+%c[255,220,220,100]  Widerstandsfähigkeiten\n
+%c[255,220,220,100]• %c[255,1,255,255]Physisch     : %c[255,1,255,1]0%\n
+%c[255,220,220,100]• %c[255,1,255,255]Strahlung    : %c[255,1,255,1]0%\n
+%c[255,220,220,100]• %c[255,1,255,255]Verbrennung  : %c[255,1,255,1]0%\n
+%c[255,220,220,100]• %c[255,1,255,255]Chemisch     : %c[255,1,255,1]0%\n
+%c[255,220,220,100]• %c[255,1,255,255]PSI Schutz   : %c[255,1,255,1]0%\n
+%c[255,220,220,100]• %c[255,1,255,255]Kugeln       : %c[255,1,255,1]0%\n
+%c[255,220,220,100]• %c[255,1,255,255]Explosion    : %c[255,1,255,1]0%\n
+%c[255,220,220,100]• %c[255,1,255,255]Brüche       : %c[255,1,255,1]0%\n
+%c[255,220,220,100]• %c[255,1,255,255]Schockzustand: %c[255,1,255,1]0%\n \n%c[default]
+
+
+Item Info: Medizin
+========================================================================================
+%c[255,220,220,100]Stärke®®®®®®®®®®® : %c[255,1,255,1]\n
+%c[255,220,220,100]Kp. Alkohol Abbau : %c[255,1,255,1]\n
+%c[255,220,220,100]Erhöhte Ausdauer® : %c[255,1,255,1]\n
+%c[255,220,220,100]Erhöhter Schutz®® : %c[255,1,255,1]\n
+%c[255,220,220,100]Wirkungs Dauer®®® : %c[255,1,255,1]\n
+%c[255,220,220,100]PSI Schutz®®®®®®® : %c[255,1,255,1]\n
+%c[255,220,220,100]Reduziert. Hunger : %c[255,1,255,1]\n
+%c[255,220,220,100]Gesundheitsschub® : %c[255,1,255,1]\n
+%c[255,220,220,100]Blutung stillen®® : %c[255,1,255,1]\n
+%c[255,220,220,100]Packungs Menge®®® : %c[255,1,255,1]\n
+%c[255,220,220,100]Nebenwirkungen®®® : %c[255,1,255,1]\n
+%c[255,220,220,100]Strahlung®®®®®®®®®: %c[255,1,255,1]\n
+%c[default]\n \n
+
+Item Info: Outfits/ Westen/ Anzüge
+========================================================================================
+%c[255,220,220,100]Bequemlichkeit   : %c[255,1,255,1]\n
+%c[255,220,220,100]Festigkeitsklasse: %c[255,1,255,1]\n
+
+
+
+========================================================================================
+Zusatz Texte, Erinnerungs Info.
+\nBeschreibung Fehlt, auch in der Original Englischen Stalkersoup Version\nKommt dann Später
+
+Zusatz Texte, Hilfe für den Spieler
+\n \nHandbuch Schreibt: Um es zu verwenden, Platzieren sie es in den ersten Waffen Steckplatz (Slot).
+\n \nHandbuch Schreibt: Um die Information einzusehen, Platzieren sie das Objekt in den ersten Waffen Steckplatz (Slot).
+\n \nHandbuch Schreibt: Um es anzusehen, platzieren sie das Objekt in den ersten Waffen Steckplatz (Slot).
+
+
+
+===Spätere Item Prüfung==================================================================
+Texte wo es noch nicht ganz klar ist was man benötigt und ob das stimmt
+
+meceniy_st_dialogs.xml -> doc_qeast_q_5 (Anzüge)
+meceniy_st_dialogs.xml -> doc_tvar_5 (Klistier, Einlauf Mutanteil.. Gehe sumpf, besuche Doktor)
+meceniy_st_dialogs.xml -> m_qeast_3 (Waffen, Anomalous Bisons)
+
+sak_strings.xml			-> enc_enc_info_way112a_text/ Übergang Test, st es Snitch? Was ist mit Huckster
+sak_strings.xml			-> playboy_kruglov_desc	 Ist es tattsächlich noich Kriglow....
+sak_strings.xml			-> scaintist_pda_desc, 'mojito'?
+sak_strings.xml			-> tex_esc_provodnik_groza Welche Waffe "Thunder Assault" `?
+sak_strings.xml			-> artmod_162_dialog_1 Item Armee Nedikit?

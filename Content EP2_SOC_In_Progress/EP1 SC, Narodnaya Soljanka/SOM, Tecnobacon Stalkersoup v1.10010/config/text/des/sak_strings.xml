@@ -765,175 +765,175 @@
 			<text>Oh .. Na gut! Sorry, mein Fehler.\n \nHier Schreib dir mal das Rezept auf - du wirfst nacheinander in die "Elektra" Anomalie ein "Steinblut", eine "Qualle" und ein Hundeschwanz und das alles wird mit einem halben Liter Wodka übergossen. Nach 10-15 Minuten bekommst du das Artefakt "Feuerball"!\n \nNur Standard Medikits ...</text>
 		</string>
 		<string id="tex_esc_fox_medkit">
-			<text>\n \n \n \n \n \n"Fox" braucht Medikits, mindestens 10 Stück.</text>
+			<text>\n \n \n \n \n \n"Fox" braucht Medikits. So mindestens 10 Stück.</text>
 		</string>
 		<string id="artmod_211_dialog_0">
 			<text>Hast du gesagt "Danke?" Tut mir leid - ich habe dich nicht gehört. Wie oft habe ich dich von den Toten zurückgebracht?</text>
 		</string>
 		<string id="artmod_211_dialog_1">
-			<text>Yes, you did rescue me. Forgive my discourtesy, but I do see you're an experienced Stalker, A craftsman recently converted an MP5 submachine gun to use a heavier cartridge. With this, it would be easier for me to fight. I know that a Stalker carrying this very weapon perished in the railway tunnel leading from the Garbage to Agroprom. I'd like you to get it for me. In return, I'll share information I have on how to convert an artefact</text>
+			<text>Schau mich doch an... Ich bin ganz neu hier. Keiner beachtet mich. Und mit einer modifiziertern Waffe wäre ich schon jemand... \n \nGute Munition ist hier kaum aufzutreiben, aber Patronen für PM-Pistolen gibt es wie Sand am Meer. Man erzählt, das ein Waffenmeister aus der Zone die MP5-Maschinenpistolen für solche Patronen umbaut... Ich weiß genau, das ein Stalker, der so eine Maschinenpistole hatte, vor kurzem verreckt ist. Im Eisenbahntunnel, der von der Müllhalde zum Agroprom führt... Kannst du sie mir besorgen?\n \nIch begleiche meine Schuld bestimmt und werde dir über erzählen, wie man z.b ein Artefakt modifiziert.</text>
 		</string>
 		<string id="artmod_211_dialog_2">
-			<text>In the tunnel you say? Okay, I'll take a look</text>
+			<text>Im Tunnel also... Na gut, liegt eh auf meinem Weg.</text>
 		</string>
 		<string id="artmod_211_dialog_3">
-			<text>We'll see. I'm not making any promises</text>
+			<text>Ich verspreche nichts. Wenns klappt, dann klappt...</text>
 		</string>
 		<string id="artmod_212_dialog_0">
-			<text>Guess where I've been...</text>
+			<text>Rate mal, wo ich gewesen bin ...</text>
 		</string>
 		<string id="artmod_212_dialog_1">
-			<text>Did you find the gun?</text>
+			<text>Hast du die Waffe?</text>
 		</string>
 		<string id="artmod_212_dialog_2">
-			<text>Found it, tested it. Not bad at all. Here you go...</text>
+			<text>Gefunden, ausprobiert... Nicht schlecht... Hier hast du die...</text>
 		</string>
 		<string id="artmod_212_dialog_3">
-			<text>With such a weapon I can defend myself properly. Thank you!! Now, let's add some recipes to your PDA...\nPsst. Listen, Marked One... Can I ask you something?</text>
+			<text>Mit dieser Waffe werde ich König der Müllhalde sein... Mit einem "Danke" wird man ja nicht satt - und du schaust auch schon ganz komisch ..hier is das Artefakt-Rezept. Hab ich dir Hochgeladen...\n \nUnd hör mal, Gezeichneter... Kann ich dich um noch ein Gefallen bitten?</text>
 		</string>
 		<string id="tex_gar_dram_novice_mp5_m1">
-			<text>\nYurek, a Novice from the Garbage, has asked me to find him a modified MP-5 M1 machine gun</text>
+			<text>\n \n \n \n \n \nJurik, ein Anfänger von der Müllhalde, möchtet eine für PM-Munition modifizierte MP5 haben.</text>
 		</string>
 		<string id="artmod_811_dialog_0">
-			<text>What a day! Okay, what do you need?</text>
+			<text>Was ist das nur für ein Tag?! Jeder will was von mir... Was ist?</text>
 		</string>
 		<string id="artmod_811_dialog_1">
-			<text>I just arrived yesterday from the Cordon, I don't know how...\nI wanted to prove to everyone at the rookie camp that I'm worthy, but as soon as I'd left there I was mugged by Bandits. If I return now, they'll all laugh at me. If I could just get part of a mutant - you know, something like a Burer - then I could hold my head high when I go back. If you have one spare, I'll tell you about a special artefact...</text>
+			<text>Ich bin erst seit gestern aus Kordon raus, kenne mich noch kaum aus... Ich wollte allen beweisen, das ich es drauf habe, und siehe da - bin sofort Banditen in die Arme gelaufen. Wenn ich leer zurückkehre, werd ich zum Gespöt anderer Anfänger... Wenn ich aber wenigstens mit einem Mutantenteil, zum Beispiel einer Hand des Bürers, im Lager ankomme... Dann muß ich mich nicht so schämen... Hilfst du mir? \n \nUnd ich erzähle dir von einem Speziellen Artefakt...</text>
 		</string>
 		<string id="artmod_811_dialog_2">
-			<text>A Burer? You sure you don't want something easier? Like a Bloodsucker or a Chimera? Okay, I'll see what I can do for you...</text>
+			<text>Von einem Bürer?! Du hast Wünsche... Anfänger... Na ja, wenn sich eine Möglichkeit ergibt, dann bring ich's dir.</text>
 		</string>
 		<string id="artmod_811_dialog_3">
-			<text>Alas, poor Yurek, but this is something you have to do for yourself...</text>
+			<text>Sorry, Yurek, aber so kannst du dir kein Respekt verdienen... Das mußt du schon selbst machen... Werd erwachsen.</text>
 		</string>
 		<string id="artmod_812_dialog_0">
-			<text>Hi Yurek. Do you still want a Burer's hand?</text>
+			<text>Hey, Yurek. Brauchts du noch die Hand des Bürers?</text>
 		</string>
 		<string id="artmod_812_dialog_1">
-			<text>Oh, yes! Please! Do you have one?</text>
+			<text>Ja! Natürlich! Hast du denn eine?</text>
 		</string>
 		<string id="artmod_812_dialog_2">
-			<text>Here, catch. Now you can say you caught it!</text>
+			<text>Hier, fang! .. Gut.. Jetzt kannst du sagen, du hast dir eine eingefangen!</text>
 		</string>
 		<string id="artmod_812_dialog_3">
-			<text>Now, when I'm in the camp, I'll walk proudly, full of stories. About you, of course!\nAnyway, regarding this artefact, I overheard a conversation between the Bandits. Not far from here, in the Forgotten Forest, is a very special artefact, an Emerald Medusa. It's next to some big stones, near a den of wild dogs. As if that wasn't enough, some Chimeras have moved into the area, too. Which is why it'll probably still be there. Nobody wants to get within sniffing distance of the area...</text>
+			<text>Hey... Jetzt kann ich im Lager stolz Geschichten erzählen... Über dich, natürlich... \n \nAch ja, wegen dem Speziellen Artefakt - ich hab mal die Banditen bespitzelt, die erzählten, das hier in der Nähe, im Wäldchen hinter dem Sumpf, ein Artefakt "Smaragd-Qualle" liegt. Da gibt's eine Menge Chimeras und andere Mutanten, darum wollten sie da nicht hin...</text>
 		</string>
 		<string id="tex_gar_dram_novice_burer_hand">
-			<text>\nYurek, a rookie from the Garbage, wants me to bring him a Burer's paw</text>
+			<text>\n \n \n \n \n \nYurek, ein Anfänger von der Müllhalde, bittet mich weil er zu feige ist eine Hand des Bürers zu besorgen...</text>
 		</string>
 		<string id="artmod_831_dialog_0">
-			<text>Interested in conducting business?</text>
+			<text>Was für ein Geschäft hast du für mich?</text>
 		</string>
 		<string id="artmod_831_dialog_1">
-			<text>Maybe you can do a favour for me and my group?\nOld Stalkers - you know, the ones still alive - they know that a gulp of vodka increases your resistance to radiation and anomalies. They also know that one gulp leads to the whole bottle!\nThere are eight of us here, so if you bring me eight bottles of vodka, and eight boar hooves, I'll give you a very useful and expensive artefact\nDo you agree?</text>
+			<text>Ich hörte, das du unserem "Alten", dem Feldwebel, zur Heilung verhelfen möchtest. Tue uns doch auch ein Gefallen. \n \nMan kann die Widerstandsfähigkeit des Körpers gegen Strahlung und Anomalien erhöhen... Dafür muß man einen halben Liter Likör aus Wodka und Wildschweinhufen "auf Ex" trinken... Wir sind hier acht Mann, wenn du uns acht Hufen und acht Flaschen Wodka bringst - schenken wir dir ein sehr nützliches und teures Artefakt... \n \nAbgemacht?</text>
 		</string>
 		<string id="artmod_831_dialog_2">
-			<text>I'm happy to help, as long you're not just using me to get drunk...</text>
+			<text>Na gut, den Gefallen tue ich euch... Was man sich alles ausdenkt, um sich zu besaufen...</text>
 		</string>
 		<string id="artmod_831_dialog_3">
-			<text>Max???, you should not sit near the fire and raise your ass!, might shoot the pig itself</text>
+			<text>Max, anstatt am Lagerfeuer rumzusitzen, kannst du doch dein Arsch bewegen und die Schweine selber schiessen...</text>
 		</string>
 		<string id="artmod_832_dialog_0">
-			<text>Blin, Max???, you even get up from their seats then?</text>
+			<text>Verdammt, Bist du auch mal aufgestanden, solange ich weg war?</text>
 		</string>
 		<string id="artmod_832_dialog_1">
-			<text>No problems, my concentration is broken</text>
+			<text>Mach kein Lärm, Gezeichneter... Ich meditiere.</text>
 		</string>
 		<string id="artmod_832_dialog_2">
-			<text>Here's your vodka and hooves. Took me a while, but I found them all eventually</text>
+			<text>Hier, deine Pullen und die Hufen. Nicht das ich hier immer einen Lieferanten spielen muß...</text>
 		</string>
 		<string id="artmod_832_dialog_3">
-			<text>Thank you, bro. Now my guys will feel like terminators!\nHere's our gift to you, a Ruby Pellicle. If you're sick, it'll help you heal faster. And if you want another, you can make it from a standard Pellicle. Just throw it into a 'Snowball' anomaly and leave it there for ten minutes\nOh - nearly forgot - one of these can destroy an anomaly, but I've forgotten which one...</text>
+			<text>Fein, Bruder... Jetzt werden wir zu Terminatoren! Hier ist unser Geschenk für dich.\n \nEin "Rubin-Häutchen" - es heilt dich ruck-zuck... Und damit du es weißt - dieses rotes "Häutchen" kannst du aus einem einfachen bekommen. Du wirfst es in den "Eisschrank" und dann kommt dieses "Rubinchen" raus.\n \nFast hätte ich's vergessen - "Rubin-Häutchen" kann auch eine Anomalie vernichten - hab nur vergessen, welche...</text>
 		</string>
 		<string id="tex_val_pula_boar_leg">
-			<text>Prapor needs eight wild boar hooves, and eight bottles of vodka. In exchange, he promises an unusual artefact</text>
+			<text>\n \n \n \n \n \nPrapor bittet mich 8 Wildschweinhufen und 8 Flaschen Wodka zu sammeln. Verspricht dafür ein ungewöhnliches Artefakt als Belohnung.</text>
 		</string>
 		<string id="artmod_221_dialog_0">
-			<text>What happened to your armor?</text>
+			<text>Was ist mit deinem Anzug passiert?</text>
 		</string>
 		<string id="artmod_221_dialog_1">
-			<text>It's completely worn through, and I've no protection any more...\nI've heard there's is a special Stalker suit hidden somewhere in the Agroprom. If you can find it for me, I'll share some useful information with you</text>
+			<text>Der ist sogut wie durch...habe ihn von einer Leiche. Der ist  schon total durchgetragen und die Panzerplatten verdienen den Namen nicht mehr. Es gab mal eine Stalker-Gruppe, die hatten immer modifizierte Anzüge an. Manche davon liegen immer noch in der Zone versteckt. Wenn du für mich so ein Stalker-Anzug findest, würde ich dir dafür eine nützliche Information geben.</text>
 		</string>
 		<string id="artmod_221_dialog_2">
-			<text>Well, you certainly need one. I'll see if I can find it for you</text>
+			<text>Modifiziertern Stalker-Anzug? Gut, bring ich dir, wenn ich's finde.</text>
 		</string>
 		<string id="artmod_221_dialog_3">
-			<text>If I found something like that, I'd probably keep it for myself...</text>
+			<text>Wenn ich ein in die Hände bekomme, behalte ich den lieber für mich.</text>
 		</string>
 		<string id="artmod_222_dialog_0">
-			<text>Bes! Good to see you still alive!</text>
+			<text>Na, Bes? Noch am Leben? Das ist schön...</text>
 		</string>
 		<string id="artmod_222_dialog_1">
-			<text>Yes, I'm still here, no thanks to this pile of crap I'm wearing!</text>
+			<text>Noch ja... Mein Anzug sieht aus wie ein Sieb.</text>
 		</string>
 		<string id="artmod_222_dialog_2">
-			<text>I found that suit we talked about</text>
+			<text>Ich hab dir einen neuen mitgebracht... Hier.</text>
 		</string>
 		<string id="artmod_222_dialog_3">
-			<text>Thanks a lot, Marked One. Here, write down this recipe - to make a Slime from a Medusa, throw it into a 'Vortex' with a dog tail, a can of food, and a bandage. And don't ask me how someone found that out...</text>
+			<text>Du bist in Ordnung, Gezeichneter! Super...Also hör zu und schreib's dir auf - man bekommt ein "Schleim"-Artefakt aus einer "Qualle", in dem man die zusammen mit einem Hundeschwanz, einem Verband und einer Konservendose in die Anomalie "Vortex" wirft. Alles klar..</text>
 		</string>
 		<string id="tex_gar_hellcar_outfit">
-			<text>\nBes, the leader of the Loners at the Garbage, has asked you to find him a special Stalker suit</text>
+			<text>"Bes", der Anführer der Stalker bei der Müllhalde, möchte einen neuen Speziellen Stalker-Anzug.</text>
 		</string>
 		<string id="artmod_311_dialog_0">
-			<text>Can I get you anything while I'm there??</text>
+			<text>Und sonst alles okay??</text>
 		</string>
 		<string id="artmod_311_dialog_1">
-			<text>With his health in disagreements, whether the local climate is not suitable, or something. In the back sometimes so shoots, I cannot straighten up. The guys over there they marched, but I do not to laugh. Held recently old Stalker, Guide beckoning, never met? So he advised me, tincture says make the eyes of the flesh, as arm lift. You bring me three, Hmmm, no, better four eyes, and I find something to thank you enough. I have a sniper rifle. Though old, but come in useful on occasion. I thought it pointless. You see yourself, we have here in peace and quiet. Pig only occasionally blazing. Cartridges, however, is not enough. So that it will save</text>
+			<text>Mein Rücken bringt mich noch um... Ob es dieses Wetter hier ist, oder sonst was, weiß ich nicht... Wenn so ein Schuss kommt - bin ich steif wie ein Spatenstiel... Die Jungs lachen, aber die wissen nicht, wie das ist... Vor kurzem war hier ein alter Stalker - man nennt ihn "Prowodnik" - schon mal getroffen? Er hat mir geraten ein Likör aus Fleischaugen einzunehmen, sagte das es sehr gut hilft bei Rückenschmerzen...\n \nWenn du mir drei, nein, lieber vier Fleischaugen bringst, werde ich dich gut entlohnen...</text>
 		</string>
 		<string id="artmod_311_dialog_2">
-			<text>I'm sure I could find some Flesh eyes for you</text>
+			<text>Fleischaugen? Werde ich besorgen...</text>
 		</string>
 		<string id="artmod_311_dialog_3">
-			<text>Yes bullshit is all, and once I</text>
+			<text>Sind doch alles Lügen... Außerdem hab ich keine Zeit...</text>
 		</string>
 		<string id="artmod_312_dialog_0">
-			<text>How spin ?</text>
+			<text>Was macht dein Rücken?</text>
 		</string>
 		<string id="artmod_312_dialog_1">
-			<text>Remove some how?, you actually want me to touch one of those things?</text>
+			<text>Geht's grad noch so... Was ist mit den Augen?</text>
 		</string>
 		<string id="artmod_312_dialog_2">
-			<text>Here they are birthmarks, looking at you</text>
+			<text>Hier, schauen dich an...</text>
 		</string>
 		<string id="artmod_312_dialog_3">
-			<text>Thanks. You are still young and do not understand, what a nervous strain, with the patient back here to defend the passage of. So, here I wrote here Recipe, do not lose it</text>
+			<text>Danke dir... Du, junger Spund, verstehst es noch nicht, wie es ist, mit kaputten Rücken beim Blockposten Dienst zu schieben...So, ich hab hier ein Rezeptchen aufgeschrieben, verlier's nicht. Und ich werd mal das Likör aufsetzen...</text>
 		</string>
 		<string id="tex_gar_dolg_flesh_eye">
-			<text>Prapor, the Duty Commander at the Garbage, has asked me to find him four Flesh Eyes</text>
+			<text>\n \n \n \n \n \nPrapor, Wächter-Kommandeur auf der Müllhalde, möchtet vier Fleischaugen haben...</text>
 		</string>
 		<string id="artmod_321_dialog_0">
-			<text>What Nastoechka? Not helped ?</text>
+			<text>Was ist? Hat der Augen-Likör nicht geholfen?</text>
 		</string>
 		<string id="artmod_321_dialog_1">
-			<text>Who knows? Maybe even have a drink. I recently visited the Doctor, he said that the ointment is made from Bloodsucker Tentacles? Can you get me some? Maybe three sets?</text>
+			<text>Keine Ahnung... Vielleicht brauch ich noch mehr davon... Der Doktor sagte was von einer Salbe die aus einem Blutsauger-Tentakel hergestellt wird , die soll sehr gut helfen... Traust du dir zu, 3 Stück davon zu besorgen? Die Bezahlung wird schon stimmen...</text>
 		</string>
 		<string id="artmod_321_dialog_2">
-			<text>Bloodsucker tentacles? They're never easy - but I'll do my best for you</text>
+			<text>Blutsauger-Tentakeln? Nett! Ich kann's ja versuchen...</text>
 		</string>
 		<string id="artmod_321_dialog_3">
-			<text>I'm sorry, but I had a run-in with a bloodsucker once, and I'm not doing it again...</text>
+			<text>Tut mir leid. Wegen deinem Rücken werde ich mich nicht mit Blutsaugern anlegen.</text>
 		</string>
 		<string id="artmod_322_dialog_0">
-			<text>What about you? I looked in the firing position</text>
+			<text>Wie läuft's? Klappt die Kampfstellung?</text>
 		</string>
 		<string id="artmod_322_dialog_1">
-			<text>Only you hope for a miraculous ointment</text>
+			<text>Wäre schön.. Meine Hoffnungen beruhen alle nun auf die - Wundersalbe...</text>
 		</string>
 		<string id="artmod_322_dialog_2">
-			<text>Bury tentacles, but in my opinion you have just done worse</text>
+			<text>Hier hast du die Tentakeln, aber, meiner Meinung nach, machst du es nur schlimmer...</text>
 		</string>
 		<string id="artmod_322_dialog_3">
-			<text>What could be worse, could help. Come on a PDA, I downloaded something about converting a Quirk into a Flash</text>
+			<text>Schlimmer geht's eh nicht mehr, vielleicht hilft's... Gib mal dein PDA her, kriegst von mir ein Rezept über Artefakt Modifikation von "Gepresstes" zum "Blitz"...</text>
 		</string>
 		<string id="artmod_322_dialog_4">
-			<text>Well... Get well...</text>
+			<text>Nun ... Gute Besserung...</text>
 		</string>
 		<string id="tex_gar_dolg_krovosos_jaw">
-			<text>\nPrapor, the Duty commander in the Garbage, has asked me to find him three bloodsucker tentacles</text>
+			<text>\n \n \n \n \n \nPrapor, Wächter-Kommandeur auf der Müllhalde, möchte drei Blutsauger-Tentakeln haben...</text>
 		</string>
 		<string id="artmod_711_dialog_0">
-			<text>Good health. How are you?</text>
+			<text>Gesundheit wünsch ich dir! Wie geht's?</text>
 		</string>
 		<string id="artmod_711_dialog_1">
 			<text>The Brainiacs in the back room at the Bar say that a belt made from Pseudodogs' tails will somehow radiate heat to the body's core. Can you bring me five of them? In exchange, I'll give you a rare artefact</text>
@@ -3304,4 +3304,4 @@
 			<text>Borov? I'll have a word with him... when I see him</text>
 		</string>
 	</string_table>
-<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 18.03.2017 03:12:00 -->
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 18.03.2017 22:19:53 -->
