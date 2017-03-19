@@ -933,397 +933,398 @@
 			<text>\n \n \n \n \n \nPrapor, Wächter-Kommandeur auf der Müllhalde, möchte drei Blutsauger-Tentakeln haben...</text>
 		</string>
 		<string id="artmod_711_dialog_0">
-			<text>Gesundheit wünsch ich dir! Wie geht's?</text>
+			<text>Grüß dich. Wie geht's? Was macht die Gesundheit?</text>
 		</string>
 		<string id="artmod_711_dialog_1">
-			<text>The Brainiacs in the back room at the Bar say that a belt made from Pseudodogs' tails will somehow radiate heat to the body's core. Can you bring me five of them? In exchange, I'll give you a rare artefact</text>
+			<text>Weißt du, die Salbe hat geholfen... Jetzt muß ich aber den Rücken immer noch warm halten... Erfahrene Kameraden haben gesagt, das ein Nierengürtel aus Pseudohund-Schwänzen die beste Methode wäre. Die wärmen bis zum Knochen durch...\n \nIch brauch von den 5 Stück. Dafür lass ich sogar dieses einzigartige Artefakt springen...</text>
 		</string>
 		<string id="artmod_711_dialog_2">
-			<text>Yes these tails as dirt, bring it, do not worry</text>
+			<text>Diese gibt es hier wie Sand am Meer. kein problem...</text>
 		</string>
 		<string id="artmod_711_dialog_3">
-			<text>I'm sorry, but I've no intention of getting myself ripped to bits just to keep someone warm...</text>
+			<text>Tut mir leid, wegen deinen Rücken. Aber ich werde nicht die ganze Zone abklappern...</text>
 		</string>
 		<string id="artmod_712_dialog_0">
-			<text>What about you? I looked in the firing position</text>
+			<text>Und, wie geht es dir? Scheinst in Ordnung zu sein...</text>
 		</string>
 		<string id="artmod_712_dialog_1">
-			<text>It's starting to get cold at night, we need to find ways to keep warm</text>
+			<text>Das Wetter ändert sich, dadurch ist es angenehmer im Kreuz geworden. Trotzdem. Hast du die?</text>
 		</string>
 		<string id="artmod_712_dialog_2">
-			<text>Here are your tails, and you have an artefact for me?</text>
+			<text>Hier sind die Schwänze. Auf das Artefakt bin ich gespannt.</text>
 		</string>
 		<string id="artmod_712_dialog_3">
-			<text>Oh yes, please take it! With my thanks!</text>
+			<text>Hier... Für einen guten Kameraden ist mir nichts zu schade...</text>
 		</string>
 		<string id="tex_gar_dolg_psevdodog_tail">
-			<text>Prapor, the Duty Commander in the Garbage, has asked me to bring him five Pseudodog tails</text>
+			<text>\n \n \n \n \n \nPrapor, Wächter-Kommandeur auf der Müllhalde, möchte wegen seinem Rücken leiden fünf Pseudohund-Schwänze haben...</text>
 		</string>
 		<string id="artmod_821_dialog_0">
-			<text>If it's all the same to you, I need to talk with Petrenko</text>
+			<text>Also was ist? Ich muß mit Petrenko sprechen.</text>
 		</string>
 		<string id="artmod_821_dialog_1">
-			<text>alls agree ?!! Do you have to hold cops ?!\nWhile,\nThere is one option.\nWhen we examined the scene where the helicopter crash in the Forgotten Forest, I saw there was an interesting artefact, but to take it did not work, the military arrived. And it is not so far from the entrance to the location, near the three red barrels. But there's one problem, there are many mutants, and mines to come across.\nSince then, I dreamt that damned green stuff.\nCan you bring? there are other rare ones that might interest you as well...</text>
+			<text>Was ist?! Willst du mich etwa bestechen?!\n \nAndererseits... Es gibt eine Lösung...\n \nAber lass die Militär Polzei aus dem Spiel... Als wir wieder mal den Soldaten im "Toten Wald" aus der Klemme helfen mussten weil dort ein Helikopter abgestürzt ist. Hab ich ein ungewöhnliches Artefakt durchs Fernglas beobachtet. Es ist nicht weit vom Eingang entfernt. In der Nähe befinde sich drei Rote Fässer. Das problem sind aber die vielen Mutanten und Minen. Wir haben uns dann schnell zurückgezogen, da ein Telepath dazu kam.\n \nSeit dem muß ich immerzu an das grüne Ding denken. Wenn du es mir bringst, dann werde ich dich durchlassen und gebe dir sogar eins von diesen Modifizierten Artefakten.</text>
 		</string>
 		<string id="artmod_821_dialog_2">
-			<text>I'll go and check it out for you</text>
+			<text>Interessant.. Das schau ich mir an.</text>
 		</string>
 		<string id="artmod_821_dialog_3">
-			<text>And you say no cops. I'm going to talk to the bartender instead</text>
+			<text>Keine Militär Polizei? Ich denke, ich werde mich mit dem Wirt darüber unterhalten.</text>
 		</string>
 		<string id="artmod_822_dialog_0">
-			<text>Hello Sergeant. Why the red eyes?</text>
+			<text>Hallo, Sergeant. Verdammt... haben Sie rote Augen?</text>
 		</string>
 		<string id="artmod_822_dialog_1">
-			<text>I slept badly. Old, unpleasant dreams...</text>
+			<text>Schlecht geschlafen. Muss immer zu an das grüne Artefakt denken.</text>
 		</string>
 		<string id="artmod_822_dialog_2">
-			<text>Keep your riddle, sleep well</text>
+			<text>Hier haben Sie ihr "Rätsel". Ab jetzt können Sie ruhig schlafen.</text>
 		</string>
 		<string id="artmod_822_dialog_3">
-			<text>Till my dying day I will appreciate, Green plague.\nSo your gift, I think, be useful.\nYou can take. Friend</text>
+			<text>Ich werd dir immer dankbar sein.\n \nHier hast du ein Geschenk, ich denke, es wird dir von Nutzen sein.\n \nDu kannst passieren. Freund...</text>
 		</string>
 		<string id="tex_bar_dolg_base_guard_art">
-			<text>\nSergeant Plichko, head of Duty territory, spotted an unusual artefact in the Forgotten Forest, not far from the entrance by the three red barrels. For this, Plichko promises a reward of an artefact modification Recipe, and permanent access to the Duty base</text>
+			<text>\n \n \n \n \n \nSergeant Plitschko, Wachschutz-Kommandeur der Wächter-Basis, hat im "Toten Wald" ein ungewöhnliches Artefakt gesehen, nicht weit vom Eingang bei den Roten Fässern. Wenn ich ihm das Artefakt bringe, er mich permanent in die Wächter-Basis durch und schenkt mir eine Artefakt-Modifikation.</text>
 		</string>
 		<string id="artmod_851_dialog_0">
-			<text>May have a case there?</text>
+			<text>Gibt es, vielleicht, noch was zu erledigen?</text>
 		</string>
 		<string id="artmod_851_dialog_1">
-			<text>There is one option.\nWhen we last tried to get into the X-16, I thought I saw an unusual artefact. We then fought off the Zombies right at the exit from the factory. There at the far wall, right, as viewed from the entrance, is a green construction trailer and inside it was something. At this time the controller has brought us to pass the buck and had to move very quickly.\nCan you bring? I have a new model of anomaly detector, which can determine the type of anomalies</text>
+			<text>Mal sehen... Ja, da gebe es was...\n \nAls wir das letzte Mal versuchten ins "X-16 Labor" einzudringen, dachte ich, das ich ein ungewöhnliches Artefakt gesehen habe... An der Wand, rechts vom Eingang, steht doch so ein grüner Bauwagen, da war es... Ich konnte es nicht holen, da ein Telepath auftauchte und wir uns zum Ausgang der Farbik durchkämpften mussten weil auch noch ein paar Zombies auftauchten. Also mußten wir ganz schnell weg..\n \nKannst du es da rausholen? Ich hab hier einen neuen Detektor übrig,neues Modell, das zeigt sogar den Anomalie-Typ an. Das könnte ich dir dafür geben.</text>
 		</string>
 		<string id="artmod_851_dialog_2">
-			<text>I need to visit Yantar anyway... Sure</text>
+			<text>Ich muss sowieso nach Jantar ... Sicher</text>
 		</string>
 		<string id="artmod_851_dialog_3">
-			<text>pass my regards to the controller, I'm not trying</text>
+			<text>Verzeih mir, aber mit einem Telepathen lege ich mich nicht an.</text>
 		</string>
 		<string id="artmod_852_dialog_0">
-			<text>Hi Master of science</text>
+			<text>Ich grüße den Wissenschafts-Märtyrer...</text>
 		</string>
 		<string id="artmod_852_dialog_1">
-			<text>And hello to you, Don Quixote Zonovsky</text>
+			<text>.. Hallo, du Zonen-Don Quijote...</text>
 		</string>
 		<string id="artmod_852_dialog_2">
-			<text>Keep your mystery, Guide</text>
+			<text>Hier hast du dein grünes "Rätsel".</text>
 		</string>
 		<string id="artmod_852_dialog_3">
-			<text>Op-pa, so that's what you're like. Emerald.\nKeep decoder, I think, useful</text>
+			<text>So sieht es also aus... Smaragdgrün wie ich es gesehen hatte... \n \nHier ist dein Detektor, du wirst es brauchen...</text>
 		</string>
 		<string id="tex_yan_kruglov_green_art">
-			<text>\nKruglov saw an unusual artefact in the factory Yantar (from the entrance to the factory, right to the end, in the construction trailer). If you bring this artefact, he promises to give you the new anomaly detector</text>
+			<text>\n \n \n \n \n \nKruglow hat in der Jantar-Fabrik ein ungewöhnliches Artefakt gesehen. Im Bauwagen, in der rechten Hofecke. Dafür bietet er mir ein einen neuen Anomalie-Detektor ...</text>
 		</string>
 		<string id="artmod_841_dialog_0">
-			<text>What else?</text>
+			<text>Was noch?</text>
 		</string>
 		<string id="artmod_841_dialog_1">
-			<text>We sent for slaughter, so I rest awhile. To return to the mainland and to prove it, I need an order, which we then gave. To my knowledge, all the orders were stored in a metal safe. The captain kept it on the second floor of the complex. If you got hold of this folder with the orders, then I can quietly dissapear. As a thanks I can offer a very rare artefact, Ruby Battery. Well?</text>
+			<text>Wir wurden hier in den sicheren Tod geschickt, darum bin ich ja abgehauen... Damit ich ins Große Land zurückkehren und beweisen kann, das hier gesetzwidrige Befehle erteilt werden, brauch ich die Mappe mit diesen Befehlen. Die wurden immer im Tresor eingeschlossen. Dieser befindet sich im 2. Stock des Komplexes ... Hast du es gesehen?\n \nWenn du mir diese Mappe besorgst, dann verschwinde ich hier.... Und als Dank geb ich dir ein sehr seltenes Artefakt - "Rubin-Batterie". Wie sieht's aus?</text>
 		</string>
 		<string id="artmod_841_dialog_2">
-			<text>Anything to get you out of here... eh?.</text>
+			<text>Oh-ha. Bei solchen sachen bin ich dabei...</text>
 		</string>
 		<string id="artmod_841_dialog_3">
-			<text>No man, Agroprom is too hot for me</text>
+			<text>Kein Chnace. Das Agroprom ist zu heiß für mich.</text>
 		</string>
 		<string id="artmod_842_dialog_0">
-			<text>Hi soldier. Any news?</text>
+			<text>Hallo, Soldat... Es gibt Neuigkeiten...</text>
 		</string>
 		<string id="artmod_842_dialog_1">
-			<text>What? All bad?</text>
+			<text>Was denn? Alles schlecht?</text>
 		</string>
 		<string id="artmod_842_dialog_2">
-			<text>Contrary, all is well. I found these instructions, keep them</text>
+			<text>Nein, nicht doch... Alles gut. Ich hab diese Befehle gefunden, hier hast du sie...</text>
 		</string>
 		<string id="artmod_842_dialog_3">
-			<text>Till my dying day I will appreciate this.\nSo you're gift, I think, will be useful.\nWe will not meet again. Farewell</text>
+			<text>Dafür werde ich dir immer dankbar sein...\n \nHier...\n \nWir werden uns wohl nicht mehr wiedersehen... Ich muss damit nun aus der Zone. Lebe wohl...</text>
 		</string>
 		<string id="tex_ratcatcher_order">
-			<text>\ndeserter requests for him to steal the wrongful orders from his superiors. According to a deserter, a folder with the orders kept in a metal safe, on the second floor of the Agricultural Industry</text>
+			<text>\n \n \n \n \n \nDer Fahnenflüchtige möchte das ich ihm das Schriftstück mit dem gesetzwidrigen Militär-Befehlen besorge. Nach seinen Worten wird diese Mappe im Tresor des Agroprom-Komplexes im 2. Stock aufbewahrt.</text>
 		</string>
 		<string id="artmod_251_dialog_0">
-			<text>What matter? Do not keep</text>
+			<text>Was für eine Sache? Sag schon...</text>
 		</string>
 		<string id="artmod_251_dialog_1">
-			<text>I have a couple of days ago, sat in the railway tunnel, in that opposite the entrance to the plant. SOS received from the local guys and pulled to the rescue, but in the confusion charges dropped his PDA. Then warriors came down. Not until I was, maybe shuffling back and forth on the fast, can you find it?. But look out, area was full of anomalies</text>
+			<text>Vor ein paar Tagen hab ich mir im Eisenbahntunnel ein Lager eingerichtet. Und dann kamen die Soldaten, ich musste mit den Jungs hierher flüchten - unter Beschuss. Dabei habe ich wohl auf dem Hügel über dem Tunnel mein PDA fallen lassen.\n \nIch würde mir ja einen neuen besorgen, ist nicht das Problem. Aber auf dem PDA ist ein Rezept für die Herstellung eines Artefaktes gespeichert.\n \nKönntest du vielleicht mein PDA auf die Schnelle suchen? Er liegt bestimmt immer noch da oben. Dann würde ich das Rezept mit dir teilen. Aber pass auf, da sind eine Menge Anomalien...</text>
 		</string>
 		<string id="artmod_251_dialog_2">
-			<text>If I find it, I'll let you know</text>
+			<text>Ist ja nicht weit. Ich versuche es.</text>
 		</string>
 		<string id="artmod_251_dialog_3">
-			<text>Anomalies? No, I have my own paths to follow</text>
+			<text>Anomalien? Ne laß mal. Ich geh lieber meinen Weg weiter.</text>
 		</string>
 		<string id="artmod_252_dialog_0">
-			<text>I found your PDA</text>
+			<text>Ich hab dein PDA gefunden.</text>
 		</string>
 		<string id="artmod_252_dialog_1">
-			<text>Not damaged?</text>
+			<text>Ist er kaputt?</text>
 		</string>
 		<string id="artmod_252_dialog_2">
-			<text>No stop. Check it</text>
+			<text>Ich glaube nicht... Hier, prüfe das mal...</text>
 		</string>
 		<string id="artmod_252_dialog_3">
-			<text>Unbelievable, even the batteries are not exhausted. Come on your own, and I promise you the recipe for the Slime artefact</text>
+			<text>Nein, ist heile. Sogar die Akkus sind noch voll... Gib mal deinen her - ich lade dir das versprochene Artefakt-Rezept drauf - Ist für "Schleim".</text>
 		</string>
 		<string id="tex_agr_krot_PDA">
-			<text>\nMole requests to find his PDA, which he dropped in a railway tunnel outside the entrance to Agroprom</text>
+			<text>\n \n \n \n \n \n"Mole" möchte sein PDA zurückhaben, den er im  Eisenbahntunnel vor dem Eingang zu Agroprom fallengelassen hat. Dafür teilt er die Information für ein Rezept mit mir welches auf dem PDA gespeichert ist.</text>
 		</string>
 		<string id="artmod_871_dialog_0">
-			<text>Hi Wolf! What are you doing here ?</text>
+			<text>Grüß dich, "Wolf"! Was machst du hier?</text>
 		</string>
 		<string id="artmod_871_dialog_1">
-			<text>Hi Marked One. So, look for business from here, in the case of breaking the barrier should cause reinforcements from the bar. Tolik, became faint and fell somewhere with the radio, this radio is crucial for monitoring the military. Can you learn about Tolik? I'll let you in on a big secret, how you can eliminate the anomalies, if they are in the way</text>
+			<text>Ich grüße dich auch, Gezeichneter... Ich schaue mir nur an, was hier so geschieht. Falls die Barriere durchbrochen wird, muß ich Verstärkung aus der Bar anfordern. Tolik sollte schon längst mit einem Funkgerät auftauchen... Du weißt doch, bei den ganzen Störungen arbeiten nur die alten Lampen-Funkgeräte vernünftig. Kannst du vielleicht ihn ausfindig machen? Und ich verrate dir dafür, wie du Anomalien liquidieren kannst, wenn die dir den Weg versperren.</text>
 		</string>
 		<string id="artmod_871_dialog_2">
-			<text>Perhaps even a Mincer? Okay I'll find this poor guy</text>
+			<text>Sowas ist möglich? Na gut, ich gehe ihn mal suchen.</text>
 		</string>
 		<string id="artmod_871_dialog_3">
-			<text>I think Tolik will soon be dead</text>
+			<text>Ich denke, Tolik wird schon bald hier sein.</text>
 		</string>
 		<string id="artmod_872_dialog_0">
-			<text>Hello Wolf, I found Tolik</text>
+			<text>Hey "Wolf", ich hab Tolik gefunden.</text>
 		</string>
 		<string id="artmod_872_dialog_1">
-			<text>What's wrong with him? Where's the radio tranceiver?</text>
+			<text>Was ist mit ihm? Wo ist das Funkgerät?</text>
 		</string>
 		<string id="artmod_872_dialog_2">
-			<text>Here, hold. And Tolik, weak-willed, I saw so bloodsucking flashed his heels, mind screwed, release started</text>
+			<text>Funkgerät hab ich mitgebracht, hier. Und Tolik, die arme Seele, hat einen Blutsauger gesehen. Als Toliks Fersen dann nur so blitzten, hat die halbe Zone gedacht - die Eruption fängt an...</text>
 		</string>
 		<string id="artmod_872_dialog_3">
-			<text>Ha, that I overcame, emissions often go.\nSo, about anomalies: I only know as electricity discharge, be it Ruby Battery roll.\nMaybe with other anomalies can be so do you need to look for ways?</text>
+			<text>Hehe, und ich denk mir, warum die Eruptionen jetzt öfter kommen...\n \nAlso, über die Anomalien - ich weiß nur wie man eine "Elektra" vernichten kann. Man muß das Artefakt "Rubin-Batterie" reinwerfen.\n \nVielleicht kann man sowas auch mit anderen Anomalien machen, man sollte nach Möglichkeiten suchen...</text>
 		</string>
 		<string id="artmod_873_dialog_0">
-			<text>Tolik! Why are you sitting there! Wolf is waiting for your ass and the portable radio in the warehouses!</text>
+			<text>Tolik! Was sitzt du hier rum?! Wolf wartet doch bei den Lagerhäusern auf dich und das Funkgerät!</text>
 		</string>
 		<string id="artmod_873_dialog_1">
-			<text>Forgive me, I do not think that in a trouble I caused. On the way to me, threw two no, four bloodsuckers! I put down three, but ran out of ammunition and then my knife broke. Barely alive, gone. Now here's nerves vodka corrected, do not want 300 grams?</text>
+			<text>Tut mir leid, Gezeichneter, ich dachte nicht, das mir sowas passieren kann... Auf dem Weg haben mich zwei, nein, vier Blutsauger angefallen! Drei hab ich erledigt, aber die Munition ist mir ausgegangen und mit dem Messer hier... Schon mal versucht ein Blutsuager mit einem Messer zu bekämpfen... Das ich das überlebt habe... Ich muss erstmal wieder runterkommen. Möchtest du auch Wodka?...</text>
 		</string>
 		<string id="artmod_873_dialog_2">
-			<text>Well Tolik, nerves of steel. Where's the transceiver?</text>
+			<text>Mann, Tolik... Wo ist das Funkgerät?</text>
 		</string>
 		<string id="artmod_873_dialog_3">
-			<text>Yes there somewhere, for hangars at dump passes trench in which pipe lying around, tractor... I guess there is, if bloodsuckers themselves have not taken, and-and-a, sorry</text>
+			<text>Irgendwo da, hinter dem Hangar, auf der Müllhalde, da ist doch so ein Graben mit den Rohren drin... Liegt bestimmt noch da drin, wenn die Blutsauger es nicht geholt haben... Hi-i-ik... Entschuldigung...</text>
 		</string>
 		<string id="tex_mil_volk_resiver">
-			<text>Wolf is trying to monitor the military, and ideally needs a proper army radio transceiver. Tolik was supposed to bring him one, but has not been in touch. I need to find out what happened to it, and deliver it to Wolf</text>
+			<text>\n \n \n \n \n \n"Wolf" beobachtet das Militär. Um im Notfall Verstärkung zu rufen, braucht er ein Funkgerät. Dieses sollte Tolik liefern, aber er ist immer noch nicht da... Ich muß Tolik finden und das Funkgerät dann an "Wolf" übergeben.</text>
 		</string>
 		<string id="artmod_431_dialog_0">
-			<text>Wow! The guys at the Barrier ask for ammunition as if they feel every shot fired</text>
+			<text>Moin! Die Jungs von der Barriere bitten um ein wenig Munition, die zählen schon jeden Schuss.</text>
 		</string>
 		<string id="artmod_431_dialog_1">
-			<text>Heh. And the ammunition is in trouble. End They've got more than NATO weapons, but here in the warehouses only to the Kalash Zinc. Sidor has promised to send the box, the other, but you need to find him a courier. I promised him a new artefact, let the pen, and cartridges. Can hit the road? But not for just. Here to me from all sides flocking information, there are some unusual recipies available</text>
+			<text>Mit Munition sieht es mau aus. Geht zu Neige... Die haben ausschließlich NATO-Waffen, und in den Lagerhäusern ist nur Kalaschnikow-Munition. Sidorowitsch hat versprochen eine oder mehrere Kisten zu besorgen, aber wir haben keinen Kurier. Ich hab ihm ein neues Artefakt besorgt - soll er verscheuern und uns die Patronen geben.\n \nKannst du das erledigen? Nicht umsonst, das ist klar. Hier bekommen wir jede Menge Infos, ein paar interessante Artefakt-Rezepte hätte ich da im Angebot.</text>
 		</string>
 		<string id="artmod_431_dialog_2">
-			<text>Do not pay it, doing the right thing. I'll go</text>
+			<text>Die Bezahlung ist nicht so wichtig, ihr macht 'ne gute Sache. Ich erledige das...</text>
 		</string>
 		<string id="artmod_431_dialog_3">
-			<text>No, I'm not going</text>
+			<text>Nein, da gehe ich jetzt nicht hin...</text>
 		</string>
 		<string id="artmod_432_dialog_0">
-			<text>E-me! Keep cartridges. Box. Severe infection!</text>
+			<text>Junge, junge! Hier ist die Munition... Mann, ist die Kiste schwer!!!</text>
 		</string>
 		<string id="artmod_432_dialog_1">
-			<text>need? What caliber?</text>
+			<text>Die richtige? Welches Kaliber?</text>
 		</string>
 		<string id="artmod_432_dialog_2">
-			<text>Written, 5.56, but what's inside, not tested</text>
+			<text>Steht 5.56 drauf, was drin ist - hab ich nicht reingeschaut...</text>
 		</string>
 		<string id="artmod_432_dialog_3">
-			<text>Yes, those that need. Give me your PDA - I promised you the recipe for the Slime artefact. If you're interested, I have other recipes you can earn, too</text>
+			<text>Ja, genau die brauchen wir... Gib mal dein PDA her, ich lade dir ein "Schleim" Artefakt-Rezept drauf... Bei Interesse - ich hab noch mehr Rezepte. Die kannst du dir verdienen...</text>
 		</string>
 		<string id="artmod_433_dialog_0">
-			<text>Hello Sydor, all sitting there guzzling booze, cannot fool the tank</text>
+			<text>Hey, Sidorowitsch... Gott! Du hast dir ja 'ne Fresse angefuttert - breit wie ein Panzer...</text>
 		</string>
 		<string id="artmod_433_dialog_1">
-			<text>Bring worms, and you have the same will be. From what has come?</text>
+			<text>Du könntest auch so eine haben, wenn du dein Bandwurm loswirst... Was führt dich zu mir?</text>
 		</string>
 		<string id="artmod_433_dialog_2">
-			<text>Miser sent you a rare artefact, I do not know what, in the sealed box. Asks for NATO ammunition</text>
+			<text>"Miser" hat für dich ein seltenes Artefakt aufgetrieben. Weiß nicht, was das für eins ist. Hier in der verschlossenen Box. Er bittet dich um eine Lieferung NATO-Munition.</text>
 		</string>
 		<string id="artmod_433_dialog_3">
-			<text>Yes, he has contacted by radio. Keep the box, look, do not fall, heh, heh, heh</text>
+			<text>Ja, der hatte mich angefunkt... Hier ist die Munitionskiste, pass auf das du nicht umfällst...He-he-he...</text>
 		</string>
 		<string id="tex_mil_Svoboda_trader_ammo">
-			<text>\nCartridges at the end of the block office near the Barrier. Sidorovich asked Miser to exchange a rare artefact for a box of cartridges</text>
+			<text>\n \n \n \n \n \nAuf dem Barriere-Blockposten geht die Munition aus. Miser möchte bei Sidorowitsch ein seltenes Artefakt für eine Kiste Patronen umgetauscht haben.</text>
 		</string>
 		<string id="artmod_411_dialog_0">
-			<text>You said, there are recipes?</text>
+			<text>Du sagtest, es gibt noch Rezepte?</text>
 		</string>
 		<string id="artmod_411_dialog_1">
-			<text>There. Here a small business. From the knowledgeable people I have information, a group of young military researchers worked with the artefact Cobblestone. They investigated its anti-gravity properties and the applicability of it. The work is not finished, they were lured to America. But two pilot suits with this effect still exist. As usual with the military, about these suits, no one remembers, thrown into an attic and forgotten. Care to steal them for me?</text>
+			<text>Na sicher. Aber nur gegen ein Gefallen. Ein paar Informierte Leute erzählten mir, das eine Gruppe Militär-Wissenschaftler mit dem Artefakt "Kopfstein" wegen seiner Anti-Schwerkraft-Eigenschaften gearbeitet hätten. Die wurden aber von den Amerikanern abgeworben... Das Projekt wurde deenoch nicht abgeschlossen. 2 Antigravitations Anzüge existieren wohl noch... Und wie immer es bei dem Militär so ist ... keiner kann sich an irgendwas erinnern. Liegen aber anschinend irgendwo auf dem Dachboden... Traust du dir zu, diese zu klauen?</text>
 		</string>
 		<string id="artmod_411_dialog_2">
-			<text>Interesting, be sure to see, what it is</text>
+			<text>Interessant, das will ich mir anschauen.</text>
 		</string>
 		<string id="artmod_411_dialog_3">
-			<text>contact with the military reluctant to</text>
+			<text>Mit dem Militär möchte ich mich nicht anlegen.</text>
 		</string>
 		<string id="artmod_412_dialog_0">
-			<text>I found these suits, awsome things!</text>
+			<text>Ich hab die Anzüge gefunden - Irgendwie nicht schlecht aber..</text>
 		</string>
 		<string id="artmod_412_dialog_1">
-			<text>And what properties?</text>
+			<text>Was meinst du? Was hat der für Eigenschaften?</text>
 		</string>
 		<string id="artmod_412_dialog_2">
-			<text>allows users to raise an additional 170 kg, but the heavy. Even harmful effects due to their enhancements</text>
+			<text>Naja, wenn man denn Anzug an hast, kann man 170 Kilo mehr tragen, als sonst. Sind aber auch schwer und schädliche Umwelt Einwirkungen werden von dem Anzug wie von einem Magneten angezogen und verstärkt.</text>
 		</string>
 		<string id="artmod_412_dialog_3">
-			<text>OK! Thank you, leave yourself alone, can be useful. Recipie has been added</text>
+			<text>Hmm.. OK! Danke. Einen kannst du behalten - vielleicht brauchst du ihn ja mal... Ich habe dir ein Rezept hochgeladen.</text>
 		</string>
 		<string id="tex_mil_Svoboda_trader_outfit">
-			<text>\nMiser drew a diagram on how to get to the unique anti-gravity suits. Let me clarify tho: because of the unexplored properties, they tend to fall through the thin wooden floor</text>
+			<text>\n \n \n \n \n \n"Miser" hat eine Karte gezeichnet, mit der Lage der Anti-Gravitations Anzügen.\n \nWichtig! - wegen unerforschten Eigenschaften neigen diese Anzüge dazu, durch dünne Flächen, wie Holzböden, durchzufallen... merkwürdig</text>
 		</string>
 		<string id="artmod_451_dialog_0">
-			<text>You said there are recipes?</text>
+			<text>Du sagtest, es gibt noch mehr Rezepte?</text>
 		</string>
 		<string id="artmod_451_dialog_1">
-			<text>There. The guys we have brave, risky. But sometimes they want to thoroughly relax. Treated with vodka, but now rumor, for Agroprom as a result of mutation common hemp acquired special properties, smoke and more three times become, almost through the objects you see. A sense. There, one man moved, mowing it dries. Since fasting had trouble eating rats, drinking swamp water. Take him genuine human food, twenty cans of canned goods, bread and vodka. He'll give you a bag of high quality grass</text>
+			<text>Ja klar... Wenn du uns eine gefallen tust. Die Jungs her sind stark und tapfer. Aber auch sie wollen sich manchmal entspannen. Es gibt ein Gerücht, das im Agroprom die Hanfpflanzen mutiert sind. Dadurch besitzen sie neue Eigenschaften - wenn du dieses Gras rauchst, wirst du drei Mal stärker, siehst und riechst besser. Da hat sich ein Typ niedergelassen, der sammelt und trocknet es... Hat aber nicht viel Proviant, muß Ratten fressen und so'n Zeug. Bring ihm doch mal vernünftiges Essen. So 20 Konserven, Brot und guten Wodka... Dann gibt er dir ein Sack voll Gras mit...</text>
 		</string>
 		<string id="artmod_451_dialog_2">
-			<text>Stronger than three times?! Wow, try</text>
+			<text>Drei Mal stärker?! Alter...! Mach mich gleich auf den Weg.</text>
 		</string>
 		<string id="artmod_451_dialog_3">
-			<text>What are you! Drug couriers to make me want to!!</text>
+			<text>Geht's noch?! Keine Drogen in der Zone und den Kurier mach ich  auch nicht.</text>
 		</string>
 		<string id="artmod_452_dialog_0">
-			<text>Hello, drug lords, Keep your 'Plan'</text>
+			<text>Hallo, du Drogenbaron! Hier hast du dein "Gras"...</text>
 		</string>
 		<string id="artmod_452_dialog_1">
-			<text>Like grass? Inserts?</text>
+			<text>.. und wie ist es? Guter Stoff?</text>
 		</string>
 		<string id="artmod_452_dialog_2">
-			<text>himself try, I do not want to become an experimental rat</text>
+			<text>Probier es selbst, ich mime doch nicht die Laborratte...</text>
 		</string>
 		<string id="artmod_452_dialog_3">
-			<text>Okay, Okay, try. Take a recipe, more I do not have</text>
+			<text>Okay, Okay, dann machen wir das. Hier ist dein Rezept, mehr hab ich nicht...</text>
 		</string>
 		<string id="tex_mil_Svoboda_trader_plan">
-			<text>trader Liberty eager to try new, unique herb from the Agroprom! I want twenty cans, twenty loaves, twenty sticks of sausage and five bottles of vodka. In exchange for this Ill give you a bag</text>
+			<text>\n \n \n \n \n \nDer Freiheits-Händler möchtet unbedingt das neue "Gras" aus Agroprom probieren... Man muß dem Fahnenflüchtigen 20 Konserven, 20 Laib Brot, 20 Stück Wurst und 5 Flaschen Wodka übergeben. Als Dank dafür wird er ein Sack voll schönes, trockenes "Gras" rausrücken...</text>
 		</string>
 		<string id="artmod_453_dialog_0">
-			<text>Greetings, brave man. They say the grass is radiated?</text>
+			<text>Grüße dich, ... Man munkelt du baust hier "Verstrahltes Gras" an?</text>
 		</string>
 		<string id="artmod_453_dialog_1">
-			<text>CRYPTO?! WOW! Give me some papers!</text>
+			<text>CRYPTO?! WOW! Alter .. hast du ein paar "Papers".... Verstrahltes Gr.. Wen interessiert's...</text>
 		</string>
 		<string id="artmod_453_dialog_2">
-			<text>Cmon, do not be a nuisance. I've brought you munchies, absolutely healthy food</text>
+			<text>Ist ja gut, nicht stressen. Ich hab dir Proviant mitgebracht. Gutes, gesundes Essen...</text>
 		</string>
 		<string id="artmod_453_dialog_3">
-			<text>Seriously? Though the man himself feel, and how the dog. If you are interested in the grass, directly opposite the entrance lies a bag that's dry.\nCan you ask?</text>
+			<text>Echt? Her damit. Dann kann ich mich wieder mal als Mensch fühlen... Ich hab hier nur Hundefrass - wenn du was möchtest. 
+Beim Eingang gegenüber liegt ein frisch getrockenter Sack voll "Gras".\n \nHey.. Kann ich dich um was bitten?</text>
 		</string>
 		<string id="artmod_421_dialog_0">
-			<text>Who else can I help out?</text>
+			<text>Was gibst denn?</text>
 		</string>
 		<string id="artmod_421_dialog_1">
-			<text>You know Bes, commander of the neutrals in the dump? His unit has run out of ammunition, I have here the bandits' caches, including a box of ammunition. Take it to Bes for me? But remember, it's one HEAVY box. And he can do a lot of wandering in the Zone!</text>
+			<text>Du kennst doch bestimmt "Bes", den Anführer der Neutralen Stalker bei der Müllhalde? Seine Gruppe hat noch kaum Munition, und ich hab im Banditen-Versteck eine ganze Kiste gefunden. Traust du es dir zu, diese "Bes" zu bringen? Aber pass auf - die Kiste ist verdammt schwer!</text>
 		</string>
 		<string id="artmod_421_dialog_2">
-			<text>Yes, and I'm not weak, I'll help the stalkers</text>
+			<text>Ich bin nicht von der schwachen Sorte. Ich helfe den Stalkern.</text>
 		</string>
 		<string id="artmod_421_dialog_3">
-			<text>my Lab to look for</text>
+			<text>Tut mir leid, habe nochwas zu erledigen.</text>
 		</string>
 		<string id="artmod_422_dialog_0">
-			<text>Hi Bes, here, bullet cartridges for you</text>
+			<text>Hallo, "Bes"! Bullet schickt dir Munition.</text>
 		</string>
 		<string id="artmod_422_dialog_1">
-			<text>Just in time! Bandits already showin thier ugly muts!</text>
+			<text>Gerade rechtzeitig! Die Banditen fangen an wieder mutig zu werden.</text>
 		</string>
 		<string id="artmod_422_dialog_2">
-			<text>Keep the box</text>
+			<text>Hier ist die Kiste.</text>
 		</string>
 		<string id="artmod_422_dialog_3">
-			<text>Thank you, yes, more. Here, a recipe for converting artefacts</text>
+			<text>Danke dir. Und hier ist noch was - schreib dir mal ein Artefakt-Rezept auf. </text>
 		</string>
 		<string id="tex_val_pula_ammo">
-			<text>Bullet sends ammunition to you Bes, commander of the detachment of the neutrals in the Garbage</text>
+			<text>\n \n \n \n \n \nBullet will an Bes, den Anführer der Stalker bei der Müllhalde, Munition schicken.</text>
 		</string>
 		<string id="artmod_461_dialog_00">
-			<text>not be able to help me find a PDA?</text>
+			<text>Stalker, kannst du mir helfen mein PDA wieder zu bekommen?</text>
 		</string>
 		<string id="artmod_461_dialog_0">
-			<text>Where did you plant it?</text>
+			<text>Hast du den verloren, oder was?</text>
 		</string>
 		<string id="artmod_461_dialog_1">
-			<text>me in the Agricultural Industry, captured in a dungeon. And my PDA, I specifically had hidden there, I thought: it's the end for me, but the PDA has information that should not fall into hands of bandits. I have him on the stairs, near a small corridor with anomalies to the left, there Shemka. Verney, eh? I am in gratitude, conversion recipe: artefacts Stone Blood and Fireball, to a Soul you'll get</text>
+			<text>Die haben mich im Agroprom-Untergrund geschnappt... Und mein PDA konnte ich da verstecken. Ich dachte nämlich, ich gehe drauf, und in dem PDA sind Infos, die nicht für Banditen bestimmt sind. Ich hab es an der Treppe neben dem kleinem Gang Links mit Elektra-Anomalien versteckt. Holst du es bitte zurück? Als Dank sag ich dir, wie man aus einem "Steinblut" und einem "Feuerball" Artefakt, das Artefakt "Seele" bekommt...</text>
 		</string>
 		<string id="artmod_461_dialog_2">
-			<text>interesting recipe. Try</text>
+			<text>Interessantes Rezept. Ich versuche es.</text>
 		</string>
 		<string id="artmod_461_dialog_3">
-			<text>my lab to look for</text>
+			<text>Keine Zeit. Ich muss das Labor suchen.</text>
 		</string>
 		<string id="artmod_462_dialog_0">
-			<text>Hello, barely found your PDA</text>
+			<text>Hallo "Barely". Ich konnte dein PDA finden.</text>
 		</string>
 		<string id="artmod_462_dialog_1">
-			<text>man</text>
+			<text>Kamerad...</text>
 		</string>
 		<string id="artmod_462_dialog_2">
-			<text>Take</text>
+			<text>Hier.</text>
 		</string>
 		<string id="artmod_462_dialog_3">
-			<text>my gratitude has no limits! Give communication code, Salt will you a way to convert.\nCan you even one little crank?</text>
+			<text>Mein Dank kennt keine Grenzen!  Ich lade dir sofort das Modifikationsrezept drauf.\n \nHast du Lust auf noch ein Geschäft?</text>
 		</string>
 		<string id="tex_val_escort_PDA">
-			<text>\nReturn Dolgovs PDA, which he hid in a basement of the Agricultural Industry. According to Dolgov, PDA should be at the top of the stairwell, which runs near the hole in the wall, diverting into the hallway with Electro anomalies</text>
+			<text>\n \n \n \n \n \nIch muss den PDA von Dolgov finden, welchen er im Agroprom-Untergrund versteckt hat. Seinen Worten nach, muß er sich Treppenhaus oben befinden. Neben dem kleinem Gang mit Elektra-Anomalien.</text>
 		</string>
 		<string id="artmod_351_dialog_0">
-			<text>I can, why not, if the award is appropriate</text>
+			<text>Warum nicht. Wenn die Belohnung stimmt.</text>
 		</string>
 		<string id="artmod_351_dialog_1">
-			<text>Do not worry, do not hurt. I heard that you can convert artefacts? I know a couple of ways, For example: how to get Gravi from Medusa. Okay, to business, there is an interesting novelty in the field of modern weapons, a Gauss Pistol. Who and how it did, it is a separate topic for discussion. We have learned now, where you can find a prototype of the pistol, in the deserted pig farm in the Dark Valley</text>
+			<text>Keine Sorge, du kommst schon nicht zu kurz...Du hast doch sicherlich davon gehört das man Artefakte modifizieren kann? Ich kenne da ein paar Methoden... Zum Beispiel, wie man "Gravit" aus einer "Qualle" bekommt...\n \nZur Sache - es gibt eine Neuigkeit auf dem Gebiet der modernen Waffenforschung - eine "Gauss-Pistole". Wer und wie diese gebaut hat, das ist ein anderes Thema. Wir hatten ein Prototyp, aber dieser wurde uns entwendet. Wir wissen aber, dank GPS-Tracking, das dieser Prototyp  sich mittlerweile bei der Schweinefarm im Dunklen Tal befindet.\n \nDunkles Tal ist für uns ein problematisches Gebiet, wir wollen uns da eine Weile nicht blicken lassen. Hol uns diese Waffe zurück!</text>
 		</string>
 		<string id="artmod_351_dialog_2">
-			<text>Gauss-Pistol? Strange sounding toy!. I'll try to find it</text>
+			<text>Gauss-Pistole? interessant... Ich versuch's zu finden.</text>
 		</string>
 		<string id="artmod_351_dialog_3">
-			<text>Sorry, next time</text>
+			<text>Sorry, ein anderes Mal.</text>
 		</string>
 		<string id="artmod_352_dialog_0">
-			<text>Good morning! Is Gauss time!</text>
+			<text>Guten Morgen! Hier ist die "Gauss"!</text>
 		</string>
 		<string id="artmod_352_dialog_1">
-			<text>found means. Complications?</text>
+			<text>Hui... Gab's Schwierigkeiten?</text>
 		</string>
 		<string id="artmod_352_dialog_2">
-			<text>But no, in general, although there partying a few shady characters, but I agreed with them</text>
+			<text>Eigentlich nicht... Da liefen zwar ein paar zwielichtige Typen rum, aber ich konnte alles klären.</text>
 		</string>
 		<string id="artmod_352_dialog_3">
-			<text>debt in debt will remain. Let's code of communication, a way to convert salt you</text>
+			<text>Eine Hand wäscht die andere. Ich lade dir das Modifikation-Rezept hoch.</text>
 		</string>
 		<string id="tex_bar_dolg_petrenko_gaussgan">
-			<text>\nIn the area of the former pig farm in the Dark Valley is the prototype Gauss-Pistol, Petrenko requests to find and get them back into debt</text>
+			<text>Bei der verlassenen Farm im Dunklen Tal gibt es einen Prototypen einer Gauss-Pistole. Petrenko möchtet, das es gefunden wird.</text>
 		</string>
 		<string id="artmod_551_dialog_0">
-			<text>I heard, you're looking for something?</text>
+			<text>Ich hab gehört - du suchst was?</text>
 		</string>
 		<string id="artmod_551_dialog_1">
-			<text>I received a new recipe, but have not yet tested. You can get the Moonlight from the Flash. But now Flash I have none. Try to get me this artefact, and I'll share with you a recipe</text>
+			<text>Man hat mir neue Infos über eine Artefakt-Modifikationen geliefert, aber ich konnte diese noch nicht prüfen. Man kann ein "Mondlicht"-Artefakt aus dem "Blitz"-Artefakt machen. Aber ich hab leider kein "Blitz"-Artefakt... Besorge es doch für mich, dann bekommst du auch dieses Rezept...</text>
 		</string>
 		<string id="artmod_551_dialog_2">
-			<text>But these Flashes are like dirt, you got it</text>
+			<text>Alles klar. Aber solche Artefakte gibt's doch hier wie Sand am Meer, hole ich dir gleich eins.</text>
 		</string>
 		<string id="artmod_551_dialog_3">
-			<text>Sorry, next time</text>
+			<text>Tut mir leid, ein anderes Mal...</text>
 		</string>
 		<string id="artmod_552_dialog_0">
-			<text>Here Flash, looks like the shining'</text>
+			<text>Hier ist dein "Blitz"-Artefakt, schau mal wie es leuchtet!</text>
 		</string>
 		<string id="artmod_552_dialog_1">
-			<text>found Means. Quick as diarrhea!</text>
+			<text>Du Hast eins gefunden... </text>
 		</string>
 		<string id="artmod_552_dialog_2">
-			<text>Only without insults. Let's recipe</text>
+			<text>Sicher. Zeig mal her das Rezept.</text>
 		</string>
 		<string id="artmod_552_dialog_3">
-			<text>Okay, this is a joke. Add recipe,\nfor speed. Bonus to you. Add or so just remember, you can get a rare artefact from the usual Spring, for this it needs to be thrown into Snowballs, and thus, Ruby Spring resolves the path of Whirligig.\nIf you're so responsible, may have turn one piece of business?</text>
+			<text>Okay, Schreib dir es auf...\n \nEinen kleinen Bonus hab ich noch für dich. Merke es dir - aus einer einfachen "Sprungfeder" kannst du ein seltenes Artefakt herstellen, wenn du diese in die Anomalie "Eissturz" wirfst. Und diese "Rubin-Sprungfeder", die dabei rauskommt, kann dann z.b die Anomalie "Karussell" vernichten. \n \nWenn du schon so zuverlässig bist, willst du vielleicht noch Geschäft abwickeln?</text>
 		</string>
 		<string id="tex_bar_dolg_petrenko_electra_flash">
-			<text>\nPetrenko wants you to find him a Flash artefact</text>
+			<text>\n \n \n \n \n \nPetrenko benötigt das Artefakt "Blitz". Mal sehen ws es gibt....</text>
 		</string>
 		<string id="artmod_521_dialog_0">
-			<text>Hi. Will I be able to repair this gun and get this armor patched?</text>
+			<text>Hallo! Bist du imstande Waffen oder auch Anzug zu reparieren?</text>
 		</string>
 		<string id="artmod_521_dialog_1">
 			<text>While I can not, not the necessary tools here. Sidorovich promised to gather toolkits, said, long enough. But at the same time want him to convey a unique artefact, can you courier for me? Ill give you a way to convert Flash into Soul!</text>
@@ -3304,4 +3305,4 @@
 			<text>Borov? I'll have a word with him... when I see him</text>
 		</string>
 	</string_table>
-<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 18.03.2017 22:19:53 -->
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 19.03.2017 07:35:49 -->
