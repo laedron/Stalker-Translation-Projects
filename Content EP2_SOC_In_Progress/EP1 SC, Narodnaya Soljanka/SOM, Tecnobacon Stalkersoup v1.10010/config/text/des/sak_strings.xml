@@ -303,7 +303,7 @@
 			<text>\n \n \n \n \n \nLukasch erzählte, das es ein Übergang aus der Freiheits-Basis zum Dunklen Tal gibt.</text>
 		</string>
 		<string id="enc_enc_info_way112a_text">
-			<text>\n \n \n \n \n \nDer Informant Snitch hat mir Informationen über einen Übergang von Radar zu den Armee-Lagerhäusern verkauft. Huckster, hat es so gemacht ... Und wohin gehst du ??</text>
+			<text>\n \n \n \n \n \nDer Informant Snitch hat mir Informationen über einen Übergang von Radar zu den Armee-Lagerhäusern verkauft. Huckster, hat es so gemacht ... Und wohin gehst du ??\n \n \n \n \n \n(*)</text>
 		</string>
 		<string id="enc_enc_info_way112b_text">
 			<text>\n \n \n \n \n \n"Führer" in den Sümpfen zeigte mir eine Spur zum Alten Dorf</text>
@@ -384,7 +384,7 @@
 			<text>Der Playboy</text>
 		</string>
 		<string id="playboy_kruglov_desc">
-			<text>\n \nPlayboy ist ein US-amerikanisches Männermagazin, das primär für erotische Fotografie bzw. Aktfotografie bekannt ist, sich in seinen Artikeln aber auch mit verschiedensten Lifestyle-Themen beschäftigt.\n \nHerausgeber der amerikanischen Ausgabe ist das Unternehmen "Playboy Enterprises", das von Hugh Hefner gegründet und später von seiner Tochter Christie Hefner geleitet wurde. Es erscheint mittlerweile jeweils als Lizenzprodukt in der Landessprache und mit eigenen Themen in über 30 Ländern.\n \nDie erste Ausgabe erschien im Dezember 1953 in den Vereinigten Staaten und enthielt ein aufklappbares Blatt (Centerfold), auf dem Marilyn Monroe recht freizügig posierte, daneben eine Sherlock-Holmes-Geschichte, einen Artikel über die Dorsey-Brüder (Jimmy und Tommy) und einen Bericht über das Tisch-Design im modernen Büro. Von den 70.000 Exemplaren der Startauflage wurden 54.175 zum Preis von 0,50 US-Dollar verkauft.\n \nUrsprünglich sollte die Zeitschrift Stag Party ("Junggesellen-Party“) heißen, was aus markenrechtlichen Gründen jedoch nicht möglich war. Ein Freund des Herausgebers Hugh Hefner schlug dann den Namen Playboy vor.\n \nZu seinem Höhepunkt im Jahr 1975 hatte das Magazin für "Alles, was Männern Spaß macht“ in den Vereinigten Staaten eine reguläre Auflage von 5,6 Millionen Exemplaren. Die Ausgabe vom November 1972 verkaufte sogar eine einmalige Auflage von 7 Millionen Heften.\n \n Anfang der 1970er Jahre begann das Heft mit fremdsprachigen Ausgaben in europäischen Ländern, die ersten erschienen in Deutschland, Italien und Frankreich. Weitere internationale Ausgaben folgten.\n \nKruglow kann, von Zeit zur Zeit, neue Ausgaben besorgen.</text>
+			<text>\n \n \n \n \n \n(*)\n \nPlayboy ist ein US-amerikanisches Männermagazin, das primär für erotische Fotografie bzw. Aktfotografie bekannt ist, sich in seinen Artikeln aber auch mit verschiedensten Lifestyle-Themen beschäftigt.\n \nHerausgeber der amerikanischen Ausgabe ist das Unternehmen "Playboy Enterprises", das von Hugh Hefner gegründet und später von seiner Tochter Christie Hefner geleitet wurde. Es erscheint mittlerweile jeweils als Lizenzprodukt in der Landessprache und mit eigenen Themen in über 30 Ländern.\n \nDie erste Ausgabe erschien im Dezember 1953 in den Vereinigten Staaten und enthielt ein aufklappbares Blatt (Centerfold), auf dem Marilyn Monroe recht freizügig posierte, daneben eine Sherlock-Holmes-Geschichte, einen Artikel über die Dorsey-Brüder (Jimmy und Tommy) und einen Bericht über das Tisch-Design im modernen Büro. Von den 70.000 Exemplaren der Startauflage wurden 54.175 zum Preis von 0,50 US-Dollar verkauft.\n \nUrsprünglich sollte die Zeitschrift Stag Party ("Junggesellen-Party“) heißen, was aus markenrechtlichen Gründen jedoch nicht möglich war. Ein Freund des Herausgebers Hugh Hefner schlug dann den Namen Playboy vor.\n \nZu seinem Höhepunkt im Jahr 1975 hatte das Magazin für "Alles, was Männern Spaß macht“ in den Vereinigten Staaten eine reguläre Auflage von 5,6 Millionen Exemplaren. Die Ausgabe vom November 1972 verkaufte sogar eine einmalige Auflage von 7 Millionen Heften.\n \n Anfang der 1970er Jahre begann das Heft mit fremdsprachigen Ausgaben in europäischen Ländern, die ersten erschienen in Deutschland, Italien und Frankreich. Weitere internationale Ausgaben folgten.\n \nKruglow kann, von Zeit zur Zeit, neue Ausgaben besorgen.</text>
 		</string>
 		<string id="playboy_kruglov_name">
 			<text>Playboy Sammlung (2006)</text>
@@ -558,7 +558,7 @@
 			<text>PDA eines Wissenschaftlers</text>
 		</string>
 		<string id="scaintist_pda_desc">
-			<text>\n \nPDA des Wissenschaftlers, der in Prypjat ums Leben kam. Enthält Informationen, die "Mojito" interessieren.</text>
+			<text>\n \nPDA des Wissenschaftlers, der in Prypjat ums Leben kam. Enthält Informationen, die "Mojito" interessieren.\n \n \n \n \n \n(*)</text>
 		</string>
 		<string id="item_diplomat_name">
 			<text>Aktenkoffer mit Dokumenten</text>
@@ -612,7 +612,7 @@
 			<text>Stahl-Aktenkoffer</text>
 		</string>
 		<string id="tex_esc_provodnik_groza">
-			<text>\n \n \n \n \n \nEin Stalker mit dem Namen "Führer" hat mich gebeten, ihm eine gute Waffe zu finden. Sturmgewehr "Thunder Assault" ist genau das Richtige.</text>
+			<text>\n \n \n \n \n \nEin Stalker mit dem Namen "Führer" hat mich gebeten, ihm eine gute Waffe zu finden. Sturmgewehr "Thunder Assault" ist genau das Richtige.\n \n \n \n \n \n(*)</text>
 		</string>
 		<string id="tex_yan_scientist_find_af_dummy_glassbeads">
 			<text>\n \n \n \n \n \nProf. Sacharow braucht für eine Reihe von Experimenten ein seltenes Artefakt - "Mamas Perlen". Als Dank dafür, wird er Koordinaten eines neuentdeckten Übergangs verraten.</text>
@@ -762,7 +762,7 @@
 			<text>Ja, klar. 110% - Diese wolltest du ja. Das habe ich gefühlt und Armee-Medikits gibst hier in Hülle und Fülle - alter? Natürlch nur die Normalen Standard Medikits.</text>
 		</string>
 		<string id="artmod_162_dialog_3">
-			<text>Oh .. Na gut! Sorry, mein Fehler.\n \nHier Schreib dir mal das Rezept auf - du wirfst nacheinander in die "Elektra" Anomalie ein "Steinblut", eine "Qualle" und ein Hundeschwanz und das alles wird mit einem halben Liter Wodka übergossen. Nach 10-15 Minuten bekommst du das Artefakt "Feuerball"!\n \nNur Standard Medikits ...</text>
+			<text>Oh .. Na gut! Sorry, mein Fehler.\n \nHier Schreib dir mal das Rezept auf - du wirfst nacheinander in die "Elektra" Anomalie ein "Steinblut", eine "Qualle" und ein Hundeschwanz und das alles wird mit einem halben Liter Wodka übergossen. Nach 10-15 Minuten bekommst du das Artefakt "Feuerball"!\n \nNur Standard Medikits ...\n \n \n \n \n \n(*)</text>
 		</string>
 		<string id="tex_esc_fox_medkit">
 			<text>\n \n \n \n \n \n"Fox" braucht Medikits. So mindestens 10 Stück.</text>
@@ -843,7 +843,7 @@
 			<text>Hier, deine Pullen und die Hufen. Nicht das ich hier immer einen Lieferanten spielen muß...</text>
 		</string>
 		<string id="artmod_832_dialog_3">
-			<text>Fein, Bruder... Jetzt werden wir zu Terminatoren! Hier ist unser Geschenk für dich.\n \nEin "Rubin-Häutchen" - es heilt dich ruck-zuck... Und damit du es weißt - dieses rotes "Häutchen" kannst du aus einem einfachen bekommen. Du wirfst es in den "Eisschrank" und dann kommt dieses "Rubinchen" raus.\n \nFast hätte ich's vergessen - "Rubin-Häutchen" kann auch eine Anomalie vernichten - hab nur vergessen, welche...</text>
+			<text>Fein, Bruder... Jetzt werden wir zu Terminatoren! Hier ist unser Geschenk für dich.\n \nEin "Rubin-Pellicula" - es heilt dich ruck-zuck... Und damit du es weißt - dieses rote "Pellicula" kannst du aus einem einfachen bekommen. Du wirfst es in die "Eissturz"-Anomlie und dann kommt dieses "Rubinchen" raus.\n \nFast hätte ich's vergessen - "Rubin-Pellicula" kann auch eine Anomalie vernichten - hab nur vergessen, welche...</text>
 		</string>
 		<string id="tex_val_pula_boar_leg">
 			<text>\n \n \n \n \n \nPrapor bittet mich 8 Wildschweinhufen und 8 Flaschen Wodka zu sammeln. Verspricht dafür ein ungewöhnliches Artefakt als Belohnung.</text>
@@ -936,7 +936,7 @@
 			<text>Grüß dich. Wie geht's? Was macht die Gesundheit?</text>
 		</string>
 		<string id="artmod_711_dialog_1">
-			<text>Weißt du, die Salbe hat geholfen... Jetzt muß ich aber den Rücken immer noch warm halten... Erfahrene Kameraden haben gesagt, das ein Nierengürtel aus Pseudohund-Schwänzen die beste Methode wäre. Die wärmen bis zum Knochen durch...\n \nIch brauch von den 5 Stück. Dafür lass ich sogar dieses einzigartige Artefakt springen...</text>
+			<text>Weißt du, die Salbe hat geholfen... Jetzt muß ich aber den Rücken immer noch warm halten... Erfahrene Kameraden haben gesagt, das ein Nierengürtel aus Pseudohund-Schwänzen die beste Methode wäre. Die wärmen bis zum Knochen durch...\n \nIch brauch von den 5 Stück. Dafür lass ich sogar dieses einzigartige Artefakt springen...\n \n \n \n \n \n(*)</text>
 		</string>
 		<string id="artmod_711_dialog_2">
 			<text>Diese gibt es hier wie Sand am Meer. kein problem...</text>
@@ -963,7 +963,7 @@
 			<text>Also was ist? Ich muß mit Petrenko sprechen.</text>
 		</string>
 		<string id="artmod_821_dialog_1">
-			<text>Was ist?! Willst du mich etwa bestechen?!\n \nAndererseits... Es gibt eine Lösung...\n \nAber lass die Militär Polzei aus dem Spiel... Als wir wieder mal den Soldaten im "Toten Wald" aus der Klemme helfen mussten weil dort ein Helikopter abgestürzt ist. Hab ich ein ungewöhnliches Artefakt durchs Fernglas beobachtet. Es ist nicht weit vom Eingang entfernt. In der Nähe befinde sich drei Rote Fässer. Das problem sind aber die vielen Mutanten und Minen. Wir haben uns dann schnell zurückgezogen, da ein Telepath dazu kam.\n \nSeit dem muß ich immerzu an das grüne Ding denken. Wenn du es mir bringst, dann werde ich dich durchlassen und gebe dir sogar eins von diesen Modifizierten Artefakten.</text>
+			<text>Was ist?! Willst du mich etwa bestechen?!\n \nAndererseits... Es gibt eine Lösung...\n \nAber lass die Militär Polzei aus dem Spiel... Als wir wieder mal den Soldaten im "Toten Wald" aus der Klemme helfen mussten weil dort ein Helikopter abgestürzt ist. Hab ich ein ungewöhnliches Artefakt durchs Fernglas beobachtet. Es ist nicht weit vom Eingang entfernt. In der Nähe befinde sich drei Rote Fässer. Das problem sind aber die vielen Mutanten und Minen. Wir haben uns dann schnell zurückgezogen, da ein Telepath dazu kam.\n \nSeit dem muß ich immerzu an das grüne Ding denken. Wenn du es mir bringst, dann werde ich dich durchlassen und gebe dir sogar eins von diesen Modifizierten Artefakten.\n \n \n \n \n \n(*)</text>
 		</string>
 		<string id="artmod_821_dialog_2">
 			<text>Interessant.. Das schau ich mir an.</text>
@@ -1095,7 +1095,7 @@
 			<text>Tolik! Was sitzt du hier rum?! Wolf wartet doch bei den Lagerhäusern auf dich und das Funkgerät!</text>
 		</string>
 		<string id="artmod_873_dialog_1">
-			<text>Tut mir leid, Gezeichneter, ich dachte nicht, das mir sowas passieren kann... Auf dem Weg haben mich zwei, nein, vier Blutsauger angefallen! Drei hab ich erledigt, aber die Munition ist mir ausgegangen und mit dem Messer hier... Schon mal versucht ein Blutsuager mit einem Messer zu bekämpfen... Das ich das überlebt habe... Ich muss erstmal wieder runterkommen. Möchtest du auch Wodka?...</text>
+			<text>Tut mir leid, Gezeichneter, ich dachte nicht, das mir sowas passieren kann... Auf dem Weg haben mich zwei, nein, vier Blutsauger angefallen! Drei hab ich erledigt, aber die Munition ist mir ausgegangen und mit dem Messer hier... Schon mal versucht ein Blutsuager mit einem Messer zu bekämpfen... Das ich das überlebt habe... Ich muss erstmal wieder runterkommen. Möchtest du auch Wodka?...\n \n \n \n \n \n(*)</text>
 		</string>
 		<string id="artmod_873_dialog_2">
 			<text>Mann, Tolik... Wo ist das Funkgerät?</text>
@@ -1209,8 +1209,7 @@
 			<text>Ist ja gut, nicht stressen. Ich hab dir Proviant mitgebracht. Gutes, gesundes Essen...</text>
 		</string>
 		<string id="artmod_453_dialog_3">
-			<text>Echt? Her damit. Dann kann ich mich wieder mal als Mensch fühlen... Ich hab hier nur Hundefrass - wenn du was möchtest. 
-Beim Eingang gegenüber liegt ein frisch getrockenter Sack voll "Gras".\n \nHey.. Kann ich dich um was bitten?</text>
+			<text>Echt? Her damit. Dann kann ich mich wieder mal als Mensch fühlen... Ich hab hier nur Hundefrass - wenn du was möchtest.Beim Eingang gegenüber liegt ein frisch getrockenter Sack voll "Gras".\n \nHey.. Kann ich dich um was bitten?</text>
 		</string>
 		<string id="artmod_421_dialog_0">
 			<text>Was gibst denn?</text>
@@ -1324,623 +1323,1042 @@ Beim Eingang gegenüber liegt ein frisch getrockenter Sack voll "Gras".\n \nHey..
 			<text>\n \n \n \n \n \nPetrenko benötigt das Artefakt "Blitz". Mal sehen ws es gibt....</text>
 		</string>
 		<string id="artmod_521_dialog_0">
-			<text>Hallo! Bist du imstande Waffen oder auch Anzug zu reparieren?</text>
+			<text>Hallo! Bist du imstande Waffen oder auch Anzüge zu reparieren?</text>
 		</string>
 		<string id="artmod_521_dialog_1">
-			<text>While I can not, not the necessary tools here. Sidorovich promised to gather toolkits, said, long enough. But at the same time want him to convey a unique artefact, can you courier for me? Ill give you a way to convert Flash into Soul!</text>
+			<text>In Moment nicht, ich hab die nötigen Werkzeuge nicht. Sidorowitsch wollte mir eine Werkzeugkiste zusammenstellen, man muß ihm aber ein einzigartiges Artefakt bringen... Willst du vielleicht mal dieses Kurierjob übernehmen? Nicht umsonst, du erfährst dann, wie man ein "Blitz"-Artefakt in das Artefkt  "Seele" verwandelt...</text>
 		</string>
 		<string id="artmod_521_dialog_2">
-			<text>Why not, give</text>
+			<text>Warum nicht, ich mach's...</text>
 		</string>
 		<string id="artmod_521_dialog_3">
-			<text>not before me now, hear, all crammed to the Monolith</text>
+			<text>Dafür hab ich jetzt keine Zeit, alle sind unterwegs zum Monolithen.</text>
 		</string>
 		<string id="artmod_522_dialog_0">
-			<text>Hello Syak. I brought tools</text>
+			<text>Grüße, Syak. Ich hab das Werkzeug mitgebracht.</text>
 		</string>
 		<string id="artmod_522_dialog_1">
-			<text>Excellent, now rework can be done. But at the same time will make you fraternal fitting for the work. I have one exclusive suit. Sorry to give. For a bank. Well so be it, keep</text>
+			<text>Sehr gut, jetzt kann ich auch eine Reparatur machen. Aber nicht umsonst, versteht sich... Teile sind hier rar...</text>
 		</string>
 		<string id="artmod_522_dialog_2">
-			<text>Okay, take your box</text>
+			<text>Na dann, nimm deine Kiste...</text>
 		</string>
 		<string id="artmod_522_dialog_3">
-			<text>Wow! It's heavy! There is much info recorded, here it is, on the screen of my PDA.\nIf you need to hide anything, or there to hide from the weather, use a small shelter, which is located opposite the turn to Pripyat. There, before beginning to enter the laboratory X-10, but during one of the emission twisted deep into the gateway and not get. Code to an external door 1287975</text>
+			<text>Mann, ist die schwer... Wenn du dir das Rezept aufschreiben willst - da ist es, auf meinem PDA-Schirm... \nWenn du mal was verstecken willst, oder dich ausruhen oder eben ein Unwetter aussitzen willst - nutze den kleinen Bunker, der bei der Prypjat-Abzweigung ist. Da war früher der Eingang zum "X-10 Labor", aber bei einer der Eruptionen wurde die Schleuse verzogen und man kann nicht mehr weiter vordringen... Der Code für die Tür ist 1287975...</text>
 		</string>
 		<string id="tex_sak_repair_box">
-			<text>\nSyak, a trader from the Radar, can make repairs, but you need to bring Sidorovich a box with the necessary tools</text>
+			<text>\n \n \n \n \n \nSyak, Händler im Radar, kann Reparaturen  durchführen. Dafür muß ich ihm aber erst die Kiste mit Werkzeugen von Sidorowitsch bringen.</text>
 		</string>
 		<string id="artmod_561_dialog_0">
-			<text>There are interesting recipes?</text>
+			<text>Hast du noch mehr interessante Rezepte?</text>
 		</string>
 		<string id="artmod_561_dialog_1">
-			<text>There are, as not to be. There is a way to convert Medusa into a Goldfish! If interested, try find a Goldfish, I want that to compare with what happens, the same properties or not</text>
+			<text>Sicher... Zum Beispiel die Methode der Umwandlung einer "Qualle" zum "Goldfisch". Wenn's dich interessiert - versuch mir doch ein originales "Goldfisch"-Artefakt zu bringen, ich will das mal dem "künstlich" erschaffenden Artefakt vergleichen, ob diese die selben Eigenschaften besitzen...</text>
 		</string>
 		<string id="artmod_561_dialog_2">
-			<text>About what? We'll try to find you a Fish</text>
+			<text>Aha... Gut, ich werde es probieren...</text>
 		</string>
 		<string id="artmod_561_dialog_3">
-			<text>Oh, what do I need it</text>
+			<text>Nee... ich hab kein Interesse...</text>
 		</string>
 		<string id="artmod_562_dialog_0">
-			<text>With all respect, is Goldfish!</text>
+			<text>Hier ist ein "Goldfisch" für dich!</text>
 		</string>
 		<string id="artmod_562_dialog_1">
-			<text>Come on, come on. Let's see, different or not</text>
+			<text>Dann lass uns mal die eingeschaften von beiden vergleichen...</text>
 		</string>
 		<string id="artmod_562_dialog_2">
-			<text>Hold</text>
+			<text>Hier...</text>
 		</string>
 		<string id="artmod_562_dialog_3">
-			<text>Get your PDA, connect, I swing you the recipe</text>
+			<text>Hmm... Du willst weiter. Richtig. Gib mal dein PDA her, ich lade dir das Rezept drauf...</text>
 		</string>
 		<string id="tex_sak_gold_fish">
-			<text>\nSyak, a trader from the Radar, wants me to bring him a Goldfish artefact</text>
+			<text>\n \n \n \n \n \nSyak, Händler im Radar, möchte ein Artefakt "Goldfisch". Er will es mit der Künstlchen Variante vergleichen.</text>
 		</string>
 		<string id="artmod_631_dialog_0">
-			<text>There are interesting recipes?</text>
+			<text>Hast du noch mehr interessante Rezepte?</text>
 		</string>
 		<string id="artmod_631_dialog_1">
-			<text>In Greece, everything is. There's a way to convert a Goldfish to a Glassbeads! Not bad, huh? And now the problem: from the laboratory to the X-18 scientists abandoned a small Safe, bring it here. To my knowledge, there is something inside that I really want! You bring?</text>
+			<text>Natürlich. Zum Beispiel, wie man ein "Goldfisch"-Artefakt zu dem Artefakt "Mamas Perlen" Transmutiert! Nicht schlecht, oder? Dafür mußt du mir allerdings eine kleine Metall Box aus dem "X-18 Labor" bringen, die Wissenschaftler haben die dort  zurückgelassen. Da sind Sachen drin, die für mich sehr nützlich sind... Machst du es?\n \n \n \n \n \n(*)</text>
 		</string>
 		<string id="artmod_631_dialog_2">
-			<text>A Glassbeads, you say? Okay, I'll find one for you</text>
+			<text>"Mamas Perlen"? Gut, ich bringe ich dir.</text>
 		</string>
 		<string id="artmod_631_dialog_3">
-			<text>I have a Glassbeads for you</text>
+			<text>"Mamas Perlen" hab ich selber genug.</text>
 		</string>
 		<string id="artmod_632_dialog_0">
-			<text>Well, you fellow, Syak, little Safe... Half a ton of weight!</text>
+			<text>Mann, Syak... "Kleine Metall Box".... Die wiegt doch 'ne halbe Tonne!</text>
 		</string>
 		<string id="artmod_632_dialog_1">
-			<text>Come to exaggerate it. Couldn't be more than 200 kg</text>
+			<text>Ach, übertreib nicht. 200 Kilo maximal...</text>
 		</string>
 		<string id="artmod_632_dialog_2">
-			<text>Take care. Bros-ah-ah-yu!</text>
+			<text>Vorsicht! Ich lege a-a-a-ab!</text>
 		</string>
 		<string id="artmod_632_dialog_3">
-			<text>What are you, my port inventory! Be careful! Okay, write another recepie</text>
+			<text>Hey, mach mir das Inventar nicht kaputt! Sei bisschen vorsichtiger... Na gut, schreib dir das nächste Rezept auf.</text>
 		</string>
 		<string id="tex_sak_find_seif">
-			<text>\nSyak, a trader in the Radar, asked me to bring safe from laboratory X-18</text>
+			<text>\n \n \n \n \n \nSyak, Händler im Radar, möchte eine kleine Metall Box aus dem "X-18 Labor", im Dunklen Tal, haben.</text>
 		</string>
 		<string id="artmod_651_dialog_0">
-			<text>There are interesting recipes?</text>
+			<text>Hast du sonst noch interessante Rezepte?</text>
 		</string>
 		<string id="artmod_651_dialog_1">
-			<text>last known to me. Is there a way to convert Night Star into a Battery! Interested? The task is not difficult: I agreed with Miser on the radio, he has a new model of Armor, but, something does not work. I need it for research, can repair. Take money to Miser?</text>
+			<text>Man.. du bist aber wissbergiering. Ein letztes das ich kenne... Mit dem wissen ist es möglich das Artefakt "Nachtsterns" zu dem Artefakt "Batterie" zu verwandeln. Na! Wie klingt das?. Wenn du zu Miser gehst und mir den Anzug holst reden wir darüber. Er hatte mich angefunkt weil irgendwas nicht in ordnung oder kaputt sei. Ich will ihn mir ansehen, es ist ein neues Model, vielleicht kann ich ihn ja reparieren. Du mußt ihm das Geld für den Anzug bringen.</text>
 		</string>
 		<string id="artmod_651_dialog_2">
-			<text>new model, I'll take it</text>
+			<text>Neues Model also? Alles klar, her mit dem Geld...</text>
 		</string>
 		<string id="artmod_651_dialog_3">
-			<text>Battery, yes, she tries need</text>
+			<text>"Batterie"? Kein Bedarf...</text>
 		</string>
 		<string id="artmod_652_dialog_0">
-			<text>I brought Armor, just super!</text>
+			<text>Hier ist der Anzug, allerdings ist eine "wichtige" Sache kaputt. Wenn man in der Zone mal schnell Kak...</text>
 		</string>
 		<string id="artmod_652_dialog_1">
-			<text>Come here</text>
+			<text>Ach so.. Kein Problem. Dann mal her damit...</text>
 		</string>
 		<string id="artmod_652_dialog_2">
-			<text>Hold</text>
+			<text>Okay, hier.</text>
 		</string>
 		<string id="artmod_652_dialog_3">
-			<text>Yes. Well, infection. I'll see what happened to him. While getting the recipe</text>
+			<text>Ja. der ist wirklich nicht schlecht. Ich werde mal schauen, wie ich das hinbekomme.\n  \nHier ist dein Rezept...</text>
 		</string>
 		<string id="tex_sak_reward_outfit">
-			<text>\nSyak, a trader in the Radar, asked me to exchange money with Miser for a new model of armor</text>
+			<text>\n \n \n \n \n \nSyak, Händler im Radar, möchte den Anzug von Miser kaufen. Es scheint sich wohl um ein neues Model zuhandeln. Im Vertrauen hat er mir dafür Geld gegeben das ich ihn kaufe.</text>
 		</string>
 		<string id="artmod_523_dialog_0">
-			<text>Hello Sydor, all sitting there reekin a booze, hard to notice, NOT!</text>
+			<text>Hallo, Sidorowitsch! Mann, du musst mal raus. Bist ja bald so breit wie ein Panzer...</text>
 		</string>
 		<string id="artmod_523_dialog_1">
-			<text>Bring Worms, and you will have the same. From what has come?</text>
+			<text>Werd mal nicht frech... Was willst du?</text>
 		</string>
 		<string id="artmod_523_dialog_2">
-			<text>Syak you sent a rare artefact, I do not know what, in the sealed box. He asks him to buy an instrument, any</text>
+			<text>Syak schickt mich. Es geht um ein seltenes Artefakt. Hier - im Behälter. Keine ahnung was es ist. Er möchte es gegen ein paar Werkzeuge eintauschen. Du sollst ihm was zusammenstellen.</text>
 		</string>
 		<string id="artmod_523_dialog_3">
-			<text>Yes, he has contacted by radio. Keep the box, look, do not fall. heh, heh, heh</text>
+			<text>Ach ja, er hat mich schon per Funk kontaktiert. Ich hab die schon fertig gemacht. Hier ist die Kiste, fall nicht um... He-he-he...</text>
 		</string>
 		<string id="artmod_653_dialog_0">
-			<text>Good Narko, I thought you were already flying</text>
+			<text>Hey... Bist du ansprechbar?</text>
 		</string>
 		<string id="artmod_653_dialog_1">
-			<text>fly with you, all completely smoked</text>
+			<text>Alles gut.. weil ich schon alles aufgeraucht habe.</text>
 		</string>
 		<string id="artmod_653_dialog_2">
-			<text>Syak Salvage sent to you, you said he promised Armor</text>
+			<text>Syak schickt dir Kohle. Er Sagt - du hast ein Anzug für ihn?</text>
 		</string>
 		<string id="artmod_653_dialog_3">
-			<text>Yes, he contacted me by radio. Here it is, SEVA-10, the fly did not sit well. Only the system waste output has a hiccup. If crap ones pants, then, in deep shit he will be going!</text>
+			<text>Ja-Ja, ich hatte ihn per Funk kontaktiert. Hier. Ein "SEVA-10" Anzug, niegel-nagelneu... Nur das Fekalien-Abführsystem spinnt rum...</text>
 		</string>
 		<string id="artmod_643_dialog_0">
-			<text>Hello, Mug Tenacious. Here I have for you good artefact</text>
+			<text>Ich grüße dich du Überlebenskünstler. Ich hab hier für dich ein schönes Artefakt...</text>
 		</string>
 		<string id="artmod_643_dialog_1">
-			<text>Where? What kind of artefact?</text>
+			<text>Was für ein Artefakt?</text>
 		</string>
 		<string id="artmod_643_dialog_2">
-			<text>Kruglov handed, said good</text>
+			<text>Es kommt Kruglow .. vergessen? Sagte - es wäre ein gutes...</text>
 		</string>
 		<string id="artmod_643_dialog_3">
-			<text>Aaaa, This. Well, take your money. Scientists, pancakes, the same swindler like everyone else!</text>
+			<text>Ahh... Dieser alte Haudegen... Ja klar. Hier ist das Geld... Wissenschaftler. wollen auch, wie alle anderen, nur immer verdienen...</text>
 		</string>
 		<string id="artmod_663_dialog_0">
-			<text>Good evening, Professor, I am in agreement with Petrenko</text>
+			<text>Hallo, Professor! Ich komme im Petrenko's Aftrag.</text>
 		</string>
 		<string id="artmod_663_dialog_1">
-			<text>Aaa, unusual artefact?</text>
+			<text>Oh!... Das ungewöhnliche Artefakt?</text>
 		</string>
 		<string id="artmod_663_dialog_2">
-			<text>Petrenko said there was still such</text>
+			<text>Genau. Petrenko sagt, sowas gab's noch nie.</text>
 		</string>
 		<string id="artmod_663_dialog_3">
-			<text>Yes, judging by the description, nonsense! I promised him a new Exoskeleton for his brother, take it</text>
+			<text>Noch nie? So ein Unsin...Also der Beschreibung nach .. - Du möchtest los oder?.. Ich hatte dennoch ihm neuen Exo-Skelette versprochen. Bitte.</text>
 		</string>
 		<string id="artmod_53_61_dialog_0">
-			<text>Don't smart people say that information is the best investment?</text>
+			<text>Moin.. Einige erzählten man kann nützliche Infos kaufen?</text>
 		</string>
 		<string id="artmod_53_61_dialog_2">
-			<text>Can you tell me the way to Freedom's base?</text>
+			<text>Kannst du helfen einen Weg zu Freiheitsbasis zu finden?</text>
 		</string>
 		<string id="artmod_53_61_dialog_90">
-			<text>I've heard there's a way to get straight down into the Sarcophagus. Is this true?</text>
+			<text>Ich habe gehört, dass es einen Weg gibt, um direkt in den Sarkophag zu kommen. Ist das wahr?</text>
 		</string>
 		<string id="artmod_53_61_dialog_93">
-			<text>Well you say so, not one piece of information, besides very expensive.\nseems to be in stock anomaly, Jumper is called, and the one could throw, not in the Sarcophagus, no! But very close to him</text>
+			<text>Laß dich mal ansehen. Na-ja.\n \nSagen wir mal so - die Information ist ungeprüft, und auch nicht ganz billig. Es soll bei den Lagerhäusern eine Anomalie geben die wie ein "Teleporter" funktioniert. Diese transportiert dich in - nein,   sehr nah an den Sarkophag...</text>
 		</string>
 		<string id="artmod_53_61_dialog_94">
-			<text>How expensive?</text>
+			<text>Wie teuer?</text>
 		</string>
 		<string id="artmod_53_61_dialog_30">
-			<text>held in the Radar at the Army Warehouses, and could not get back. Would you know how to get it back?</text>
+			<text>Ich ging von den Armee-Lagerhäusern zum Radar, konnte aber nicht wieder so zurück. Kannst du mir sagen, ob es einen Weg vom Radar zurück zu gibt?</text>
 		</string>
 		<string id="artmod_53_61_dialog_3">
-			<text>Most certainly. For the right price...</text>
+			<text>Kann ich - für Geld...</text>
 		</string>
 		<string id="artmod_53_61_dialog_41">
-			<text>Forget it. I'll find it myself...</text>
+			<text>Alle klar.. Ich finde es lieber selbst.</text>
 		</string>
 		<string id="artmod_53_61_dialog_42">
-			<text>How much?</text>
+			<text>Und wieviel soll es kosten?</text>
 		</string>
 		<string id="artmod_53_61_dialog_5">
-			<text>100,000 roubles for this information. Are you interested?</text>
+			<text>Unter uns.. Ich denke, 100.000 Rubel sind für so eine kostbare "Info" nicht zu viel?</text>
 		</string>
 		<string id="artmod_53_61_dialog_55">
-			<text>For this valuable information, 150,000 roubles. Are you interested?</text>
+			<text>Das leben hier in der Zone ist nicht ganz billig, 150.000 Rubel sind für so eine kostbare Information nicht zu viel?</text>
 		</string>
 		<string id="artmod_53_61_dialog_95">
-			<text>At the moment this is exclusive information. The more people buy it, the cheaper it gets until it becomes common knowledge. That's how it works. It all depends on who wants to be first. If it's you, the price is 400,000 roubles</text>
+			<text>Im Moment sind dies äußerst exklusive Informationen. Je mehr Leute es kaufen, desto günstiger wird es, bis es allgemein bekannt ist. So funktioniert das. Es hängt alles davon ab, wer der erste ist. Der Preis 400.000 Rubel... Nun schau nicht so. So ist das leben..</text>
 		</string>
 		<string id="artmod_53_61_dialog_61">
-			<text>No, leave it. I'll manage somehow...</text>
+			<text>Nein, danke. Ich werd schon irgendwie ohne auskommen...</text>
 		</string>
 		<string id="artmod_53_61_dialog_62">
-			<text>Yes, please...</text>
+			<text>Geht in Ordnung. Hier...</text>
 		</string>
 		<string id="artmod_53_61_dialog_92">
-			<text>grandmother is not a problem, the main thing that all of the concepts was, keep</text>
+			<text>Großmutter ist nicht das Problem. Hauptsache, Hauptsache, es läuft alles ehrlich ab. Hier...\n \n \n \n \n \n(*)</text>
 		</string>
 		<string id="artmod_53_61_dialog_7">
-			<text>I think you made the right choice...</text>
+			<text>Richtige Entscheidung.</text>
 		</string>
 		<string id="artmod_53_61_dialog_8">
-			<text>I hope so...</text>
+			<text>Ich hoffe es.</text>
 		</string>
 		<string id="artmod_53_61_dialog_1">
-			<text>What are you looking for?</text>
+			<text>Wonach suchst du?</text>
 		</string>
 		<string id="artmod_53_61_dialog_10">
-			<text>Do you have any cheap Recipes for transforming artefacts?</text>
+			<text>Hast du irgendwelche günstigen Rezepte für die modifzierung von Artefakten?</text>
 		</string>
 		<string id="artmod_53_61_dialog_12">
-			<text>I don't need anything, thanks...</text>
+			<text>Ich brauche nichts. Danke...</text>
 		</string>
 		<string id="artmod_53_61_dialog_11">
-			<text>Yes, I do. 30,000 roubles. Agreed?</text>
+			<text>Sicher. Alles eine Geldfrage - 30.000 Rubel. Was ist?</text>
 		</string>
 		<string id="artmod_53_61_dialog_141">
-			<text>Agreed...</text>
+			<text>Einverstanden...</text>
 		</string>
 		<string id="artmod_53_61_dialog_142">
-			<text>Thanks, but not enough money at the moment...</text>
+			<text>Danke, aber soviel Geld habe ich im Moment nicht.</text>
 		</string>
 		<string id="artmod_53_61_dialog_20">
-			<text>Do you have any other Recipes for transforming artefacts?</text>
+			<text>Gibt es noch andere Rezepte für die Modifizerung von Artefakten?</text>
 		</string>
 		<string id="artmod_53_61_dialog_21">
-			<text>I've a Recipe for making a Dummy if you're interested, but it's 50,000 roubles. Agreed?</text>
+			<text>Ja. Für das Artefakt "Muschel". Kostet 50.000. Ales Ok?</text>
 		</string>
 		<string id="artmod_53_61_dialog_241">
-			<text>Agreed...</text>
+			<text>Einverstanden.</text>
 		</string>
 		<string id="artmod_53_61_dialog_15">
-			<text>There you go. I've uploaded the data to your PDA</text>
+			<text>Hab's auf deinem PDA hochgeladen.</text>
 		</string>
 		<string id="artmod_53_61_dialog_16">
-			<text>Excellent</text>
+			<text>Sehr gut.</text>
 		</string>
 		<string id="artmod_541_dialog_000">
-			<text>Greetings, Kruglov</text>
+			<text>Grüße dich, Kruglov</text>
 		</string>
 		<string id="artmod_541_dialog_00">
-			<text>Marked One, you're there in the Laboratory, is it not there?</text>
+			<text>Gezeichneter, du warst im Labor, ist der Dekoder nicht dort?\n \n \n \n \n \n(*)</text>
 		</string>
 		<string id="artmod_541_dialog_0">
-			<text>What decoder?</text>
+			<text>Ein Dekoder?</text>
 		</string>
 		<string id="artmod_541_dialog_1">
-			<text>Sugars, Ghost gave him a new model decoder with the function of the triangulation of the disturbing effects of alternating-gradient wave Psi-emissions</text>
+			<text>Sacharow hat dem "Ghost" ein neues Dekodermodell mitgegeben, mit der Triangulationsfunktion von Störfaktoren des Wechselwellen-Gradientes der PSI-Einwirkung...</text>
 		</string>
 		<string id="artmod_541_dialog_11">
-			<text>Um, okay... So?</text>
+			<text>Ui... Okay. Also..???</text>
 		</string>
 		<string id="artmod_541_dialog_12">
-			<text>In general, a small box with the numbers, when the specter of the last time the connection went out. Said that is located near the main control office. Look there if you bring I'll share with you a recipe for transforming Gravi into Goldfish</text>
+			<text>Na ja, so ein kleines Gerät mit Ziffern drauf. Als "Ghost" das letzte mal mit uns ein Funkgespräch führte, befand er sich bei der Hauptkontrolltafel... Kannst du da mal nachsehen? Wenn du es zurückbringst, sag ich dir wie man aus dem "Gravit"-Artefakt  eine "Goldfisch"-Artefakt herstellt...</text>
 		</string>
 		<string id="artmod_541_dialog_2">
-			<text>Okay, walk, like there is now a purpose</text>
+			<text>Gut, ich hol ihn. Im moment ist es sauber dort.</text>
 		</string>
 		<string id="artmod_541_dialog_3">
-			<text>What, are you crazy? I bid zombies to fight</text>
+			<text>Bist du verrückt?! Da gibt es Zombies ohne Ende.</text>
 		</string>
 		<string id="artmod_542_dialog_0">
-			<text>I found your 'precious'. This?</text>
+			<text>Ich hab das Gerät gefunden. Ist es das richtige?</text>
 		</string>
 		<string id="artmod_542_dialog_1">
-			<text>Nuka</text>
+			<text>Lass mal sehen...</text>
 		</string>
 		<string id="artmod_542_dialog_2">
-			<text>Hold</text>
+			<text>Hier.</text>
 		</string>
 		<string id="artmod_542_dialog_3">
-			<text>He's the most, thanks to all of our science. Add recepies. Another walk to Sidorovich?</text>
+			<text>Ja, Sehr gut! Also - Im Namen der Wissenschaft danke ich dir.  Schreib dir das Rezept auf...\n \nUnd noch was... Ich möchte ein Geschäft mit Sidorowitsch machen, willst du mich dabei unterstüzen?</text>
 		</string>
 		<string id="tex_yan_kruglov_decoder">
-			<text>\nKruglov is looking for a lost decoder. According to him, the decoder can be in the laboratory of X-16 near the main control panel</text>
+			<text>\n \n \n \n \n \nKruglow sucht den verlorengegangenen Dekoder. Der könnte, seinen Worten nach, im "X-16 Labor" sein. Irgendwo in der Nähe der Hauptkontrolltafel.</text>
 		</string>
 		<string id="artmod_641_dialog_0">
-			<text>Why?</text>
+			<text>Sidorowitsch?  Ist das ratsam mit dem Geschäfte zu machen?</text>
 		</string>
 		<string id="artmod_641_dialog_1">
-			<text>Well. I understand you're not one to blab. You see, I'm sitting on a bare salary. Sakharov especially does not pamper. And then recently I found an artefact, with unusual properties. I got in touch with all stages, he agreed to pay a pretty penny. He had to pass a container with artefacts, well, and I payed. In the area it has become known that you have the money, not greedy, are interested in more unusual, so I'll recepie show, as a Bun could boil</text>
+			<text>Na ja. Du bist zuverlässig und erzählst nicht alles überall rum.  Ich bekomme hier nur lausiges Gehalt. Sakharov hat nun mal nicht viele Mittel zu Verfügung... Und ich hab vor kurzem ein Artefakt mit ungewöhnlichen Eigenschaften gefunden. Hab mit Sidorowitsch gesprochen, er würde gut dafür bezahlen.\n \nDu musst ihm den  Behälter mit dem Artefakt übergeben und die Bezahlung abholen. In der Zone hat sich schon rumgesprochen, das du auf Geld kein Wert legst, sondern ungewöhnliche Sachen sammelst - ich werde dir dafür erzählen, wie man ein "Kloß" bastelt.\n \n \n \n \n \n(*) </text>
 		</string>
 		<string id="artmod_641_dialog_2">
-			<text>Okay, maintaining native science</text>
+			<text>Gut, ich bin ja nicht so, werd mal die heimische Wissenschaft "unterstützen".</text>
 		</string>
 		<string id="artmod_641_dialog_3">
-			<text>Her children, their affairs they themselves arranged</text>
+			<text>Nee, Leute... Eure "Geschäfte" müßt ihr selber abwickeln.</text>
 		</string>
 		<string id="artmod_642_dialog_0">
-			<text>Hello</text>
+			<text>Hallo</text>
 		</string>
 		<string id="artmod_642_dialog_1">
-			<text>Well? All right?</text>
+			<text>Und? Alles in Ordnung?</text>
 		</string>
 		<string id="artmod_642_dialog_2">
-			<text>Normally, keep your money</text>
+			<text>Ja, alles gut gelaufen. Hier ist dein Geld.</text>
 		</string>
 		<string id="artmod_642_dialog_3">
-			<text>Thank you, if that be, always just ask. Added recipie</text>
+			<text>Danke! Wenn du mal was brauchst - kannst du immer kommen. Schreib dir das Rezept auf.</text>
 		</string>
 		<string id="tex_yan_kruglov_art">
-			<text>\nKruglov wants to earn. Sent a unique artefact to Sidorovich, requests to bring payment</text>
+			<text>Kruglow möchtet was dazuverdienen... Hat für Sidorowitsch ein einzigartiges Artefakt und möchte das ich dasGeschäft für ihn abwickle.</text>
 		</string>
 		<string id="artmod_621_dialog_0">
-			<text>What is required?</text>
+			<text>Brauchen sie noch was? Doktor?</text>
 		</string>
 		<string id="artmod_621_dialog_1">
-			<text>Some time after the second release, several groups of scientists continued to work in secret laboratories. Their observations and conclusions would very much help in the process of cognition of the anomalous Zone. If you can, try to check the laboratory X-18, X-16 and a laboratory in the Radar. Judging from the fragmentary information that survived, several notebooks and manuscripts still exist. For a fee not to worry, there is a recipe for artefact Pellicle, it will be yours</text>
+			<text>Was? .. Ja - also, nach der zweiten Eruptions-Katastrophe haben noch einige Gruppen der Wissenschaftler eine Zeit lang in geheimen Laboren gearbeitet. Die Resultate ihrer Arbeit würden sehr helfen, die Anomalitäten der Zone zu verstehen. Versuchen Sie in den Labors  "X-18", "X-16" und im Radar-Labor etwas davon zu finden. Ich glaube es blieben da einige Notizbücher und Aufzeichnungen zurück. Soweit ich mich erinnere ... sehen sie bei X-18 in der Nähe des Kühlschranks nach und bei X-16 sollten sich sich einige Aufzeichnungen im Raum befinden von wo aus "Ghost" mich  kontaktierte. Im "Radar-Labor" sehen sie bei der Hauptschaltafel nach. Sofern ich mich erinnere.\n \nMachen Sie sich um die vergütung keine Sorgen, ein Rezept für das Artefakt "Pellicula" wird dann auf jeden Fall Ihnen gehören.</text>
 		</string>
 		<string id="artmod_621_dialog_2">
-			<text>And share the findings? Well</text>
+			<text>Gut, aber nur wenn Sie mir auch Infos daraus zukommen lassen.</text>
 		</string>
 		<string id="artmod_621_dialog_3">
-			<text>Sorry, I can not do this</text>
+			<text>Tut mir leid, im Moment kannn ich mich damit nicht beschäftigen.</text>
 		</string>
 		<string id="artmod_622_dialog_0">
-			<text>Hello, Professor</text>
+			<text>Ich grüße Sie, Professor.</text>
 		</string>
 		<string id="artmod_622_dialog_1">
-			<text>What? Is that it?</text>
+			<text>Oh - Hallo. Haben Sie was gefunden?</text>
 		</string>
 		<string id="artmod_622_dialog_2">
-			<text>Yes, this is the book and a couple of manuscripts</text>
+			<text>Ja, dieses Buch und ein paar Aufzeichnungen.</text>
 		</string>
 		<string id="artmod_622_dialog_3">
-			<text>So, we must carefully examine. The recipe you have earned, this is exactly. Load the memory.\nYes, there is much necessary information. Describes how to use the teleport. Nothing, a</text>
+			<text>Das muß ich eingehend studieren. Ein Rezept haben Sie auf jeden Fall verdient. Wird sofort auf Ihr PDA hochgeladen. \n \nJa, hier sind viele nützliche Infos dabei... Oha - Höchst interesant. Sogar eine Beschreibung, wie man eine "Teleporter"-Anomlie erzeugen und justieren kann... !</text>
 		</string>
 		<string id="tex_yan_scientist_books">
-			<text>\nSakharov asked to check the laboratories X-16, X-18 and a laboratory in the Radar, to bring all the manuscripts and books that are there. According to preliminary data in the X-18 book, should be in a room with a refrigerator. The X-16 book may be in the room where I linked to Ghost the last time out. The laboratory notebook in the Radar may be near the main control panel</text>
+			<text>\n \n \n \n \n \nSacharow möchtet die Labors X-16, X-18 und Radar-Labor durchsucht haben. Alle Notizen und Bücher sool ich mitbringen. \n \nAngeblich soll im X-18 was im Raum mit dem Kühlschrank sein.\n \nim X-16, im Raum, wo "Ghost" letztes Mal mit den Wissenschaftler kontaktierte.\n \nIm Radar-Labor sollte man den Raum mit der Hauptschalttafel durchsuchen...</text>
 		</string>
 		<string id="artmod_661_dialog_0">
-			<text>What is required?</text>
+			<text>Brauchst du noch was?</text>
 		</string>
 		<string id="artmod_661_dialog_1">
-			<text>Sakharov has two Exoskeletons, I arranged with him to exchange the pair for a rare artefact. You work by courier? I'll share a recipe with you</text>
+			<text>Klar.. Sakharov hat mehrere Exo-Skelette auf Lager, ich hab mit ihm ein Tausch abgemacht - ein paar davon gegen ein seltenes Artefakt. Ein Kurierjob also... Da winkt ein Artefakt-Rezept als Belohnung.</text>
 		</string>
 		<string id="artmod_661_dialog_2">
-			<text>These recipes are killing me... Okay, I'll be your mule...</text>
+			<text>Rezpte Ohne Ende ...Gut, ist ja nicht weit...</text>
 		</string>
 		<string id="artmod_661_dialog_3">
-			<text>Find another</text>
+			<text>Nee... Keine Rezpete mehr, komm mir schon vor wie in einer Kochshow.</text>
 		</string>
 		<string id="artmod_662_dialog_0">
-			<text>you, I absolutely welcome</text>
+			<text>Ich grüße dich.</text>
 		</string>
 		<string id="artmod_662_dialog_1">
-			<text>Op-PA, our runner. How it hangin?</text>
+			<text>Ah, unser Kurier... Was machen die Exo's?</text>
 		</string>
 		<string id="artmod_662_dialog_2">
-			<text>fetched, so they both</text>
+			<text>Hier - hab beide angeschleppt.</text>
 		</string>
 		<string id="artmod_662_dialog_3">
-			<text>Well thanks to the debt you have, you'll be presented at the Encouragements. Get your PDA, write a prescription</text>
+			<text>Die Wächter werden dir immer dankbar sein... Hol dein PDA raus.</text>
 		</string>
 		<string id="tex_bar_dolg_petrenko_exo">
-			<text>\nIn exchange for two Exoskeletons from Sakharov, Petrenko will give you a rare artefact</text>
+			<text>\n \n \n \n \n \nPetrenko will ein seltenes Artefakt gegen zwei Exoskelette bei Sakharov eintauschen.</text>
 		</string>
 		<string id="artmod_511_dialog_0">
-			<text>I'm listening</text>
+			<text>Was hast du? Ich höre...</text>
 		</string>
 		<string id="artmod_511_dialog_1">
-			<text>alone will remain between us? Can you pass one thing to Miser?</text>
+			<text>Es muß aber unter uns bleiben... Kannst du was an Miser bergeben?</text>
 		</string>
 		<string id="artmod_511_dialog_2">
-			<text>Sure, why not.</text>
+			<text>Sicher - warum nicht.</text>
 		</string>
 		<string id="artmod_511_dialog_3">
-			<text>Find another</text>
+			<text>Finde jemand anders für diesen Job.</text>
 		</string>
 		<string id="artmod_512_dialog_0">
-			<text>Well. I brought you something</text>
+			<text>Hey, Ich hab dir hier was mitgebracht...</text>
 		</string>
 		<string id="artmod_512_dialog_1">
-			<text>not yell. Let us so that nobody saw</text>
+			<text>Man, nicht so laut - Komm, gib her .. a-b-e-r unauffällig...</text>
 		</string>
 		<string id="artmod_512_dialog_2">
-			<text>Here's your money</text>
+			<text>Hier - dein Geld.</text>
 		</string>
 		<string id="artmod_512_dialog_3">
-			<text>OK. Get your PDA, write a prescription</text>
+			<text>OK... Hol dein PDA raus, ich lade dir das Rezept hoch...</text>
 		</string>
 		<string id="playboy_dialog_0">
-			<text>Greetings, soldier</text>
+			<text>Hallo, Soldat.</text>
 		</string>
 		<string id="playboy_dialog_1">
-			<text>Listen, you lot where Mota, can you find me one Vesh</text>
+			<text>Hallo Soldat....? Sie waren noch nicht beim Militär stimmts. Egal, Hören sie - Sie sind doch viel unterwegs... könnten sie - das ist nicht einfach - für mich was finden?</text>
 		</string>
 		<string id="playboy_dialog_4">
-			<text>And what is a Vesh? And what I get for this?</text>
+			<text>Um was handelt es sich?</text>
 		</string>
 		<string id="playboy_dialog_5">
-			<text>Do not worry, does not hurt. I know where a unique Vintorez is to find.\nI need a magazine, Playboy, do not think, not because of my aunts. I just got one recipe written, I really want. A few days ago I sat with Baldy, tired of vodka. I woke up, and the magazine, then no. I remember, I'm on the entire Bar aunts there praised, that's who then appeared. There three charming brunettes on the cover. Well?</text>
+			<text>Ich möchte ein Playboy wiederhaben.\n \nIch weiß was Sie denken.  Wir hatten in den letzten Tagen mit Baldy Ordentlich ein gebechert. Dabei lag mein Playboy auf dem Tisch. Wie das nun mal im Suff ist - hat sich jeder die Zeitschrift gekrallt. Wir hatten allerlei Faxen mit den Mädchen, die darin abgebildet sind, gemacht. Die Witze uns gegenseitig vorgelesen und so weiter - Naja .. jedenfalls hatte ich ein besonderes Artefakt Rezept auf eine der Seiten Notiert. Das will ich wiederhaben.\n \nAnscheinend konnte einer der Kameraden wohl nicht wiederstehen. Ich kann schlecht die Spinde und Betten durchsuchen. Wenn mich einer erwischt?\n \nAlso .. es sind drei Brünette auf dem Titelblatt.\n \nWie sieht's aus? Ich hätte zum beispiel eine Info wo man eine einzigartige "Vintorez" finden kann. Diese nutzt sich kaum ab. Der veschleiß ist dermaßen gering.</text>
 		</string>
 		<string id="playboy_dialog_2">
-			<text>right, gets caught, mags, will try to bring</text>
+			<text>Eine "Vontorez"? Joa.. Gut, wenn ich die Zeitschrift irgendwo sehe...</text>
 		</string>
 		<string id="playboy_dialog_3">
-			<text>Find another</text>
+			<text>Also das ist mir doch zu wieder...</text>
 		</string>
 		<string id="playboy2_dialog_0">
-			<text>Well. I brought you something</text>
+			<text>Hey, ich hab hier ein "Playboy" für dich - Nett.</text>
 		</string>
 		<string id="playboy2_dialog_1">
-			<text>Okay, this?</text>
+			<text>Super! Ist es auch die richtige Ausgabe?</text>
 		</string>
 		<string id="playboy2_dialog_2">
-			<text>Well you said three brunettes?</text>
+			<text>Du sagtest doch - mit drei Brünetten?</text>
 		</string>
 		<string id="playboy2_dialog_3">
-			<text>Yes they are, my beautiful, Ugh! what.\nWell, then, at the Agricultural Industry in the commanders base is a safe, in which he holds the most unique things, there must be the Vintorez</text>
+			<text>Ja, das sind die, - oh - meine Schönen!\n \nAlso... Im Agroprom-Komplex hat der Kommandeur des Militär einen Tresor, da bewahrt  er die Sachen drin auf. Unter anderen ist dort auch dieses "Vintorez"-Gewehr..</text>
 		</string>
 		<string id="tex_bar_ivancov_playboy">
-			<text>\nIvantsov, lost Playboy magazine with information recorded in the recipe for the return promise to tell where to get a unique VCC Vintorez. On the cover of the magazine, three charming brunettes</text>
+			<text>\n \n \n \n \n \nIvantsov ist ein "Playboy" abhanden gekommen  mit einem notiertem Rezept. Drei schöne Brünetten sind auf dem Cover. Als Belohnung verspricht er mir zu erzählen, wo man eine einzigartige  "BCC\VCC Vintorez" finden kann, das sich kaum abnützt...</text>
 		</string>
 		<string id="artmod_513_dialog_0">
-			<text>Hello, Sailor</text>
+			<text>Hallo, Sailor...</text>
 		</string>
 		<string id="artmod_513_dialog_1">
-			<text>What have you got?</text>
+			<text>Was ist los?</text>
 		</string>
 		<string id="artmod_513_dialog_2">
-			<text>little man out of debt, Captain Ivantsov, says hello and asks him to pour weighty MNT</text>
+			<text>Ein Wächter, Hauptmann Ivantsov, lässt grüßen und bittet diese Geldbörse zu füllen...</text>
 		</string>
 		<string id="artmod_513_dialog_3">
-			<text>long, ept. Grandmother that everyone loves. Let this Vesch</text>
+			<text>"Wächter"... Heh... Hinter'm Geld sind alle her... Gib schon her, was du da mitgebracht hast.</text>
 		</string>
 		<string id="sak_hello_dialog_0">
-			<text>Hello Marked One. Come, let's talk</text>
+			<text>Sei gegrüßt, Gezeichneter... Komm rein, lass uns reden.</text>
 		</string>
 		<string id="sak_hello_dialog_1">
-			<text>Hi Marked One, heard a lot of flattering things about you. Want to know a way to convert an artefact?</text>
+			<text>Sei gegrüßt, Gezeichneter. Hab schon viel Gutes über dich gehört. Willst du eine Methode der Artefakt-Modifikation erfahren?</text>
 		</string>
 		<string id="sak_hello_dialog_2">
-			<text>Well, Marked One, what have you brought?</text>
+			<text>Und, Gezeichneter, hast du was mitgebracht?</text>
 		</string>
 		<string id="sak_hello_dialog_3">
-			<text>Well there is something I can do?</text>
+			<text>Nun, was kann ich tun?</text>
 		</string>
 		<string id="sak_hello_dialog_4">
-			<text>In the process</text>
+			<text>ist im gange...\n \n \n \n \n \n(*)</text>
 		</string>
 		<string id="sak_hello_dialog_5">
-			<text>Later on I will give</text>
+			<text>Bekommst du später.</text>
 		</string>
 		<string id="sak_hello_dialog_6">
-			<text>Hello, Warrior</text>
+			<text>Hallo, Kämpfer.</text>
 		</string>
 		<string id="sak_repair_0">
-			<text>Can you repair armor?</text>
+			<text>Kannst du ein Anzug reparieren?</text>
 		</string>
 		<string id="sak_repair_1">
-			<text>Let's see, ta-aak, can do it, but need the money. Have you?</text>
+			<text>Laß mal sehen. Jap, das krieg ich hin. Wie siehts es mit Geld aus?</text>
 		</string>
 		<string id="sak_repair_4">
-			<text>Yes, here it is, repair</text>
+			<text>Mach dir keine Sorgen um's Geld. Leg einfach los.</text>
 		</string>
 		<string id="sak_repair_5">
-			<text>Blinn, I am stranded</text>
+			<text>Ja.. also - im Moment bin ich knapp bei Kasse...</text>
 		</string>
 		<string id="sak_repair_7">
-			<text>Well, the mind can not be said that the new, but all the protective functions are working properly</text>
+			<text>Sieht zwar nicht wie neu aus aber die Schützenden Eigenschaften hab ich wieder hergestellt.</text>
 		</string>
 		<string id="sak_repair_9">
-			<text>Thank you, I hope, not the last time</text>
+			<text>Danke dir. Und - bis zum nächsten mal...</text>
 		</string>
 		<string id="tex_bar_ivancov_rg6">
-			<text>Ivantsov, behind the Command Duty, maintains contact with Freedom. Miser wants to sell a RG-6 Grenade launcher to the trader in Liberty. He promises to provide a Transmutation recipe</text>
+			<text>\n \n \n \n \n \nIwanzow pflegt, hinter dem Rücken der Wächter-Leitung, Kontakte mit der "Freiheit". Er will "Miser", dem Freiheits-Händler ein Granatwerfer RG-6 verkaufen. Verspricht mir dafür ein Transmutationsrezept.</text>
 		</string>
 		<string id="enc_artmod">
-			<text>Artefact Modification</text>
+			<text>Herstellung von Artefakten</text>
 		</string>
 		<string id="enc_artmod_mincer_meat_mosquito_bald_text">
-			<text>\n.\nThe 'Meat Chunk' artefact can be produced in a Springboard anomaly with just four ingredients:\nQuirk\nStone Blood\nVodka\nDog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Fleischklumpen\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Sprungbrett\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Flasche Wodka\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_electra_sparkler_mosquito_bald_text">
-			<text>\n.\nThe 'Sparkler' artefact can be produced in a Springboard anomaly with just four ingredients:\nDroplet\nSausage\nBandage\nDog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Funkensprüher\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Sprungbrett\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Tropfen (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Wurst\n%c[255,255,255,210]®®®®®®®®®- %c[default]Verband\n%c[255,255,255,210]®®®®®®®®®- %c[default]Hundeschwanz\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_ameba_slug_mosquito_bald_text">
-			<text>\n.\nThe 'Slug' artefact can be produced in a Springboard anomaly with just four ingredients:\nDroplet\nMedusa\nVodka\nBandage.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Schnecke\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Sprungbrett\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Tropfen (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Flasche Wodka\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_cristall_mosquito_bald_text">
-			<text>\n.\nThe 'Crystal' artefact can be produced in a Springboard anomaly with just four ingredients:\nMeat Chunk\nFireball\nQuirk\nFlesh eye.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Kristall\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Sprungbrett\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Fleischklumpen (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Feuerball (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Auge vom Fleich\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_rusty_sea_urchin_mosquito_bald_text">
-			<text>\n.\nThe 'Urchin' artefact can be produced in a Springboard anomaly with just four ingredients:\nSlime\nCrystal Thorn\nStone Blood\nBloodsucker tentacles.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Seeigel\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Sprungbrett\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Schleim (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Dornenkristal (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Tentakel vom Blutsauger\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_dummy_dummy_mosquito_bald_text">
-			<text>\n.\nThe 'Dummy' artefact can be produced in a Springboard anomaly with just four ingredients:\nNight Star\nMeat Chunk\nCrystal\nMica.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Muschel\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Sprungbrett\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Nachtstern (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Fleischklumpen (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Mika (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Tentakel vom Blutsauger\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_ameba_slug_gravi_zone_text">
-			<text>\n.\nThe 'Slug' artefact can be produced in a Vortex anomaly with just four ingredients:\nQuirk\nMedusa\nSausage\nDog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Schnecke\n
+%c[default]\n \n
+%c[221,255,193,255]Anomalie und Zeit\n
+%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Vortex \n
+%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
+%c[default]\n \n
+%c[221,255,193,255]Benötige Gengenstände\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Wurst\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
+%c[default]\n \n
+Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_ameba_slime_gravi_zone_text">
-			<text>\n.\nThe 'Slime' artefact can be produced in a Vortex anomaly with just four ingredients:\nMedusa\nCan of food\nBandage\nDog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Schleim\n
+%c[default]\n \n
+%c[221,255,193,255]Anomalie und Zeit\n
+%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Vortex \n
+%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
+%c[default]\n \n
+%c[221,255,193,255]Benötige Gengenstände\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
+%c[default]\n \n
+Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_electra_flash_gravi_zone_text">
-			<text>\n.\nThe 'Flash' artefact can be produced in a Vortex anomaly with just four ingredients:\nQuirk\nStone Blood\nDog tail\nVodka.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Blitz\n
+%c[default]\n \n
+%c[221,255,193,255]Anomalie und Zeit\n
+%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Vortex \n
+%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
+%c[default]\n \n
+%c[221,255,193,255]Benötige Gengenstände\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Flasche Wodka\n
+%c[default]\n \n
+Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_night_star_gravi_zone_text">
-			<text>\n.\nThe 'Night Star' artefact can be produced in a Vortex anomaly with just four ingredients:\nThorn\nCrystal Thorn\nMedusa\nPseudodog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Nachtstern\n
+%c[default]\n \n
+%c[221,255,193,255]Anomalie und Zeit\n
+%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Vortex \n
+%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
+%c[default]\n \n
+%c[221,255,193,255]Benötige Gengenstände\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Dorn (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Dornenkristall (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
+%c[default]\n \n
+Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_soul_gravi_zone_text">
-			<text>\n.\nThe 'Soul' artefact can be produced in a Vortex anomaly with just four ingredients:\nFlash\nSlug\nStone Flower\nSnork leg.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Seele\n
+%c[default]\n \n
+%c[221,255,193,255]Anomalie und Zeit\n
+%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Vortex \n
+%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
+%c[default]\n \n
+%c[221,255,193,255]Benötige Gengenstände\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Blitz (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Schnecke (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblume (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Snork Bein\n
+%c[default]\n \n
+Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_dummy_pellicle_gravi_zone_text">
-			<text>\n.\nThe 'Pellicle' artefact can be produced in a Vortex anomaly with just four ingredients:\nSoul\nGoldfish\nCrystal\nMica.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Pellicula\n
+%c[default]\n \n
+%c[221,255,193,255]Anomalie und Zeit\n
+%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Vortex \n
+%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
+%c[default]\n \n
+%c[221,255,193,255]Benötige Gengenstände\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Seele (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Goldfisch (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Kristall (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Mika (Artefakt)\n
+%c[default]\n \n
+Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_cristall_flower_mincer_text">
-			<text>\n.\nThe 'Stone Flower' artefact can be produced in a Whirligig anomaly with just four ingredients:\nStone Blood\nBandage\nMedusa\nCan of food.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Steinblume\n
+%c[default]\n \n
+%c[221,255,193,255]Anomalie und Zeit\n
+%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Karussell\n
+%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
+%c[default]\n \n
+%c[221,255,193,255]Benötige Gengenstände\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n
+%c[default]\n \n
+Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_drops_mincer_text">
-			<text>\n.\nThe 'Droplet' artefact can be produced in a Whirligig anomaly with just four ingredients:\nQuirk\nVodka\nBandage\nDog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Tropfen\n
+%c[default]\n \n
+%c[221,255,193,255]Anomalie und Zeit\n
+%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Karussell\n
+%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
+%c[default]\n \n
+%c[221,255,193,255]Benötige Gengenstände\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Flasche Wodka\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
+%c[default]\n \n
+Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_rusty_kristall_mincer_text">
-			<text>\n.\nThe 'Crystal Thorn' artefact can be produced in a Whirligig anomaly with just four ingredients:\nSparkler\nMedusa\nCan of food\nDog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Dornenkristall\n
+%c[default]\n \n
+%c[221,255,193,255]Anomalie und Zeit\n
+%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Karussell\n
+%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
+%c[default]\n \n
+%c[221,255,193,255]Benötige Gengenstände\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Funkensprüher (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
+%c[default]\n \n
+Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_electra_moonlight_mincer_text">
-			<text>\n.\nThe 'Moonlight' artefact can be produced in a Whirligig anomaly with just four ingredients:\nFireball\nSlug\nStone Blood\nBloodsucker tentacles.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Mondlicht\n
+%c[default]\n \n
+%c[221,255,193,255]Anomalie und Zeit\n
+%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Karussell\n
+%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
+%c[default]\n \n
+%c[221,255,193,255]Benötige Gengenstände\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Feuerball (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Schnecke (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Tentakel vom Blutsauger\n
+%c[default]\n \n
+Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_ameba_slug_mincer_text">
-			<text>\n.\nThe 'Mica' artefact can be produced in a Whirligig anomaly with just four ingredients:\nFlash\nFireball\nQuirk\nPseudodog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Mika\n
+%c[default]\n \n
+%c[221,255,193,255]Anomalie und Zeit\n
+%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Karussell\n
+%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
+%c[default]\n \n
+%c[221,255,193,255]Benötige Gengenstände\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Blitz (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Feuerball (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Schwanz vom Pseudohund\n
+%c[default]\n \n
+Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_dummy_glassbeads_mincer_text">
-			<text>\n.\nThe 'Glassbeads' artefact can be produced in a Whirligig anomaly with just four ingredients:\nNight Star\nGoldfish\nUrchin\nMica.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Mamas Perlen\n
+%c[default]\n \n
+%c[221,255,193,255]Anomalie und Zeit\n
+%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Karussell\n
+%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
+%c[default]\n \n
+%c[221,255,193,255]Benötige Gengenstände\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Nachtstern (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Goldfisch (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Seeigel (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Mika (Artefakt)\n
+%c[default]\n \n
+Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_rusty_kristall_buzz_text">
-			<text>\n.\nThe 'Crystal Thorn' artefact can be produced in a Fruit Punch anomaly with just four ingredients:\nSparkler\nDroplet\nMedusa\nBread.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Dornenkristall\n
+%c[default]\n \n
+%c[221,255,193,255]Anomalie und Zeit\n
+%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Gallert\n
+%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
+%c[default]\n \n
+%c[221,255,193,255]Benötige Gengenstände\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Funkensprüher (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Tropfen (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Brot\n
+%c[default]\n \n
+Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_rusty_thorn_buzz_text">
-			<text>\n.\nThe 'Thorn' artefact can be produced in a Fruit Punch anomaly with just four ingredients:\nStone Blood\nBread\nBandage\nDog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Dorn\n
+%c[default]\n \n
+%c[221,255,193,255]Anomalie und Zeit\n
+%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Gallert\n
+%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
+%c[default]\n \n
+%c[221,255,193,255]Benötige Gengenstände\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Brot\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
+%c[default]\n \n
+Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_fireball_buzz_text">
-			<text>\n.\nThe 'Fireball' artefact can be produced in a Fruit Punch anomaly with just four ingredients:\nThorn\nQuirk\nSnork leg\nBread.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Feuerball\n
+%c[default]\n \n
+%c[221,255,193,255]Anomalie und Zeit\n
+%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Gallert\n
+%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
+%c[default]\n \n
+%c[221,255,193,255]Benötige Gengenstände\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Dorn (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Bein vom Snork\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Stück Brot\n
+%c[default]\n \n
+Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_cristall_buzz_text">
-			<text>\n.\nThe 'Crystal' artefact can be produced in a Fountain anomaly with just four ingredients:\nStone Flower\nFireball\nMedusa\nBloodsucker tentacles.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Kristall\n
+%c[default]\n \n
+%c[221,255,193,255]Anomalie und Zeit\n
+%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Springbrunnen\n
+%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
+%c[default]\n \n
+%c[221,255,193,255]Benötige Gengenstände\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblume (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Feuerball (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Tentakel vom Blutsauger\n
+%c[default]\n \n
+Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_night_star_buzz_text">
-			<text>\n.\nThe 'Goldfish' artefact can be produced in a Fruit Punch anomaly with just four ingredients:\nGravi\nFlash\nStone Blood\nPseudodog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Goldfisch\n
+%c[default]\n \n
+%c[221,255,193,255]Anomalie und Zeit\n
+%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Gallert\n
+%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
+%c[default]\n \n
+%c[221,255,193,255]Benötige Gengenstände\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Gravit (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Blitz  (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Schwanz vom Pseudohund\n
+%c[default]\n \n
+Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_fuzz_kolobok_buzz_text">
-			<text>\n.\nThe 'Kolobok' artefact can be produced in a Fruit Punch anomaly with just four ingredients:\nUrchin\nMoonlight\nSoul\nNight Star.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Kloß\n
+%c[default]\n \n
+%c[221,255,193,255]Anomalie und Zeit\n
+%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Gallert\n
+%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
+%c[default]\n \n
+%c[221,255,193,255]Benötige Gengenstände\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Seeigel (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Mondlicht (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Seele (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Nachtstern (Artefakt)\n
+%c[default]\n \n
+Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_electra_flash_zharka_text">
-			<text>\n.\nThe 'Flash' artefact can be produced in a Burner anomaly with just four ingredients:\nMedusa\nQuirk\nThorn\nVodka.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Blitz\n
+%c[default]\n \n
+%c[221,255,193,255]Anomalie und Zeit\n
+%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Brenner\n
+%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
+%c[default]\n \n
+%c[221,255,193,255]Benötige Gengenstände\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Dorn (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Flsche Wodka\n
+%c[default]\n \n
+Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_ameba_slime_zharka_text">
-			<text>\n.\nThe 'Slime' artefact can be produced in a Burner anomaly with just four ingredients:\nMedusa\nStone Blood\nSausage\nDog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Schleim\n
+%c[default]\n \n
+%c[221,255,193,255]Anomalie und Zeit\n
+%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Brenner\n
+%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
+%c[default]\n \n
+%c[221,255,193,255]Benötige Gengenstände\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Stück Wurst\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
+%c[default]\n \n
+Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_gravi_zharka_text">
-			<text>\n.\nThe 'Gravi' artefact can be produced in a Burner anomaly with just four ingredients:\nMedusa\nStone Blood\nBandage\nCan of food.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Gravit\n
+%c[default]\n \n
+%c[221,255,193,255]Anomalie und Zeit\n
+%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Brenner\n
+%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
+%c[default]\n \n
+%c[221,255,193,255]Benötige Gengenstände\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n
+%c[default]\n \n
+Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_night_star_zharka_text">
-			<text>\n.\nThe 'Night Star' artefact can be produced in a Burner anomaly with just four ingredients:\nCrystal Thorn\nFlash\nQuirk\nSnork leg.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Nachtstern\n
+%c[default]\n \n
+%c[221,255,193,255]Anomalie und Zeit\n
+%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Brenner\n
+%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
+%c[default]\n \n
+%c[221,255,193,255]Benötige Gengenstände\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Kristall (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Dornenkristall (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Blitz (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Bein vom Snork\n
+%c[default]\n \n
+Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_electra_moonlight_zharka_text">
-			<text>\n.\nThe 'Moonlight' artefact can be produced in a Burner anomaly with just four ingredients:\nGravi\nFlash\nMedusa\nBloodsucker tentacles.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Mondlicht\n
+%c[default]\n \n
+%c[221,255,193,255]Anomalie und Zeit\n
+%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Brenner\n
+%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
+%c[default]\n \n
+%c[221,255,193,255]Benötige Gengenstände\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Gravit (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Blitz (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Tentakel vom Blutsauger\n
+%c[default]\n \n
+Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_dummy_battery_zharka_text">
-			<text>\n.\nThe 'Battery' artefact can be produced in a Burner anomaly with just four ingredients:\nFlash\nMica\nVodka\nDog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Batterie\n
+%c[default]\n \n
+%c[221,255,193,255]Anomalie und Zeit\n
+%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Brenner\n
+%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
+%c[default]\n \n
+%c[221,255,193,255]Benötige Gengenstände\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Blitz (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Mika (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Flasche Wodka\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
+%c[default]\n \n
+Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_medusa_galant_text">
-			<text>\n.\nThe 'Medusa' artefact can be produced in an Electro anomaly with just four ingredients:\nTushkano head\nBandage\nCan of food\nDog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Qualle\n
+%c[default]\n \n
+%c[221,255,193,255]Anomalie und Zeit\n
+%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n
+%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
+%c[default]\n \n
+%c[221,255,193,255]Benötige Gengenstände\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Kopf vom Tuskano\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
+%c[default]\n \n
+Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_fireball_galant_text">
-			<text>\n.\nThe 'Fireball' artefact can be produced in an Electro anomaly with just four ingredients:\nMedusa\nStone Blood\nDog tail\nVodka.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Feuerball\n
+%c[default]\n \n
+%c[221,255,193,255]Anomalie und Zeit\n
+%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n
+%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
+%c[default]\n \n
+%c[221,255,193,255]Benötige Gengenstände\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Flasche Wodka\n
+%c[default]\n \n
+Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_cristall_flower_galant_text">
-			<text>\n.\nThe 'Stone Flower' artefact can be produced in an Electro anomaly with just four ingredients:\nQuirk\nThorn\nCan of food\nDog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Steinblume\n
+%c[default]\n \n
+%c[221,255,193,255]Anomalie und Zeit\n
+%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n
+%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
+%c[default]\n \n
+%c[221,255,193,255]Benötige Gengenstände\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Dorn (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
+%c[default]\n \n
+Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_ameba_mica_galant_text">
-			<text>\n.\nThe 'Mica' artefact can be produced in an Electro anomaly with just four ingredients:\nSlime\nMedusa\nThorn\nSausage.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Mika\n
+%c[default]\n \n
+%c[221,255,193,255]Anomalie und Zeit\n
+%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n
+%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
+%c[default]\n \n
+%c[221,255,193,255]Benötige Gengenstände\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Schleim (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Dorn (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Wurst\n
+%c[default]\n \n
+Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_electra_moonlight_galant_text">
-			<text>\n.\nThe 'Soul' artefact can be produced in an Electro anomaly with just four ingredients:\nGravi\nFireball\nStone Blood\nPseudodog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Seele\n
+%c[default]\n \n
+%c[221,255,193,255]Anomalie und Zeit\n
+%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n
+%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
+%c[default]\n \n
+%c[221,255,193,255]Benötige Gengenstände\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Gravit (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Feuerball (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
+%c[default]\n \n
+Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_gold_fish_galant_text">
-			<text>\n.\nThe 'Goldfish' artefact can be produced in an Electro anomaly with just four ingredients:\nMedusa\nStone Flower\nThorn\nFlesh eye.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Goldfisch\n
+%c[default]\n \n
+%c[221,255,193,255]Anomalie und Zeit\n
+%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n
+%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
+%c[default]\n \n
+%c[221,255,193,255]Benötige Gengenstände\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblume (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Dorn (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Auge das vom Fleisch\n
+%c[default]\n \n
+Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_Jellyfish_galant_text">
-			<text>\n.\nThe 'Medusa' artefact can be produced in an Electro anomaly with just four ingredients:\nTushkano head\nCan of food\nBandage\nDog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Qualle\n
+%c[default]\n \n
+%c[221,255,193,255]Anomalie und Zeit\n
+%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n
+%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
+%c[default]\n \n
+%c[221,255,193,255]Benötige Gengenstände\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Kopf vom Tuskano\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
+%c[default]\n \n
+Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.\n \n \n \n \n \n(*)Sind genau die selben gegstände wie enc_info_artmod_vyvert_buzz_text</text>
 		</string>
 		<string id="enc_info_artmod_vyvert_buzz_text">
-			<text>\n.\nThe 'Quirk' artefact can be produced in a Fruit Punch anomaly with just four ingredients:\nTushkano head\nCan of food\nBandage\nDog tail.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Gepresstes\n
+%c[default]\n \n
+%c[221,255,193,255]Anomalie und Zeit\n
+%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Gallert\n
+%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
+%c[default]\n \n
+%c[221,255,193,255]Benötige Gengenstände\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Kopf vom Tuskano\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
+%c[default]\n \n
+Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_dummy_spring_galant_text">
-			<text>\n.\nThe 'Spring' artefact can be produced in an Electro anomaly with just four ingredients:\nStone Flower\nCrystal\nPseudodog tail\nCan of food.\nTransformation should occur within 5-10 minutes Zone Time</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Sprungfeder\n
+%c[default]\n \n
+%c[221,255,193,255]Anomalie und Zeit\n
+%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n
+%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
+%c[default]\n \n
+%c[221,255,193,255]Benötige Gengenstände\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblume (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]Kristall (Artefakt)\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
+%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n
+%c[default]\n \n
+Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 <!-- AR -->
 		<string id="enc_artmod_life_heart_ice_zone_text">
-			<text>%c[default]\nunique, very rare artefact. It has truly miraculous properties - to resurrect the dead! The only drawback - a huge burden.\n.\nArtefact can be produced by combining four artefacts in a Snow anomaly\nNight Star, Goldfish, Urchin, and Dummy.\n%c[255,255,255,255]Time for transmutation %c[255,224,224,160]5 minutes Zone Time\n%c[255,255,255,255]Probability of successful transmutation %c[255,1,255,1] 100% %c[default]</text>
+			<text>\n \n"Lebendes Herz" Modifkation\n
+%c[221,255,193,255]Körperliche Eigenschaften\n
+%c[255,255,255,210]Vital Gesundheit : %c[default]n/a\n
+%c[255,255,255,210]Vital Blutung®®® : %c[default]n/a\n
+%c[255,255,255,210]Vital Ausdauer®® : %c[default]n/a\n
+%c[255,255,255,210]Vital Hunger®®®® : %c[default]n/a\n
+%c[default]\n \n%c[221,255,193,255]Schutz und Resistenz\n
+%c[255,255,255,210]Strahlung®®®®®®® : %c[default]n/a\n
+%c[255,255,255,210]Verbrennung®®®®® : %c[default]n/a\n
+%c[255,255,255,210]Elektroschock®®® : %c[default]n/a\n
+%c[255,255,255,210]Chemisch Verbre. : %c[default]n/a\n
+%c[255,255,255,210]PSI Telepatie®®® : %c[default]n/a\n
+%c[255,255,255,210]Vor Reißwunden®® : %c[default]n/a\n
+%c[255,255,255,210]Vor Projektile®® : %c[default]n/a\n
+%c[255,255,255,210]Vor Explosion®®® : %c[default]n/a\n
+%c[255,255,255,210]Aufprall Schutz® : %c[default]n/a\n
+%c[default]\n \n
+%c[221,255,193,255]Artefakt Trans-und MesoMutation\n
+%c[255,255,255,210]Benötigte Zeit®® : %c[255,224,224,160]5 Minuten\n
+%c[255,255,255,210]Wirkung Positiv® : %c[255,1,255,1]100%\n
+%c[255,255,255,210]Wirkung Negativ® : %c[255,255,1,1]0%\n
+%c[255,255,255,210]Ursprung®®®®®®®® : %c[255,1,255,1]Nachtstern, Goldfisch, Seeigel, Muschel\n
+%c[255,255,255,210]Anomalie Abhängig: %c[255,1,255,1]Eissturz\n
+%c[default]\n \nEin Einzigartiges und seltenes Artefakt. Es besitzt ein paar Ungewöhnlich Eigenschaften - Es kann Tote ins Leben zurück rufen. Dafür besitzt es ein grossen Nachteil - es ist enorm Schwer.\n \n \n \n(Wie das funktiooniert muss noch rausgefunden werden. Jedenfalls sollte sich der Player innerhalb von 2Meter des Toten NPC aufhalten oder Kann man sich selbst damit am Leben erhalten.. ist mir noch nicht ganz klar)</text>
 		</string>
 		<string id="af_life_heart">
-			<text>The heart</text>
+			<text>Lebendes Herz</text>
 		</string>
 		<string id="af_life_heart_s">
-			<text>The heart</text>
+			<text>Lebendes Herz</text>
 		</string>
 		<string id="af_life_heart_desc">
-			<text>\n.\nunique, very rare artefact. It has truly miraculous properties - to resurrect the dead! The only drawback - a large burden</text>
+			<text>\n \nEin Einzigartiges und seltenes Artefakt. Es besitzt ein paar Ungewöhnlich Wundersame Eigenschaften - Es kann Tote wieder zum Leben erwecken. Besitzt aber ein grossen Nachteil - Das Artefakt ist in sich enorm Schwer.</text>
 		</string>
 		<string id="af_medusa_emerald">
-			<text>Emerald jellyfish</text>
+			<text>Smaragd  Qualle</text>
 		</string>
 		<string id="af_medusa_emerald_s">
-			<text>'Emerald'</text>
+			<text>Smaragd  Qualle</text>
 		</string>
 		<string id="enc_af_medusa_green">
 			<text>\n.\nUnique artefact. In appearance, the usual 'Medusa', but green. Is not radioactive, emits a weak light. There is a perception that it is a result of combining the two anomalies - 'Springboard' and 'Fruit Punch. Adds protection from bullet impacts, but drops her from the mutants and anomalies</text>
 		</string>
 		<string id="af_Jellyfish">
-			<text>Emerald Medusa</text>
+			<text>-- WIRD NICHT BENUTZ --</text>
 		</string>
 		<string id="af_Jellyfish_green">
-			<text>\n.\nunique artefact, seemingly ordinary "Medusa", but green. It is not radioactive, emits a weak light. Thought to appear as a result of combining the two anomalies - 'Springboard' and 'brawn'. Adds protection from bullet impacts, but reduces it from mutants and anomalies</text>
+			<text>-- WIRD NICHT BENUTZ --</text>
 		</string>
 		<string id="af_vyvert_emerald">
 			<text>Emerald Quirk</text>
@@ -3305,4 +3723,4 @@ Beim Eingang gegenüber liegt ein frisch getrockenter Sack voll "Gras".\n \nHey..
 			<text>Borov? I'll have a word with him... when I see him</text>
 		</string>
 	</string_table>
-<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 19.03.2017 07:35:49 -->
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 20.03.2017 08:30:06 -->
