@@ -1815,526 +1815,107 @@
 			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Muschel\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Sprungbrett\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Nachtstern (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Fleischklumpen (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Mika (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Tentakel vom Blutsauger\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_ameba_slug_gravi_zone_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Schnecke\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Vortex \n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Wurst\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Schnecke\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Vortex \n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Wurst\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_ameba_slime_gravi_zone_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Schleim\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Vortex \n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Schleim\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Vortex \n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_electra_flash_gravi_zone_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Blitz\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Vortex \n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Flasche Wodka\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Blitz\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Vortex \n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Flasche Wodka\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_night_star_gravi_zone_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Nachtstern\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Vortex \n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Dorn (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Dornenkristall (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Nachtstern\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Vortex \n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Dorn (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Dornenkristall (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_soul_gravi_zone_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Seele\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Vortex \n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Blitz (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Schnecke (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblume (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Snork Bein\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Seele\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Vortex \n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Blitz (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Schnecke (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblume (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Snork Bein\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_dummy_pellicle_gravi_zone_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Pellicula\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Vortex \n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Seele (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Goldfisch (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Kristall (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Mika (Artefakt)\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Pellicula\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Vortex \n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Seele (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Goldfisch (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Kristall (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Mika (Artefakt)\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_cristall_flower_mincer_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Steinblume\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Karussell\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Steinblume\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Karussell\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_drops_mincer_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Tropfen\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Karussell\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Flasche Wodka\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Tropfen\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Karussell\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Flasche Wodka\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_rusty_kristall_mincer_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Dornenkristall\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Karussell\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Funkensprüher (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Dornenkristall\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Karussell\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Funkensprüher (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_electra_moonlight_mincer_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Mondlicht\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Karussell\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Feuerball (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Schnecke (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Tentakel vom Blutsauger\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Mondlicht\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Karussell\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Feuerball (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Schnecke (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Tentakel vom Blutsauger\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_ameba_slug_mincer_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Mika\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Karussell\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Blitz (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Feuerball (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Schwanz vom Pseudohund\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Mika\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Karussell\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Blitz (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Feuerball (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Schwanz vom Pseudohund\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_dummy_glassbeads_mincer_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Mamas Perlen\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Karussell\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Nachtstern (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Goldfisch (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Seeigel (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Mika (Artefakt)\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Mamas Perlen\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Karussell\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Nachtstern (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Goldfisch (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Seeigel (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Mika (Artefakt)\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_rusty_kristall_buzz_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Dornenkristall\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Gallert\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Funkensprüher (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Tropfen (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Brot\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Dornenkristall\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Gallert\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Funkensprüher (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Tropfen (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Brot\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_rusty_thorn_buzz_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Dorn\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Gallert\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Brot\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Dorn\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Gallert\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Brot\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_fireball_buzz_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Feuerball\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Gallert\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Dorn (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Bein vom Snork\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Stück Brot\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Feuerball\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Gallert\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Dorn (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Bein vom Snork\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Stück Brot\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_cristall_buzz_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Kristall\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Springbrunnen\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblume (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Feuerball (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Tentakel vom Blutsauger\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Kristall\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Springbrunnen\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblume (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Feuerball (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Tentakel vom Blutsauger\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_night_star_buzz_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Goldfisch\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Gallert\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Gravit (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Blitz  (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Schwanz vom Pseudohund\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Goldfisch\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Gallert\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Gravit (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Blitz  (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Schwanz vom Pseudohund\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_fuzz_kolobok_buzz_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Kloß\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Gallert\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Seeigel (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Mondlicht (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Seele (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Nachtstern (Artefakt)\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Kloß\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Gallert\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Seeigel (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Mondlicht (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Seele (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Nachtstern (Artefakt)\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_electra_flash_zharka_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Blitz\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Brenner\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Dorn (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Flsche Wodka\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Blitz\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Brenner\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Dorn (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Flsche Wodka\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_ameba_slime_zharka_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Schleim\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Brenner\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Stück Wurst\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Schleim\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Brenner\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Stück Wurst\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_gravi_zharka_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Gravit\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Brenner\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Gravit\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Brenner\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_night_star_zharka_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Nachtstern\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Brenner\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Kristall (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Dornenkristall (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Blitz (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Bein vom Snork\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Nachtstern\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Brenner\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Kristall (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Dornenkristall (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Blitz (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Bein vom Snork\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_electra_moonlight_zharka_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Mondlicht\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Brenner\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Gravit (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Blitz (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Tentakel vom Blutsauger\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Mondlicht\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Brenner\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Gravit (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Blitz (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Tentakel vom Blutsauger\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_dummy_battery_zharka_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Batterie\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Brenner\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Blitz (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Mika (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Flasche Wodka\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Batterie\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Brenner\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Blitz (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Mika (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Flasche Wodka\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_medusa_galant_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Qualle\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Kopf vom Tuskano\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Qualle\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Kopf vom Tuskano\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_fireball_galant_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Feuerball\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Flasche Wodka\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Feuerball\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Flasche Wodka\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_cristall_flower_galant_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Steinblume\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Dorn (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Steinblume\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Dorn (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_ameba_mica_galant_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Mika\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Schleim (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Dorn (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Wurst\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Mika\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Schleim (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Dorn (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Wurst\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_electra_moonlight_galant_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Seele\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Gravit (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Feuerball (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Seele\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Gravit (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Feuerball (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_gold_fish_galant_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Goldfisch\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblume (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Dorn (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Auge das vom Fleisch\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Goldfisch\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblume (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Dorn (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Auge das vom Fleisch\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_Jellyfish_galant_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Qualle\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Kopf vom Tuskano\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.\n \n \n \n \n \n(*)Sind genau die selben gegstände wie enc_info_artmod_vyvert_buzz_text</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Qualle\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Kopf vom Tuskano\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.\n \n \n \n \n \n(*)Sind genau die selben gegstände wie enc_info_artmod_vyvert_buzz_text</text>
 		</string>
 		<string id="enc_info_artmod_vyvert_buzz_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Gepresstes\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Gallert\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Kopf vom Tuskano\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Gepresstes\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Gallert\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Kopf vom Tuskano\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_dummy_spring_galant_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Sprungfeder\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblume (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Kristall (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Sprungfeder\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblume (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Kristall (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 <!-- AR -->
 		<string id="enc_artmod_life_heart_ice_zone_text">
-			<text>\n \n"Lebendes Herz" Modifkation\n
-%c[221,255,193,255]Körperliche Eigenschaften\n
-%c[255,255,255,210]Vital Gesundheit : %c[default]n/a\n
-%c[255,255,255,210]Vital Blutung®®® : %c[default]n/a\n
-%c[255,255,255,210]Vital Ausdauer®® : %c[default]n/a\n
-%c[255,255,255,210]Vital Hunger®®®® : %c[default]n/a\n
-%c[default]\n \n%c[221,255,193,255]Schutz und Resistenz\n
-%c[255,255,255,210]Strahlung®®®®®®® : %c[default]n/a\n
-%c[255,255,255,210]Verbrennung®®®®® : %c[default]n/a\n
-%c[255,255,255,210]Elektroschock®®® : %c[default]n/a\n
-%c[255,255,255,210]Chemisch Verbre. : %c[default]n/a\n
-%c[255,255,255,210]PSI Telepatie®®® : %c[default]n/a\n
-%c[255,255,255,210]Vor Reißwunden®® : %c[default]n/a\n
-%c[255,255,255,210]Vor Projektile®® : %c[default]n/a\n
-%c[255,255,255,210]Vor Explosion®®® : %c[default]n/a\n
-%c[255,255,255,210]Aufprall Schutz® : %c[default]n/a\n
-%c[default]\n \n
-%c[221,255,193,255]Artefakt Trans-und MesoMutation\n
-%c[255,255,255,210]Benötigte Zeit®® : %c[255,224,224,160]5 Minuten\n
-%c[255,255,255,210]Wirkung Positiv® : %c[255,1,255,1]100%\n
-%c[255,255,255,210]Wirkung Negativ® : %c[255,255,1,1]0%\n
-%c[255,255,255,210]Ursprung®®®®®®®® : %c[255,1,255,1]Nachtstern, Goldfisch, Seeigel, Muschel\n
-%c[255,255,255,210]Anomalie Abhängig: %c[255,1,255,1]Eissturz\n
-%c[default]\n \nEin Einzigartiges und seltenes Artefakt. Es besitzt ein paar Ungewöhnlich Eigenschaften - Es kann Tote ins Leben zurück rufen. Dafür besitzt es ein grossen Nachteil - es ist enorm Schwer.\n \n \n \n(Wie das funktiooniert muss noch rausgefunden werden. Jedenfalls sollte sich der Player innerhalb von 2Meter des Toten NPC aufhalten oder Kann man sich selbst damit am Leben erhalten.. ist mir noch nicht ganz klar)</text>
+			<text>\n \n"Lebendes Herz" Modifkation\n%c[221,255,193,255]Körperliche Eigenschaften\n%c[255,255,255,210]Vital Gesundheit : %c[default]n/a\n%c[255,255,255,210]Vital Blutung®®® : %c[default]n/a\n%c[255,255,255,210]Vital Ausdauer®® : %c[default]n/a\n%c[255,255,255,210]Vital Hunger®®®® : %c[default]n/a\n%c[default]\n \n%c[221,255,193,255]Schutz und Resistenz\n%c[255,255,255,210]Strahlung®®®®®®® : %c[default]n/a\n%c[255,255,255,210]Verbrennung®®®®® : %c[default]n/a\n%c[255,255,255,210]Elektroschock®®® : %c[default]n/a\n%c[255,255,255,210]Chemisch Verbre. : %c[default]n/a\n%c[255,255,255,210]PSI Telepatie®®® : %c[default]n/a\n%c[255,255,255,210]Vor Reißwunden®® : %c[default]n/a\n%c[255,255,255,210]Vor Projektile®® : %c[default]n/a\n%c[255,255,255,210]Vor Explosion®®® : %c[default]n/a\n%c[255,255,255,210]Aufprall Schutz® : %c[default]n/a\n%c[default]\n \n%c[221,255,193,255]Artefakt Trans-und MesoMutation\n%c[255,255,255,210]Benötigte Zeit®® : %c[255,224,224,160]5 Minuten\n%c[255,255,255,210]Wirkung Positiv® : %c[255,1,255,1]100%\n%c[255,255,255,210]Wirkung Negativ® : %c[255,255,1,1]0%\n%c[255,255,255,210]Ursprung®®®®®®®® : %c[255,1,255,1]Nachtstern, Goldfisch, Seeigel, Muschel\n%c[255,255,255,210]Anomalie Abhängig: %c[255,1,255,1]Eissturz\n%c[default]\n \nEin Einzigartiges und seltenes Artefakt. Es besitzt ein paar Ungewöhnlich Eigenschaften - Es kann Tote ins Leben zurück rufen. Dafür besitzt es ein grossen Nachteil - es ist enorm Schwer.\n \n \n \n(Wie das funktiooniert muss noch rausgefunden werden. Jedenfalls sollte sich der Player innerhalb von 2Meter des Toten NPC aufhalten oder Kann man sich selbst damit am Leben erhalten.. ist mir noch nicht ganz klar)</text>
 		</string>
 		<string id="af_life_heart">
 			<text>Lebendes Herz</text>
@@ -2352,40 +1933,40 @@ Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des
 			<text>Smaragd  Qualle</text>
 		</string>
 		<string id="enc_af_medusa_green">
-			<text>\n.\nUnique artefact. In appearance, the usual 'Medusa', but green. Is not radioactive, emits a weak light. There is a perception that it is a result of combining the two anomalies - 'Springboard' and 'Fruit Punch. Adds protection from bullet impacts, but drops her from the mutants and anomalies</text>
+			<text>\n \nEin Einzigertiges Artefakt. Bis auf einige Eigenschaften ähnelt es dem Artefakt-"Qualle". Den Namen es hat bekommen weil so Intensiv Grün wie ein Smaragd leuchtet. Dieser umstand ist auf die Kombination von zwei Anomlien zurückzuführen. Wie die Normale "Qualle" ist dieses Artefakt nicht Radioaktiv. Gegen über der normalen "Qualle" wird der Schutz vor "Kugeln" angehoben. Zeitgleich verringert es den Physischen Schutz vor Mutanten und Anomlien. Es Ensteht duch die Kombination der Anomlie "Sprungbrett" und der Anomlie "Gallert".</text>
 		</string>
 		<string id="af_Jellyfish">
 			<text>-- WIRD NICHT BENUTZ --</text>
 		</string>
 		<string id="af_Jellyfish_green">
-			<text>-- WIRD NICHT BENUTZ --</text>
+			<text>-- WIRD NICHT BENUTZT --</text>
 		</string>
 		<string id="af_vyvert_emerald">
-			<text>Emerald Quirk</text>
+			<text>Smaragd Gepressetes</text>
 		</string>
 		<string id="af_vyvert_emerald_s">
-			<text>Emerald Quirk</text>
+			<text>Smaragd Gepressetes</text>
 		</string>
 		<string id="enc_af_vyvert_green">
-			<text>\n.\nunique artefact, seemingly ordinary "Quirk", but green. It is not radioactive, emits a weak light. It is believed that he appears as a result of combining two anomalies - 'Springboard' and 'brawn'. Pretty good protection against mutants, but reduces the protection from bullet impacts</text>
+			<text>\n \nEin Einzigertiges Artefakt. Bis auf einige Eigenschaften ähnelt es dem Artefakt-"Gepressetes". Es schimmert grünlich. Dieser umstand ist auf die Kombination von zwei Anomlien zurückzuführen. Wie das Normale Artefakt "Gepressetes" ist dieses Artefakt nicht Radioaktiv. Gegenüber der normalen Variante wird der Schutz vor "Kugeln" reduziert. Erhöt aber den Physischen Schutz vor Mutanten. Es Ensteht duch die Kombination der Anomlie "Sprungbrett" und der Anomlie "Brawn".\n \n \n \n \n \n(*)Was ist BRAWN .... Tecnobacon?</text>
 		</string>
 		<string id="af_blood_emerald">
-			<text>The Emerald Stone Blood</text>
+			<text>Smarargd Steinblut</text>
 		</string>
 		<string id="af_blood_emerald_s">
-			<text>Emerald Stone</text>
+			<text>Smarargd Steinblut</text>
 		</string>
 		<string id="enc_af_blood_green">
-			<text>\n.\nunique artefact, seemingly normal "Stone Blood", but green. It is not radioactive, emits a weak light. There is a perception that it appears as a result of combining the two anomalies - Whirligig anomaly and "brawn". Pretty good protection against anomalies, but also reduces protection from bullet impacts</text>
+			<text>\n \nEin Einzigertiges Artefakt. Bis auf einige Eigenschaften ähnelt es dem Artefakt-"Steinblut". Seine Oberfäche hat einen besonderen Grünstisch. Dieser Umstand ist auf die Kombination von zwei Anomlien zurückzuführen. Durch diese Kombinatiion hat die Radioaktivität nachgelassen aber auch eine deutliche Reduzierung "Physische" Kräfte die mir eine hoher geschwindigkeit eindringen. Allerdings bietet es guten Schutz vor normalen "Physischen" Stoß Kräften. Diese Artefakt ist ein Resultat der Anomlien "Karussell" und "Brawn".\n \n \n \n \n \n(*)Was ist BRAWN .... Tecnobacon?</text>
 		</string>
 		<string id="af_pellicle">
-			<text>Ruby Pellicle</text>
+			<text>Rubin Pellicula</text>
 		</string>
 		<string id="af_pellicle_s">
-			<text>Ruby Pellicle</text>
+			<text>Rubin Pellicula</text>
 		</string>
 		<string id="af_pellicle_red">
-			<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+5\n%c[default]\nunique artefact in appearance resembles a regular "Pellicle", but red. Slightly radioactive, emits light. Perhaps transmutes from the "Pellicles" by ingestion of an anomaly "Snow." Has the effect of the rapid healing of open wounds, little protection against anomalies but significantly reduces the protection of bullet impacts</text>
+			<text>\n \nEinzigartiges Artefakt, sieht aus wie das gewöhnliche "Pellicula"-Aretfakt, ist aber rot. Leuchtet und ist deutlich Radioaktiv. Transmutiert aus dem Artefakt "Pellicula", wenn dieses in die Anomalie "Eissturz" gerät.\n \nZu den besonderen Eigeschaften zählen die unglaublche Körperliche Heilungskraft die dieses Artefakt austößt. Sowie der Schutz vor "Physischen" Kräften. Allerdings hat das Artefakt probleme mit Metallischen Objekten wie Kugeln.</text>
 		</string>
 		<string id="af_red_spring">
 			<text>Ruby spring</text>
@@ -3723,4 +3304,4 @@ Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des
 			<text>Borov? I'll have a word with him... when I see him</text>
 		</string>
 	</string_table>
-<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 20.03.2017 08:30:06 -->
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 20.03.2017 21:55:38 -->

@@ -1,6 +1,7 @@
 Für Enziklopädie Texte die zu kurz sind. 1-6 Sätze, Quick Return zeichen
 ========================================================================================
-\n \n \n \n \n \n
+\n \n \n \n \n \n 
+\n \n \n (Für Städte)
 
 
 Sonderzeichen für die Stalker Texte
@@ -130,36 +131,36 @@ Schalldдmpfer (Kaliber xxx)
 Mutanten
 =======================================================================================
 
-%c[255,220,220,100]• %c[255,1,255,255]Vitalität    : %c[255,1,255,1]\n
-%c[255,220,220,100]• %c[255,1,255,255]Gewicht      : %c[255,1,255,1]kg\n
-%c[255,220,220,100]• %c[255,1,255,255]Angriff      : %c[255,1,255,1]\n
+%c[255,220,220,100]• %c[255,1,255,255]Vitalität®®®®: %c[255,1,255,1]\n
+%c[255,220,220,100]• %c[255,1,255,255]Gewicht®®®®®®: %c[255,1,255,1]kg\n
+%c[255,220,220,100]• %c[255,1,255,255]Angriff®®®®®®: %c[255,1,255,1]\n
 %c[255,220,220,100]• %c[255,1,255,255]Schnelligkeit: %c[255,1,255,1]\n \n
 %c[255,220,220,100]  Widerstandsfähigkeiten\n
-%c[255,220,220,100]• %c[255,1,255,255]Physisch     : %c[255,1,255,1]0%\n
-%c[255,220,220,100]• %c[255,1,255,255]Strahlung    : %c[255,1,255,1]0%\n
-%c[255,220,220,100]• %c[255,1,255,255]Verbrennung  : %c[255,1,255,1]0%\n
-%c[255,220,220,100]• %c[255,1,255,255]Chemisch     : %c[255,1,255,1]0%\n
-%c[255,220,220,100]• %c[255,1,255,255]PSI Schutz   : %c[255,1,255,1]0%\n
-%c[255,220,220,100]• %c[255,1,255,255]Kugeln       : %c[255,1,255,1]0%\n
-%c[255,220,220,100]• %c[255,1,255,255]Explosion    : %c[255,1,255,1]0%\n
-%c[255,220,220,100]• %c[255,1,255,255]Brüche       : %c[255,1,255,1]0%\n
+%c[255,220,220,100]• %c[255,1,255,255]Physisch®®®®®: %c[255,1,255,1]0%\n
+%c[255,220,220,100]• %c[255,1,255,255]Strahlung®®®®: %c[255,1,255,1]0%\n
+%c[255,220,220,100]• %c[255,1,255,255]Verbrennung®®: %c[255,1,255,1]0%\n
+%c[255,220,220,100]• %c[255,1,255,255]Chemisch®®®®®: %c[255,1,255,1]0%\n
+%c[255,220,220,100]• %c[255,1,255,255]PSI Schutz®®®: %c[255,1,255,1]0%\n
+%c[255,220,220,100]• %c[255,1,255,255]Kugeln®®®®®®®: %c[255,1,255,1]0%\n
+%c[255,220,220,100]• %c[255,1,255,255]Explosion®®®®: %c[255,1,255,1]0%\n
+%c[255,220,220,100]• %c[255,1,255,255]Brüche®®®®®®®: %c[255,1,255,1]0%\n
 %c[255,220,220,100]• %c[255,1,255,255]Schockzustand: %c[255,1,255,1]0%\n \n%c[default]
 
 
 Item Info: Medizin
 ========================================================================================
-%c[255,220,220,100]Stärke®®®®®®®®®®® : %c[255,1,255,1]\n
-%c[255,220,220,100]Kp. Alkohol Abbau : %c[255,1,255,1]\n
-%c[255,220,220,100]Erhöhte Ausdauer® : %c[255,1,255,1]\n
-%c[255,220,220,100]Erhöhter Schutz®® : %c[255,1,255,1]\n
-%c[255,220,220,100]Wirkungs Dauer®®® : %c[255,1,255,1]\n
-%c[255,220,220,100]PSI Schutz®®®®®®® : %c[255,1,255,1]\n
-%c[255,220,220,100]Reduziert. Hunger : %c[255,1,255,1]\n
-%c[255,220,220,100]Gesundheitsschub® : %c[255,1,255,1]\n
-%c[255,220,220,100]Blutung stillen®® : %c[255,1,255,1]\n
-%c[255,220,220,100]Packungs Menge®®® : %c[255,1,255,1]\n
-%c[255,220,220,100]Nebenwirkungen®®® : %c[255,1,255,1]\n
-%c[255,220,220,100]Strahlung®®®®®®®®®: %c[255,1,255,1]\n
+%c[255,220,220,100]Stärke®®®®®®®®®®®: %c[255,1,255,1]\n
+%c[255,220,220,100]Kp. Alkohol Abbau: %c[255,1,255,1]\n
+%c[255,220,220,100]Erhöhte Ausdauer®: %c[255,1,255,1]\n
+%c[255,220,220,100]Erhöhter Schutz®®: %c[255,1,255,1]\n
+%c[255,220,220,100]Wirkungs Dauer®®®: %c[255,1,255,1]\n
+%c[255,220,220,100]PSI Schutz®®®®®®®: %c[255,1,255,1]\n
+%c[255,220,220,100]Reduziert. Hunger: %c[255,1,255,1]\n
+%c[255,220,220,100]Gesundheitsschub®: %c[255,1,255,1]\n
+%c[255,220,220,100]Blutung stillen®®: %c[255,1,255,1]\n
+%c[255,220,220,100]Packungs Menge®®®: %c[255,1,255,1]\n
+%c[255,220,220,100]Nebenwirkungen®®®: %c[255,1,255,1]\n
+%c[255,220,220,100]Strahlung®®®®®®®®: %c[255,1,255,1]\n
 %c[default]\n \n
 
 Item Info: Outfits/ Westen/ Anzüge
@@ -168,8 +169,50 @@ Item Info: Outfits/ Westen/ Anzüge
 %c[255,220,220,100]Festigkeitsklasse: %c[255,1,255,1]\n
 
 
-
+Status Werte:
 ========================================================================================
+®Verbrennung®®®®:
+®Verätzung®®®®®®:
+®Explosion®®®®®®:
+®Kugelsicherheit:
+®Parameter®®®®®®:
+®Strahlung®®®®®®:
+®Elektroschock®®:
+®Aufprall®®®®®®®:
+®PSI-Einwirkung®:
+®Reißwunden®®®®®:
+
+®Gesundheit®®®®®:
+®Blutung®®®®®®®®:
+®Strahlung®®®®®®:
+®Hunger®®®®®®®®®:
+®Ausdauer®®®®®®®:
+
+
+Intro Text (amk_strings.xml/ amk_welcome_title)
+========================================================================================
+\n
+%c[255,128,128,255]Willkommen zu\n
+%c[128,128,128,012]Stalker: EP1 - Shadow Of Tchernobyl\n
+%c[128,128,128,012]--==- TechnoBacon StalkerSoup -==--\n
+%c[128,128,128,012]-®Basierend auf: Narodnaya Soljanka\n
+%c[128,128,128,012]-®Deutsche Übersetzung: ®Marty2Base\n
+%c[default]
+
+Intro Text (amk_strings.xml/ amk_welcome_msg)
+%c[056,185,128,128]\n \n
+Du bist verwirrt, orientierungslos. Kein Plan was Thema ist.\n
+Spreche mit dem Stalker auf der Strasse und nach und nach\n
+wirst du weiter in die Zone abtauchen und diese erforschen.\n n
+Viel Spass mit der Mod und viel Glück, Marty2Base
+%c[default]\n
+========================================================================================
+
+
+Standard Satz für nicht verwendete Objekte (Ist so leichter im Editor wieder zu finden)
+========================================================================================
+-- WIRD NICHT BENUTZT --
+
 Zusatz Texte, Erinnerungs Info.
 \nBeschreibung Fehlt, auch in der Original Englischen Stalkersoup Version\nKommt dann Später
 
@@ -185,6 +228,9 @@ Texte wo es noch nicht ganz klar ist was man benötigt und ob das stimmt
 
 Der Marker für die Errinnerungs Info
 \n \n \n \n \n \n(*) 
+
+dmx_mod_dialogs.xml		> sidorovich_outfit_blockpost_dialog0 Prüfen
+dmx_mod_dialogs.xml		> totalizator_0, Wette Prüfen
 
 meceniy_st_dialogs.xml -> doc_qeast_q_5 (Anzüge)
 meceniy_st_dialogs.xml -> doc_tvar_5 (Klistier, Einlauf Mutanteil.. Gehe sumpf, besuche Doktor)
@@ -202,3 +248,8 @@ sak_strings.xml			-> artmod_631_dialog_1 Metall Box? Tresor?
 sak_strings.xml			-> artmod_53_61_dialog_92, Großmutter?
 sak_strings.xml			-> artmod_541_dialog_00 Was ist nicht dort?
 sak_strings.xml			-> sak_hello_dialog_4 ?? Was ist im Gange. Prozess?
+sak_strings.xml			-> enc_af_vyvert_green Was für eine Anomalie "Brawn?"
+sak_strings.xml			-> enc_af_blood_green Was für eine Anomalie "Brawn?"
+
+
+string_table_general.xml-> item_sniper_flash_name Das Item muss überprüft werden

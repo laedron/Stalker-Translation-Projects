@@ -2,8 +2,6 @@ SOM (Standalone Modifkation): Tecnobacon Stalkersoup v1.10010
 Übersetzung English -> Detusch
 
 
-
-
 //=============================================================================================//
 XML Dateien 100%
 Diese Dateien sind 100% Deutsch, Es kann aber sein das es noch nicht so wirklich die Qualität
@@ -22,6 +20,7 @@ gibt.
 - dmx_mod_items
 - dmx_mod_weapons		<- (Waffen Todo: Details)**
 - meceniy_st_dialogs	<- (2 - 3 items, die im Nachhinein Überprüfr werden müssen)
+- string_table_general
 - ui_st_inventory
 - ui_st_keybinding
 

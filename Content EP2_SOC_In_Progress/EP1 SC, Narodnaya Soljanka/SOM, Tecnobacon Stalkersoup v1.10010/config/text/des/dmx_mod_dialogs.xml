@@ -3,13 +3,13 @@
 <!-- Partial reworking of text, mainly Soul Cube and SKAT15 dialogues - Sword2012 - 12 Dec 16 -->
 <string_table>
 	<string id="rul_cars_000">
-		<text>Handelst Sie auch mit Autos?</text>
+		<text>Handelst du auch mit Autos?</text>
 	</string>
 	<string id="rul_cars_001">
 		<text>Na sicher doch. Tritt näher. Hier ist, was ich zurzeit habe:</text>
 	</string>
 	<string id="rul_cars_011">
-		<text>beim Ausbildungslager in Kordon</text>
+		<text>beim Lager in Kordon</text>
 	</string>
 	<string id="rul_cars_012">
 		<text>in einem Feld in der Nähe der Müllhalde</text>
@@ -178,7 +178,7 @@
 <!-- Customized SCAT-15M Armour -->
 	</string>
 	<string id="no_uniq">
-		<text>Im Moment doch nicht, danke. Vielleicht später.</text>
+		<text>Im moment doch nicht, danke. Vielleicht später.</text>
 	</string>
 	<string id="syslov_upgrade_skat">
 		<text>Ich habe hier ein Upgrade-Modul für den "SCAT-15M" Schutz Anzug. Normal braucht der Anzug die "Black Energy" von einem Artefakt, das wird aber geändert, so dass man es in Zukunft nicht mehr benötigt.\nHab ich von einem  Kerl der mal hier war. Er sagte ich solle es solange hier sicher aufbewahren bis der richtige Käufer in Erscheinung tritt! ..Interessant..\nEs ist einmalig. Das bekommst du sonst nirgendwo, deswegen auch die stolze Summe von 45.000 Rubel inklusive dem Artefakt "Tropfen der Seele".Und? Bist du immer noch interessiert?</text>
@@ -666,7 +666,7 @@
 	</string>
 <!-- Tote has SUSLOVA-->
 	<string id="totalizator_0">
-		<text>Syslov, Ich hörte das man hier untereiner Wetten kann. Sprich - also einem  Totalisator Verfahren.... Ich würde gern mein Geld verdoppeln, hat aber keine Eile wenn du verstehst was ich meine....</text>
+		<text>Syslov, Ich hörte das man hier untereinander Wetten kann. Sprich - also einem Totalisator Verfahren.... Ich würde gern mein Geld verdoppeln, hat aber keine Eile wenn du verstehst was ich meine....</text>
 	</string>
 	<string id="totalizator_1">
 		<text>Nun... ja sowas gibt es hier, nur bedenke: entweder gehst du unter oder du schwimmst - verlierst oder gewinnnst. Du setzt 50 Rubel und kannst 500 Rubel gewinnen. Es wird dann ausgezahlt oder du kannst weiter gehen, wie du möchstest. Solltest du Zahlen und kannst nicht .... wird man deine Leiche irgendwoe im Sumpf wahrscheinliuch wiedersehen..so ist das.</text>
@@ -837,8 +837,7 @@
 		<text>So, so Gezeichneter, du liebst es wahrscheinlich zu spielen aber auch schulden müssen gezahlt werden.... \nDas ist nicht nur schlecht, das geht gar nicht.. Der Preis dafür ist normaler weise ein Finger. Verstanden? (*)</text>
 	</string>
 	<string id="dolg_5">
-		<text>Gezeichneter, du bist ganz schön ausverschämt. Um Himmels willen, was ist los und wieso begleichst du deine Schulden nicht.\nEin paar Typen kamen hier vorbei und die versprachen dich nach dem Muster der britischen Flagge zu schneiden und was ist übrig ist zu verfüttern. Du liebst doch dein Leben! (*)
-</text>
+		<text>Gezeichneter, du bist ganz schön ausverschämt. Um Himmels willen, was ist los und wieso begleichst du deine Schulden nicht.\nEin paar Typen kamen hier vorbei und die versprachen dich nach dem Muster der britischen Flagge zu schneiden und was ist übrig ist zu verfüttern. Du liebst doch dein Leben! (*)</text>
 	</string>
 	<string id="dolg_6">
 		<text>Ich verstehe dich nicht. Wir stimmen beide überein? Du hast hattest drei Tage Zeit. Es kommt noch nicht mal ein verdammtes "Es tut mir leid". Mach was du willst aber die schulden müssen gezahlt werden. Sonst wirst du später nicht mal Nüsse puhlen können. (*)</text>
@@ -872,4 +871,4 @@
 		<text>USB Stick vom Wissenschaftler</text>
 	</string>
 </string_table>
-<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96h ( 2017/02/01) =!!= Last changed: 08.02.2017 10:47:28 -->
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 20.03.2017 21:36:17 -->

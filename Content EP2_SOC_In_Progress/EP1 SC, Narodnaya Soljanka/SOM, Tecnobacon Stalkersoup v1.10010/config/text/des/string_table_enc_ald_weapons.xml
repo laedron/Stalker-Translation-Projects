@@ -10,23 +10,7 @@
 			<text>Boar-12 "Hammer"</text>
 		</string>
 		<string id="enc_arsenal_vepr12_descr">
-			<text>%c[221,255,193,255]Waffen Info\n
-%c[255,255,255,210]Munition  : %c[1,168,255,210]12x70 Schrot, 12x70 Massiv/Spitz, 12x70 Isomorph\n
-%c[255,255,255,210]Kapazität : %c[1,168,255,210]20 Schuss\n
-%c[255,255,255,210]Verbaut   : %c[1,168,255,210]Zielfernrohr 3.5x \n
-%c[255,255,255,210]Länge     : %c[1,168,255,210]1227mm\n 
-%c[255,255,255,210]Lauflänge : %c[1,168,255,210]867mm\n
-%c[255,255,255,210]Reichweite: %c[1,168,255,210]Keine Angabe\n \n
-%c[221,255,193,255]Weitere Eigenschaften\n
-%c[250,150,150,250]Typ       : %c[1,168,255,210]Halbautomatische Schrotflinte\n
-%c[250,150,150,250]Modis     : %c[1,168,255,210]Keine Angabe\n \n
-%c[221,255,193,255]Optionales Zubehör\n
-%c[250,150,150,250]Schalldämpfer 8.6x70mm\n \n
-%c[221,255,193,255]Beschreibung\n%c[default]
-Die "Wild" Boar12 ist eine relativ neue Entwicklung aus dem Hammer Design Team\n \n
-Frühe Versionen der Vepr-12 wurden von Izhmash produziert, mit der Produktion in die Molot-Fabrik, wo die Schrotflinte neu "Designed" wurde und zur Massenproduktion verarbeitet wird. Die "Vepr-12" soll ein direkter Konkurrent zu der weit verbreiteten Saiga-12- Schrotflinte sein, die bereits von Izhmash produziert wird. Wie die Saiga ist die Vepr-12 eine vielseitige Waffe, die von Jägern und Profi-Schützen gleichermaßen genutzt wird.\n \n Unter diesen Überlegungen führte Molot einzigartige Merkmale mithinzu, wie zum Beispiel der beidseitige Sicherheitsregler, den Bolzen-Haltemechanismus und eine vereinfachte Magazin-Zufuhr.\n \n
-Der Vepr-12 fehlt die Standard-AK- Seitenschiene, stattdessen wurde eine "Picatinny-Schiene" für die optische Visiere angebracht. Die Staubabdeckung ist si angebracht das sie vom Benutzer geöffnet und geschloßen werden kann, ohne die Nullstellung einer montierten Optik zu verlieren.\n \n
-Der Vepr-12 wurde für den russischen Militär- und der Strafverfolgung  konzipiert, mit zivilen Anwendungen für die Jagd bis hin zur Selbstverteidigung. Insbesondere hat die Schrotflinte einne besonderen Platz  unter den IPSC- Wettkampfschützen.Die Vepr-12 ist eine effektive 12-Kaliber-Waffe und zugleich eine sehr vielseitige halbautomatische Schrotflinte. Ähnlich wie die Saiga-12 ist die Vepr-12 ideal für Tontauben-Schießen, mit entsprechender Optik.</text>
+			<text>%c[221,255,193,255]Waffen Info\n%c[255,255,255,210]Munition  : %c[1,168,255,210]12x70 Schrot, 12x70 Massiv/Spitz, 12x70 Isomorph\n%c[255,255,255,210]Kapazität : %c[1,168,255,210]20 Schuss\n%c[255,255,255,210]Verbaut   : %c[1,168,255,210]Zielfernrohr 3.5x \n%c[255,255,255,210]Länge     : %c[1,168,255,210]1227mm\n%c[255,255,255,210]Lauflänge : %c[1,168,255,210]867mm\n%c[255,255,255,210]Reichweite: %c[1,168,255,210]Keine Angabe\n \n%c[221,255,193,255]Weitere Eigenschaften\n%c[250,150,150,250]Typ       : %c[1,168,255,210]Halbautomatische Schrotflinte\n%c[250,150,150,250]Modis     : %c[1,168,255,210]Keine Angabe\n \n%c[221,255,193,255]Optionales Zubehör\n%c[250,150,150,250]Schalldämpfer 8.6x70mm\n \n%c[221,255,193,255]Beschreibung\n%c[default]Die "Wild" Boar12 ist eine relativ neue Entwicklung aus dem Hammer Design Team\n \nFrühe Versionen der Vepr-12 wurden von Izhmash produziert, mit der Produktion in die Molot-Fabrik, wo die Schrotflinte neu "Designed" wurde und zur Massenproduktion verarbeitet wird. Die "Vepr-12" soll ein direkter Konkurrent zu der weit verbreiteten Saiga-12- Schrotflinte sein, die bereits von Izhmash produziert wird. Wie die Saiga ist die Vepr-12 eine vielseitige Waffe, die von Jägern und Profi-Schützen gleichermaßen genutzt wird.\n \n Unter diesen Überlegungen führte Molot einzigartige Merkmale mithinzu, wie zum Beispiel der beidseitige Sicherheitsregler, den Bolzen-Haltemechanismus und eine vereinfachte Magazin-Zufuhr.\n \nDer Vepr-12 fehlt die Standard-AK- Seitenschiene, stattdessen wurde eine "Picatinny-Schiene" für die optische Visiere angebracht. Die Staubabdeckung ist si angebracht das sie vom Benutzer geöffnet und geschloßen werden kann, ohne die Nullstellung einer montierten Optik zu verlieren.\n \nDer Vepr-12 wurde für den russischen Militär- und der Strafverfolgung  konzipiert, mit zivilen Anwendungen für die Jagd bis hin zur Selbstverteidigung. Insbesondere hat die Schrotflinte einne besonderen Platz  unter den IPSC- Wettkampfschützen.Die Vepr-12 ist eine effektive 12-Kaliber-Waffe und zugleich eine sehr vielseitige halbautomatische Schrotflinte. Ähnlich wie die Saiga-12 ist die Vepr-12 ideal für Tontauben-Schießen, mit entsprechender Optik.</text>
 		</string>
 		<string id="wpn_ump45_Taktik">
 			<text>HK UMP-45 'Tactical'</text>
@@ -173,4 +157,4 @@ Der Vepr-12 wurde für den russischen Militär- und der Strafverfolgung  konzipier
 			<text>Military Spec Ops AN-M83 Phosphor grenades\n• Lighting range: 10m\n• Lit time: approx 60 sec\nBased on the AN-M83 HC white smoke hand grenade\nGrenade body is made mostly from fibreglass, and contains a filler with chemical agents needed to obtain glowing light effects in various colours after ignition\nAvailable in four colours:\n• Military AN-M83R - Red\n• Military AN-M83B - Blue\n• Military AN-M83G - Green\n• Military AN-M83Y - Yellow\nAll versions must be be treated with extreme care, and may activate if dropped or impacted!</text>
 		</string>
 <!-- 20:05 16.11.2014 -->
-<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 09.03.2017 23:35:39 -->
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 20.03.2017 21:55:50 -->
