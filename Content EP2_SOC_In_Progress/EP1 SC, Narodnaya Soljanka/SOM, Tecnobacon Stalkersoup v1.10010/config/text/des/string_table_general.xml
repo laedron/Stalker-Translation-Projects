@@ -39,7 +39,7 @@
 			<text>Detailierter Plan des Radar-Bunkers.</text>
 		</string>
 		<string id="plan_document_desc">
-			<text>Detailierter Plan des Radar-Bunkers. Darauf ist ein alter Durchgang zum Sarkophag eingezeichnet.</text>
+			<text>\n \nDetailierter Plan des Radar-Bunkers. Darauf ist ein alter Durchgang zum Sarkophag eingezeichnet.</text>
 		</string>
 		<string id="gold_art_name">
 			<text>Gold Klumpen</text>
@@ -66,13 +66,13 @@
 			<text>USB Stick des Söldners "Ary"</text>
 		</string>
 		<string id="ara_flash_desc">
-			<text>USB 2.0 Stick des Söldners "Ary". Enthält sein Tagebuch.</text>
+			<text>\n \nUSB 2.0 Stick des Söldners "Ary". Enthält sein Tagebuch.</text>
 		</string>
 		<string id="fraer_pda_name">
 			<text>PDA von "Friar"</text>
 		</string>
 		<string id="fraer_pda_desc">
-			<text>\n \n"Friar's" PDA enthält Persönliche Notizen und Aufzeichnungen.</text>
+			<text>\n \nFriar's PDA enthält Persönliche Notizen und Aufzeichnungen.</text>
 		</string>
 		<string id="bandranen_pda_name">
 			<text>PDA des verwundeten Banditen.</text>
@@ -288,7 +288,7 @@
 			<text>Südliches Tschernobyl AKW</text>
 		</string>
 		<string id="l12_stancia_2">
-			<text>NÖrdliches Tschernobyl AKW</text>
+			<text>Nördliches Tschernobyl AKW</text>
 		</string>
 		<string id="cs_agroprom_underground">
 			<text>Die Alten Tunneln</text>
@@ -498,16 +498,16 @@
 			<text>AKW-Steuerungsbunker</text>
 		</string>
 		<string id="enc_saharov_about_klik_text">
-			<text>Sakharov knows about the death of Fang, and advises me to talk to Voronin</text>
+			<text>\n \n \n \n \n \n Sakharov weißt nicht viel über "Fangs's" Tod und empfiehlt mit Voronin zu sprechen.</text>
 		</string>
 		<string id="saharov_begin">
-			<text>Sakharov: Die Untersuchung hat begonnen ...</text>
+			<text>Sakharov: Die Untersuchung hat begonnen.</text>
 		</string>
 		<string id="poisk">
 			<text>Nachforschung</text>
 		</string>
 		<string id="enc_voronin_about_klik_text">
-			<text>Voronin meint - "Fang" hatte wohl irgendwelche Beziehungen mit Söldnern. Sein Rat: den Informabten besuchen. Er soll auch mit Söldnern Geschäfte machen. Vielleicht kann ich von ihm mehr erfahren...</text>
+			<text>\n \n \n \n \n \n Voronin meint - "Fang" hatte wohl irgendwelche Beziehungen mit Söldnern. Sein Rat: den Informabten besuchen. Er soll auch mit Söldnern Geschäfte machen. Vielleicht kann ich von ihm mehr erfahren...</text>
 		</string>
 		<string id="sms_new_dan2">
 			<text>Textnachrichten</text>
@@ -522,4 +522,4 @@
 			<text>Neuer Weg</text>
 		</string>
 	</string_table>
-<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 20.03.2017 23:20:37 -->
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 21.03.2017 00:24:10 -->

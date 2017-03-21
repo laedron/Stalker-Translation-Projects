@@ -5,13 +5,13 @@
 <!-- 34 artefact descriptions and 17 reports still to do - Sword2012 -->
 	<string_table>
 		<string id="mil_lukash_healing_armor_01">
-			<text>Ja, Gezeichneter, du erfreust uns! Einen tollen Anzug haben da die Stiernacken, wir werden diese Durchtränk-Methode auch bei unseren Westen ausprobieren. Als Belohnung wollen wir dir ein paar Rezepte geben. Wir haben hier so einen "Genie", er heißt Koch, vielleicht kennst du ihn schon. Der schaffte es, aus einem einfachen "Tropfen" neue Artefakte zu erstellen.\n \nNa ja, lies selber. Über die Namen brauchst du dich nicht wundern - unser Koch wurde nach einer Kopfverletzung zu einem "Dichter", sei also nachsichtig. Ok?</text>
+			<text>Ja, Gezeichneter, du erfreust uns! Einen tollen Anzug haben die Soldaten da. Wir werden diese Durchtränk-Methode auch bei unseren Westen ausprobieren. Als Belohnung wollen wir dir ein paar Rezepte geben. Wir haben hier so einen "Genie", er heißt Koch, vielleicht kennst du ihn schon. Der schaffte es, aus einem einfachen "Tropfen" neue Artefakte zu erstellen.\n \nNa ja, lies selber. Über die Namen brauchst du dich nicht wundern - unser Koch wurde nach einer Kopfverletzung zu einem "Dichter", sei also nachsichtig. Ok?</text>
 		</string>
 		<string id="mil_lukash_healing_armor_02">
 			<text>Natürlich, versteht sich von selbst.</text>
 		</string>
 		<string id="mil_lukash_healing_armor_03">
-			<text>Und noch was, Gezeichneter: ich hoffe, das diese Truppe, die "Gutes" antut und zum "aller Wohl" handelt...Na, die "Wächter"... Das die nichts von dem Rezept erfahren.</text>
+			<text>Und noch was, Gezeichneter: ich hoffe, das diese Truppe, die "Gutes  antut" und zum "aller Wohl" handelt...Na, die "Wächter"... Das die nichts von dem Rezept erfahren.</text>
 		</string>
 		<string id="mil_lukash_healing_armor_04">
 			<text>Das kann ich garantieren.</text>
@@ -176,7 +176,7 @@
 			<text>Psi Effektoren: Aktiviert</text>
 		</string>
 		<string id="amk_options">
-			<text>Erweiterte 'Stalker Soup' Optionen</text>
+			<text>Erweiterte Optionen</text>
 		</string>
 		<string id="amk_rkd0">
 			<text>H-Ha-Hallo.</text>
@@ -369,7 +369,7 @@
 			<text>Es ist gerade "Hell Hour" und eine Eruption läuft. Jetzt schlafen  käme nich so gut...</text>
 		</string>
 		<string id="trans_finished_title">
-			<text>Ergebnis der Artefakt-Transmutation</text>
+			<text>Ergebnis der Artefakt-Modifation:</text>
 		</string>
 		<string id="trans_finished_msg">
 			<text>Ergebnis der Artefakt-Transmutation/Veränderung</text>
@@ -430,10 +430,10 @@
 		</string>
 <!-- !!!!TB3D FREE PLAY == COLLECTOR ====-->
 		<string id="amk_welcome_title">
-			<text>\n%c[255,128,128,255]Willkommen in:\n%c[128,128,128,012]Stalker: Ep1 - Shadow Of Tchernobyl\n%c[128,128,128,012]--==- TechnoBacon StalkerSoup -==--\n%c[128,128,128,012] Basierend auf: Narodnaya Soljanka\n%c[128,128,128,012] Deutsche Übersetzung: Marty2Base \n%c[128,128,128,012] Für die Version: 1.10010\n%c[default]</text>
+			<text>\n%c[255,128,128,255]Willkommen zu\n%c[128,128,128,012]Stalker: EP1 - Shadow Of Tchernobyl\n%c[128,128,128,012]--==- TechnoBacon StalkerSoup -==--\n%c[128,128,128,012]-®Basierend auf: Narodnaya Soljanka\n%c[128,128,128,012]-®Deutsche Übersetzung: ®Marty2Base\n%c[default]</text>
 		</string>
 		<string id="amk_welcome_msg">
-			<text>%c[056,185,128,128]\n \nDu bist verwirrt, Orentierungslos. Kein Plan was Thema is\nSprech mit dem Stalker auf der Strasse und nach nach wirst\ndu weiter in die Zone abtauchen und diese erforschen.\n \nVile Spass und .... viel Glück%c[default]\n</text>
+			<text>%c[056,185,128,128]\n \nDu bist verwirrt, orientierungslos. Kein Plan was Thema ist.\nSpreche mit dem Stalker auf der Strasse und nach und nach\nwirst du weiter in die Zone abtauchen und diese erforschen.\n \nViel Spass mit der Mod und viel Glück, Marty2Base%c[default]</text>
 		</string>
 <!--=========================================-->
 		<string id="rep_no_weapon_in_slot">
@@ -446,4 +446,4 @@
 			<text>Waffe braucht eine dringende Reparatur</text>
 		</string>
 	</string_table>
-<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96h ( 2017/02/01) =!!= Last changed: 11.02.2017 18:00:52 -->
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 20.03.2017 22:07:12 -->

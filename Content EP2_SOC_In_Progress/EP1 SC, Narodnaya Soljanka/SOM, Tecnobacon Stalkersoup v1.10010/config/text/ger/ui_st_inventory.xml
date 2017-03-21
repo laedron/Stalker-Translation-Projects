@@ -119,34 +119,34 @@
 			<text>OK</text>
 		</string>
 		<string id="ui_inv_outfit_burn_protection">
-			<text>Verbrennung</text>
+			<text>®Verbrennung®®®®:</text>
 		</string>
 		<string id="ui_inv_outfit_chemical_burn_protection">
-			<text>Verätzung</text>
+			<text>®Verätzung®®®®®®:</text>
 		</string>
 		<string id="ui_inv_outfit_explosion_protection">
-			<text>Explosion</text>
+			<text>®Explosion®®®®®®:</text>
 		</string>
 		<string id="ui_inv_outfit_fire_wound_protection">
-			<text>Kugelsicherheit</text>
+			<text>®Kugelsicherheit:</text>
 		</string>
 		<string id="ui_inv_outfit_params">
-			<text>Parameter</text>
+			<text>®Parameter®®®®®®:</text>
 		</string>
 		<string id="ui_inv_outfit_radiation_protection">
-			<text>Strahlung</text>
+			<text>®Strahlung®®®®®®:</text>
 		</string>
 		<string id="ui_inv_outfit_shock_protection">
-			<text>Elektroschock</text>
+			<text>®Elektroschock®®:</text>
 		</string>
 		<string id="ui_inv_outfit_strike_protection">
-			<text>Aufprall</text>
+			<text>®Aufprall®®®®®®®:</text>
 		</string>
 		<string id="ui_inv_outfit_telepatic_protection">
-			<text>PSI-Einwirkung</text>
+			<text>®PSI-Einwirkung®:</text>
 		</string>
 		<string id="ui_inv_outfit_wound_protection">
-			<text>Reißwunden</text>
+			<text>®Reißwunden®®®®®:</text>
 		</string>
 		<string id="ui_inv_outfits">
 			<text>Anzüge</text>
@@ -265,3 +265,4 @@
 		<string id="ui_st_err_sb_master_server_conn_fail">
 			<text>Keine Verbindung zum Master-Server</text>
 		</string>
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 20.03.2017 21:56:03 -->

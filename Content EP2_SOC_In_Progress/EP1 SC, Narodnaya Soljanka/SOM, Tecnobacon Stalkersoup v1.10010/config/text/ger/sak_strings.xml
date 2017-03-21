@@ -345,7 +345,7 @@
 			<text>\n \n \n \n \n \nBei dem Blockposten der "Monolith"-Fraktion, dem Ausgang aus dem X-16 Labor (der von den Monolither gesprengt wurde) wurden jede Menge Dokumente zurückgelassen. Zwischen anderen wissenschaftlichen Daten befindet sich auch die Information über den zusätzlichen Übergang ins Dunkle Tal.</text>
 		</string>
 		<string id="ways_info_way108a_text">
-			<text>\n \n \n \n \n \nIn den entschlüsselten Daten, die Sidorowitsch an den Wirt übergab, steht: das Militär wird bald ein grandiosen Durchbruch ins Herz der Zone starten. Man fand heraus, das beim  Psi-emitter direkt aus dem X-16 Labor - Jantar erreichbar ist.\n \n Also kann man viel schneller und direkter die ausgestorbene Stadt Prypjat erreichen.</text>
+			<text>\n \n \n \n \n \nIn den entschlüsselten Daten, die Sidorowitsch an den Wirt übergab, steht:\n \nDas Militär wird bald ein grandiosen durchbruch ins Herz der Zone starten. Man fand heraus, das beim  Psi-Emitter direkt aus dem X-16 Labor - in Jantar erreichbar ist.\n \nAlso kann man viel schneller und direkter die ausgestorbene Stadt Prypjat erreichen.</text>
 		</string>
 		<string id="ways_info_way109a_text">
 			<text>\n \n \n \n \n \nBei einer Razzia der "Wächter" im Gebiet des X-18 Labors wurde ein Metall-Aktenkoffer mit Dokumenten entdeckt. Nachdem man die Informationen teilweise entschlüsselt hat, wurde es klar - die Militärs planen einen massiven Durchbruch ins Zentrum der Zone. Einer der Hauptwege wird dabei ein Übergang, der sich im Dunklen Tal befindet und direkt zum Radar-System führt.</text>
@@ -1815,526 +1815,107 @@
 			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Muschel\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Sprungbrett\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Nachtstern (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Fleischklumpen (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Mika (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Tentakel vom Blutsauger\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_ameba_slug_gravi_zone_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Schnecke\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Vortex \n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Wurst\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Schnecke\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Vortex \n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Wurst\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_ameba_slime_gravi_zone_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Schleim\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Vortex \n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Schleim\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Vortex \n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_electra_flash_gravi_zone_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Blitz\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Vortex \n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Flasche Wodka\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Blitz\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Vortex \n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Flasche Wodka\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_night_star_gravi_zone_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Nachtstern\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Vortex \n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Dorn (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Dornenkristall (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Nachtstern\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Vortex \n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Dorn (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Dornenkristall (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_soul_gravi_zone_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Seele\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Vortex \n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Blitz (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Schnecke (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblume (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Snork Bein\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Seele\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Vortex \n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Blitz (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Schnecke (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblume (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Snork Bein\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_dummy_pellicle_gravi_zone_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Pellicula\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Vortex \n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Seele (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Goldfisch (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Kristall (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Mika (Artefakt)\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Pellicula\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Vortex \n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Seele (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Goldfisch (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Kristall (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Mika (Artefakt)\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_cristall_flower_mincer_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Steinblume\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Karussell\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Steinblume\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Karussell\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_drops_mincer_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Tropfen\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Karussell\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Flasche Wodka\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Tropfen\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Karussell\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Flasche Wodka\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_rusty_kristall_mincer_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Dornenkristall\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Karussell\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Funkensprüher (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Dornenkristall\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Karussell\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Funkensprüher (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_electra_moonlight_mincer_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Mondlicht\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Karussell\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Feuerball (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Schnecke (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Tentakel vom Blutsauger\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Mondlicht\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Karussell\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Feuerball (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Schnecke (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Tentakel vom Blutsauger\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_ameba_slug_mincer_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Mika\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Karussell\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Blitz (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Feuerball (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Schwanz vom Pseudohund\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Mika\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Karussell\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Blitz (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Feuerball (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Schwanz vom Pseudohund\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_dummy_glassbeads_mincer_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Mamas Perlen\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Karussell\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Nachtstern (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Goldfisch (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Seeigel (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Mika (Artefakt)\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Mamas Perlen\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Karussell\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Nachtstern (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Goldfisch (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Seeigel (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Mika (Artefakt)\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_rusty_kristall_buzz_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Dornenkristall\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Gallert\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Funkensprüher (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Tropfen (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Brot\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Dornenkristall\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Gallert\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Funkensprüher (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Tropfen (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Brot\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_rusty_thorn_buzz_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Dorn\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Gallert\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Brot\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Dorn\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Gallert\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Brot\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_fireball_buzz_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Feuerball\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Gallert\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Dorn (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Bein vom Snork\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Stück Brot\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Feuerball\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Gallert\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Dorn (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Bein vom Snork\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Stück Brot\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_cristall_buzz_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Kristall\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Springbrunnen\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblume (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Feuerball (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Tentakel vom Blutsauger\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Kristall\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Springbrunnen\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblume (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Feuerball (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Tentakel vom Blutsauger\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_night_star_buzz_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Goldfisch\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Gallert\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Gravit (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Blitz  (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Schwanz vom Pseudohund\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Goldfisch\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Gallert\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Gravit (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Blitz  (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Schwanz vom Pseudohund\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_fuzz_kolobok_buzz_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Kloß\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Gallert\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Seeigel (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Mondlicht (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Seele (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Nachtstern (Artefakt)\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Kloß\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Gallert\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Seeigel (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Mondlicht (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Seele (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Nachtstern (Artefakt)\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_electra_flash_zharka_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Blitz\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Brenner\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Dorn (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Flsche Wodka\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Blitz\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Brenner\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Dorn (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Flsche Wodka\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_ameba_slime_zharka_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Schleim\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Brenner\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Stück Wurst\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Schleim\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Brenner\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Stück Wurst\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_gravi_zharka_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Gravit\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Brenner\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Gravit\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Brenner\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_night_star_zharka_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Nachtstern\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Brenner\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Kristall (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Dornenkristall (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Blitz (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Bein vom Snork\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Nachtstern\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Brenner\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Kristall (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Dornenkristall (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Blitz (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Bein vom Snork\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_electra_moonlight_zharka_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Mondlicht\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Brenner\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Gravit (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Blitz (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Tentakel vom Blutsauger\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Mondlicht\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Brenner\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Gravit (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Blitz (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Tentakel vom Blutsauger\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_dummy_battery_zharka_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Batterie\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Brenner\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Blitz (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Mika (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Flasche Wodka\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Batterie\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Brenner\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Blitz (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Mika (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Flasche Wodka\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_medusa_galant_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Qualle\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Kopf vom Tuskano\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Qualle\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Kopf vom Tuskano\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_fireball_galant_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Feuerball\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Flasche Wodka\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Feuerball\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Flasche Wodka\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_cristall_flower_galant_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Steinblume\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Dorn (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Steinblume\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Gepresstes (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Dorn (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_ameba_mica_galant_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Mika\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Schleim (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Dorn (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Wurst\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Mika\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Schleim (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Dorn (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Wurst\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_electra_moonlight_galant_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Seele\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Gravit (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Feuerball (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Seele\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Gravit (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Feuerball (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblut (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_gold_fish_galant_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Goldfisch\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblume (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Dorn (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Auge das vom Fleisch\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Goldfisch\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Qualle (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblume (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Dorn (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Auge das vom Fleisch\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_Jellyfish_galant_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Qualle\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Kopf vom Tuskano\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.\n \n \n \n \n \n(*)Sind genau die selben gegstände wie enc_info_artmod_vyvert_buzz_text</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Qualle\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Kopf vom Tuskano\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.\n \n \n \n \n \n(*)Sind genau die selben gegstände wie enc_info_artmod_vyvert_buzz_text</text>
 		</string>
 		<string id="enc_info_artmod_vyvert_buzz_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Gepresstes\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Gallert\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Kopf vom Tuskano\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Gepresstes\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Gallert\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Kopf vom Tuskano\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Verband\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 		<string id="enc_artmod_dummy_spring_galant_text">
-			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Sprungfeder\n
-%c[default]\n \n
-%c[221,255,193,255]Anomalie und Zeit\n
-%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n
-%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n
-%c[default]\n \n
-%c[221,255,193,255]Benötige Gengenstände\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblume (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]Kristall (Artefakt)\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n
-%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n
-%c[default]\n \n
-Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt®®®®®®®®® : %c[255,1,255,1]Sprungfeder\n%c[default]\n \n%c[221,255,193,255]Anomalie und Zeit\n%c[255,255,255,210]Anomalie Abhängig : %c[255,224,224,160]Elektro\n%c[255,255,255,210]Benötigte Zeit®®® : %c[255,224,224,160]5-10 Minuten\n%c[default]\n \n%c[221,255,193,255]Benötige Gengenstände\n%c[255,255,255,210]®®®®®®®®®- %c[default]Steinblume (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]Kristall (Artefakt)\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Hundeschwanz\n%c[255,255,255,210]®®®®®®®®®- %c[default]1x Konservendose\n%c[default]\n \nDie benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des Artefaktes warten.</text>
 		</string>
 <!-- AR -->
 		<string id="enc_artmod_life_heart_ice_zone_text">
-			<text>\n \n"Lebendes Herz" Modifkation\n
-%c[221,255,193,255]Körperliche Eigenschaften\n
-%c[255,255,255,210]Vital Gesundheit : %c[default]n/a\n
-%c[255,255,255,210]Vital Blutung®®® : %c[default]n/a\n
-%c[255,255,255,210]Vital Ausdauer®® : %c[default]n/a\n
-%c[255,255,255,210]Vital Hunger®®®® : %c[default]n/a\n
-%c[default]\n \n%c[221,255,193,255]Schutz und Resistenz\n
-%c[255,255,255,210]Strahlung®®®®®®® : %c[default]n/a\n
-%c[255,255,255,210]Verbrennung®®®®® : %c[default]n/a\n
-%c[255,255,255,210]Elektroschock®®® : %c[default]n/a\n
-%c[255,255,255,210]Chemisch Verbre. : %c[default]n/a\n
-%c[255,255,255,210]PSI Telepatie®®® : %c[default]n/a\n
-%c[255,255,255,210]Vor Reißwunden®® : %c[default]n/a\n
-%c[255,255,255,210]Vor Projektile®® : %c[default]n/a\n
-%c[255,255,255,210]Vor Explosion®®® : %c[default]n/a\n
-%c[255,255,255,210]Aufprall Schutz® : %c[default]n/a\n
-%c[default]\n \n
-%c[221,255,193,255]Artefakt Trans-und MesoMutation\n
-%c[255,255,255,210]Benötigte Zeit®® : %c[255,224,224,160]5 Minuten\n
-%c[255,255,255,210]Wirkung Positiv® : %c[255,1,255,1]100%\n
-%c[255,255,255,210]Wirkung Negativ® : %c[255,255,1,1]0%\n
-%c[255,255,255,210]Ursprung®®®®®®®® : %c[255,1,255,1]Nachtstern, Goldfisch, Seeigel, Muschel\n
-%c[255,255,255,210]Anomalie Abhängig: %c[255,1,255,1]Eissturz\n
-%c[default]\n \nEin Einzigartiges und seltenes Artefakt. Es besitzt ein paar Ungewöhnlich Eigenschaften - Es kann Tote ins Leben zurück rufen. Dafür besitzt es ein grossen Nachteil - es ist enorm Schwer.\n \n \n \n(Wie das funktiooniert muss noch rausgefunden werden. Jedenfalls sollte sich der Player innerhalb von 2Meter des Toten NPC aufhalten oder Kann man sich selbst damit am Leben erhalten.. ist mir noch nicht ganz klar)</text>
+			<text>\n \n"Lebendes Herz" Modifkation\n%c[221,255,193,255]Körperliche Eigenschaften\n%c[255,255,255,210]Vital Gesundheit : %c[default]n/a\n%c[255,255,255,210]Vital Blutung®®® : %c[default]n/a\n%c[255,255,255,210]Vital Ausdauer®® : %c[default]n/a\n%c[255,255,255,210]Vital Hunger®®®® : %c[default]n/a\n%c[default]\n \n%c[221,255,193,255]Schutz und Resistenz\n%c[255,255,255,210]Strahlung®®®®®®® : %c[default]n/a\n%c[255,255,255,210]Verbrennung®®®®® : %c[default]n/a\n%c[255,255,255,210]Elektroschock®®® : %c[default]n/a\n%c[255,255,255,210]Chemisch Verbre. : %c[default]n/a\n%c[255,255,255,210]PSI Telepatie®®® : %c[default]n/a\n%c[255,255,255,210]Vor Reißwunden®® : %c[default]n/a\n%c[255,255,255,210]Vor Projektile®® : %c[default]n/a\n%c[255,255,255,210]Vor Explosion®®® : %c[default]n/a\n%c[255,255,255,210]Aufprall Schutz® : %c[default]n/a\n%c[default]\n \n%c[221,255,193,255]Artefakt Trans-und MesoMutation\n%c[255,255,255,210]Benötigte Zeit®® : %c[255,224,224,160]5 Minuten\n%c[255,255,255,210]Wirkung Positiv® : %c[255,1,255,1]100%\n%c[255,255,255,210]Wirkung Negativ® : %c[255,255,1,1]0%\n%c[255,255,255,210]Ursprung®®®®®®®® : %c[255,1,255,1]Nachtstern, Goldfisch, Seeigel, Muschel\n%c[255,255,255,210]Anomalie Abhängig: %c[255,1,255,1]Eissturz\n%c[default]\n \nEin Einzigartiges und seltenes Artefakt. Es besitzt ein paar Ungewöhnlich Eigenschaften - Es kann Tote ins Leben zurück rufen. Dafür besitzt es ein grossen Nachteil - es ist enorm Schwer.\n \n \n \n(Wie das funktiooniert muss noch rausgefunden werden. Jedenfalls sollte sich der Player innerhalb von 2Meter des Toten NPC aufhalten oder Kann man sich selbst damit am Leben erhalten.. ist mir noch nicht ganz klar)</text>
 		</string>
 		<string id="af_life_heart">
 			<text>Lebendes Herz</text>
@@ -2352,1375 +1933,1375 @@ Die benötigten Gegenstände in eine Anomalie werfen und auf die Transmutation des
 			<text>Smaragd  Qualle</text>
 		</string>
 		<string id="enc_af_medusa_green">
-			<text>\n.\nUnique artefact. In appearance, the usual 'Medusa', but green. Is not radioactive, emits a weak light. There is a perception that it is a result of combining the two anomalies - 'Springboard' and 'Fruit Punch. Adds protection from bullet impacts, but drops her from the mutants and anomalies</text>
+			<text>\n \nEin Einzigertiges Artefakt.\n \nBis auf einige Eigenschaften ähnelt es dem Artefakt-"Qualle". Den Namen hat es bekommen weil so Intensiv Grün wie ein Smaragd leuchtet. Dieser umstand ist auf die Kombination von zwei Anomlien zurückzuführen.\n \nWie die Normale "Qualle" ist dieses Artefakt nicht Radioaktiv. Gegenüber der normalen "Qualle" wird der Schutz vor "Kugeln" angehoben.\n \nZeitgleich verringert es den Physischen Schutz vor Mutanten und Anomlien. Es Ensteht duch die Kombination der Anomlie "Sprungbrett" und der Anomlie "Gallert".</text>
 		</string>
 		<string id="af_Jellyfish">
 			<text>-- WIRD NICHT BENUTZ --</text>
 		</string>
 		<string id="af_Jellyfish_green">
-			<text>-- WIRD NICHT BENUTZ --</text>
+			<text>-- WIRD NICHT BENUTZT --</text>
 		</string>
 		<string id="af_vyvert_emerald">
-			<text>Emerald Quirk</text>
+			<text>Smaragd Gepressetes</text>
 		</string>
 		<string id="af_vyvert_emerald_s">
-			<text>Emerald Quirk</text>
+			<text>Smaragd Gepressetes</text>
 		</string>
 		<string id="enc_af_vyvert_green">
-			<text>\n.\nunique artefact, seemingly ordinary "Quirk", but green. It is not radioactive, emits a weak light. It is believed that he appears as a result of combining two anomalies - 'Springboard' and 'brawn'. Pretty good protection against mutants, but reduces the protection from bullet impacts</text>
+			<text>\n \nEin Einzigertiges Artefakt. Bis auf einige Eigenschaften ähnelt es dem Artefakt-"Gepressetes". Es schimmert grünlich.\n \nDieser umstand ist auf die Kombination von zwei Anomlien zurückzuführen. Wie das Normale Artefakt "Gepressetes" ist dieses Artefakt nicht Radioaktiv.\n \nGegenüber der normalen Variante wird der Schutz vor "Kugeln" reduziert. Erhöht aber den Physischen Schutz vor Mutanten. Es Ensteht duch die Kombination der Anomalie "Sprungbrett" und der Anomlie "Brawn".\n \n \n \n \n \n(*)Was ist BRAWN .... Tecnobacon?</text>
 		</string>
 		<string id="af_blood_emerald">
-			<text>The Emerald Stone Blood</text>
+			<text>Smarargd Steinblut</text>
 		</string>
 		<string id="af_blood_emerald_s">
-			<text>Emerald Stone</text>
+			<text>Smarargd Steinblut</text>
 		</string>
 		<string id="enc_af_blood_green">
-			<text>\n.\nunique artefact, seemingly normal "Stone Blood", but green. It is not radioactive, emits a weak light. There is a perception that it appears as a result of combining the two anomalies - Whirligig anomaly and "brawn". Pretty good protection against anomalies, but also reduces protection from bullet impacts</text>
+			<text>\n \nEin Einzigertiges Artefakt. Bis auf einige Eigenschaften ähnelt es dem Artefakt-"Steinblut". Seine Oberfäche hat einen besonderen Grünstisch. Dieser Umstand ist auf die Kombination von zwei Anomlien zurückzuführen.\n \nDurch diese Kombinatiion hat die Radioaktivität nachgelassen aber auch eine deutliche Reduzierung gegenüber "Physischen" Kräften, die eine hohe geschwindigkeit besitzen.\n \nAllerdings bietet es guten Schutz vor normalen "Physischen" Stoß Kräften. Diese Artefakt ist ein Resultat der Anomalie "Karussell" und "Brawn".\n \n \n \n \n \n(*)Was ist BRAWN .... Tecnobacon?</text>
 		</string>
 		<string id="af_pellicle">
-			<text>Ruby Pellicle</text>
+			<text>Rubin Pellicula</text>
 		</string>
 		<string id="af_pellicle_s">
-			<text>Ruby Pellicle</text>
+			<text>Rubin Pellicula</text>
 		</string>
 		<string id="af_pellicle_red">
-			<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+5\n%c[default]\nunique artefact in appearance resembles a regular "Pellicle", but red. Slightly radioactive, emits light. Perhaps transmutes from the "Pellicles" by ingestion of an anomaly "Snow." Has the effect of the rapid healing of open wounds, little protection against anomalies but significantly reduces the protection of bullet impacts</text>
+			<text>\n \nEinzigartiges Artefakt, sieht aus wie das gewöhnliche "Pellicula"-Artefakt, ist aber rot. Leuchtet und ist deutlich Radioaktiv.\n \nEs handelt sich hierbei um eine Transmuation aus dem Artefakt "Pellicula", wenn dieses in die Anomalie "Eissturz" gerät.\n \nZu den besonderen Eigeschaften zählen die unglaublche Körperliche Heilungskraft die dieses Artefakt austößt. Sowie der Schutz vor "Physischen" Kräften. Allerdings hat das Artefakt Probleme mit Metallischen Objekten wie Kugeln.</text>
 		</string>
 		<string id="af_red_spring">
-			<text>Ruby spring</text>
+			<text>Rubin-Sprungfeder</text>
 		</string>
 		<string id="af_red_spring_s">
-			<text>Ruby spring</text>
+			<text>Rubin-Sprungfeder</text>
 		</string>
 		<string id="enc_af_red_spring">
-			<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+5\n%c[default]\nunique artefacts, resembles normal "Spring" but red. Slightly radioactive, emits light. Perhaps transmutes from the "spring" if it enters the anomaly of "Snow". Has the effect of protection against impact</text>
+			<text>\n \nEinzigartiges Artefakt, sieht aus wie das gewöhnliche "Sprungfeder"-Artefakt, ist aber rot. Leuchtet und ist ein wenig Radioaktiv.\n \nEs handelt sich hierbei um eine Transmuation aus dem Artefakt "Sprungfeder", wenn dieses in die Anomalie "Eissturz" gerät.\n \nZu den besonderen Eigeschaften zählen die "Physischen" Schutz Kräfte wie zum Beispiel gegen Detonationen, Metalllische Geschosse oder Körperliche Angriffe. Es besitzt keine Grvierenden Negativen Eigenschaften.</text>
 		</string>
 		<string id="af_red_battery">
-			<text>Ruby battery</text>
+			<text>Rubin Batterie</text>
 		</string>
 		<string id="af_red_battery_s">
-			<text>Ruby battery</text>
+			<text>Rubin Batterie</text>
 		</string>
 		<string id="enc_af_red_battery">
-			<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+10\n%c[default]\nunique artefact in appearance resembles a regular "battery", but red. Slightly radioactive, emits light. Perhaps transmutes from the "Batteries" if it enters the anomaly of "Snow". Has the effect of restoration of forces, protection from electro anomalies and a little protection from shock impacts</text>
+			<text>\n \nEinzigartiges Artefakt, sieht aus wie das gewöhnliche "Batterie"-Artefakt und leuchtet rötlich. Es ist Radioaktiv. Es handelt sich hierbei um eine Transmuation aus dem Artefakt "Batterie", wenn dieses in die Anomalie "Eissturz" gerät.\n \nZu den besonderen Eigeschaften zählen die "Physischen" Schutz Kräfte wie zum Beispiel gegen Detonationen, Metalllische Geschosse oder Körperliche Angriffe. Darüberhinaus besitzt es Abwehr Maßnahmen gegen Elektrische Einflüße. Eine besondere Eigenschaft ist das die Ausdauer des Trägers gesteigert wird. Es besitzt sonst keine Grvierenden Negativen Eigenschaften.</text>
 		</string>
 		<string id="st_detector_sak">
-			<text>Universal Anomaly detector</text>
+			<text>Universal Anomalie-Detektor</text>
 		</string>
 		<string id="st_detector_sak_s">
-			<text>Anomaly detector</text>
+			<text>Universal Anomalie-Detektor</text>
 		</string>
 		<string id="enc_equipment_devic_detect_sak">
-			<text>Detector, the latest development in the field of digital research into paranormal phenomena, to detect and identify virtually any anomaly</text>
+			<text>\n \nDetektor. Die neuste Entwicklung auf dem Gebiet der Mechanisierung der Paranormal-Forschung. Erkennt und identifiziert praktisch jede Anomalie der Zone.</text>
 		</string>
 		<string id="doctor_teleport_11">
-			<text>is my stash... There are rifles in the safe for you. Can you take it, though it is heavy... What's next on your list? Watching found my notebook... I'm there a lot of their guesses presented and examined?</text>
+			<text>Ich grüße dich, Strelok... Ich bin sehr froh, dich am Leben und gesund zu sehen... Was hast du vor? So wie es sehe, hast du mein Notizbuch gefunden... Ich schrieb da viele meine Vermutungen auf, hast du dich damit bekannt gemacht?</text>
 		</string>
 		<string id="doctor_teleport_21">
-			<text>it you son... I what?</text>
+			<text>Hallo, mein Sohn. Wolltest du was?</text>
 		</string>
 		<string id="doctor_teleport_12">
-			<text>not know about your stash... for the rifle - thanks, have a look. On Hold your book, I have not read it, do not have the habit of reading other's diaries...</text>
+			<text>Hallo, Doktor! Ich bin genauso froh Sie zu sehen... Hier haben Sie  Büchlein, ich hab's nicht gelesen... Ist schließlich nicht mein Tagebuch...</text>
 		</string>
 		<string id="doctor_teleport_13">
-			<text>Okay, do not worry, come in a glass of tea, sit down, have a chat...</text>
+			<text>Ach, mach dir keine Sorgen... Komm, setz dich, lass uns ein Tee trinken und ein wenig reden...</text>
 		</string>
 		<string id="doctor_teleport_22">
-			<text>Hello father, I want to before the last jerk to the monolith forces tunnel, get better equipment, weapons... Maybe the trail to find out the secret, will not be able to help?</text>
+			<text>Seien Sie gegrüßt... Ich will mich ein wenig ausruhen, bevor ich wieder zum Monolithen aufbreche. Bessere Ausrüstung und Waffen besorgen...Vielleicht irgendwelche geheime Pfade finden... Könne Sie mir dabei helfen?</text>
 		</string>
 		<string id="doctor_teleport_23">
-			<text>No you can not without these risky trips... Okay, I've got some type of information, to share with you...</text>
+			<text>Kannst nicht aufhören mit diesen risikoreichen Touren?... Also gut, ich hab so manche neue Erkenntnisse, die werd ich dir erzählen.</text>
 		</string>
 		<string id="doctor_1drug_0">
-			<text>Thanks... What is your best man can not see - you do with your dog were inseparable?</text>
+			<text>Danke... Wo ist eigentlich "ihr bester Mann"? Sie sind doch mit dem Hund sogut wie unzertrennlich?</text>
 		</string>
 		<string id="doctor_1drug_1">
-			<text>Vanished my "Druzhok"... And so many years together... Ehh... In the dark valley of the bandits shot at me greatly, two days unconscious in a swamp lain, woke up - only a pool of blood near...\nAnd the heart does not believe my best friend is no longer... I hear you've had to deal with the prisoner of the bandits, Max Lubero, he did not say anything? The rumor was - he saw some unusual pseudodog, could be him?</text>
+			<text>Mein "Druzhok" ist verschwunden... So viele Jahre waren wir zusammen... ach... Ich wurde von Banditen im Dunklen Tal schwer verletzt, zwei Tage lag ich bewusstlos in den Sümpfen... Als ich zu mir kam, sah ich nur eine Blutlache neben mir...\n \nIrgendwie glaubt mein Herz nicht, das es ihn nicht mehr gibt... Ich hörte, du kennst jetzt Max Lubero und hattes ein Deal mit ihm - hat er was erzählt? Es gab ein Gerücht, das er einen ungewöhnlichen Pseudohund sah... Kann es sein, das es mein "Druzhok" ist?</text>
 		</string>
 		<string id="doctor_1drug_2">
-			<text>Max I did not say anything, I have a thing for him, I'll go - at the same time and can find out about man's best friend...</text>
+			<text>Also Max hat mir nichts gesagt... Ich hab eh noch ein Geschäft mit ihm zu erledigen, da frage ich mal nach - vielleicht weiß er was über den Pseudohund...</text>
 		</string>
 		<string id="doctor_1drug_3">
-			<text>No, he said nothing... Perhaps more witnesses...</text>
+			<text>Nein, er hat nichts erzählt. Vielleicht hat ihn einer anderer gesehen..</text>
 		</string>
 		<string id="doctor_1drug_4">
-			<text>not you heard? Killed Lubero...</text>
+			<text>Aber weißt du es noch nicht? Lubero wurde getötet...</text>
 		</string>
 		<string id="doctor_2drug_0">
-			<text>Hello, Doctor, I have good news...</text>
+			<text>Doktor! Ich hab gute Nachrichten...</text>
 		</string>
 		<string id="doctor_2drug_1">
-			<text>news? What?</text>
+			<text>Welche denn?</text>
 		</string>
 		<string id="doctor_2drug_2">
-			<text>your Druzhoks lives, Max pulled him from the cage... Now he's at the dump, at a checkpoint near the Dolg outpost</text>
+			<text>Druzhok's lebt, Max versorgt ihn. Läuft auf der Müllhalde rum, bei dem Blockposten der Wächter.</text>
 		</string>
 		<string id="doctor_2drug_3">
-			<text>Thank God... i need to go for my Druzhoks... A bit later.</text>
+			<text>Gott sei Dank. Da bin aber beruhigt. Ich werd gleich "mein besten mann" mal besuchen gehen...</text>
 		</string>
 		<string id="doctor_3drug_0">
-			<text>Hi Max, how is your health?</text>
+			<text>Hallo Max, was macht die Gesundheit?</text>
 		</string>
 		<string id="doctor_3drug_1">
-			<text>Thank you, apparently your prayers... I what?</text>
+			<text>Danke, alles soweit OK. Wolltest du was?</text>
 		</string>
 		<string id="doctor_3drug_2">
-			<text>Max, you have not seen the bandits, pseudodog unusual, say so - a few non-aggressive? The doctor lost his friend, the rumor was - the bandits have him...</text>
+			<text>Max, hast du bei den Banditen einen Pseudohund gesehen, der, sagen wir mal, verhältnismäßig "zahm" ist? Der Doktor vermisst "sein besten Mann".. Gerüchten nach, haben ihn Banditen geschnappt...</text>
 		</string>
 		<string id="doctor_3drug_3">
-			<text>Ha, did not see... With me he runs out the gate at the Bar... sweet... We have been feeding it here... But he misses something...</text>
+			<text>Gesehen? Mensch, der ist doch hier... Da hinten läuft er rum, hinter dem Tor zum Bargebiet... ganz zahm. Wir haben uns schon an ihn gewöhnt, füttern ihn immer... Aber irgendwie scheint er traurig zu sein...</text>
 		</string>
 		<string id="doctor_3drug_4">
-			<text>on bog Dr. misses apparently... Tell the doctor, let them rejoice...</text>
+			<text>Er Vermisst wohl sein Sumpfdoktor. Ich werde dem Doktor Bescheid sagen. Da wird er sich freuen...</text>
 		</string>
 		<string id="tex_doctor_drug">
-			<text>Doctor puppy picked up by the best man murdered females pseudodog, nourished... And this dog was gone... It is rumored that Max Lubero heard about loyal Druzhok...</text>
+			<text>\n \n \n \n \n \nDer Doktor hat den Pseudhund schon als Welpen aufgenommen. Er fand ihn damals neben einer toten Pseudohündin. Seitdem hat er ihn aufgepeppelt und sich um ihn gekümmert. Ich meine.. ein Pseudohund. Sachen gibs - Wiso nicht. Nun verschwand der Hund Spurlos... Gerüchten  zufolge hat Max Lubero irgendwas über den Treuen "Freund" des Doktors gehört... Oder wie der Doktor sagt "sein besten Mann".</text>
 		</string>
 		<string id="teleport_01_dialog_0">
-			<text>Jumper configure... but how?</text>
+			<text>Teleport justieren?... Aber wie?</text>
 		</string>
 		<string id="teleport_01_dialog_1">
-			<text>you see a colleague, quite accurately describes how to configure, but this requires data disturbing influences in the area - where neobhoimo fall. We have built the necessary equipment to vacuum tube transmitter, now you have this unit delivered to the area, which we might call the reception... Yes.</text>
+			<text>Das Prozedere der Justierung ist ziemlich genau beschrieben, dafür braucht man aber die Messdaten der Störeinwirkungen aus der Gegend, in die man sich teleportieren möchte. Wir haben so ein Messgerät gebaut, jetzt müßte man es nur in die "Empfangsgegend" bringen.</text>
 		</string>
 		<string id="teleport_01_dialog_4">
-			<text>And what is the place to be, and how difficult this is your thing?</text>
+			<text>Und wohin bringen? Und wie schwer ist denn dieses Gerät?</text>
 		</string>
 		<string id="teleport_01_dialog_5">
-			<text>Let's first try to set up a teleport a short distance, say - Army warehouses... Try to install the device, it is not heavy - only 25 kg, the water tower in the village... as it is there... stalkers name of the village bloodsuckers...</text>
+			<text>Laß uns erst ein Teleport für eine kleine Entfernung justieren, sagen wir mal - zu Armeelagerhäusern... Versuchen Sie das Gerät - es ist nicht so schwer, nur 25 Kilo - auf dem Wasserturm zu installieren... In dem Dorf... wie hieß es nochmal... die Stalker nennen es "das Blutsauger Dorf"...</text>
 		</string>
 		<string id="teleport_01_dialog_2">
-			<text>So what? You will be here to Svoboda jump? Let's try...</text>
+			<text>Und dann? Kann man dann zu den "Freiheitlern" springen? Gut, ich mach es...</text>
 		</string>
 		<string id="teleport_01_dialog_3">
-			<text>sorry Professor, I can not yet...</text>
+			<text>Tut mir leid, Professor, nicht jetzt...</text>
 		</string>
 		<string id="tex_yan_scientist_teleport_01">
-			<text>Sakharov argues that if you set his camera on top of the water tower in the village of bloodsuckers, you will immediately move from Yantar to the army warehouses...</text>
+			<text>\n \n \n \n \n \nSakharov behauptet, das wenn man sein Gerät oben im Wasserturm des Blutsaugerdorf installiert, eine Teleportierung aus Jantar zu den Armeelagerhäusern möglich wird...</text>
 		</string>
 		<string id="teleport_02_dialog_0">
-			<text>Where else can set up a teleport?</text>
+			<text>Wohin kann man denn noch "springen"?</text>
 		</string>
 		<string id="teleport_02_dialog_1">
-			<text>Let's try longer distances, say - Cordon. Set the unit in the car, which at the railway bridge and... back...</text>
+			<text>Lassen Sie uns jetzt eine weite Distanz probieren, sagen wir mal - Kordon. Stellen Sie das Messgerät in dem Eisenbahnwaggon auf der Brücke ab, und kommen Sie dann zurück...</text>
 		</string>
 		<string id="teleport_02_dialog_2">
-			<text>Okay. Let your machine...</text>
+			<text>Gut. Geben Sie das Gerät her...</text>
 		</string>
 		<string id="teleport_02_dialog_3">
-			<text>Forgive Professor, how can something then...</text>
+			<text>Tut mir leid, Professor, vielleicht machen wir das später mal.</text>
 		</string>
 		<string id="tex_yan_scientist_teleport_02">
-			<text>Sakharov argues that if you set his camera on the train, which hangs in the ruined railway bridge, you will immediately move from Yantar to Cordon...</text>
+			<text>\n \n \n \n \n \nSakharov behauptet, das - wenn man sein Gerät im Eisenbahnwaggon installiert, der auf der Brücke im Kordon hängt, eine Teleportierung aus Jantar nach Kordon möglich wird...</text>
 		</string>
 		<string id="teleport_03_dialog_0">
-			<text>And closer to the center of the zone can be accessed through the teleport?</text>
+			<text>Kann man denn mit dem Teleport auch näher an den Zentrum der Zone gelangen?</text>
 		</string>
 		<string id="teleport_03_dialog_1">
-			<text>closer to the center - the more disturbing effects... But let's try. Place the appliance on the central square behind the statue of Lenin, a small reinforced concrete construction...</text>
+			<text>Je näher zum Zentrum, desto mehr Störfaktoren gibt es... Aber wir können es versuchen. Wenn sie das Gerät nach Prypjat bringen und es da im Zentrum abstellen... hinter dem Lenin-Denkmal... Auf der Betonkonstruktion, welche die Kanalisationsabläufe abdeckt...</text>
 		</string>
 		<string id="teleport_03_dialog_2">
-			<text>well. Let your machine...</text>
+			<text>Alles kalr. Ich mach das..</text>
 		</string>
 		<string id="teleport_03_dialog_3">
-			<text>I probably first explored everything there...</text>
+			<text>Ich werde lieber erst alles zu Fuß erkunden...</text>
 		</string>
 		<string id="tex_yan_scientist_teleport_03">
-			<text>Sakharov argues that if you set his camera on the central square behind the statue of Lenin, a small reinforced concrete structure, which covers stormwater runoff, it will be possible from Yantar immediately move to Pripyat...</text>
+			<text>\n \n \n \n \n \nSakharov behauptet, das wenn man sein Gerät hinter dem Lenin-Denkmal in Prypjat, auf der Betonkonstruktion, welche die Kanalisationsabläufe abdeckt, installiert, eine Teleportierung aus Jantar nach Prypjat möglich wird...</text>
 		</string>
 		<string id="teleport_yantar_dialog_0">
-			<text>Professor, let's use the teleport...</text>
+			<text>Professor, lassen Sie uns mal den Teleporter benutzen...</text>
 		</string>
 		<string id="teleport_yantar_dialog_1">
-			<text>Hmm... Where would you like to teleport?</text>
+			<text>Hmmm... Und wo wollen Sie hinspringen?</text>
 		</string>
 		<string id="teleport_yantar_dialog_2">
-			<text>a good idea to get into the camp svoboda...</text>
+			<text>Es wäre nicht schlecht, wenn ich zur "Freiheit" springen könnte...</text>
 		</string>
 		<string id="teleport_yantar_dialog_3">
-			<text>By Sidorovich need to Cordon...</text>
+			<text>Ich muß nach Kordon, zu Sidorowitsch...</text>
 		</string>
 		<string id="teleport_yantar_dialog_4">
-			<text>to the center of the zone closer to Pripyat least...</text>
+			<text>In die Nähe des Zentrums der Zone, nach Pripyat...</text>
 		</string>
 		<string id="teleport_yantar_dialog_21">
-			<text>Well, we can already do... To activate the teleport requires a Soul artefact...\nDo you have one?</text>
+			<text>Na gut, das können wir einrichten... Für die Teleport-Aktivierung brauchen wir das Artefakt "Seele"... \nHaben Sie eins?</text>
 		</string>
 		<string id="teleport_yantar_dialog_22">
-			<text>Yes, there...</text>
+			<text>Ja, hab ich...</text>
 		</string>
 		<string id="teleport_yantar_dialog_23">
-			<text>Sorry, I don't have one...</text>
+			<text>Das Artefakt hab ich nicht...</text>
 		</string>
 		<string id="teleport_yantar_dialog_221">
-			<text>excellent, setting the teleport takes a long time, but it is, as you know, money...</text>
+			<text>Ausgezeichnet. Teleport-Justierung braucht Zeit, und Zeit ist Geld, wie Sie wissen...</text>
 		</string>
 		<string id="teleport_yantar_dialog_222">
-			<text>And how much will I owe you ?...</text>
+			<text>Und wieviel Geld brauchen Sie?</text>
 		</string>
 		<string id="teleport_yantar_dialog_223">
-			<text>It depends on the accuracy of the settings...\nCareful alignment requires very careful calculations and will cost you... mmm-m... 10000...\nA rough calculation, so to speak - by eye, only 2500...\nHow do you prefer?</text>
+			<text>Das hängt von der Genauigkeit der Justierung ab...\nUm den Teleporter genau einzustellen, müssten viele Berechnungen gemacht werden... Das kostet Ihnen... hmmm... 10.000 Rubel...\nGrobe Einstellung, sozusagen, pie mal Daumen - nur 2.500 Rubel...\nWas ziehen Sie vor?</text>
 		</string>
 		<string id="teleport_yantar_dialog_224">
-			<text>Let accurately, the money I have no problem...</text>
+			<text>So genau wie es geht - Bitte. Geld ist kein Problem...</text>
 		</string>
 		<string id="teleport_yantar_dialog_225">
-			<text>you Cast me to the location, and then I'll look...</text>
+			<text>Hauptsache - ich lande in der Nähe. Dann komm ich schon weiter...</text>
 		</string>
 		<string id="teleport_yantar_dialog_226">
-			<text>Oh, I like some legs... rough it...</text>
+			<text>Oh, ich gehe doch lieber zu Fuß...</text>
 		</string>
 		<string id="teleport_yantar_dialog_25">
-			<text>You will not regret the money spent, you'll land gently to the former army depots to deliver...\nYou can go, teleport will be there and ready, behind the bunker, on an island in the middle of the swamp...</text>
+			<text>Sie werden das Geld schon nicht vermissen... Wir bemühen uns, Sie genau und akkurat zu den Armeelagerhäusern zu bringen...\n Sie können jetzt los, Teleport wird jede Minute aktiviert, hinter dem Bunker, auf der Insel im Sumpf...</text>
 		</string>
 		<string id="teleport_yantar_dialog_26">
-			<text>See for yourself... On location, we will throw you, but there...\nYou can go, teleport will be ready, behind the bunker, on an island in the middle of the swamp...</text>
+			<text>Nun gut, Ihre Entscheidung... In die Nähe werden Sie schon gebracht... Dann aber liegt's bei Ihnen...\n Sie können jetzt los, Der Teleporter wird jede Minute aktiviert. Der befindet sich hinter dem Bunker mittig im Sump auf einer kleinen Insel...</text>
 		</string>
 		<string id="teleport_yantar_dialog_31">
-			<text>By Sidorovich? You can, hello there it... To activate the teleport requires a Crystal artefact...\nIs it you?</text>
+			<text>Zu Sidorovitch? Grüßen Sie ihn von mir... Für die Aktivierung brauchen wir das Artefakt "Kristall"... \nHaben Sie es?</text>
 		</string>
 		<string id="teleport_yantar_dialog_32">
-			<text>Here it is...</text>
+			<text>Ja, hier ist es...</text>
 		</string>
 		<string id="teleport_yantar_dialog_33">
-			<text>Blinn, I do not have "Crystal"...</text>
+			<text>Nein, ein "Kristall"-Artefakt hab ich leider nicht...</text>
 		</string>
 		<string id="teleport_yantar_dialog_321">
-			<text>excellent, setting the teleport takes a long time, but it is, as you know, money...</text>
+			<text>Sehr schön. Die Teleport-Justierung braucht ein wenig Zeit, und Zeit ist Geld, wie Sie wissen...</text>
 		</string>
 		<string id="teleport_yantar_dialog_322">
-			<text>And how much will I owe you ?...</text>
+			<text>Und wieviel Geld brauchen Sie?</text>
 		</string>
 		<string id="teleport_yantar_dialog_323">
-			<text>It depends on the accuracy of the settings...\nCareful alignment requires very deep payments and will cost you... mmm-m... in 15000...\ncruder calculation, so to speak - by eye, only 5000...\nHow do you prefer?</text>
+			<text>Das hängt von der Genauigkeit der Ziel Berechnung ab...\nUm den Teleporter genau einzustellen, müssen viele Berechnungen erstellt  werden... Das kostet Ihnen... hmmm... 15.000 Rubel...\nEine Grobe Einstellung - so 5.000 Rubel...\nWas ziehen Sie vor?</text>
 		</string>
 		<string id="teleport_yantar_dialog_324">
-			<text>Let accurately, the money I have no problem...</text>
+			<text>So genau wie möglich. Geld ist kein Problem...</text>
 		</string>
 		<string id="teleport_yantar_dialog_325">
-			<text>you Cast me to the location, and then I'll look...</text>
+			<text>Hauptsache ich lande nicht in irgendeinem Felsen. Dann komm ich schon weiter...</text>
 		</string>
 		<string id="teleport_yantar_dialog_326">
-			<text>Oh, I like some legs... rough it...</text>
+			<text>Wissen Sie was - ich gehe doch lieber zu Fuß...</text>
 		</string>
 		<string id="teleport_yantar_dialog_35">
-			<text>You will not regret the money spent, you'll land gently near the camp newcomers teleport...\nYou can go, teleport will be there and ready, behind the bunker on an island in the middle of the swamp...</text>
+			<text>Sie werden das Geld schon nicht vermissen... Wir bemühen uns, Sie genau und akkurat in das Anfängerlager zu bringen...\n \nSie können jetzt los, der Teleporter wird jede Minute aktiviert. Der befindet sich hinter dem Bunker mittig im Sump auf einer kleinen Insel...</text>
 		</string>
 		<string id="teleport_yantar_dialog_36">
-			<text>See for yourself... On location Cordon then we will let down, but there...\nYou can go, teleport ready, behind the bunker on an island in the middle of the swamp...</text>
+			<text>Laso gut. Es Ihre Entscheidung... In die Nähe werden Sie schon gebracht... Dann aber liegt es bei Ihnen...\n \nSie können jetzt los, der Teleport wird jede Minute aktiviert. Der befindet sich hinter dem Bunker mittig im Sump auf einer kleinen Insel...</text>
 		</string>
 		<string id="teleport_yantar_dialog_41">
-			<text>Pripyat... You and Pripyat... To activate the teleport requires a Moonlight artefact...\nIs it you?</text>
+			<text>Prypjat also... Für die Aktivierung des Teleports brauchen wir das Artefakt "Mondlicht"... \nHaben Sie eins da?</text>
 		</string>
 		<string id="teleport_yantar_dialog_42">
-			<text>Yes, there...</text>
+			<text>Sicher, habe ich.</text>
 		</string>
 		<string id="teleport_yantar_dialog_43">
-			<text>That's because, I do not have a "Moonlight"...</text>
+			<text>Mist, So ein Artefakt habe ich gerade nicht...</text>
 		</string>
 		<string id="teleport_yantar_dialog_421">
-			<text>excellent, setting the teleport takes a long time, but it is, as you know, money...</text>
+			<text>Sehr schön. Die Teleport-Justierung braucht Zeit, und Zeit ist Geld, wie Sie wissen...</text>
 		</string>
 		<string id="teleport_yantar_dialog_422">
-			<text>And how much will I owe you ?...</text>
+			<text>Und wieviel Geld brauchen Sie?</text>
 		</string>
 		<string id="teleport_yantar_dialog_423">
-			<text>It depends on the accuracy of the settings...\nCareful alignment requires very deep payments and will cost you... mmm-m... to 20000...\ncruder calculation, so to speak - by eye, only 9000...\nHow do you prefer?</text>
+			<text>Das hängt von der Genauigkeit der Justierung ab...\n \nUm den Teleporter genau einzustellen, müssten viele Komplexe Berechnungen erstellt werden... Das kostet Ihnen... so 20.000 Rubel...\n \nEine Ungenaue Einstellung ist günstiger - nur 9.000 Rubel...\n \nWas ziehen Sie vor?</text>
 		</string>
 		<string id="teleport_yantar_dialog_424">
-			<text>Let accurately, the money I have no problem...</text>
+			<text>So genau, wie es geht. Das Geld ist kein Problem...</text>
 		</string>
 		<string id="teleport_yantar_dialog_425">
-			<text>you Cast me to the location, and then Ill look...</text>
+			<text>Hauptsache - ich bin noch in der Zone. Dann sehe ich weiter.</text>
 		</string>
 		<string id="teleport_yantar_dialog_426">
-			<text>Oh, I like some legs... rough it...</text>
+			<text>Wissen Sie - ich bin sehr gut zu fuß. Das habe ich ja eh' schon die ganze Zeit gemacht.</text>
 		</string>
 		<string id="teleport_yantar_dialog_45">
-			<text>You will not regret the money spent, well try you in a safe place to teleport...\nYou can go teleport will be there and ready, behind the bunker, on an island in the middle of the swamp...</text>
+			<text>Sie werden dem Geld schon nicht hinterhertrauern... Wir bemühen uns, Sie zu einem sicheren Ort zu bringen...\n \nSie können jetzt los, Der Teleport wird aktiviert. Der befindet sich hinter dem Bunker mittig im Sump auf einer kleinen Insel...</text>
 		</string>
 		<string id="teleport_yantar_dialog_46">
-			<text>at Risk, dear... In Pripyat possible, so to speak, and get stuck...\nYou can go, teleport ready, behind the bunker, on an island in the middle of the swamp...</text>
+			<text>Da gehen Sie aber große Risiken ein... In Prypjat stehen jede Menge Hochäuser und es gibt wenig große freie Plätze\n \nSie können jetzt los, Teleport wird jede Minute aktiviert. Der befindet sich hinter dem Bunker mittig im Sump auf einer kleinen Insel...</text>
 		</string>
 		<string id="teleport_04_dialog_0">
-			<text>You? Teleport? How do you know that?</text>
+			<text>Nanü? Woher weißt du denn was über Teleporter?</text>
 		</string>
 		<string id="teleport_04_dialog_1">
-			<text>Let's just say, know for my knowledge of several people have been killed...</text>
+			<text>Sagen wir mal so, ich weiß es einfach. Für dieses Wissen gab es paar Tote.</text>
 		</string>
 		<string id="teleport_04_dialog_6">
-			<text>Come on, I was just, to come up... Well, let's try...</text>
+			<text>Alles klar..war ja nur eine Frage... Dann wolle wir es versuchen.</text>
 		</string>
 		<string id="teleport_04_dialog_7">
-			<text>Generally you will need to do something that...</text>
+			<text>Im Allgemeinen müssen Sie etwas...</text>
 		</string>
 		<string id="teleport_04_dialog_8">
-			<text>Yeah, I knew it! And how much you pour ?...</text>
+			<text>Ach komm schon! Wusste ich doch! Und wieviel soll ich dafür blechen?</text>
 		</string>
 		<string id="teleport_04_dialog_9">
-			<text>While not at all, to set the teleport need detailed seismic maps of the terrain where he is going transfer.\nI do know where you can get a map of the Base of Liberty and surrounding areas...</text>
+			<text>Noch gar nichts. Für die Einstellung des Teleports werden seismologische Karten der Gegend gebraucht, in die du "springen" willst.\n \nIch weiß bis jetzt nur, wo man diese Karten für die Freiheitsbasis und Umgebung besorgen kann.</text>
 		</string>
 		<string id="teleport_04_dialog_4">
-			<text>And where is it?</text>
+			<text>Und wo soll es sein?</text>
 		</string>
 		<string id="teleport_04_dialog_5">
-			<text>the laboratory X-18, which in the Dark Valley, where it was at the lower levels of the laptop with the data must be detailed seismological and geological mapping of the area... If you bring - then we will have the ability to customize teleport...</text>
+			<text>Im "Laboratorium X-18". Irgendwo in den unteren Ebenen, soll es ein Laptop geben, auf dem sind diese Karten gespeichert. Finde dieses Laptop, dann können wir ein Teleporter justieren.</text>
 		</string>
 		<string id="teleport_04_dialog_2">
-			<text>So what? You will be here to Svoboda fly? Let's try...</text>
+			<text>Und dann kann man zu "Freiheit" einfach rüber "beamen"? Dann probieren wir es mal.</text>
 		</string>
 		<string id="teleport_04_dialog_3">
-			<text>Oh it nafik... I'll manage, I do...</text>
+			<text>Lass mal. Ich komm auch ohne "Scotty" zurecht.</text>
 		</string>
 		<string id="tex_fanat_teleport_04">
-			<text>\nFanatic said that he could set up a teleport to jump from Cordon to the Army Warehouses. To do this, find the laptop in Lab X-18 with a detailed map of the Warehouses</text>
+			<text>\n \n \n \n \n \nFanatic meint - er könnte den Teleporter für den Sprung aus Kordon zu den Lagerhäusern aktivieren. Dafür sind die Seismologishen Karten der Armeelagerhäuser nötig, die auf einem Laptop im "X-18 Labor" gespeichert sind.</text>
 		</string>
 		<string id="teleport_042_dialog_0">
-			<text>Hello Fanatic, I found the laptop...</text>
+			<text>Hallo, Fanatic, Ich habe den Laptop.</text>
 		</string>
 		<string id="teleport_042_dialog_1">
-			<text>Is it working? Did you try it?</text>
+			<text>Und? Sind die Karten drin? Hast du es vorher geprüft?</text>
 		</string>
 		<string id="teleport_042_dialog_2">
-			<text>I booted it up to the BIOS, but I didn't go any further... It must have been lying there for years, though. There were cobwebs all over it, but it looks hopeful...</text>
+			<text>Naja, ich hatte ihn eingeschaltet und das BIOS kam. Dann wieder ausgeschaltet. Die Umgebung hat zum Teil dazu beigetragen. Davon ab .. lag der schon Jahre Jahre rum und mit Spinnweben überzogen. Es sieht aber gut aus... </text>
 		</string>
 		<string id="teleport_042_dialog_3">
-			<text>Oh, it works... Thank you!... There's our map!...\nRight, to activate the teleport to the Army Warehouses will need a Soul artefact. Please accept this one as a gift, should you ever need to use it...</text>
+			<text>Mal sehen - Oh - Der startet sogar... Die - Karten - sind - da! \nFür die Aktivierung des Teleporters zu den Armeelagerhäusern ist aber noch das Artefakt "Seele" nötig... Hier, als Geschenk...</text>
 		</string>
 		<string id="teleport_05_dialog_0">
-			<text>Can you travel anywhere else?</text>
+			<text>Wo kann man eigentlich noch hin "Beamen"?</text>
 		</string>
 		<string id="teleport_05_dialog_1">
-			<text>Well, it could be configured to Yantar swamp, but again I'll need a map...</text>
+			<text>Keine Witze über "Star Trek"...Man kann den Teleporter zum beispiel auf Jantar einstellen, aber dafür brauchen wir wieder  Karten...</text>
 		</string>
 		<string id="teleport_05_dialog_4">
-			<text>Ah-ah! I know - Marked One features are much, bring those traits that?</text>
+			<text>A-ha! Ich weiß schon: "Gezeichneter", geh da hin und bring dieses und jenes...</text>
 		</string>
 		<string id="teleport_05_dialog_5">
-			<text>Well-ell, yes... And you never just wanted to? In general, a laptop in the laboratory of X-16, go?</text>
+			<text>Ja, klar... Wolltest du etwa was umsonst haben? Also, ein Aktenkoffer mit Karten soll sich im "X-16 Labor" befinden. Gehst du hin?</text>
 		</string>
 		<string id="teleport_05_dialog_2">
-			<text>Damn You Bes, I'll go!</text>
+			<text>Verdammt "Bes". Ja sicher.</text>
 		</string>
 		<string id="teleport_05_dialog_3">
-			<text>Listen himself stamp your...</text>
+			<text>Weißt du was. Geh selber.</text>
 		</string>
 		<string id="tex_fanat_teleport_05">
-			<text>fan said that could set up a teleport to jump from Cordon to Yantar. To do this, find the laboratory X-16, a laptop with the geological map of the area of Yantar</text>
+			<text>\n \n \n \n \n \nFanatic meint - er könnte den Teleporter für den Sprung aus Kordon nach Jantar aktivieren. Dafür sind die Karten der Jantar-Gegend nötig, die in einem Aktenkoffer im "X-16 Labor" liegen.</text>
 		</string>
 		<string id="teleport_052_dialog_0">
-			<text>Good times Bes, here's your bag...</text>
+			<text>Hey! Hier ist der Koffer mit dem Kartenmaterial...</text>
 		</string>
 		<string id="teleport_052_dialog_1">
-			<text>and Che is all wet? In what some snot...</text>
+			<text>Und warum ist der so nass und schleimig?</text>
 		</string>
 		<string id="teleport_052_dialog_2">
-			<text>Listen, I'm probably not going to the grocery database...</text>
+			<text>Hör mal, den hab ich nicht aus dem Ladenregal?</text>
 		</string>
 		<string id="teleport_052_dialog_3">
-			<text>Okay, okay, chill out... Here's "Mica", with the help of a teleport at Yantar opens...</text>
+			<text>Okay, okay, Ist ja gut... Hier hast du ein "Mika"-Artefakt, das brauchst du für die Aktivierung des Teleports nach Jantar.</text>
 		</string>
 		<string id="teleport_06_dialog_0">
-			<text>Hey, right in the sarcophagus can be reached?</text>
+			<text>Hör mal, kann man auch in den Sarkophag gelangen?</text>
 		</string>
 		<string id="teleport_06_dialog_1">
-			<text>probably can only data out there, and I do not know where to get...\nAnd this is where the geological survey of Pripyat is - I know...</text>
+			<text>Wahrscheinlich - Ja schon... Aber dafür gibt es keine Daten, und ich weiß auch nicht obe es überhaupt solche Karten gibt. Wenn dann hat wohl die Regierung solche.\n \nAber ich weiß wo Seismologischen Karten für Prypjat aufzutreiben sind - das weiß ich.</text>
 		</string>
 		<string id="teleport_06_dialog_4">
-			<text>Ha! Certainly in most Pripyat...</text>
+			<text>Ha! Bestimmt in Prypjat selbst...</text>
 		</string>
 		<string id="teleport_06_dialog_5">
-			<text>Exactly! You'll be there, look in the building of the bus station, computer data such as should have been preserved...</text>
+			<text>Exzakt! Wenn du mal da bist, schau mal im Busbahnhof-Gebäude nach, kann sein, das da noch ein Computer von den Stadtwerken Funktioniert. In dem sollten sich die Karten befinden.</text>
 		</string>
 		<string id="teleport_06_dialog_2">
-			<text>Okay, still in the wrong direction, look!</text>
+			<text>Gut, dann suche ich danach.</text>
 		</string>
 		<string id="teleport_06_dialog_3">
-			<text>If get to Pripyat, things to do will...</text>
+			<text>Wenn ich mal in Prypjat bin - zurzeit hab ich was anderes auf dem Zettel.</text>
 		</string>
 		<string id="tex_fanat_teleport_06">
-			<text>Fanatic said that he could set up a teleport to jump from Cordon to Pripyat. For this you want to find a bus station building in Pripyat computer geologic terrain map of Yantar</text>
+			<text>\n \n \n \n \n \nFanatic meint - er könne den Teleporter für den Sprung aus Kordon nach Prypjat aktivieren. Dafür sind die Karten von Prypjat nötig, die auf einem PC, im Busbahnhof, in Prypjat gespeichert sind.</text>
 		</string>
 		<string id="teleport_062_dialog_0">
-			<text>Fanatic... I came back...</text>
+			<text>Fanatic, ich bin zurück...</text>
 		</string>
 		<string id="teleport_062_dialog_1">
-			<text>Hello, yes... Well, you look - natural dead...</text>
+			<text>Ich grüße dich! Du siehst ja aus... Bisschen nach Tot...</text>
 		</string>
 		<string id="teleport_062_dialog_2">
-			<text>I'm tired... Take comp...</text>
+			<text>Ich bin fertig und Müde ... Hier ist der Rechner aus Pripjat...</text>
 		</string>
 		<string id="teleport_062_dialog_3">
-			<text>Chill, Marked One, here we have quiet... Take this "Moonlight", come in handy when artificially produced in Pripyat dive...</text>
+			<text>Na dann! Ruhe dich aus, Gezeichneter... Hier ist es zur Zeit still... und Hier ist noch ein "Mondlicht". Das brauchst du, wenn du mal nach Prypjat "Teleportieren" willst...</text>
 		</string>
 		<string id="teleport_escape_dialog_0">
-			<text>Come on, teleport me...</text>
+			<text>Na los, Teleportier mich...</text>
 		</string>
 		<string id="teleport_escape_dialog_1">
-			<text>And where are you skiing pricked?</text>
+			<text>Und wohin soll die Reise führen?</text>
 		</string>
 		<string id="teleport_escape_dialog_2">
-			<text>Come on warehouses, we'll see how things are there...</text>
+			<text>Zu den Armeelagerhäusern, muss mich da mal umschauen.</text>
 		</string>
 		<string id="teleport_escape_dialog_3">
-			<text>By Professor need to Yantar...</text>
+			<text>Zum Professor, nach Jantar..</text>
 		</string>
 		<string id="teleport_escape_dialog_4">
-			<text>In Pripyat, Marsh Doctor want to see...</text>
+			<text>Nach Prypjat, ich will den Sumpfdoktor besuchen.</text>
 		</string>
 		<string id="teleport_escape_dialog_21">
-			<text>to create a teleport needs a Soul artefact...\nAvailable?</text>
+			<text>Für die Aktivierung braucht man das Artefakt "Seele". \n \nHast du es?</text>
 		</string>
 		<string id="teleport_escape_dialog_22">
-			<text>Yes, there...</text>
+			<text>Ja, hier...</text>
 		</string>
 		<string id="teleport_escape_dialog_23">
-			<text>Pipets, I sold the "Soul "...</text>
+			<text>Mann - Die "Seele" hab ich verkauft...</text>
 		</string>
 		<string id="teleport_escape_dialog_221">
-			<text>Come... here guys help me with the calculations Bubble throw them.</text>
+			<text>Gib her... Mir helfen ein paar Jungs mit den Berechnungen, die könnten ein bisschen Geld, gut gebrauchen...</text>
 		</string>
 		<string id="teleport_escape_dialog_222">
-			<text>only children? Okay, how much...</text>
+			<text>Nur die Jungs? Gut, wieviel?</text>
 		</string>
 		<string id="teleport_escape_dialog_223">
-			<text>Vanka calculator will calculate everything exactly, but he wants 9000 for his work...\nSanya Baska, a hangover can be a bit wrong - and asks all 2500...\nDo you like?</text>
+			<text>Vanka wird alles genau justieren können, aber er will 9.000 Rubel haben...\n \nSanjek - der kann wegen dem Kater heute mal ein Fehler machen, deswegen ist er schon freiwillig mit 2.500 Rubel zufrieden...\n \nAlso?</text>
 		</string>
 		<string id="teleport_escape_dialog_224">
-			<text>with a hangover... Vlipnesh in the wall of any kind, let Vanka thinks...</text>
+			<text>Ei-Ei-Ei.. Sanjek scheint ja ganz nett zu sein. Was ist, wenn ich irgendwo in einer Wand lande? Lass das mal lieber Vanka berechnen...</text>
 		</string>
 		<string id="teleport_escape_dialog_225">
-			<text>What difference does it hold here two and a half pieces...</text>
+			<text>Ach - so ein unterschied wird das schon nicht machen... Hier hast du 2.500 Rubel...</text>
 		</string>
 		<string id="teleport_escape_dialog_226">
-			<text>Well guys and appetites with you, he'll get there</text>
+			<text>Die Jungs haben aber Ansprüche... Da gehe ich doch zu Fuß...</text>
 		</string>
 		<string id="teleport_escape_dialog_25">
-			<text>Well, right! Our calculator will get you directly to the base of Liberty!\nTeleport on the side of railway paintings, like passest - expand the tower to the right, from afar you'll see...</text>
+			<text>Gute Entscheidung! Er wird dich genau in die Freiheitsbasis bringen.\n \nDer Teleporter ist hinter den Bahnschienen, wenn du drüber bist - halte dich rechts, ist gar nicht zu übersehen...</text>
 		</string>
 		<string id="teleport_escape_dialog_26">
-			<text>see myself... Sanya course Baska, but after yesterday...\nTeleport on the side of railway paintings, like go over - turn right, from afar you'll see...</text>
+			<text>Mußt du selber wissen... Sanjek ist nicht blöd, aber nach dem Gesaufe von gestern...\n \nOk, der Teleporter ist hinter den Bahnschienen, wenn du drüber bist - halte dich rechts.</text>
 		</string>
 		<string id="teleport_escape_dialog_31">
-			<text>Sakharov? Here too, the martyr of science, sitting there in the swamp, radioactive mosquito feeds... To create a teleport need artefact "Mica"...\nnot lost?</text>
+			<text>Zu Sakharov? Das ist ja auch einer... Macht einen auf Märtyrer und sitzt da im Sumpf und füttert seine radioaktive Mücken... Für die Aktivierung braucht man das Artefakt "Mika"... \n \nVerloren hast du es doch nicht?</text>
 		</string>
 		<string id="teleport_escape_dialog_32">
-			<text>Here it is...</text>
+			<text>Natürlich nicht, hier ist es...</text>
 		</string>
 		<string id="teleport_escape_dialog_33">
-			<text>that he did not say I drove it.</text>
+			<text>Brauchte Geld und hab es verkauft...</text>
 		</string>
 		<string id="teleport_escape_dialog_321">
-			<text>Come... here guys help me with the calculations Bubble throw them.</text>
+			<text>Gib her... Mir helfen ein paar Jungs mit den Komplexen Berechnungen, die möchten sich was dazu verdienen...</text>
 		</string>
 		<string id="teleport_escape_dialog_322">
-			<text>And how much will I owe you ?...</text>
+			<text>Und wieviel schulde ich euch dann?</text>
 		</string>
 		<string id="teleport_escape_dialog_323">
-			<text>Vanka Calculator, local Ig Nobel Prize winner, will calculate everything accurately, but takes over the work 15000...\nSanya Baska, suffering after last night, may be a bit wrong - and asks only 5000...\nYou decide.</text>
+			<text>Vanka kann alles ganz sehr genau berechnen, nimmt für seine Arbeit 15.000 Rubel...\n \nSanjek - tja - der ist heute nicht so gut drauf und es kann sich auch mal ein Fehler einschleichen - dafür kostet's nur 5.000 Rubel... \n \nDeine wahl...</text>
 		</string>
 		<string id="teleport_escape_dialog_324">
-			<text>Baska, Calculator, you will let us accurately count...</text>
+			<text>Hey ihr beiden... Ihr sollt genau rechnen..</text>
 		</string>
 		<string id="teleport_escape_dialog_325">
-			<text>Blinn little money, so let the minimum...</text>
+			<text>Geld ist knapp, also Kostenminimierung...</text>
 		</string>
 		<string id="teleport_escape_dialog_326">
-			<text>Oh, take the long way...</text>
+			<text>Weißt du, ich gehe doch lieber zu Fuß...</text>
 		</string>
 		<string id="teleport_escape_dialog_35">
-			<text>correctly decided... Our Vanka clever devil... His wife with her lover caught, killed both as a pig... And so would have just had a Nobel Prize...\nTopa, teleport to the side glands, keep right and you'll see...</text>
+			<text>Richtige Entscheidung. Unser Vanka hat es echt drauf... Hat seine Frau mit dem Liebhaber erwischt, hat dann beide wie Schweine abgestochen... Sonst hätte er schon längst ein Nobelpreis... \n \nGeh schon... Teleport ist hinter den Bahnschienen, wenn du drüber bist - halte dich rechts, ist nicht zu übersehen...</text>
 		</string>
 		<string id="teleport_escape_dialog_36">
-			<text>You're a master of himself... Sanya course brainy guy, but it provides - whether it is healthy...\nTopa, teleport to the side glands, keep right and you'll see...</text>
+			<text>Du bist der Chef... Deine Ansage zählt. Sanjek ist ein kluges Bürschchen, säuft aber wie ein Loch... \n \nGut! Der Teleporter  ist wie überlich hinter den Bahnschienen, darüber und halte dich rechts..</text>
 		</string>
 		<string id="teleport_escape_dialog_41">
-			<text>Pripyat... You and Pripyat... Requires a Moonlight artefact...\nDo not feel sorry for?</text>
+			<text>Pripjat... Prypjat können wir auch einrichten... Nur wird das Artefakt "Mondlicht" gebraucht... \n \nEs ist dir doch nicht zu schade, oder?</text>
 		</string>
 		<string id="teleport_escape_dialog_42">
-			<text>sorry, but I make it fast...</text>
+			<text>Doch, aber dann komm ich wenigstens schnell an...</text>
 		</string>
 		<string id="teleport_escape_dialog_43">
-			<text>No, not give useful to me "Moonlight"...</text>
+			<text>Ne, das "Mondlicht" brauch ich selbst...</text>
 		</string>
 		<string id="teleport_escape_dialog_421">
-			<text>I am not a mathematician, big-headed guys think... Salvage them...</text>
+			<text>Ich bin ja kein Mathematiker aber unsere klugen Köpfe hier rechnen alles aus... Die können auch das Geld sehr gut gebrauchen...</text>
 		</string>
 		<string id="teleport_escape_dialog_422">
-			<text>Babble... How much money do you need?</text>
+			<text>Von wieviel Geld sprechen wir hier?</text>
 		</string>
 		<string id="teleport_escape_dialog_423">
-			<text>We have two smart guys have - Ivan Calculator and Sanya Baska...\nVanek, he almost never makes mistakes, but wants money... 30000...\nSankas been all counts, but yesterday he Sidor art rare dragged... Well, said the whole evening, he agrees to 10000...\nI do not advise it, up to you.</text>
+			<text>Wir haben hier zwei Jungs - Vanka und Sanjek ...\n \nVanka macht praktisch nie Fehler, verlangt dafür aber viel Geld... 30.000 Rubel...\n \nSanjek rechnet auch gut, aber er hat gestern an Sidorowitsch ein seltenes Artefakt verkauft, und ganzen Abend lang gefeiert... Dafür will er nur 10.000...\n \nDas ist Stand der Dinge, entscheiden mußt du...</text>
 		</string>
 		<string id="teleport_escape_dialog_424">
-			<text>I myself with a hangover, I think out of this, so... Let more expensive, but just</text>
+			<text>Naja.. Wenn ich ein Kater habe, mach ich auch seltsame Dinge, also... Lieber teuer, aber genau.</text>
 		</string>
 		<string id="teleport_escape_dialog_425">
-			<text>It attendants see I would have said, the hell with it - though not exactly...</text>
+			<text>Wenn ich an Geld komme, dann feiere ich auch mal... Egal, das wrd schon.</text>
 		</string>
 		<string id="teleport_escape_dialog_426">
-			<text>Make it the long way...</text>
+			<text>Weißt du, wandern ist gar nicht mal so schlimm.</text>
 		</string>
 		<string id="teleport_escape_dialog_45">
-			<text>Well, correctly, that is money - ugh and pound, but is guaranteed a safe place to find oneself...\nCome on, move, go over the railway, turn right, walk through a bit and you'll see a teleport...</text>
+			<text>Richtig, Dafür landest du garantiert im sicheren Ort...\n \nNa Los, geh schon... Der Teleporter ist hinter den Bahnschienen, wenn du drüber bist - halte dich rechts, ist nicht zu übersehen...</text>
 		</string>
 		<string id="teleport_escape_dialog_46">
-			<text>Yes, it would be attendants see, we would not be here talking to you talk...\nCome on, move, go over the railway, turn right, walk through a bit and you'll see a teleport... Good luck...</text>
+			<text>Okay... Wenn ich an Geld gekommen wäre, würden wir hier keine Gespräche führen...\n \nNa dann... Der Teleporter ist hinter den Bahnschienen. Du mußt dort rüber. Dann rechts, ist nicht zu übersehen...</text>
 		</string>
 		<string id="teleport_07_dialog_0">
-			<text>Hello narkosha like grass?</text>
+			<text>Na du, Narkosha... Wie ist das Gras?</text>
 		</string>
 		<string id="teleport_07_dialog_1">
-			<text>Grass - Uleta! Vkurili we are with Max and cook grass and opened to us the truth... It turns out you can teleport to configure where you want...</text>
+			<text>Gras ist S-U-P-E-R!!!  Wir haben mit Max und dem Koch richtig fein ein reingezogen und über uns kam dann die Erleuchtung... Mann kann doch tatsächlich ein Teleporter so justieren, das du da ankommst, wo du auch hin willst!</text>
 		</string>
 		<string id="teleport_07_dialog_4">
-			<text>To finish my! Threw you a thing...</text>
+			<text>Mann, da hattet ihr aber ein Trip! Du solltest mir der Sache aufhören...</text>
 		</string>
 		<string id="teleport_07_dialog_6">
-			<text>But you do not drive... No noodle... I tried... By Sidor rewind, and back - for half an hour turned...</text>
+			<text>Alter, ohne Scheiß... Ich hab's versucht - eine halbe Stunde. Zu Sidorowitsch und zurück - hab ich gebraucht...</text>
 		</string>
 		<string id="teleport_07_dialog_7">
-			<text>I just have to Cordon Quick...</text>
+			<text>Fein, ich muß grad mal schnell zum Kordon...</text>
 		</string>
 		<string id="teleport_07_dialog_8">
-			<text>Just so - even cats are not born... Give me seven clutches chimera, then we'll talk...</text>
+			<text>Einfach so! Halt, Halt. ... Bring mir sieben Chimerakrallen, dann reden wir...</text>
 		</string>
 		<string id="teleport_07_dialog_9">
-			<text>Why seven that?</text>
+			<text>Sieben?</text>
 		</string>
 		<string id="teleport_07_dialog_5">
-			<text>you that the oak crashed... Seven - the magic number!</text>
+			<text>Mann, von welchen Planeten kommst du denn? Sieben - magische Zahl!</text>
 		</string>
 		<string id="teleport_07_dialog_2">
-			<text>Well, if the magic... Try typing...</text>
+			<text>Na ja, wenn es eine magische Zahl ist... Versuche ich die zu  besorgen...</text>
 		</string>
 		<string id="teleport_07_dialog_3">
-			<text>their brains ventilated...</text>
+			<text>Du solltest wirklich dein Hirn mal einschalten..</text>
 		</string>
 		<string id="tex_mil_trader_teleport_07">
-			<text>Miser promises to set up a teleport to move from stocks to Cordon, if he bring seven clutches chimera</text>
+			<text>\n \n \n \n \n \nMiser verspricht einen Teleport einzurichten, um von den Armeelagerhäusern zum Kordon zu springen. Allerdings wenn ich ihm 7 Krallen von der Chimera bringe.</text>
 		</string>
 		<string id="teleport_072_dialog_0">
-			<text>Amateur magic, I brought your claws...</text>
+			<text>Hier, Magie-Liebhaber... Hab dir die Krallen besorgt.</text>
 		</string>
 		<string id="teleport_072_dialog_1">
-			<text>Wow, hang on a wall - is a positive aura...</text>
+			<text>Wow, toll! Werd ich mir an die Wand Nageln - gibt 'ne positive Karma...</text>
 		</string>
 		<string id="teleport_072_dialog_2">
-			<text>Aura... Kuri smaller and purer aura will...</text>
+			<text>Karma... Alter.. weniger rauchen, dann wird die Karma auch wieder sauber...</text>
 		</string>
 		<string id="teleport_072_dialog_3">
-			<text>Well, his wife teach soup cooking... Come when you want to hit the road Cordon...</text>
+			<text>Höre auf rum zu sappeln... Wenn du dann mal schnell nach Kordon willst - kannst ja vorbeikommen...</text>
 		</string>
 		<string id="teleport_08_dialog_0">
-			<text>Hi Max, Miser says you have fouled transitions do ?.</text>
+			<text>Max! Miser sagte, ihr kriegt es jetzt mit Teleporter hin?..</text>
 		</string>
 		<string id="teleport_08_dialog_1">
-			<text>was the case, he did not expect such an effect from the banal side posts, just in my brain clicked something and began to know how to calculate the teleport to Yantar...</text>
+			<text>Ja, stimmt... Hab das echt nicht erwartet von einem einfachen Joint... Hat einfach im Kopf "Klick" gemacht und dann wußte ich auf einmal, wie man eine Teleport nach Jantar berechnet...</text>
 		</string>
 		<string id="teleport_08_dialog_4">
-			<text>And how would I go to quickly get? I tell you what you want you pirate...</text>
+			<text>Und wenn ich da mal schnell hin muß? Kann ich dir alles besorgen...</text>
 		</string>
 		<string id="teleport_08_dialog_5">
-			<text>But I do not need anything grub enough, vodka is, the air fresh... Baba would, but where do you take it...\nThough... dashed to Kruglov, he promised a fresh issue Playboy throw, look at the heavenly creatures...</text>
+			<text>Ich brauch eigentlich nichts... Zu essen gibt's genug, Wodka ist auch da, frische Luft hab ich ohne Ende... Nur keine Frauen, aber ... \nDa fällt mir doch ein... Besuch mal Kruglov, er hatte uns frische "Playboy"-Ausgaben versprochen...</text>
 		</string>
 		<string id="teleport_08_dialog_2">
-			<text>Here fartsa pancake, okay...</text>
+			<text>Mann, hab ich immer ein Glück... Alles klar!</text>
 		</string>
 		<string id="teleport_08_dialog_3">
-			<text>Well you give... Like a real man...</text>
+			<text>Du hast Wünsche... Sprich die hier in der Zone doch mal an...</text>
 		</string>
 		<string id="tex_mil_max_teleport_08">
-			<text>\nMax promises to set up a teleport to move from the warehouse to Yantar, when he brought from Kruglov magazines "PlayBoy"</text>
+			<text>\n \n \n \n \n \nMax verspricht ein Teleporter einzurichten, um von den Armeelagerhäusern nach Jantar zu springen. Dafür möchtet er, das ich ihm "Playboy"-Zeitschriften von Kruglov besorge.</text>
 		</string>
 		<string id="teleport_082_dialog_0">
-			<text>Here magazines with the beautiful...</text>
+			<text>Hier sind die Zeitschriften mit den Schönheiten...</text>
 		</string>
 		<string id="teleport_082_dialog_1">
-			<text>Thanks Marked One, or have forgotten - who's - Women...</text>
+			<text>Danke dir, Wir vergessen hier schon langsam, wie Frauen überhaupt aussehen...</text>
 		</string>
 		<string id="teleport_082_dialog_2">
-			<text>oh, remember...</text>
+			<text>Jetzt kannst du dich errinnern...</text>
 		</string>
 		<string id="teleport_082_dialog_3">
-			<text>approach, when you want to hit the road Yantar...</text>
+			<text>Ok, dann komm mal vorbei, wenn du irgendwann nach Jantar mußt...</text>
 		</string>
 		<string id="teleport_083_dialog_0">
-			<text>Hello, scientist...</text>
+			<text>Hallo, Wissenschaftler...</text>
 		</string>
 		<string id="teleport_083_dialog_1">
-			<text>Healthy Marked One, as life...</text>
+			<text>Grüße und Gesundheit, Gezeichneter! Wie ist das Leben?</text>
 		</string>
 		<string id="teleport_083_dialog_2">
-			<text>said you have magazines, Playboy...</text>
+			<text>Man sagt, du hättest - ja also - "Playboy" Zeitschriften...</text>
 		</string>
 		<string id="teleport_083_dialog_3">
-			<text>Well, if Playboy are interested in, then health in order... Here you are, for 2006 only have...</text>
+			<text>Du? Also gut. Scheinst bei bester Gesundheit zu sein, wenn du dich für "Playboy" interessierst... Hier, ich hab nur welche aus dem Jahr 2006...</text>
 		</string>
 		<string id="teleport_09_dialog_0">
-			<text>Hey Cook! You hear me? Miser said do you know about the teleport...</text>
+			<text>Hey, Koch! Hörst du mich? Miser sagt - du weißt über Teleporter  bescheid...</text>
 		</string>
 		<string id="teleport_09_dialog_1">
-			<text>A? Che? Who are you? What teleport? Ah, but if I know, is...</text>
+			<text>Ähh? Was? Wer bist du denn?... Teleporter? Was für'n Teleporter?.. Ah, klar, scheint so, das ich das wirklich weiß...</text>
 		</string>
 		<string id="teleport_09_dialog_4">
-			<text>Maybe you bubble for the correction of health? I would need to Pripyat...</text>
+			<text>Willst du Wodka haben, um dich besser zu fühlen? Ich muß nach Pripjat...</text>
 		</string>
 		<string id="teleport_09_dialog_5">
-			<text>It would be nice... Bubble, but better Ten... And tushkano, as starters...</text>
+			<text>Wäre nicht schlecht... 'Ne Flasche, oder, noch besser, zehn... Und Tuschkano-Köpfe, als Beilage...</text>
 		</string>
 		<string id="teleport_09_dialog_2">
-			<text>Ok, maybe their brains, and you will be added...</text>
+			<text>Na gut, vielleicht wirst du durch die Köpfe klüger..</text>
 		</string>
 		<string id="teleport_09_dialog_3">
-			<text>Back to you soon on the vodka... Walking, whether that...</text>
+			<text>Alter.. Geh mal an die frische Luft... So ein blödsinn. Köpfe..</text>
 		</string>
 		<string id="tex_mil_cook_teleport_09">
-			<text>\nCook promises to set up a teleport to move from warehouses in Pripyat, need to bring him 10 bottles of vodka and 10 tushkano brains</text>
+			<text>\n \n \n \n \n \nDer Koch verspricht ein Teleporter einzurichten, um von den Armeelagerhäusern nach Prypjat zu springen. Dafür möchtet er, das ich ihm 10 Flaschen Wodka und 10 Tuschkano-Köpfe bringe.</text>
 		</string>
 		<string id="teleport_092_dialog_0">
-			<text>Er-y! Dear!... Eyes wipe...</text>
+			<text>Hey! Mach mal die Augen auf...</text>
 		</string>
 		<string id="teleport_092_dialog_1">
-			<text>Che do you want... Shouting about here, people think you're preventing us...</text>
+			<text>Was willst du... Machst hier Lärm und störst beim Nachdenken...</text>
 		</string>
 		<string id="teleport_092_dialog_2">
-			<text>Keep holy water and a snack... How are things with teleport ?...</text>
+			<text>Hier hast du dein "Heliges Wasser" und was zum Grillen... Wie sieht es aus mit dem Teleporter?</text>
 		</string>
 		<string id="teleport_092_dialog_3">
-			<text>After approaches, I have right now, not in the form...</text>
+			<text>Komm später vorbei, ich bin grad nicht im Form...</text>
 		</string>
 		<string id="teleport_skraga_dialog_0">
-			<text>Come miser, do it, teleport need...</text>
+			<text>Los, miser, mach dein Job, ich brauch den Teleporter...</text>
 		</string>
 		<string id="teleport_skraga_dialog_1">
-			<text>And where are you skiing pricked?</text>
+			<text>Und, wohin geht die Reise?</text>
 		</string>
 		<string id="teleport_skraga_dialog_2">
-			<text>Come to Cordon to have a conversation Sidor</text>
+			<text>Nach Kordon, ich hab paar Wörtchen mit Sidorowitsch zu wechseln...</text>
 		</string>
 		<string id="teleport_skraga_dialog_21">
-			<text>To teleport to needs a Crystal artefact...\nAvailable?</text>
+			<text>Du weißt. Für die Aktivierung braucht man das Artefakt "Kristall"... \nHast du eins da?</text>
 		</string>
 		<string id="teleport_skraga_dialog_22">
-			<text>Well... Yes, there is such... Done when will be?</text>
+			<text>Na ja... Ja, hab ich. Wann wird's fertig sein?</text>
 		</string>
 		<string id="teleport_skraga_dialog_23">
-			<text>But you have there been? Okay, then I'll come...</text>
+			<text>Hattest du nicht einen eigenen? Gut, dann komme ich später nochmal vorbei.</text>
 		</string>
 		<string id="teleport_skraga_dialog_221">
-			<text>not hurry... We must still figure out that you would not be smeared on the walls of which anything should be as follows, brains pep... Weeds are something money...</text>
+			<text>Nicht so schnell... Erst muß ich alles gut überlegt sein, damit du nicht in irgendeiner Wand landest. Erst mal ein paar Joints rauchen, Hirn auf Trab bringen... Gras kostet richtig Geld...</text>
 		</string>
 		<string id="teleport_skraga_dialog_222">
-			<text>I told you a whole bag fetched! Where do you...</text>
+			<text>Ich hab dir doch ein ganzen Sack voll angeschleppt! Wozu brauchst du noch mehr?</text>
 		</string>
 		<string id="teleport_skraga_dialog_223">
-			<text>from the bag only memories... Good grass is a lot of money. To properly should be not less than 9000...\nWell, if sensitive to risk it and try for 2500.\nDo you like?</text>
+			<text>Da ist doch nichts mehr übrig von... Wie gesagt, gutes Zeug kostet Geld. Um zwei-drei richtig dicke Joints zu bauen, brauch ich minimum 9.000Rubel\n \nWenn du bisschen Risiko verträgst, versuche  ich dich im nüchternen Zustand für nur 2.500 Rubel rüberzubringen.\nWie sieht's aus?</text>
 		</string>
 		<string id="teleport_skraga_dialog_224">
-			<text>At a pancake, drug... Okay, you have good grass...</text>
+			<text>Mann, ihr und eure Drogen... Na gut, hast du Gras da...</text>
 		</string>
 		<string id="teleport_skraga_dialog_225">
-			<text>Listen, here's 2500, and that's enough babble...</text>
+			<text>Hör mal, hier hast du 2.500 Rubel und hör auf zu quatschen...</text>
 		</string>
 		<string id="teleport_skraga_dialog_226">
-			<text>I'm not going to contact nark, he'd get himself...</text>
+			<text>Keine Lust mehr auf Drogengeschäfte, ich gehe zu Fuß...</text>
 		</string>
 		<string id="teleport_skraga_dialog_25">
-			<text>Thanks... Do not be sorry, I'm straight to the closet in Sidor let down...\nTopa, fly... Teleport opposite the main entrance to the base... Across the street, pass over and see...</text>
+			<text>Danke... Das wirst du schon nicht bereuen, ich werd dich direkt ins sein Bunker befördern...\n \nNa dann, "fly away"... Der Teleport ist gegenüber vom Basiseingang... Einmal über die Straße, dann siehst du es schon...</text>
 		</string>
 		<string id="teleport_skraga_dialog_26">
-			<text>greedy you become... Ok, maybe next time you'll be generous...\nTopa, fly... Teleport opposite the main entrance to the base... where two or three singles hang out...</text>
+			<text>Kein vertrauen... Na ja, vielleicht bist nächstes Mal spendabler...\n \nDer Teleporter ist dort hinten - gegenüber vom Basiseingang... Da, wo immer zwei-drei "Einzelgänger" rumhängen...</text>
 		</string>
 		<string id="teleport_povar_dialog_0">
-			<text>you alive or not, wipe the eyes teleport need...</text>
+			<text>Bist du noch am Leben, oder nicht mehr? Wach auf, der Teleporter  wird gebraucht...</text>
 		</string>
 		<string id="teleport_povar_dialog_1">
-			<text>What sort of teleport, fuck off, eh?</text>
+			<text>Was für ein Telepo...? Lass mich in Ruhe, Mann...</text>
 		</string>
 		<string id="teleport_povar_dialog_2">
-			<text>In Pripyat I need, you said - you can organize...</text>
+			<text>Dreh dich nicht um. Ich muss nach Prypjat. Du hast doch gesagt, du kannst es organisieren...</text>
 		</string>
 		<string id="teleport_povar_dialog_21">
-			<text>From since landed... Need an artefact of "Moonlight", and I have it no...</text>
+			<text>Mann - bist aber hartnäckig. Man braucht aber das Artefakt "Mondlicht", und ich hab's nicht...</text>
 		</string>
 		<string id="teleport_povar_dialog_3">
-			<text>Listen, friend... Not in Sawston I am today... Come then...</text>
+			<text>Hör mal, Freund... Ich bin heute echt nicht in der Lage dazu... Später, ok?</text>
 		</string>
 		<string id="teleport_povar_dialog_22">
-			<text>I have a "Moonlight", let's step on it...</text>
+			<text>Ich hab ein "Mondlicht", also - beweg dich...</text>
 		</string>
 		<string id="teleport_povar_dialog_23">
-			<text>Wait here, I find - bring...</text>
+			<text>Warte hier, wenn ich's finde - komm ich wieder...</text>
 		</string>
 		<string id="teleport_povar_dialog_221">
-			<text>Okay, okay... Toka better have brains shake... Good to smoke marijuana... Weeds are something money...</text>
+			<text>Okay, Okay... Man müßte aber erst den Kopf frei bekommen... Bisschen gutes Gras rauchen... Joints kosten Kohle...</text>
 		</string>
 		<string id="teleport_povar_dialog_222">
-			<text>Everyone pancake Bubble tries to snatch... How much?</text>
+			<text>Also echt... Jeder versucht hier nur ans Geld zu kommen... Wieviel brauchst du?</text>
 		</string>
 		<string id="teleport_povar_dialog_223">
-			<text>good grass big money is. To a good estimate payment and all you need is not less than 15000...\nAnd if you're not afraid to risk it and try a sack for 5000.\nDo you like?</text>
+			<text>Gutes Gras kostet haufen Kohle...Das hat was mit Qualität zu tun und damit ich mir beim Rauchen alles gut überlege, brauche ich so  15.000... \nWenn sparen willst, dann komme ich auch mit 5.000 aus.\nWas meinst du?</text>
 		</string>
 		<string id="teleport_povar_dialog_224">
-			<text>At a pancake, drug... Okay, you have good grass...</text>
+			<text>Nur Junkies hier... Na gut, hier hast du was...</text>
 		</string>
 		<string id="teleport_povar_dialog_225">
-			<text>Listen, here's 5000, and that's enough babble...</text>
+			<text>Hier hast du 5.000. Mach es bitte so gut wie es geht...</text>
 		</string>
 		<string id="teleport_povar_dialog_226">
-			<text>I'm not going to contact nark, he'd get himself...</text>
+			<text>Keine Lust mehr. Ihr und eure Drogen, ich laufe...</text>
 		</string>
 		<string id="teleport_povar_dialog_25">
-			<text>That guy... You'll be in Pripyat, hello Doctor Give...\nliner goes, do not be late for boarding... Move to teleport - in front of the main gate...</text>
+			<text>Du bist ein echter Kumpel... Grüß den Dok von mir wenn du in Prypjat bist...\n \nL-E-T-Z-E-R AUFRUF, Flug startet in Kürze... Der Teleporter ist gegenüber vom Haupttor... In der Senke zwischen den Hügeln... Viel Spass</text>
 		</string>
 		<string id="teleport_povar_dialog_26">
-			<text>might not come back, my nerves to shake...\nTeleport opposite the main entrance to the base.</text>
+			<text>Vielleicht kehrst du nicht mehr zurück und nervst mich nicht mehr... \nDer Teleporter ist gegenüber vom Haupttor.</text>
 		</string>
 		<string id="teleport_max_dialog_0">
-			<text>Hey Max, you need to fly to Yantar...</text>
+			<text>Hey Max, ich muß schnell nach Jantar...</text>
 		</string>
 		<string id="teleport_max_dialog_1">
-			<text>And what you can not sit on the ground...</text>
+			<text>Du kannst einfach nicht stillsitzen, Oder?...</text>
 		</string>
 		<string id="teleport_max_dialog_2">
-			<text>I can not sit on the ground - not the nature...</text>
+			<text>Ich bleib nie lange an einem Ort... Liegt in meiner Natur...</text>
 		</string>
 		<string id="teleport_max_dialog_21">
-			<text>Ah, nature... A Mica artefact is needed...\nI do not have, do you?</text>
+			<text>Natur, also... Dann hats du auch das Artefakt "Mika", das braucht man... \nIch hab's nicht - du?</text>
 		</string>
 		<string id="teleport_max_dialog_22">
-			<text>There are of course, there... Can going to blaze?</text>
+			<text>Ja, klar. Hab ich. Brauchst du auch ein Joint?</text>
 		</string>
 		<string id="teleport_max_dialog_23">
-			<text>did not think it will take - sold...</text>
+			<text>Dachte nicht, das ich es brauche. Hab es verkauft...</text>
 		</string>
 		<string id="teleport_max_dialog_221">
-			<text>No, I will not... I was just simply, for the company once... And for mental work will take the money... Because any work should be rewarded...</text>
+			<text>Nein, brauch ich nicht... Das letzte Mal hab ich nur so, aus Teamgeist, einen gezogen... Aber für die geistige Tätigkeit nehm ich gern Geld... Jede Arbeit muß belohnt werden...</text>
 		</string>
 		<string id="teleport_max_dialog_222">
-			<text>And what do you have to pay?</text>
+			<text>Und wieviel brauchst du?</text>
 		</string>
 		<string id="teleport_max_dialog_223">
-			<text>If strongly used brain, and is guaranteed to throw you in a safe place then 9000...\nAnd if not very afraid - that 2500 will suffice.\nDecide...</text>
+			<text>Wenn ich mein Hirn sehr anstrengen muß und du dann garantiert am sicheren Ort landen willst - 9.000 Rubel... \nWenn du keine Angst hast - dann reichen 2.500.\nDein ding...</text>
 		</string>
 		<string id="teleport_max_dialog_224">
-			<text>Let's a good job try...</text>
+			<text>Versuch mal eine gute Stelle zu finden...</text>
 		</string>
 		<string id="teleport_max_dialog_225">
-			<text>Listen, here's 2500, at the place I'll look myself</text>
+			<text>Hör mal, hier sind 2.500, ich werd schon klar kommen...</text>
 		</string>
 		<string id="teleport_max_dialog_226">
-			<text>Take care of me the money, he'll go...</text>
+			<text>Ich spar mal lieber und gehe zu Fuß...</text>
 		</string>
 		<string id="teleport_max_dialog_25">
-			<text>reward for good - a decent job...\nMove to teleport. Opposite the main entrance to the base... Across the street, pass over and see...</text>
+			<text>Für gutes Geld - gute Arbeit... \nNa dann... Teleport ist gegenüber vom Basiseingang... Einmal über die Straße, dann siehst du es schon...</text>
 		</string>
 		<string id="teleport_max_dialog_26">
-			<text>Alive reach the bottom, and worked there myself...\nsteps... Teleport opposite the main entrance to the base.</text>
+			<text>Na ja, du kommst lebend an, dann mußt du selber zusehen wie du klar kommst... \nDer Teleporter ist gegenüber vom Basiseingang... beeil dich</text>
 		</string>
 		<string id="doctor_take_teleport_0">
-			<text>Father, I teleport to...</text>
+			<text>Ich muß mich teleportieren...</text>
 		</string>
 		<string id="doctor_take_teleport_1">
-			<text>Where are you going to again... Sit down and talk...</text>
+			<text>Wo willst du denn schon wieder hin?... Setz dich doch, las uns bisschen reden...</text>
 		</string>
 		<string id="doctor_take_teleport_2">
-			<text>Sorry, I need to get to Cordon...</text>
+			<text>Verzeih, ich muß nach Kordon...</text>
 		</string>
 		<string id="doctor_take_teleport_3">
-			<text>By Professor need to go to Yantar...</text>
+			<text>Ich muß den Professor Sakharov in Jantar besuchen.</text>
 		</string>
 		<string id="doctor_take_teleport_4">
-			<text>In Bar want to go, a couple of tender to the bartender...</text>
+			<text>Ich muß wieder in die Bar, hab mit dem Wirt was zu regeln...</text>
 		</string>
 		<string id="doctor_take_teleport_21">
-			<text>Do you remember that to create a teleport you need a Crystal artefact...\nDo not lose it?</text>
+			<text>Weißt du noch, für die Aktivierung braucht man das Artefakt "Kristall"... \nDu bist doch im Besitz eines solchen Artefakts?</text>
 		</string>
 		<string id="doctor_take_teleport_22">
-			<text>No, not lost... Here it is...</text>
+			<text>Natürlich, ich hab' eins. Hier...</text>
 		</string>
 		<string id="doctor_take_teleport_23">
-			<text>Oh, I completely forgot about that...</text>
+			<text>Ach mist, das hab ich ganz vergessen...</text>
 		</string>
 		<string id="doctor_take_teleport_221">
-			<text>Do you need two or three artefacts, to fine-tune... I regularly bring... Only the money they want, how you work...</text>
+			<text>Ich brauch noch zwei-drei Artefakte, für die genaue Justierung... Man bringt mir regelmäßig welche... Die Leute wollen aber auch Geld dafür, das verstehst du doch?</text>
 		</string>
 		<string id="doctor_take_teleport_222">
-			<text>Yes I understand of course, how much?</text>
+			<text>Natürlich, verstehe ich das. Wieviel?</text>
 		</string>
 		<string id="doctor_take_teleport_223">
-			<text>For the absolute best guidance needed artefacts for an amount not less than 30000...\nTo determine the location coordinates only a mere 10000...\nDo you like?</text>
+			<text>Für die exzakte Justierung werden Artefakte für mindestens 30.000 Rubel gebraucht...\n \nWenn man nur ungenaue Koordinaten der Gegend bestimmen will - nur 10.000 Rubel...\nWie willst du es haben?</text>
 		</string>
 		<string id="doctor_take_teleport_224">
-			<text>But money is not a problem, come closer to the camp...</text>
+			<text>Geld ist kein Problem, ich möchte so nah wie möglich beim Lager landen...</text>
 		</string>
 		<string id="doctor_take_teleport_225">
-			<text>Sorry, strained with the money, try cheaper...</text>
+			<text>Tut mit leid, Das Geld ist knapp. Ich nehm die billige Variante...</text>
 		</string>
 		<string id="doctor_take_teleport_226">
-			<text>Very little money, screw 'em - then I'll drop</text>
+			<text>Ich hab kaum noch Geld, Ich komme wieder wenn ich wieder flüssig bin.</text>
 		</string>
 		<string id="doctor_take_teleport_25">
-			<text>I'll do a closer... You do not tarry there, I'll wait for you here.\nTeleport on the square in the storm sewer under the monument to Lenin</text>
+			<text>Ich mach's so genau, wie es geht... Bleib nicht zu lange weg, ich werde hier auf dich warten und ein Tee Trinken.\n \nDer Teleporter ist auf dem Platz, in der Kanalisation unter dem Lenin-Denkmal.</text>
 		</string>
 		<string id="doctor_take_teleport_26">
-			<text>Nothing on Cordon not so dangerous, will deal...\nTeleport on the square in the storm sewer under the monument to Lenin</text>
+			<text>Na ja, im Kordon ist es ja nicht sehr gefährlich, du wirst schon klar kommen.\n \nDer Teleporter befindet sich auf dem Platz, in der Kanalisation unter dem Lenin-Denkmal.</text>
 		</string>
 		<string id="doctor_take_teleport_31">
-			<text>Sakharov? Here too, the martyr of science, sitting there in the swamp, radioactive mosquito food... To create a teleport you require a Mica artefact...\nDo not lose it</text>
+			<text>Zum Sakharov? Komischer Kauz... Spielt da Futter für die Mutanten-Mücken im Sumpf... Für die Erzeugung des Teleporters braucht man aber das Artefakt "Mika"... \nVerloren hast du es nicht, oder?</text>
 		</string>
 		<string id="doctor_take_teleport_32">
-			<text>Here it is...</text>
+			<text>Natürlich, hier ist es...</text>
 		</string>
 		<string id="doctor_take_teleport_33">
-			<text>that he did not say I drove it.</text>
+			<text>Mist..</text>
 		</string>
 		<string id="doctor_take_teleport_321">
-			<text>Do you need two or three artefacts, to fine-tune... I regularly bring... Only the money they want, how you work...</text>
+			<text>Ich brauch noch zwei - drei Artefakte, für die genaue Ausrichtung... Man bringt mir regelmäßig welche... Die Leute wollen aber auch Geld dafür, du verstehst das doch?</text>
 		</string>
 		<string id="doctor_take_teleport_322">
-			<text>How much is required?</text>
+			<text>Welche Summe brauchst du?</text>
 		</string>
 		<string id="doctor_take_teleport_323">
-			<text>For the absolute best guidance artefacts for an amount not less than 15000...\nTo determine the location coordinates only 5000...\nWith money like?</text>
+			<text>Für die absolute Justierung werden Artefakte für mindestens 15.000 Rubel benötigt.\n \nWenn man nur ungenaue Koordinaten der Gegend bestimmen will - dann nur 5.000... \nBist du flüssig?</text>
 		</string>
 		<string id="doctor_take_teleport_324">
-			<text>Money - garbage, let's accurately, in a safe place...</text>
+			<text>Geld ist nur Papier, mach es exzakt zu einer sicheren Landestelle.</text>
 		</string>
 		<string id="doctor_take_teleport_325">
-			<text>Money ran out, only the approximate location of missing</text>
+			<text>Mein Geld geht zu Neige. Mach es möglichs genau.</text>
 		</string>
 		<string id="doctor_take_teleport_326">
-			<text>Most have no money, need a little extra money stalking</text>
+			<text>Hab überhaupt kein Geld mehr, muß erst was verdienen...</text>
 		</string>
 		<string id="doctor_take_teleport_35">
-			<text>Right, money can not buy happiness...\nTeleport on the square in the storm sewer under the monument to Lenin</text>
+			<text>Richtig, wahres Glück liegt nicht im Geld... \nDer Teleporter ist auf dem Platz, in der Kanalisation unter dem Lenin-Denkmal.</text>
 		</string>
 		<string id="doctor_take_teleport_36">
-			<text>Yes, on the spot, I think he will deal. Good luck!\nTeleport on the square in the storm sewer under the monument to Lenin</text>
+			<text>Sei vorsichtig, wenn du da ankommst... und.. Viel Glück! \nDer Teleporter ist auf dem Platz, in der Kanalisation unter dem Lenin-Denkmal.</text>
 		</string>
 		<string id="doctor_take_teleport_41">
-			<text>Well in Bar does not work, but you can throw at warehouses. Requires a Soul artefact...\nDo not feel sorry for?</text>
+			<text>Direkt in die Bar-Gegend wird es nicht klappen, aber zu den Armeelagerhäusern... Man bräuchte noch das Artefakt "Seele" dafür...\n \nIst dir doch nicht zu schade, oder?</text>
 		</string>
 		<string id="doctor_take_teleport_42">
-			<text>Sorry, but I make it fast...</text>
+			<text>Eigentlich schon... Aber wenigstens bin ich schnell da...</text>
 		</string>
 		<string id="doctor_take_teleport_43">
-			<text>I'll think I...</text>
+			<text>Ich überlege es mir noch...</text>
 		</string>
 		<string id="doctor_take_teleport_421">
-			<text>Do you need two or three artefacts, to fine-tune... I sometimes sell...</text>
+			<text>Ich brauch noch zwei - drei Artefakte, für die genaue Justierung... Ich müßte nur den Lieferanten bezahlen...</text>
 		</string>
 		<string id="doctor_take_teleport_422">
-			<text>And for what amount?</text>
+			<text>Wieviel mußt du dem den bezahlen?</text>
 		</string>
 		<string id="doctor_take_teleport_423">
-			<text>For moving in exactly the safest place guidance necessary artefacts in an amount not less than 10000...\nTo determine the location coordinates only 5000...\nI think not very many?</text>
+			<text>Für die genaue Justierung werden Artefakte von mindestens 10.000 Rubel benötigt...\n \nWenn man nur ungenaue Koordinaten der Gegend nimmt, die so pi-mal über den daumen gehen - nur 5.000 Rubel ... \nIch denke, es ist nicht viel?</text>
 		</string>
 		<string id="doctor_take_teleport_424">
-			<text>Yes, not much. And through the radar does not stomp...</text>
+			<text>Ist ja nicht viel... Und man muß nicht durch's Radar latschen...</text>
 		</string>
 		<string id="doctor_take_teleport_425">
-			<text>Not much, but I'm grounded for now, only 5000 pull...</text>
+			<text>Nicht viel, aber ich bin auch nicht grade flüssig, 5.000 geht in Ordnung...</text>
 		</string>
 		<string id="doctor_take_teleport_426">
-			<text>money, absolutely not, go, can I find - valuable...</text>
+			<text>Verdammt viel Kohle. Wenn ich wieder was wertvolles finde - komm ich zurück...</text>
 		</string>
 		<string id="doctor_take_teleport_45">
-			<text>Hi there guys out of debt transfer. Good luck!\nTeleport on the square in the storm sewer under the monument to Lenin</text>
+			<text>Schön! Grüß die Wächter-Jungs von mir...\n \nDer Teleporter ist auf dem Platz, in der Kanalisation unter dem Lenin-Denkmal.</text>
 		</string>
 		<string id="doctor_take_teleport_46">
-			<text>Yes, on the spot, I think he will deal. Good luck!\nTeleport on the square in the storm sewer under the Lenin monument.</text>
+			<text>Sei vorsichtig, wenn du da ankommst... Viel Glück! \nDer Teleport ist auf dem Platz- du weißt schon - in der Kanalisation unter dem Lenin-Denkmal.</text>
 		</string>
 		<string id="teleport_10_dialog_0">
-			<text>Help me with one thing, they say - it is possible to teleport to...</text>
+			<text>Könntest du mir bei einer Sache helfen? Man erzählt, das es möglichkeiten gibt Teleporter einzurichten...</text>
 		</string>
 		<string id="teleport_10_dialog_1">
-			<text>Yes - you can, if they were not so expensive, then all would enjoy...</text>
+			<text>Ja, das geht. Wenn es nicht so teuer wäre - würden es wohl alle in der Zone nutzen...</text>
 		</string>
 		<string id="teleport_10_dialog_4">
-			<text>And what is needed for this? Well, at least, if I want to fly Cordon...</text>
+			<text>Und was braucht man dafür? Wenn ich nun nach Kordon "springen" will...</text>
 		</string>
 		<string id="teleport_10_dialog_5">
-			<text>Well firstly need the artefact, which this gives rise to teleport. For each locality it your own. No known artefacts for Cordon, Yantar, army depots and, in fact, Pripyat.\nSecond need calculation point of arrival, and then you can understand - takes you back to the stone where ever... Different people have different count. Who math calls for help, and who - otherworldly forces. I'm about halfway - use a unique artefact. For example to calibrate the teleport at Cordon needs a 'Ruby Spring'. This is a very rare artefact, but Syak promised that he would give it to me... I like that pulled him out of one scrape... Go to it...</text>
+			<text>Erstens - man braucht ein Artefakt, damit wird überhaupt so ein Telporter aktiviert. Für jede Gegend ein anderes wegen der entfernung und Ausrichtung. In Moment kennt man die Artefakte für Kordon, Armeelagerhäuser, Jantar und eben Prypjat.\n \nZweitens - man muß den Zielort berechnen, den Landepunkt. Sonst landet man noch irgendwo in einer Wand, Felsen oder schlimmer im Boden. Es gab aerb auchschon Berichte vom Freien Fall. Das zu berechnen machen alle auf ihre Art. Einige sehr gut andere weniger zielgerichtet.\n \nEs ist aber auch eine Komplexe Materie mit der man sich beschäftigt. Ich nehme, sozusagen, den "mittleren" Weg und nutze dafür einzigartige Artefakte. Um, zum Beispiel, den Landepunkt für Kordon zu berechnen, brauch ich eine "Rubin-Sprungfeder".\n \nDas ist ein sehr seltenes Artefakt, aber Syak hat mir mal eins versprochen... Ich hab ihm mal aus der Klemme geholfen... Also geh zu ihm...</text>
 		</string>
 		<string id="teleport_10_dialog_2">
-			<text>Okay, I'll go long, I have not seen Syak...</text>
+			<text>Gut, werd ich machen, wollte Syak sowieso mal besuchen...</text>
 		</string>
 		<string id="teleport_10_dialog_3">
-			<text>No, do not go, can then...</text>
+			<text>Jetzt nicht, vielleicht später...</text>
 		</string>
 		<string id="tex_doktor_teleport_10">
-			<text>\nThe Doctor needs a unique Ruby Spring artefact. with its help he can teleport to calculate the cordon. Springs had promised to give Syak, a trader from the Radar</text>
+			<text>\n \n \n \n \n \nDer Sumpfdoktor braucht ein einzigartiges Artefakt. Ein "Rubin-Sprungfeder"-Artefakt, damit kann er ein Teleport-Landepunkt für Kordon berechnen. So ein "Sprungfeder"-Artefakt hat ihm Syak, Händler im Radar, versprochen.</text>
 		</string>
 		<string id="teleport_102_dialog_0">
-			<text>Here I am, hello Doctor...</text>
+			<text>Hier bin ich wieder... Hallo, Doktor...</text>
 		</string>
 		<string id="teleport_102_dialog_1">
-			<text>back? How are you?</text>
+			<text>Schon zurück?... Wie geht es dir?</text>
 		</string>
 		<string id="teleport_102_dialog_2">
-			<text>had a Syaka it to you "ruby spring" passed</text>
+			<text>Hab Syak besucht, er gab mir ein "Rubin-Sprungfeder"-Artefakt für dich...</text>
 		</string>
 		<string id="teleport_102_dialog_3">
-			<text>Well, now you can hit the road to Cordon. I have a "Crystal" is, hold here...</text>
+			<text>Schön, jetzt kann man nach Kordon "springen". Ich hab ein "Kristall" für dich, hier...</text>
 		</string>
 		<string id="teleport_103_dialog_0">
-			<text>welcome Syak, long not seen...</text>
+			<text>Hallo Syak, lange nicht gesehen...</text>
 		</string>
 		<string id="teleport_103_dialog_1">
-			<text>Healthy Marked One, as life...</text>
+			<text>Hallo, Gezeichneter. Was macht das Leben?</text>
 		</string>
 		<string id="teleport_103_dialog_2">
-			<text>Doctor sent to you, says you have "Ruby spring"?</text>
+			<text>Der Doktor schickt mich. Er sagt - du hättest für ihn ein "Rubin-Sprungfeder"-Artefakt versprochen?</text>
 		</string>
 		<string id="teleport_103_dialog_3">
-			<text>Yes, yes, of course, for all the doctors are... Here, hello him to convey...</text>
+			<text>Ja, ja, sicher... Für den Doktor tue ich alles... Hier hast du es  und grüße ihn von mir...</text>
 		</string>
 		<string id="teleport_11_dialog_0">
-			<text>Where else can use the teleport to get?</text>
+			<text>Wo kann man noch per Teleporter hin gelangen?</text>
 		</string>
 		<string id="teleport_11_dialog_1">
-			<text>As I said, this still possible on Yantar and Warehouses teleport</text>
+			<text>Wie ich schon sagte, von hier aus noch nach Jantar und zu den Armeelagerhäusern.</text>
 		</string>
 		<string id="teleport_11_dialog_4">
-			<text>So what's the problem? You can now see Kruglov?</text>
+			<text>Und wo liegt das Problem? Ich würde gern schnell mit Kruglov sprechen...</text>
 		</string>
 		<string id="teleport_11_dialog_5">
-			<text>To calculate Zabroski at Yantar needs a "Ruby battery". This is a very rare artefact... If you have no "Batteries", then I think, Kruglov knows - where to find it... He boasted as much over a glass of tea... Go to him...</text>
+			<text>Na ja, um ein Teleport nach Jantar auszurichten, brauche ich ein  "Rubin-Batterie"-Artefakt. Das ist ein verdammt sehr seltenes Artefakt... Wenn du diese Artefakt nicht hast, so könnte Kruglov es wissen, wo so eins zu finden ist... Jedenfalls hat er mal bei einer Tasse Tee so rumgeprahlt... Frag ihn danach...</text>
 		</string>
 		<string id="teleport_11_dialog_2">
-			<text>thought teleport to use, but oh well, so he'd get...</text>
+			<text>Tja, wollte mich, eigentlich, dahin teleportieren... Dann geh ich nochmal zu Fuß dahin...</text>
 		</string>
 		<string id="teleport_11_dialog_3">
-			<text>No, do not go, can then...</text>
+			<text>Jetzt nicht, vielleicht später...</text>
 		</string>
 		<string id="tex_doktor_teleport_11">
-			<text>\nThe Doctor needs a unique artefact, Ruby Battery, with its help he can calculate the teleport at Yantar. Kruglov knows where to find this artefact</text>
+			<text>\n \n \n \n \n \nDer Sumpfdoktor braucht ein einzigartiges Artefakt. "Rubin-Batterie"! Damit kann er ein Teleport-Landepunkt für Jantar berechnen. Kruglov könnte wissen, wo so ein Artefakt zu finden ist.</text>
 		</string>
 		<string id="teleport_112_dialog_0">
-			<text>Here I am, hello Doctor...</text>
+			<text>Da bin ich wieder... Ich grüße dich, Doktor...</text>
 		</string>
 		<string id="teleport_112_dialog_1">
-			<text>Back? How are you?</text>
+			<text>Ah, zurück. Wie läuft's bei dir?</text>
 		</string>
 		<string id="teleport_112_dialog_2">
-			<text>I found "Ruby battery", here it is</text>
+			<text>Schön, ich hab ein "Rubin-Batterie"-Artefakt, hier ist es...</text>
 		</string>
 		<string id="teleport_112_dialog_3">
-			<text>Well, now you can teleport to Yantar. I have a "Mica", here take it...</text>
+			<text>Ausgezeichnet, jetzt kann man nach Jantar "springen". Ich hab dafür ein "Mika" Artefakt für dich, hier...</text>
 		</string>
 		<string id="teleport_113_dialog_0">
-			<text>Hello, martyr of science, had not seen each...</text>
+			<text>Hallo, lange nicht gesehen..</text>
 		</string>
 		<string id="teleport_113_dialog_1">
-			<text>Healthy Marked One, as life...</text>
+			<text>Glück auf, Gezeichneter... Was macht das Leben?</text>
 		</string>
 		<string id="teleport_113_dialog_2">
-			<text>Doctor sent you, says you have "Ruby battery"?</text>
+			<text>Ach, der Doktor schickt mich. Er sagt - du hast eine "Rubin-Batterie"-Artefakt?</text>
 		</string>
 		<string id="teleport_113_dialog_3">
-			<text>No, I do not have... I have heard that there is one place on the radar screen, where this artefact sometimes appears...</text>
+			<text>Nein, hab ich leider nicht mehr... Aber ich kenne ein Platz im Roten Wald, wo dieses Artefakt ab und zu auftaucht...</text>
 		</string>
 		<string id="teleport_113_dialog_4">
-			<text>And where is that?</text>
+			<text>Und wo ist es?</text>
 		</string>
 		<string id="teleport_113_dialog_5">
-			<text>If you go from warehouses along the way, before turning to the left, there is a small safe wooded corner for a couple of boulders... They look...</text>
+			<text>Wenn man, von den Armeelagerhäusern aus, der Straße folgt, ist vor der Linkskurve ein kleines, sicheres Wäldchen... Da muß man suchen, hinter den paar Felsen...</text>
 		</string>
 		<string id="teleport_113_dialog_6">
-			<text>Thanks, I'll try to find it...</text>
+			<text>Danke, ich versuche es zu finden...</text>
 		</string>
 		<string id="teleport_12_dialog_0">
-			<text>And how do you get to the warehouses?</text>
+			<text>Und wie kann ich zu den Armeelagerhäusern "springen"?</text>
 		</string>
 		<string id="teleport_12_dialog_1">
-			<text>To calculate you also need a unique artefact</text>
+			<text>Um das zu berechnen benötige ich ein einzigartiges Artefakt.</text>
 		</string>
 		<string id="teleport_12_dialog_4">
-			<text>Which?</text>
+			<text>Welches?</text>
 		</string>
 		<string id="teleport_12_dialog_5">
-			<text>To calculate Zabroski Warehouses need to "Ruby Pellicle". This is a very rare artefact... If you do not have this artefact, then I think Baldy can know - where to find it... He is constantly in Bar drunk... Go to it...</text>
+			<text>Dafür brauch ich ein "Rubin Pellicula". Es sehr selten... Falls du keins hast, so könnte "Baldy" wissen, wo ein zu finden ist. Er hängt ständig in der Bar rum... Frag ihn mal...</text>
 		</string>
 		<string id="teleport_12_dialog_2">
-			<text>thought teleport to use, but oh well, so he'd get...</text>
+			<text>Wollte mich, eigentlich, dahin teleportieren... Dann Latsch ich mal dahin</text>
 		</string>
 		<string id="teleport_12_dialog_3">
-			<text>No, do not go, can then...</text>
+			<text>Ich geh mal später hin...</text>
 		</string>
 		<string id="tex_doktor_teleport_12">
-			<text>\nThe Doctor needs a unique Ruby Pellicle artefact, with its help he can calculate the teleport to the warehouses. Baldy knows where to find this artefact</text>
+			<text>\n \n \n \n \n \nDer Sumpfdoktor braucht ein einzigartiges Artefakt. Es ist das "Rubin-Pellicula"-Artefakt. Damit kann er ein Sprung zu den  Armeelagerhäusern berechnen. "Baldy" weiß, wo man so ein Artefakt finden kann.</text>
 		</string>
 		<string id="teleport_122_dialog_0">
-			<text>Here I am, hello Doctor...</text>
+			<text>Hallo Doktor, da bin ich wieder..</text>
 		</string>
 		<string id="teleport_122_dialog_1">
-			<text>Back? How are you?</text>
+			<text>Ah endlich. Wie läuft es bei dir?</text>
 		</string>
 		<string id="teleport_122_dialog_2">
-			<text>I found "Ruby Pellicle", here it is</text>
+			<text>Danke gut. Ich hab das "Rubin-Pellicula" gefunden, hier ist es.</text>
 		</string>
 		<string id="teleport_122_dialog_3">
-			<text>Well, now you can teleport to warehouses. I have a "soul", here take it...</text>
+			<text>Nun kann man sich zu den Armeelagerhäusern teleportieren. Ich das Artefakt "Seele", du kannst es haben. hier...</text>
 		</string>
 		<string id="teleport_123_dialog_0">
-			<text>Big guy can be a couple of words...</text>
+			<text>Hey, Kumpel! Kann ich mal mit dir reden?..</text>
 		</string>
 		<string id="teleport_123_dialog_1">
-			<text>And you do not get sick, he wanted?</text>
+			<text>Was gib's?</text>
 		</string>
 		<string id="teleport_123_dialog_2">
-			<text>Doctor sent to you, says you have "Ruby Pellicle"?</text>
+			<text>Der Doktor schickte mich zu dir. Sagte, du hättest ein "Rubin-Pellicula"-Artefakt.</text>
 		</string>
 		<string id="teleport_123_dialog_3">
-			<text>No, I do not have now... I stashed it in wild territory, in a secluded place... I will tell you where, if you give me an artefact of "symbiote"...</text>
+			<text>Nein, das hab ich nicht hier... Hab's im Wildgebiet versteckt, schön sicher... Wenn du mir ein "Symbion" besorgst, sag ich dir wo...</text>
 		</string>
 		<string id="teleport_123_dialog_4">
-			<text>I have a "symbiote", take it...</text>
+			<text>Ich habe das "Symbion", hier hast du es...</text>
 		</string>
 		<string id="teleport_123_dialog_5">
-			<text>Then listen, I put the artefact on the roof of this small transformer station just above the underground passage located between the railroad tracks...</text>
+			<text>Dann hör gut zu... Dieses "Rubin-Pellicula" hab ich auf dem Dach eines Trafo-Häuschens versteckt, das bei der Bahnunterführung zwischen den Gleisen steht, </text>
 		</string>
 		<string id="teleport_123_dialog_6">
-			<text>Thanks, I'll try to find it...</text>
+			<text>Danke, ich versuch's zu finden.</text>
 		</string>
 		<string id="teleport_123_dialog_7">
-			<text>No I do not have "symbiote" but I know how to make one... Don't go anywhere, I'll be back.</text>
+			<text>In Moment hab ich kein "Symbion", aber ich weiß, wie man es herstellt... Warte hier auf mich, ich bin bald zurück...</text>
 		</string>
 		<string id="about_life_heart_11_dialog_0">
-			<text>So what? Is there information on "Living Heart"?</text>
+			<text>Also was? Gibt es Informationen zu dem "Lebenden Herz"?</text>
 		</string>
 		<string id="about_life_heart_11_dialog_1">
-			<text>Not so fast son... There are a few hints and a lot of encrypted text...\nMentioned the Living Heart artefact, which can give life back... This artefact is not found in finished form, it must modify several components...</text>
+			<text>Nicht so schnell, mein Sohn... Es gibt ein paar Hinweise und eine Menge ist verschlüsselter Text...\nHier wird ein Artefakt namens  "Lebendes Herz" erwähnt. Es kann die Toten wiederbeleben... Dieses Artefakt kommt nicht einfach so in der Zone vor, es muß aus  mehreren Komponenten hergestellt werden...</text>
 		</string>
 		<string id="about_life_heart_11_dialog_2">
-			<text>And what are the components?</text>
+			<text>Was für Komponente?</text>
 		</string>
 		<string id="about_life_heart_11_dialog_3">
-			<text>First - "Golden Fish", on the other said nothing, only very brief phrase that one of those traders may know...</text>
+			<text>Zuerst - ein "Goldfisch"-Artefakt. Hmm -  über die anderen steht hier nichts drin. Hier ist eine kleine Randbemerkung. Vielleicht wissen die Händler was darüber..</text>
 		</string>
 		<string id="about_life_heart_11_dialog_4">
-			<text>Traders? Who? Sidor? Sak? Can Miser?</text>
+			<text>Händler? Welcher denn? Sidorowitsch? Sak? Miser?</text>
 		</string>
 		<string id="about_life_heart_11_dialog_5">
-			<text>Miser? No, it is unlikely... And he and Sak and Petrenko recently in jail... But Sidorovich and Bartender, yes, they know a lot... And Sakharovs not forget, though he learned, and information traded in a long time...</text>
+			<text>Miser? Nein, der bestimmt nicht... Er, sowie Sak und Petrenko sind noch nicht lange genug in der Zone... Aber Sidorowitsch und der Wirt, die kennen sich hier sehr gut aus... Und man sollte den alten Sakharov nicht vergessen, er ist zwar ein Wissenschaftler, verkauft aber schon lange hier in der Zone nützliche Infos und andre Sachen.</text>
 		</string>
 		<string id="about_life_heart_11_dialog_6">
-			<text>So Sidorovich, bartender and Sakharov... Okay, Im going to shake the can and see what falls out...</text>
+			<text>Also Sidorowitsch, Wirt und Sakharov... Gut, dann werde ich denen mal auf den Zahn fühlen.</text>
 		</string>
 		<string id="about_life_heart_11_dialog_7">
-			<text>Go... Meanwhile I will try to decipher somebody else... Come back</text>
+			<text>Gut, mach das... Ich ich versuche in der zwischenzeit noch einiges  zu entziffern... Komm heil zurück.</text>
 		</string>
 		<string id="about_life_heart_11_dialog_8">
-			<text>I'll be back soon!</text>
+			<text>Das werde ich. Bis dann!</text>
 		</string>
 		<string id="about_life_heart_51_dialog_0">
-			<text>Hello, Dr... I'm back.</text>
+			<text>Hallo, Doktor... Ich bin zurück...</text>
 		</string>
 		<string id="about_life_heart_51_dialog_1">
-			<text>Hello, sonny. I see in good health and apparently with good news?</text>
+			<text>Ich grüße dich, Sohn. Ich sehe, du bist gesund und hast wohl gute Nachrichten?</text>
 		</string>
 		<string id="about_life_heart_51_dialog_2">
-			<text>I found the components of "living heart"!</text>
+			<text>Ich kenne jetzt die Komponente für das "Lebende Herz"!</text>
 		</string>
 		<string id="about_life_heart_51_dialog_3">
-			<text>Excellent, good luck... Don't keep to yourself, what?</text>
+			<text>Exzellent, das ist wirklich eine gute Nachricht... welche sind es?</text>
 		</string>
 		<string id="about_life_heart_51_dialog_4">
-			<text>A 'Goldfish' still needs an 'Urchin', a 'Night Star', and a 'Dummy', but how it's transmuted - no one said...</text>
+			<text>Außer ein "Goldfisch"-Artefakt braucht man noch ein "Seeigel", ein "Nachtstern" und ein "Muschel"-Artefakft. Aber wie genau man diese zusammensetzt - das wußte von denen auch keiner...</text>
 		</string>
 		<string id="about_life_heart_51_dialog_5">
-			<text>In this I can help you... I decrypted a piece of text saying: ingredients must be thrown into the anomaly "Snow".</text>
+			<text>Da kann ich helfen. In dem Textstück, das ich entschlüsseln konnte, steht - die Komponenten muß man in die Anomalie "Eissturz" werfen...</text>
 		</string>
 		<string id="about_life_heart_51_dialog_6">
-			<text>In "snowballs" it means... And how do you activate the "Living Heart"?</text>
+			<text>In die "Eissturz" Anomalie also... Und wie aktiviert man das "Lebende Herz"?</text>
 		</string>
 		<string id="about_life_heart_51_dialog_7">
-			<text>Rumored - to put it right on the chest of the deceased and, if his soul is pure, then it returns life to the body...\nthe return of your memory is not always definite...</text>
+			<text>Gerüchten zufolge - legt man so ein "Lebended Herz" dem Toten auf die Brust, und wenn seine Seele rein war, dann kehrt sie in den Körper zurück... \nDas Erinnerungsvermögen aber wohl nicht immer....</text>
 		</string>
 		<string id="about_life_heart_51_dialog_8">
-			<text>Thank you for your humanity...</text>
+			<text>Ich danke dir für dein Vertrauen...</text>
 		</string>
 		<string id="about_life_heart_21_dialog_0">
-			<text>Hey bartender, can I talk to you...</text>
+			<text>Hallo, Wirt. Ich muss mit dir sprechen...</text>
 		</string>
 		<string id="about_life_heart_21_dialog_1">
-			<text>And to you greetings... I've heard - you've been in the Sarcophagus? Seen any Monolith?</text>
+			<text>Sei gegrüßt... Was gibs - du warst im Sarkophag? Hast du den  Monolith gesehen?</text>
 		</string>
 		<string id="about_life_heart_21_dialog_2">
-			<text>I saw some monolith, nothing special - Kamenyuki lights and noise in my head.</text>
+			<text>Den Monolith hab ich gesehen, nichts besonderes - ein großer leuchtender Stein und verdammt viel geräusche im Kopf...</text>
 		</string>
 		<string id="about_life_heart_21_dialog_3">
-			<text>A desire to trade something?</text>
+			<text>Hast du auch ein Wunsch geäußert?</text>
 		</string>
 		<string id="about_life_heart_21_dialog_4">
-			<text>No, wise men dissuaded me... I came to you about something else...</text>
+			<text>Ach Nein, kluge Leute haben mich davon abgebracht... Aber ich bin wegen was anderem hier...</text>
 		</string>
 		<string id="about_life_heart_21_dialog_5">
-			<text>I'm listening</text>
+			<text>Ich höre.</text>
 		</string>
 		<string id="about_life_heart_21_dialog_6">
-			<text>There's a rumor that you are familiar with the components of the recipe for conversion of the Living Heart artefact?</text>
+			<text>Es gibt ein Gerücht, das du die Komponenten für das Artefakt "Lebendes Herz" kennst. Ist das wahr?</text>
 		</string>
 		<string id="about_life_heart_21_dialog_7">
-			<text>Nonsense... I've heard about half an ear about this artefact... It seems that some want to throw something far...\nBUT! About one component I precisely know...</text>
+			<text>Alles Schwachsinn... Hab nur flüchtig was über dieses Artefakt gehört... Irgendwas muß man irgendwo reinwerfen... \nABER! Eine Komponente ist genau bekannt... auch wenn ich nicht so ein Unfug glaube</text>
 		</string>
 		<string id="about_life_heart_21_dialog_8">
-			<text>And what component?</text>
+			<text>Und welche ist das?</text>
 		</string>
 		<string id="about_life_heart_21_dialog_9">
-			<text>Well... Information just does not flow out of my mouth... Want to know - do the work...</text>
+			<text>Na jetzt wird es heikel! Du kennst es doch. Informationen gibt es nicht einfach so... Wenn du es wissen willst - verdiene es dir.</text>
 		</string>
 		<string id="about_life_heart_21_dialog_10">
-			<text>And what you need?</text>
+			<text>Wie eh und jeh .. was brauchst du?</text>
 		</string>
 		<string id="about_life_heart_21_dialog_11">
-			<text>I was asked to find a man... Academic... He disappeared somewhere in Pripyat with important data...\nIf you find out about his fate and bring back this data, you can learn about the required artefact...</text>
+			<text>Man hat mich gebeten, eine Person ausfindig zu machen... Einen Wissenschaftler... Ist irgendwo in Prypjat mit wichtigen Messdaten verschwunden... \nWenn du was über sein Schicksal herausfindest und die Daten beschaffst - erzähle ich dir über das nötige Artefakt...</text>
 		</string>
 		<string id="about_life_heart_21_dialog_12">
-			<text>Okay, I find this scientist...</text>
+			<text>Gut, ich werde diesen Wissenschaftler finden.</text>
 		</string>
 		<string id="about_life_heart_21_dialog_13">
-			<text>Come back later to this conversation</text>
+			<text>Lass uns später nochmal darüber reden...</text>
 		</string>
 		<string id="about_life_heart_22_dialog_0">
-			<text>So I'm back, hello...</text>
+			<text>So, ich bin aus Prypjat zurück...</text>
 		</string>
 		<string id="about_life_heart_22_dialog_1">
-			<text>Hello... What happened to the scientist then?</text>
+			<text>Hallo... Und, was ist mit dem Wissenschaftler?</text>
 		</string>
 		<string id="about_life_heart_22_dialog_2">
-			<text>I found him, apparently he and the controller did not get along - died of starvation... He has a PDA that's only been...</text>
+			<text>Ich Hab ihn gefunden... Er hat wohl ein Treffen mit einem Telepathen gehabt und ist - verhungert... Hab sein PDA mitgenommen...</text>
 		</string>
 		<string id="about_life_heart_22_dialog_3">
-			<text>Hm... AREA... No one - so would get another... Thank you... I have heard that "The heart" with the Night Star artefact gets... That's it...</text>
+			<text>Ä-äch... Zone... Irgendwas kriegt dich immer... Ich danke dir. Ich hab gehört, das man ein "Lebendes Herz" mit der Hilfe des  "Nachtsterns" bekommt... So - nun sind wir quitt</text>
 		</string>
 		<string id="about_life_heart_22_dialog_4">
-			<text>"Night Star" means... Well, good luck...</text>
+			<text>"Nachtstern" also... Alles klar, ja sind wir...</text>
 		</string>
 		<string id="about_life_heart_31_dialog_0">
-			<text>Hello Professor... Can I ask you some questions?</text>
+			<text>Hallo, Professor... Kann ich Sie was fragen?</text>
 		</string>
 		<string id="about_life_heart_31_dialog_1">
-			<text>Hello, long time no see... Been in the Chernobyl nuclear power plant have you?</text>
+			<text>Hallo, lange nicht gesehen... Waren Sie beim AKW?</text>
 		</string>
 		<string id="about_life_heart_31_dialog_2">
-			<text>Yes, ran... Didn't see much no time to...</text>
+			<text>Na ja, flüchtig... Konnte kaum was erforschen...</text>
 		</string>
 		<string id="about_life_heart_31_dialog_3">
-			<text>Pity the information from there is lacking... And you wanted to know?</text>
+			<text>Schade, wir haben so wenige Informationen darüber... was wolltest  du von mir wissen?</text>
 		</string>
 		<string id="about_life_heart_31_dialog_4">
-			<text>In Sarcophagus I found PDA experienced stalker, and this PDA refers to an artefact resuscitating...</text>
+			<text>Im Sarkophag hab ich ein PDA von einen erfahrenen Stalker gefunden, da stand was über ein Artefakt drin...welches imstande ist jemanden wiederzubeleben... </text>
 		</string>
 		<string id="about_life_heart_31_dialog_5">
-			<text>Ah-ah! "The heart"? We heard about this... Even trying to collect more accurate information, but failed...</text>
+			<text>Oh-Ha! Das "Lebende Herz"? Ich habe schon einges darüber in der Zeit gehört... Wir haben sogar versucht detaillierte Infos darüber zu sammeln und ich habe mir jeden - moment - moment - wo ist es denn.. a-h-h hier. Wir konnten aber nicht sehr viel darüber in Erfahrung bringen...</text>
 		</string>
 		<string id="about_life_heart_31_dialog_6">
-			<text>Yet know all the components of the recipe changes, you do not know?</text>
+			<text>Und wissen sie nichts über die Komponenten, wie man es herstellt?</text>
 		</string>
 		<string id="about_life_heart_31_dialog_7">
-			<text>We were able to accurately determine only one ingredient...</text>
+			<text>Also .. Hundertprozentig konnten wir nur eine Komponente bestimmen...</text>
 		</string>
 		<string id="about_life_heart_31_dialog_8">
-			<text>And what is it?</text>
+			<text>Und?</text>
 		</string>
 		<string id="about_life_heart_31_dialog_9">
-			<text>You see, I certainly will give you this information, but I wish that you would help me get data on the situation near Chernobyl...</text>
+			<text>Achso .. Hier steht es - Moment? Also, ich würde es dir ja sagen, aber dafür möchte ich, das du mir hilfst ein paar Infos über die Lage beim AKW zu sammeln...</text>
 		</string>
 		<string id="about_life_heart_31_dialog_10">
-			<text>How?</text>
+			<text>Wie soll ich das denn machen?</text>
 		</string>
 		<string id="about_life_heart_31_dialog_11">
-			<text>Install monitoring unit as close to the station. Better even within...</text>
+			<text>Du muß ein Monitoring-Gerät sehr nah an das AKW anbringen und installieren. Am besten sogar im Inneren...</text>
 		</string>
 		<string id="about_life_heart_31_dialog_12">
-			<text>Again Chernobyl... Well, let's block</text>
+			<text>Schon wieder AKW... Na gut. Geben Sie das Gerät her.</text>
 		</string>
 		<string id="about_life_heart_31_dialog_13">
-			<text>Professor, I'd rest a bit...</text>
+			<text>Professor, ich würde mich gern erst ausruhen...</text>
 		</string>
 		<string id="about_life_heart_32_dialog_0">
-			<text>So I'm back, hello.</text>
+			<text>Ich grüße Sie. ich bin wieder zurück. </text>
 		</string>
 		<string id="about_life_heart_32_dialog_1">
-			<text>Hello... Thank you for the work, the data we have is.</text>
+			<text>Hallo! Danke für ihre Arbeit, die Daten aus dem AKW kommen zuverlässig hier an...</text>
 		</string>
 		<string id="about_life_heart_32_dialog_2">
-			<text>You're welcome, what's with the ingredients?</text>
+			<text>Sehr gern... Also, was ist mit dieser Komponente?</text>
 		</string>
 		<string id="about_life_heart_32_dialog_3">
-			<text>Probably the main component to be converted into "Living Heart" is an Urchin artefact...</text>
+			<text>Eines der Hauptkomponente für das "Lebende Herz" ist ein Artefakt das auf den namen "Seeigel" hört.</text>
 		</string>
 		<string id="about_life_heart_32_dialog_4">
-			<text>'Urchin'. Say goodbye...</text>
+			<text>"Seeigel", also. Vielen dank und auf Wiedersehen...</text>
 		</string>
 		<string id="about_life_heart_41_dialog_0">
-			<text>Hello Sidor... How's life?</text>
+			<text>Hallo, Sidorowitsch... Wie gehts?</text>
 		</string>
 		<string id="about_life_heart_41_dialog_1">
-			<text>Cool and you, muzzle with a crack... It must be what?</text>
+			<text>Grüß dich, Schaue Fern und du störst.. Was willst du?</text>
 		</string>
 		<string id="about_life_heart_41_dialog_2">
-			<text>Not rude, healthier you will... On the "living heart" that you know?</text>
+			<text>Immer gleich so Aggressiv.. Du bist schon ein erfahrener alter Hase hier in der Zone. Was weißt du über das Artefakt "Lebende Herz"?</text>
 		</string>
 		<string id="about_life_heart_41_dialog_3">
-			<text>Well, basically the same as everyone - there is an artefact that can resurrect the dead... Nobody really saw it, just rumors... It seems to be to throw some artefacts in some anomalies and thus did not think about death, then these artefacts are transformed into "The heart"...</text>
+			<text>Jetzte wird es interressant. Moment - ich mach den Fernseher leise. Also im Prinzip habe ich davon schon gehört - Ja. Es soll Tote wieder zum Leben erwecken... aber noch keiner hat es jemals gesehen, es gab immer nur - Gerüchte... Frag doch mal die Zombies. Die kommen ständig ins Leben zurück wie du in meinen Bunker. Wenn das alles ist und du nichts zu verkaufen hast .. Meine Sendung läuft..</text>
 		</string>
 		<string id="about_life_heart_41_dialog_4">
-			<text>And what artefact's that?</text>
+			<text>Alles klar ... Sidorowitsch?. Ich brauche ne Info was muss ich tun?</text>
 		</string>
 		<string id="about_life_heart_41_dialog_5">
-			<text>God knows... I only know that Ghost is looking for a single artefact, for the "Living Heart "...</text>
+			<text>Das hört sich schon besser an. Machen wir gleich mal ein Deal.</text>
 		</string>
 		<string id="about_life_heart_41_dialog_6">
-			<text>And what is it?</text>
+			<text>Was schwebt dir den vor?</text>
 		</string>
 		<string id="about_life_heart_41_dialog_7">
-			<text>So, harsh and ungrateful, just for what he said...</text>
+			<text>He-He! Da ist aber jemand ungeduldig. Warte die Pausen ab.</text>
 		</string>
 		<string id="about_life_heart_41_dialog_8">
-			<text>How much do you want?</text>
+			<text>Also was nun? Geld. Wieviel?</text>
 		</string>
 		<string id="about_life_heart_41_dialog_9">
-			<text>Money??? Money here are - for me ugh and rub... Now, if one found a Night Star and braught it to me, then it will be possible to talk...</text>
+			<text>Geld? Du kennst mich echt nicht? Das ist für mich doch nur Papier... Wenn du für mich eine Spezielle Sache erledigst, dann reden wir...</text>
 		</string>
 		<string id="about_life_heart_41_dialog_10">
-			<text>Which artefact and where?</text>
+			<text>Okay, wo - und - welches Artefakt?</text>
 		</string>
 		<string id="about_life_heart_41_dialog_11">
-			<text>In the Radar, deep in the rusty forest disappeared one experienced stalker... His artefact was amusing, though very dangerous and harmful to health...\nIn general you need to find the container with this artefact... Where exactly - I do not know...</text>
+			<text>Du kennst mich doch ein wenig. Beim Radar, tief im Roten Wald ist ein erfahrener Stalker verschwunden... Er hatte ein interessantes Artefakt bei sich, sehr gefährlich und gesundheitsschädlich... \nLange Rede, kurzer Sinn - Du mußt den Schutzbehälter mit dem Artefakt finden... Wo genau er ist - weiß ich nicht... Irgendwo im Roten Wald.</text>
 		</string>
 		<string id="about_life_heart_41_dialog_12">
-			<text>Here Blinn... Nothing just do not get... Already in the way...</text>
+			<text>Junge, Junge... Nichts bekommt man hier umsonst... Bin schon unterwegs...</text>
 		</string>
 		<string id="about_life_heart_41_dialog_13">
-			<text>For the money she is not, well, well... Sidor then.</text>
+			<text>Für Geld also nicht? Dann hock du hier weiter rum...</text>
 		</string>
 		<string id="about_life_heart_42_dialog_0">
-			<text>I have the box...</text>
+			<text>So, Ich habe die box ...</text>
 		</string>
 		<string id="about_life_heart_42_dialog_1">
-			<text>And what I do... He brought it?</text>
+			<text>Hast du also was mitgebracht? Das Ist ja wie in alten zeiten.</text>
 		</string>
 		<string id="about_life_heart_42_dialog_2">
-			<text>Here's your box, barely found it... Tell me about "The heart"!</text>
+			<text>Hier ist dein Behälter, der war echt schwer zu finden... Nun erzähl was über das "Lebende Herz"!</text>
 		</string>
 		<string id="about_life_heart_42_dialog_3">
-			<text>Ghosts searching for the artefact Pops, said that Strelok...</text>
+			<text>Ok. Hör zu - man muß wohl bestimmte Artefakte in eine bestimmte Anomalie werfen und dabei nicht an den Tod denken, dann bilden diese Artefakte ein "Lebendes Herz".\n \nIch kann mich noch daran  erinnern als wäre es gestern. "Ghost" hat damals nach einem speziellen Artefakt - wie verrückt gesucht. Er sagte ständig er hätte was verdammt ungewöhnliches herausgefunden. Aber er braucht dringend dieses Verdammte Artefakt - "Muschel". Damals war das noch nicht so verbreitet mit dem herstellen von Artefakten. "Ghost" erwähnte auch - er braucht es für Strelok...</text>
 		</string>
 		<string id="about_life_heart_42_dialog_4">
-			<text>"Miming"... For me ?.</text>
+			<text>Wie Für mich?..</text>
 		</string>
 		<string id="strelok_pda1_dialog_0">
-			<text>Ehh... How many good men taken by the Zone...</text>
+			<text>Ach man... Viele gute Männer hat die Zone geholt...</text>
 		</string>
 		<string id="strelok_pda1_dialog_1">
-			<text>is exactly... I thought, and you too will not see more...</text>
+			<text>Stimmt... Ich dachte, dich würde ich auch nicht mehr wieder sehen...</text>
 		</string>
 		<string id="strelok_pda1_dialog_2">
-			<text>Yes-ah... Sorry - no one can return...</text>
+			<text>Ja... Schade, das man keinen ins Leben zurückholen kann...</text>
 		</string>
 		<string id="strelok_pda1_dialog_3">
-			<text>In fact, a persistent rumor goes - there is a special miracle artefact, "The heart" is called... And like you have in your PDA, even the way it was for...</text>
+			<text>Eigentlich geht ein hartnäckiges Gerücht um, das es ein Wunder-Artefakt gibt, nennt sich "Lebendes Herz"... Und du hattest ja, glaube ich, sogar ein Rezept dafür auf deinem PDA...</text>
 		</string>
 		<string id="strelok_pda1_dialog_4">
-			<text>I? In this PDA?</text>
+			<text>Ach! Ich? - Auf diesen PDA?</text>
 		</string>
 		<string id="strelok_pda1_dialog_5">
-			<text>No not in this, in which you are with me in the last sortie of the Chernobyl took! Maybe he'll be able to find...\nAnd more... I do not know exactly where your old PDA - in Sarcophagus or not... At least search it must be exactly there.\nWhen going to something in the sarcophagus?</text>
+			<text>Nein, nicht auf diesem... Auf dem, den du bei deinem letzten Gang zum AKW dabei hattest! Vielleicht hast du ihn dort verloren...Vielleicht auch wo anders\n \nUnd noch was... Früher hast du immer ein "Goldfisch" zum AKW mitgenommen... Weiß nicht, vielleicht als Gücksbringer.. \n \nWann brichst du wieder zum Sarkophag auf?</text>
 		</string>
 		<string id="strelok_pda1_dialog_6">
-			<text>thought with the dawn, tomorrow...</text>
+			<text>Wahrscheinlich morgen, beim Sonnenaufgang...</text>
 		</string>
 		<string id="strelok_pda1_dialog_7">
-			<text>where emissions are often, but you can predict the window between them... Now is the time to go - can not wait until tomorrow</text>
+			<text>Die Eruptionen kommen da sehr oft, aber man kann ein Fenster dazwischen berechnen... Dafür braucht man das Artefakt "Smaragd Qualle"... Wenn du es mir bringst - werde ich dir sagen können, wann du mehr genügend Zeit zwischen den Eruptionen hast...</text>
 		</string>
 		<string id="strelok_pda1_dialog_8">
-			<text>Okay, then I go, I hope I'll see you...</text>
+			<text>Gut, werde ich finden... Ich kenne ein Ort, wo diese "Smaragd Qualle" ab und zu gebildet wird.</text>
 		</string>
 		<string id="strelok_pda2_dialog_0">
-			<text>Here I am Doctor! I've got the "Emerald Medusa"</text>
+			<text>Da bin ich wieder, Doktor! Mit der "Smaragd-Qualle"...</text>
 		</string>
 		<string id="strelok_pda2_dialog_1">
-			<text>excellent, judging by the intensity of abnormal vibration of surfaces, if you go right now - you will have about an hour before the next release... So delay not...\nAbout "Goldfish" do not forget...</text>
+			<text>Exzellent... Den Spannungen von anomalen Vibrationsoberflächen zufolge - wenn du dich jetzt sofort auf den Weg machst, hast du zirka eine Stunde bis zur nächsten Eruption - im AKW... Also, beeil dich lieber...\nUnd vergiss den "Goldfisch" nicht...</text>
 		</string>
 		<string id="strelok_pda2_dialog_2">
-			<text>Well, never forget... I ran...</text>
+			<text>Nein, vergesse ich nicht... Bin los...</text>
 		</string>
 		<string id="strelok_pda3_dialog_0">
-			<text>Doctor, I found the PDA. It turns out I left it with the miner! But I can't read it...</text>
+			<text>Doktor, ich hab den PDA gefunden! Dieser war beim "Miner". Ich hatte ihn wohl dagelassen. Die Luftfeuchtigkeit hat das gerät ganz schön zugesetzt. Nichts ist lesbar..</text>
 		</string>
 		<string id="strelok_pda3_dialog_1">
-			<text>Here... Let me try...</text>
+			<text>Lass mich mal versuchen...</text>
 		</string>
 		<string id="strelok_pda3_dialog_2">
-			<text>take it.</text>
+			<text>Hier..</text>
 		</string>
 		<string id="strelok_pda_info_text">
-			<text>Fixed teleport at Monolith, activated goldfish. To do this, stand directly in front of monolith and throw the artefact in. Open teleport entered into which you find yourself in a hangar Chernobyl...\nGood luck to you, an unknown stalker...\n.\nStrelok</text>
+			<text>\n \n \n \n \n \nStalker! \n \nKeiner von denen, die ihr Wunsch dem Monolithen geäußert haben, hatten je überlebt! Es ist eine Täuschung für Naive!\n \nEs gibt nur zwei Wege hier raus:\nDer erste - die codegeschützte Tür zu finden, wo es dann weiter geht.\nDer zweite - man kann zurückkehren... Dafür stellt man sich genau vor dem Monolithen und wirft davor ein "Goldfisch" auf den Boden. Es entsteht dann ein Teleporter, der dich in den Hangar von dem AKW bringt...\n \nViel Glück, unbekannter Stalker...\n \nStrelok.</text>
 		</string>
 		<string id="enc_strelok_pda_text">
-			<text>To open the Sarcophagus teleport to NPP1 you need to throw a Goldfish into the Monolith...</text>
+			<text>\n \n \n \n \n \nFür die Erzeugung eines Teleporters im "Sarkophag - AKW 1" muß man ein "Goldfisch"-Artefakt vor dem großen Monolithen platzieren.</text>
 		</string>
 		<string id="tex_about_life_heart">
-			<text>Strelok's PDA mentions that the ingredients for "Living Heart" is known by traders. You should try to find out everything Barman, Sakharov and Sidorovich know. Then, talk with The Doctor</text>
+			<text>\n \n \n \n \n \nIn Streloks PDA gibt es ein Hinweis darüber, das die Händler was über die Komponenten des Wunderartefaktes "Lebendes Herz" wissen.  Man sollte Sidorowitsch, Sacharow und den Wirt befragen. Und dann mit dem Sumpfdoktor sprechen.</text>
 		</string>
 		<string id="tex_life_heart_sahar">
-			<text>Sakharov sent a set of monitoring unit near Chernobyl. This unit should be installed in the hangar (where the entrance to the Sarcophagus) near the railway wagon. In gratitude, Sakharov will tell you everything he knows about the 'Living Heart'</text>
+			<text>\n \n \n \n \n \nSacharow möchte ein Monitoring-Gerät beim AKW installiert haben. Dieses soll ich am besten beim Hangar, bei dem Sarkophag-Eingang, neben dem Eisenbahnwaggon, platzieren. Als Dank wird Sakharov alles erzählen, was er über das "Lebende Herz" weiß.</text>
 		</string>
 		<string id="tex_life_heart_sidor">
-			<text>Sidorovich gives nothing for nothing... He agreed to exchange the information available to him on the "living heart" on the container with the artefact, which was lost in the woods rusty, on the radar</text>
+			<text>\n \n \n \n \n \nSidorowitsch rückt nichts umsonst raus... Er ist bereit die Informationen über das "Lebende Herz" gegen ein Schutzbehälter mit einem Artefakt, der im Roten Wald verloren ging, einzutauschen.</text>
 		</string>
 		<string id="tex_life_heart_barman">
-			<text>Bartender can tell ingredient recipe for "Living Heart", but he needs to know the fate of the scientist, who disappeared along with the data collected in Pripyat...</text>
+			<text>\n \n \n \n \n \nDer Wirt kann eine Komponente für das Artefakt "Lebendes Herz" nennen, aber er möchte im gegenzug erst wissen, was mit dem Wissenschaftler passiert ist, der, zusammen mit gesammelten Daten, im Prypjat verschwand...</text>
 		</string>
 		<string id="tex_strelok_pda">
-			<text>The doctor has information that Strelok knew about how to obtain the artefact "Living Heart". This information should be on Strelok's PDA. It may be located in the Sarcophagus, somewhere near the famous monolith, but the information may be incorrect</text>
+			<text>\n \n \n \n \n \nDoktor sagt, das Strelok wußte, wie man das Wunderartefakt "Lebendes Herz" erzeugen kann. Diese Information ist auf dem PDA von Strelok - mir gespeichert. Wahrscheinlich blieb der PDA im Sarkophag zurück, irgendwo neben dem berühmten Monolithen.</text>
 		</string>
 		<string id="tex_strelok_pda2">
-			<text>The Doctor can calculate the time between emissions, but he needs an Emerald Medusa artefact. There is only one place where you can find this artefact...</text>
+			<text>\n \n \n \n \n \nDer Sumpfdoktor kann die Zeit der Eruptionen im AKW-Gebiet berechnen. Dafür braucht er das Artefakt - "Smaragd-Qualle". Es gibt nur ein Ort, wo man so ein Artefakt finden kann...</text>
 		</string>
 		<string id="doctor_dialog_start_11">
-			<text>Hello, how do you feel?</text>
+			<text>Ich grüße dich... Wie fühlst du dich?</text>
 		</string>
 		<string id="doctor_dialog_start_12">
-			<text>I feel like shit, actually... And who are you then?... the Doctor? The Astrologer sends his greetings - he said that he'll meet you just north of the railway bridge... at the abandoned farm... do you know me?... have we met before?</text>
+			<text>-- WIRD NICHT BENUTZT --</text>
 		</string>
 		<string id="doctor_dialog_start_13">
-			<text>Yes, I am the Doctor... many call me the Swamp Doctor. I lived in the swamp for a while... which is what the Cordon used to be. Who are you?! yes, I know who you are... but, until you remember yourself I will not say... There is a cave, a lone Miner resides there... his name is "Shakhtar" whom you must find. Be wary of the burning gas, and the mutants... as they are aplenty. Drink this here concoction I've made from some swamp grasses... it will help you... remember... a cave... find the Miner... he will help you further... and as for me... I must go and meet with the Astrologer</text>
+			<text>-- WIRD NICHT BENUTZT --</text>
 		</string>
 		<string id="doctor_dialog_start_21">
-			<text>Hello again Marked One. Did you find what you were looking for?</text>
+			<text>Ich sehe, dir geht es schon besser... Kannst du dich schon an irgendwas erinnern?</text>
 		</string>
 		<string id="doctor_dialog_start_22">
-			<text>No, I don't remember much... but, I had this dream about a Cave... I gave "Shakhtar" the things he requested... said he needed. Have you ever heard about such a Cave?!</text>
+			<text>Nein, ich erinnere mich nicht ...Oh-man! Aber ich hatte diesen heftigen Traum von einer Höhle, Mutanten, Anomalien ... Ich gab dem "Miner" die Dinge, die er verlangte ... er sagte, das er sie bräuchte. Sagen Sie. Haben sie jemals von einer solchen Höhle gehört?!</text>
 		</string>
 		<string id="doctor_dialog_start_23">
-			<text>I have heard of it... but, first you must try to remember who you are... Will you find come find me then? I'm going with Zvedochet on an excursion to the center of the Zone...</text>
+			<text>Hmm.. Ja tatsächlich. Ich habe davon gehört.. Du mußt dich aber  versuchen an die Geschehnisse zu erinnern - Wer bist du? ... Wenn du mich später aufsuchen willst? Ich gehe mit dem "Astrologen" richtung Zentrum der Zone...</text>
 		</string>
 		<string id="val_bandit_dialog_0">
-			<text>What!?... pretty shitty, actually... and you?</text>
+			<text>Was ist, gehts dir schlecht?</text>
 		</string>
 		<string id="val_bandit_dialog_1">
-			<text>Help me man, you will not regret it!!</text>
+			<text>Hilf mir! Ich schwöre bei Mama, du bereust es nicht!</text>
 		</string>
 		<string id="val_bandit_dialog_2">
-			<text>Fuck you... Everyone's better off with you dead...</text>
+			<text>Strib endlich! Du nervst. Kein Verlust, wenn du abkratzt.</text>
 		</string>
 		<string id="val_bandit_dialog_3">
-			<text>Here, take this medkit...</text>
+			<text>Hör auf zu jammern. Deine Mama ist nicht hier. Hier - ein Medikit.</text>
 		</string>
 		<string id="val_bandit_dialog_4">
-			<text>I wish I could help you, but I just used my last medkit</text>
+			<text>Ach Mist - nur hab ich mein letztes Medikit verbraucht.</text>
 		</string>
 		<string id="val_bandit_dialog_5">
-			<text>You're all right, Stalker... If you are interested, talk with Borov, our leader. He runs things from our base in the Dark Valley...</text>
+			<text>Hammer! Ich danke dir. Ich stecke in deiner Schuld. Ich werd den Kumpels sagen, das du voll in Ordnung bist! Wenn du uns mal besuchst, rede mit "Borov" unseren Anführer, er hält hier das ganze Dunkle Tal zusammen.</text>
 		</string>
 		<string id="val_bandit_dialog_6">
-			<text>Borov? I'll have a word with him... when I see him</text>
+			<text>"Borov"? Genau den suche ich. Ich muss mit ihm reden...</text>
 		</string>
 	</string_table>
-<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 20.03.2017 08:30:06 -->
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 21.03.2017 07:36:01 -->

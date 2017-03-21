@@ -20,6 +20,7 @@ gibt.
 - dmx_mod_items
 - dmx_mod_weapons		<- (Waffen Todo: Details)**
 - meceniy_st_dialogs	<- (2 - 3 items, die im Nachhinein Überprüfr werden müssen)
+- sak_strings 
 - string_table_general
 - ui_st_inventory
 - ui_st_keybinding
@@ -34,7 +35,7 @@ Bei der Flut an Waffen und Zusätzen fehlt die Genauigkeit.
 		//=================================================================================//
 
 		XML Dateien, Fast Fertig oder in Arbeit:
-		- sak_strings (Aktuell)
+		- sak_strings_trade.xml (Aktuell)
 		- aem_strings
 		- ui_st_pda
 		- tb3d_dialogs_arhara_start

@@ -2,8 +2,8 @@ Für Enziklopädie Texte die zu kurz sind. 1-6 Sätze, Quick Return zeichen
 ========================================================================================
 \n \n \n \n \n \n 
 \n \n \n (Für Städte)
-
-
+  
+  
 Sonderzeichen für die Stalker Texte
 ========================================================================================
 Das '&' zeichen wird nicht dargestellt. Schreiben muss man es als: 
@@ -250,6 +250,9 @@ sak_strings.xml			-> artmod_541_dialog_00 Was ist nicht dort?
 sak_strings.xml			-> sak_hello_dialog_4 ?? Was ist im Gange. Prozess?
 sak_strings.xml			-> enc_af_vyvert_green Was für eine Anomalie "Brawn?"
 sak_strings.xml			-> enc_af_blood_green Was für eine Anomalie "Brawn?"
-
+sak_strings.xml			-> teleport_yantar_dialog_46. Stimmt das mit den Teleportern
+sak_strings.xml			-> teleport_escape_dialog_324, Muss überprüft werden
+sak_strings.xml			-> doctor_dialog_start_12, Die begegnugng mit dem Dokto gibt es schon
+sak_strings.xml			-> doctor_dialog_start_13, Die begegnugng mit dem Dokto gibt es schon
 
 string_table_general.xml-> item_sniper_flash_name Das Item muss überprüft werden
