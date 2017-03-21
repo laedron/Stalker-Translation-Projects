@@ -255,4 +255,6 @@ sak_strings.xml			-> teleport_escape_dialog_324, Muss überprüft werden
 sak_strings.xml			-> doctor_dialog_start_12, Die begegnugng mit dem Dokto gibt es schon
 sak_strings.xml			-> doctor_dialog_start_13, Die begegnugng mit dem Dokto gibt es schon
 
+sak_strings_trade.xml	-> esc_provodnik_sak, Name "Guide" Tatsächlich "Führer". Irgendwie Komisch
+
 string_table_general.xml-> item_sniper_flash_name Das Item muss überprüft werden
