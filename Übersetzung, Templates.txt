@@ -255,6 +255,16 @@ sak_strings.xml			-> teleport_escape_dialog_324, Muss überprüft werden
 sak_strings.xml			-> doctor_dialog_start_12, Die begegnugng mit dem Dokto gibt es schon
 sak_strings.xml			-> doctor_dialog_start_13, Die begegnugng mit dem Dokto gibt es schon
 
-sak_strings_trade.xml	-> esc_provodnik_sak, Name "Guide" Tatsächlich "Führer". Irgendwie Komisch
 
+sak_strings_trade.xml	-> bar_docent_npc_dialog_2, Das muss geprüft werden
+sak_strings_trade.xml	-> esc_provodnik_sak, Name "Guide" Tatsächlich "Führer". Irgendwie Komisch
+sak_strings_trade.xml	-> trade_dialog_sidor_522, 10%, das muss ich mir ansehen
+sak_strings_trade.xml	-> trade_dialog_sidor_532, 10% für Waffen. 
+sak_strings_trade.xml	-> trade_dialog_barman_522,  10%, das muss ich mir ansehen
+sak_strings_trade.xml	-> trade_dialog_barman_532, 10% für Waffen. 
+sak_strings_trade.xml	-> trade_dialog_petrenko_252, Anzüge (OYAG-9D/ OYAG-91D "Universal Schutz"! )
+sak_strings_trade.xml	-> trade_dialog_petrenko_31, Was für Scharfschützen dinger (Fest oder Random)
+sak_strings_trade.xml	-> trade_dialog_sakharov_222 Gauss/Supergaus Munition
+sak_strings_trade.xml	-> trade_dialog_skraga_522, 10%-Reperatur Kits
+sak_strings_trade.xml	-> trade_dialog_skraga_532, 10%-Reparaturkits
 string_table_general.xml-> item_sniper_flash_name Das Item muss überprüft werden
