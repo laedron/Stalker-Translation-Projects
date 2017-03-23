@@ -19,9 +19,12 @@ gibt.
 - dmx_mod_encyclopedia
 - dmx_mod_items
 - dmx_mod_weapons		<- (Waffen Todo: Details)**
-- meceniy_st_dialogs	<- (2 - 3 items, die im Nachhinein Überprüfr werden müssen)
+- meceniy_st_dialogs	<- (2 - 3 items, die im Nachhinein noch Überprüft werden müssen)
 - sak_strings 
 - string_table_general
+- string_table_tips
+- string_table_tutorial
+-  
 - ui_st_inventory
 - ui_st_keybinding
 
