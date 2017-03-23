@@ -1266,676 +1266,747 @@
 			<text>Alles Klar. Ich denke ich habe es verstanden.</text>
 		</string>
 		<string id="trade_dialog_sak_0">
-			<text>I need some equipment</text>
+			<text>Ich bräuchte bessere Ausrüstung, hast du was?</text>
 		</string>
 		<string id="trade_dialog_sak_1">
-			<text>You understand for trade only artefacts are accepted... What exactly is necessary?</text>
+			<text>Sicher, aber gute Sachen gibts nur gegen vernünftige, gut erhaltene Artefakte.\n \nWas genau brauchst du?</text>
 		</string>
 		<string id="trade_dialog_sak_2">
-			<text>Cartridges, grenades, a bullet-proof vest...</text>
+			<text>1. Patronen, Granaten, ein Anzug?.</text>
 		</string>
 		<string id="trade_dialog_sak_3">
-			<text>Good weapons...</text>
+			<text>2. Eine mehr als gute Waffe.</text>
 		</string>
 		<string id="trade_dialog_sak_4">
-			<text>First-aid...</text>
+			<text>3. Medikamente, Schutzmittel.</text>
 		</string>
 		<string id="trade_dialog_sak_5">
-			<text>Repair sets...</text>
+			<text>4. Reparatur-Ausrüstungs Kit.</text>
 		</string>
 		<string id="trade_dialog_sak_21">
-			<text>I Can offer:\n1. Sniper cartridges for an artefact a Meat Chunk;\n2. Cartridges 9x39 to the Shaft and Vintorez for an artefact of Gravi;\n3. Charges for the Gauss for an artefact Fireball;\n4. Excellent Army SKAT-10 for armor for 3 Urchin artefacts</text>
+			<text>Ich kann dir folgendes anbieten:\n \n
+1. - Scharfschützen-Munition für das "Fleischklumpen"-Artefakt\n
+2. - 9x39mm Munition für die "Val" und "BCC/VCC Vintorez" gegen "Gravit"\n
+3. - Ladungen für "Gauss"-Waffen gegen "Feuerball"\n
+4. - Ein Spezial-Panzeranzug der Armee - SKAT-10, Spitzenqualität, gegen "Seeigel"-Artefakte.\n \nAlso was ist?</text>
 		</string>
 		<string id="trade_dialog_sak_54">
-			<text>Nothing at the moment, thanks...</text>
+			<text>Im moment erstmal doch nichts.</text>
 		</string>
 		<string id="trade_dialog_sak_22">
-			<text>Sniper cartridges how many?</text>
+			<text>Welche Scharfschützen-Munition hast du?</text>
 		</string>
 		<string id="trade_dialog_sak_23">
-			<text>Vintorez cartridges I will take</text>
+			<text>Munition für "Vintorez" brauche ich dringend.</text>
 		</string>
 		<string id="trade_dialog_sak_24">
-			<text>Gauss, how many?</text>
+			<text>Für "Gauss"? Wieviel willst du genau dafür?</text>
 		</string>
 		<string id="trade_dialog_sak_25">
-			<text>SKAT10 armor, how much?</text>
+			<text>SKAT-10 Anzug? Wieviele Artefakte willst du dafür?</text>
 		</string>
 		<string id="trade_dialog_sak_222">
-			<text>The Bullet 7x13 has big enough (under sniper requirements) dispersion even on average distances, however, possesses the raised penetrative action.\n7N1 (CENTRAL PROCESSING UNIT) - the regular sniper cartridge in 2-3 times exceeds 7N13 on dispersion indicators. However, does not possess high penetrative properties.\nOn a shooting grouping 7N14 it is equivalent to a sniper cartridge 7N1, however, considerably surpasses it in armor-piercing action, thanks to introduction in a design of a bullet of the pointed tempered steel core.\nFor one artefact a Meat Chunk I give two packs of simple either sniper cartridges, or one pack of the armor-piercing... What you will choose?</text>
+			<text>Da wäre\n \n
+7H13 - Einfache Munition, hat ziemlich große Streuung.\n \n
+7H1 -- Präzisionsmunition, hat 2 bis 3 mal niedrigere Streuungswerte, als 7H13. Aber die panzerbrechende Wirkung ist nicht sehr hoch.\n \n
+7H14 - Ebenbürtig der 7H1-Munition, was Streuung angeht, aber, besitzt ein gehärteten Stahlkern, viel höhere panzerbrechende Wirkung...\n \n
+Für ein "Fleischklumpen"-Artefakt bekommst du 2 einfache oder 2 Präzisions Päckchen, oder ein Päckchen von der Panzerbrechende 7H14.\n \nWas möchtest du?</text>
 		</string>
 		<string id="trade_dialog_sak_221">
-			<text>Give simple, two packs...</text>
+			<text>2 Päckchen von den 7H13 "Einfach".</text>
 		</string>
 		<string id="trade_dialog_sak_2211">
-			<text>Exact sniper cartridges are necessary...</text>
+			<text>2 Päckchen von der 7H1 "Präzision".</text>
 		</string>
 		<string id="trade_dialog_sak_2212">
-			<text>I Will take armor-piercing, they are exact and lethal...</text>
+			<text>Ich nehme die Panzerbrechenden 7H14, präzise und tödlich.</text>
 		</string>
 		<string id="trade_dialog_sak_232">
-			<text>Five packs simple either four sniper or three armor-piercing for one Gravi... choose?</text>
+			<text>Für BCC/VCC Vintorez also.\n \n
+Für ein "Gravit"-Artefakt gibt es 5 Päckchen einfache, oder 4 Päckchen "Sniper" also Präzision Munition, oder 3 Päckchen panzerbrechende.\n \nWelche nimmst du?</text>
 		</string>
 		<string id="trade_dialog_sak_231">
-			<text>Give five simple.</text>
+			<text>5 Päckchen von der "Einfachen" Munition.</text>
 		</string>
 		<string id="trade_dialog_sak_2311">
-			<text>Sniper I will take.</text>
+			<text>4 Päckchen von der "Präzision" Munition.</text>
 		</string>
 		<string id="trade_dialog_sak_2312">
-			<text>Armor-piercing - they bring down the Bloodsucker.</text>
+			<text>3 Päckchen von der "Panzerbrechenden". Sind gut gegen Blutsauger.</text>
 		</string>
 		<string id="trade_dialog_sak_242">
-			<text>One completely charged node for one artefact Fireball...</text>
+			<text>Okay! Also eine volle "Gauss"-Ladung gegen ein "Feuerball"- Artefakt.\n \nIst das Ordnung für dich?</text>
 		</string>
 		<string id="trade_dialog_sak_241">
-			<text>I agree, here's a Fireball</text>
+			<text>Kein Problem, hier der "Feuerball" für dich.</text>
 		</string>
 		<string id="trade_dialog_sak_252">
-			<text>Three Urchins and the SKAT10 is yours...</text>
+			<text>Anzüge sind nicht billig!\n \nDrei "Seeigel" Artefakte und der SKAT-10 Anzug gehört dir.\nOk</text>
 		</string>
 		<string id="trade_dialog_sak_251">
-			<text>Here's three Urchins...</text>
+			<text>Hier, hab genug von den "Seeigel"-Artefakten.</text>
 		</string>
 		<string id="trade_dialog_sak_666">
-			<text>Do not have it, another time perhaps...</text>
+			<text>Zurzeit sieht es schlecht aus, ein anderes Mal.</text>
 		</string>
 		<string id="trade_dialog_sak_31">
-			<text>I can offer a special Vintorez (BCC Vintorez) intended for silence and suppressed flash for sniper shooting, supplied with integrated muffler...</text>
+			<text>Tja.. Ich kann dir im Moment, nur ein Spezial-Scharfschützengewehr Variante der "BCC/VCC Vintorez" anbieten. Mit integrierten Schalldämpfer, bestens geeignet für einsätze wo man nicht so - auf fallen will.</text>
 		</string>
 		<string id="trade_dialog_sak_32">
-			<text>And what do you ask for it?</text>
+			<text>Und was willst du dafür haben?</text>
 		</string>
 		<string id="trade_dialog_sak_33">
-			<text>Saiga - that's quite something!.</text>
+			<text>Saiga ist eine feine Flinte!n \n \n \n \n \n(*)das ist ein wenig "Merkwürdig" es geht um eine Vintorez und plötzlich ist es eine Saiga Waffe!</text>
 		</string>
 		<string id="trade_dialog_sak_322">
-			<text>Only one Crystal... agree?</text>
+			<text>Für nur ein "Kristall"-Artefakt.\n \nEinverstanden?</text>
 		</string>
 		<string id="trade_dialog_sak_321">
-			<text>I agree!!</text>
+			<text>Einverstanden!!!</text>
 		</string>
 		<string id="trade_dialog_sak_332">
-			<text>Saiga only in exchange for a Meat Chunk... Sound Good!?</text>
+			<text>Die Saga nur gegen ein "Fleischklumpen"-Ar
+tefakt.\n \nWillst du sie haben?</text>
 		</string>
 		<string id="trade_dialog_sak_331">
-			<text>Yes, a Meat Chunk is not a rarity...</text>
+			<text>Sicher, "Fleischklumpen" habe ich genug.</text>
 		</string>
 		<string id="trade_dialog_sak_41">
-			<text>I have only military first-aid sets.</text>
+			<text>Zurzeit habe ich nur die Militärischen Medikits auf Lager.</text>
 		</string>
 		<string id="trade_dialog_sak_42">
-			<text>And what you ask?</text>
+			<text>Und gegen was tauschst du diese?</text>
 		</string>
 		<string id="trade_dialog_sak_43">
-			<text>You won't survive for long in the Zone without vodka...</text>
+			<text>Den Wodka. Ohne kommt man in der Zone nicht weit.</text>
 		</string>
 		<string id="trade_dialog_sak_422">
-			<text>For three first-aid sets one the Crystal Prickle... agree?</text>
+			<text>Also gut!\n \nFür drei Militärische-Medikits möchte ich ein "Dornenkristall"-Artefakt. Einverstanden?</text>
 		</string>
 		<string id="trade_dialog_sak_421">
-			<text>I agree...</text>
+			<text>Alles klar.</text>
 		</string>
 		<string id="trade_dialog_sak_432">
-			<text>Five bottles in exchange for a Quirk... You Take?</text>
+			<text>Wodka - hmmm\n \nFünf Flaschen gegen das Artefakt "Gepresstes".\n \nOK?</text>
 		</string>
 		<string id="trade_dialog_sak_431">
-			<text>I agree....</text>
+			<text>Klar, nehme ich.</text>
 		</string>
 		<string id="trade_dialog_sak_51">
-			<text>While I can offer:\n1. Repair kits for armor for an artefact Flash</text>
+			<text>Das hab ich für dich:\n \n
+1. Reparatur Kits für Anzüge im austausch gegen das Artefakt "Blitz"</text>
 		</string>
 		<string id="trade_dialog_sak_52">
-			<text>And how many complete sets?</text>
+			<text>Wieviele Reparatur Kits sind es?</text>
 		</string>
 		<string id="trade_dialog_sak_53">
-			<text>For Weapons are necessary.</text>
+			<text>Schade. Für Waffen bräuchte ich es dringender.</text>
 		</string>
 		<string id="trade_dialog_sak_522">
-			<text>For three ten-percentage complete sets one Flash... agree?</text>
+			<text>Drei 10%-Reparatur Kits gegen ein "Blitz".\n \nEinverstanden?</text>
 		</string>
 		<string id="trade_dialog_sak_521">
-			<text>I agree...</text>
+			<text>Na gut, was soll's.</text>
 		</string>
 		<string id="trade_dialog_sak_532">
-			<text>Three ten-percentage weapon complete sets in exchange for a Stone Flower... You Take?</text>
+			<text>Drei 10%-Waffen-Kits im Tausch gegen "Steinblume". OK?</text>
 		</string>
 		<string id="trade_dialog_sak_531">
-			<text>Yes, I will take....</text>
+			<text>Ja, nehme ich. Das mit den Waffen ist immer so eine Sache da draußen</text>
 		</string>
 		<string id="trade_dialog_doktor_0">
-			<text>Im looking for some equipment...</text>
+			<text>Doktor? Hören sie. Ich brauche Ausrüstung.</text>
 		</string>
 		<string id="trade_dialog_doktor_1">
-			<text>I can help, unfortunately artefacts are necessary... What did you want to find?</text>
+			<text>Ich helfe dir gern - wie ich kann - aber leider werden dafür Artefakte gebraucht. Natürlich unverbrauchte, oder wenigstens kaum gebrauchte. Was schwebt dir so vor?</text>
 		</string>
 		<string id="trade_dialog_doktor_2">
-			<text>Cartridges...</text>
+			<text>1. Munition</text>
 		</string>
 		<string id="trade_dialog_doktor_3">
-			<text>Good Weapons...</text>
+			<text>2. Waffen</text>
 		</string>
 		<string id="trade_dialog_doktor_4">
-			<text>First-aid...</text>
+			<text>3. Medikamente</text>
 		</string>
 		<string id="trade_dialog_doktor_5">
-			<text>Repair sets...</text>
+			<text>4. Reparaturkit</text>
 		</string>
 		<string id="trade_dialog_doktor_21">
-			<text>From ammunition I can offer:\n1. Cartridges for shot-guns for an artefact Thorn;\n2. Grenades RGD-5 for an artefact Slime;\n3. Cartridges 5,56x39 mm for a Droplet artefact;\n4. Cartridges 7,62x39 mm for an artefact Flash.</text>
+			<text>An Munition habe ich folgendes:\n \n
+1. - Patronen für Schrotflinten und Pumpguns gegen "Dorn" \n
+2. - RGD-5 Granaten gegen "Schleim" \n
+3. - 5.56x39mm Munition gegen "Tropfen" \n
+4. - 7.62x39mm Munition gegen "Blitz".</text>
 		</string>
 		<string id="trade_dialog_doktor_54">
-			<text>Nothing for now, thanks...</text>
+			<text>Wissen Sie, vielleicht später.</text>
 		</string>
 		<string id="trade_dialog_doktor_22">
-			<text>Give shot-gun shells, how many you will give?...</text>
+			<text>Schrot. Wieviel können Sie mir geben?</text>
 		</string>
 		<string id="trade_dialog_doktor_23">
-			<text>I need Grenades...</text>
+			<text>Granaten</text>
 		</string>
 		<string id="trade_dialog_doktor_24">
-			<text>Cartridges for NATO weapons I will take...</text>
+			<text>Die 5.56x39mm Munition.</text>
 		</string>
 		<string id="trade_dialog_doktor_25">
-			<text>AK-47 cartridges...</text>
+			<text>Die 7.62x39mm Munition.</text>
 		</string>
 		<string id="trade_dialog_doktor_222">
-			<text>For five packs of shot-gun shells a Thorn... agree?</text>
+			<text>Für fünf Päckchen Schrot möchte ich ein "Dorn" -Artefakt haben.\n \nEinverstanden?</text>
 		</string>
 		<string id="trade_dialog_doktor_221">
-			<text>Yes I agree...</text>
+			<text>Einverstanden Doktor.</text>
 		</string>
 		<string id="trade_dialog_doktor_232">
-			<text>Five grenades for one Slime... You accept?</text>
+			<text>Granaten - dafür bekommen ein "Schleim"-Aertefakt.\n \nWillst du die immer noch haben?</text>
 		</string>
 		<string id="trade_dialog_doktor_231">
-			<text>I need Grenades.</text>
+			<text>Sicher. Granaten brauche ich.</text>
 		</string>
 		<string id="trade_dialog_doktor_242">
-			<text>Three packs of cartridges - Droplet artefact... You want?</text>
+			<text>Also 3 Päckchen 5.56x39mm Munition für das Artefakt "Tropfen".\n \nOK?</text>
 		</string>
 		<string id="trade_dialog_doktor_241">
-			<text>I accept...</text>
+			<text>Ja, ohne komm ich nicht aus.</text>
 		</string>
 		<string id="trade_dialog_doktor_252">
-			<text>Three packs of cartridges - Flash... agree?</text>
+			<text>Drei Päckchen 7.62x39mm Munition.. sagen wir ein "Blitz"-Artefakt.\n \nEinverstanden?</text>
 		</string>
 		<string id="trade_dialog_doktor_251">
-			<text>Yes, the stopping power is tremendous!...</text>
+			<text>Ja, nehm ich. Gute Durchschlagskraft.</text>
 		</string>
 		<string id="trade_dialog_doktor_666">
-			<text>Do not have it, another time perhaps...</text>
+			<text>Nein, ein anderes Mal.</text>
 		</string>
 		<string id="trade_dialog_doktor_31">
-			<text>While I can offer:\n1. Sniper SiG. This weapon was created for conducting fights in the urban conditions. To facilitate weight, some components have been machined or replaced, the weight has decreased almost twice, deterioration of the weapon - minimum. The weapon is supplied by an un-removable optical sight of the raised frequency rate... I Will trade for artefacts Mica;\n2. Old, kind, and reliable AK-47 for the Soul artefact.</text>
+			<text>Waffen hab ich diese hier für dich:\n \n
+1. - Scharfschützen-SIG. Für den Einsatz als Scharfschützengewehr modifiziert und mit einer fest montierten Zielvorrichtung mit erhöhtem Fokus ausgestattet. Um das Gewicht zu verringern, wurden einige Teile ersetzt oder entfernt. Gewicht wurde dadurch fast halbiert, Laufabnutzung minimiert.  Gebe ich für "Mika"-Artefakte ab. \n \n
+2. Ein bewährtes und zuverlässiges AK-47 gegen eine "Seele".</text>
 		</string>
 		<string id="trade_dialog_doktor_32">
-			<text>And how many artefacts for the sniper SIG?</text>
+			<text>Wieviele Artefakte möchten Sie für die Sniper-SIG?</text>
 		</string>
 		<string id="trade_dialog_doktor_33">
-			<text>AK-47!! give it to me!!</text>
+			<text>Erstmal eine AK-47. Die langt mir erstmal.</text>
 		</string>
 		<string id="trade_dialog_doktor_322">
-			<text>Three Micas and the SIG is yours...</text>
+			<text>Dafür nehme ich 3 "Mika"-Artefakte und die SIG gehört dir.</text>
 		</string>
 		<string id="trade_dialog_doktor_321">
-			<text>Here take these artefacts...</text>
+			<text>Hier, bitte, sind die Artefakte.</text>
 		</string>
 		<string id="trade_dialog_doktor_332">
-			<text>Soul that is?</text>
+			<text>Für das Artefakt "Seele" gebe ich sie dir?\n \nIst das Ok?</text>
 		</string>
 		<string id="trade_dialog_doktor_331">
-			<text>Is available, have specially reserved...</text>
+			<text>Ja.. so ein Artefakt konnte ich noch aufbewahren. Bitte.</text>
 		</string>
 		<string id="trade_dialog_doktor_41">
-			<text>While I can offer:\n1. First-aid sets for an artefact Slug;\n2. Antirad, for an artefact Stone Flower.</text>
+			<text>Das könnte ich entbehren:\n \n
+1. - Medikits tausche ich gegen "Schnecke" \n
+2. - Strahlenschutz-Mittel "Antirad" gegen "Steinblume".</text>
 		</string>
 		<string id="trade_dialog_doktor_42">
-			<text>First-aid sets for what?</text>
+			<text>Was für Medikits sind das?</text>
 		</string>
 		<string id="trade_dialog_doktor_43">
-			<text>Antirad! how many?</text>
+			<text>Wieviele "Antirad's" haben Sie?</text>
 		</string>
 		<string id="trade_dialog_doktor_422">
-			<text>Three Scientific sets for one Slug... agree?</text>
+			<text>Bei mir bekommste du nur wie üblich Forscher-Medikits, drei Stück für das Artefakt "Schnecke".\n \nEinverstanden?</text>
 		</string>
 		<string id="trade_dialog_doktor_421">
-			<text>I agree...</text>
+			<text>Einverstanden.</text>
 		</string>
 		<string id="trade_dialog_doktor_432">
-			<text>Five Antirad in exchange for one Stone Flower... You want?</text>
+			<text>Ich gebe dir 5 von dem Strahlenschutzhemmenden Mittel. Im Austausch gegen das Artefakt "Steinblume".\n \nWas meinst du?</text>
 		</string>
 		<string id="trade_dialog_doktor_431">
-			<text>I accept...</text>
+			<text>Ja, ich nehm gern.</text>
 		</string>
 		<string id="trade_dialog_doktor_51">
-			<text>I have only Repair kits for weapons.</text>
+			<text>Ich habe für dich leider nur Waffen Reparatur Kits.</text>
 		</string>
 		<string id="trade_dialog_doktor_52">
-			<text>For armor I will take.</text>
+			<text>Für den Anzug nehm ich.</text>
 		</string>
 		<string id="trade_dialog_doktor_53">
-			<text>And what do you want for them?</text>
+			<text>Was möchtest du dafür?</text>
 		</string>
 		<string id="trade_dialog_doktor_522">
-			<text>For three ten-percentage complete sets one Gravi... agree?</text>
+			<text>Für drei 10%-Reparaturkist ein "Gravit".\n \nEinverstanden?</text>
 		</string>
 		<string id="trade_dialog_doktor_521">
-			<text>I agree...</text>
+			<text>Einverstanden, wenn's nicht anders geht.</text>
 		</string>
 		<string id="trade_dialog_doktor_532">
-			<text>Three ten-percentage weapon complete sets in exchange for a the Crystal Prickle... You want?</text>
+			<text>Für drei 10%-Waffen-Reparaturkits möchte ich ein "Dornenkristall" haben. OK?</text>
 		</string>
 		<string id="trade_dialog_doktor_531">
-			<text>Yes, I will take.</text>
+			<text>Ja, die nehme ich.</text>
 		</string>
 		<string id="trade_dialog_jlob_0">
-			<text>Hi, who are you?</text>
+			<text>Wer bist du denn? Warum hängst du hier rum?</text>
 		</string>
 		<string id="trade_dialog_jlob_11">
-			<text>My name's Core. I'm in charge of provisions here. We're looking for people who can get food for us. I can make it worth your while...</text>
+			<text>Mein name ist "Core" und ich bin hier zuständig dafür das die Leute was zu essen Bekommen. Wir suchen immer welche die mit uns unsere Vorräte aufüllen. Hast du Zeit?Es lohnt sich..</text>
 		</string>
 		<string id="trade_dialog_jlob_12">
-			<text>What do you need? And what are you offering?</text>
+			<text>Was brauchst du? Und was kannst du mir anbieten?</text>
 		</string>
 		<string id="trade_dialog_jlob_1">
-			<text>We don't need any money or artefacts. Those Duty bastards are trying to cut off our supplies and starve us out. And so far they have been doing a good job of it. What we need is food and fresh water. If you can get some beer and cigars that would be great also.</text>
+			<text>Was wir nicht brauchen ist Geld. Das ist quasi wertlos für uns. Auch Artefakte brauchen wir nicht. Es geht bei uns nur um Verpflegung und Lebensmittel\n \nDiese "Wächter"-Schweine versuchen uns an den Auffüllen unserer Vorräte zu hindern. Mit der Zeit gelingt ihnen das immer besser ausserdem verdirbt hier immer alles so schnell - verdammt.\n \nSag mal hast du nicht ein Bier  oder'ne Zigaette. Ich habe ein Schmachter..\n \nAber was brauchst du denn?</text>
 		</string>
 		<string id="trade_dialog_jlob_2">
-			<text>What kind of cartridges do you offer?</text>
+			<text>1. Munition. Hast du was da?</text>
 		</string>
 		<string id="trade_dialog_jlob_3">
-			<text>Do you have any good weapons?</text>
+			<text>2. Waffen. Also gute.</text>
 		</string>
 		<string id="trade_dialog_jlob_4">
-			<text>What kind of medical supplies do you have?</text>
+			<text>3. Medizinische Versorgung.</text>
 		</string>
 		<string id="trade_dialog_jlob_5">
-			<text>Do you have any repair sets?</text>
+			<text>4. Reparatur-Zeug's.</text>
 		</string>
 		<string id="trade_dialog_jlob_21">
-			<text>For cartridges:\n1. Five Sandwich gets you one 5.45x39mm Cartridges\n2. Two Bar of chocolate gets you one RGD-5 Grenade\n3. Two 100*Rads gets you one 9x19mm +P+ Cartridges\n4.Five Bread gets you one F1 Grenade</text>
+			<text>Munition hab ich ein bisschen:\n \n
+1. - 5.45x39mm gegen fünf Sandwiche
+2. - RGD-Granate für zwei Tafeln Schokolade \n
+3. - 9x19mm Panzerbrechende Muniton für 2 100 Rads\n
+4. - F-1 Granate für fünf Brote.</text>
 		</string>
 		<string id="trade_dialog_jlob_54">
-			<text>Nothing to trade today...</text>
+			<text>Im Moment brauch ich doch nichts.</text>
 		</string>
 		<string id="trade_dialog_jlob_22">
-			<text>I will take the cartridges for the AK-74...</text>
+			<text>Sandwiche für 5.45x39mm Munition. Dann.</text>
 		</string>
 		<string id="trade_dialog_jlob_23">
-			<text>I need the RGD-5 Grenades...</text>
+			<text>Ich brauche die RGD-5 Granate.</text>
 		</string>
 		<string id="trade_dialog_jlob_24">
-			<text>I'll take the 9x19 armor piercing please...</text>
+			<text>Ich nehme die Panzerbrechende 9x19mm Munition.</text>
 		</string>
 		<string id="trade_dialog_jlob_25">
-			<text>I will take the F-1 grenade.</text>
+			<text>Brot für die Welt. Ich will die F-1 Granate.</text>
 		</string>
 		<string id="trade_dialog_jlob_222">
-			<text>Give me the sandwich first and then you can have your cartridges.</text>
+			<text>OK. Erst die Sandwiche dann gib ich dir die Munition.\n \nOk.</text>
 		</string>
 		<string id="trade_dialog_jlob_221">
-			<text>Yes, here they are...</text>
+			<text>Ihr müsst ganz schön Kohldampf haben. Hier.</text>
 		</string>
 		<string id="trade_dialog_jlob_232">
-			<text>These are my favorite!</text>
+			<text>Das sind meine Lieblinge!</text>
 		</string>
 		<string id="trade_dialog_jlob_231">
-			<text>I'll see if I can get you some more.</text>
+			<text>Hier, riech mal dran. Gib die Granate schon her.</text>
 		</string>
 		<string id="trade_dialog_jlob_242">
-			<text>Energy drinks are needed here...</text>
+			<text>Wir müssen hier auf Draht bleiben. Her mit Energy Dosen.</text>
 		</string>
 		<string id="trade_dialog_jlob_241">
-			<text>Go On, have a drink...</text>
+			<text>Kein Problem. Hier, das steigert die Ausduer.</text>
 		</string>
 		<string id="trade_dialog_jlob_252">
-			<text>This Bread better not be radioactive! Half the guys here have a bad case of the shits already from radioactive food!...</text>
+			<text>F-1 Granate! Moment..  dein Brot ist doch nicht verstrahlt, oder? Weil, ich hatte mit solchem Mist alle Schränke voll und ausserdem mussetn die Jungs hier ständig auf's Klo..</text>
 		</string>
 		<string id="trade_dialog_jlob_251">
-			<text>Give me the Grenades.</text>
+			<text>Vertrau mir. Ich esse es selbst. Gib her die Granate.</text>
 		</string>
 		<string id="trade_dialog_jlob_666">
-			<text>Don't have it, perhaps another time...</text>
+			<text>Habe ich nicht, ein anderes Mal vielleicht.</text>
 		</string>
 		<string id="trade_dialog_jlob_31">
-			<text>You want weapons? Well choose:\n1. The AN-94 'Abakan' will cost you 10 Canned Food\n2. The HK MP5 will cost you five Sausage</text>
+			<text>Eine Waffe? Wähl aus: \n \n
+1. - Abakan-Sturmgewehr für zehn Konserven \n
+2. - H&amp;K MP5, in besten Zustand für fünf Würste.</text>
 		</string>
 		<string id="trade_dialog_jlob_32">
-			<text>I need an Abakan...</text>
+			<text>Die Abakan nehme ich.</text>
 		</string>
 		<string id="trade_dialog_jlob_33">
-			<text>MP-5, I will take one...</text>
+			<text>Die H&amp;K-MP5. Die nehme ich.</text>
 		</string>
 		<string id="trade_dialog_jlob_322">
-			<text>Hand over the Canned food...</text>
+			<text>Erst die Konserven.</text>
 		</string>
 		<string id="trade_dialog_jlob_321">
-			<text>Here you are, enjoy!...</text>
+			<text>Hier sind Sie..</text>
 		</string>
 		<string id="trade_dialog_jlob_332">
-			<text>There better not be maggots!...</text>
+			<text>Ich hoffe es sind keine Maden drin.</text>
 		</string>
 		<string id="trade_dialog_jlob_331">
-			<text>Its good, check for yourself...</text>
+			<text>Die sind noch Vakuum dicht. Überprüfe es selbst..</text>
 		</string>
 		<string id="trade_dialog_jlob_41">
-			<text>This is what's available from our infirmary:\n1. Two Flasks gets you one medkit\n2. Five Sandwiches gets you one Cossacks vodka</text>
+			<text>Ja, Gesundheit ist hier wichtig und gebe ich ungern raus: \n \n
+1. - Medikit gegen 2 Flaschen Wasser\n
+2. - Cossack's Wodka für 5 Sandwiche.</text>
 		</string>
 		<string id="trade_dialog_jlob_42">
-			<text>The medkit I will take...</text>
+			<text>Alles klar. Ich nehm das Medikit.</text>
 		</string>
 		<string id="trade_dialog_jlob_43">
-			<text>I'll take the vodka...</text>
+			<text>Her mit Wodka, mach schon.</text>
 		</string>
 		<string id="trade_dialog_jlob_422">
-			<text>Finally, some fresh water.</text>
+			<text>Endlich etwas frisches Wasser.</text>
 		</string>
 		<string id="trade_dialog_jlob_421">
-			<text>There you are, drink up.</text>
+			<text>Hier. Genieß es.</text>
 		</string>
 		<string id="trade_dialog_jlob_432">
-			<text>Five sandwiches for a bottle...</text>
+			<text>Fünf Sandwiches für eine Flasche Cossack.</text>
 		</string>
 		<string id="trade_dialog_jlob_431">
-			<text>Vodka... you can never have enough, gimme...</text>
+			<text>Sehr gut. Dann kann ich später mit den Jungs einen bechern.</text>
 		</string>
 		<string id="trade_dialog_jlob_51">
-			<text>Repair kits:\n1. Three "Zone" Beer will get you one Armor repair kit\n2. Three Cuban Cigar will get you one Weapon repair kit</text>
+			<text>Ein Paar Reparaturkits habe ich: \n \n
+1. - Für die Anzug Reparatur Kits -  drei "Zonen" Bierchen\n
+2. - Für die Waffen Reparatur Kits 3 Kubanische Zigarren.</text>
 		</string>
 		<string id="trade_dialog_jlob_52">
-			<text>I'll take the Armor kit.</text>
+			<text>Für den Anzug. Nehm ich..</text>
 		</string>
 		<string id="trade_dialog_jlob_53">
-			<text>Weapon kits are what I need. Here, enjoy these Cuban cigars.</text>
+			<text>Reperatur Kits für Waffen sind das was ich brauche.</text>
 		</string>
 		<string id="trade_dialog_jlob_522">
-			<text>Where's the Beer at.</text>
+			<text>Gut, wo ist mein Bier.</text>
 		</string>
 		<string id="trade_dialog_jlob_521">
-			<text>Here's three beers, enjoy!</text>
+			<text>Hier, drei Bierchen.</text>
 		</string>
 		<string id="trade_dialog_jlob_532">
-			<text>Its been too long since I enjoyed one of these.</text>
+			<text>Es ist schon lange her das ich sowas gerochen habe.</text>
 		</string>
 		<string id="trade_dialog_jlob_531">
-			<text>There not easy to get in the zone.</text>
+			<text>Es ist nicht einfach diese Zigarren in der Zone aufzutreiben</text>
 		</string>
 		<string id="trade_dialog_sherstyk_0">
-			<text>You Can sell equipment?</text>
+			<text>Kannst du irgendwelche Ausrüstung anbieten?</text>
 		</string>
 		<string id="trade_dialog_sherstyk_1">
-			<text>Yes I do, but not for cash. Bring vodka first, and the we can make a deal... Depends on the quantity of bottles you bring...\nWhat exactly do you want?</text>
+			<text>Na klar! Warum nicht! Die Währung ist Wodka, je mehr Flaschen .. du weißt bescheid.\n \nAber was genau suchst du?</text>
 		</string>
 		<string id="trade_dialog_sherstyk_2">
-			<text>Cartridges, grenades, and also some armor...</text>
+			<text>1. Munition, Granaten, einen guten Anzug.</text>
 		</string>
 		<string id="trade_dialog_sherstyk_3">
-			<text>An assault rifle or a machine gun?</text>
+			<text>2. Sturmgewehr oder Maschinengewehr?</text>
 		</string>
 		<string id="trade_dialog_sherstyk_4">
-			<text>Military medkits are unique, I need some...</text>
+			<text>3. Medikamente von der Armee.</text>
 		</string>
 		<string id="trade_dialog_sherstyk_21">
-			<text>Well, I can exchange for vodka:\n1. Cartridges 5,45x39mm for the AK-74;\n2. Grenades F-1;\n3. Machine gun PKM cartridges 7.62;\n4. Good armor.</text>
+			<text>Gegen Wodka kann ich tauschen:\n \n
+1. - Munition 5.45x39mm zum Beispiel für die AK-74 \n
+2. - F-1 Granaten\n
+3. - Munition 7.62mm für die PKM zum Beispiel\n
+4. - Ein Guten Anzug hab ich da, SKAT-9M</text>
 		</string>
 		<string id="trade_dialog_sherstyk_22">
-			<text>Cartridges for the AK-74 I will take...</text>
+			<text>Die 5.45x39mm Munition.</text>
 		</string>
 		<string id="trade_dialog_sherstyk_23">
-			<text>Give me F-1 grenades, very powerful...</text>
+			<text>Gibt mir die F-1 Granaten.</text>
 		</string>
 		<string id="trade_dialog_sherstyk_24">
-			<text>I will take the PKM rounds...</text>
+			<text>Für PKM?! Ich denke, ich nehm's.</text>
 		</string>
 		<string id="trade_dialog_sherstyk_25">
-			<text>I sell two version of that kind of ammo;\n1. small box for the 7 bottles of Vodka\n2. bigger box for the 12 bottles of Vodka\n \nChoose what you need...</text>
+			<text>Ich habe zwei Versionen dieser Art auf Lager\n
+1. Kleines Päckchen für 7 Wodka Flaschen Wodka\n2.
+2. Größere Päckchen für 12 Wodka Flaschen\n\n
+Was willst du?</text>
 		</string>
 		<string id="trade_dialog_sherstyk_27">
-			<text>I will take the armor, only if its new...</text>
+			<text>Ich nehm den Anzug. Aber nur einen nagelneuen.</text>
 		</string>
 		<string id="trade_dialog_sherstyk_222">
-			<text>I Can give five packs simple or three packs armor-piercing for three bottles... up to you?</text>
+			<text>OK, für drei Flaschen Wodka kannst du 5 Einfache Päckchen haben oder wenn du nur 3 Päckchen nimmst gebe ich dir Panzerbrechende.\n \nDie wahl liegt bei dir?</text>
 		</string>
 		<string id="trade_dialog_sherstyk_221">
-			<text>Five Simple I will take...</text>
+			<text>Ich nehme 5 "Einfache".</text>
 		</string>
 		<string id="trade_dialog_sherstyk_2211">
-			<text>Give me the armor-piercing...</text>
+			<text>Die Panzerbrechenden.</text>
 		</string>
 		<string id="trade_dialog_sherstyk_232">
-			<text>Grenade F-1 = One vodka... You Want?</text>
+			<text>Eine F-1 Granate für eine Flasche.\nFair?</text>
 		</string>
 		<string id="trade_dialog_sherstyk_231">
-			<text>I need Grenades.</text>
+			<text>Das ist Fair. Ich nehme die Granaten.</text>
 		</string>
 		<string id="trade_dialog_sherstyk_241">
-			<text>One box of 100 cartridges for seven bottles...</text>
+			<text>Ok für ein 100er Gurtkorb gibs du mir 7 Flaschen Wodka</text>
 		</string>
 		<string id="trade_dialog_sherstyk_243">
-			<text>One box of 250 cartridges for twelve bottles...</text>
+			<text>Für den 250er Magazin Gurt bekomme ich 12 Flaschen.\n \nOk?</text>
 		</string>
 		<string id="trade_dialog_sherstyk_250">
-			<text>I really need it though, I will accept SKAT-9...</text>
+			<text>Na Gut, den SKAT-9M Anzug brauche ich.</text>
 		</string>
 		<string id="trade_dialog_sherstyk_252">
-			<text>The armor is just came from the warehouse!\nBeside that, I have two type of these:\n1. SKAT-9 for Fifteen bottles,\n2. SKAT-10 for the twenty-five bottles\nBut, SKAT-10 isn't available at the moment!</text>
+			<text>Der Anzug ist gerade Neu aus dem Lager gekommen!\nNormalerweise  hätte ich 2 Anzüge dir ich dir Anbieten könnte:\n
+1. - SKAT-9 Anzug für 15 Wodka Flaschen\n
+2. - SKAT-10 für 25 Flaschen. Aber dieser ist gerade nicht da!</text>
 		</string>
 		<string id="trade_dialog_sherstyk_251">
-			<text>Have you gone nuts! Ehh... Ok Military SKAT-10, I'll take...</text>
+			<text>Ok. Ich will aber den Militär Anzug SKAT-10...</text>
 		</string>
 		<string id="trade_dialog_sherstyk_254">
-			<text>The armor is just came from the warehouse!\nBeside that, I have two type of these:\n1. SKAT-9 for Fifteen bottles,\n2. SKAT-10 for the twenty-five bottles!</text>
+			<text>Der Anzug ist gerade Neu aus dem Lager gekommen!\nNormalerweise  hätte ich 2 Anzüge dir ich dir Anbieten könnte:\n
+1. - SKAT-9 Anzug für 15 Wodka Flaschen\n
+2. - SKAT-10 für 25 Flaschen Wodka.</text>
 		</string>
 		<string id="trade_dialog_sherstyk_666">
-			<text>Do not have enough, maybe another time...</text>
+			<text>Nein, ein anderes Mal.</text>
 		</string>
 		<string id="trade_dialog_sherstyk_31">
-			<text>I Can get:\n1. Abakan supplied with a 3h-fold optical sight for conducting sniper fire. The optics built in in the case possesses more zoom, than standard sights.;\n2. Machine gun PKM - tough and heavy, but is very powerful with hard hitting rounds and a 100 shot magazine capacity. Bring on the Chimeras!!....</text>
+			<text>Ich kann das besorgen:\n \n
+1. - "Abakan" mit 3-fach Optik für Sniper-Einsätze.\n
+2. - Maschinengewehr PKM - ein wenig schwer, aber sehr gut bedienbar und plättet die Mutanten wie ein Rasenmäher insklusive 100 Schuss.</text>
 		</string>
 		<string id="trade_dialog_sherstyk_32">
-			<text>Abakan sniper? How many bottles?</text>
+			<text>Scharfschützen-Abakan? Wieviele FLaschen willst du?</text>
 		</string>
 		<string id="trade_dialog_sherstyk_33">
-			<text>For the PKM machine gun how much vodka is necessary?</text>
+			<text>Willst du viel Wodka für das PKM Maschinengewehr?</text>
 		</string>
 		<string id="trade_dialog_sherstyk_322">
-			<text>The Gun is First class! Fifteen bottles I want... agree?</text>
+			<text>Für so eine erstklassige Waffe! 15 Flaschen.\n \nEinverstanden?</text>
 		</string>
 		<string id="trade_dialog_sherstyk_321">
-			<text>Its a deal, here's your vodka...</text>
+			<text>Gut, hier dein Wodka.</text>
 		</string>
 		<string id="trade_dialog_sherstyk_332">
-			<text>This is no small task, it is difficult to take out the PKM Machine gun without being seen... A case of vodka! 20 bottles! Well do you want it?</text>
+			<text>Diese PKM's sind schwer in die Zone reinzuschmuggeln. Man kommt wirklich nur noch sehr selten an diese Waffen. Für 20 Flaschen.\n \nKriegst du eine?</text>
 		</string>
 		<string id="trade_dialog_sherstyk_331">
-			<text>I agree! Give!</text>
+			<text>Einverstanden! Gib her!</text>
 		</string>
 		<string id="trade_dialog_sherstyk_333">
-			<text>This is no small task, it is difficult to take out the PKM Machine gun without being seen...\n.... Ups, it seems that I already sold the last one...</text>
+			<text>Das ist nicht einfach... Moment ... es ist sogar Schwierig ...\nAch.. Ich habe wohl die Letzte schon verkauft.</text>
 		</string>
 		<string id="trade_dialog_sherstyk_334">
-			<text>I really need this weapon, I'll be back for a day or two....</text>
+			<text>Ich will die jetzt echt haben. Sonst komme ich in eine oder zwei Tagen nochmal...</text>
 		</string>
 		<string id="trade_dialog_sherstyk_41">
-			<text>Yes the Military first-aid sets are a twice improved in comparison with the usual kits...</text>
+			<text>Ja, die Militärischen Erste-Hilfe-Sets sind im Vergleich zu den üblichen Medikits doppelt sogut...</text>
 		</string>
 		<string id="trade_dialog_sherstyk_42">
-			<text>And how many will you give?</text>
+			<text>Wieviele kannst du abgeben?</text>
 		</string>
 		<string id="trade_dialog_sherstyk_422">
-			<text>Two first-aid sets for a bottle...</text>
+			<text>Hm. Mal sehen - 2 Militärische Medikits für .. eine Flasche.</text>
 		</string>
 		<string id="trade_dialog_sherstyk_421">
-			<text>I agree!</text>
+			<text>Abgemacht!</text>
 		</string>
 		<string id="trade_dialog_kuznezov_0">
-			<text>You spoke it is possible to approach you if I needed some gear?</text>
+			<text>Sie sagten - wenn ich was brauche soll ich mich bei Ihnen melden?</text>
 		</string>
 		<string id="trade_dialog_kuznezov_1">
-			<text>Bring vodka and then I will help you out... By quantity of bottles...\nWhat exactly do you want?</text>
+			<text>Habe ich gesagt? Bring uns Wodka - dann kann ich, vielleicht, helfen. Je nach Flaschenanzahl - versteht sich.\n \nAlso Was genau brauchst du?</text>
 		</string>
 		<string id="trade_dialog_kuznezov_2">
-			<text>Cartridges, grenades, and some good armor...</text>
+			<text>1. Munition, Granaten, evtl. einen guten Anzug.</text>
 		</string>
 		<string id="trade_dialog_kuznezov_3">
-			<text>The assault rifle or a machine gun can be acquired?</text>
+			<text>1. Sturmgewehr - Maschinengewehr? Ist das möglich?</text>
 		</string>
 		<string id="trade_dialog_kuznezov_4">
-			<text>Military-med kits are unique, can I get some...</text>
+			<text>3. Medikamente. Beim Militär gibt doch die guten.</text>
 		</string>
 		<string id="trade_dialog_kuznezov_21">
-			<text>Well, I can exchange for vodka:\n1. Cartridges 5,45x39mm for the AK-74;\n2. Grenades RGD5;\n3. To AK-47 cartridges 7.62;\n4. Sniper cartridges.</text>
+			<text>Also. Im Austausch gegen Wodka gibt es folgendes:\n \n
+1. - Munition 5.45x39 für AK-74 \n
+2. - Wir hätten RGD Granaten \n
+3. - Munition 7.62mm Für AK-47\n
+4. - Unter uns... Scharfschützen-Munition</text>
 		</string>
 		<string id="trade_dialog_kuznezov_54">
-			<text>Nothing for now...</text>
+			<text>Davon brauche erstmal nichts.</text>
 		</string>
 		<string id="trade_dialog_kuznezov_22">
-			<text>Cartridges for the AK-74 I will take...</text>
+			<text>DIe AK-47 5.45x39mm Munition</text>
 		</string>
 		<string id="trade_dialog_kuznezov_23">
-			<text>I need grenades.</text>
+			<text>An den Granaten wäre ich Interessiert.</text>
 		</string>
 		<string id="trade_dialog_kuznezov_24">
-			<text>AK-47 ammo will take...</text>
+			<text>DIe AK-47 Munition 7.62mm</text>
 		</string>
 		<string id="trade_dialog_kuznezov_25">
-			<text>The Sniper - the king of the Zone, give me some cartridges...</text>
+			<text>Sehr gut.. Scharfschützen Munition.</text>
 		</string>
 		<string id="trade_dialog_kuznezov_222">
-			<text>I Can give five packs simple or three packs armor-piercing for three bottles... up to you?</text>
+			<text>Nun, für 3 Flaschen kann ich dir 5 Päckchen einfache geben oder 3 Packungen mit Panzerbrechende Munition.\n \nWelche willst du?</text>
 		</string>
 		<string id="trade_dialog_kuznezov_221">
-			<text>Simple five I will take...</text>
+			<text>Ich nehme 5 "Einfache".</text>
 		</string>
 		<string id="trade_dialog_kuznezov_2211">
-			<text>Give me the armor-piercing...</text>
+			<text>Ich nehme 3 "Panzerbrechende".</text>
 		</string>
 		<string id="trade_dialog_kuznezov_232">
-			<text>Two grenades = One vodka... You Take?</text>
+			<text>Granaten? Hmm.. Krieg ich 1 Flasche...\n \nAlles klar??</text>
 		</string>
 		<string id="trade_dialog_kuznezov_231">
-			<text>I need Grenades.</text>
+			<text>Klar, gib mir die Granate.</text>
 		</string>
 		<string id="trade_dialog_kuznezov_242">
-			<text>Cartridges only armor-piercing - five bottles for three packs...</text>
+			<text>Von denen hab ich nur Panzerbrechende Munition. Für 5 Wodka Flaschen bekommst du 3 Päckchen.</text>
 		</string>
 		<string id="trade_dialog_kuznezov_241">
-			<text>I agree...</text>
+			<text>Einverstanden.</text>
 		</string>
 		<string id="trade_dialog_kuznezov_252">
-			<text>A Pack of sniper cartridges - three bottles...</text>
+			<text>Eine Packung Scharfschützen-Munition macht 2 Flaschen Wodka.\n \nWie siehst's aus?</text>
 		</string>
 		<string id="trade_dialog_kuznezov_251">
-			<text>If that's what it costs...</text>
+			<text>Kein Problem. Das ist es mir wert.</text>
 		</string>
 		<string id="trade_dialog_kuznezov_666">
-			<text>Do not have it, another time perhaps...</text>
+			<text>Zurzeit habe ich nichts. Ein anderes Mal.</text>
 		</string>
 		<string id="trade_dialog_kuznezov_31">
-			<text>I Can get:\n1. Abakan. A reliable, powerful weapon.\n2. AK-47 it is a classic weapon, it is reliable and deadly...</text>
+			<text>Ich kann dir das aus der Armee Waffenkammer Besorgen:\n \n
+1. - Eine Abakan. Zuverlässig und Schlagkräftig. \n
+2. - Eine AK-47 - klassische, zuverlässig und tödlich.</text>
 		</string>
 		<string id="trade_dialog_kuznezov_32">
-			<text>Abakan? How many bottles you ask?</text>
+			<text>Abakan?! Wieviele Flaschen möchten Sie dafür?</text>
 		</string>
 		<string id="trade_dialog_kuznezov_33">
-			<text>AK-47!! how much vodka?</text>
+			<text>AK-47! Na-ja. Wieviel Wodka möchten sie dafür?</text>
 		</string>
 		<string id="trade_dialog_kuznezov_322">
-			<text>Ten bottles I want... agree?</text>
+			<text>Gib mir Fünfzehn Pullen.\n \nEinverstanden?</text>
 		</string>
 		<string id="trade_dialog_kuznezov_321">
-			<text>Certainly! Here's the vodka...</text>
+			<text>Natürlich! Hier der Alk.</text>
 		</string>
 		<string id="trade_dialog_kuznezov_332">
-			<text>It is cheap... Eight bottles and it's yours.</text>
+			<text>Die ist Günstig. 5 Flaschen - sie gehört dir.\n \nEinverstanden?</text>
 		</string>
 		<string id="trade_dialog_kuznezov_331">
-			<text>I agree! Give!</text>
+			<text>Einverstanden! Gib her.</text>
 		</string>
 		<string id="trade_dialog_kuznezov_41">
-			<text>Approximately twice the strength compared to normal kits... Military men always protect their health...</text>
+			<text>Auf jedenfall. Die sind wirklich doppelt so stark im Vergleich zu den normalen Medikits.. Wir, beim Militär passen auf unsere Gesundheit auf und wissen was gut ist.</text>
 		</string>
 		<string id="trade_dialog_kuznezov_42">
-			<text>And how many will you give?</text>
+			<text>Okay. Und wieviele können Sie entbehren?</text>
 		</string>
 		<string id="trade_dialog_kuznezov_422">
-			<text>Two first-aid sets for a bottle...</text>
+			<text>Für eine Flasche kann ich dir 2 Armee-kits geben. Da müssen wir schon ein bisschen aufpassen. Es wird ne Strichliste geführt.</text>
 		</string>
 		<string id="trade_dialog_kuznezov_421">
-			<text>Agreed!</text>
+			<text>Alles klar. Ich behalte es für mich. Gib mir die Militär-Medikts.</text>
 		</string>
 		<string id="sak_military_stalker_dialog_0">
-			<text>Stalker, we need to talk</text>
+			<text>Nun Stalker? Wollen wir ein paar Worte wechseln?</text>
 		</string>
 		<string id="sak_military_stalker_dialog_1">
-			<text>It is possible I have a pair of offers that would be Favorable to both parties...</text>
+			<text>Sicher. warum nicht. Ich hätte da mehrere Vorschläge. Für "beide" gewinnbringend.</text>
 		</string>
 		<string id="sak_military_stalker_dialog_2">
-			<text>This is interesting I'm listening...</text>
+			<text>Hört sich interessant an. Besonders das mit dem Gewinn. Dann las doch mal hören.</text>
 		</string>
 		<string id="sherstyk_1_dialog_0">
-			<text>Do you Know where the documents are located on the third floor?</text>
+			<text>Weißt du etwas über die Dokumente, die bei euch in der Basis aufbewahrt werden?</text>
 		</string>
 		<string id="sherstyk_1_dialog_1">
-			<text>And that! We hardly sleep with this case in embrace... In any way an opportunity will not wait what to send all this shit to the center... On hearings there that that with Burner a brain is connected... Or with a way brains zombie...\nAnd you that what advantage of them?</text>
+			<text>Sicher. Der Leutnant würde am liebsten mit diesem Koffer unter dem Kopf schlafen. Er wartet auf eine Möglichkeit, den ganzen Mist ins Zetrum zu schicken. Gerüchten nach, ist da was über den Hirnschmelzer drin oder aber auch über die Zombie-Fizierungs-Methode.\n \nWiso dieses Interesse?</text>
 		</string>
 		<string id="sherstyk_1_dialog_2">
-			<text>There is an interest, time is asked...</text>
+			<text>Na ja - Interresiert mich halt.
+</text>
 		</string>
 		<string id="sherstyk_1_dialog_3">
-			<text>Interest is? And in what you estimate this interest?</text>
+			<text>Interesse also? Was wäre dir die dieses "Interesse" Wert?</text>
 		</string>
 		<string id="sherstyk_1_dialog_4">
-			<text>Well not in gold reserves in Russia... And there are variants?</text>
+			<text>Na ja, die Goldreserven Russlands nicht. Gibt sicher Alternativen?</text>
 		</string>
 		<string id="sherstyk_1_dialog_5">
-			<text>Has got us here to sit... You of binge, neither women, nor entertainments... I to you so will tell - for good binge all can be got... got it?</text>
+			<text>Goldreserven? Wir sind es leid, hier rumzusitzen. Nichts zu saufen, keine Weiber, keine Unterhaltung. Ich sag dir es mal so - für richtig guten Wodka kann man alles besorgen. Du verstehst?</text>
 		</string>
 		<string id="sherstyk_1_dialog_6">
-			<text>Well very good binge I do not promise, but vodka it is possible to adjust... Not of burning...</text>
+			<text>Na richtig guten kann ich nicht versprechen, Das ist hier in der Zone recht Problematisch. Aber Wodka kann ich besorgen. Echten, nichts selbstgebranntes.</text>
 		</string>
 		<string id="sherstyk_1_dialog_7">
-			<text>Appears so... A box of vodka - and the case is yours... That's a bargain yes?</text>
+			<text>Hmm.. Okay, dann pass mal auf. Ne'Kiste Wodka und ich beschaff dir den Koffer mit den Dokumenten. Das wird nicht einfach... Deal?</text>
 		</string>
 		<string id="sherstyk_1_dialog_8">
-			<text>A bargain! there Will be a box of vodka for you!</text>
+			<text>Deal! Du kriegst deine Kiste Wodka!</text>
 		</string>
 		<string id="sherstyk_1_dialog_9">
-			<text>Eh of the fighter! The native land for vodka will sell... Itself I will extract...</text>
+			<text>Militär! Für Wodka würdet ihr auch das Vaterland verkaufen. Laß mal.</text>
 		</string>
 		<string id="tex_agroprom_vodka">
-			<text>\nEnsign Sherstjuk for twenty bottles of vodka agrees to bring a case with documents...</text>
+			<text>\n \n \n \n \n \nFähnrich "Sherstjuk" ist bereit für 20 Flaschen Wodka den Koffer mit den Dokumenten zu stehlen.</text>
 		</string>
 		<string id="tex_borov_11">
-			<text>Borov has sent me to survey the site of a helicopter crash which is located behind a bog, just south of the lab, in the Dark Valley. All that is valuable - we must drag to Borov...</text>
+			<text>\n \n \n \n \n \nBorov schickte mich zu Hubschrauber-Absturzstelle, hinter dem Sumpf, Südlich des Labors, im Dunklen Tal. Alles wertvolle was ich finde will er haben.</text>
 		</string>
 		<string id="tex_bandit_krisyk">
-			<text>\nThe Bandit known by the nickname 'Rat' has written down many secrets in his PDA. Borov wants the return of this PDA. In any way. A mark in a map where the Rat disappeared, it is possible that the Associate from the 100*Rads bar Can pinpoint his location.</text>
+			<text>\n \n \n \n \n \nDer Bandit, der unter dem Spitznamen "Rat" bekannt ist, hat viele Geheimnisse auf seinem PDA gepeichert. Darunter auch Interne "Betriebsgeimnisse" von Borov. Er will die diesen PDA - egal wie. Den letzten Aufenhaltsort könnte ich von "Senior Dozent" erfahren. Mit seiner Hilfe könnte ich eine Markierung auf der Karte setzen um die Letzte Aktuelle Position von dem Banditen erfahren. "Senior Dozent" hält sich zurzeit in der 100 Rad Bar auf. Dann werde ich ihn mal dort aufsuchen.</text>
 		</string>
 		<string id="sherstyk_12_dialog_0">
-			<text>Hello, the Vodka has arrived!</text>
+			<text>Hey, Wodka-Lieferung!</text>
 		</string>
 		<string id="sherstyk_12_dialog_1">
-			<text>Ah, your a good fellow! Let's take a look...</text>
+			<text>Spitze, Mann! Auf dich ist Verlass. Komm, gib schon her.</text>
 		</string>
 		<string id="sherstyk_12_dialog_2">
-			<text>Have you brought the documents?</text>
+			<text>Moment .. hast du die Dokumente?</text>
 		</string>
 		<string id="sherstyk_12_dialog_3">
-			<text>The Word of a military man is not to be doubted! Here are your documents!</text>
+			<text>Zweifelst du an mir? Ein Soldat hält sein Wort! Hier sind deine Dokumente!</text>
 		</string>
 		<string id="sherstyk_12_dialog_4">
-			<text>Here's your vodka...</text>
+			<text>Hmm.. Hier ist dein Wodka..</text>
 		</string>
 		<string id="sherstyk_12_dialog_5">
-			<text>Hold this suitcase, do not strain yourself now...</text>
+			<text>Hier ist der Koffer, aber trag den hier draußen nicht so rum..</text>
 		</string>
 		<string id="enc_price">
-			<text>Trader offers</text>
+			<text>Angebote der Händler</text>
 		</string>
 		<string id="price_sidor_text">
-			<text>Sidorovich's offers:\n \n1. 12x70 buckshot - three packs for a Medusa\n2. RG-5 grenades - two for a Quirk\n3. 5.45x39mm cartridges - three packs for a Droplet\n4. 7.62x39mm cartridges - two packs for a Stone Blood\n \n1. A TOZ-34 for a Flash\n2. A Saiga-12k for a Meat Chunk\n \n1. Eight medkits for a Stone Flower\n2. Three bottles of vodka for a Quirk\n \n1. Three Armor repair kits for a Gravi\n2. Three Weapon repair kits for a Stone Flower</text>
+			<text>\n \n \n \n \n \n
+%c[221,255,193,255]Artefakt Angebots Liste von Sidorowitch\n \n
+%c[001,168,255,210]Munition\n
+%c[255,224,224,160]®®12x70 Schrot (3 Päckchen)®:%c[default] 1x Qualle\n
+%c[255,224,224,160]®®RGD-5 Granaten®®®®®®®®®®®®:%c[default] 1x Gepressetes\n
+%c[255,224,224,160]®®5.45x39mm (3 Päckchen)®®®®:%c[default] 1x Tropfen\n
+%c[255,224,224,160]®®7.62x39mm (2 Päckchen)®®®®:%c[default] 1x Steinblut\n
+%c[default]\n \n
+%c[001,168,255,210]Waffen\n
+%c[255,224,224,160]®®TOZ-34 Schrotflinte®®®®®®®:%c[default] 1x Blitz\n
+%c[255,224,224,160]®®Saiga-12k Flinte®®®®®®®®®®:%c[default] 1x Fleischklumpen\n
+%c[default]\n \n
+%c[001,168,255,210]Anzüge\n
+%c[255,224,124,160]®®Hat er nicht auf Lager®®®®:%c[default]\n
+%c[default]\n \n
+%c[001,168,255,210]Medizin\n
+%c[255,224,224,160]®®8 Standard Medikits®®®®®®®:%c[default] 1x Steinlume\n
+%c[255,224,224,160]®®3 Flaschen Wodka®®®®®®®®®®:%c[default] 1x Gepressetes\n
+%c[default]\n \n
+%c[001,168,255,210]Reparatur Kits\n
+%c[255,224,224,160]®®3 Anzug Kits®®®®®®®®®®®®®®:%c[default] 1x Gravit\n
+%c[255,224,224,160]®®3 Waffen Kits®®®®®®®®®®®®®:%c[default] 1x Steinblume\n
+%c[default]\n \n</text>
 		</string>
 		<string id="price_barman_text">
 			<text>Barkeep's offers:\n \n1. 5.45x39mm cartridges: five packs of standard, or three packs of armor-piercing for a Flash\n2. Three RGD-5 grenades for a Stone Flower\n3. 5.56x39mm cartridges: five packs of standard, or three packs of armor-piercing for a Slime\n4. 9x39mm cartridges: five packs of standard, or three packs of armor-piercing for a Gravi\n \n1. One AS Val for two Fireballs\n2. One OC-14 Groza for a Night Star\n \n1. Five standard medkits for a Sparkler\n2. Three bottles of vodka for a Stone Blood\n \n1. Three Armor repair kits for a Meat Chunk\n2. Three Weapon repair kits for a Fireball</text>
@@ -2001,4 +2072,4 @@
 			<text>Thanks. I'll be back for it when I have the artefacts...</text>
 		</string>
 	</string_table>
-<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 23.03.2017 02:07:12 -->
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 23.03.2017 22:36:37 -->

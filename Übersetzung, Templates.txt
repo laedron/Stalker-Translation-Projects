@@ -189,6 +189,32 @@ Status Werte:
 ®Ausdauer®®®®®®®:
 
 
+
+
+\n \n \n \n \n \n
+%c[221,255,193,255]Artefakt Angebots Liste von Sidorowitch\n \n
+%c[001,168,255,210]Munition\n
+%c[255,224,224,160]®®12x70 Schrot (3 Päckchen)®:%c[default] 1x Qualle\n
+%c[255,224,224,160]®®RGD-5 Granaten®®®®®®®®®®®®:%c[default] 1x Gepressetes\n
+%c[255,224,224,160]®®5.45x39mm (3 Päckchen)®®®®:%c[default] 1x Tropfen\n
+%c[255,224,224,160]®®7.62x39mm (2 Päckchen)®®®®:%c[default] 1x Steinblut\n
+%c[default]\n \n
+%c[001,168,255,210]Waffen\n
+%c[255,224,224,160]®®TOZ-34 Schrotflinte®®®®®®®:%c[default] 1x Blitz\n
+%c[255,224,224,160]®®Saiga-12k Flinte®®®®®®®®®®:%c[default] 1x Fleischklumpen\n
+%c[default]\n \n
+%c[001,168,255,210]Anzüge\n
+%c[255,224,124,160]®®Hat er nicht auf Lager®®®®:%c[default]\n
+%c[default]\n \n
+%c[001,168,255,210]Medizin\n
+%c[255,224,224,160]®®8 Standard Medikits®®®®®®®:%c[default] 1x Steinlume\n
+%c[255,224,224,160]®®3 Flaschen Wodka®®®®®®®®®®:%c[default] 1x Gepressetes\n
+%c[default]\n \n
+%c[001,168,255,210]Reparatur Kits\n
+%c[255,224,224,160]®®3 Anzug Kits®®®®®®®®®®®®®®:%c[default] 1x Gravit\n
+%c[255,224,224,160]®®3 Waffen Kits®®®®®®®®®®®®®:%c[default] 1x Steinblume\n
+%c[default]\n \n
+
 Intro Text (amk_strings.xml/ amk_welcome_title)
 ========================================================================================
 \n
@@ -267,4 +293,7 @@ sak_strings_trade.xml	-> trade_dialog_petrenko_31, Was für Scharfschützen ding
 sak_strings_trade.xml	-> trade_dialog_sakharov_222 Gauss/Supergaus Munition
 sak_strings_trade.xml	-> trade_dialog_skraga_522, 10%-Reperatur Kits
 sak_strings_trade.xml	-> trade_dialog_skraga_532, 10%-Reparaturkits
+sak_strings_trade.xml	-> trade_dialog_sak_33, das ist ein wenig "Merkwürdig" esgeht um eine Vintorez und plötzlich  ist es eine Saiga Waffe
+sak_strings_trade.xml	-> trade_dialog_jlob_21.100 Rads? 
+sak_strings_trade.xml	-> trade_dialog_jlob_232, Das sind meine Lieblinge! !ok!
 string_table_general.xml-> item_sniper_flash_name Das Item muss überprüft werden
