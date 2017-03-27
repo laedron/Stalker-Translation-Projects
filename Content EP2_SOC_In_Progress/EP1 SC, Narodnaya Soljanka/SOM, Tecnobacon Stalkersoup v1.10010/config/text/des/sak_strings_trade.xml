@@ -1987,25 +1987,25 @@ Was willst du?</text>
 			<text>\n \n \n \n \n \n
 %c[221,255,193,255]Artefakt Angebots Liste von Sidorowitch\n \n
 %c[001,168,255,210]Munition\n
-%c[255,224,224,160]®®12x70 Schrot (3 Päckchen)®:%c[default] 1x Qualle\n
-%c[255,224,224,160]®®RGD-5 Granaten®®®®®®®®®®®®:%c[default] 1x Gepressetes\n
-%c[255,224,224,160]®®5.45x39mm (3 Päckchen)®®®®:%c[default] 1x Tropfen\n
-%c[255,224,224,160]®®7.62x39mm (2 Päckchen)®®®®:%c[default] 1x Steinblut\n
+%c[255,224,224,160]12x70 Schrot (3 Päckchen)®:%c[default] 1x Qualle\n
+%c[255,224,224,160]RGD-5 Granaten®®®®®®®®®®®®:%c[default] 1x Gepressetes\n
+%c[255,224,224,160]5.45x39mm (3 Päckchen)®®®®:%c[default] 1x Tropfen\n
+%c[255,224,224,160]7.62x39mm (2 Päckchen)®®®®:%c[default] 1x Steinblut\n
 %c[default]\n \n
 %c[001,168,255,210]Waffen\n
-%c[255,224,224,160]®®TOZ-34 Schrotflinte®®®®®®®:%c[default] 1x Blitz\n
-%c[255,224,224,160]®®Saiga-12k Flinte®®®®®®®®®®:%c[default] 1x Fleischklumpen\n
+%c[255,224,224,160]TOZ-34 Schrotflinte®®®®®®®:%c[default] 1x Blitz\n
+%c[255,224,224,160]Saiga-12k Flinte®®®®®®®®®®:%c[default] 1x Fleischklumpen\n
 %c[default]\n \n
 %c[001,168,255,210]Anzüge\n
-%c[255,224,124,160]®®Hat er nicht auf Lager®®®®:%c[default]\n
+%c[255,224,124,160]Hat er nicht auf Lager®®®®:%c[default]\n
 %c[default]\n \n
 %c[001,168,255,210]Medizin\n
-%c[255,224,224,160]®®8 Standard Medikits®®®®®®®:%c[default] 1x Steinlume\n
-%c[255,224,224,160]®®3 Flaschen Wodka®®®®®®®®®®:%c[default] 1x Gepressetes\n
+%c[255,224,224,160]8 Standard Medikits®®®®®®®:%c[default] 1x Steinlume\n
+%c[255,224,224,160]3 Flaschen Wodka®®®®®®®®®®:%c[default] 1x Gepressetes\n
 %c[default]\n \n
 %c[001,168,255,210]Reparatur Kits\n
-%c[255,224,224,160]®®3 Anzug Kits®®®®®®®®®®®®®®:%c[default] 1x Gravit\n
-%c[255,224,224,160]®®3 Waffen Kits®®®®®®®®®®®®®:%c[default] 1x Steinblume\n
+%c[255,224,224,160]3 Anzug Kits®®®®®®®®®®®®®®:%c[default] 1x Gravit\n
+%c[255,224,224,160]3 Waffen Kits®®®®®®®®®®®®®:%c[default] 1x Steinblume\n
 %c[default]\n \n</text>
 		</string>
 		<string id="price_barman_text">
@@ -2072,4 +2072,4 @@ Was willst du?</text>
 			<text>Thanks. I'll be back for it when I have the artefacts...</text>
 		</string>
 	</string_table>
-<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 23.03.2017 22:36:37 -->
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 27.03.2017 00:28:09 -->

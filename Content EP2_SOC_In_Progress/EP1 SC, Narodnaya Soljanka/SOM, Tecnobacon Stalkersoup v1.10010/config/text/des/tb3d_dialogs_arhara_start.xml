@@ -443,25 +443,25 @@
 		<text>In the Forgotten Wood, search the stumps of trees, or near them, and you should find eggs</text>
 	</string>
 	<string id="arhara_shaxter_0">
-		<text>Hello, who are you?</text>
+		<text>Hallo, wer sind Sie?</text>
 	</string>
 	<string id="arhara_shaxter_1">
-		<text>I'm the Miner, I've been here since before the accident in Chernobyl, Quite a few we were, but now remains just three, the others were lost to mutants, illness, and when part of the mine collapsed</text>
+		<text>Guten Tag, Ich bin .. war ein Minenarbeiter. Du kannst mich ruhig dutzen. Mich nennen sie hier den "Miner". Wohl wahrscheinlich, weil ich einer der ersten war der sich damals für diesen Job gemeldet hatte.\n \nEs kommt mir vor wie eine halbe ewigkeit. Ich bin.. oder wir sind - schon ziehmlich lange hier unten. Seit der Katastrophe in Tschernobyl verweilen und leben hier wir. Die ganze Mine ist zusammengebrochen. Na-ja, nun sind es nur noch wir drei, wie du unschwer erkennen kannst. Wir waren mal eine Gruppe. Die anderen Jungs sind den Mutanten in die Hände gefallen oder durch eine Krankheit kripiert. Es gab auch welche die versucht haben einen Ausweg zu finden...</text>
 	</string>
 	<string id="arhara_shaxter_2">
-		<text>Why do you still live down here and what was here earlier?</text>
+		<text>Was ist denn passiert das du noch hier unten lebst - diese Mine?</text>
 	</string>
 	<string id="arhara_shaxter_3">
-		<text>I Have gotten used to living underground. It was'nt safe to go above ground after the accident, so we stayed bellow. I have not seen the sunlight for so long that Im afraid of going blind if I go to the surface, For a long time now nobody from the surface has appeared here. This was a coal mine but that was long ago! Now mutants and anomalies have appeared and, recently, the Monolith! And you, are here for what?!</text>
+		<text>Tja mein Junge. In dieser Mine hatten wir Kohle, für die umliegenden Dörfer beim AKW gefördert. Es war ja so - das AKW heizte zu dem Zeitpunkt nicht für die Dörfer. Die waren auch aus Technischer Sicht auf die Kohle angewiesen. Es war im Gespräch das alles zu verändern. Daw der Plan.. Bis zu dem Unfall war dies noch ein stolzes Kohlenbergwerk.\n \nNach dem Unfall sind hier ein paar Männer erschien und brachten uns Proviant und Ausrüstung. Während dieser Aktion sind dann noch mehr weite Teile der Mine eingetürzt und überall kamen diese komischen Naturgewalten her. Plötzlich gibt es Ätzende Säure. Feuer kommt aus dem Stein. Gebilde die aus dem Boden auftauchen und dann erschienen noch diese Mutanten.. Diese grosse Elektrische sache da hinten am Eingang. Die schützt uns - noch. Wir haben schon lange keine fremdes Gesicht mehr gesehen. Bis auf den Monolith der vor kurzem da war. Aber wiso bist du hier?</text>
 	</string>
 	<string id="arhara_shaxter_4">
-		<text>I dont know how I got here, I know only I should give you the Monolith piece, I'm sure that I will return for it. I can't carry it any further for now</text>
+		<text>Die Wahrheit ist, ich weiß nicht, wie ich hierher gekommen bin Ich weiß nicht einmal, wer ich bin. Ich weiß nur, dass ich dir dieses Artefakt-Stück geben muss. Das ist ein Stück von dem "Monolithen" und es strahlt extrem, ich kann es nicht weiter mit mir herumschleppen. Irgendwie ist die last zu groß. Versteckt es bitte gut, ich werde irgendwann auf jeden Fall wiederkommen und es abholen.</text>
 	</string>
 	<string id="arhara_shaxter_5">
-		<text>Leave it with me and when the time feels right, you'll come back, it will be here. Here, take this medicine for weariness, it will return you on your journey, good luck to you!</text>
+		<text>Na gut, wenn dein Gefühl es dir sagt, dann tu es. Wir passen schon auf das Ding auf... Du scheinst ein vernünftiger Mensch zu sein, ich würde mich freuen, wenn wir uns irgendwann wiedersehen.\n \nHier, das ist ein Medizin-Trunk, den wir Bergleute immer verwenden. Damit schläfst du gut und kommst dadurch richtig zu Kräften für deine weitere Reise.. Stalker</text>
 	</string>
 	<string id="arhara_shaxter_6">
-		<text>Thanks, we will meet again, if I survive!, I Know that I should give you this piece of the Monolith, but, who am I?, and when will this all become clear? When I find out, I will return</text>
+		<text>Danke. Sollte ich überleben, komme ich bestimmt wieder. Ich weiß genau, das ich dieses Monolith-Stück auf jeden Fall brauchen werde. Aber wann und wofür? Sobald ich es wieder weiß, werden wir uns wiedersehen.</text>
 	</string>
 	<string id="shaxter_fonar_dost_0">
 		<text>Hello Miner, I Have returned! I need that splinter of the Monolith that I left with you</text>
@@ -1005,4 +1005,4 @@
 		<text>Still a deals a deal and you get what you got off the trash we just took out. But at least you tried and we won't forget that</text>
 	</string>
 </string_table>
-<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 20.03.2017 21:55:58 -->
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 27.03.2017 01:32:45 -->
