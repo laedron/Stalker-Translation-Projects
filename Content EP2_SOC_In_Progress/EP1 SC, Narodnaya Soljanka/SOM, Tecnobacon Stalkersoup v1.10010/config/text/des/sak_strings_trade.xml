@@ -1284,11 +1284,7 @@
 			<text>4. Reparatur-Ausrüstungs Kit.</text>
 		</string>
 		<string id="trade_dialog_sak_21">
-			<text>Ich kann dir folgendes anbieten:\n \n
-1. - Scharfschützen-Munition für das "Fleischklumpen"-Artefakt\n
-2. - 9x39mm Munition für die "Val" und "BCC/VCC Vintorez" gegen "Gravit"\n
-3. - Ladungen für "Gauss"-Waffen gegen "Feuerball"\n
-4. - Ein Spezial-Panzeranzug der Armee - SKAT-10, Spitzenqualität, gegen "Seeigel"-Artefakte.\n \nAlso was ist?</text>
+			<text>Ich kann dir folgendes anbieten:\n \n1. - Scharfschützen-Munition für das "Fleischklumpen"-Artefakt\n2. - 9x39mm Munition für die "Val" und "BCC/VCC Vintorez" gegen "Gravit"\n3. - Ladungen für "Gauss"-Waffen gegen "Feuerball"\n4. - Ein Spezial-Panzeranzug der Armee - SKAT-10, Spitzenqualität, gegen "Seeigel"-Artefakte.\n \nAlso was ist?</text>
 		</string>
 		<string id="trade_dialog_sak_54">
 			<text>Im moment erstmal doch nichts.</text>
@@ -1306,11 +1302,7 @@
 			<text>SKAT-10 Anzug? Wieviele Artefakte willst du dafür?</text>
 		</string>
 		<string id="trade_dialog_sak_222">
-			<text>Da wäre\n \n
-7H13 - Einfache Munition, hat ziemlich große Streuung.\n \n
-7H1 -- Präzisionsmunition, hat 2 bis 3 mal niedrigere Streuungswerte, als 7H13. Aber die panzerbrechende Wirkung ist nicht sehr hoch.\n \n
-7H14 - Ebenbürtig der 7H1-Munition, was Streuung angeht, aber, besitzt ein gehärteten Stahlkern, viel höhere panzerbrechende Wirkung...\n \n
-Für ein "Fleischklumpen"-Artefakt bekommst du 2 einfache oder 2 Präzisions Päckchen, oder ein Päckchen von der Panzerbrechende 7H14.\n \nWas möchtest du?</text>
+			<text>Da wäre\n \n7H13 - Einfache Munition, hat ziemlich große Streuung.\n \n7H1 -- Präzisionsmunition, hat 2 bis 3 mal niedrigere Streuungswerte, als 7H13. Aber die panzerbrechende Wirkung ist nicht sehr hoch.\n \n7H14 - Ebenbürtig der 7H1-Munition, was Streuung angeht, aber, besitzt ein gehärteten Stahlkern, viel höhere panzerbrechende Wirkung...\n \nFür ein "Fleischklumpen"-Artefakt bekommst du 2 einfache oder 2 Präzisions Päckchen, oder ein Päckchen von der Panzerbrechende 7H14.\n \nWas möchtest du?</text>
 		</string>
 		<string id="trade_dialog_sak_221">
 			<text>2 Päckchen von den 7H13 "Einfach".</text>
@@ -1322,8 +1314,7 @@ Für ein "Fleischklumpen"-Artefakt bekommst du 2 einfache oder 2 Präzisions Päckc
 			<text>Ich nehme die Panzerbrechenden 7H14, präzise und tödlich.</text>
 		</string>
 		<string id="trade_dialog_sak_232">
-			<text>Für BCC/VCC Vintorez also.\n \n
-Für ein "Gravit"-Artefakt gibt es 5 Päckchen einfache, oder 4 Päckchen "Sniper" also Präzision Munition, oder 3 Päckchen panzerbrechende.\n \nWelche nimmst du?</text>
+			<text>Für BCC/VCC Vintorez also.\n \nFür ein "Gravit"-Artefakt gibt es 5 Päckchen einfache, oder 4 Päckchen "Sniper" also Präzision Munition, oder 3 Päckchen panzerbrechende.\n \nWelche nimmst du?</text>
 		</string>
 		<string id="trade_dialog_sak_231">
 			<text>5 Päckchen von der "Einfachen" Munition.</text>
@@ -1365,8 +1356,7 @@ Für ein "Gravit"-Artefakt gibt es 5 Päckchen einfache, oder 4 Päckchen "Sniper" 
 			<text>Einverstanden!!!</text>
 		</string>
 		<string id="trade_dialog_sak_332">
-			<text>Die Saga nur gegen ein "Fleischklumpen"-Ar
-tefakt.\n \nWillst du sie haben?</text>
+			<text>Die Saga nur gegen ein "Fleischklumpen"-Artefakt.\n \nWillst du sie haben?</text>
 		</string>
 		<string id="trade_dialog_sak_331">
 			<text>Sicher, "Fleischklumpen" habe ich genug.</text>
@@ -1393,8 +1383,7 @@ tefakt.\n \nWillst du sie haben?</text>
 			<text>Klar, nehme ich.</text>
 		</string>
 		<string id="trade_dialog_sak_51">
-			<text>Das hab ich für dich:\n \n
-1. Reparatur Kits für Anzüge im austausch gegen das Artefakt "Blitz"</text>
+			<text>Das hab ich für dich:\n \n1. Reparatur Kits für Anzüge im austausch gegen das Artefakt "Blitz"</text>
 		</string>
 		<string id="trade_dialog_sak_52">
 			<text>Wieviele Reparatur Kits sind es?</text>
@@ -1433,11 +1422,7 @@ tefakt.\n \nWillst du sie haben?</text>
 			<text>4. Reparaturkit</text>
 		</string>
 		<string id="trade_dialog_doktor_21">
-			<text>An Munition habe ich folgendes:\n \n
-1. - Patronen für Schrotflinten und Pumpguns gegen "Dorn" \n
-2. - RGD-5 Granaten gegen "Schleim" \n
-3. - 5.56x39mm Munition gegen "Tropfen" \n
-4. - 7.62x39mm Munition gegen "Blitz".</text>
+			<text>An Munition habe ich folgendes:\n \n1. - Patronen für Schrotflinten und Pumpguns gegen "Dorn" \n2. - RGD-5 Granaten gegen "Schleim" \n3. - 5.56x39mm Munition gegen "Tropfen" \n4. - 7.62x39mm Munition gegen "Blitz".</text>
 		</string>
 		<string id="trade_dialog_doktor_54">
 			<text>Wissen Sie, vielleicht später.</text>
@@ -1482,9 +1467,7 @@ tefakt.\n \nWillst du sie haben?</text>
 			<text>Nein, ein anderes Mal.</text>
 		</string>
 		<string id="trade_dialog_doktor_31">
-			<text>Waffen hab ich diese hier für dich:\n \n
-1. - Scharfschützen-SIG. Für den Einsatz als Scharfschützengewehr modifiziert und mit einer fest montierten Zielvorrichtung mit erhöhtem Fokus ausgestattet. Um das Gewicht zu verringern, wurden einige Teile ersetzt oder entfernt. Gewicht wurde dadurch fast halbiert, Laufabnutzung minimiert.  Gebe ich für "Mika"-Artefakte ab. \n \n
-2. Ein bewährtes und zuverlässiges AK-47 gegen eine "Seele".</text>
+			<text>Waffen hab ich diese hier für dich:\n \n1. - Scharfschützen-SIG. Für den Einsatz als Scharfschützengewehr modifiziert und mit einer fest montierten Zielvorrichtung mit erhöhtem Fokus ausgestattet. Um das Gewicht zu verringern, wurden einige Teile ersetzt oder entfernt. Gewicht wurde dadurch fast halbiert, Laufabnutzung minimiert.  Gebe ich für "Mika"-Artefakte ab. \n \n2. Ein bewährtes und zuverlässiges AK-47 gegen eine "Seele".</text>
 		</string>
 		<string id="trade_dialog_doktor_32">
 			<text>Wieviele Artefakte möchten Sie für die Sniper-SIG?</text>
@@ -1505,9 +1488,7 @@ tefakt.\n \nWillst du sie haben?</text>
 			<text>Ja.. so ein Artefakt konnte ich noch aufbewahren. Bitte.</text>
 		</string>
 		<string id="trade_dialog_doktor_41">
-			<text>Das könnte ich entbehren:\n \n
-1. - Medikits tausche ich gegen "Schnecke" \n
-2. - Strahlenschutz-Mittel "Antirad" gegen "Steinblume".</text>
+			<text>Das könnte ich entbehren:\n \n1. - Medikits tausche ich gegen "Schnecke" \n2. - Strahlenschutz-Mittel "Antirad" gegen "Steinblume".</text>
 		</string>
 		<string id="trade_dialog_doktor_42">
 			<text>Was für Medikits sind das?</text>
@@ -1573,11 +1554,7 @@ tefakt.\n \nWillst du sie haben?</text>
 			<text>4. Reparatur-Zeug's.</text>
 		</string>
 		<string id="trade_dialog_jlob_21">
-			<text>Munition hab ich ein bisschen:\n \n
-1. - 5.45x39mm gegen fünf Sandwiche
-2. - RGD-Granate für zwei Tafeln Schokolade \n
-3. - 9x19mm Panzerbrechende Muniton für 2 100 Rads\n
-4. - F-1 Granate für fünf Brote.</text>
+			<text>Munition hab ich ein bisschen:\n \n1. - 5.45x39mm gegen fünf Sandwiche2. - RGD-Granate für zwei Tafeln Schokolade \n3. - 9x19mm Panzerbrechende Muniton für 2 100 Rads\n4. - F-1 Granate für fünf Brote.</text>
 		</string>
 		<string id="trade_dialog_jlob_54">
 			<text>Im Moment brauch ich doch nichts.</text>
@@ -1622,9 +1599,7 @@ tefakt.\n \nWillst du sie haben?</text>
 			<text>Habe ich nicht, ein anderes Mal vielleicht.</text>
 		</string>
 		<string id="trade_dialog_jlob_31">
-			<text>Eine Waffe? Wähl aus: \n \n
-1. - Abakan-Sturmgewehr für zehn Konserven \n
-2. - H&amp;K MP5, in besten Zustand für fünf Würste.</text>
+			<text>Eine Waffe? Wähl aus: \n \n1. - Abakan-Sturmgewehr für zehn Konserven \n2. - H&amp;K MP5, in besten Zustand für fünf Würste.</text>
 		</string>
 		<string id="trade_dialog_jlob_32">
 			<text>Die Abakan nehme ich.</text>
@@ -1645,9 +1620,7 @@ tefakt.\n \nWillst du sie haben?</text>
 			<text>Die sind noch Vakuum dicht. Überprüfe es selbst..</text>
 		</string>
 		<string id="trade_dialog_jlob_41">
-			<text>Ja, Gesundheit ist hier wichtig und gebe ich ungern raus: \n \n
-1. - Medikit gegen 2 Flaschen Wasser\n
-2. - Cossack's Wodka für 5 Sandwiche.</text>
+			<text>Ja, Gesundheit ist hier wichtig und gebe ich ungern raus: \n \n1. - Medikit gegen 2 Flaschen Wasser\n2. - Cossack's Wodka für 5 Sandwiche.</text>
 		</string>
 		<string id="trade_dialog_jlob_42">
 			<text>Alles klar. Ich nehm das Medikit.</text>
@@ -1668,9 +1641,7 @@ tefakt.\n \nWillst du sie haben?</text>
 			<text>Sehr gut. Dann kann ich später mit den Jungs einen bechern.</text>
 		</string>
 		<string id="trade_dialog_jlob_51">
-			<text>Ein Paar Reparaturkits habe ich: \n \n
-1. - Für die Anzug Reparatur Kits -  drei "Zonen" Bierchen\n
-2. - Für die Waffen Reparatur Kits 3 Kubanische Zigarren.</text>
+			<text>Ein Paar Reparaturkits habe ich: \n \n1. - Für die Anzug Reparatur Kits -  drei "Zonen" Bierchen\n2. - Für die Waffen Reparatur Kits 3 Kubanische Zigarren.</text>
 		</string>
 		<string id="trade_dialog_jlob_52">
 			<text>Für den Anzug. Nehm ich..</text>
@@ -1706,11 +1677,7 @@ tefakt.\n \nWillst du sie haben?</text>
 			<text>3. Medikamente von der Armee.</text>
 		</string>
 		<string id="trade_dialog_sherstyk_21">
-			<text>Gegen Wodka kann ich tauschen:\n \n
-1. - Munition 5.45x39mm zum Beispiel für die AK-74 \n
-2. - F-1 Granaten\n
-3. - Munition 7.62mm für die PKM zum Beispiel\n
-4. - Ein Guten Anzug hab ich da, SKAT-9M</text>
+			<text>Gegen Wodka kann ich tauschen:\n \n1. - Munition 5.45x39mm zum Beispiel für die AK-74 \n2. - F-1 Granaten\n3. - Munition 7.62mm für die PKM zum Beispiel\n4. - Ein Guten Anzug hab ich da, SKAT-9M</text>
 		</string>
 		<string id="trade_dialog_sherstyk_22">
 			<text>Die 5.45x39mm Munition.</text>
@@ -1722,10 +1689,7 @@ tefakt.\n \nWillst du sie haben?</text>
 			<text>Für PKM?! Ich denke, ich nehm's.</text>
 		</string>
 		<string id="trade_dialog_sherstyk_25">
-			<text>Ich habe zwei Versionen dieser Art auf Lager\n
-1. Kleines Päckchen für 7 Wodka Flaschen Wodka\n2.
-2. Größere Päckchen für 12 Wodka Flaschen\n\n
-Was willst du?</text>
+			<text>Ich habe zwei Versionen dieser Art auf Lager\n1. Kleines Päckchen für 7 Wodka Flaschen Wodka\n2.2. Größere Päckchen für 12 Wodka Flaschen\n\nWas willst du?</text>
 		</string>
 		<string id="trade_dialog_sherstyk_27">
 			<text>Ich nehm den Anzug. Aber nur einen nagelneuen.</text>
@@ -1755,25 +1719,19 @@ Was willst du?</text>
 			<text>Na Gut, den SKAT-9M Anzug brauche ich.</text>
 		</string>
 		<string id="trade_dialog_sherstyk_252">
-			<text>Der Anzug ist gerade Neu aus dem Lager gekommen!\nNormalerweise  hätte ich 2 Anzüge dir ich dir Anbieten könnte:\n
-1. - SKAT-9 Anzug für 15 Wodka Flaschen\n
-2. - SKAT-10 für 25 Flaschen. Aber dieser ist gerade nicht da!</text>
+			<text>Der Anzug ist gerade Neu aus dem Lager gekommen!\nNormalerweise  hätte ich 2 Anzüge dir ich dir Anbieten könnte:\n1. - SKAT-9 Anzug für 15 Wodka Flaschen\n2. - SKAT-10 für 25 Flaschen. Aber dieser ist gerade nicht da!</text>
 		</string>
 		<string id="trade_dialog_sherstyk_251">
 			<text>Ok. Ich will aber den Militär Anzug SKAT-10...</text>
 		</string>
 		<string id="trade_dialog_sherstyk_254">
-			<text>Der Anzug ist gerade Neu aus dem Lager gekommen!\nNormalerweise  hätte ich 2 Anzüge dir ich dir Anbieten könnte:\n
-1. - SKAT-9 Anzug für 15 Wodka Flaschen\n
-2. - SKAT-10 für 25 Flaschen Wodka.</text>
+			<text>Der Anzug ist gerade Neu aus dem Lager gekommen!\nNormalerweise  hätte ich 2 Anzüge dir ich dir Anbieten könnte:\n1. - SKAT-9 Anzug für 15 Wodka Flaschen\n2. - SKAT-10 für 25 Flaschen Wodka.</text>
 		</string>
 		<string id="trade_dialog_sherstyk_666">
 			<text>Nein, ein anderes Mal.</text>
 		</string>
 		<string id="trade_dialog_sherstyk_31">
-			<text>Ich kann das besorgen:\n \n
-1. - "Abakan" mit 3-fach Optik für Sniper-Einsätze.\n
-2. - Maschinengewehr PKM - ein wenig schwer, aber sehr gut bedienbar und plättet die Mutanten wie ein Rasenmäher insklusive 100 Schuss.</text>
+			<text>Ich kann das besorgen:\n \n1. - "Abakan" mit 3-fach Optik für Sniper-Einsätze.\n2. - Maschinengewehr PKM - ein wenig schwer, aber sehr gut bedienbar und plättet die Mutanten wie ein Rasenmäher insklusive 100 Schuss.</text>
 		</string>
 		<string id="trade_dialog_sherstyk_32">
 			<text>Scharfschützen-Abakan? Wieviele FLaschen willst du?</text>
@@ -1827,11 +1785,7 @@ Was willst du?</text>
 			<text>3. Medikamente. Beim Militär gibt doch die guten.</text>
 		</string>
 		<string id="trade_dialog_kuznezov_21">
-			<text>Also. Im Austausch gegen Wodka gibt es folgendes:\n \n
-1. - Munition 5.45x39 für AK-74 \n
-2. - Wir hätten RGD Granaten \n
-3. - Munition 7.62mm Für AK-47\n
-4. - Unter uns... Scharfschützen-Munition</text>
+			<text>Also. Im Austausch gegen Wodka gibt es folgendes:\n \n1. - Munition 5.45x39 für AK-74 \n2. - Wir hätten RGD Granaten \n3. - Munition 7.62mm Für AK-47\n4. - Unter uns... Scharfschützen-Munition</text>
 		</string>
 		<string id="trade_dialog_kuznezov_54">
 			<text>Davon brauche erstmal nichts.</text>
@@ -1879,9 +1833,7 @@ Was willst du?</text>
 			<text>Zurzeit habe ich nichts. Ein anderes Mal.</text>
 		</string>
 		<string id="trade_dialog_kuznezov_31">
-			<text>Ich kann dir das aus der Armee Waffenkammer Besorgen:\n \n
-1. - Eine Abakan. Zuverlässig und Schlagkräftig. \n
-2. - Eine AK-47 - klassische, zuverlässig und tödlich.</text>
+			<text>Ich kann dir das aus der Armee Waffenkammer Besorgen:\n \n1. - Eine Abakan. Zuverlässig und Schlagkräftig. \n2. - Eine AK-47 - klassische, zuverlässig und tödlich.</text>
 		</string>
 		<string id="trade_dialog_kuznezov_32">
 			<text>Abakan?! Wieviele Flaschen möchten Sie dafür?</text>
@@ -1929,8 +1881,7 @@ Was willst du?</text>
 			<text>Sicher. Der Leutnant würde am liebsten mit diesem Koffer unter dem Kopf schlafen. Er wartet auf eine Möglichkeit, den ganzen Mist ins Zetrum zu schicken. Gerüchten nach, ist da was über den Hirnschmelzer drin oder aber auch über die Zombie-Fizierungs-Methode.\n \nWiso dieses Interesse?</text>
 		</string>
 		<string id="sherstyk_1_dialog_2">
-			<text>Na ja - Interresiert mich halt.
-</text>
+			<text>Na ja - Interresiert mich halt.</text>
 		</string>
 		<string id="sherstyk_1_dialog_3">
 			<text>Interesse also? Was wäre dir die dieses "Interesse" Wert?</text>
@@ -1984,29 +1935,7 @@ Was willst du?</text>
 			<text>Angebote der Händler</text>
 		</string>
 		<string id="price_sidor_text">
-			<text>\n \n \n \n \n \n
-%c[221,255,193,255]Artefakt Angebots Liste von Sidorowitch\n \n
-%c[001,168,255,210]Munition\n
-%c[255,224,224,160]12x70 Schrot (3 Päckchen)®:%c[default] 1x Qualle\n
-%c[255,224,224,160]RGD-5 Granaten®®®®®®®®®®®®:%c[default] 1x Gepressetes\n
-%c[255,224,224,160]5.45x39mm (3 Päckchen)®®®®:%c[default] 1x Tropfen\n
-%c[255,224,224,160]7.62x39mm (2 Päckchen)®®®®:%c[default] 1x Steinblut\n
-%c[default]\n \n
-%c[001,168,255,210]Waffen\n
-%c[255,224,224,160]TOZ-34 Schrotflinte®®®®®®®:%c[default] 1x Blitz\n
-%c[255,224,224,160]Saiga-12k Flinte®®®®®®®®®®:%c[default] 1x Fleischklumpen\n
-%c[default]\n \n
-%c[001,168,255,210]Anzüge\n
-%c[255,224,124,160]Hat er nicht auf Lager®®®®:%c[default]\n
-%c[default]\n \n
-%c[001,168,255,210]Medizin\n
-%c[255,224,224,160]8 Standard Medikits®®®®®®®:%c[default] 1x Steinlume\n
-%c[255,224,224,160]3 Flaschen Wodka®®®®®®®®®®:%c[default] 1x Gepressetes\n
-%c[default]\n \n
-%c[001,168,255,210]Reparatur Kits\n
-%c[255,224,224,160]3 Anzug Kits®®®®®®®®®®®®®®:%c[default] 1x Gravit\n
-%c[255,224,224,160]3 Waffen Kits®®®®®®®®®®®®®:%c[default] 1x Steinblume\n
-%c[default]\n \n</text>
+			<text>\n \n \n \n \n \n%c[221,255,193,255]Artefakt Angebots Liste von Sidorowitch\n \n%c[001,168,255,210]Munition\n%c[255,224,224,160]12x70 Schrot (3 Päckchen)®:%c[default] 1x Qualle\n%c[255,224,224,160]RGD-5 Granaten®®®®®®®®®®®®:%c[default] 1x Gepressetes\n%c[255,224,224,160]5.45x39mm (3 Päckchen)®®®®:%c[default] 1x Tropfen\n%c[255,224,224,160]7.62x39mm (2 Päckchen)®®®®:%c[default] 1x Steinblut\n%c[default]\n \n%c[001,168,255,210]Waffen\n%c[255,224,224,160]TOZ-34 Schrotflinte®®®®®®®:%c[default] 1x Blitz\n%c[255,224,224,160]Saiga-12k Flinte®®®®®®®®®®:%c[default] 1x Fleischklumpen\n%c[default]\n \n%c[001,168,255,210]Anzüge\n%c[255,224,124,160]Hat er nicht auf Lager®®®®:\n%c[default]\n%c[default]\n \n%c[001,168,255,210]Medizin\n%c[255,224,224,160]8 Standard Medikits®®®®®®®:%c[default] 1x Steinlume\n%c[255,224,224,160]3 Flaschen Wodka®®®®®®®®®®:%c[default] 1x Gepressetes\n%c[default]\n \n%c[001,168,255,210]Reparatur Kits\n%c[255,224,224,160]3 Anzug Kits®®®®®®®®®®®®®®:%c[default] 1x Gravit\n%c[255,224,224,160]3 Waffen Kits®®®®®®®®®®®®®:%c[default] 1x Steinblume\n%c[default]\n \n</text>
 		</string>
 		<string id="price_barman_text">
 			<text>Barkeep's offers:\n \n1. 5.45x39mm cartridges: five packs of standard, or three packs of armor-piercing for a Flash\n2. Three RGD-5 grenades for a Stone Flower\n3. 5.56x39mm cartridges: five packs of standard, or three packs of armor-piercing for a Slime\n4. 9x39mm cartridges: five packs of standard, or three packs of armor-piercing for a Gravi\n \n1. One AS Val for two Fireballs\n2. One OC-14 Groza for a Night Star\n \n1. Five standard medkits for a Sparkler\n2. Three bottles of vodka for a Stone Blood\n \n1. Three Armor repair kits for a Meat Chunk\n2. Three Weapon repair kits for a Fireball</text>
@@ -2072,4 +2001,4 @@ Was willst du?</text>
 			<text>Thanks. I'll be back for it when I have the artefacts...</text>
 		</string>
 	</string_table>
-<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 27.03.2017 00:28:09 -->
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 30.03.2017 09:03:11 -->

@@ -22,7 +22,12 @@ gibt.
 - meceniy_st_dialogs	<- (2 - 3 items, die im Nachhinein noch Überprüft werden müssen)
 - sak_strings 
 - string_table_general
+- string_table_mapspots_escape
+- string_table_tasks_deadcity
+- string_table_tasks_escape
+- string_table_timer
 - string_table_tips
+- string_table_tips_escape
 - string_table_tutorial
 -  
 - ui_st_inventory
@@ -97,13 +102,21 @@ Bei der Flut an Waffen und Zusätzen fehlt die Genauigkeit.
 		textures\wpn\crysis_scar					(Benutzt die HD Texturen von Crysis)
 		textures\wpn\wpn_mpk						(Hd Texture, Eigene und Teilsweise von CS 
 													Mire, Danke)
-
+		Textures\signs								Schilder mit übersetzung
+		
 		//=================================================================================//
 		Sound:
 		Nano Anzug: sounds\meceniy\outfit\*.ogg (Ins deutsche gebracht, bin mit dem Result nicht ganz zufriden)
 		Wichtig: Dazu die scripts\meceniy_outfit.scipt
 		Im Englishen Unterordner findet sich die Englische version sowie die Ru. Original version
-
+		
+		//=================================================================================//		
+		Sound: Deutsche Diaologe++
+		Nun sind alle Vorhandenen Stalker Deutschen Audio Daloge mit drin. Dazu habe ich einige
+		Angefangen Russiche Dialoge zu übersetzen. Zu meist sowas wie dasman die Waffe wegstecken
+		soll oder die Banditen nun sagen "Da ist er". Meine Persönliche Meinug: Finde ich irgendwie
+		besser. Nun weiß ich was Thema ist. Vorher hatte ich mich immer gewundert was die sagen.
+		
 		//=================================================================================//
 		Sonstiges:
 		Es gibt eine Waffen Konfig zuviel. (Diese Liegt in den DB Archiv)
@@ -129,6 +142,25 @@ Bei der Flut an Waffen und Zusätzen fehlt die Genauigkeit.
 		Wichtig: Die Schritsätze funktionieren erst ab eine Auflösung von 1600+
 		Sollte bedarf für eine Auflösung unter HD bestehen kann ich diese erstellen.
 		
+		//=================================================================================//
+		Für die Elektro Anomlie hab ich eine neue Sequenz von Texturen erstellt
+		Standard ist eine Texture (ein Bild) via Sequenz (.seq) sieht das ganze
+		"gefährlicher" und zippeliger aus. 
+		  
+		// Ambient Soundtrack
+		//=================================================================================//
+		Mir geht fürchterlich die Ambient Musik (das kann man mitunter nicht so nennen) 
+		auf'n Sack. Die Musik in Stalkersoup einzug gehalten hat. Zwischen der Übersetzung
+		bin ich dabei die Originalen  Stücke von Stalker (SOC,CS,COP und mehr) in Stalkersoup
+		zu integrieren. Ich ReEncode die Stücke von Flac/Wav in einer Maximalen OGG Bitrate
+		unter 128/160Kbit gibts nichts.
+		
+		// Wetter System
+		//=================================================================================//
+		Also die Wetter Texturen in Stalkersoup sind ja wirklich schecklich. Da das in der
+		ganzen letzten Zeit (Jahre!) geändert worden ist verstehe ich nicht. Zurzeit
+		hab ich in meiner Version die Texturen von Atmosfear3 verbaut. Da muss ich aber noch
+		die einzelnen Farbumgebungen einstellen sowie einige andere Sachen.
 //=============================================================================================//
 
 
