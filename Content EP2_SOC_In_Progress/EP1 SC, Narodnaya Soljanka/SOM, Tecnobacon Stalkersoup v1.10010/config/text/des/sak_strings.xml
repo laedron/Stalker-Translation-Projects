@@ -660,16 +660,16 @@
 			<text>Wie kann ich dir helfen?</text>
 		</string>
 		<string id="artmod_121_dialog_1">
-			<text>Ich und die Jungs versuchen dieses Gebiet zu kontrollieren und debei es von den Banditen und Mutanten zu beschützen. Dafür helfen Wolf und andere erfahrene Stalker uns mit Lebensmitel, Infos und anderen Sachen aus. NUr leider nicht was unsere Ausrüstung und Waffen angeht, das ist nicht gerade das beste, auch wenn man hier nicht viel Munition verbrät. \n \nWenn du eine Möglichkeit siehst, kannst du mir ein "TOZ-34" Jagdgewehr besorgen? Für unsere Aktion hier ist es die passende Waffe... Und ich erzähl dir dafür, wie man aus einem billigen Artefakt - ein höherwertiges bekommt...</text>
+			<text>Ich und die Jungs versuchen diesen Teil von Kordon zu kontrollieren und debei es von den Banditen und Mutanten zu beschützen. Dafür helfen Wolf und andere erfahrene Stalker uns mit Lebensmitel, Infos und anderen Sachen aus. Nur leider nicht was unsere Ausrüstung und Waffen angeht, das ist nicht gerade das beste Zeug. Auch wenn man hier nicht viel Munition verbrät. \n \nWenn du eine Möglichkeit siehst, kannst du mir ein "TOZ-34" Jagdgewehr besorgen? Für unsere Aktion hier ist es die passende Waffe... Und ich erzähl dir dafür, wie man aus einem billigen Artefakt - ein höherwertiges bekommt...</text>
 		</string>
 		<string id="artmod_121_dialog_2">
-			<text>Alles klar - mache ich. ich sah eins bei Sidorowitsch.</text>
+			<text>Alles klar - mache ich. Sidorowitsch wird was auf Lager haben.</text>
 		</string>
 		<string id="artmod_121_dialog_3">
 			<text>Beweg dein Arsch selbst. Bin doch nicht dein Lakei...</text>
 		</string>
 		<string id="artmod_122_dialog_0">
-			<text>Grüß dich noch mal... Wie ist die Lage? Her ist das Jagdgewehr.</text>
+			<text>Grüß dich noch mal... Wie ist die Lage? Hier ist das Jagdgewehr.</text>
 		</string>
 		<string id="artmod_122_dialog_1">
 			<text>Genau im richtigen Moment. Die Banditen verursachen wieder Probleme ...</text>
@@ -951,7 +951,7 @@
 			<text>Das Wetter ändert sich, dadurch ist es angenehmer im Kreuz geworden. Trotzdem. Hast du die?</text>
 		</string>
 		<string id="artmod_712_dialog_2">
-			<text>Hier sind die Schwänze. Auf das Artefakt bin ich gespannt.</text>
+			<text>Hier sind die Pseudohunde-Schwänze. Auf das Artefakt bin ich gespannt.</text>
 		</string>
 		<string id="artmod_712_dialog_3">
 			<text>Hier... Für einen guten Kameraden ist mir nichts zu schade...</text>
@@ -1266,7 +1266,7 @@
 			<text>Mein Dank kennt keine Grenzen!  Ich lade dir sofort das Modifikationsrezept drauf.\n \nHast du Lust auf noch ein Geschäft?</text>
 		</string>
 		<string id="tex_val_escort_PDA">
-			<text>\n \n \n \n \n \nIch muss den PDA von Dolgov finden, welchen er im Agroprom-Untergrund versteckt hat. Seinen Worten nach, muß er sich Treppenhaus oben befinden. Neben dem kleinem Gang mit Elektra-Anomalien.</text>
+			<text>\n \n \n \n \n \nIch muss den PDA von Max Lubero finden, welchen er im Agroprom-Untergrund versteckt hat. Seinen Worten nach, muß er sich Treppenhaus oben befinden. Neben dem kleinem Gang mit Elektra-Anomalien.</text>
 		</string>
 		<string id="artmod_351_dialog_0">
 			<text>Warum nicht. Wenn die Belohnung stimmt.</text>
@@ -1572,7 +1572,7 @@
 			<text>Ein Dekoder?</text>
 		</string>
 		<string id="artmod_541_dialog_1">
-			<text>Sacharow hat dem "Ghost" ein neues Dekodermodell mitgegeben, mit der Triangulationsfunktion von Störfaktoren des Wechselwellen-Gradientes der PSI-Einwirkung...</text>
+			<text>Sakharov hat dem "Ghost" ein neuen Dekodermodell mitgegeben, mit der Triangulationsfunktion von Störfaktoren des Wechselwellen-Gradientes der PSI-Einwirkung...</text>
 		</string>
 		<string id="artmod_541_dialog_11">
 			<text>Ui... Okay. Also..???</text>
@@ -1605,13 +1605,13 @@
 			<text>Sidorowitsch?  Ist das ratsam mit dem Geschäfte zu machen?</text>
 		</string>
 		<string id="artmod_641_dialog_1">
-			<text>Na ja. Du bist zuverlässig und erzählst nicht alles überall rum.  Ich bekomme hier nur lausiges Gehalt. Sakharov hat nun mal nicht viele Mittel zu Verfügung... Und ich hab vor kurzem ein Artefakt mit ungewöhnlichen Eigenschaften gefunden. Hab mit Sidorowitsch gesprochen, er würde gut dafür bezahlen.\n \nDu musst ihm den  Behälter mit dem Artefakt übergeben und die Bezahlung abholen. In der Zone hat sich schon rumgesprochen, das du auf Geld kein Wert legst, sondern ungewöhnliche Sachen sammelst - ich werde dir dafür erzählen, wie man ein "Kloß" bastelt.\n \n \n \n \n \n(*) </text>
+			<text>Na ja. Du bist zuverlässig und erzählst nicht alles überall rum.  Ich bekomme hier nur lausiges Gehalt. Sakharov hat nun mal nicht viele Mittel zu Verfügung... Und ich hab vor kurzem ein Artefakt mit ungewöhnlichen Eigenschaften gefunden. Hab mit Sidorovitch gesprochen, er würde gut dafür bezahlen.\n \nDu musst ihm den  Behälter mit dem Artefakt übergeben und die Bezahlung abholen. In der Zone hat sich schon rumgesprochen, das du auf Geld kein Wert legst, sondern ungewöhnliche Sachen sammelst - ich werde dir dafür ein sehr Speziells Rezept für ein Artefakt geben.</text>
 		</string>
 		<string id="artmod_641_dialog_2">
 			<text>Gut, ich bin ja nicht so, werd mal die heimische Wissenschaft "unterstützen".</text>
 		</string>
 		<string id="artmod_641_dialog_3">
-			<text>Nee, Leute... Eure "Geschäfte" müßt ihr selber abwickeln.</text>
+			<text>Ja, ich könnte es mir leisten, länger zu bleiben ...</text>
 		</string>
 		<string id="artmod_642_dialog_0">
 			<text>Hallo</text>
@@ -3304,4 +3304,4 @@
 			<text>"Borov"? Genau den suche ich. Ich muss mit ihm reden...</text>
 		</string>
 	</string_table>
-<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 21.03.2017 07:36:01 -->
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 01.04.2017 04:08:59 -->

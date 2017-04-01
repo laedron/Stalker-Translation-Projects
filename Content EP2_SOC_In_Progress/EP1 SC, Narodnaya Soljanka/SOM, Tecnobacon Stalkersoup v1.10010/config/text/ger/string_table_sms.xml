@@ -45,7 +45,7 @@
 		<text>INCOMING</text>
 	</string>
 	<string id="sms_intel">
-		<text>INTEL RECIEVED</text>
+		<text>INTEL RECEIVED</text>
 	</string>
 	<string id="sms_arhara">
 		<text>ARHARA</text>
@@ -478,7 +478,7 @@
 		<text>I saw a group of Mercenaries in the Garbage - perhaps on a job or doing reconaissance. Be careful</text>
 	</string>
 	<string id="sms_dark_btr1">
-		<text>Saw a motorized group of Specnaz moving throughout the Cordon... hard to say what they're up to</text>
+		<text>Just spotted a motorized group of Spetsnaz moving through the Cordon... Looked as if they're searching for someone...</text>
 	</string>
 	<string id="sms_dark_sidor">
 		<text>Sidorovich ... you had better have something useful for me when I get back... or it's your head on a platter... do we understand each other?!</text>
@@ -499,7 +499,7 @@
 		<text>The soldier, you're on the spot. Look carefully in the direction of the Military Outpost. He's yours. Look, do not kill him...</text>
 	</string>
 	<string id="sms_dolbannn">
-		<text>Comrade!! .. Major Kuznetsov sends his regards ... I have your Flash Drive with me ...Meet me at the Research Institute two days from now .. bring the photos!!</text>
+		<text>Comrade!! .. Major Kuznetsov sends his regards ... I have your flash drive with me ...Meet me at the Research Institute two days from now .. bring the photos!!</text>
 	</string>
 	<string id="sms_sidor_piyn">
 		<text>Marked One .. What the hell do you want!? If you haven't been seen by the Doctor yet, you may still be infected .. or worse ...</text>
@@ -589,7 +589,7 @@
 		<text>Judging by everything - no one is - met with someone. The last signal is caught from the Red Forest. Wait a village in return, you must inform Kolmogor</text>
 	</string>
 	<string id="sms_agro_torgash">
-		<text>The request to all - not to open fire on my helicopter. This is a mobile commerce in the Zone. Who has what to sell - please hurry up - helicopter position near the railway tunnel.</text>
+		<text>A request to all - please do not open fire on my helicopter. This is a legal mobile commerce in the Zone. If you have bulk items to sell, we'll be landing shortly near the Agroprom railway tunnel...</text>
 	</string>
 	<string id="sms_gg_black_doc1">
 		<text>I know that Panther needs me alive. You should not try to blackmail me, I am much like you, but I still have a conscience and the notion of friendship, which makes me doubly dangerous.</text>
@@ -1167,7 +1167,7 @@
 		<text>Ah, finally Tryahnu Antiquity. Farewell, Strelok, to all's ride with the breeze...</text>
 	</string>
 	<string id="sms_kluk_pogib_2">
-		<text>Fang, what are you thinking about?? Eh , is that your drop - to hell with this Zvezdochet!!! Fang? Fang??? That blah...</text>
+		<text>Fang, what are you thinking about?? Eh , is that your drop - to hell with this Zvezdochet! Fang? Fang? That blah...</text>
 	</string>
 	<string id="sms_kluk_pogib_3">
 		<text>Fang, Get out of the BTR! I do not have time... Fang!!!</text>
@@ -1197,7 +1197,7 @@
 		<text>And, Strelok! You are very welcome. Here is your little girl arranged debauch. Agree with it unrealistic, more hard-bitten monster...</text>
 	</string>
 	<string id="sms_after_kluk_pogib_5_2">
-		<text>sorry, I have people in the zone have not yet seen. Hurry to the hospital, otherwise it will be too late. Yes, and do not forget to bring the necessary artifacts.</text>
+		<text>sorry, I have people in the Zone have not yet seen. Hurry to the hospital, otherwise it will be too late. Yes, and do not forget to bring the necessary artifacts.</text>
 	</string>
 	<string id="sms_nachalo_bazara_otsek">
 		<text>Ah, there you are, first of all ask soothe your girl. She brings insane demands and is too dangerous to handle weapons.</text>
@@ -1233,7 +1233,7 @@
 		<text>Father???!!! Is that you? How is it so And I... And you... So, do not hurt you quite...</text>
 	</string>
 	<string id="sms_poshel_bazar_otsek_8">
-		<text>Daughter... I have until this last moment not known that you were in the zone and looking for me, this artifact... otherwise, everything would be different.</text>
+		<text>Daughter... I have until this last moment not known that you were in the Zone and looking for me, this artifact... otherwise, everything would be different.</text>
 	</string>
 	<string id="sms_poshel_bazar_otsek_8_2">
 		<text>Now I come down to you, just say a couple words to your friend - do the rest should definitely finish.</text>
@@ -1344,7 +1344,7 @@
 		<text>No, definitely not ours - the Germans I don't know. Mercenary probably.</text>
 	</string>
 	<string id="sms_agro_boltobny_20">
-		<text>No, not ours. Yes, and where is a mercenary in a helmet going??? Maybe he's a miner?</text>
+		<text>No, not ours. Yes, and where is a mercenary in a helmet going? Maybe he's a miner?</text>
 	</string>
 	<string id="sms_agro_boltobny_21">
 		<text>I do not have those. I do not like German helmets. We must ask a scientist.</text>
@@ -1359,7 +1359,7 @@
 		<text>It seems, Strelok - or someone or something did not finish, or none of the audience does not really know.</text>
 	</string>
 	<string id="sms_agro_boltobny_24_2">
-		<text>A. .. maybe he is from a new group? Nobody knows how far stretches the Chernobyl zone, and who dwells there. Probably, Strelok, you'll have to figure it out yourself.</text>
+		<text>A. .. maybe he is from a new group? Nobody knows how far stretches the Chernobyl Zone, and who dwells there. Probably, Strelok, you'll have to figure it out yourself.</text>
 	</string>
 	<string id="sms_agro_boltobny_25">
 		<text>Okay, people, Hare Bazaar - see you again on the specifics drawn. Get into choppers, it's time to fly. And then, it seems, your deputies are waiting nervously that you do not arrive.</text>
@@ -1434,34 +1434,34 @@
 		<text>No shit yourself... What are they transporting? A nuclear bomb or something??</text>
 	</string>
 	<string id="sms_spezdetektor">
-		<text>You're in an area containing a specific plastic</text>
+		<text>RFID tag detected. You are within 10m of a specific type of thermoplastic</text>
 	</string>
 	<string id="sms_pda_slom_1">
-		<text>Navigation module for your PDA out of order. To the display card indicators temporarily impossible.</text>
+		<text>PDA navigation module out of order. Connection to all displays and indicators damaged, possibly due to water ingress</text>
 	</string>
 	<string id="sms_pda_slom_2">
-		<text>This is blah... How wrong time...</text>
+		<text>Fuck it... This is not a good time...</text>
 	</string>
 	<string id="sms_pda_slom_3">
-		<text>Barman, hello. Help me out - navigation on a PDA slammed... No LAN card can...</text>
+		<text>Barman, I need to get my PDA fixed quickly... The display's gone...</text>
 	</string>
 	<string id="sms_pda_slom_4">
-		<text>I talked with associate professor. You'll be at the bar - went to see him - see that with your PDA. For a small fee. Heh-heh...</text>
+		<text>I talked with the techies. They'll be at the Bar waiting for you. They say they'll fix your PDA while you wait. For a small fee of course, heh heh...</text>
 	</string>
 	<string id="sms_pda_slom_5">
-		<text>That Ass.. I'll have to go to assistant professor in Bar. Even the lock on your backpack to repair will - jammed, skunk, are difficult to get a second barrel.. Well, anyway in the way.</text>
+		<text>Shit, I'll need to see the techies at Bar. Even the digital lock on my backpack's fucked...</text>
 	</string>
 	<string id="sms_pda_slom_6">
-		<text>Navigation module for your PDA can not adequately display the coordinates in some areas.</text>
+		<text>PDA navigation module cannot adequately display coordinates in some areas...</text>
 	</string>
 	<string id="sms_pda_sdelan_1">
-		<text>Navigation module for your PDA is running. Perhaps repetition of a fatal error. Contact service department.</text>
+		<text>PDA Navigation module is running, but with possible repetition of a fatal error. Contact service department...</text>
 	</string>
 	<string id="sms_pda_sdelan_2">
-		<text>PDA Navigation module is now working. Synchronising now...</text>
+		<text>PDA navigation module working. Synchronising now...</text>
 	</string>
 	<string id="sms_girl3_nachalo">
-		<text>Hello. Do not be surprised, it is not your Panther. I overheard your last dialog with Fang. A mutual meeting would be useful but.. remove the bug from your PDA before we talk more.</text>
+		<text>Hello. Do not be surprised, it is not your Panther. I overheard your last dialog with Fang. A mutual meeting would be useful, but.. remove the bug from your PDA before we talk more.</text>
 	</string>
 	<string id="sms_girl3_nachalo_1">
 		<text>Doctor, hello. Somehow wrong turns... In my PDA your bug... We, like, decided to major issues...</text>
@@ -1524,7 +1524,7 @@
 		<text>Ghost, fate brought me to the old village. I have a camera gun and photos of the monolith, but it seems the whole buzz is that after taking the photo appeared strange figures...</text>
 	</string>
 	<string id="sms_vopros_k_prizraku_1">
-		<text>You yourself better than I know what to do with the gun - put it away. On figures - remember them or write them, and after, once you're in the countryside..</text>
+		<text>You know better than I what to do with the gun - put it away. On figures - remember them or write them, and after, once you're in the countryside..</text>
 	</string>
 	<string id="sms_vopros_k_prizraku_1_2">
 		<text>and there Pilgrim - go see him, even removes the photos of these figures - it is like in school deuce from the diary without problems removed.</text>
@@ -1669,7 +1669,7 @@
 	<string id="sms_kuznets_1_2">
 		<text>Previously, what people do not start fooling around to take a leak in the bushes sharitsya - do not poke your nose to the fire - shoot.</text>
 	</string>
-	<!-- 109999, NEED TO CHECK WHY DUPLICATED!!! - corrected "sms_narod_napilsy_1", new text - aleks1970 -->
+	<!-- 109999, NEED TO CHECK WHY DUPLICATED! - corrected "sms_narod_napilsy_1", new text - aleks1970 -->
 	<string id="sms_narod_napilsy">
 		<text>Everything seems people get drunk ... oh. a little vodka for the same military happiness need ... and why I was carrying 10 bubbles - and one would be enough...</text>
 	</string>
@@ -1729,7 +1729,7 @@
 		<text>Excellent. Some go away - suddenly, because of you coordinates they crowd or object lands in the head... The camera is charged film. Do not waste it in vain.</text>
 	</string>
 	<string id="sms_kl_pos_est_2">
-		<text>,Doctor, you categorically not discouraged from leaving the zone on the mainland - you will kill workers-mail... you will leave them without jobs, no income.</text>
+		<text>,Doctor, you categorically not discouraged from leaving the Zone on the mainland - you will kill workers-mail... you will leave them without jobs, no income.</text>
 	</string>
 	<string id="sms_prizrak_ranen">
 		<text>Strelok, hello. How are you going? I've got Trouble ... night chmoshniki attacked ... The invisible suits. Man 6-7. You know yourself, fight with those who are invisible - the problem..</text>
@@ -1950,13 +1950,13 @@
 		<text>Zone A center is disabled. Warning!</text>
 	</string>
 	<string id="sms_dcity_gorod2_doza2">
-		<text>You are in the protection zone B of the city on the Rights of the guest. Your time presence is limited to 10 minutes.</text>
+		<text>You are in the protection Zone B of the city on the Rights of the guest. Your time presence is limited to 10 minutes.</text>
 	</string>
 	<string id="sms_dcity_gorod2_doza2_2">
-		<text>During this period, you have to finish their business and leave the area B. The entrance to the city center in the zone A, without a special permit is strictly forbidden.</text>
+		<text>During this period, you have to finish their business and leave the area B. The entrance to the city center in the Zone A, without a special permit is strictly forbidden.</text>
 	</string>
 	<string id="sms_dcity_gorod_doza">
-		<text>Protective shield of the city activated. Stranger in a zone B. Destruction in 4 seconds.</text>
+		<text>Protective shield of the city activated. Stranger in a Zone B. Destruction in 4 seconds.</text>
 	</string>
 	<string id="sms_poziciy_cherdak_zanyta">
 		<text>Position occupied. Eh, not enough time ... I now you'll Saint Bartholomew's Day ... Where's the frog in the green kombeze??</text>
@@ -2073,7 +2073,7 @@
 		<text>We must take the risk. Do it. Second case will not be. I'll come for you, girl.</text>
 	</string>
 	<string id="sms_otkl_zona1">
-		<text>Perfumer, I was able, after a few minutes protection zone will be completely disabled. Farewell.. After the alarm is unlikely to leave me alive. I had already prepared a letter to you.</text>
+		<text>Perfumer, I was able, after a few minutes protection Zone will be completely disabled. Farewell.. After the alarm is unlikely to leave me alive. I had already prepared a letter to you.</text>
 	</string>
 	<string id="sms_otkl_zona2">
 		<text>Spark, what a sad thought ... Get out of there!</text>
@@ -2133,7 +2133,7 @@
 		<text>Looks like I found a note ... Vladimir Ilyich able to keep secrets...</text>
 	</string>
 	<string id="sms_nashel_listok2">
-		<text>Strelok, which Lenin??? I was at the entrance to the headquarters, meet.</text>
+		<text>Strelok, which Lenin? I was at the entrance to the headquarters, meet.</text>
 	</string>
 	<string id="sms_operator_babki_otdat">
 		<text>Attention all users of the local communications network... Your mobile carrier needs to upgrade your equipment.  If you wish to keep on using it, please leave your PDA switched on and it will update automatically. 3,000Ru will be debited from your account</text>

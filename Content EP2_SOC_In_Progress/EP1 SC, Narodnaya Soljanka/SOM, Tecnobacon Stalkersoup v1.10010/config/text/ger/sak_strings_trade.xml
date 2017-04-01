@@ -228,7 +228,7 @@
 			<text>Gut, ich werde ihm deine Position erklären.</text>
 		</string>
 		<string id="krysyk_14_dialog_0">
-			<text>Ich grüße dich, du Retter der verlorenen Seelen!</text>
+			<text>Wie geht's dem Bahnhofs-Meister der U-Bahn?</text>
 		</string>
 		<string id="krysyk_14_dialog_1">
 			<text>Lass das sein, ich bin heute nicht in der Stimmung dafür. Was willst du?</text>
@@ -243,10 +243,10 @@
 			<text>Hmm? Ich hatte die ganze Arbeit und laufereien. Bekomme ich keinen Anteil?</text>
 		</string>
 		<string id="krysyk_14_dialog_41">
-			<text>Hier sind die.</text>
+			<text>Okay, ich finde diese Ratte und lass es ihn wissen. Vielen Dank...</text>
 		</string>
 		<string id="krysyk_14_dialog_51">
-			<text>Gut, dann schauen wir mal, was es für eine "Ratte" ist.</text>
+			<text>Und sag ihm, er solle nie wiederkommen. Banditen sind hier nicht nicht erwünscht ......</text>
 		</string>
 		<string id="krysyk_14_dialog_52">
 			<text>He-He. Natürlich und deinen neuen Freund kannst du dann auch behalten.</text>
@@ -732,7 +732,7 @@
 			<text>OK. Sollte ich die nicht brauchen - tausche ich dann mit jemanden.</text>
 		</string>
 		<string id="trade_dialog_sidor_51">
-			<text>Alles klar, hier ist der Deal:\n \n1. - Reparatur Kit für Anzüge gegen das "Gravit"-Artefakt\n2. - Reparatur Kit für Waffen gegen das "Steinblume"-Artefakt.</text>
+			<text>Alles klar, hier ist der Deal:\n \n1. - 3 Reparatur Kits (8 Einheiten) für Anzüge gegen das "Gravit"-Artefakt\n2. - 3 Reparatur Kits für Waffen gegen das "Steinblume"-Artefakt.</text>
 		</string>
 		<string id="trade_dialog_sidor_52">
 			<text>Ich nehm die Kits für die Anzüge.</text>
@@ -1935,70 +1935,70 @@
 			<text>Angebote der Händler</text>
 		</string>
 		<string id="price_sidor_text">
-			<text>\n \n \n \n \n \n%c[221,255,193,255]Artefakt Angebots Liste von Sidorowitch\n \n%c[001,168,255,210]Munition\n%c[255,224,224,160]12x70 Schrot (3 Päckchen)®:%c[default] 1x Qualle\n%c[255,224,224,160]RGD-5 Granaten®®®®®®®®®®®®:%c[default] 1x Gepressetes\n%c[255,224,224,160]5.45x39mm (3 Päckchen)®®®®:%c[default] 1x Tropfen\n%c[255,224,224,160]7.62x39mm (2 Päckchen)®®®®:%c[default] 1x Steinblut\n%c[default]\n \n%c[001,168,255,210]Waffen\n%c[255,224,224,160]TOZ-34 Schrotflinte®®®®®®®:%c[default] 1x Blitz\n%c[255,224,224,160]Saiga-12k Flinte®®®®®®®®®®:%c[default] 1x Fleischklumpen\n%c[default]\n \n%c[001,168,255,210]Anzüge\n%c[255,224,124,160]Hat er nicht auf Lager®®®®:\n%c[default]\n%c[default]\n \n%c[001,168,255,210]Medizin\n%c[255,224,224,160]8 Standard Medikits®®®®®®®:%c[default] 1x Steinlume\n%c[255,224,224,160]3 Flaschen Wodka®®®®®®®®®®:%c[default] 1x Gepressetes\n%c[default]\n \n%c[001,168,255,210]Reparatur Kits\n%c[255,224,224,160]3 Anzug Kits®®®®®®®®®®®®®®:%c[default] 1x Gravit\n%c[255,224,224,160]3 Waffen Kits®®®®®®®®®®®®®:%c[default] 1x Steinblume\n%c[default]\n \n</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt Angebots Liste von Sidorowitch\n \n%c[001,168,255,210]Munition\n%c[255,224,224,160]3x 12x70 Schrot®®®®®®®®®®®:%c[default] 1x Qualle\n%c[255,224,224,160]2x RGD-5 Granaten®®®®®®®®®:%c[default] 1x Gepressetes\n%c[255,224,224,160]3x 5.45x39mm (Standard)®®®:%c[default] 1x Tropfen\n%c[255,224,224,160]2x 7.62x39mm (Standard)®®®:%c[default] 1x Steinblut\n%c[default]\n \n%c[001,168,255,210]Waffen\n%c[255,224,224,160]TOZ-34 Schrotflinte®®®®®®®:%c[default] 1x Blitz\n%c[255,224,224,160]Saiga-12k Flinte®®®®®®®®®®:%c[default] 1x Fleischklumpen\n%c[default]\n \n%c[001,168,255,210]Anzüge\n%c[255,224,124,160]Hat er nicht auf Lager®®®®%c[default]\n%c[default]\n \n \n%c[001,168,255,210]Medizin\n%c[255,224,224,160]8 Standard Medikits®®®®®®®:%c[default] 1x Steinlume\n%c[255,224,224,160]3 Flaschen Wodka®®®®®®®®®®:%c[default] 1x Gepressetes\n%c[default]\n \n%c[001,168,255,210]Reparatur Kits\n%c[255,224,224,160]3 Anzug Kits (10%)®®®®®®®®:%c[default] 1x Gravit\n%c[255,224,224,160]3 Waffen Kits (10%)®®®®®®®:%c[default] 1x Steinblume\n%c[default]\n \n</text>
 		</string>
 		<string id="price_barman_text">
-			<text>Barkeep's offers:\n \n1. 5.45x39mm cartridges: five packs of standard, or three packs of armor-piercing for a Flash\n2. Three RGD-5 grenades for a Stone Flower\n3. 5.56x39mm cartridges: five packs of standard, or three packs of armor-piercing for a Slime\n4. 9x39mm cartridges: five packs of standard, or three packs of armor-piercing for a Gravi\n \n1. One AS Val for two Fireballs\n2. One OC-14 Groza for a Night Star\n \n1. Five standard medkits for a Sparkler\n2. Three bottles of vodka for a Stone Blood\n \n1. Three Armor repair kits for a Meat Chunk\n2. Three Weapon repair kits for a Fireball</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt Angebots Liste vom Wirt\n \n%c[001,168,255,210]Munition\n%c[255,224,224,160]5x 5.45x39mm (Standard)®®®:%c[default] 1x Blitz\n%c[255,114,114,160]3x 5.45x39mm (Panzerb.)®®®:%c[default] 1x Blitz\n%c[255,224,224,160]5x 5.56x39mm (Standard)®®®:%c[default] 1x Schleim\n%c[255,114,114,160]3x 5.56x39mm (Panzerb.)®®®:%c[default] 1x Schleim\n%c[255,224,224,160]5x 9x39mm (Standard)®®®®®®:%c[default] 1x Gravit\n%c[255,114,114,160]3x 9x39mm (Panzerb.)®®®®®®:%c[default] 1x Gravit\n%c[255,224,224,160]3x RGD-5 Granaten®®®®®®®®®:%c[default] 1x Steinblumem\n%c[default]\n \n%c[001,168,255,210]Waffen\n%c[255,224,224,160]AS Val®®®®®®®®®®®®®®®®®®®®:%c[default] 2x Feuerball\n%c[255,224,224,160]OC-14 Groza®®®®®®®®®®®®®®®:%c[default] 1x Nacht Stern\n%c[default]\n \n%c[001,168,255,210]Anzüge\n%c[255,224,124,160]Hat er nicht auf Lager®®®®%c[default]\n%c[default]\n \n \n%c[001,168,255,210]Medizin\n%c[255,224,224,160]5 Standard Medikits®®®®®®®:%c[default] 1x Funkensprüher\n%c[255,224,224,160]3 Flaschen Wodka®®®®®®®®®®:%c[default] 1x Steinblut\n%c[default]\n \n%c[001,168,255,210]Reparatur Kits\n%c[255,224,224,160]3 Anzug Kits (10%)®®®®®®®®:%c[default] 1x Fleischklumpen\n%c[255,224,224,160]3 Waffen Kits (10%)®®®®®®®:%c[default] 1x Feuerball\n%c[default]\n \n</text>
 		</string>
 		<string id="price_petrenko_text">
-			<text>Petrenko's offers:\n \n1. 7.62x54mm cartridges: two packs of standard sniper rounds, or a pack of armor-piercing for a Droplet\n2. Four VOG-25 grenades, or three VOG-25A for a Stone Blood\n3. 7.62x39mm cartridges: five packs of standard, or three packs of armor-piercing for a Medusa\n4. A Duty PSZ-9Md Universal for two Micas, or a Duty Exoskeleton for three Micas\n \n1. A Vintora Dragunova (SVD) sniper rifle for an Urchin\n2. A truncated SVU Expert automatic sniper rifle for a Soul\n \n1. Three Military medkits for a Stone Flower</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt Angebots Liste von Petrenko\n \n%c[001,168,255,210]Munition\n%c[255,224,224,160]2x 7.62x54mm (Standard)®®®:%c[default] 1x Tropfen\n%c[255,114,114,160]1x 7.62x54mm (Panzerb.)®®®:%c[default] 1x Tropfen\n%c[255,224,224,160]5x 7.62x39mm (Standard)®®®:%c[default] 1x Qualle\n%c[255,114,114,160]3x 7.62x39mm (Panzerb.)®®®:%c[default] 1x Qualle\n%c[255,224,224,160]4x VOG-25 Granaten®®®®®®®®:%c[default] 1x Steinblut\n%c[default]\n \n%c[001,168,255,210]Waffen\n%c[255,224,224,160]SVD Scharfschützengewehr®®:%c[default] 1x Seeigel\n%c[255,224,224,160]SVU-AS®®®®®®®®®®®®®®®®®®®®:%c[default] 1x Seele\n%c[default]\n \n%c[001,168,255,210]Anzüge\n%c[255,224,224,160]PSZ-9Md Wächter Uni.Schut.:%c[default] 2x Mika\n%c[255,224,224,160]Exo-Skelett "Wächter"®®®®®:%c[default] 3x Mika\n\n%c[default]\n \n%c[001,168,255,210]Medizin\n%c[255,224,224,160]5 Militär Medikits®®®®®®®®:%c[default] 1x Steinblume\n%c[default]\n \n%c[001,168,255,210]Reparatur Kits\n%c[255,224,124,160]Hat er nicht auf Lager®®®®%c[default]\n%c[default]\n \n</text>
 		</string>
 		<string id="price_scraga_text">
-			<text>Miser's offers:\n \n1. 5.56mm cartridges: five packs of standard, or three packs of armor-piercing for a Slime\n2. Two F-1 grenades for a Thorn\n3. PKM machine gun cartridges - two boxes for a Crystal Thorn\n4. 5.7x39mm cartridges for the Belgian FN P90 - four packs for a Gravi\n \n1. A Belgian FN P90 for a Goldfish\n2. An FN2000 for three Souls\n \n1. Five standard medkits for a Jellyfish\n2. Five Antirads for a Quirk\n \n1. Three Weapon repair kits for a Stone Flower</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt Angebots Liste von Miser\n \n%c[001,168,255,210]Munition\n%c[255,224,224,160]5x 5.56mm (Standard)®®®®®®:%c[default] 1x Schleim\n%c[255,114,114,160]3x 5.56mm (Panzerb.)®®®®®®:%c[default] 1x Schleim\n%c[255,224,224,160]4x 5.7x39mm (Standard)®®®®:%c[default] 1x Gravit\n%c[255,224,224,160]2x PKM-MG Munition®®®®®®®®:%c[default] 1x Dornenkristall\n%c[255,224,224,160]2x F-1 Granaten®®®®®®®®®®®:%c[default] 1x Dorn\n%c[default]\n \n%c[001,168,255,210]Waffen\n%c[255,224,224,160]Belgische FN-P90®®®®®®®®®®:%c[default] 1x Goldfisch\n%c[255,224,224,160]FN-2000®®®®®®®®®®®®®®®®®®®:%c[default] 3x Seele\n%c[default]\n \n%c[001,168,255,210]Anzüge\n%c[255,224,124,160]Hat er nicht auf Lager®®®®%c[default]\n%c[default]\n \n \n%c[001,168,255,210]Medizin\n%c[255,224,224,160]5 Standard Medikits®®®®®®®:%c[default] 1x Qualle\n%c[255,224,224,160]5 Antirad's®®®®®®®®®®®®®®®:%c[default] 1x Gepressetes\n%c[default]\n \n%c[001,168,255,210]Reparatur Kits\n%c[255,224,224,160]5 Waffen Kits (10%)®®®®®®®:%c[default] 1x Steinblume\n%c[default]\n \n</text>
 		</string>
 		<string id="price_sak_text">
-			<text>Syak's offers:\n \n1. Sniper cartridges: two packs of standard, or one pack of armor-piercing for a Meat Chunk\n2. 9x39 cartridges: five packs of standard, four packs of sniper, or three packs of armor-piercing for a Gravi\n3. Gauss rifle charges for a Fireball\n4. A Military SKAT10 for three Urchins.\n \n1. A BCC Vintorez Pro for a Crystal\n \n1. Three Military medkits for a Crystal Thorn\n \n1. Three Armor repair kits for a Flash</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt Angebots Liste von Syak\n \n%c[001,168,255,210]Munition\n%c[255,224,224,160]2x 7.62x54mm (Standard)®®®:%c[default] 1x Fleischklumpen\n%c[255,114,114,160]1x 7.62x54mm (Panzerb.)®®®:%c[default] 1x Fleischklumpen\n%c[255,224,224,160]5x 9x39mm (Standard)®®®®®®:%c[default] 1x Gravit\n%c[255,114,114,160]4x 9x39mm (Panzerbrechend):%c[default] 1x Gravit\n%c[255,194,194,160]3x 9x39mm (Scharfsch. SP5):%c[default] 1x Gravit\n%c[255,224,224,160]1x Gauss Munition-Ladung®®:%c[default] 1x Fuerball\n%c[default]\n \n%c[001,168,255,210]Waffen\n%c[255,224,224,160]BCC/VCC Vintorez®®®®®®®®®®:%c[default] 1x Kristall\n%c[255,224,224,160]Saiga®®®®®®®®®®®®®®®®®®®®®:%c[default] 1x Fleischklumpen\n%c[default]\n \n%c[001,168,255,210]Anzüge\n%c[255,224,224,160]Spezial-Panzer. SKAT-10®®®:%c[default] 3x Seeigel\n\n%c[default]\n \n%c[001,168,255,210]Medizin\n%c[255,224,224,160]3 Militär-Medikits®®®®®®®®:%c[default] 1x Dornenkristall\n%c[255,224,224,160]5 Flaschen Wodka®®®®®®®®®®:%c[default] 1x Gepressetes\n%c[default]\n \n%c[001,168,255,210]Reparatur Kits\n%c[255,224,224,160]3 Anzug Kits (10%)®®®®®®®:%c[default] 1x Blitz\n%c[default]\n \n</text>
 		</string>
 		<string id="price_doktor_text">
-			<text>The Doctor's offers:\n \n1. Shotgun cartridges - five packs for a Thorn\n2. Five RGD-5 grenades for a Slime\n3. 5.56x39mm cartridges - three packs for a Droplet\n4. 7.62x39mm cartridges - three packs for a Flash\n \n1. An SiG sniper rifle for three Micas\n2. An AK-47 for a Soul\n \n1. Three Scientific medkits for a Slug\n2. Five Antirads for a Stone Flower\n \n1. Three Weapon repair kits for a Gravi</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt Angebots Liste vom Doktor\n \n%c[001,168,255,210]Munition\n%c[255,224,224,160]5x 12x70 Schrot®®®®®®®®®®®:%c[default] 1x Dorn\n%c[255,114,114,160]3x 5.45x39mm (Panzerb.)®®®:%c[default] 1x Tropfen\n%c[255,224,224,160]3x 7.62x39mm (Standard)®®®:%c[default] 1x Blitz\n%c[255,224,224,160]5x RGD-5 Granaten®®®®®®®®®:%c[default] 1x Schleim\n%c[default]\n \n%c[001,168,255,210]Waffen\n%c[255,224,224,160]SiG Scharfschützen Gewehr®:%c[default] 3x Mikas\n%c[255,224,224,160]AK-47®®®®®®®®®®®®®®®®®®®®®:%c[default] 1x Seele\n%c[default]\n \n%c[001,168,255,210]Anzüge\n%c[255,224,124,160]Hat er nicht auf Lager®®®®%c[default]\n%c[default]\n \n \n%c[001,168,255,210]Medizin\n%c[255,224,224,160]3 Forschungs-Medikits®®®®®:%c[default] 1x Schnecke\n%c[255,224,224,160]5 Antirad's®®®®®®®®®®®®®®®:%c[default] 1x Steinblume\n%c[default]\n \n%c[001,168,255,210]Reparatur Kits\n%c[255,224,224,160]3 Waffen Kits (10%)®®®®®®®:%c[default] 1x Gravit\n%c[default]\n \n</text>
 		</string>
 		<string id="price_jila_text">
-			<text>Vein's offers:\n \nAmmunition:\n1. Five fresh sandwiches will get you one box of 5.45x39mm cartridges\n2. Two bars of chocolate will get you one RGD-5 grenade\n3. Two 100*Rads gets you one box of 9x19mm +P+ Cartridges\n4. Five loaves of bread will get you one F1 grenade\n \nWeapons? Well, choose:\n1. An AN-94 'Abakan' will cost you ten tins of canned food\n2. An HK MP5 will cost you five sausages\n \nMedical Supplies:\n1. Two flasks of water will get you one medkit\n2. Five sandwiches will get you one Cossacks vodka\n \nRepair kits:\n1. Three 'Zone' beers will get you one Armor repair kit\n2. Three Cuban cigars will get you one Weapon repair kit</text>
+			<text>\n \n \n \n%c[221,255,193,255]Lebensmittel Angebots Liste von Vein\n \n%c[001,168,255,210]Munition\n%c[255,224,224,160]1x 5.45x39mm (Standard)®®®:%c[default] 5 Sandwiche\n%c[255,114,114,160]1x 9x19mm (Panzerbrechend):%c[default] 2 Flaschen "100 Rad's"\n%c[255,224,224,160]1x RGD-5 Granate®®®®®®®®®®:%c[default] 2 Tafeln Schokolade\n%c[255,224,224,160]1x F-1 Granate®®®®®®®®®®®®:%c[default] 5 Brote\n%c[default]\n \n%c[001,168,255,210]Waffen\n%c[255,224,224,160]AN-94 "Abakan"®®®®®®®®®®®®:%c[default] 10 Konservendosen\n%c[255,224,224,160]H&amp;K MP5®®®®®®®®®®®®®®®®®®®:%c[default] 5 Würste\n%c[default]\n \n%c[001,168,255,210]Anzüge\n%c[255,224,124,160]Hat er nicht auf Lager®®®®%c[default]\n%c[default]\n \n \n%c[001,168,255,210]Medizin\n%c[255,224,224,160]1 Standard Medikit®®®®®®®®:%c[default] 2 Flaschen Wasser\n%c[255,224,224,160]1 Kosakenwodka®®®®®®®®®®®®:%c[default] 5 Sandwiche\n%c[default]\n \n%c[001,168,255,210]Reparatur Kits\n%c[255,224,224,160]3 Anzug Kits (10%)®®®®®®®®:%c[default] 3 "Zonen" Biere\n%c[255,224,224,160]3 Waffen Kits (10%)®®®®®®®:%c[default] 3 Kubanische Zigarren\n%c[default]\n \n</text>
 		</string>
 		<string id="price_kuznezov_text">
-			<text>Kuznetsov's offers:\n \n1. 5.45x39mm cartridges for the AK-74: three bottles for five standard packs, or three armor-piercing packs\n2. RGD5 grenades - two for a bottle\n3. 7.62x39mm AK-47 cartridges - five bottles for three packs\n4. Sniper rounds - three bottles for a pack\n \n1. An AN-94 'Abakan' for 5 litres\n2. An AK-47 for 4 litres\n \n1. Two medkits for a bottle</text>
+			<text>\n \n \n \n%c[221,255,193,255]Wodka Angebots Liste vom Feldwebel Kuznetsov\n \n%c[001,168,255,210]Munition\n%c[255,224,224,160]5x 5.45x39mm (Standard)®®®:%c[default] 3 Flaschen Wodka\n%c[255,114,114,160]3x 5.45x39mm (Panzerb.)®®®:%c[default] 3 Flaschen Wodka\n%c[255,224,224,160]3x 7.62x39mm (Standard)®®®:%c[default] 5 Flaschen Wodka\n%c[255,114,114,160]3x 7.62x39mm (Panzerb.)®®®:%c[default] 5 Flaschen Wodka\n%c[255,224,224,160]2x RGD-5 Granaten®®®®®®®®®:%c[default] 2 Flaschen Wodka\n%c[default]\n \n%c[001,168,255,210]Waffen\n%c[255,224,224,160]AN-94 "Abakan"®®®®®®®®®®®®:%c[default] 15 Flaschen Wodka\n%c[255,224,224,160]AK-47®®®®®®®®®®®®®®®®®®®®®:%c[default] 5 Flaschen Wodka\n%c[default]\n \n%c[001,168,255,210]Anzüge\n%c[255,224,124,160]Hat er nicht auf Lager®®®®%c[default]\n%c[default]\n \n \n%c[001,168,255,210]Medizin\n%c[255,224,224,160]1 Militär-Medikit®®®®®®®®®:%c[default] 1 Flasche Wodka\n%c[default]\n \n%c[001,168,255,210]Reparatur Kits\n%c[255,224,124,160]Hat er nicht auf Lager®®®®%c[default]\n%c[default]\n \n</text>
 		</string>
 		<string id="price_sherstuk_text">
-			<text>Sherstjuk's offers:\n \n1. Cartridges 5.45x39mm for the AK-74 - three bottles for five packs of standard, or three packs of armor-piercing\n2. An F-1 Grenade for one bottle\n3. 7.62 PKM machine gun cartridges\n 3a. - One box of 100 rounds for seven bottles\n 3b. - One box of 250 rounds for twelve bottles\n4. Military SKAT9-M for fifteen bottles\n5. Military SKAT10-M for twenty five bottles\n \n1. Abakan sniper rifle - fifteen bottles\n2. PKM machine gun for a 'twenty' case of vodka\n \n1. Standard medkits - two for a bottle</text>
+			<text>\n \n \n \n%c[221,255,193,255]Wodka Angebots Liste von Sherstjuk\n \n%c[001,168,255,210]Munition\n%c[255,224,224,160]5x 5.45x39mm (Standard)®®®:%c[default] 3 Flaschen Wodka\n%c[255,114,114,160]3x 5.45x39mm (Panzerb.)®®®:%c[default] 3 Flaschen Wodka\n%c[255,224,224,160]3x 7.62 PKM (100er Gurt)®®:%c[default] 7 Flaschen Wodka\n%c[255,224,224,160]3x 7.62 PKM (250er Gurt)®®:%c[default] 12 Flaschen Wodka\n%c[255,224,224,160]1x F-1 Granate®®®®®®®®®®®®:%c[default] 1 Flasche Wodka\n%c[default]\n \n%c[001,168,255,210]Waffen\n%c[255,224,224,160]AN-94 "Abakan" Sniper®®®®®:%c[default] 15 Flaschen Wodka\n%c[255,224,224,160]PKM Maschinen Gewehr®®®®®®:%c[default] 20 Flaschen Wodka\n%c[default]\n \n%c[001,168,255,210]Anzüge\n%c[255,224,224,160]Militär SKAT9-M®®®®®®®®®®®:%c[default] 15 Flaschen Wodka\n%c[255,224,224,160]Militär SKAT10-M®®®®®®®®®®:%c[default] 20 Flaschen Wodka\n\n%c[default]\n \n%c[001,168,255,210]Medizin\n%c[255,224,224,160]1 Standard-Medikit®®®®®®®®:%c[default] 2 Flaschen Wodka\n%c[default]\n \n%c[001,168,255,210]Reparatur Kits\n%c[255,224,124,160]Hat er nicht auf Lager®®®®%c[default]\n%c[default]\n \n</text>
 		</string>
 		<string id="price_sakharov_text">
-			<text>Sakharov's offers:\n \n1. 9mm charges for the M72-M Gauss rifle - ten rounds for a Night Star\n2. 9mm charges for the M72-M SuperGauss - three rounds for a Spring\n3. An SSP-99M Vega suit for a Crystal\n4. Shotgun shells 12x70 mm: five packs of Buckshot, three packs of Darts, or two packs of Slugs for a Sparkler\n \n1. A smooth-bore SPAS 12 shotgun for a Slug\n2. An M72-M Gauss-rifle for three Glassbeads\n \n1. Four scientific medkits for a Thorn\n2. Five Antirads for a Slime\n \n1. Three Armor repair sets for a Gravi</text>
+			<text>\n \n \n \n%c[221,255,193,255]Artefakt Angebots Liste von Sakharov\n \n%c[001,168,255,210]Munition\n%c[255,224,224,160]5x 12x70 Schrot®®®®®®®®®®®:%c[default] 1x Funkensprüher\n%c[255,224,224,160]3x 12x70 Spitz®®®®®®®®®®®®:%c[default] 1x Funkensprüher\n%c[255,224,224,160]2x 12x70 Massiv®®®®®®®®®®®:%c[default] 1x Funkensprüher\n%c[255,224,224,160]10x M72-M Gauss Ladungen®®:%c[default] 1x Nacht Stern\n%c[255,114,114,160]3x M72-M SuperGauss Ladung:%c[default] 1x Sprungfeder\n%c[default]\n \n%c[001,168,255,210]Waffen\n%c[255,224,224,160]SPAS 12®®®®®®®®®®®®®®®®®®®:%c[default] 1x Schnecke\n%c[255,224,224,160]M72-M Gauss Gewehr®®®®®®®®:%c[default] 3x Mamas Perlen\n%c[default]\n \n%c[001,168,255,210]Anzüge\n%c[255,224,224,160]SSP-99M Vega Anzug®®®®®®®®:%c[default] 2x Mika\n%c[default]\n \n%c[001,168,255,210]Medizin\n%c[255,224,224,160]4 Forschungs-Medikits®®®®®:%c[default] 1x Dorn\n%c[255,224,224,160]5 Antirad's®®®®®®®®®®®®®®®:%c[default] 1x Schleim\n%c[default]\n \n%c[001,168,255,210]Reparatur Kits\n%c[255,224,224,160]3 Anzug Kits (10%)®®®®®®®®:%c[default] 1x Gravit\n%c[default]\n \n</text>
 		</string>
 		<string id="about_repair_box_dialog_0">
-			<text>Can you supply me with another Toolbox?</text>
+			<text>Hör mal, hast du vielleicht einen Werkzeugkoffer für Reparaturkits?</text>
 		</string>
 		<string id="about_repair_box_dialog_1">
-			<text>Did you go and lose yours or something?</text>
+			<text>Wa? Wiso?... hast du deinen verloren?</text>
 		</string>
 		<string id="about_repair_box_dialog_2">
-			<text>Just answer the question...</text>
+			<text>Keine Ahnung, hat wohl jemand geklaut .. als ich schlief.</text>
 		</string>
 		<string id="about_repair_box_dialog_3">
-			<text>Yeah, I can provide you with another one... but...</text>
+			<text>Scheinst ein Pechvogel zu sein, was? Ja, ich kann dir einen geben  - aber ...</text>
 		</string>
 		<string id="about_repair_box_dialog_4">
-			<text>But, what?...</text>
+			<text>Aber was? - Pass auf, was du sagst. Ich hab dich ganz normal gefragt.</text>
 		</string>
 		<string id="about_repair_box_dialog_5">
-			<text>But these things aren't cheap. It will cost you ten Medusa artefacts...</text>
+			<text>Bleib ruhig! Ich hab'es ja. Kostet dich nur 10 "Quallen"-Artefakte.</text>
 		</string>
 		<string id="about_repair_box_dialog_61">
-			<text>Okay, fine... it's not like I have a choice... here you go...</text>
+			<text>Okay! Es ist nicht so, als hätte ich eine Wahl.. hier.</text>
 		</string>
 		<string id="about_repair_box_dialog_62">
-			<text>That's a bit steep, don't you think?!</text>
+			<text>Alter.. Merk mal was?! 10? Sag mir einen vernünftigen Preis.</text>
 		</string>
 		<string id="about_repair_box_dialog_71">
-			<text>That's what I like about you, Marked One... you never haggle...</text>
+			<text>Das ist das was mir an dir gefällt, Gezeichnter - du zahlst immer was man in diesem Spiel verlangt. Hier.</text>
 		</string>
 		<string id="about_repair_box_dialog_72">
-			<text>You drive a hard bargain... Okay, fine, make it seven...</text>
+			<text>Sind wir auf den Türkischen Basar?! Okay, aber nur diesmal - Sieben!</text>
 		</string>
 		<string id="about_repair_box_dialog_81">
-			<text>You want to make something of it?... Go ahead!</text>
+			<text>Du ziehst mich aus!. Hier, soll's dir in der Kehle steckenbleiben!</text>
 		</string>
 		<string id="about_repair_box_dialog_82">
-			<text>Thanks. I'll be back for it when I have the artefacts...</text>
+			<text>Du kannst mich mal, echt! Vielleicht komm ich später wenn ich die Artefakte habe.</text>
 		</string>
 	</string_table>
-<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 30.03.2017 09:03:11 -->
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 01.04.2017 04:24:18 -->

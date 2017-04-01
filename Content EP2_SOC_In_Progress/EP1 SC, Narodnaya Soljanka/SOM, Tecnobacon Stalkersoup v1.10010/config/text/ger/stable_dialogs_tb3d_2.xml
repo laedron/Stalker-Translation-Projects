@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1252"?>
 <!--TB3D 1.1.0.0.1.1 added new autosaves and sms messages, barman, sid, more content, tb3d_sms_bars_found, tb3d_sms_chaes_start, dialog imp, new dialogs, additional content -->
 <!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 07 Oct 16 -->
-<!-- Corrected many generic punctuation, in-game and US/UK spelling errors - Sword2012 - 12 Dec 16 -->
+<!-- Corrected many generic punctuation, in-game and US/UK spelling errors - Sword2012 - 12 Dec 16  -->
 <string_table>
 	<!-- autosaves -->
 	<string id="start_storm">

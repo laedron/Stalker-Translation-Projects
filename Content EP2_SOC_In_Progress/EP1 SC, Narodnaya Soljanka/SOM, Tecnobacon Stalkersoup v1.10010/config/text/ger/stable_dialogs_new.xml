@@ -1,22 +1,22 @@
 <!-- TB3D 1.1.0.0.0.7 the doctor, line 451, 454, 484, rem. russian char. aleks1970, price_dan_prinesi_text, freeman_braad_one_2, Sidorovich,
  DeJames, something, 6 boar hooves, text outside block removed, ghost diary, land to miser -->
 <!-- Names changed as commented below - Sword2012 - 31 Oct 16 -->
-<!-- Corrected many generic punctuation, in-game and US/UK spelling errors - Sword2012 - 12 Dec 16 -->
+<!-- Corrected many generic punctuation, in-game and US/UK spelling errors - Sword2012 - 12 Dec 16  -->
 <string_table>
 	<string id="prinesi_hvost_0">
 		<text>Hello! I have some mutant parts for you...</text>
 	</string>
 	<string id="prinesi_hvost_1">
-		<text>Greetings, Marked One! Here's my offer... bring me:\n3 Blind Dog's tails\n or 6 Wild Boar's hooves...\n I have customers that buy these parts to make medicines from them...</text>
+		<text>Greetings, Marked One! Here's my offer... bring me:\n3 Blind Dog's tails\n or 6 Wild Boar's hooves...\n I have customers that buy these parts to make medicines...</text>
 	</string>
 	<string id="prinesi_hvost_2">
-		<text>Greetings Dan, I have collected the hooves for you ... here they are...</text>
+		<text>Greetings, Dan. Here are your boar hooves...</text>
 	</string>
 	<string id="prinesi_hvost_3">
-		<text>Hello there Dan, I brought the tails you asked for...</text>
+		<text>Hello there Dan, I brought those tails you asked for...</text>
 	</string>
 	<string id="prinesi_hvost_4">
-		<text>You brought the hooves? Perfect, I will get a good price for these!</text>	<!-- Small edits - Sword2012 - 31 Oct 16-->
+		<text>You brought the hooves? Perfect, I'll get a good price for these!</text>	<!-- Small edits - Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="prinesi_hvost_5">
 		<text>You have brought me the tails... well done!!</text>
@@ -37,13 +37,13 @@
 		<text>Bring you what? You want me to risk my life while you sit and get drunk with the Doctor? How thick do you think I am? Go yourself and I will talk with the Doctor</text>
 	</string>
 	<string id="fox_give_0">
-		<text>Here Fox, I have brought your gun... A Good weapon, I really like it. Prapor did not want to give it to me. It was necessary to take a great risk getting bloodsucker tentacles. And you of course know how they fight, I need some Vodka!</text>
+		<text>I've brought your gun.  It's a very responsive weapon, I really like it. Prapor didn't want to give it to me. He asked to find him some bloodsucker tentacles first...</text>
 	</string>
 	<string id="fox_give_1">
 		<text>Well thanks, Marked One! Sorry for all the trouble. Now that I've got some good fire power those mutants are going to pay!... Here's you reward</text>
 	</string>
 	<string id="prapor_bring_jaw_0">
-		<text>Greetings, Prapor, I come on business. Fox said that your holding a parcel for him. He got injured by some Pseudo-dogs, so I've come to pick it up</text>
+		<text>Prapor, I'm here to help Fox. He said that you're holding a package for him. He got torn up by some Pseudodogs, so I've to pick it up for him...</text>
 	</string>
 	<string id="prapor_bring_jaw_1">
 		<text>Well what do you think this is, a post office? If you want it, your going to have to earn it! Bring me a pair of Bloodsucker tentacles, then you can have the parcel. For storage fees, so to speak</text>	<!-- Changed 'two feelers' to 'a pair of tentacles' - Sword2012 - 31 Oct 16-->
@@ -67,7 +67,7 @@
 		<text>General Voronin has sent me ... tell me what you know about who killed Fang, and why did they do it!?</text>
 	</string>
 	<string id="informator_pda_tiran_3">
-		<text>Marked One, you're a person respected in the Zone. But why do people think that they can approach me free of charge and demand that I share my information? No way bub, you want info you pay! In general though, I have lately been told that someone has stolen the PDA of Tirana, the leader of the Mercenaries. In general he now, to put it mildly, is strongly upset, much like a flight of furious baboons. I hope you understand how valuable the information is and how much it costs. Many are hunting for this PDA, both Duty, and Freedom, and Bandit wasps, are all trying to find it before the others. And so, I know who has it and where this person is. If you agree to bring it to me I will point you towards the person, he will tell you everything that he knows. And I believe he knows much</text>
+		<text>Marked One, you're a respected man in the Zone. But why do people think that they can approach me free of charge and demand that I share my information? No way, brother, if you want information you'll need to pay! In general though, I have lately been told that someone has stolen the PDA of Tirana, the leader of the Mercenaries. In general he now, to put it mildly, is strongly upset, much like a flight of furious baboons. I hope you understand how valuable the information is and how much it costs. Many are hunting for this PDA, both Duty, and Freedom, and Bandit wasps, are all trying to find it before the others. And so, I know who has it and where this person is. If you agree to bring it to me I will point you towards the person, he will tell you everything that he knows. And I believe he knows much</text>
 	</string>
 	<string id="informator_pda_tiran_4">
 		<text>Okay, we will do it your way. Where is this 'miracle person' with the PDA?</text>
@@ -127,58 +127,58 @@
 		<text>It is insulting to me, listening to your vulgar mouth. I'm a person with a vulnerable soul and a thin constitution. Anyway, you know that the Zone is full of unexpectedness and troubles. Alright, here's a five-copeck coin for vodka</text>
 	</string>
 	<string id="freeman_help_one_0">
-		<text>Well I can't believe it!, Gordon Freeman in person. How did you get here? I heard you had been killed, but that must have been lies</text>
+		<text>Wow! Is it Gordon Freeman? How did you get here? I heard you'd been killed, or at least that you had a price on your head...</text>
 	</string>
 	<string id="freeman_help_one_1">
-		<text>All I remember is making my way into the Zone. In the Cordon I hired a guide from a man named Sidorovich for big money. Then he took me through a valley, past a lake, and into a factory complex. I look at my Guide and see something is wrong, I try to talk to him but he doesn't respond. His eyes are glazed and empty, I fear he is turning into a Zombie. I hear the roar of a monster and I'm scared for my life. I see a tunnel with many Anomalies. I'm more scared of mutants than anomalies so I work my way into the tunnel and find a place to sleep. My head hurt badly, but finally I fell asleep. I don't know how long I was there, a week? a month? I can't remember. I was woken up by a roar, more terrible than I ever heard before. I saw a huge mutant with two heads!. It stood in the middle of an Electro anomaly and was charging in it. I tried to get out silently. But it heard me and began to growl terribly. Without bolts, without a detector, I got up and ran and didn't stop till I found refuge here. I left all my gear in that tunnel, my Desert Eagle altered to fire the more common 9x39 cartridge. The gun is strong, I personally could kill a pair of bloodsuckers in one clip. Truth is, I'm afraid to go back there. Will you find me this gun? Bring my weapons to me and I will give you one of them. And an Artefact recipe</text>
+		<text>Yes, I needed to disappear before someone organized it for me, so I made my way into the Zone. In the Cordon I hired a guide from a man named Sidorovich. He took me through a valley, past a lake, and into a factory complex before he started to mumble. I saw that something was wrong with his focusing, and I tried to talk to him, but he didn't respond. His eyes looked glazed and empty, and I feared he was turning into a zombie.\nThen I heard the roar of a monster and was scared for our lives. I saw a tunnel full of Electro anomalies close by, but I'm more scared of mutants so I worked my way to the end of it and found a quiet place to sleep. My head was hurting badly, but if you're tired enough you can sleep through anything...\nI don't know how long I was there - A week? A month? I don't remember. I was woken up by a screech more terrible than I've ever heard before. It was a huge mutant with two heads! It was stood in the middle of an Electro and seemed to be charging up in it...\nI tried to move around quietly, but it sensed me and began to growl. Without bolts, without a detector, I just ran and didn't stop until I found refuge here.\nI left all my gear in that tunnel, including my Desert Eagle chambered for the more common 9x39 cartridge. It's a powerful weapon, and I've used it to kill a pair of bloodsuckers with one clip. Truth is, though, I'm afraid to go back there. If you're in that area would you search for this gun? Return my weapons to me and I'll happily give you one of them...</text>
 	</string>
 	<string id="freeman_help_one_2">
-		<text>Freeman, pull yourself together, I will find your gun</text>
+		<text>Don't worry, Freeman. I'm going that way, and I'll find your gun...</text>
 	</string>
 	<string id="freeman_bring_one_0">
-		<text>Gordon, I'm back! Here's your gun</text>
+		<text>Hey, Gordon! Here's your Desert Eagle...</text>
 	</string>
 	<string id="freeman_bring_one_1">
-		<text>Marked One I am glad to call you my friend. Here take the Desert Eagle as promised</text>
+		<text>Marked One, I am happy to call you my friend. Here, please accept this artefact I promised...</text>
 	</string>
 	<string id="freeman_case_help_0">
-		<text>Enjoying the Barman's company? Too much Vodka is a good thing sometimes</text>
+		<text>Thank you. Are you enjoying the Barman's company? He's quite a character...</text>
 	</string>
 	<string id="freeman_case_help_1">
-		<text>Yes, he is good company and can drink like a fish. Marked One I've got more serious business I need your help with. When travelling with my Guide and reaching the Wild Territory, I met a person. His name is DeJames, he claimed to be from America also. Having drunk lots of Vodka, he persuaded me to give him my document case for safe keeping. And in it is very important documents. I need that case but I'm afraid to go back there. He stays in a small carriage in the Wild Territory. Will you go and pick it up for me?</text>
+		<text>Yes, he's good company and can drink like a fish. Marked One, I've got more serious business I need your help with. When travelling with my guide and reaching the Wild Territory, I met a man. His name is DeJames, who claimed to be from America also. He offered me a lot of vodka, then persuaded me to give him my document case for safekeeping. There are some important documents inside that I could really use here. I need that case, but I fear the guy is a conman. He's currently staying in a small carriage in the Wild Territory. Are you able to visit him and  collect it on my behalf?</text>
 	</string>
 	<string id="freeman_case_help_2">
-		<text>Well alright. What was his name, DeJames? In the Zone I don't trust outsiders</text>
+		<text>Yes, sure. What was his name, DeJames? Not a local man, that's for sure. I'll go carefully...</text>
 	</string>
 	<string id="freeman_james_speak_0">
-		<text>I've come to get Freeman's Case...</text>
+		<text>DeJames, Freeman asks if he may have his case back...</text>
 	</string>
 	<string id="freeman_james_speak_1">
-		<text>It's mine now tramp, piss off before I give you a slap</text>
+		<text>His case? No, he gave it to me. Now fuck off before my boys take offence...</text>
 	</string>
 	<string id="freeman_james_speak_2">
-		<text>I will teach you some manners with my fist</text>
+		<text>I didn't come here for trouble. But I'm not leaving without the case...</text>
 	</string>
 	<string id="freeman_james_speak_3">
-		<text>Get ready to eat a bullet, it will precisely shut you up</text>
+		<text>Fuck you!</text>
 	</string>
 	<string id="freeman_case_bring_0">
-		<text>Freeman you will come to a bad end. You sent me into a Hornet's nest. My weapon has overheated from meeting with your goat of a friend. You had better explain!</text>
+		<text>Freeman, you were right. Your friend DeJames conned you...</text>
 	</string>
 	<string id="freeman_case_bring_1">
-		<text>Marked One, what has happened? I don't understand</text>
+		<text>Why? What happened?</text>
 	</string>
 	<string id="freeman_case_bring_2">
-		<text>Your DeJames, the mongrel! and four of his gang attacked me! They now chew lead in hell! Here's your case</text>
+		<text>He was a mercenary. He recognized you, and wanted your case all along. He and his gang attacked me. But they won't be conning anyone else. Here's your case...</text>
 	</string>
 	<string id="freeman_case_bring_3">
-		<text>Sorry Marked One, I never knew something like that would happen. Here take this, I hope it compensates you for the repair of your gear</text>
+		<text>I'm sorry, Marked One. I didn't think he was that bad. Here take this, I hope it compensates you for any injury you've suffered</text>
 	</string>
 	<string id="gavr_doc_radar_0">
 		<text>Well LeHavre, what's next?</text>
 	</string>
 	<string id="gavr_doc_radar_1">
-		<text>Marked One, onto the next order of business. One of the Monolithians was supposed to extract documents and deliver them to us. However communication with him has broken down, he doesn't answer his PDA. The last message we received from him came from the Radar. During an emission we think he took cover in Lab X-10. Your problem - to find him and to take the documents. We know that you have received a helmet which protects you from psi-radiation from the scientists</text>
+		<text>Marked One, onto the next order of business. One of the Monolithians was supposed to extract documents and deliver them to us. However communication with him has broken down, he doesn't answer his PDA. The last message we received from him came from the Radar. During an emission we think he took cover in Lab X-10. Your problem - to find him and to take the documents. We know that you have received a helmet which protects you from Psi-radiation from the scientists</text>
 	</string>
 	<string id="gavr_doc_radar_2">
 		<text>I Doubt an emission has the same effect on a Monolithian. Alright LeHavre, I will look for the guy</text>
@@ -395,10 +395,10 @@
 		<text>Marked One, there is another task on the Radar. In the red wood, near a helicopter, lies a backpack and nearby a foot locker. Take away anything you find there as an award. The most important thing at the crash site is my laptop, it contains important data! I need you to find it and bring to my brother Yakut</text>
 	</string>
 	<string id="yakut_need_do_2">
-		<text>Arhara, the PSI-radiation will kill me before I even get close to the crash site. Also, where would I find your brother Yakut?</text>
+		<text>Arhara, the Psi-radiation will kill me before I even get close to the crash site. Also, where would I find your brother Yakut?</text>
 	</string>
 	<string id="yakut_need_do_3">
-		<text>Marked One, remember the helmet you took to Dan? It will help you, with it you can pass through psi-radiation</text>
+		<text>Marked One, remember the helmet you took to Dan? It will help you, with it you can pass through Psi-radiation</text>
 	</string>
 	<string id="yakut_need_do_4">
 		<text>Alright, I will go speak to Dan, but I have my doubts about this helmet...</text>
@@ -410,7 +410,7 @@
 		<text>Are you Yakut? I have brought you the laptop</text>
 	</string>
 	<string id="yakut_done_notebook_1">
-		<text>Marked One!!! Long live your mother! My brother will be happy you found the laptop and that you returned safely. Arhara praised you, says your a professional</text>
+		<text>Marked One! Long live your mother! My brother will be happy you found the laptop and that you returned safely. Arhara praised you, says your a professional</text>
 	</string>
 	<string id="yakut_done_notebook_2">
 		<text>I'm glad its over, too many Anomalies and doggies...</text>
@@ -419,7 +419,7 @@
 		<text>Dan, have you learned anything about the helmet?</text>
 	</string>
 	<string id="dan_nauch_flash_1">
-		<text>Yes, its almost adjusted, but I'm missing some information. Listen, have you gathered info from laboratory X-18? There's some data in this laboratory about the influence of psi-waves on the human brain. For certain they have more detailed information on this phenomenon. Bring to me the information from there or a flash card with the data. With this info I could adjust it quickly</text>
+		<text>Yes, its almost adjusted, but I'm missing some information. Listen, have you gathered info from laboratory X-18? There's some data in this laboratory about the influence of Psi-waves on the human brain. For certain they have more detailed information on this phenomenon. Bring to me the information from there or a flash card with the data. With this info I could adjust it quickly</text>
 	</string>
 	<string id="dan_nauch_flash_2">
 		<text>I will go to the lab and look for the flash card for you. I can't go to the Radar without a working helmet</text>
@@ -428,7 +428,7 @@
 		<text>Greetings Dan, here's the flash card</text>
 	</string>
 	<string id="dan_nauch_flash_bring_1">
-		<text>Well, let me take a look. Aha... So... that's what's necessary. Marked One, Wait while I adjust the helmet and I will give it to you... The helmet is adjusted and should protect you from psi-radiation. Here you are, good luck Marked One</text>
+		<text>Well, let me take a look. Aha... So... that's what's necessary. Marked One, Wait while I adjust the helmet and I will give it to you... The helmet is adjusted and should protect you from Psi-radiation. Here you are, good luck Marked One</text>
 	</string>
 	<string id="uceh_about_prizrak_0">
 		<text>What's on your mind?</text>
@@ -680,7 +680,7 @@
 		<text>Greetings. I from Zahar, to you in help</text>
 	</string>
 	<string id="dan_larger_protect_1">
-		<text>While all is silent, but not to be pleasant to me it. You, I see, have managed to pass under the bridge. What not to risk, if we will be in time - we will make so: we will go back on bogs, and you - take away a bag and Zahar transfer. I on a peak roof have thrown it - for reliability. Yes... And for service - take while my hunting bow with the device of night vision and arrows to it it is sensitive</text>
+		<text>While all is silent, but not to be pleasant to me it. You, I see, have managed to pass under the bridge. What not to risk, if we will be in time - we will make so: we will go back on bogs, and you - take away a bag and Zahar transfer. I on a peak roof have thrown it - for reliability. Yes... And for service - take while my hunting bow with the night vision device and arrows to it, it is sensitive</text>
 	</string>
 	<string id="dan_larger_protect_2">
 		<text>It is good. I do not love superfluous blood. To bogs, I hope, will gather additionally. Here lines, in my opinion, we were late - visitors have appeared. Well, keep, musics...</text>
@@ -1215,7 +1215,7 @@
 		<text>Are you the twin brother of Sidorovich?</text>
 	</string>
 	<string id="vasil_first_1">
-		<text>What!!, I've been in this Zone from the very beginning. And you can tell Sidorovich that one day I will feed him to the local marsh giant. Do you know who the first was to supply arms in the Zone? Me that's who!!! I was the first trader who could organise deliveries of everything, both products, and weapons, and medicines. Yes the Barman was my assistant. All business with the fighters was in these hands. But that Son of a dog managed to bribe major Serebrjannikova, and all who were connected with me departed. It wasn't long before this 'rat' had me pushed out of my bunker, yes-yes the same bunker where now this hamster lives. Together with people like Borov he had me thrown out onto the street. I'm still alive though, much to the disapointment of Sidorovich. But here there are kind people. I have survived, though I have a bad limp. But I will return someday and spit on his vile corpse!</text>
+		<text>What!!, I've been in this Zone from the very beginning. And you can tell Sidorovich that one day I will feed him to the local marsh giant. Do you know who the first was to supply arms in the Zone? Me that's who! I was the first trader who could organise deliveries of everything, both products, and weapons, and medicines. Yes the Barman was my assistant. All business with the fighters was in these hands. But that Son of a dog managed to bribe major Serebrjannikova, and all who were connected with me departed. It wasn't long before this 'rat' had me pushed out of my bunker, yes-yes the same bunker where now this hamster lives. Together with people like Borov he had me thrown out onto the street. I'm still alive though, much to the disapointment of Sidorovich. But here there are kind people. I have survived, though I have a bad limp. But I will return someday and spit on his vile corpse!</text>
 	</string>
 	<string id="vasil_first_2">
 		<text>Vasily that's some story, I didn't mean any disrespect. Now that we have got that out of the way, do you do repairs?</text>
@@ -1905,7 +1905,7 @@
 		<text>And I know? At first sat and all is silent bazaars, suddenly for weapons, well it was necessary to interfere, not say you is live 'Freebie'</text>
 	</string>
 	<string id="sveeblov_razborki_est_3">
-		<text>Faugh you, have gone away, well the pancake felt... Eh!!! Well it is fine, here take something</text>
+		<text>Faugh you, have gone away, well the pancake felt... Eh! Well it is fine, here take something</text>
 	</string>
 	<string id="kot_agro_mono_need_0">
 		<text>As our business, the Cat?</text>
@@ -2301,19 +2301,19 @@
 		<text>How?</text>
 	</string>
 	<string id="black_doctor_dialog_7">
-		<text>We have developed a new psi-installation that will allow us to reach the surrounding villages and even cities. Besides, we also have mobile psi installations</text>
+		<text>We have developed a new Psi-installation that will allow us to reach the surrounding villages and even cities. Besides, we also have mobile psi installations</text>
 	</string>
 	<string id="black_doctor_dialog_8">
-		<text>Wont the people who live near to the Zone undergo a psi-attack? Whats preventing you from doing it now?</text>
+		<text>Wont the people who live near to the Zone undergo a Psi-attack? Whats preventing you from doing it now?</text>
 	</string>
 	<string id="black_doctor_dialog_9">
-		<text>Partly the originator of our problems is you. If not for your careless actions, we would by now have been able to deploy our portable repeaters. Our new psi-installation demands enormous kol-va energy. We don't have such a kol-va energy supply. Certainly, our needs would have been met before the failure of the atomic power station. But now the reactor is destroyed, so it was necessary to try a different way. Besides there is also one more reason, its rather embarrassing... Our 'general' talkative friend, you didn't tell all</text>
+		<text>Partly the originator of our problems is you. If not for your careless actions, we would by now have been able to deploy our portable repeaters. Our new Psi-installation demands enormous kol-va energy. We don't have such a kol-va energy supply. Certainly, our needs would have been met before the failure of the atomic power station. But now the reactor is destroyed, so it was necessary to try a different way. Besides there is also one more reason, its rather embarrassing... Our 'general' talkative friend, you didn't tell all</text>
 	</string>
 	<string id="black_doctor_dialog_10">
 		<text>Maples or Rabi? Also what didn't you find out in time?</text>
 	</string>
 	<string id="black_doctor_dialog_11">
-		<text>Except repeaters, we have ordered some independent generators and, if have received them, could start our installation on total power. And relay a signal in a radius of 200-300 km to begin with. But as I already stated that didn't happen because of you and the lieutenant colonel of FSB Kotova. So for now we are content with the portable psi-aerials, and these are only for protection. Besides, as you already likely know, a spare variant of reception of the boundless power supply - too is in doubt</text>
+		<text>Except repeaters, we have ordered some independent generators and, if have received them, could start our installation on total power. And relay a signal in a radius of 200-300 km to begin with. But as I already stated that didn't happen because of you and the lieutenant colonel of FSB Kotova. So for now we are content with the portable Psi-aerials, and these are only for protection. Besides, as you already likely know, a spare variant of reception of the boundless power supply - too is in doubt</text>
 	</string>
 	<string id="black_doctor_dialog_12">
 		<text>It's Cat?...REALLY!!!!, its impossible to trust anybody...the two-faced shit. So what happens now?</text>
@@ -2382,7 +2382,7 @@
 		<text>A Black Monolith suit</text>
 	</string>
 	<string id="marsh_remont_upgreid_8">
-		<text>Okay, you've got good taste:\n- NVD 'Green' - 10,000Ru\n- NVD 'Digital' - 25,000Ru\n- NVD 'Sepia' - 15,000Ru\n- NVD 'Halogen' - 20,000Ru\n- NVD 'Cats Eye' - 30,000Ru\n- NVD 'Psi-effect' - 25,000Ru\n- NVD 'Moonlight' - 25,000Ru\n- NVD 'White Night' - 30,000Ru.\nWhich one?</text>
+		<text>Okay, you've got good taste:\n- NVD 'Green' - 10,000Ru\n- NVD 'Digital' - 25,000Ru\n- NVD 'Sepia' - 15,000Ru\n- NVD 'Halogen' - 20,000Ru\n- NVD 'Cats Eye' - 30,000Ru\n- NVD 'Psi-effect' - 25,000Ru\n- NVD 'Moonlight' - 25,000Ru\n- NVD 'White Night' - 30,000Ru\nWhich one?</text>
 	</string>
 	<string id="marsh_remont_upgreid_81">
 		<text>Standard 'Green'</text>
@@ -2439,19 +2439,19 @@
 		<text>Don't worry. Sidorovich won't be around forever...</text>
 	</string>
 	<string id="marsh_remont_upgreid_9">
-		<text>Yes on your physiognomy proletarian, only a gas mask to put on, appreciate:\n- NVD 'Green' - 10,000Ru;\n- NVD 'Digital' - 25,000Ru;\n- NVD 'Sepia' - 15,000Ru;\n- NVD 'Halogen' - 20,000Ru;\n- NVD 'Cats Eye' - 30,000Ru;\n- NVD 'Psi-effect' - 25,000Ru;\n- NVD 'Moonlight' - 25,000Ru;\n- NVD 'White night' - 30,000Ru.\nThat izvolites-with?</text>
+		<text>Yes on your physiognomy proletarian, only a gas mask to put on, appreciate:\n- NVD 'Green' - 10,000Ru\n- NVD 'Digital' - 25,000Ru\n- NVD 'Sepia' - 15,000Ru\n- NVD 'Halogen' - 20,000Ru\n- NVD 'Cats Eye' - 30,000Ru\n- NVD 'Psi-effect' - 25,000Ru\n- NVD 'Moonlight' - 25,000Ru\n- NVD 'White night' - 30,000Ru\nWhich would you like?</text>
 	</string>
 	<string id="marsh_remont_upgreid_91">
-		<text>Establish usual, green...</text>
+		<text>Standard 'Green'...</text>
 	</string>
 	<string id="marsh_remont_upgreid_92">
 		<text>'Digital'...</text>
 	</string>
 	<string id="marsh_remont_upgreid_93">
-		<text>Device 'Sepia'...</text>
+		<text>'Sepia'...</text>
 	</string>
 	<string id="marsh_remont_upgreid_94">
-		<text>Device 'Halogen'...</text>
+		<text>'Halogen'...</text>
 	</string>
 	<string id="marsh_remont_upgreid_95">
 		<text>'Cats Eye'...</text>
@@ -2460,7 +2460,7 @@
 		<text>'Psi-effect'...</text>
 	</string>
 	<string id="marsh_remont_upgreid_97">
-		<text>Device 'Moonlight'...</text>
+		<text>'Moonlight'...</text>
 	</string>
 	<string id="marsh_remont_upgreid_98">
 		<text>The best, please -  'White Night'...</text>
@@ -2496,7 +2496,7 @@
 		<text>It is expensive? Yes you have gone. You to Sidorovich descend, here at it so is cheap!, that after it, at you even on a leaf of money will not be, shame the to cover</text>
 	</string>
 	<string id="marsh_remont_upgreid_10">
-		<text>Too by a head about a stone it has decided to be beaten? this the suit of madwomen has got on? And NVD to you that at night a stone with a belly of a shaggy burer not to mix? On appreciate:\n- NVD 'Green' - 10,000Ru;\n- NVD 'Digital' - 25,000Ru;\n- NVD 'Sepia' - 15,000Ru;\n- NVD 'Halogen' - 20,000Ru;\n- NVD 'Cats Eye' - 30,000Ru;\n- NVD 'Psi-effect' - 25,000Ru;\n- NVD 'Moonlight' - 25,000Ru;\n- NVD 'White night' - 30,000Ru.\n</text>
+		<text>Too by a head about a stone it has decided to be beaten? this the suit of madwomen has got on? And NVD to you that at night a stone with a belly of a shaggy burer not to mix? On appreciate:\n- NVD 'Green' - 10,000Ru\n- NVD 'Digital' - 25,000Ru\n- NVD 'Sepia' - 15,000Ru\n- NVD 'Halogen' - 20,000Ru\n- NVD 'Cats Eye' - 30,000Ru\n- NVD 'Psi-effect' - 25,000Ru\n- NVD 'Moonlight' - 25,000Ru\n- NVD 'White Night' - 30,000Ru\n</text>
 	</string>
 	<string id="marsh_remont_upgreid_101">
 		<text>Standard 'Green'...</text>
@@ -2505,10 +2505,10 @@
 		<text>'Digital'...</text>
 	</string>
 	<string id="marsh_remont_upgreid_103">
-		<text>Device 'Sepia'...</text>
+		<text>'Sepia'...</text>
 	</string>
 	<string id="marsh_remont_upgreid_104">
-		<text>Device 'Halogen'...</text>
+		<text>'Halogen'...</text>
 	</string>
 	<string id="marsh_remont_upgreid_105">
 		<text>'Cats Eye'...</text>
@@ -2517,7 +2517,7 @@
 		<text>'Psi-effect'...</text>
 	</string>
 	<string id="marsh_remont_upgreid_107">
-		<text>Device 'Moonlight'...</text>
+		<text>'Moonlight'...</text>
 	</string>
 	<string id="marsh_remont_upgreid_108">
 		<text>The best, please -  'White Night'...</text>

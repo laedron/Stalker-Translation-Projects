@@ -323,7 +323,7 @@
 		<text>Return the PDA to Prapor</text>
 	</string>
 	<string id="Find_PDA_the_dungeon_gameplay_descriptions">
-		<text>Find the PDA in the dungeon</text>
+		<text>Find the PDA in the Agroprom underground</text>
 	</string>
 	<string id="Find_PDA_gameplay_descriptions">
 		<text>Find the PDA</text>
@@ -389,19 +389,19 @@
 		<text>Find Mole's PDA</text>
 	</string>
 	<string id="Bring_artifact_Plichko_gameplay_descriptions">
-		<text>Bring the Emerald Jellyfish artefact to Plichko</text>
+		<text>Bring the Emerald Quirk artefact to Plichko</text><!-- Was 'Emerald Jellyfish' - Sword2012 - 30 Mar 17 -->
 	</string>
 	<string id="Find_the_unusual_artifact_gameplay_descriptions">
 		<text>Find the unusual artefact</text>
 	</string>
 	<string id="Bring_tails_to_Prapor_gameplay_descriptions">
-		<text>Bring the tails to Prapor</text>
+		<text>Bring the Pseudodog tails to Prapor</text>
 	</string>
 	<string id="Get_five_psuedodog_tails_gameplay_descriptions">
-		<text>Find five pseudodog tails</text>
+		<text>Find five Pseudodog tails</text>
 	</string>
 	<string id="Get_psuedodog_tails_gameplay_descriptions">
-		<text>Find the pseudodog tails</text>
+		<text>Find the Pseudodog tails</text>
 	</string>
 	<string id="Bring_Tentacles_Prapor_gameplay_descriptions">
 		<text>Deliver the Bloodsucker tentacles to Prapor</text>
@@ -1398,13 +1398,13 @@
 		<text>Find a Fire Tears artefact for the Barkeep</text>
 	</string>
 	<string id="Bring_scientific_kits_Prapor_gameplay_descriptions">
-		<text>Bring ten scientific med kits to Prapor</text>
+		<text>Bring ten scientific medkits to Prapor</text>
 	</string>
 	<string id="Find_ten_scientific_kits_gameplay_descriptions">
-		<text>Find ten scientific med kits</text>
+		<text>Find ten scientific medkits</text>
 	</string>
 	<string id="Obtain_scientific_kits_Prapor_gameplay_descriptions">
-		<text>Obtain ten scientific med kits for Prapor</text>
+		<text>Obtain ten scientific medkits for Prapor</text>
 	</string>
 	<string id="Find_man_who_owns_PDA_gameplay_descriptions">
 		<text>Find the man who owns the PDA</text>
@@ -1833,7 +1833,7 @@
 		<text>Deliver the order to Fima Coal</text>	<!-- Changed 'Fima' to 'Fima Coal'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="bandages_scientific_kits_and_2_bar_soap_gameplay_descriptions">
-		<text>Find 10 bandages, scientific med kits, and 2 bars of soap</text>
+		<text>Find 10 bandages, scientific medkits, and 2 bars of soap</text>
 	</string>
 	<string id="Back_to_Miner_gameplay_descriptions">
 		<text>Return to Miner</text>

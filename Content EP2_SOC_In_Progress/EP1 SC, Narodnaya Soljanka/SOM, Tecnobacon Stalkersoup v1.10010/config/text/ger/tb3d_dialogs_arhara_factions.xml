@@ -38,10 +38,10 @@
 		<text>Associate with the Scientific community:</text>
 	</string>
 	<string id="escape_trader_factions_0">
-		<text>How would you advise I go about joining a faction?</text>
+		<text>How can I get on better terms with a faction?</text><!-- Was 'How would you advise I go about joining a faction?' Sword2012. 09 Mar 17 -->
 	</string>
 	<string id="escape_trader_factions_1">
-		<text>Ha! Don't think it's going to be cheap, because I'll need to put my head on the block for you! I'll need to call in a few favours, grease a few palms - you know... Then, I might be able to put in a good word for you. But it will cost you 250,000Ru. Knowing you, though... well, just go somewhere else for a while and piss somebody else off, or it will cost you even more next time - at least another 100,000Ru - if you're still alive, that is...</text>
+		<text>Well, join them, obviously, if they'll accept you. However, if you've killed one of their own it's going to be very difficult for you, because that guy had friends.\nI can organise this on your behalf, but don't think it's going to be cheap, because I'll need to put my own head on the block for you! I'll need to call in a few favours, grease a few palms - you know... Then, I might be able to put in a good word for you. But it will cost you 250,000Ru. Knowing you, though... well, just go somewhere else for a while and piss somebody else off, or it will cost you even more next time - at least another 100,000Ru - if you're still alive, that is...</text>
 	</string>
 	<string id="escape_trader_factions_2">
 		<text>Duty have put a price on my head! Can you get them off my back?</text>

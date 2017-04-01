@@ -170,10 +170,10 @@
 		<text>Find Mole's lost PDA</text>
 	</string>
 	<string id="the_unusual_artifact_to_Plichko_gameplay_titles">
-		<text>Deliver the Emerald Jellyfish artefact to Plichko</text>
+		<text>Deliver the Emerald Quirk artefact to Plichko</text><!-- Was 'Emerald Jellyfish' - Sword2012 - 30 Mar 17 -->
 	</string>
 	<string id="Bring_five_tails_Prapor_gameplay_titles">
-		<text>Deliver five dog tails to Prapor</text>
+		<text>Deliver five Pseudodog tails to Prapor</text>
 	</string>
 	<string id="Bring_Bloodsucker_Tentacles_Prapor_gameplay_titles">
 		<text>Deliver three Bloodsucker tentacles to Prapor</text>
@@ -383,7 +383,7 @@
 		<text>Meet the courier and collect the information</text>
 	</string>
 	<string id="Get_the_sniper_AWP_Iglomet_gameplay_titles">
-		<text>Find an AWP Iglomet rifle for the sniper</text>
+		<text>Find an AWP Iglomet sniper rifle for Kalinin</text>
 	</string>
 	<string id="Destroy_Armored_Special_Forces_gameplay_titles">
 		<text>Eliminate the Armored Special Forces</text>
@@ -813,15 +813,15 @@
 	</string>
 	<!-- text for the new tasks about mutant minimap detector - aleks1970 -->
 	<string id="Gather_3_Werewolf_Paws_and_20_PDAs_gameplay_titles">
-		<text>Find 20 PDAs and three Werewolf claws</text>
+		<text>Find 20 MIL PDAs and three Werewolf claws</text>
 	</string>
 	<string id="Gather_4_Chimera_Claw_and_40_PDAs_gameplay_titles">
-		<text>Find 40 PDAs and four Chimera claws</text>
+		<text>Find 40 MIL PDAs and four Chimera claws</text>
 	</string>
 	<string id="Gather_Burer_4_Hand_and_15_PDAs_gameplay_titles">
 		<text>Find 15 MIL PDAs and four Burer hands</text>
 	</string>
 	<string id="Gather_1_Librarian_Hand_and_30_PDAs_gameplay_titles">
-		<text>Find 30 PDAs and a Librarian claw</text>
+		<text>Find 30 MIL PDAs and a Librarian claw</text>
 	</string>
 </string_table>

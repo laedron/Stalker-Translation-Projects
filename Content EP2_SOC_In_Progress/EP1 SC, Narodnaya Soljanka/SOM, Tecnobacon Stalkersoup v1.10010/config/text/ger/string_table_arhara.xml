@@ -4,7 +4,7 @@
  tex_lukash_pechatka, tex_lysyi_klad and many minor edits, tex_otkrut_seif_sadik, boatswain, amber, lukash,
  doc_alive, map_mil_trader, map_mil_tehnician - aleks1970, tex_klenov_vse -->
 <!-- Names changed as commented below - Sword2012 - 31 Oct 16 -->
-<!-- Corrected many generic punctuation, in-game and US/UK spelling errors - Sword2012 - 13 Dec 16 -->
+<!-- Corrected many generic punctuation, in-game and US/UK spelling errors - Sword2012 - 13 Dec 16  -->
  
 <string_table>
 	<string id="blow_phrase1">
@@ -17,7 +17,7 @@
 		<text>Attention! Attention! An emission is expected very soon!</text>
 	</string>
 	<string id="blow_phrase4">
-		<text>Based on meteorological and seismological data, an emission is fast-approaching! Get under cover!</text>
+		<text>Based on local meteorological and seismological data, an emission is fast-approaching! Get under cover!</text>
 	</string>
 	<string id="important_msg">
 		<text>Important Message</text>
@@ -138,25 +138,25 @@
 		<text>Unknown: private channel</text>
 	</string>
 	<string id="propusk_msg">
-		<text>Bullseye, circumstances have changed! One of the soldiers that was with Colonel survived! Just saw him on the way to the checkpoint. Faster race there, until he was told about the incident.</text>
+		<text>Bullseye, circumstances have changed! One of the soldiers who was with Colonel survived! I just saw him on the way to the checkpoint. Faster race there, until he was told about the incident.</text>
 	</string>
 	<string id="journal_article">
 		<text>Article in journal:</text>
 	</string>
 	<string id="intel_mutant">
-		<text>Intel about mutant:</text>
+		<text>Intel on mutant:</text>
 	</string>
 	<string id="intel_group">
-		<text>Intel about grouping:</text>
+		<text>Intel on faction:</text>
 	</string>
 	<string id="intel_art">
-		<text>Intel about artefact:</text>
+		<text>Intel on artefact:</text>
 	</string>
 	<string id="intel_anom">
-		<text>Intel about Anomalie:</text>
+		<text>Intel on anomaly:</text>
 	</string>
 	<string id="intel_local">
-		<text>Intel about location:</text>
+		<text>Intel on location:</text>
 	</string>
 	<string id="zone_history">
 		<text>Zone History:</text>
@@ -187,13 +187,13 @@
 		<text>No flamethrower to refill!</text>
 	</string>
 	<string id="stop_stalker">
-		<text>STALKER!! Stop!!!</text>
+		<text>Stalker! Stop!</text>
 	</string>
 	<string id="mod_downloaded">
-		<text>New Artefact Modification downloaded to PDA...</text>
+		<text>New artefact modification downloaded to PDA...</text>
 	</string>
 	<string id="doc_alive">
-		<text>The Doctor is alive!!!\nHurry! Follow him through the teleport to a safe place.</text>
+		<text>The Doctor is alive!\nHurry! Follow him through the teleport to a safe place.</text>
 	</string>
 	<string id="tele_ready">
 		<text>The Teleport is ready...</text>
@@ -229,20 +229,20 @@
 		<text>Received: three RIA-10 Repair-Kits</text>
 	</string>
 	<string id="rec_riw10_3">
-		<text>Received: three RIW-10 Repair-Kits</text>
+		<text>Received: three RIW-10 Repair kits</text>
 	</string>
 	<string id="rec_ria10">
-		<text>Received: RIA-10 Repair-Kit</text>
+		<text>Received: RIA-10 Repair kit</text>
 	</string>
 	<string id="rec_riw10">
-		<text>Received: RIW-10 Repair-Kit</text>
+		<text>Received: RIW-10 Repair kit</text>
 	</string>
 	<!-- end 10991 -->
 	<string id="tex_take_arhara">
-		<text>Yes, in the zone is nothing just do not ... That's an example - to find the minigun for Adrenalin ... It should be found in Yantar, where the helicopter went down... And where is this Yantar? Customer hinted that he needed to talk with a professor by the name of Sakharov ...</text>
+		<text>Yes, in the Zone is nothing just do not ... That's an example - to find the minigun for Adrenalin ... It should be found in Yantar, where the helicopter went down... And where is this Yantar? Customer hinted that he needed to talk with a professor by the name of Sakharov ...</text>
 	</string>
 	<string id="tex_baty_zadan">
-		<text>It was not so simple. We must take Sakharov's special detector, then go to the Wild Territory and seek with this detector for the military thing. What is that thing, I do not know. However, the detector will signal if I'm at a distance of ten meters away from it. After finding it, I should bring it to Sakharov and pick up a minigun for adrenaline.</text>
+		<text>Hmm. Not so simple. We need to take Sakharov's tracking device to the Wild Territory and find something the military want. They won't tell me what it is, but the detector will let me know if I'm within ten metres of it. After finding it, I should take it to Sakharov, who'll then give me a Minigun for Adrenalin</text>
 	</string>
 	<string id="tex_arhara_ekza">
 		<text>Waugh, got involved ... Find in the ATP-infested enemies and mutants, the exoskeleton ... This case is highly unlikely. Well, that Voronin told the approximate location of it. They will not immediately give up this armor. Voronin can wait, and I may find the 'cloak of invisibility' to be very useful.</text>
@@ -308,7 +308,7 @@
 		<text>Akim needs some old document. 'In the Dump, on top of something...' he said. A building? A bus? A container? Where the hell do I start?</text>
 	</string>
 	<string id="tex_take_doc2"><!-- It's Agroprom underground! - aleks1970 -->
-		<text>Well .. I knew it ... Now we must bring more to Akim and the second part of documents that are somewhere in the subway Institute ... It is easier for a needle in a haystack to find.</text>
+		<text>I need to find the second part of the documents for Akim. All I know is that they're in the Agroprom underground in a very safe and dangerous place. Can this job get any better?</text>
 	</string>
 	<string id="tex_take_doc3">
 		<text>Akim needs a third document from X-18. However, this one has been separated into four sections! He says that three should be inside the lab, and the fourth somewhere outside near the lab's entrance...</text>
@@ -338,7 +338,7 @@
 		<text>For people who want Voronin thermoses. And different, big and small. Five pieces of each volume. I roughly know where there are large, since there is a picture of their location. They are somewhere near a tree, outside the base of Freedom. To get there, we should go along the power transmission lines. But, the little flasks should learn from Garik, a security guard for bartender.</text>
 	</string>
 	<string id="tex_garik_vopros">
-		<text>For information about small thermos Garik requires ten packs of cigarettes and twenty thousand roubles ... Robust design for a redneck who I'd just stupidly present in the bar. The same to me, the bodyguard ...</text>
+		<text>For information on the small Thermos flasks Garik requires ten packs of cigarettes and twenty thousand roubles ... Robust design for a redneck who I'd just stupidly present in the bar. The same to me, the bodyguard ...</text>
 	</string>
 	<string id="tex_petr_sidor">
 		<text>Sidorovich offended, and now a present from Petrenko he just did not beg. And sorry to kill him, he suddenly has come in handy? Therefore, I need to bring the two repair kits, each of which includes a hammer, screwdriver and wrench. Hammers and screwdrivers you can get in the ATP, but the keys have to whistle for Screw in his studio.</text>
@@ -428,7 +428,7 @@
 		<text>Here's more information on the Fang. On the transition from a military lab to the Laboratory X-16. Apparently, all underground utilities are connected by tunnels that allows you to move quickly underground.</text>
 	</string>
 	<string id="info_way_arhara_warlab_skladu_text">
-		<text>Bodyguard Panthers announced the transition from a military lab in Army Warehouses, right on the base of Freedom. The transition mentioned in my PDA. Very useful information, by the way ...</text>
+		<text>Panther's bodyguard announced the transition from a military lab in Army Warehouses, right on the base of Freedom. The transition mentioned in my PDA. Very useful information, by the way ...</text>
 	</string>
 	<string id="info_way_arhara_x18_warlab_text">
 		<text>Maples said that all the underground laboratories of the Zone were connected. One of them he knows that leads from the ground-floor of X-18 to a military lab. In my PDA is a marker.</text><!-- Changed 'Maple' to 'Maples'- Sword2012 - 31 Oct 16-->
@@ -458,7 +458,7 @@
 		<text>Black Doctor opened a short trail from the Hospital to the Agroprom. It begins near the stairs in the far tail of the third Hospital section and is marked on my PDA.</text>
 	</string>
 	<string id="info_way_arhara_agroprom_marsh1_text">
-		<text>The cache contained part of a card with a picture and the coordinates of the transition from the Agricultural Industry in the swamp. Just pointed out that the passage opens in the radioactive zone. Better bring a couple of Antirads or Vodka.</text>
+		<text>The cache contained part of a card with a picture and the coordinates of the transition from the Agricultural Industry in the swamp. Just pointed out that the passage opens in the radioactive Zone. Better bring a couple of Antirads or Vodka.</text>
 	</string>
 	<string id="info_way_arhara_bar_atp_text">
 		<text>Adrenalin spoke about the transition from the Bar to the ATP. There is also a mark on my PDA. Finding it may not be easy.</text><!-- Changed 'Crank' to 'Adrenalin'- Sword2012 - 31 Oct 16-->
@@ -632,7 +632,7 @@
 		<text>Mutated Rat Embryo</text>
 	</string>
 	<string id="tushkano_cocoon_description">
-		<text>Tushkano Cocoon. Contains up to five embryos. Growth to the state of adult Tushkana - instant. Activated by impact (throw on the ground). Time after the activation before the appearance of an adult organism within ten to fifteen seconds. Edible, satisfies hunger, a little healing and accelerates wound healing. The recommended distance to the center of activation - no less than seven meters.</text>
+		<text>Tushkano Cocoon. Contains up to five embryos. Growth to the state of adult Tushkano - instant. Activated by impact (throw it to the ground). Time after the activation before the appearance of an adult organism within ten to fifteen seconds. Edible, satisfies hunger, a little healing and accelerates wound healing. The recommended distance to the center of activation - no less than seven meters.</text>
 	</string>
 	<string id="gigant_cocoon_item">
 		<text>Pseudogiant Embryo</text>

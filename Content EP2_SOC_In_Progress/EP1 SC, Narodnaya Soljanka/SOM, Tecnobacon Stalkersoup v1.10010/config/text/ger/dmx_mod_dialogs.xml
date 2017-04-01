@@ -583,7 +583,7 @@
 		<text>Sorry, Kein deal...</text>
 	</string>
 	<string id="holod_barter_text_pda">
-		<text>Cold's Liste:\n \n1.Ein Packung "Death's Head" Zigaretten für zwei Packungen "Dream" Zigaretten oder drei Zigarren\n \n2. Eine Flasche "Cossacks" Wodka für zwei Flaschen "Absolute", oder eine Flasche "Smirnoff" insklusive 100 Rubel\n \n3. Einmal "Doc's Wurst für zwei "Doc's Wurst" Stäbchen oder eine Flasche "Tschernigow" Bier ...</text>
+		<text>\n \n \n \n%c[221,255,193,255]Angebots Liste von Cold\n \n%c[255,224,224,160]2x "Dream" Zigaretten®®®®®:%c[default] 1 Packung "Death's Head" Kippen\n%c[255,224,224,160]2x "Dream" Zigaretten®®®®®:%c[default] 3 Zigarren\n%c[default]\n \n%c[255,224,224,160]2x Wodka "Absolute"®®®®®®®:%c[default] 1 Flasche "Kosaken" Wodka\n%c[255,224,224,160]1x Wodka "Smirnoff"®®®®®®®:%c[default] 1 Flasche "Kosaken" Wodka\n(Nicht vergessen! dazu kommen noch 100 Rubel)\n%c[default]\n \n%c[255,224,224,160]2x Doc's Wurst Stäbchen®®®:%c[default] 1x "Doc's Wurst"\n%c[255,224,224,160]1x "Tschernigow" Bier®®®®®:%c[default] 1x "Doc's Wurst"\n</text>
 	</string>
 <!-- INTRODUCTORY DIALOGUE WITH COLD-->
 	<string id="holod_start_dialog0">
@@ -669,7 +669,7 @@
 		<text>Syslov, Ich hörte das man hier untereinander Wetten kann. Sprich - also einem Totalisator Verfahren.... Ich würde gern mein Geld verdoppeln, hat aber keine Eile wenn du verstehst was ich meine....</text>
 	</string>
 	<string id="totalizator_1">
-		<text>Nun... ja sowas gibt es hier, nur bedenke: entweder gehst du unter oder du schwimmst - verlierst oder gewinnnst. Du setzt 50 Rubel und kannst 500 Rubel gewinnen. Es wird dann ausgezahlt oder du kannst weiter gehen, wie du möchstest. Solltest du Zahlen und kannst nicht .... wird man deine Leiche irgendwoe im Sumpf wahrscheinliuch wiedersehen..so ist das.</text>
+		<text>Nun... ja sowas gibt es hier, nur bedenke: entweder gehst du unter oder du schwimmst - verlierst oder gewinnnst. Du setzt 50 Rubel und kannst 500 Rubel gewinnen. Es wird dann ausgezahlt oder du kannst weiter gehen, wie du möchstest. Solltest du Zahlen und kannst nicht .... wird man deine Leiche irgendwo im Sumpf wahrscheinliuch wiedersehen..so ist das.</text>
 	</string>
 	<string id="totalizator_2">
 		<text>Oha, das ist heftig ... Aber Notwendigkeit. Bei wem kann die Wette machen? </text>
@@ -871,4 +871,4 @@
 		<text>USB Stick vom Wissenschaftler</text>
 	</string>
 </string_table>
-<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 20.03.2017 21:36:17 -->
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 01.04.2017 03:19:43 -->

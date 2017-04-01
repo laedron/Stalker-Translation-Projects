@@ -194,7 +194,7 @@
 		<text>Find the Goldfish artefact</text>
 	</string>
 	<string id="Find_the_Cache_at_Dump_pda_name">
-		<text>Find the cache at the Garbage</text>
+		<text>Find the cache at the Dump</text>
 	</string>
 	<string id="Find_Cache_Laboratory_X-18_pda_name">
 		<text>Find the cache at Laboratory X-18</text>
@@ -239,46 +239,46 @@
 		<text>Location of Strelok's hideout</text>
 	</string>
 	<string id="Raven_offers_pda_name">
-		<text>Raven offers</text>
+		<text>Raven at the Dump</text>
 	</string>
 	<string id="Special_Offers_Raven_pda_name">
-		<text>Raven's special offers</text>
+		<text>Special offers from Raven</text>
 	</string>
 	<string id="Dan_offers_pda_name">
-		<text>Dan offers</text>
+		<text>Dan at Clear Sky</text>
 	</string>
 	<string id="Special_offers_Dan_pda_name">
 		<text>Special offers from Dan</text>
 	</string>
 	<string id="Max_offers_pda_name">
-		<text>Max offers</text>
+		<text>Max at the Army Warehouses</text>
 	</string>
 	<string id="Sidorovich_offers_pda_name">
-		<text>Sidorovich offers</text>
+		<text>Sidorovich at the Rookie Village</text>
 	</string>
 	<string id="Sakharov_suggests_pda_name">
-		<text>Sakharov offers</text>
+		<text>Sakharov at Yantar</text>
 	</string>
 	<string id="Petrenko_offers_pda_name">
-		<text>Petrenko offers</text>
+		<text>Petrenko at Rostok</text>
 	</string>
 	<string id="Miser_offers_pda_name">
-		<text>Miser offers</text>
+		<text>Miser at the Army Warehouses</text>
 	</string>
 	<string id="The_bartender_offers_pda_name">
-		<text>Barkeep offers</text>
+		<text>Barkeep at Rostok</text>
 	</string>
 	<string id="Lanky_offers_pda_name">
-		<text>Lanky offers</text>
+		<text>Lanky at Rostok</text>
 	</string>
 	<string id="Zahar_offers_pda_name">
-		<text>Zahar offers</text>
+		<text>Zahar at Rostok</text>
 	</string>
 	<string id="military_offers_pda_name">
-		<text>The Military offers</text>
+		<text>The Military</text>
 	</string>
 	<string id="Syak_offers_pda_name">
-		<text>Syak offers</text>
+		<text>Syak at Radar</text>
 	</string>
 	<string id="Message_from_Hog_pda_name">
 		<text>Message from Borov</text>	<!-- was 'Hog' but the Borov is correct! - aleks1970 -->
@@ -476,10 +476,10 @@
 		<text>From the Army Warehouses to the Dark Valley</text>
 	</string>
 	<string id="With_radar_Army_Warehouses_pda_name">
-		<text>From Radar to Army Warehouses</text>
+		<text>From Radar to the Army Warehouses</text>
 	</string>
 	<string id="The_bar_at_Army_Warehouses_pda_name">
-		<text>From the Bar to the Army Warehouses</text>
+		<text>From Rostok to the Army Warehouses</text>
 	</string>
 	<string id="The_marshes_the_old_village_pda_name">
 		<text>From the Swamp to the Old Village</text>
@@ -513,7 +513,7 @@
 		<text>Collect your mutant detector</text>
 	</string>
 	<string id="Determine_recipe_artifact_Beating_Heart_pda_name">
-		<text>Find the recipe for the Beating Heart artefact</text>	<!-- Replaced artifact with artefact - Sword2012 -->
+		<text>Find the recipe for 'The Heart' artefact</text><!-- Was 'Beating Heart' - Sword2012 - 30 Mar 17 -->
 	</string>
 	<string id="Set_unit_of_Chernobyl_pda_name">
 		<text>Set the unit down in Chernobyl</text>
@@ -678,19 +678,19 @@
 		<text>Transfer the case over</text>
 	</string>
 	<string id="Doctor_offers_pda_name">
-		<text>Doctor offers</text>
+		<text>Doctor</text>
 	</string>
 	<string id="Vein_suggests_pda_name">
-		<text>Core offers</text>
+		<text>Core at the Dark Valley</text>
 	</string>
 	<string id="Kuznetsov_offers_pda_name">
-		<text>Kuznetsov offers</text>
+		<text>Kuznetsov at the Cordon</text>
 	</string>
 	<string id="Sherstyuk_offers_pda_name">
-		<text>Sherstyuk offers</text>
+		<text>Sherstyuk at Agroprom</text>
 	</string>
 	<string id="Chill_offers_pda_name">
-		<text>Cold offers</text>
+		<text>Cold at Clear Sky</text>
 	</string>
 	<string id="Slice_Meat_from_jumping_pda_name">
 		<text>Creating a Meat Chunk from a Springboard</text>
@@ -946,10 +946,10 @@
 		<text>From Agroprom to Yantar</text>
 	</string>
 	<string id="With_Wild_Territory_Warehouses_pda_name">
-		<text>From Wild Territory to Army Warehouses</text>
+		<text>From Wild Territory to the Army Warehouses</text>
 	</string>
 	<string id="With_army_warehouses_Territory_pda_name">
-		<text>From Army Warehouses to Wild Territory</text>
+		<text>From the Army Warehouses to Wild Territory</text>
 	</string>
 	<string id="From_Amber_Radar_pda_name">
 		<text>From Yantar to Radar</text>
@@ -970,10 +970,10 @@
 		<text>From Army Warehouses to the Dark Valley</text>
 	</string>
 	<string id="With_radar_rmy_Warehouses_pda_name">
-		<text>From Radar to Army Warehouses</text>
+		<text>From Radar to the Army Warehouses</text>
 	</string>
 	<string id="The_bar_Army_Warehouses_pda_name">
-		<text>From the Bar to the Army Warehouses</text>
+		<text>From Rostok to the Army Warehouses</text>
 	</string>
 	<string id="The_marshes_old_village_pda_name">
 		<text>From the Swamp to the Old Village</text>
@@ -1102,16 +1102,16 @@
 		<text>Find the optical disk for Adrenalin</text>
 	</string>
 	<string id="With_ATP_Cordon_pda_name">
-		<text>From ATP to Cordon</text>
+		<text>From the ATP to Cordon</text>
 	</string>
 	<string id="With_ATP_Army_Warehouses_pda_name">
-		<text>From ATP to Army Warehouses</text>
+		<text>From the ATP to the Army Warehouses</text>
 	</string>
 	<string id="Locate_bag_south_Chernobyl_pda_name">
 		<text>Locate the bag in the south of Chernobyl</text>
 	</string>
 	<string id="With_ATP_Pripyat_pda_name">
-		<text>From ATP to Pripyat</text>
+		<text>From the ATP to Pripyat</text>
 	</string>
 	<string id="Find_the_Bolotny_Locket_pda_name">
 		<text>Find the lost locket for Bolotny</text>
@@ -1201,19 +1201,19 @@
 		<text>Meet the courier, and gather information</text>
 	</string>
 	<string id="Get_sniper_AWP_Iglomet_pda_name">
-		<text>Get the AWP Iglomet sniper rifle</text>
+		<text>Find an AWP Iglomet sniper rifle</text>
 	</string>
 	<string id="Destroy_Armored_Special_Forces_pda_name">
 		<text>Destroy the Armoured Special Forces</text>
 	</string>
 	<string id="From_Caves_Dump_pda_name">
-		<text>From the Caves to the Garbage</text>
+		<text>From the Caves to the Dump</text>
 	</string>
 	<string id="From_Caves_Agroprom_pda_name">
 		<text>From the Caves to Agroprom</text>
 	</string>
 	<string id="From_landfill_Cave_pda_name">
-		<text>From the Garbage to the Cave</text>
+		<text>From the Dump to the Cave</text>
 	</string>
 	<string id="With_agricultural_industry_Cave_pda_name">
 		<text>From Agroprom to the Cave</text>
@@ -1237,7 +1237,7 @@
 		<text>From Yantar to the Labyrinth</text>
 	</string>
 	<string id="With_ATP_Garbage_pda_name">
-		<text>From the ATP to the Garbage</text>
+		<text>From the ATP to the Dump</text>
 	</string>
 	<string id="From_warehouse_Undiscovered_Land_pda_name">
 		<text>From Army Warehouses to Reconnoitered Earth</text>
@@ -1246,7 +1246,7 @@
 		<text>From the Dark Valley to Reconnoitered Earth</text>
 	</string>
 	<string id="From_landfill_Undiscovered_Land_pda_name">
-		<text>From the Garbage to Reconnoitered Earth</text>
+		<text>From the Dump to Reconnoitered Earth</text>
 	</string>
 	<string id="From_unexplored_Earth_Labyrinth_pda_name">
 		<text>From Reconnoitered Earth to the Labyrinth</text>
@@ -1270,7 +1270,7 @@
 		<text>From Army Warehouses to Limansk</text>
 	</string>
 	<string id="From_north_Chernobyl_ATP_pda_name">
-		<text>From Chernobyl NPP North to ATP</text>
+		<text>From Chernobyl NPP North to the ATP</text>
 	</string>
 	<string id="From_Pripyat_old_village_pda_name">
 		<text>From Pripyat in the Old Village</text>
@@ -1291,7 +1291,7 @@
 		<text>From Agroprom to the Swamp</text>
 	</string>
 	<string id="The_bar_ATP_pda_name">
-		<text>From the Bar to ATP</text>
+		<text>From Rostok to the ATP</text>
 	</string>
 	<string id="With_generator_Pripyat_pda_name">
 		<text>From Generators to Pripyat</text>
@@ -1315,13 +1315,13 @@
 		<text>From the Dead City to Limansk</text>
 	</string>
 	<string id="Dead_Cities_ATP_pda_name">
-		<text>From the Dead City to ATP</text>
+		<text>From the Dead City to the ATP</text>
 	</string>
 	<string id="Dead_GRODA_Wild_Territory_pda_name">
 		<text>Dead GRODA at Wild Territory</text>
 	</string>
 	<string id="With_ATP_Dead_City_pda_name">
-		<text>From ATP to the Dead City</text>
+		<text>From the ATP to the Dead City</text>
 	</string>
 	<string id="Dead_Cities_Zaton_pda_name">
 		<text>From the Dead City to Zaton</text>
@@ -1330,7 +1330,7 @@
 		<text>From Limansk to the Dead City</text>
 	</string>
 	<string id="From_Bar_Rostok_Wild_Territory_Rostok_pda_name">
-		<text>From the Bar to Wild Territory</text>
+		<text>From Rostok to Wild Territory</text>
 	</string>
 	<string id="Release_prisoner_bring_notebook_pda_name">
 		<text>Release the prisoner, and find the notebook</text>

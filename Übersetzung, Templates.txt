@@ -189,31 +189,315 @@ Status Werte:
 ®Ausdauer®®®®®®®:
 
 
-
-
-\n \n \n \n \n \n
+Einkaufslisten
+==========================================================================================
+\n \n \n \n
 %c[221,255,193,255]Artefakt Angebots Liste von Sidorowitch\n \n
 %c[001,168,255,210]Munition\n
-%c[255,224,224,160]®®12x70 Schrot (3 Päckchen)®:%c[default] 1x Qualle\n
-%c[255,224,224,160]®®RGD-5 Granaten®®®®®®®®®®®®:%c[default] 1x Gepressetes\n
-%c[255,224,224,160]®®5.45x39mm (3 Päckchen)®®®®:%c[default] 1x Tropfen\n
-%c[255,224,224,160]®®7.62x39mm (2 Päckchen)®®®®:%c[default] 1x Steinblut\n
+%c[255,224,224,160]3x 12x70 Schrot®®®®®®®®®®®:%c[default] 1x Qualle\n
+%c[255,224,224,160]2x RGD-5 Granaten®®®®®®®®®:%c[default] 1x Gepressetes\n
+%c[255,224,224,160]3x 5.45x39mm (Standard)®®®:%c[default] 1x Tropfen\n
+%c[255,224,224,160]2x 7.62x39mm (Standard)®®®:%c[default] 1x Steinblut\n
 %c[default]\n \n
 %c[001,168,255,210]Waffen\n
-%c[255,224,224,160]®®TOZ-34 Schrotflinte®®®®®®®:%c[default] 1x Blitz\n
-%c[255,224,224,160]®®Saiga-12k Flinte®®®®®®®®®®:%c[default] 1x Fleischklumpen\n
+%c[255,224,224,160]TOZ-34 Schrotflinte®®®®®®®:%c[default] 1x Blitz\n
+%c[255,224,224,160]Saiga-12k Flinte®®®®®®®®®®:%c[default] 1x Fleischklumpen\n
 %c[default]\n \n
 %c[001,168,255,210]Anzüge\n
-%c[255,224,124,160]®®Hat er nicht auf Lager®®®®:%c[default]\n
-%c[default]\n \n
+%c[255,224,124,160]Hat er nicht auf Lager®®®®%c[default]
+\n%c[default]\n \n \n
 %c[001,168,255,210]Medizin\n
-%c[255,224,224,160]®®8 Standard Medikits®®®®®®®:%c[default] 1x Steinlume\n
-%c[255,224,224,160]®®3 Flaschen Wodka®®®®®®®®®®:%c[default] 1x Gepressetes\n
+%c[255,224,224,160]8 Standard Medikits®®®®®®®:%c[default] 1x Steinlume\n
+%c[255,224,224,160]3 Flaschen Wodka®®®®®®®®®®:%c[default] 1x Gepressetes\n
 %c[default]\n \n
 %c[001,168,255,210]Reparatur Kits\n
-%c[255,224,224,160]®®3 Anzug Kits®®®®®®®®®®®®®®:%c[default] 1x Gravit\n
-%c[255,224,224,160]®®3 Waffen Kits®®®®®®®®®®®®®:%c[default] 1x Steinblume\n
+%c[255,224,224,160]3 Anzug Kits (10%)®®®®®®®®:%c[default] 1x Gravit\n
+%c[255,224,224,160]3 Waffen Kits (10%)®®®®®®®:%c[default] 1x Steinblume\n
 %c[default]\n \n
+
+
+
+
+-------------------------------------------- WIRT
+\n \n \n \n
+%c[221,255,193,255]Artefakt Angebots Liste vom Wirt\n \n
+%c[001,168,255,210]Munition\n
+%c[255,224,224,160]5x 5.45x39mm (Standard)®®®:%c[default] 1x Blitz\n
+%c[255,114,114,160]3x 5.45x39mm (Panzerb.)®®®:%c[default] 1x Blitz\n
+%c[255,224,224,160]5x 5.56x39mm (Standard)®®®:%c[default] 1x Schleim\n
+%c[255,114,114,160]3x 5.56x39mm (Panzerb.)®®®:%c[default] 1x Schleim\n
+%c[255,224,224,160]5x 9x39mm (Standard)®®®®®®:%c[default] 1x Gravit\n
+%c[255,114,114,160]3x 9x39mm (Panzerb.)®®®®®®:%c[default] 1x Gravit\n
+%c[255,224,224,160]3x RGD-5 Granaten®®®®®®®®®:%c[default] 1x Steinblumem\n
+%c[default]\n \n
+%c[001,168,255,210]Waffen\n
+%c[255,224,224,160]AS Val®®®®®®®®®®®®®®®®®®®®:%c[default] 2x Feuerball\n
+%c[255,224,224,160]OC-14 Groza®®®®®®®®®®®®®®®:%c[default] 1x Nacht Stern\n
+%c[default]\n \n
+%c[001,168,255,210]Anzüge\n
+%c[255,224,124,160]Hat er nicht auf Lager®®®®%c[default]
+\n%c[default]\n \n \n
+%c[001,168,255,210]Medizin\n
+%c[255,224,224,160]5 Standard Medikits®®®®®®®:%c[default] 1x Funkensprüher\n
+%c[255,224,224,160]3 Flaschen Wodka®®®®®®®®®®:%c[default] 1x Steinblut\n
+%c[default]\n \n
+%c[001,168,255,210]Reparatur Kits\n
+%c[255,224,224,160]3 Anzug Kits (10%)®®®®®®®®:%c[default] 1x Fleischklumpen\n
+%c[255,224,224,160]3 Waffen Kits (10%)®®®®®®®:%c[default] 1x Feuerball\n
+%c[default]\n \n
+
+
+
+-------------------------------------------- PETRENKO
+\n \n \n \n
+%c[221,255,193,255]Artefakt Angebots Liste von Petrenko\n \n
+%c[001,168,255,210]Munition\n
+%c[255,224,224,160]2x 7.62x54mm (Standard)®®®:%c[default] 1x Tropfen\n
+%c[255,114,114,160]1x 7.62x54mm (Panzerb.)®®®:%c[default] 1x Tropfen\n
+%c[255,224,224,160]5x 7.62x39mm (Standard)®®®:%c[default] 1x Qualle\n
+%c[255,114,114,160]3x 7.62x39mm (Panzerb.)®®®:%c[default] 1x Qualle\n
+%c[255,224,224,160]4x VOG-25 Granaten®®®®®®®®:%c[default] 1x Steinblut\n
+%c[default]\n \n
+%c[001,168,255,210]Waffen\n
+%c[255,224,224,160]SVD Scharfschützengewehr®®:%c[default] 1x Seeigel\n
+%c[255,224,224,160]SVU-AS®®®®®®®®®®®®®®®®®®®®:%c[default] 1x Seele\n
+%c[default]\n \n
+%c[001,168,255,210]Anzüge\n
+%c[255,224,224,160]PSZ-9Md Wächter Uni.Schut.:%c[default] 2x Mika\n
+%c[255,224,224,160]Exo-Skelett "Wächter"®®®®®:%c[default] 3x Mika\n
+\n%c[default]\n \n
+%c[001,168,255,210]Medizin\n
+%c[255,224,224,160]5 Militär Medikits®®®®®®®®:%c[default] 1x Steinblume\n
+%c[default]\n \n
+%c[001,168,255,210]Reparatur Kits\n
+%c[255,224,124,160]Hat er nicht auf Lager®®®®%c[default]
+\n%c[default]\n \n
+
+
+
+-------------------------------------------- MISER
+\n \n \n \n
+%c[221,255,193,255]Artefakt Angebots Liste von Miser\n \n
+%c[001,168,255,210]Munition\n
+%c[255,224,224,160]5x 5.56mm (Standard)®®®®®®:%c[default] 1x Schleim\n
+%c[255,114,114,160]3x 5.56mm (Panzerb.)®®®®®®:%c[default] 1x Schleim\n
+%c[255,224,224,160]4x 5.7x39mm (Standard)®®®®:%c[default] 1x Gravit\n
+%c[255,224,224,160]2x PKM-MG Munition®®®®®®®®:%c[default] 1x Dornenkristall\n
+%c[255,224,224,160]2x F-1 Granaten®®®®®®®®®®®:%c[default] 1x Dorn\n
+%c[default]\n \n
+%c[001,168,255,210]Waffen\n
+%c[255,224,224,160]Belgische FN-P90®®®®®®®®®®:%c[default] 1x Goldfisch\n
+%c[255,224,224,160]FN-2000®®®®®®®®®®®®®®®®®®®:%c[default] 3x Seele\n
+%c[default]\n \n \n
+%c[001,168,255,210]Anzüge\n
+%c[255,224,124,160]Hat er nicht auf Lager®®®®%c[default]
+\n%c[default]\n \n
+%c[001,168,255,210]Medizin\n
+%c[255,224,224,160]5 Standard Medikits®®®®®®®:%c[default] 1x Qualle\n
+%c[255,224,224,160]5 Antirad's®®®®®®®®®®®®®®®:%c[default] 1x Gepressetes\n
+%c[default]\n \n
+%c[001,168,255,210]Reparatur Kits\n
+%c[255,224,224,160]5 Waffen Kits (10%)®®®®®®®:%c[default] 1x Steinblume\n
+%c[default]\n \n
+
+
+
+-------------------------------------------- SYAK
+\n \n \n \n
+%c[221,255,193,255]Artefakt Angebots Liste von Syak\n \n
+%c[001,168,255,210]Munition\n
+%c[255,224,224,160]2x 7.62x54mm (Standard)®®®:%c[default] 1x Fleischklumpen\n
+%c[255,114,114,160]1x 7.62x54mm (Panzerb.)®®®:%c[default] 1x Fleischklumpen\n
+%c[255,224,224,160]5x 9x39mm (Standard)®®®®®®:%c[default] 1x Gravit\n
+%c[255,114,114,160]4x 9x39mm (Panzerbrechend):%c[default] 1x Gravit\n
+%c[255,194,194,160]3x 9x39mm (Scharfsch. SP5):%c[default] 1x Gravit\n
+%c[255,224,224,160]1x Gauss Munition-Ladung®®:%c[default] 1x Fuerball\n
+%c[default]\n \n
+%c[001,168,255,210]Waffen\n
+%c[255,224,224,160]BCC/VCC Vintorez®®®®®®®®®®:%c[default] 1x Kristall\n
+%c[255,224,224,160]Saiga®®®®®®®®®®®®®®®®®®®®®:%c[default] 1x Fleischklumpen\n
+%c[default]\n \n
+%c[001,168,255,210]Anzüge\n
+%c[255,224,224,160]Spezial-Panzer. SKAT-10®®®:%c[default] 3x Seeigel\n
+\n%c[default]\n \n
+%c[001,168,255,210]Medizin\n
+%c[255,224,224,160]3 Militär-Medikits®®®®®®®®:%c[default] 1x Dornenkristall\n
+%c[255,224,224,160]5 Flaschen Wodka®®®®®®®®®®:%c[default] 1x Gepressetes\n
+%c[default]\n \n
+%c[001,168,255,210]Reparatur Kits\n
+%c[255,224,224,160]3 Anzug Kits (10%)®®®®®®®:%c[default] 1x Blitz\n
+%c[default]\n \n
+
+
+
+
+-------------------------------------------- DOCTOR IM SUMP
+\n \n \n \n
+%c[221,255,193,255]Artefakt Angebots Liste vom Doktor\n \n
+%c[001,168,255,210]Munition\n
+%c[255,224,224,160]5x 12x70 Schrot®®®®®®®®®®®:%c[default] 1x Dorn\n
+%c[255,114,114,160]3x 5.45x39mm (Panzerb.)®®®:%c[default] 1x Tropfen\n
+%c[255,224,224,160]3x 7.62x39mm (Standard)®®®:%c[default] 1x Blitz\n
+%c[255,224,224,160]5x RGD-5 Granaten®®®®®®®®®:%c[default] 1x Schleim\n
+%c[default]\n \n
+%c[001,168,255,210]Waffen\n
+%c[255,224,224,160]SiG Scharfschützen Gewehr®:%c[default] 3x Mikas\n
+%c[255,224,224,160]AK-47®®®®®®®®®®®®®®®®®®®®®:%c[default] 1x Seele\n
+%c[default]\n \n
+%c[001,168,255,210]Anzüge\n
+%c[255,224,124,160]Hat er nicht auf Lager®®®®%c[default]
+\n%c[default]\n \n \n
+%c[001,168,255,210]Medizin\n
+%c[255,224,224,160]3 Forschungs-Medikits®®®®®:%c[default] 1x Schnecke\n
+%c[255,224,224,160]5 Antirad's®®®®®®®®®®®®®®®:%c[default] 1x Steinblume\n
+%c[default]\n \n
+%c[001,168,255,210]Reparatur Kits\n
+%c[255,224,224,160]3 Waffen Kits (10%)®®®®®®®:%c[default] 1x Gravit\n
+%c[default]\n \n
+
+
+
+
+
+-------------------------------------------- VEIN (jlob)
+\n \n \n \n
+%c[221,255,193,255]Lebensmittel Angebots Liste von Vein\n \n
+%c[001,168,255,210]Munition\n
+%c[255,224,224,160]1x 5.45x39mm (Standard)®®®:%c[default] 5 Sandwiche\n
+%c[255,114,114,160]1x 9x19mm (Panzerbrechend):%c[default] 2 Flaschen "100 Rad's"\n
+%c[255,224,224,160]1x RGD-5 Granate®®®®®®®®®®:%c[default] 2 Tafeln Schokolade\n
+%c[255,224,224,160]1x F-1 Granate®®®®®®®®®®®®:%c[default] 5 Brote\n
+%c[default]\n \n
+%c[001,168,255,210]Waffen\n
+%c[255,224,224,160]AN-94 "Abakan"®®®®®®®®®®®®:%c[default] 10 Konservendosen\n
+%c[255,224,224,160]H&amp;K MP5®®®®®®®®®®®®®®®®®®®:%c[default] 5 Würste\n
+%c[default]\n \n
+%c[001,168,255,210]Anzüge\n
+%c[255,224,124,160]Hat er nicht auf Lager®®®®%c[default]
+\n%c[default]\n \n \n
+%c[001,168,255,210]Medizin\n
+%c[255,224,224,160]1 Standard Medikit®®®®®®®®:%c[default] 2 Flaschen Wasser\n
+%c[255,224,224,160]1 Kosakenwodka®®®®®®®®®®®®:%c[default] 5 Sandwiche\n
+%c[default]\n \n
+%c[001,168,255,210]Reparatur Kits\n
+%c[255,224,224,160]3 Anzug Kits (10%)®®®®®®®®:%c[default] 3 "Zonen" Biere\n
+%c[255,224,224,160]3 Waffen Kits (10%)®®®®®®®:%c[default] 3 Kubanische Zigarren\n
+%c[default]\n \n
+
+
+
+
+
+-------------------------------------------- Feldwebel Kuznetsov 
+\n \n \n \n
+%c[221,255,193,255]Wodka Angebots Liste vom Feldwebel Kuznetsov\n \n
+%c[001,168,255,210]Munition\n
+%c[255,224,224,160]5x 5.45x39mm (Standard)®®®:%c[default] 3 Flaschen Wodka\n
+%c[255,114,114,160]3x 5.45x39mm (Panzerb.)®®®:%c[default] 3 Flaschen Wodka\n
+%c[255,224,224,160]3x 7.62x39mm (Standard)®®®:%c[default] 5 Flaschen Wodka\n
+%c[255,114,114,160]3x 7.62x39mm (Panzerb.)®®®:%c[default] 5 Flaschen Wodka\n
+%c[255,224,224,160]2x RGD-5 Granaten®®®®®®®®®:%c[default] 2 Flaschen Wodka\n
+%c[default]\n \n
+%c[001,168,255,210]Waffen\n
+%c[255,224,224,160]AN-94 "Abakan"®®®®®®®®®®®®:%c[default] 15 Flaschen Wodka\n
+%c[255,224,224,160]AK-47®®®®®®®®®®®®®®®®®®®®®:%c[default] 5 Flaschen Wodka\n
+%c[default]\n \n
+%c[001,168,255,210]Anzüge\n
+%c[255,224,124,160]Hat er nicht auf Lager®®®®%c[default]
+\n%c[default]\n \n \n
+%c[001,168,255,210]Medizin\n
+%c[255,224,224,160]1 Militär-Medikit®®®®®®®®®:%c[default] 1 Flasche Wodka\n
+%c[default]\n \n
+%c[001,168,255,210]Reparatur Kits\n
+%c[255,224,124,160]Hat er nicht auf Lager®®®®%c[default]
+\n%c[default]\n \n
+
+
+
+
+-------------------------------------------- Sherstjuk
+\n \n \n \n
+%c[221,255,193,255]Wodka Angebots Liste von Sherstjuk\n \n
+%c[001,168,255,210]Munition\n
+%c[255,224,224,160]5x 5.45x39mm (Standard)®®®:%c[default] 3 Flaschen Wodka\n
+%c[255,114,114,160]3x 5.45x39mm (Panzerb.)®®®:%c[default] 3 Flaschen Wodka\n
+%c[255,224,224,160]3x 7.62 PKM (100er Gurt)®®:%c[default] 7 Flaschen Wodka\n
+%c[255,224,224,160]3x 7.62 PKM (250er Gurt)®®:%c[default] 12 Flaschen Wodka\n
+%c[255,224,224,160]1x F-1 Granate®®®®®®®®®®®®:%c[default] 1 Flasche Wodka\n
+%c[default]\n \n
+%c[001,168,255,210]Waffen\n
+%c[255,224,224,160]AN-94 "Abakan" Sniper®®®®®:%c[default] 15 Flaschen Wodka\n
+%c[255,224,224,160]PKM Maschinen Gewehr®®®®®®:%c[default] 20 Flaschen Wodka\n
+%c[default]\n \n
+%c[001,168,255,210]Anzüge\n
+%c[255,224,224,160]Militär SKAT9-M®®®®®®®®®®®:%c[default] 15 Flaschen Wodka\n
+%c[255,224,224,160]Militär SKAT10-M®®®®®®®®®®:%c[default] 20 Flaschen Wodka\n
+\n%c[default]\n \n
+%c[001,168,255,210]Medizin\n
+%c[255,224,224,160]1 Standard-Medikit®®®®®®®®:%c[default] 2 Flaschen Wodka\n
+%c[default]\n \n
+%c[001,168,255,210]Reparatur Kits\n
+%c[255,224,124,160]Hat er nicht auf Lager®®®®%c[default]
+\n%c[default]\n \n
+
+
+
+
+
+-------------------------------------------- SAKHAROV
+\n \n \n \n
+%c[221,255,193,255]Artefakt Angebots Liste von Sakharov\n \n
+%c[001,168,255,210]Munition\n
+%c[255,224,224,160]5x 12x70 Schrot®®®®®®®®®®®:%c[default] 1x Funkensprüher\n
+%c[255,224,224,160]3x 12x70 Spitz®®®®®®®®®®®®:%c[default] 1x Funkensprüher\n
+%c[255,224,224,160]2x 12x70 Massiv®®®®®®®®®®®:%c[default] 1x Funkensprüher\n
+%c[255,224,224,160]10x M72-M Gauss Ladungen®®:%c[default] 1x Nacht Stern\n
+%c[255,114,114,160]3x M72-M SuperGauss Ladung:%c[default] 1x Sprungfeder\n
+%c[default]\n \n
+%c[001,168,255,210]Waffen\n
+%c[255,224,224,160]SPAS 12®®®®®®®®®®®®®®®®®®®:%c[default] 1x Schnecke\n
+%c[255,224,224,160]M72-M Gauss Gewehr®®®®®®®®:%c[default] 3x Mamas Perlen\n
+%c[default]\n \n
+%c[001,168,255,210]Anzüge\n
+%c[255,224,224,160]SSP-99M Vega Anzug®®®®®®®®:%c[default] 2x Mika\n
+%c[default]\n \n
+%c[001,168,255,210]Medizin\n
+%c[255,224,224,160]4 Forschungs-Medikits®®®®®:%c[default] 1x Dorn\n
+%c[255,224,224,160]5 Antirad's®®®®®®®®®®®®®®®:%c[default] 1x Schleim\n
+%c[default]\n \n
+%c[001,168,255,210]Reparatur Kits\n
+%c[255,224,224,160]3 Anzug Kits (10%)®®®®®®®®:%c[default] 1x Gravit\n
+%c[default]\n \n
+
+
+
+
+
+-------------------------------------------- COLD
+\n \n \n \n
+%c[221,255,193,255]Angebots Liste von Cold\n \n
+%c[255,224,224,160]2x "Dream" Zigaretten®®®®®:%c[default] 1 Packung "Death's Head" Kippen\n
+%c[255,224,224,160]2x "Dream" Zigaretten®®®®®:%c[default] 3 Zigarren\n
+%c[default]\n \n
+%c[255,224,224,160]2x Wodka "Absolute"®®®®®®®:%c[default] 1 Flasche "Kosaken" Wodka\n
+%c[255,224,224,160]1x Wodka "Smirnoff"®®®®®®®:%c[default] 1 Flasche "Kosaken" Wodka\n
+(Nicht vergessen! dazu kommen noch 100 Rubel)\n
+%c[default]\n \n
+%c[255,224,224,160]2x Doc's Wurst Stäbchen®®®:%c[default] 1x "Doc's Wurst"\n
+%c[255,224,224,160]1x "Tschernigow" Bier®®®®®:%c[default] 1x "Doc's Wurst"\n
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Intro Text (amk_strings.xml/ amk_welcome_title)
 ========================================================================================
@@ -254,6 +538,9 @@ Texte wo es noch nicht ganz klar ist was man benötigt und ob das stimmt
 
 Der Marker für die Errinnerungs Info
 \n \n \n \n \n \n(*) 
+
+
+--news_manager.amk_send_tip_id("sms_coll_greet","sms_sid",10,20,"trader")
 
 dmx_mod_dialogs.xml		> sidorovich_outfit_blockpost_dialog0 Prüfen
 dmx_mod_dialogs.xml		> totalizator_0, Wette Prüfen

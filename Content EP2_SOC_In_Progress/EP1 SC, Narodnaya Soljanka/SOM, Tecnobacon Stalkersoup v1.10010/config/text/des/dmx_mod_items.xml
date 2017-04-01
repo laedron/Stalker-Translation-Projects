@@ -366,7 +366,7 @@
 			<text>Eigenartiger Auto Schlüssel</text>
 		</string>
 		<string id="enc_car_key_2">
-			<text>\n \nEin Auto Schlüssel der eingetartig geformt ist und ein kleines Militärsymbol hat. Sieht aus als könnte er in einige der Fahrzeuge, die in der Zone stehen, passen</text>
+			<text>\n \nEin Auto Schlüssel der eingenartig geformt ist und ein kleines Militärsymbol besitzt. Sieht aus als könnte er in einige der Militär Fahrzeuge, die in der Zone stehen, passen</text>
 		</string>
 		<string id="bolt_detector_otclik">
 			<text>Response Detector</text>
@@ -378,13 +378,14 @@
 			<text>\n \nVeraltetes Modell des Detektors für Artefakte. Artefakt Reaktion wird nur anhand eines Geräusch Hörbar gemacht. Das Gerät sendet ein Signal aus sobald der Anwender sich einem Artefakt näher kommt. Die Identifikation der Artefakte geschieht durch eine Integrierte Kammer in der Anomalie Partikeln aufbewahrt werden. Der Abstand zum Artefakt wird durch den Frequenzsound bestimmt. Der Suchmodus erfolgt durch die angebrachte Antenne auf der Vorderseite. Aufgrund der Einfachheit des Designs ist es nur möglich die häufigsten Artefakte zu finden.</text>
 		</string>
 		<string id="bolt_detector_medved">
-			<text>Röntgen (rem) Detektor</text>
+			<text>Röntgen (rem) Anomalie Detektor</text>
 		</string>
 		<string id="bolt_detector_medved_s">
 			<text>Röntgen</text>
 		</string>
 		<string id="enc_bolt_detector_medved">
-			<text>\n \nDetektor der Letzen Generation für Artefakte. Ausgestattet mit einem Radar und einer LED-Anzeige in welcher Richtung -und wie weit entfernt sich das Artefakt befindet. Das Gerät Besitzt an der Vorderseite eine kleine Antenne". Die ist der "Sucher" für das Artefakt. Dadurch das die Liste der Artefakte im Gerät "Hart Codiert" ist, ist dieser Detektor Dementsprechend" veraltet.</text>
+			<text>\n \nDetektor der Letzen Generation für Anomalies. Ausgestattet mit einem Radar und einer LED-Anzeige in welcher Richtung -und wie weit entfernt sich die Artefakt befindet. Das Gerät Besitzt an der Vorderseite eine kleine Antenne". Die ist der "Sucher" für das Artefakt. Dadurch das die Liste der Artefakte im Gerät "Hart Codiert" ist, ist dieser Detektor Dementsprechend" veraltet.
+\n \nHandbuch Schreibt: Um den Artefakt Suchmodus zu aktiveren, halte es vor dir.</text>
 		</string>
 		<string id="bolt_detector_veles">
 			<text>Veles Detektor</text>
@@ -393,7 +394,7 @@
 			<text>Veles</text>
 		</string>
 		<string id="enc_bolt_detector_veles">
-			<text>\n \nDetektor einer neuen Generation, der von Wissenschaftlern verwendet wird. Zugleich ist dieser Detektor auch ein Scanner. Mit seinen drei Kameras Registriert das Gerät in einem weiten Radius Artefakte. Auf dem Gerät wird im Display die erfasste Strahlung gemessen, sobald eine geortet wird. Für den Suchmodus wird im Display auf der Vorderseite eine Reihe von Information angezeigt. Das Gerät ist im Stande alle bekannten wissenschaftlichen Artefakte zu Orten und zu Scannen.</text>
+			<text>\n \nDetektor einer neuen Generation, der von Wissenschaftlern verwendet wird. Zugleich ist dieser Detektor auch ein Scanner. Mit seinen drei Scanners Registriert das Gerät in einem weiten Radius Artefakte. Auf dem Gerät wird im Display die erfasste Strahlung gemessen, sobald eine geortet wird. Für den Suchmodus wird im Display auf der Vorderseite eine Reihe von Information angezeigt. Das Gerät ist im Stande alle bekannten wissenschaftlichen Artefakte zu Orten und zu Scannen.\n \nHandbuch Schreibt: Um es zu verwenden, Platzieren sie es in den ersten Waffen Steckplatz (Slot). Kann auch mit einer Waffe Parallel benutzt werden.</text>
 		</string>
 		<string id="helmet_stalker">
 			<text>Mask</text>
@@ -426,7 +427,7 @@
 			<text>\n \nDiese Gerät schütz Menschen vor Strahlung, die von Zombies abgesondert  werden.\n \nTrägt man es bei sich im Rucksack, absorbiert es vollständig die Strahlung. Das Absorbierte Material wird in einem Speziell dafür vorgesehenen Behälter, ähnlich den Behältern die für Artefakte benutzt werden, aufgefangen. "Antirad'in" ist sehr teuer aber in der Regel sehr nützlich wenn man sich in PSI Starken Strahlungs-Gebieten aufhält, in denen es nur von Zombies so wimmelt.</text>
 		</string>
 		<string id="device_warning_module">
-			<text>Decoder-Modul</text>
+			<text>Hacking Decoder-Modul</text>
 		</string>
 		<string id="enc_device_warning_module">
 			<text>\n \nDecoder Modul welches mit dem PDA verbunden ist. Empfängt "Warnungen" von anderen Stalker  und Dekodiert andere PDA's. Kann Automatisch elektronisch das Geld abheben und auf das eigene Konto einzahlen.</text>
@@ -659,55 +660,55 @@
 		</string>
 <!-- DOCUMENTS AKIM -->
 		<string id="doc_garbage">
-			<text>Alte Dokumente von der "Müllhalde"</text>
+			<text>Alte Dokumente #1 von der "Müllhalde"</text>
 		</string>
 		<string id="doc_garbage_s">
-			<text>Alte Dokumente</text>
+			<text>Alte Dokumente #1</text>
 		</string>
 		<string id="enc_doc_garbage">
 			<text>Diese Dokumente hab ich bei der "Müllhalde" gefunden. Irgendeine  wissenschaftliche Formel .... in einer wirklich unverständlichen Sprache geschrieben.\n \nWenn man sich das so ansieht  - könnte auch einfach das Gekritzel eines Verrückten sein.</text>
 		</string>
 		<string id="doc_agro">
-			<text>Alte Dokumente aus Agroprom</text>
+			<text>Alte Dokumente #2 aus Agroprom</text>
 		</string>
 		<string id="doc_agro_">
-			<text>Alte Dokumente</text>
+			<text>Alte Dokumente #2</text>
 		</string>
 		<string id="enc_doc_agro">
 			<text>Ein Stapel von Dokumenten aus den tiefen Katakomben unter dem Agroprom Forschungsinstitut. Irgendeine Formel in einer Sprache, die ich nicht Kapiere. Sehr merkwürdig.</text>
 		</string>
 		<string id="doc_x18_1">
-			<text>Altes Dokument - Teil 1 (Dunkles Tal)</text>
+			<text>Altes Dokument #3 - Teil 1 (Dunkles Tal)</text>
 		</string>
 		<string id="doc_x18_1_s">
-			<text>Teil 1</text>
+			<text>Altes Dokument #3 (Teil 1)</text>
 		</string>
 		<string id="enc_doc_x18_1">
-			<text>Dokument aus dem "Dunklen Tal". Scheint wohl nur der erste Teil sein...</text>
+			<text>Der erste Teil von Dokumenten aus dem "Dunklen Tal". Scheint wohl nur die Einleitung auf etwas sein..</text>
 		</string>
 		<string id="doc_x18_2">
-			<text>Altes Dokument - Teil 2 (Laboratorium X-18)</text>
+			<text>Altes Dokument #3 - Teil 2 (Laboratorium X-18)</text>
 		</string>
 		<string id="doc_x18_2_s">
-			<text>Teil 2</text>
+			<text>Altes Dokument #3 (Teil 2)</text>
 		</string>
 		<string id="enc_doc_x18_2">
 			<text>Der zweite Teil einer Reihe von Dokumenten, die im Laboratorium X-18 zu finden waren.</text>
 		</string>
 		<string id="doc_x18_3">
-			<text>Altes Dokument - Teil 3 (Laboratorium X-18)</text>
+			<text>Altes Dokument #3 - Teil 3 (Laboratorium X-18)</text>
 		</string>
 		<string id="doc_x18_3_s">
-			<text>Teil 3</text>
+			<text>Altes Dokument #3 (Teil 3)</text>
 		</string>
 		<string id="enc_doc_x18_3">
 			<text>Der dritte Teil einer Reihe von Dokumenten, die im Laboratorium X-18 zu finden waren.</text>
 		</string>
 		<string id="doc_x18_4">
-			<text>Altes Dokument - Teil 4 (Laboratorium X-18)</text>
+			<text>Altes Dokument #4 - Teil 4 (Laboratorium X-18)</text>
 		</string>
 		<string id="doc_x18_4_s">
-			<text>Teil 4</text>
+			<text>Altes Dokument #3 (Teil 4)</text>
 		</string>
 		<string id="enc_doc_x18_4">
 			<text>Der vierte Teil einer Reihe von Dokumenten, die im Laboratorium X-18 zu finden waren.</text>
@@ -861,4 +862,4 @@
 			<text>\n \nNotizbuch von eimem Informanten der "Freiheit". Es enthält Informationen über das Modifizieren von Artefakten ... \n \nHandbuch Schreibt: Um die Information einzusehen, Platzieren sie das Objekt in den ersten Waffen Steckplatz (Slot).</text>
 		</string>
 	</string_table>
-<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 20.03.2017 21:55:13 -->
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 01.04.2017 03:46:04 -->

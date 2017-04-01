@@ -9,6 +9,12 @@
 		<text>Dialogue Improvement Team</text>
 	</string>
 	<string id="dialogue_improvement_desc">
-		<text>Members are:\n • Sword2012\n • Steve2000\n • Aleks1970\n • Text version is up to the 21.02.2017 [109999 + 110000c + 110002_alpha ==>> 110011_alpha + Dialogue improvement]</text>
+		<text>Members are:\n • Sword2012\n • Steve2000\n • Aleks1970\n • Text version is up to the 31.03.2017 [109999 + 110000c + 110002_alpha ==>> 110012_alpha + Dialogue improvement]</text>
+	</string>
+	<string id="dialogue_text_version">
+		<text>1.1.0012</text>
+	</string>
+	<string id="dialogue_text_version_date">
+		<text>31.03.2017</text>
 	</string>
 </string_table>

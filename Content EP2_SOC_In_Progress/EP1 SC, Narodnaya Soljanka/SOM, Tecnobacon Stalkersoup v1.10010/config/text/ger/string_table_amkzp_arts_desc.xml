@@ -57,7 +57,7 @@
 		<text>Star Monolith</text>
 	</string>
 	<string id="enc_zone_artifact_af_dummy_star_monolith">
-		<text>A mysterious artefact. There are two recorded instances of its occurrence in the Zone...\n* It appeared, according to rumors, when the stalkers of the clan of 'Monolith' entered the center zone. At the altar they preyed, asking the Monolith to gave them a sign of its existence. One night the artefact fell from heaven to earth. The fanatics took this as a sign from the monolith.\n* According to scientists it was formed by the merger of several high altitude air anomalies.\nA very rare item formed only in the area surrounding the Chernobyl nuclear power plant</text>
+		<text>A mysterious artefact. There are two recorded instances of its occurrence in the Zone...\n* It appeared, according to rumors, when the stalkers of the clan of 'Monolith' entered the center Zone. At the altar they preyed, asking the Monolith to gave them a sign of its existence. One night the artefact fell from heaven to earth. The fanatics took this as a sign from the monolith.\n* According to scientists it was formed by the merger of several high altitude air anomalies.\nA very rare item formed only in the area surrounding the Chernobyl nuclear power plant</text>
 	</string>
 	<string id="af_dummy_seashell">
 		<text>Baby Dummy</text>
@@ -102,7 +102,7 @@
 		<text>Coal</text>
 	</string>
 	<string id="enc_zone_artifact_af_dummy_coal">
-		<text>artefact, which appeared in the zone recently. Scientists believe it is formed from Nuclear-chemosynthesis between Baryon type dark matter and the artefact 'Stone Flower'. Looks like a lump of coal. artefact gives good protection from Psionic waves and raises resistance to radioactive contamination, but with greatly increased fatigue. Make sure you have artefacts that counter the negative effects</text>
+		<text>artefact, which appeared in the Zone recently. Scientists believe it is formed from Nuclear-chemosynthesis between Baryon type dark matter and the artefact 'Stone Flower'. Looks like a lump of coal. artefact gives good protection from Psionic waves and raises resistance to radioactive contamination, but with greatly increased fatigue. Make sure you have artefacts that counter the negative effects</text>
 	</string>
 	<string id="af_dummy_quill">
 		<text>Igla</text>
@@ -264,7 +264,7 @@
 		<text>Mushroom</text>
 	</string>
 	<string id="enc_zone_mushy_bigB">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+3\n%c[default]\nFor some reason this Mushroom has very high levels of radiation. The ability of mushrooms to absorb nearby heavy metals, including those that are radioactive could be the reason behind this. Don't carry these for too long, they are slightly radioactive after all! Scientists are interested in these curiosities of the zone</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+3\n%c[default]\nFor some reason this Mushroom has very high levels of radiation. The ability of mushrooms to absorb nearby heavy metals, including those that are radioactive could be the reason behind this. Don't carry these for too long, they are slightly radioactive after all! Scientists are interested in these curiosities of the Zone</text>
 	</string>
 	<string id="mushy_bigC">
 		<text>Fly Mushroom</text>
@@ -291,7 +291,7 @@
 		<text>Mushroom</text>
 	</string>
 	<string id="enc_zone_mushy_bigE">
-		<text>An irradiated mutation of the Russula Fragilis. Dangerous heavy metals have enhanced this Mushroom's striking color. These heavy metals are only found in human excrement accumulated in the body from travels deep into the zone. Did someone leave something else around here?</text>
+		<text>An irradiated mutation of the Russula Fragilis. Dangerous heavy metals have enhanced this Mushroom's striking color. These heavy metals are only found in human excrement accumulated in the body from travels deep into the Zone. Did someone leave something else around here?</text>
 	</string>
 	<string id="mushy_bigF">
 		<text>Death Cap</text>

@@ -77,7 +77,7 @@
 		<text>Anomaly Detector</text>
 	</string>
 	<string id="Detect4">
-		<text>Elite Anomaly Detector</text>
+		<text>'Elite' Anomaly Detector</text>
 	</string>
 	<string id="Devic">
 		<text>Instruments and Devices</text>
@@ -122,7 +122,7 @@
 		<text>Detects the presence of abnormal and aberrational fields, indicating their presence with a warning audio signal. Needs to be out in the open and near the ground to work I.e. On your belt...</text>
 	</string>
 	<string id="enc_equipment_devic_detect3">
-		<text>Elite Anomaly Detector invented by Scientists in the Zone. Detects the presence of abnormal and aberrational fields, and displays them on the user's mini-map. Functions when worn on the belt</text>
+		<text>'Elite' Anomaly Detector invented by Scientists in the Zone. Detects the presence of abnormal and aberrational fields, and displays them on the user's mini-map. Functions when worn on the belt</text>
 	</string>
 	<string id="enc_equipment_devic_device-PDA1">
 		<text>Personal Digital Assistant - an indispensable library, communication and navigational device in the Zone</text>
@@ -134,7 +134,7 @@
 		<text>Powerful flashlight. Recharge time improved by using the latest battery technology, and a more efficient transducer</text>
 	</string>
 	<string id="enc_equipment_energydrink"><!-- aleks1970 -->
-		<text>Energy drink containing caffeine, taurine, and a questionable mixture of 'rejuvenating vitamins'. Ideal for when you need to go just that little bit further...\nThe warning label states that 'Consumption in excessive quantities has proven lethal'</text>
+		<text>Proudly bearing the name of the eponymous, not to mention notorious bar that sells it, '100 Rads' beer can be simply described as an alcoholic energy drink. Whether it’s better or safer than similar non-branded drinks in the Zone, considering the life expectancy of an average Stalker, depends on how much you trust the Barkeep...</text>
 	</string>
 	<string id="enc_equipment_energydrinka">
 		<text>Anonymous, generic beverage carrying no specific name, trademark, nor point of origin, thus removing all responsibility from the seller.\nThe label simply states that it 'Contains caffeine, taurine, and  rejuvenating vitamins - ideal for when you need to go just that little bit further! Consumption in excessive quantities can lead to illness or death'</text>
@@ -284,10 +284,10 @@
 		<text>Anomaly Detector</text>
 	</string>
 	<string id="st_detector3">
-		<text>Elite Anomaly Detector</text>
+		<text>'Elite' Anomaly Detector</text>
 	</string>
 	<string id="st_detector3_s">
-		<text>Elite Detector</text>
+		<text>'Elite' Detector</text>
 	</string>
 	<string id="st_detector_descr1">
 		<text>Dosimeter - a device measuring the doseage or capacity of ionising radiation. Functions when worn on the belt</text>
@@ -330,7 +330,7 @@
 		<text>Bezoar</text>
 	</string>
 	<string id="enc_equipment_bezoar">
-		<text>A disgusting, decaying, slimy mass of densely matted hair formed inside the stomach of a Controller. Guaranteed to induce vomiting simply by looking at it, they've actually been known to lower the vital signs of scientists trying to dispose of one. Undaunted by the experiential data, Professor Sakharov still believes he can create a useful artefact from this revolting lump of shit!</text>	<!-- Rewrite - Sword2012 - 29 Nov 16 -->
+		<text>A disgusting, decaying, slimy clump of densely matted hair formed inside the stomach of a Controller. Guaranteed to induce vomiting just by looking at it, they've been known to lower the vital signs of anybody trying to dispose of one. Undaunted by the experiential data, Professor Sakharov believes he can create a useful artefact from this revolting lump of shit!</text>	<!-- Rewrite - Sword2012 - 27 Mar 17 -->
 	</string>
 	<string id="zamok">
 		<text>Lock</text>
@@ -357,13 +357,13 @@
 		<text>Ordinary carrion crow egg. High-protein product that satisfies hunger, raises health a little, and slightly reduces radiation. With the absence of hens and other egg-laying fowl in the Zone, these are considered a delicacy</text>
 	</string>
 	<string id="equip_snotvornoe_tele">
-		<text>Exotic medicine</text>
+		<text>Herbal medicine</text>
 	</string>
 	<string id="equip_snotvornoe_tele_s">
 		<text>Medicine</text>
 	</string>
 	<string id="enc_equipment_snotvornoe_tele">
-		<text>Concoction of marsh grasses possessing soporific properties and hallucinogenic side-effects. The exact composition is known only to the Doctor himself, and he's not telling. If I don't drink what they've offered me, I won't be trusted here as a friend, and will continue to be regarded as an 'outsider'...</text>
+		<text>Concoction of marsh grasses possessing soporific properties and hallucinogenic side-effects. The exact composition is known only to the Doctor himself, and he only uses it to help lost souls gain acceptance into the Stalker community...</text>
 	</string>
 	<string id="equip_shaxter_tele">
 		<text>Miner's Medicine</text>
@@ -618,7 +618,7 @@
 		<text>Amulet</text>
 	</string>
 	<string id="enc_item_amulet_descr">
-		<text>A Monolithian Amulet, bestowed upon the 'Elite' within the Monolith Faction as a symbol of faithful service. Extremely rare, and hard to come across. Contains 'runic' symbols that appear to be from a long-forgotten language...</text>
+		<text>A Monolithian amulet, bestowed upon the 'elite' within the Monolith Faction as a symbol of faithful service. Extremely rare, and hard to come across. Contains 'runic' symbols that appear to be from a long-forgotten language...</text>
 	</string>
 	<string id="item_remontnyi_box">
 		<text>Field Repair Kit</text>
@@ -747,7 +747,7 @@
 		<text>Gold pocket watch. Possibly belonging to the old man. In spite of everything it's been through after all this time, and the poor shape it's in, it still works!</text>
 	</string>
 	<string id="detect_john">
-		<text>Detector capable of identifying all known anomalies. Hard to come by in the Zone, and many skilled Stalkers and faction leaders have only heard of them. Represents an update to the well-known Elite detector developed by the scientists and upgraded by Professor Sakharov. A couple of prototypes were found at the Scientific Research Institute, and another in a dark, deserted cave. They are highly sought after by both military and non-military personnel, and are constantly at risk of being stolen by one side or the other...</text>
+		<text>Detector capable of identifying all known anomalies. Hard to come by in the Zone, and many skilled Stalkers and faction leaders have only heard of them. Represents an update to the well-known 'Elite' detector developed by the scientists and upgraded by Professor Sakharov. A couple of prototypes were found at the Scientific Research Institute, and another in a dark, deserted cave. They are highly sought after by both military and non-military personnel, and are constantly at risk of being stolen by one side or the other...</text>
 	</string>
 	<string id="item_britva">
 		<text>Razor</text>
@@ -1026,7 +1026,7 @@
 	<string id="enc_equipment_amanita_mushroom">
 		<text>Although slightly radioactive, the Amanita mushroom is edible after prolonged boiling - but be warned. A common ingredient in the manufacture of potent tranquilizers and pain medication, it's often used by local drug addicts for its variety of hallucinegenic effects. It grows mostly in marshland, and has a tendency to disintegrate if kept for too long once plucked from the ground</text>
 	</string>
-	<!-- Duplicated section!!! - game will use text from "dmx_mod_items.xml" file instead - aleks1970 -->
+	<!-- Duplicated section! - game will use text from "dmx_mod_items.xml" file instead - aleks1970 -->
 	<!-- Duplicated string id was moved in to the "dmx_mod_items.xml" file - aleks1970 -->
 	<!-- Documents at Uhud -->
 	<!-- moved string id: "stukach_book" and "stukach_book_desc" in to the dmx_mod_items file - aleks1970 -->
@@ -1276,13 +1276,13 @@
 		<text>Videocassette with the protection tab snapped off. Contents as yet unknown but, for one reason or another, the Military want to get their hands on it. More than likely contains archive information on the Zone's formation, and other confidential stuff. I'll exchange it with Sakharov for a Minigun, and wash my hands of it. The less I know, the better I'll sleep...</text>
 	</string>
 	<string id="item_detector1">
-		<text>'Special' Detector</text>
+		<text>Tracking Device</text>
 	</string>
 	<string id="item_detector1_s">
-		<text>'Special' Detector</text>
+		<text>Tracking Device</text>
 	</string>
 	<string id="enc_item_detector1_descr">
-		<text>Special Detector invented by Sakharov. Able to pick up nearby signals within a radius of ten metres...</text>
+		<text>Special detector designed by Sakharov to locate a specific RFID tag, and deliberately restricted to a radius of ten metres for security purposes, so you need to know where to start looking...</text>
 	</string>
 	<string id="item_ammo_545x39">
 		<text>5.45x39mm 'Isomorphic'</text>

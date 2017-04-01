@@ -108,7 +108,7 @@
 		<text>Well its better than nothing at all ... Here, take it.</text>
 	</string>
 	<string id="escape_trader_repair_14">
-		<text>Here, take the money... What?! not enough? This is more than State employees receive in a month!!! Take it now ... before I change my mind.</text>
+		<text>Here, take the money... What?! not enough? This is more than State employees receive in a month! Take it now ... before I change my mind.</text>
 	</string>
 	<string id="escape_trader_repair_21">
 		<text>I'll take whatever I can get. Still ... it's a rip-off though!!</text>
@@ -266,7 +266,7 @@
 		<text>When I finish the repair I will inform you via your PDA. This will take about five and a half hours ...</text>
 	</string>
 	<string id="dlinnuy_repair_663">
-		<text>What pile of Burer shit did you find this in!? This will take at least seven hours to repair!!! I will inform you via your PDA when it's finished, so do not switch it off ...</text>
+		<text>What pile of Burer shit did you find this in!? This will take at least seven hours to repair! I will inform you via your PDA when it's finished, so do not switch it off ...</text>
 	</string>
 	<string id="dlinnuy_repair_664">
 		<text>This is a piece of junk. I hope you brought another weapon for spare parts? This will take about eight hours. When I finish the repair I will inform you via your PDA.</text>
@@ -512,7 +512,7 @@
 		<text>Repair my armour:</text>
 	</string>
 	<string id="bar_trader_repair_5">
-		<text>I dont have enough money ... another time perhaps?</text>
+		<text>I don't have enough money ... another time perhaps?</text>
 	</string>
 	<string id="bar_trader_repair_6">
 		<text>Here, all is fixed and greased as was necessary!!</text>
@@ -551,7 +551,7 @@
 		<text>Repair my armour:</text>
 	</string>
 	<string id="yantar_trader_repair_5">
-		<text>I dont have enough money. I will come back later.</text>
+		<text>I don't have enough money. I will come back later.</text>
 	</string>
 	<string id="yantar_trader_repair_6">
 		<text>This will take a little while...\n \nThen you can come back to pick it up.</text>

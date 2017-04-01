@@ -1,6 +1,7 @@
 <!-- TB3D 1.1.0.0.0.4 FSS, prvt ponds to adrenaline -->
 <!-- Names changed as commented below - Sword2012 - 31 Oct 16 -->
 <!-- Capitalised first letter of 31 names - Sword2012 - 05 Feb 17 -->
+<!-- Capitalised first letter of 7 more names - Sword2012 - 13 Mar 17 -->
 <string_table>
 #include "text\ger\stable_generate_fnames.xml"
 	<string id="lname_bandit_0">
@@ -3100,7 +3101,7 @@
 		<text>Pacific</text>
 	</string>
 	<string id="lname_stalker_117">
-		<text>fat</text>
+		<text>Fat</text><!-- Was 'fat'- Sword2012 - 13 Mar 17-->
 	</string>
 	<string id="lname_stalker_118">
 		<text>Tolstiak</text>
@@ -3127,7 +3128,7 @@
 		<text>Hohmach</text>
 	</string>
 	<string id="lname_stalker_125">
-		<text>lame</text>
+		<text>Lame</text><!-- Was 'lame'- Sword2012 - 13 Mar 17-->
 	</string>
 	<string id="lname_stalker_126">
 		<text>Chronicles</text>
@@ -3451,7 +3452,7 @@
 		<text>Moderator</text>
 	</string>
 	<string id="lname_stalker_222">
-		<text>milkman</text>
+		<text>Milkman</text><!-- Was 'milkman'- Sword2012 - 13 Mar 17-->
 	</string>
 	<string id="lname_stalker_223">
 		<text>Butcher</text>
@@ -3535,7 +3536,7 @@
 		<text>Podzhigatel</text>
 	</string>
 	<string id="lname_stalker_248">
-		<text>firefighter</text>
+		<text>Firefighter</text><!-- Was 'firefighter'- Sword2012 - 13 Mar 17-->
 	</string>
 	<string id="lname_stalker_249">
 		<text>Polzun</text>
@@ -3616,7 +3617,7 @@
 		<text>Registrar</text>
 	</string>
 	<string id="lname_stalker_272">
-		<text>heartbreaker</text>
+		<text>Heartbreaker</text><!-- Was 'heartbreaker'- Sword2012 - 13 Mar 17-->
 	</string>
 	<string id="lname_stalker_273">
 		<text>Simulyant</text>
@@ -3625,7 +3626,7 @@
 		<text>Skif</text>
 	</string>
 	<string id="lname_stalker_275">
-		<text>SLedopyt</text>
+		<text>Sledopyt</text><!-- Was 'SLedopyt'- Sword2012 - 13 Mar 17-->
 	</string>
 	<string id="lname_stalker_276">
 		<text>Slesar</text>
@@ -4345,7 +4346,7 @@
 		<text>Head</text>
 	</string>
 	<string id="lname_stalker_491">
-		<text>Fang</text> <!-- Changed 'Canine' to 'Fang'- Sword2012 - 31 Oct 16-->
+		<text>Fang</text><!-- Changed 'Canine' to 'Fang'- Sword2012 - 31 Oct 16-->
 	</string>
 	<string id="lname_stalker_492">
 		<text>Kogot</text>

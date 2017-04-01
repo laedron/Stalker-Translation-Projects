@@ -2,8 +2,8 @@
 <!-- TB3D 1.1.0.0.0.4 unflawed sky -->
 <!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for accuracy, clarity, brevity, and consistency - 31 Oct 16 -->
 <!-- Names changed as commented below - Sword2012 - 31 Oct 16 -->
-<!-- Corrected many generic punctuation, in-game and US/UK spelling errors - Sword2012 - 12 Dec 16 -->
-<!-- All lines reworked and proofed - Sword2012 - 11 Feb 17 -->
+<!-- Corrected many generic punctuation, in-game and US/UK spelling errors - Sword2012 - 12 Dec 16  -->
+<!-- All lines reworked and proofed - Sword2012 - Small improvements 28 Feb 17 -->
 <string_table>
 	<string id="tex_take_pushka">
 		<text>While Fox sits here on his backside, getting drunk with the Doctor, I have to go and pick up his parcel from Prapor. This had better be worth it...</text>
@@ -283,7 +283,7 @@
 		<text>Borman has asked you to find the signal jammer that's currently intercepting and suppressing Freedom's radio signals, and take it to Miser to have it recoded. Then position it back where you found it, thus restoring Freedom's safe transmission channels and allowing them to intercept Monolith ones. The jammer is expected to be on or near the top of a tall building</text>
 	</string>
 	<string id="lekar_kalmyak_desc">
-		<text>%c[255,255,255,255]Radiation %c[255,255,1,1]+80\n%c[default]Medicine for Kalmyak. Using a recipe he learned from his grandmother, this improved home-made antidote is highly effective in removing radiation from the human body</text>
+		<text>%c[255,255,255,255]Radiation %c[255,255,1,1]+80\n%c[default]Medicine for Kalmyak. Using a recipe he learned from his grandmother, this rustic home-made antidote is highly effective in removing radiation from the human body</text>
 	</string>
 	<string id="text_arc_xalyava_nebo">
 		<text>Sviblov has asked you to witness a transaction between Freebie and a group of mercenaries at an abandoned farm in Cordon. Under no circumstances must you be spotted, or the Mercs will cover their tracks - and we need that traitor Freebie alive...</text>
@@ -295,7 +295,7 @@
 		<text>Sviblov's case</text>
 	</string>
 	<string id="case_nebo_desc">
-		<text>%c[255,255,255,255]Radiation %c[255,255,1,1]+30\n%c[default]Sviblov's case. A radiation and shock-proof case protecting the flasks inside, and the carrier from its contents...</text>
+		<text>%c[255,255,255,255]Radiation %c[255,255,1,1]+30\n%c[default]Sviblov's case. A radiation and shock-proof case designed to protect the flasks inside, and the carrier from its contents...</text>
 	</string>
 	<string id="text_arc_brat_luis">
 		<text>Zahar tells me that Brother Louis, one of leaders of the 'Avengers' from the Swamps, is looking for the Frenchman. So I need to find him first...</text>
@@ -316,7 +316,7 @@
 		<text>Sviblov has asked you to find the missing courier from Radar. The courier was on his way to Yantar, so it would make sense to start near the Brain Scorcher...</text>
 	</string>
 	<string id="price_upgr_marsh_remont_text">
-		<text>List of upgrades for Vasily's suits:\n \n1. Adding night vision to the following suits (Classification: Clear Sky exoskeleton, Clear Sky scientific suit, Monolith black suit):\n-PNV 'Green' - 10,000 Ru;\n-PNV 'Digital' - 25,000 Ru;\n-PNV 'Sepia' - 15,000 Ru;\n-PNV 'Halogen' - 20,000 Ru;\n-PNV 'Cat's eye' - 30,000 Ru;\n-PNV 'Psi effect' - 25,000 Ru;\n-PNV 'Moonlight' - 25,000 Ru;\n-PNV 'White night' - 30,000 Ru;\n \n2</text>
+		<text>List of upgrades for Vasily's suits:\n \n1. Adding night vision to the following suits (Classification: Clear Sky exoskeleton, Clear Sky scientific suit, Monolith black suit):\n-PNV 'Green' - 10,000Ru;\n-PNV 'Digital' - 25,000Ru;\n-PNV 'Sepia' - 15,000Ru;\n-PNV 'Halogen' - 20,000Ru;\n-PNV 'Cats Eye' - 30,000Ru;\n-PNV 'Psi-effect' - 25,000Ru;\n-PNV 'Moonlight' - 25,000Ru;\n-PNV 'White Night' - 30,000Ru;\n \n2</text>
 	</string>
 	<string id="text_arc_shadowman_zver">
 		<text>Shadows has asked me to help the Stalkers at the tower camp outside the Red Forest to fend off a mutant wave. They're not prepared for this, and will be ripped to shreds. He's left a Winchester shotgun and cartridges in a bag on the second floor, in case of such an emergency. If I can save even one Stalker, my efforts won't have been in vain...</text><!-- Changed 'Shadowman' to 'Shadows' - Sword2012-->

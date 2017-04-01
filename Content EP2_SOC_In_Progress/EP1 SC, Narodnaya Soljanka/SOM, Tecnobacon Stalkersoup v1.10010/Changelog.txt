@@ -21,6 +21,7 @@ gibt.
 - dmx_mod_weapons		<- (Waffen Todo: Details)**
 - meceniy_st_dialogs	<- (2 - 3 items, die im Nachhinein noch Überprüft werden müssen)
 - sak_strings 
+- sak_strings_trade 
 - string_table_general
 - string_table_mapspots_escape
 - string_table_tasks_deadcity
@@ -29,7 +30,6 @@ gibt.
 - string_table_tips
 - string_table_tips_escape
 - string_table_tutorial
--  
 - ui_st_inventory
 - ui_st_keybinding
 
@@ -43,7 +43,7 @@ Bei der Flut an Waffen und Zusätzen fehlt die Genauigkeit.
 		//=================================================================================//
 
 		XML Dateien, Fast Fertig oder in Arbeit:
-		- sak_strings_trade.xml (Aktuell)
+		- sak_strings_treasure.xml (Aktuell)
 		- aem_strings
 		- ui_st_pda
 		- tb3d_dialogs_arhara_start
@@ -163,6 +163,23 @@ Bei der Flut an Waffen und Zusätzen fehlt die Genauigkeit.
 		die einzelnen Farbumgebungen einstellen sowie einige andere Sachen.
 //=============================================================================================//
 
+[URL="https://github.com/MartyShepard/Stalker-Translation-Projects"]Update bei Github[/URL]
+Für Neulinge
+[spoiler]
+Für Neulinge:
+- Bei Github dann auf "Clone or Download" klicken.
+- Archiv Entpacken
+- Im Entpackten Archiv zum Verzeichnis "..\Content EP2_SOC_In_Progress\EP1 SC, Narodnaya Soljanka\SOM, Tecnobacon Stalkersoup v1.10010\ naviegieren
+- Diesen Inhalt. Also diese Verzeichnisse
+[LIST]
+[*]Config
+[*]scripts
+[*]sounds
+[*]textures
+[/LIST]
+In eure Stalkersoup -> in das verzeichnis "Gamedata" kopieren. [URL="https://www.youtube.com/watch?v=23Avp_2EBCo"]Simpel gell ....[/URL]
+Sollte es den Ordner "Gamedata" nicht geben. dann diesen Manuel anlegen.[URL="https://www.youtube.com/watch?v=NO4Q_CHTB2s"] Wie?[/URL]
+[/spoiler]
 
 //============================================//
 Changelog 10.03.2017

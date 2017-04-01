@@ -58,7 +58,7 @@
 		<text>The Dump</text>
 	</string>
 	<string id="enc_zone_locations_garbage">
-		<text>The Dump (aka The Garbage) is nothing more than a vast, desolate machinery graveyard. After the nuclear disaster, whole heaps of radioactive waste were dumped here, mostly the ruins of old buildings infested with mutants. Close to the outskirts of the Zone, this place is usually full of Rookies, the natural prey of Bandits on the lookout for careless Stalkers, and most of whom meet their end here. Some common artefacts can be found in this area, but most get taken quickly and the more difficult ones aren't worth the effort, so you're better off elsewhere. Going north will bring you to the Wild Territory. To the east lies the entrance to the Dark Valley. The Agroprom Research Institute is to the west</text>
+		<text>The Dump (aka The Garbage) is nothing more than a vast, desolate machinery graveyard. After the nuclear disaster, whole heaps of radioactive waste were dumped here, mostly the ruins of old buildings infested with mutants. Close to the outskirts of the Zone, this place is usually full of Rookies, the natural prey of Bandits on the lookout for careless Stalkers, most of whom meet their end here. Some common artefacts can be found in this area, but most get taken quickly and the more difficult ones aren't worth the effort, so you're better off elsewhere. Going north will bring you to the Wild Territory. To the east lies the entrance to the Dark Valley. The Agroprom Research Institute is to the west</text>
 	</string>
 	<string id="Agroprom">
 		<text>Agroprom</text>
@@ -380,7 +380,7 @@
 		<text>Dummy</text>
 	</string>
 	<string id="enc_zone_artifact_af_dummy_dummy">
-		<text>the Origin of an artefact is not known. Two rigid disks linked together by slime. The artefact slightly reduces defeat from all types of gravitational anomalies and explosions, absorbing shock waves. The price of sale high. Interest to an artefact is shown with the scientific organizations</text>
+		<text>The origin of this artefact is as yet unknown. Two separate rigid disks joined together by a kind of clear magnetic mucus. The artefact absorbs shock waves, slightly reducing harm from gravitational anomalies and explosions. The sale price is high, due to interest from many disparate scientific organizations and universities</text>
 	</string>
 	<string id="af_dummy_glassbeads">
 		<text>Glassbeads</text>
@@ -458,7 +458,7 @@
 		<text>Heart of the Poltergeist</text>
 	</string>
 	<string id="artifact_af_part_monolit">
-		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+85\n%c[default]\nHeart of the poltergeist the Extremely rare artefact reminding pulsing heart. Actually represents a splinter of a monolith. Whom and when he broke off from the basic part of a crystal it was not known, but the artefact possesses a greater{big} set of positive qualities. Lack only one - the highest doze of radiated radiation. To carry away such artefact it is impossible even at presence of special containers and suits. It becomes possible{probable} only at presence on a belt{zone} of the several artefacts reducing radiation</text>
+		<text>%c[1,1,1,1]______ %c[255,255,255,255]Radiation %c[255,255,1,1]+85\n%c[default]\nHeart of the poltergeist the Extremely rare artefact reminding pulsing heart. Actually represents a splinter of a monolith. Whom and when he broke off from the basic part of a crystal it was not known, but the artefact possesses a greater{big} set of positive qualities. Lack only one - the highest doze of radiated radiation. To carry away such artefact it is impossible even at presence of special containers and suits. It becomes possible{probable} only at presence on a belt{Zone} of the several artefacts reducing radiation</text>
 	</string>
 	<string id="af_part_monolit1">
 		<text>Modified Heart of the Poltergeist</text>
@@ -506,7 +506,7 @@
 		<text>Kolobok</text>
 	</string>
 	<string id="enc_zone_artifact_af_fuzz_kolobok">
-		<text>An artefact of a unknown origin. Scientists till now cannot solve the recipe of reception of this miracle of the Zone. At carrying on a belt{zone} stability{resistance} of an organism any physical damages considerably{much} increases. It is radioactive. The price very high. Special interest to an artefact is shown by physicians</text>
+		<text>An artefact of a unknown origin. Scientists till now cannot solve the recipe of reception of this miracle of the Zone. At carrying on a belt{Zone} stability{resistance} of an organism any physical damages considerably{much} increases. It is radioactive. The price very high. Special interest to an artefact is shown by physicians</text>
 	</string>
 	<string id="af_gold_fish">
 		<text>Goldfish</text>
@@ -718,7 +718,7 @@
 		<text>Activation Fundamentals</text>
 	</string>
 	<string id="enc_zone_anomalies_activation_basic">
-		<text>Under certain conditions, it is possible to enclose certain artefacts within a protective, amniotic layer, in order to manipulate them in specific ways that will enable their parent anomaly to reactivate them. When this happens, the reactivated artefact loses all of its original properties, and can metamorphose into a different state entirely. During this process the artefact releases the concentrated energy stored within, which then remetabolizes into a new anomalous zone within the activation site until the artefact is completely absorbed. While similar, these newly formed anomalous zones are very different in nature from their parent. Whereas the parent anomaly needs to regenerate the energy required to sustain its existence, the child anomaly born from a successful activation process will only last a few minutes. It then deactivates, dissipating its remaining energy back into the Zone and, if conditions were right, having given birth to a new artefact</text>
+		<text>Under certain conditions, it is possible to enclose certain artefacts within a protective, amniotic layer, in order to manipulate them in specific ways that will enable their parent anomaly to reactivate them. When this happens, the reactivated artefact loses all of its original properties, and can metamorphose into a different state entirely. During this process the artefact releases the concentrated energy stored within, which then remetabolizes into a new anomalous Zone within the activation site until the artefact is completely absorbed. While similar, these newly formed anomalous zones are very different in nature from their parent. Whereas the parent anomaly needs to regenerate the energy required to sustain its existence, the child anomaly born from a successful activation process will only last a few minutes. It then deactivates, dissipating its remaining energy back into the Zone and, if conditions were right, having given birth to a new artefact</text>
 	</string>
 	<string id="activation_why">
 		<text>Activation Purpose</text>

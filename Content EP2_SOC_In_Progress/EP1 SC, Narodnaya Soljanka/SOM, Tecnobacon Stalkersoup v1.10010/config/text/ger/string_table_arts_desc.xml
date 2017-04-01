@@ -95,7 +95,7 @@
 	</string>
 
   <string id="enc_zone_artifact_af_dummy_dummy_d">
-		<text>%c[255,255,255,255]Impact %c[255,1,255,1]+4 %\n%c[default]\nOrigin of artefact is not known. Two hard disks linked together by slime. The artefact slightly reduces defeat from all types of gravitational anomalies and explosions, absorbing shock waves. The price of sale is high. Interest in the artefact is shown by scientific organisations.%c[default]</text>
+		<text>%c[255,255,255,255]Impact %c[255,1,255,1]+4 %\n%c[default]\nThe origin of this artefact is as yet unknown. Two separate rigid disks joined together by a kind of clear magnetic mucus.The artefact absorbs shock waves, slightly reducing harm from gravitational anomalies and explosions. The sale price is high, due to interest from many disparate scientific organizations and universities.%c[default]</text>
 	</string>
 
   <string id="enc_zone_artifact_af_dummy_battery_d">

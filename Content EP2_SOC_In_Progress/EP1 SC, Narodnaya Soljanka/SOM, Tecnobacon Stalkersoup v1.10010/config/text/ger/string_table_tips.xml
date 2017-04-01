@@ -20,14 +20,12 @@
 		<string id="arc_ui_container_1">
 			<text>\n \nDieser Alte Behälter kann Artefakte Transportieren mit geringen Strahlungswerten.n \nFür den Transport von Artefakten mit hohen Strahlungswerten, wird ein "neuer und verbesserter"  Behälter benötigt.</text>
 		</string>
-<!-- escape_dialog.script - aleks1970 -->
 		<string id="Labeled_private_channel_0">
 			<text>Labelled: Privater Kanal</text>
 		</string>
 		<string id="shadows_and_pavel_1">
 			<text>Ich bin in die Wohnung angekommen. "Shadows" und "Pavel" waren da, aber kein "Cubus". Ich hörte die gnaze Nacht Nachrichten im Labor - unser Kollege "Karoche" ging nochmal zurück zum Labor und daraufhin kehrte er nie wieder zurück ... \nAch ja. Es ist etwas seltsam - aber jemand muss hier vor kurzem gewesen sein. Ich fand eine militärische Aufzeichnung.\n \nWas denken Sie?</text>
 		</string>
-<!-- Ovaj tekst za sada se ne prevodi: 'Cube for Sale, belonged to Shadows. The cordon around the Perimeter, in 8 hours. -->
 		<string id="shadows_and_pavel_2">
 			<text>Ich dachte "Nur weg hier, das wars!".\nWir müssen was unternehmen. Wir sind in Schwierigkeiten - wahrscheinich wurde unser letztes Gespräch belauscht. Vielleicht wußte noch einer was über den "Kubus". Vielleicht übertreibs du auch nur?\nDer östliche Teil von Pripyat wurde von einer Elite Einheit, der Söldner eingenommen und besetzt. Sie wissen anscheinend das du den "Kubus der Seele" hier in der Wohnung suchst.\nDas denke ich auch. Wir müssen sie iegenwie hinhalten. Auf eine falsche färte locken. Was meinst du? Vielleicht mit ein ein paar falsch Informationen im Stalker Intranet/Netzwerk...\nHier, schreibe das so in die PDA Textnachricht Konsole:"Verkaufe Kubus, in Kordon, bin in 8 Stunden da, Shadows"\nWenn alles klappt werden die sich später nach Kordon aufmachen weil sie denken das der "Kubus" nun dort ist. Viel Glück..</text>
 		</string>
@@ -337,7 +335,6 @@
 		<string id="revamped_repair_kit">
 			<text>Reparatur Kit</text>
 		</string>
-<!--string id="spare_parts_bag">		<text>Spare Parts Bag</text>	</string>	<string id="spare_parts_small">		<text>Spare Parts</text>	</string-->
 		<string id="repair_str_repair">
 			<text>Reparieren</text>
 		</string>
@@ -392,7 +389,6 @@
 		<string id="enc_equipment_repair_kit">
 			<text>\n \nReparatur Kit\nEin Werkzeug Kasten der die benötigte Ausrüstung enthält um Waffen und Anzüge zu Reparieren.\n \nHandbuch Schreibt:\nDas Reparatur Kit wird mit einem Doppelklick, der Taste "$$ACTION_wpn_fire$$" geöffnet. In der ersten Ansicht gibt es zwei Optionen. "Reparieren" und "Zerlegen".\n \nIn der "Reparatur" Ansicht werden die "aktiven" Waffen, die sich in dem "Pistolen Slot" und dem "Gewehr Slot" befinden sowie der Anzug, der gerade verwendet wird, angezeigt. Diese Waffen und Anzüge werden "NICHT" in der Zerlegen Ansicht aufgelistet.\n \nWaffen und Anzüge die Repariert werden können sind mit dem "Status: OK" gekennzeichnet. Waffen die Kaputt sind, werden dagegen mit dem "Status: Hinüber" angezeigt. Die drei Anzeigen unten,  "Pistole" / "Gewehr" / "Anzug", stehen für die Anzahl der Ersatzteile. Sollte man eine Waffe oder ein Anzug reparieren, kann man die menge an Ersatzteilen wählen. Dies hängt aber je nach grad des Verschleißes  der Waffe/Anzug ab. Ist die Waffe sehr beschädigt wird eine "Volle Reparatur" empfohlen. Mit "1 Ersatzteil" wird ein Bauteil verwendet. Mit "5 Ersatzteilen" werden fünf Bauteile verwendet. Logisch - Logisch\n \nIn der "Zerlegen" Ansicht kann man die Kategorie auswählen, welche Waffe oder welchen Anzug zerlegt werden soll. Wenn man sich in einer Kategorie befindet wählt man mit der Taste "$$ACTION_wpn_fire$$" aus um den Gegenstand zu zerlegen. Dieser wird in bauteile Zerlegt und je nach Kategorie, welche gewählt wurde ("Pistole", "Gewehr", "Anzug"), als Ersatzteil genommen. Die Ersatzteile werden dann aufgestockt und dazugezählt. Wenn es genug Ersatzteile sind, wird dies mit einem "MAX" angezeigt. Sollte das Reparatur Kit Beschädigt sein. Kann man es bei einem Techniker Reparieren lassen. Sollte sich ein Decoder oder sonst irgendwas im Pistolen-Slot befinden, was nicht nach einer Waffe aussieht, wird sich das Reparatur Kit nicht öffnen. Diesbezüglich wird eine Textnachricht auf den Bildschirm ausgegeben. Die Grüne Staus Grafik zeigt den Verschleiß der Waffe an. Wie im Inventar.\n \nEin Tip von Sidorovitch:\n"Wenn du also nicht, alles mitschleppen willst was du so an Anzügen und Waffen findest und nicht willst das andere Typen, sich diese Waffen oder Anzüge krallen, kannst du diese Gegenstände auch in Ersatzteile zerlegen."</text>
 		</string>
-<!--string id="enc_equipment_parts_bag">		<text>Spare Parts Bag. Weight: 0.14kg.\nA bag containing all of the spare parts that you've aquired from salvaging weapons and armor. Double click to open repair/salvage menu.</text>	</string>	<string id="enc_equipment_parts_small">		<text>Spare Parts. Weight: 0.14kg.\nSpare parts that you've aquired from salvaging weapons and armor.</text>	</string-->
 		<string id="repair_salv_error_1">
 			<text>- Fehler -</text>
 		</string>

@@ -742,7 +742,7 @@ moved new in 11000 to stable_dialogs_tb3d_2.xml -->
 		<text>ZEP [21]\n.\nAX Report 13:\nMarket was abandoned and no evidence found as to where they went from there. 'AX' is now heading for the Broken Road Laboratory east of Facility F1 where information on the blast was kept. The hasty retreat from that area after the blast may have caused information to be left behind.\n.\nCentral Command ORD-11055</text>
 	</string>
 	<string id="zep_doc_22_hint">
-		<text>Into the danger zone..</text>
+		<text>Into the danger Zone..</text>
 	</string>
 	<string id="zep_doc_22">
 		<text>ZEP [22]\n.\nAX Report 14:\nInformation has been recovered in the lab pertaining to the object and subsequant blast. It indicates that there was a huge wave of heat prior to the blast that seemed to warp time itself. Several scientists reported a gap in their work reports that did not make sense. 'AX' has also encountered more and stronger creatures in the area.\nFacility F1 has become tolerable and 'AX' is attempting to enter the area.\n.\nCentral Command ORD-11057</text>
@@ -944,7 +944,7 @@ moved new in 11000 to stable_dialogs_tb3d_2.xml -->
 	<string id="zep_note_rs3">
 		<text>Scabs</text>
 	</string>
-	<!-- Caesier's extra stashes throughout the zone -->
+	<!-- Caesier's extra stashes throughout the Zone -->
 	<string id="zep_note_trshr1">
 		<text>Needed to unload a little weight as I need to climb out of here.\nI always hide them near small candles as a reference.\n.\nCaesier</text>
 	</string>
@@ -952,7 +952,7 @@ moved new in 11000 to stable_dialogs_tb3d_2.xml -->
 		<text>My Monilith stash</text>
 	</string>
 	<string id="zep_note_grimwald">
-		<text>One night in the zone a strange cat came to me, after a small battle under a hunters moon and many dead animals, many rats, bloods, stalkers... perhaps I smell of rat?\nTurning off the night vision we begin looting corpses, many dropped weapons, animal parts, and ammunition of course, normal stalking. well....\nThis strange cat hovering above the ground, now making cat noises...all four of the legs motionless...only hovering...the face turned away...\nSounded like a million running feet from all directions I turn on my light to get a better look. Of course this cat's face never turns to me, constantly looking at some objects far away...always, what does this cat look for? Where are her eyes?... very unusual...\nWhat is another dead animal to the zone anyway...\nSo we ready our weapon to shoot this cat, notice looking down for a moment to see we are stuck on a random boar corpse and fire a round into it, why not! Corpse in my way!?\nAs I look up to find this cat with iron sights... this cat perhaps heard my weapon? It moves now hovering at the speed of light diagonal from it's previous position to directly towards me, directly at me...this cat ran through me, slapped me harder than any stalker...the zone was kind to spare me that night...\nI still do not know how this happened, the guns to pickup were missing... did the cat take them? The dead rats flew off in different directions... the zone is frightening... still have not recovered...\nGrimwald</text>
+		<text>One night in the Zone a strange cat came to me, after a small battle under a hunters moon and many dead animals, many rats, bloods, stalkers... perhaps I smell of rat?\nTurning off the night vision we begin looting corpses, many dropped weapons, animal parts, and ammunition of course, normal stalking. well....\nThis strange cat hovering above the ground, now making cat noises...all four of the legs motionless...only hovering...the face turned away...\nSounded like a million running feet from all directions I turn on my light to get a better look. Of course this cat's face never turns to me, constantly looking at some objects far away...always, what does this cat look for? Where are her eyes?... very unusual...\nWhat is another dead animal to the Zone anyway...\nSo we ready our weapon to shoot this cat, notice looking down for a moment to see we are stuck on a random boar corpse and fire a round into it, why not! Corpse in my way!?\nAs I look up to find this cat with iron sights... this cat perhaps heard my weapon? It moves now hovering at the speed of light diagonal from it's previous position to directly towards me, directly at me...this cat ran through me, slapped me harder than any stalker...the Zone was kind to spare me that night...\nI still do not know how this happened, the guns to pickup were missing... did the cat take them? The dead rats flew off in different directions... the Zone is frightening... still have not recovered...\nGrimwald</text>
 	</string>
 	<string id="zep_note_grim">
 		<text>Diary entry: ??</text>
@@ -998,7 +998,7 @@ moved new in 11000 to stable_dialogs_tb3d_2.xml -->
 		<text>Did you hear anything about what the emergency was or why they wanted such a shit hole?</text>
 	</string>
 	<string id="karina_dialog_zep1_9">
-		<text>I did hear something being yelled out about evac choppers comming from near a blast zone... well that's what it sounded like</text>
+		<text>I did hear something being yelled out about evac choppers comming from near a blast Zone... well that's what it sounded like</text>
 	</string>
 	<string id="karina_dialog_zep1_10">
 		<text>You don't know about F1 ?!... Those idiots found something powerful and while transporting it to F1 it went kaplui and wiped out the whole region.\nI wonder where those choppers were comming from</text>

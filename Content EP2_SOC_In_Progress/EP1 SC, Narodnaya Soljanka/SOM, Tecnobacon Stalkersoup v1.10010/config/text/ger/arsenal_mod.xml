@@ -155,6 +155,16 @@
 		<string id="enc_arsenal_sil_762_ar">
 			<text>\n \nBietet zuverlässige Präzisionsgenauigkeit mit minimaler Null Abweichung. Der Anwender kann in sekunden schnelle des Schalldämpfer entfernen oder Anbringen, während er der rauesten Umgebungen ausgesetzt ist. Die Präzision wird durch das vermindern des Rückstoßes verbessert. Nach einem Schuss expandieren die Gase der Treibladung im Inneren des Schalldämpfers, wodurch sie teilweise entspannt werden, ohne dabei Schallenergie direkt an die Umgebung abzugeben. Für diesen Mündungssignaturreduzierer wurde eine konische EDM-Technologie verwendet um ein präzisen, schraubenförmig gewundenen Kanal durch das material zu bohren, was zu einer verbesserung  Genauigkeit und einer maximalen Schallemission Leistung führt.</text>
 		</string>
+		<string id="ars_sil_762b_ar">
+			<text>Schalldämpfer 7.62x51mm NATO</text>
+		</string>
+		<string id="enc_arsenal_sil_762b_ar">
+			<text>%c[221,255,193,255]Schalldämpfer\n
+%c[255,255,255,210]Kaliber®  : %c[1,168,255,210]7.62x51mm NATO\n
+%c[255,255,255,210]Waffen®®  : \n%c[1,168,255,210]\n
+%c[default]\n \n
+Advanced Armament Corp. (AAC) "762-SDN-6" Gewehrschalldämpfer. Dank des Schnellverschlusses lässt sich der Schalldämpfer schnell und unkompliziert an-/abschrauben. Ein Däpfendender Mündungs Feuer-unterdrücker für 7.62x51mm Kaliber Waffen. Er ist 1.25 Zoll kürzer als der "762-SD" und verfügt über eine vollständig verschweißtes Inconel (korrosionsbeständigen Nickelbasislegierung) Gehäuse und eine Frontkappe, um die Haltbarkeit zu maximieren um den Verschließ von Kaliber 7.62mm Waffen zu minimieren.</text>
+		</string>
 		<string id="ars_sil_762_p">
 			<text>Schalldämpfer M7.62-P/ TT</text>
 		</string>
@@ -283,4 +293,4 @@
 			<text>\n \nAmerikanische M406-HE Granate (High-Explosive Fragmentation Round).Die Granate wird durch 32Gramm Composition-B-Sprengstoff zerlegt und zerbricht in 250 bis 1500 Fragmente (über 120 mg). Gegen ungeschützte Personen wirkt sie über eine Fläche von rund 25 m? tödlich.</text>
 		</string>
 	</string_table>
-<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 20.03.2017 21:32:30 -->
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 01.04.2017 03:17:02 -->

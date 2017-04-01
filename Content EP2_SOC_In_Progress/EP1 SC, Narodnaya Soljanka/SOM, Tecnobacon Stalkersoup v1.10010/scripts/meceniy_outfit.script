@@ -7,7 +7,7 @@ function my_ver() return "1.1.0.0.1.1" end
  Description  : \\"Nano and Exoskeleton Skat-15M outfits" .. With life support system (SZHP) and upgradeable options ..
  Copyright    : StalkerSoup
  Author       : Spot (Shooter).., Shadows, Rewritten for StalkerSoup by aleks1970 05/26/2015
- LastUpdate   : 25.09.2015 by aleks1970
+ LastUpdate   : 31.03.2017 by aleks1970
 --]]-----------------------------------------------------------------------------------------
 
 local f_1 = false
@@ -353,7 +353,9 @@ local enemy_txt_reset = 0
 local enemy_log_delay_1 = 0
 --local enemy_log_delay_2 = 0
 function meceniy_enemy(is_scope)
-	local enemy_status=false
+	if enemy_status == nil then	--local enemy_status=false
+		enemy_status = false
+	end
 	if is_scope then
 		SMS_global_enabled = false
 	else
@@ -412,56 +414,39 @@ function meceniy_enemy(is_scope)
 			if dist < 220 then				-- 109994
 				if dist < 20 then
 					obj_distance = 20
-				--	enemy_status = true
 				elseif dist < 30 then
 					obj_distance = 30
-				--	enemy_status = true
 				elseif dist < 40 then
 					obj_distance = 40
-				--	enemy_status = true
 				elseif dist < 50 then
 					obj_distance = 50
-				--	enemy_status = true
 				elseif dist < 60 then
 					obj_distance = 60
-				--	enemy_status = true
 				elseif dist < 70 then
 					obj_distance = 70
-				--	enemy_status = true
 				elseif dist < 80 then
 					obj_distance = 80
-				--	enemy_status = true
 				elseif dist < 90 then
 					obj_distance = 90
-				--	enemy_status = false	--enough distance to drink vodka - check 422 line - aleks1970
 				elseif dist < 100 then
 					obj_distance = 100
-				--	enemy_status = false
 				elseif dist < 110 then
 					obj_distance = 110
-				--	enemy_status = false
 				elseif dist < 120 then
 					obj_distance = 120
-				--	enemy_status = false
 				elseif dist < 140 then
 					obj_distance = 140
-				--	enemy_status = false
 				elseif dist < 160 then
 					obj_distance = 160
-				--	enemy_status = false
 				elseif dist < 180 then
 					obj_distance = 180
-				--	enemy_status = false
 				elseif dist < 200 then
 					obj_distance = 200
-				--	enemy_status = false
 				else
 					obj_distance = 220
-				--	enemy_status = false
 				end
 			else
 				obj_distance = 220
-			--	enemy_status = false
 			end
 			enemy_log_delay_1 = time_global() + 1200
 		elseif enemy_txt_reset < time_global() then	-- reset(hide) onscreen text
@@ -470,6 +455,7 @@ function meceniy_enemy(is_scope)
 		end
 	--	TB3D_Services.info_alert("news mgr: enemy2["..utils.to_str(enemy2).."] npc_relation["..utils.to_str(lvo_id).."] npc_relation_id["..utils.to_str(obj).."]")
 	end
+	return enemy_status	--function new_system_rad():drink vodka "disabled" - aleks1970
 	--if enemy_status==true then
 		--if enemy_log_delay_2 < time_global() then --and enemy_see then
 		--	do_heal_sms(true, "suit_4", skat_system..Text_color_yellow.."preverba za funkcijo: sovraznik je blizu - je bila uspesna...", 6000)
@@ -488,7 +474,6 @@ function meceniy_enemy(is_scope)
 		--	TB3D_Services.packet_alert("meceniy outifit: enemy["..utils.to_str(enemy).."] npc_relation["..utils.to_str(lvo_id).."] npc_relation_id["..utils.to_str(obj).."] npc_object_id["..utils.to_str(obj:id()).."] npc_see_actor["..utils.to_str(obj:see(act)).."]")
 	--	enemy_see = true
 		--end
-		return enemy_status	--false	--function new_system_rad():drink vodka "disabled" - aleks1970
 	--end
 end
 
@@ -725,7 +710,7 @@ end                      -- DMX UPGRADE OFF
 local system_interval = 0
 function system_outfit()
 	-- local act = db.actor
-	if (act.health >= 0.65) then	--and (act:get_bleeding() <= 0.3) then
+	if (act.health >= 0.75) then	--and (act:get_bleeding() <= 0.3) then
 		f_1 = false		f_1_end = false
 		return
 	end
@@ -748,7 +733,7 @@ function system_outfit()
 	local heal_7 = act:object("syh_pay_gde_3")
 	local heal_8 = act:object("syh_pay_spp5")
 	
-	if heal_1 and (act.health <= 0.55) then --medkit
+	if heal_1 and (act.health <= 0.70) then --medkit
 		act:eat(heal_1)
 		local skat_supl = Text_color_green.." - "..translate("skat15_sms_life_heal_suport_medkit")
 			if SMS_used_supp and f_1 then
@@ -758,7 +743,7 @@ function system_outfit()
 		f_1 = false
 		f_1_end = false
 		supp_check_en = true
-	elseif heal_2 and (act.health <= 0.55) then --medkit_army
+	elseif heal_2 and (act.health <= 0.67) then --medkit_army
 		act:eat(heal_2)
 		local skat_supl = Text_color_green.." - "..translate("skat15_sms_life_heal_medkit_army")
 			if SMS_used_supp and f_1 then
@@ -768,7 +753,7 @@ function system_outfit()
 		f_1 = false
 		f_1_end = false
 		supp_check_en = true
-	elseif heal_3 and (act.health <= 0.5) then --medkit_scientic
+	elseif heal_3 and (act.health <= 0.6) then --medkit_scientic
 		act:eat(heal_3)
 		local skat_supl = Text_color_green.." - "..translate("skat15_sms_life_heal_medkit_scientic")
 			if SMS_used_supp and f_1 then
@@ -778,7 +763,7 @@ function system_outfit()
 		f_1 = false
 		f_1_end = false
 		supp_check_en = true
-	elseif heal_4 and (act.health <= 0.5) then --medkit_elite
+	elseif heal_4 and (act.health <= 0.6) then --medkit_elite
 		act:eat(heal_4)
 		local skat_supl = Text_color_green.." - "..translate("skat15_sms_life_heal_medkit_elite")
 			if SMS_used_supp and f_1 then
@@ -788,7 +773,7 @@ function system_outfit()
 		f_1 = false
 		f_1_end = false
 		supp_check_en = true
-	elseif heal_5 and (act.health <= 0.5) then --suvorotka
+	elseif heal_5 and (act.health <= 0.6) then --suvorotka
 		act:eat(heal_5)
 		local skat_supl = Text_color_green.." - "..translate("skat15_sms_life_heal_suvorotka")
 			if SMS_used_supp and f_1 then
@@ -798,7 +783,7 @@ function system_outfit()
 		f_1 = false
 		f_1_end = false
 		supp_check_en = true
-	elseif heal_6 and (act.health <= 0.5) then --irp-b
+	elseif heal_6 and (act.health <= 0.6) then --irp-b
 		act:eat(heal_6)
 		local skat_supl = Text_color_green.." - "..translate("skat15_sms_life_heal_irp-b")
 			if SMS_used_supp and f_1 then
@@ -808,7 +793,7 @@ function system_outfit()
 		f_1 = false
 		f_1_end = false
 		supp_check_en = true
-	elseif heal_7 and (act.health <= 0.5) then --syh_pay_gde_3
+	elseif heal_7 and (act.health <= 0.6) then --syh_pay_gde_3
 		act:eat(heal_7)
 		local skat_supl = Text_color_green.." - "..translate("skat15_sms_life_heal_syh_pay_gde_3")
 			if SMS_used_supp and f_1 then
@@ -818,7 +803,7 @@ function system_outfit()
 		f_1 = false
 		f_1_end = false
 		supp_check_en = true
-	elseif heal_8 and (act.health <= 0.5) then --syh_pay_spp5
+	elseif heal_8 and (act.health <= 0.6) then --syh_pay_spp5
 		act:eat(heal_8)
 		local skat_supl = Text_color_green.." - "..translate("skat15_sms_life_syh_pay_spp5")
 			if SMS_used_supp and f_1 then
@@ -850,7 +835,7 @@ end
 local bleeding_interval = 0
 function new_system_bleeding()
 	-- local act = db.actor
-	if (act:get_bleeding() <= 0.3) then
+	if (act:get_bleeding() <= 0.2) then
 		f_5 = false		f_5_end = false
 		return
 	end
@@ -870,7 +855,7 @@ function new_system_bleeding()
 	local band_3 = act:object("antiseptic")
 	local band_4 = act:object("bandage_dmx")
 
-	if (act:get_bleeding() >= 0.45) and band_1 then --bandage
+	if (act:get_bleeding() >= 0.24) and band_1 then --bandage
 		act:eat(band_1)
 		local skat_supl = Text_color_green.." - "..translate("skat15_sms_life_heal_bandage")
 			if SMS_used_supp and f_5 then
@@ -880,7 +865,7 @@ function new_system_bleeding()
 		f_5 = false
 		f_5_end = false
 		supp_check_en = true
-	elseif (act:get_bleeding() > 0.3) and band_2 then --zhgut
+	elseif (act:get_bleeding() > 0.27) and band_2 then --zhgut
 		act:eat(band_2)
 		local skat_supl = Text_color_green.." - "..translate("skat15_sms_life_heal_zhgut")
 			if SMS_used_supp and f_5 then
@@ -890,7 +875,7 @@ function new_system_bleeding()
 		f_5 = false
 		f_5_end = false
 		supp_check_en = true
-	elseif (act:get_bleeding() > 0.3) and band_3 then --antiseptic
+	elseif (act:get_bleeding() > 0.27) and band_3 then --antiseptic
 		act:eat(band_3)
 		local skat_supl = Text_color_green.." - "..translate("skat15_sms_life_heal_antiseptic")
 			if SMS_used_supp and f_5 then
@@ -945,10 +930,10 @@ function new_system_rad()
 
 	f_2 = true
 
-	if meceniy_enemy(is_scope) then	--	if enemy_status==nil or enemy_status==true then	--if meceniy_enemy() then
-		drink_v = false
+	if (enemy_status ~= nil) and (enemy_status == true) then	-- meceniy_enemy(is_scope) -- if enemy_status==nil or enemy_status==true then	--if meceniy_enemy() then
+			drink_v =  false
 	else
-		if suppl_anti_rad_drink then
+		if suppl_anti_rad_drink and ((enemy_status ~= nil) and (enemy_status == false)) then
 			drink_v = true
 		else
 			drink_v = false
@@ -968,7 +953,7 @@ function new_system_rad()
 	local anti_4 = act:object("medkit_scientic")
 	local anti_5 = act:object("medkit_elite")
 
-	if (act.radiation >= 0.65) and drink_v and (drink_c < 2) then	-- (act.health <= 0.6)	-- and suppl_anti_rad_drink
+	if (act.radiation >= 0.70) and drink_v and (drink_c < 2) then	-- (act.health <= 0.6)	-- and suppl_anti_rad_drink
 			local item
 			check_multi_supplay = {"absolut_vodka", "smirnoff_vodka", "nemiroff_vodka", "beer_a", "pivo", "pivo_baltika", "vodka"}
 			for k, v in pairs(check_multi_supplay) do
@@ -1417,7 +1402,6 @@ function do_suit(a,stat,text,time) --aleks1970
 		end
 --	end
 end
-
 function do_heal_sms(a,stat,text,time) --aleks1970
 --	if amk.load_variable("option_dyn_suit",0) == 1 then			--109997
 --	if dyn_suit == 1 then

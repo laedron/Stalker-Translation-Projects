@@ -87,7 +87,7 @@
 		<text>Destroy the lair of Snorks in the Dark Valley</text>
 	</string>
 	<string id="barmen_eliminate_camp_7_text">
-		<text>Yeah...It seems that the ones who say that the zone is expanding are right. They spotted a few Snorks in the Dark Valley, but before they never saw them there. And here some started to panic. The Dutiers promised to destroy the Snorks, but they can't seem to get around to doing it. Will you take it on?</text>
+		<text>Yeah...It seems that the ones who say that the Zone is expanding are right. They spotted a few Snorks in the Dark Valley, but before they never saw them there. And here some started to panic. The Dutiers promised to destroy the Snorks, but they can't seem to get around to doing it. Will you take it on?</text>
 	</string>
 	<string id="barmen_find_artefact_1">
 		<text>Find a Meat Chunk artefact</text>
@@ -420,7 +420,7 @@
 		<text>The Dutyer is asking you to find his weapon, he lost it somewhere in the Dead City during another scouting expedition</text>
 	</string>
 	<string id="drunk_dolg_find_item_text">
-		<text>Shouldn't have freaked out like that. How the zone messes with your head. Thought I had good nerves, never afraid of anything, and here this. This howling in the ears. Everything was going as usual. There was a scouting expedition to the Dark Valley, we got down into the trench with Krivoi to cover the rest of the group, and then once I heard the howling, I was gripped by fear. Damn, I don't even remember how I got to the coordinate. When I returned to the base, Voronin almost shot me on the spot: he had just given me an enhanced cannon, for good service, so to speak. And here...I panicked and took off so fast that I left the cannon there. Could you bring it back for me, else where will I go now without a decent weapon</text>
+		<text>Shouldn't have freaked out like that. How the Zone messes with your head. Thought I had good nerves, never afraid of anything, and here this. This howling in the ears. Everything was going as usual. There was a scouting expedition to the Dark Valley, we got down into the trench with Krivoi to cover the rest of the group, and then once I heard the howling, I was gripped by fear. Damn, I don't even remember how I got to the coordinate. When I returned to the base, Voronin almost shot me on the spot: he had just given me an enhanced cannon, for good service, so to speak. And here...I panicked and took off so fast that I left the cannon there. Could you bring it back for me, else where will I go now without a decent weapon</text>
 	</string>
 	<string id="ecolog_eliminate_lager_1">
 		<text>Purge the lair of the Snorks</text>
@@ -792,7 +792,7 @@
 		<text>Bring the customer what's been promised</text>
 	</string>
 	<string id="shustriy_find_item">
-		<text>Find the perfected suit</text>
+		<text>Find the chain mail suit</text>
 	</string>
 	<string id="shustriy_find_item_descr">
 		<text>Nimble told us about the stash of the bandits where they hid the gear. He's asking to bring back the stolen suit, for a reward, of course</text>
@@ -903,7 +903,7 @@
 		<text>Purge the area from mutants</text>
 	</string>
 	<string id="tm_eliminate_camp_4_text">
-		<text>There is one thing, pretty easy. They want to bring some foreign tourist over. He paid some dough to my homies to get to look at the zone. And the area where they're gonna show him around needs to be cleared of mutants. Will you do it?</text>
+		<text>There is one thing, pretty easy. They want to bring some foreign tourist over. He paid some dough to my homies to get to look at the Zone. And the area where they're gonna show him around needs to be cleared of mutants. Will you do it?</text>
 	</string>
 	<string id="tm_eliminate_camp_5">
 		<text>Eliminate two bandits at the Garbage</text>

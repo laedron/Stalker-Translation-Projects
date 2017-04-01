@@ -47,7 +47,7 @@
 		<text>12x76 'Slug'</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-12x76-dart">
-		<text>Heavy lead slugs of the Brenneke type. They rely on the mass component of their total energy for penetration. Unfortunately that mass reduces the range to less than 200 metres even with the slug's own rifling</text>
+		<text>12x76 'Dart' rounds are saboted heavy steel darts of the Foster type. The shoe engages the barrel lining and is usable in smooth or rifled shotguns. Great penetrating power but the dart does not expand and inflicts little additional tissue disruption</text>
 	</string>
 	<string id="ammo-12x76-dart">
 		<text>12x76 'Dart'</text>
@@ -56,7 +56,7 @@
 		<text>12x76 'Dart'</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-12x76-zhekan">
-		<text>12x76 'Dart' rounds are saboted heavy steel darts of the Foster type. The shoe engages the barrel lining and is usable in smooth or rifled shotguns. Great penetrating power but the dart does not expand and inflicts little additional tissue disruption</text>
+		<text>Heavy lead slugs of the Brenneke type. They rely on the mass component of their total energy for penetration. Unfortunately that mass reduces the range to less than 200 metres even with the slug's own rifling</text>
 	</string>
 	<string id="ammo_zhekan_izomorf">
 		<text>12x76 'Isomorphic'</text>
@@ -218,7 +218,7 @@
 		<text>9x18mm PBM</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x18-pmm">
-		<text>These armor-piercing bullets were used only by Special Forces. They are capable of penetrating ANY armor which existed at the beginning of the 21st century. The cartridge 7N25 type 9x18 with an armor-piercing bullet that weighs only 3.55 grams was created. The bullet penetrates a kevlar armor vest with a steel plate of 2.4 mm thick or a steel plate of 5 mm thick at a range of 10 metres and a titanium plate of 1.25 mm thick or 30 layers of kevlar or SVM (that is an armor vest of II level of protection) at a range of 30 metres. It is used in the PM, PB, and Fort 12 pistols</text>
+		<text>These armor-piercing bullets were used only by Special Forces. They are capable of penetrating ANY armor which existed at the beginning of the 21st century. The cartridge 7N25 type 9x18 with an armor-piercing bullet that weighs only 3.55 grams was created. The bullet penetrates a Kevlar armor vest with a steel plate of 2.4 mm thick or a steel plate of 5 mm thick at a range of 10 metres and a titanium plate of 1.25 mm thick or 30 layers of Kevlar or SVM (that is an armor vest of II level of protection) at a range of 30 metres. It is used in the PM, PB, and Fort 12 pistols</text>
 	</string>
 	<string id="ammo-9x18-pbp">
 		<text>9x18mm +P+ Cartridges</text>
@@ -256,7 +256,7 @@
 		<text>9x39mm PAB-9</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x39-ap">
-		<text>The 9x39mm cartridge is a subsonic rifle round used in Russian firearms. The intent was to create a subsonic cartridge for suppressed firearms of special forces with more power, range and penetration. The bullet is heavy, approximately 16 grams, and is subsonic, avoiding the sound of a sonic boom. The low velocity limits the effective range in comparison with standard non-suppressed assault rifle, but when comparing with handgun rounds commonly fired by SMGs, 9x39mm round has an effective range of about 300 to 400 metres. It is used in the OTs-14 'Thunder-storm', the EXPERT 'Shaft', and also in the BCC Vintorez</text>
+		<text>The 9x39mm cartridge is a subsonic rifle round used in Russian firearms. The intent was to create a subsonic cartridge for suppressed firearms of special forces with more power, range and penetration. The bullet is heavy, approximately 16 grams, and is subsonic, avoiding the sound of a sonic boom. The low velocity limits the effective range in comparison with standard non-suppressed assault rifle, but when comparing with handgun rounds commonly fired by SMGs, 9x39mm round has an effective range of about 300 to 400 metres. It is used in the OTs-14 'Thunder-storm', the Special Expert 'Shaft', and also in the BCC Vintorez</text>
 	</string>
 	<string id="ammo-9x39-sp5">
 		<text>9x39mm SP-5 Cartridges</text>
@@ -274,7 +274,7 @@
 		<text>9x39mm SP-6</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x39-sp5">
-		<text>The 9x39mm cartridge is a subsonic rifle round used in Russian firearms. The Armor Piercing variant was developed by Yuri Folov. It has a dense metal core (not covered by jacket at the tip), designed to be armor piercing. It can penetrate 2 mm of steel at 500 metres or 6 mm of steel, 2.8 mm of titanium or 30 layers of Kevlar at 200 metres. At 100 metres it penetrates 8 mm of steel, containing enough power to neutralize the soft target behind. The SP-6 bullet is expensive It is used in the OTs-14 'Thunderstorm', the EXPERT 'Shaft', and also in the BCC Vintorez</text>
+		<text>The 9x39mm cartridge is a subsonic rifle round used in Russian firearms. The Armor Piercing variant was developed by Yuri Folov. It has a dense metal core (not covered by jacket at the tip), designed to be armor piercing. It can penetrate 2 mm of steel at 500 metres or 6 mm of steel, 2.8 mm of titanium or 30 layers of Kevlar at 200 metres. At 100 metres it penetrates 8 mm of steel, containing enough power to neutralize the soft target behind. The SP-6 bullet is expensive It is used in the OTs-14 'Thunderstorm', the Special Expert 'Shaft', and also in the BCC Vintorez</text>
 	</string>
 	<string id="ammo_9x39_izomorf">
 		<text>Cartridge 9x39mm 'Isomorphic' Cartridges</text>
@@ -697,10 +697,10 @@
 		<text>HK USP Compact</text>
 	</string>
 	<string id="wpn-val">
-		<text>the EXPERT 'Shaft'</text>
+		<text>Special Expert 'Shaft'</text>
 	</string>
 	<string id="wpn-val_m1">
-		<text>the EXPERT 'Shaft' PSO-1</text>
+		<text>Special Expert 'Shaft' PSO-1</text>
 	</string>
 	<string id="wpn-vintorez">
 		<text>ARIA 'Vintorez'</text>
@@ -845,7 +845,7 @@
 		<text>TOZ-34 'Hunter'</text>
 	</string>
 	<string id="enc_weapons1_wpn-toz34_hunter">
-		<text>• Ammunition: 12x70 'buckshot', 12x76 'artech'\nSuperbly modified and balanced TOZ-34, with a conveniently carved butt. A real treasure for the professional hunter. It is equipped with a permantly mounted Optical Sight</text>
+		<text>• Ammunition: 12x70 'buckshot', 12x76 'artech'\nSuperbly modified and balanced TOZ-34, with a customized carved butt and a permanently-mounted optical sight. A real treasure for the professional hunter...</text>
 	</string>
 	<string id="wpn-g36_m1">
 		<text>G36 'Gravi'</text>
@@ -882,7 +882,7 @@
 		<text>AWP 'Iglomet' Crossbow</text>
 	</string>
 	<string id="enc_weapons1_wpn-usp_big">
-		<text>• Ammunition: specialized 'Iglomet' arrows\nManufactured by Accuracy International (L96 A1)/Arctic Warfare (Great Britain) specifically for its silent shooting capabilities. A formidable stealth weapon!!! Skillfully modified to fire custom arrows, and with a special capsule built into the butt housing a small sample of a little known artefact... This enhancement gives the arrows a faster, more true trajectory. Arctic Warfare rifles are generally outfitted with a Schmidt + Bender PM II telescopic sight, which is rare for a rifle manufacturer. However, the German and Russian Armies preferred a telescopic sight made by Zeiss over Accuracy International's preference. This customized Sniper Rifle possesses very powerful penetrative ability and an extremely long range!!!</text>
+		<text>• Ammunition: specialized 'Iglomet' arrows\nManufactured by Accuracy International (L96 A1)/Arctic Warfare (Great Britain) specifically for its silent shooting capabilities. A formidable stealth weapon! Skillfully modified to fire custom arrows, and with a special capsule built into the butt housing a small sample of a little known artefact... This enhancement gives the arrows a faster, more true trajectory. Arctic Warfare rifles are generally outfitted with a Schmidt + Bender PM II telescopic sight, which is rare for a rifle manufacturer. However, the German and Russian Armies preferred a telescopic sight made by Zeiss over Accuracy International's preference. This customized Sniper Rifle possesses very powerful penetrative ability and an extremely long range!!!</text>
 	</string>
 	<string id="ammo-igl">
 		<text>'Iglomet' Arrows</text>
@@ -1252,7 +1252,7 @@
 		<text>• Ammunition: .45 ACP, .45 Hydro-Shock\n• Effective Range: 60 metres\n• Magazine Capacity: 8 rounds\nDesign work on a new family of pistols commenced in September 1989 focused primarily on the U.S. commercial and law enforcement markets. In 1991, USP prototypes participated in rigorous testing alongside HK's entry in the OHWS (Offensive Handgun Weapon System) program requested by the U.S. Special Operations Command (USSOCOM) and which would later result in the Mk 23 Mod 0. The USP prototypes were then refined in 1992, based on input from the OHWS trials and the design was finalized in December of the same year. The USP was formally introduced in January 1993 with the USP40 model (the base version) chambered for the increasingly popular .40 SW cartridge, followed soon by the USP9 (using the 9x19mm Parabellum cartridge), and in May 1995 - USP45 (caliber .45 ACP)</text>
 	</string>
 	<string id="enc_weapons1_wpn-val">
-		<text>• Ammunition: 9x39mm PAB9, SP-5, SP-6\n• Effective Range: 250 metres\n• Magazine Capacity: 20 rounds\nThe AS 'Val' special EXPERT 'Shaft' (6P30) was created on the basis of the VSS 'Vintorez' silenced sniper rifle. It has a collapsable butt, and a larger magazine. The AS 'Val' was designed by TSNIITOCHMASH in the late 1980's as a specialised weapon for Spetsnaz forces. Due to the nature of operations Spetsnaz usually carries out, they are in need of silenced, flashless weapons. Initially, this niche was filled by AK-47/AKM rifles, fitted with detachable silencers and supplied with subsonic ammunition, and Stechkin APSB pistols. However, those were not adequate enough for the intended goals, and Spetsnaz command had requested development of specialised weaponry. For this, a special cartridge was developed. Existing in two versions, SP-5 and SP-6, this cartridge was, in essence, 7.62X39 cartridge for AK, necked out to fit 9 mm heavy bullet. Powder charge was also replaced with specific load to provide subsonic speed with high muzzle energy. Around those cartridges, the AS 'Val' was built, along with its 'sister' rifle VSS 'Vintorez'. What`s curious, is that despite AS 'Val' being assault rifle, and VSS 'Vintorez' - sniper rifle, they have about 70% of interchangeable parts.Initially, it was intended to be issued to Special Forces units within the Military, but soon after the Zone was created... many such rifles started showing up in the hands of experienced Stalkers from all factions</text>
+		<text>• Ammunition: 9x39mm PAB9, SP-5, SP-6\n• Effective Range: 250 metres\n• Magazine Capacity: 20 rounds\nThe AS Val Special Expert 'Shaft' (6P30) was created on the basis of the VSS 'Vintorez' silenced sniper rifle. It has a collapsable butt, and a larger magazine. The AS 'Val' was designed by TSNIITOCHMASH in the late 1980's as a specialised weapon for Spetsnaz forces. Due to the nature of operations Spetsnaz usually carries out, they are in need of silenced, flashless weapons. Initially, this niche was filled by AK-47/AKM rifles, fitted with detachable silencers and supplied with subsonic ammunition, and Stechkin APSB pistols. However, those were not adequate enough for the intended goals, and Spetsnaz command had requested development of specialised weaponry. For this, a special cartridge was developed. Existing in two versions, SP-5 and SP-6, this cartridge was, in essence, 7.62X39 cartridge for AK, necked out to fit 9 mm heavy bullet. Powder charge was also replaced with specific load to provide subsonic speed with high muzzle energy. Around those cartridges, the AS 'Val' was built, along with its 'sister' rifle VSS 'Vintorez'. What`s curious, is that despite AS 'Val' being assault rifle, and VSS 'Vintorez' - sniper rifle, they have about 70% of interchangeable parts.Initially, it was intended to be issued to Special Forces units within the Military, but soon after the Zone was created... many such rifles started showing up in the hands of experienced Stalkers from all factions</text>
 	</string>
 	<string id="enc_weapons1_wpn-val_m1">
 		<text>• Ammunition: 9x39mm PAB9, SP-5, SP-6\n• Aiming Range: 400 metres\n• Magazine Capacity: 20 rounds\nThe Special Forces, generally known as 'Spetsnaz' [after the Russian term 'Voiska Spetsialnogo Naznacheniya' or 'Special Purpose Troops"], always played a key role in Soviet Military Doctrine. One of the aspects of every Special Forces is that they prefer to operate stealthily, with as little sound and flash as possible from their weapons. The first generation Spetsnaz weapons were no more than AK and AKM rifles, fitted with quick-detachable sound suppressors, and loaded with special subsonic ammunition with heavy bullets. Apparently, this was not enough, since in the mid-1980s the development of new, more effective silenced weapons was initiated. At first, designers from TSNIITOCHMASH in the city of Klimovsk developed a special-purpose 9 mm subsoniccartridges, known as 9x39 SP-5 and SP-6, based on necked-out 7.62 x 39 case. These cartridges were fitted with heavy (about 16-17 gram) standard 'ball' or armor piercing bullets, with muzzle velocities about 280-300 metres per second</text>
@@ -1273,7 +1273,7 @@
 		<text>• Ammunition: 12x70 buckshot, 12x76 slug/dart\n• Effective Range: 80 metres\n• Magazine Capacity: 7 rounds\nThe Winchester-produced Model 1300 series of shotguns first appeared in 1978. The Model 1300 series itself features roughly twelve different models including the Model 1300 Black Shadow Deer Combo and the Model 1300 Ranger Deer. The Model 1300 Defender, which is billed to effectively handle 'security situations' can fire both rifled and buckshot slugs from a pump-action 7-shot tubular magazine system. The slide-action system is also billed as the fastest operating system available to any shotgun of this type. The surface construction of the weapon system is coated with a non-glare finish and is made of steel and composite materials. The Defender is available in 12 and 20 gauge. Combat models include the Model 1300 Police, Slug Hunter, Marine and Stainless Security. A removable TRUGLO fiber-optic sight is available. Due to its high magazine capacity and shorter than normal barrel length, the Defender and its related types of shotguns are banned for use in some European countries. Variants of the Winchester Model 1300 Defender include: Model 1300 Defender - Base 8-shot model Model 1300 Defender - Featuring pistol grip and full stock combo. Model 1300 Practical Defender</text>
 	</string>
 	<string id="enc_weapons1_wpn-winchester_m1">
-		<text>• Ammunition: 12x76 slug/dart\n• Effective Range: 80 metres\n• Magazine Capacity: 6 rounds\nModified Winchester 1300 that uses energy from a small fragment taken from the 'Gravi' artefact. It is implemented in such a way that the slug/dart fired takes on a 'boomerang' effect, thus causing considerably more damage than conventional rounds. A very dangerous, and tempermental weapon</text>
+		<text>• Ammunition: 12x76 slug/dart/shot\n• Effective Range: 80 metres\n• Magazine Capacity: 7 rounds\nModified Winchester 1300 that uses energy from a small fragment of a Gravi artefact. This is implemented in such a way that the slug or dart fired takes on a 'boomerang' effect on impact, thus causing considerably more damage than conventional rounds. A very dangerous and temperamental weapon</text>
 	</string>
 	<!--	Duplicated string id from the 'string_table_enc_zone.xml' file - aleks1970
 	<string id="enc_weapons1_wpn-winchester_m1">
