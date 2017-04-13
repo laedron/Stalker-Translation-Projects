@@ -59,6 +59,36 @@ function save_dialog:FillList()
 	end
 end
 
+-- Marty2Base, use Time Stmap for Filenames
+function AddTimeDigit(str, dig)
+	if (dig > 9) then
+		str = str .. dig
+	else
+		str = str .. "0" .. dig
+	end	
+	return str	
+end
+
+-- Marty2Base, use a correct Time Stmap for Filenames
+function InitControls_PlaceFile_AddTimeStamp(sFilenNme)
+	
+		local y,m,d,h,min,sec,ms = 0,0,0,0,0,0,0
+		y,m,d,h,min,sec,ms = game.get_game_time():get(y,m,d,h,min,sec,ms)
+				
+		local date_time = ""
+		
+		date_time = date_time .. " - ("
+		date_time = AddTimeDigit(date_time, h)
+		date_time = date_time .. " Uhr "
+		date_time = AddTimeDigit(date_time, min)	
+		-- Sekunden Anzeige wird wohl nicht benötigt
+		--date_time = date_time .. " und"
+		--date_time = AddTimeDigit(date_time, sec)
+		--date_time = date_time .. " Sek"
+		date_time = date_time .. ")"
+		return sFilenNme .. date_time
+end
+
 function save_dialog:InitControls()
 	self:Init(0,0,winx,winy)
 	self:SetAutoDelete(true)		--109975
@@ -87,10 +117,17 @@ function save_dialog:InitControls()
 	self.message_box = CUIMessageBoxEx()
 	self:Register(self.message_box,"message_box")
 	self.mbox_mode	= 0	
-	-- Marty2Base, Level Name, Interner Level und Zeit wird gleich beim aktiveren des Save Manager gesetzt. 
+	
+	-- Marty2Base, Level Name, Interner Level und Zeit wird gleich beim aktiveren des Save Manager gesetzt.
+	-- use_intlv true = Show the internal level too
+	local use_intlv = false
 	local edit_box	= self:GetEditBox("edit_filename")
 	local translate = game.translate_string
-	edit_box:SetText(translate(level.name()).. " (" ..level.name().. ") - (" .. utils.to_str(TB3D_Services.get_game_time()).. ")")
+	local save_file = translate(level.name())
+	if ( use_intlv == true) then
+		save_file = translate(level.name()).. " (" ..level.name().. ")"
+	end
+	edit_box:SetText(InitControls_PlaceFile_AddTimeStamp(save_file))
 end
 
 function save_dialog:InitCallBacks()
