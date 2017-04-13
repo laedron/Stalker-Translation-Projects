@@ -533,14 +533,41 @@ Zusatz Texte, Hilfe für den Spieler
 
 
 
+==========================================================================================
+Button Frames für das Hud
+[frame]
+shader		= hud\default
+lt 		= 0,	0,	32,	32 ; 1 - 1
+l  		= 0,	32,	32,	32 ; 2 - 1
+lb 		= 0,	64,	32,	32 ; 3 - 1
+b  		= 32,	64,	32,	32 ; 3 - 2
+rb 		= 64,	64,	32,	32 ; 3 - 3
+r  		= 64,	32,	32,	32 ; 2 - 3
+rt 		= 64,	0,	32,	32 ; 1 - 3
+t  		= 32,	0,	32,	32 ; 1 - 2  
+back 	= 32,	32,	32,	32 ; 2 - 2
+
 ===Spätere Item Prüfung==================================================================
 Texte wo es noch nicht ganz klar ist was man benötigt und ob das stimmt
 
 Der Marker für die Errinnerungs Info
 \n \n \n \n \n \n(*) 
 
+===Scripte ==============================================================================
+   local translate = game.translate_string
+-- news_manager.amk_send_tip_id("sms_coll_greet","sms_sid",10,20,"trader")
+-- news_manager.send_tip_txt(db.actor, translate("ID TEXT"), nil, "inv_icon")
 
---news_manager.amk_send_tip_id("sms_coll_greet","sms_sid",10,20,"trader")
+	
+		for k in pairs(item) do 
+		
+		TB3D_Services.packet_alert(" FOR LOOP "..utils.to_str(k))
+		end	
+		
+===Schnell Komentare, für Copy & Paste===================================================
+// Xml
+	<!-- Marty2Base ************************** -->	
+	<!-- ************************************* -->
 
 dmx_mod_dialogs.xml		> sidorovich_outfit_blockpost_dialog0 Prüfen
 dmx_mod_dialogs.xml		> totalizator_0, Wette Prüfen
@@ -583,4 +610,5 @@ sak_strings_trade.xml	-> trade_dialog_skraga_532, 10%-Reparaturkits
 sak_strings_trade.xml	-> trade_dialog_sak_33, das ist ein wenig "Merkwürdig" esgeht um eine Vintorez und plötzlich  ist es eine Saiga Waffe
 sak_strings_trade.xml	-> trade_dialog_jlob_21.100 Rads? 
 sak_strings_trade.xml	-> trade_dialog_jlob_232, Das sind meine Lieblinge! !ok!
+
 string_table_general.xml-> item_sniper_flash_name Das Item muss überprüft werden

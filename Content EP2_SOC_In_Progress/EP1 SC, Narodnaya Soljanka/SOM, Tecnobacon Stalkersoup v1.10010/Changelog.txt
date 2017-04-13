@@ -22,8 +22,12 @@ gibt.
 - meceniy_st_dialogs	<- (2 - 3 items, die im Nachhinein noch Überprüft werden müssen)
 - sak_strings 
 - sak_strings_trade 
+- stable_dialogs_aes
+- stable_storyline_info_aes
 - string_table_general
 - string_table_mapspots_escape
+- string_table_mapspots_aes
+- string_table_tasks_aes
 - string_table_tasks_deadcity
 - string_table_tasks_escape
 - string_table_timer
@@ -44,9 +48,8 @@ Bei der Flut an Waffen und Zusätzen fehlt die Genauigkeit.
 
 		XML Dateien, Fast Fertig oder in Arbeit:
 		- sak_strings_treasure.xml (Aktuell)
+		- stable_dialogs_agroprom (~10)
 		- aem_strings
-		- ui_st_pda
-		- tb3d_dialogs_arhara_start
 		- stable_dialogs_escape
 		- string_table_enc_ald_weapons (1%)
 		- kontroller_diaries (~30%)
@@ -161,6 +164,13 @@ Bei der Flut an Waffen und Zusätzen fehlt die Genauigkeit.
 		ganzen letzten Zeit (Jahre!) geändert worden ist verstehe ich nicht. Zurzeit
 		hab ich in meiner Version die Texturen von Atmosfear3 verbaut. Da muss ich aber noch
 		die einzelnen Farbumgebungen einstellen sowie einige andere Sachen.
+		
+		// Speichern Dialog geändert
+		//=================================================================================//
+		Sobald sich der Speichern Dialog öffnet, wird automatisch das Level, der Interne
+		Level Name sowie die Stunde eingefügt. Bei dem eigentlichen "klick und Speichern"
+		werden keine nummern mehr voran geschrieben was dazu führte das man nach etlichen
+		Saves z.b "8_8_8_8_8_8_0_xyzxyzxyz.sav" einen undeutlichen Dateinamen hat
 //=============================================================================================//
 
 [URL="https://github.com/MartyShepard/Stalker-Translation-Projects"]Update bei Github[/URL]
