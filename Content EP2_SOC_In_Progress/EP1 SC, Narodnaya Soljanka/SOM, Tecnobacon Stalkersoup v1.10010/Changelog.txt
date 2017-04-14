@@ -12,28 +12,49 @@ gibt.
 - amk_flame_dialogs
 - amk_reload_dialogs
 - amk_strings
+
 - arc_string_table
+
 - arsenal_mod			<- (Waffen Todo: Details)**
+
 - davros_items			<- (Waffen Todo: Details)**
+
 - dmx_mod_dialogs
 - dmx_mod_encyclopedia
 - dmx_mod_items
 - dmx_mod_weapons		<- (Waffen Todo: Details)**
+
 - meceniy_st_dialogs	<- (2 - 3 items, die im Nachhinein noch Überprüft werden müssen)
+
 - sak_strings 
 - sak_strings_trade 
+
 - stable_dialogs_aes
+- stable_dialogs_agroprom
+- stable_dialogs_amk
+
 - stable_storyline_info_aes
+- stable_storyline_info_agroprom
+
 - string_table_general
-- string_table_mapspots_escape
+
 - string_table_mapspots_aes
+- string_table_mapspots_agroprom
+- string_table_mapspots_escape
+
 - string_table_tasks_aes
+- string_table_tasks_agroprom
 - string_table_tasks_deadcity
 - string_table_tasks_escape
+
 - string_table_timer
+
 - string_table_tips
+- string_table_tips_agroprom
 - string_table_tips_escape
+
 - string_table_tutorial
+
 - ui_st_inventory
 - ui_st_keybinding
 

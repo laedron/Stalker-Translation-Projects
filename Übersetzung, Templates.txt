@@ -612,3 +612,5 @@ sak_strings_trade.xml	-> trade_dialog_jlob_21.100 Rads?
 sak_strings_trade.xml	-> trade_dialog_jlob_232, Das sind meine Lieblinge! !ok!
 
 string_table_general.xml-> item_sniper_flash_name Das Item muss überprüft werden
+
+dialog_amk_11_recipt	-> stable_dialogs_amk.xml, Stimmt der Verkauf 30.000 Rubel
