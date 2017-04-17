@@ -77,15 +77,10 @@ function InitControls_PlaceFile_AddTimeStamp(sFilenNme)
 				
 		local date_time = ""
 		
-		date_time = date_time .. " - ("
+		date_time = date_time .. " "
 		date_time = AddTimeDigit(date_time, h)
-		date_time = date_time .. " Uhr "
+		date_time = date_time .. "Uhr"
 		date_time = AddTimeDigit(date_time, min)	
-		-- Sekunden Anzeige wird wohl nicht benötigt
-		--date_time = date_time .. " und"
-		--date_time = AddTimeDigit(date_time, sec)
-		--date_time = date_time .. " Sek"
-		date_time = date_time .. ")"
 		return sFilenNme .. date_time
 end
 
@@ -119,13 +114,16 @@ function save_dialog:InitControls()
 	self.mbox_mode	= 0	
 	
 	-- Marty2Base, Level Name, Interner Level und Zeit wird gleich beim aktiveren des Save Manager gesetzt.
-	-- use_intlv true = Show the internal level too
+	-- use_intlv true = Show the internal level too, For modders!
 	local use_intlv = false
 	local edit_box	= self:GetEditBox("edit_filename")
 	local translate = game.translate_string
 	local save_file = translate(level.name())
 	if ( use_intlv == true) then
-		save_file = translate(level.name()).. " (" ..level.name().. ")"
+		save_file = translate(level.name()).. " - " ..level.name().. " - "
+	end
+	if (TB3D_Services.is_collector() == true) then
+		save_file = save_file.. " - Collector" 
 	end
 	edit_box:SetText(InitControls_PlaceFile_AddTimeStamp(save_file))
 end

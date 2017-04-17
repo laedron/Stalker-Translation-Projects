@@ -32,26 +32,31 @@ gibt.
 - stable_dialogs_aes
 - stable_dialogs_agroprom
 - stable_dialogs_amk
+- stable_dialogs_garbage
 
 - stable_storyline_info_aes
 - stable_storyline_info_agroprom
+- stable_storyline_info_garbage
 
 - string_table_general
 
 - string_table_mapspots_aes
 - string_table_mapspots_agroprom
 - string_table_mapspots_escape
+- string_table_mapspots_garbage
 
 - string_table_tasks_aes
 - string_table_tasks_agroprom
 - string_table_tasks_deadcity
 - string_table_tasks_escape
+- string_table_tasks_garbage
 
 - string_table_timer
 
 - string_table_tips
 - string_table_tips_agroprom
 - string_table_tips_escape
+- string_table_tips_garbage
 
 - string_table_tutorial
 
@@ -70,6 +75,7 @@ Bei der Flut an Waffen und Zusätzen fehlt die Genauigkeit.
 		XML Dateien, Fast Fertig oder in Arbeit:
 		- sak_strings_treasure.xml (Aktuell)
 		- stable_dialogs_agroprom (~10)
+		- stable_treasure_manager (~30%)
 		- aem_strings
 		- stable_dialogs_escape
 		- string_table_enc_ald_weapons (1%)

@@ -1,41 +1,47 @@
 <!-- TB3D 1.1.0.0.0.4 -->
-<string id="aes_btr1">
-	<text>Armadillo 1</text>
-</string>
-<string id="aes_btr2">
-	<text>Armadillo 2</text>
-</string>
-<string id="aes_btr3">
-	<text>Armadillo 3</text>
-</string>
-<string id="aes_grif">
-	<text>Grif</text>
-</string>
-<string id="aes_korshun">
-	<text>Korschun</text>
-</string>
-<string id="aes_kvartet">
-	<text>Kwartet</text>
-</string>
-<string id="aes_lun">
-	<text>Lun</text>
-</string>
-<string id="aes_pustelga">
-	<text>Pustelga</text>
-</string>
-<string id="aes_sapsan">
-	<text>Sapsan</text>
-</string>
-<string id="aes_sarcofag_hint">
-	<text>Eingang in den Sarkophag</text>
-</string>
-<string id="aes_sokol">
-	<text>Sokol</text>
-</string>
-<string id="aes_sova">
-	<text>Sowa</text>
-</string>
-<string id="aes_yastreb">
-	<text>Jastreb</text>
-</string>
+	<string id="aes_btr1">
+		<text>Armadillo 1</text>
+	</string>
+	<string id="aes_btr2">
+		<text>Armadillo 2</text>
+	</string>
+	<string id="aes_btr3">
+		<text>Armadillo 3</text>
+	</string>
+	<string id="aes_grif">
+		<text>Grif (Greif)</text>
+	</string>
+	<string id="aes_korshun">
+		<text>Korschun (Drache)</text>
+	</string>
+	<string id="aes_kvartet">
+		<text>Kvartet</text>
+	</string>
+	<string id="aes_lun">
+		<text>Lun (Weihe)</text>
+	</string>
+	<string id="aes_pustelga">
+		<text>Pustelga (Turmfalke)</text>
+	</string>
+	<string id="aes_sapsan">
+		<text>Sapsan (Wanderfalke)</text>
+	</string>
+	<string id="aes_sarcofag_hint">
+		<text>Eingang zum Sarkophag</text>
+	</string>
+	<string id="aes_sokol">
+		<text>Sokol (Falke)</text>
+	</string>
+	<string id="aes_sova">
+		<text>Sowa (Eule)</text>
+	</string>
+	<string id="aes_yastreb">
+		<text>Jastreb Habicht</text>
+	</string>
 <!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 14.04.2017 00:58:26 -->
+
+
+
+
+
+

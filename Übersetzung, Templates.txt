@@ -189,6 +189,7 @@ Status Werte:
 ®Ausdauer®®®®®®®:
 
 
+
 Einkaufslisten
 ==========================================================================================
 \n \n \n \n
@@ -612,5 +613,25 @@ sak_strings_trade.xml	-> trade_dialog_jlob_21.100 Rads?
 sak_strings_trade.xml	-> trade_dialog_jlob_232, Das sind meine Lieblinge! !ok!
 
 string_table_general.xml-> item_sniper_flash_name Das Item muss überprüft werden
+stable_dialogs_bar.xml	-> bar_arena_man_monster_1 (Ist der Sinn richttig)
 
 dialog_amk_11_recipt	-> stable_dialogs_amk.xml, Stimmt der Verkauf 30.000 Rubel
+==========================================================================================================
+\n \n%c[221,255,193,255]Militärischer Aktionsplan%c[default]\n \n
+Personal:\n
+Kommando: Rufzeichen %c[001,168,255,210]"Kwartett"%c[default]\n \n
+%c[255,224,224,160]Luftangriffseinheiten: %c[255,114,114,160]Sapsan (Wanderfalke),\n
+®®®®®®®®®®®®®®®®®®®®®® Korschun (Drache),\n
+®®®®®®®®®®®®®®®®®®®®®® Jastreb Habicht,\n
+®®®®®®®®®®®®®®®®®®®®®® Pustelga Turmfalke,\n
+®®®®®®®®®®®®®®®®®®®®®® Sokol (Falke),\n
+®®®®®®®®®®®®®®®®®®®®®® Grif (Greif),\n
+®®®®®®®®®®®®®®®®®®®®®® Lun (Weihe)%c[default]\n \n
+%c[255,224,224,160]Scharfschützen-Team® : %c[255,114,114,160]Sowa (Eule)%c[default]\n
+%c[255,224,224,160]Unterstützung: Luft® : %c[255,114,114,160]018, 030, 031, 048, 049, 52\n
+®®®®®®®®®®®®®®®®®®®®®® 051, 064,0 65, 098, 097%c[default]\n \n
+%c[001,168,255,210]Boden:%c[default] Armadillo 1, Armadillo 2, Armadillo 3\n \n
+%c[221,255,193,255]Situation:%c[default]\n
+Möglicherweise heftiger Widerstand in der Nähe der Brücke (23,45), des Tores (26,78) und der Straße am Hauptgebäude der Station (12,23-53,76). Der Feind setzt wahrscheinlich schweres Geschütz ein.\n \n
+Erwartete Feindstärke: 70 - 100 Mann. Gepanzerte Fahrzeuge: keine. Möglicherweise schwere Deckung durch feindliche Scharfschützen.\n \n
+%c[001,168,255,210]Wetterbedingungen:%c[default]Sichtweite - 700 Meter, möglicherweise bislang unbekannte Anomalien.
