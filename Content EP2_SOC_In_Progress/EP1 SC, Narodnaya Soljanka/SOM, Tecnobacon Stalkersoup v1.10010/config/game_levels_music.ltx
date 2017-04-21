@@ -34,7 +34,8 @@
 ;
 ;	if(!b_cross_midnight)
 ;	{	
-;		The Engine tried to play from 20 to 2, so in Gme you can here no Music 								
+;		-- The Engine tried to play from 20 to 2, so in Gme you can here no Music 								
+;		-- use 24 as 0 hour ;)
 ;		res					= ( (int(game_time) >= m_ActiveTime.x) && (int(game_time) < m_ActiveTime.y) );
 ;	}else
 ;	{
@@ -46,10 +47,7 @@
 
 [l01_escape_musics]
 ; -- ============================================================== Night Music
-Music_Marty\Level_Music_N\track01_night	= 22, 00,  0.4 ,03, 04 ; -- 09. Shadows (Night) / Mixed 1 GDC 2016/2017 (Game Audio Bundle)
-Music_Marty\Level_Music_N\track02_night	= 22, 00,  0.4 ,03, 14 ; -- Mixed 1 GDC 2016/2017 (Game Audio Bundle)
-Music_Marty\Level_Music_N\track03_night	= 22, 00,  0.4 ,06, 08 ; -- 45. Cold Winter (Not Used)
-Music_Marty\Level_Music_N\track06_night	= 00, 05,  0.3 ,06, 08 ; -- Mixed 1 GDC 2016/2017 (Game Audio Bundle)
+Music_Marty\Level_Music_N\track06_night	= 00, 05,  0.3 ,02, 08 ; -- Mixed 1 GDC 2016/2017 (Game Audio Bundle)
 Music_Marty\Level_Music_N\track07_night	= 00, 05,  0.5 ,10, 20 ; -- Doom32 - 17,  Lurkers
 Music_Marty\Level_Music_N\track08_night	= 00, 05,  0.5 ,10, 20 ; -- Doom32 - 17,  Lurkers (PSX)
 Music_Marty\Level_Music_N\track09_night	= 00, 05,  0.3 ,10, 20 ; -- Doom32 - 48,  BONUS - Jaxxoon R's Dark Ambient 06
@@ -61,33 +59,37 @@ Music_Marty\Level_Music_D\track04_day	= 05, 19,  0.6 ,03, 14 ; -- 46. Mission In
 Music_Marty\Level_Music_D\track05_day	= 05, 19,  0.6 ,03, 14 ; -- 72. Credits (SOC)
 Music_Marty\Level_Music_D\track06_day	= 05, 19,  0.6 ,03, 14 ; -- 79. E3 Demo Track (Build3120) (Short Version)
 ; -- ============================================================== Pre Evening
-Music_Marty\Level_Music_N\track01_night	= 19, 22,  0.5 ,03, 14 ; -- Mixed 1 GDC 2016/2017 (Game Audio Bundle) 
 Music_Marty\Level_Music_N\track04_night	= 19, 22,  0.4 ,03, 14 ; -- 47. On the Edge  (Bonus Track)
 Music_Marty\Level_Music_N\track05_night	= 19, 22,  0.4 ,03, 14 ; -- 72. Credits (SOC)
+; -- ============================================================== Evening
+Music_Marty\Level_Music_N\track01_night	= 22, 24,  0.4 ,03, 14 ; -- 09. Shadows (Night) / Mixed 1 GDC 2016/2017 (Game Audio Bundle)
+Music_Marty\Level_Music_N\track02_night	= 22, 24,  0.4 ,03, 14 ; -- Mixed 1 GDC 2016/2017 (Game Audio Bundle)
+Music_Marty\Level_Music_N\track03_night	= 22, 24,  0.4 ,02, 08 ; -- 45. Cold Winter (Not Used)
 
 
 [l02_garbage_musics]
 ; -- ============================================================== Night Music
-Music_Marty\Level_Music_N\track10_night	= 22, 00,  0.4 ,03, 04 ; -- 11. Junk  (Night)
-Music_Marty\Level_Music_N\track11_night	= 22, 00,  0.4 ,03, 04 ; -- 11. Junk  (Night) (Alpha Build, Unreleased)
-Music_Marty\Level_Music_N\track12_night	= 22, 00,  0.4 ,03, 04 ; -- 09. Shadows (Night)
 Music_Marty\Level_Music_N\track13_night	= 00, 05,  0.3 ,06, 08 ; -- 40. Mutation (L12 Stancia 2)
-Music_Marty\Level_Music_N\track14_night	= 00, 05,  0.5 ,10, 20 ; -- Kevin MacLeod - Long Note Two (Extended) (Part1)
-Music_Marty\Level_Music_N\track15_night	= 00, 05,  0.5 ,10, 20 ; -- Kevin MacLeod - Long Note Two (Extended) (Part2)
-Music_Marty\Level_Music_N\track15_night	= 00, 05,  0.5 ,10, 20 ; -- Kevin MacLeod - Long Note Two (Extended) (Part3)
-Music_Marty\Level_Music_N\track07_night	= 00, 05,  0.5 ,10, 20 ; -- Doom 32 - 26,  BONUS - Total Lamentation!
+Music_Marty\Level_Music_N\track14_night	= 00, 05,  0.7 ,10, 20 ; -- Kevin MacLeod - Long Note Two (Extended) (Part1)
+Music_Marty\Level_Music_N\track15_night	= 00, 05,  0.4 ,10, 20 ; -- Kevin MacLeod - Long Note Two (Extended) (Part2)
+Music_Marty\Level_Music_N\track16_night	= 00, 05,  0.8 ,10, 20 ; -- Kevin MacLeod - Long Note Two (Extended) (Part3)
+Music_Marty\Level_Music_N\track17_night	= 00, 05,  0.5 ,10, 20 ; -- Doom 32 - 26,  BONUS - Total Lamentation!
 ; -- ============================================================== Day Music
 Music_Marty\Level_Music_D\track08_day	= 05, 19,  0.6 ,03, 14 ; -- 10. Theme of Garbage (L02 Garbage)
 Music_Marty\Level_Music_D\track09_day	= 05, 19,  0.6 ,03, 14 ; -- 10. Theme of Garbage (L02 Garbage) (Build 3120)
 Music_Marty\Level_Music_D\track01_day	= 05, 19,  0.6 ,03, 14 ; -- 32. Theme of 'Red Forest'
-Music_Marty\Level_Music_D\track07_day	= 05, 19,  0.6 ,03, 14 ; -- 32. Theme of 'Red Forest' (Official Autumn Aurora 2)
-Music_Marty\Level_Music_D\track10_day	= 05, 19,  0.6 ,03, 14 ; -- 43. Pain of Angels Part 2 (Not Used)
-Music_Marty\Level_Music_D\track11_day	= 05, 19,  0.6 ,03, 14 ; -- 55. Theme of Heathland (Not Used)
+Music_Marty\Level_Music_D\track07_day	= 05, 19,  0.5 ,03, 14 ; -- 32. Theme of 'Red Forest' (Official Autumn Aurora 2)
+Music_Marty\Level_Music_D\track10_day	= 05, 19,  0.4 ,03, 14 ; -- 43. Pain of Angels Part 2 (Not Used)
+Music_Marty\Level_Music_D\track11_day	= 05, 19,  0.4 ,03, 14 ; -- 55. Theme of Heathland (Not Used)
 ; -- ============================================================== Pre Evening
 Music_Marty\Level_Music_D\track12_day	= 19, 22,  0.4 ,03, 14 ; -- 68. Abadoned Playground (Alex-X-x) (FAN OST)
 Music_Marty\Level_Music_N\track05_night	= 19, 22,  0.4 ,03, 14 ; -- 72. Credits (SOC)
-Music_Marty\Level_Music_N\track05_night	= 19, 22,  0.4 ,03, 14 ; -- Doom 32 - 21,  Hopeless Despair
-Music_Marty\Level_Music_N\track05_night	= 19, 22,  0.4 ,03, 14 ; -- Doom 32 - 21,  Hopeless Despair (PSX)
+Music_Marty\Level_Music_D\track13_day	= 19, 22,  0.3 ,03, 14 ; -- Doom 32 - 21,  Hopeless Despair
+Music_Marty\Level_Music_D\track14_day	= 19, 22,  0.3 ,03, 14 ; -- Doom 32 - 21,  Hopeless Despair (PSX)
+; -- ============================================================== Evening
+Music_Marty\Level_Music_N\track10_night	= 22, 24,  0.3 ,03, 14 ; -- 11. Junk  (Night)
+Music_Marty\Level_Music_N\track11_night	= 22, 24,  0.4 ,03, 14 ; -- 11. Junk  (Night) (Alpha Build, Unreleased)
+Music_Marty\Level_Music_N\track12_night	= 22, 24,  0.4 ,03, 14 ; -- 09. Shadows (Night)
 
 [l03_agroprom_musics]
 music\amb08					=  6, 22,   0.2,   20, 40

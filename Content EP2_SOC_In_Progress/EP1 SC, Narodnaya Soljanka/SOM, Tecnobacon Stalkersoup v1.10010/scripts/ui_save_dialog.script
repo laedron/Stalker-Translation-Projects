@@ -72,16 +72,25 @@ end
 -- Marty2Base, use a correct Time Stmap for Filenames
 function InitControls_PlaceFile_AddTimeStamp(sFilenNme)
 	
+	
 		local y,m,d,h,min,sec,ms = 0,0,0,0,0,0,0
 		y,m,d,h,min,sec,ms = game.get_game_time():get(y,m,d,h,min,sec,ms)
-				
+	
 		local date_time = ""
 		
+		date_time = date_time .. " "		
+		date_time = AddTimeDigit(date_time, y)			
+		date_time = date_time .. "-"
+		date_time = AddTimeDigit(date_time, m)			
+		date_time = date_time .. "-"			
+		date_time = AddTimeDigit(date_time, d)				
 		date_time = date_time .. " "
 		date_time = AddTimeDigit(date_time, h)
 		date_time = date_time .. "Uhr"
 		date_time = AddTimeDigit(date_time, min)	
 		return sFilenNme .. date_time
+		
+		
 end
 
 function save_dialog:InitControls()
@@ -126,6 +135,7 @@ function save_dialog:InitControls()
 		save_file = save_file.. " - Collector" 
 	end
 	edit_box:SetText(InitControls_PlaceFile_AddTimeStamp(save_file))
+
 end
 
 function save_dialog:InitCallBacks()
