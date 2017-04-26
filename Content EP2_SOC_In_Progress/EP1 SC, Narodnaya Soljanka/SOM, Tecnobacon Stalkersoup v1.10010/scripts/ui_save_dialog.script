@@ -72,7 +72,6 @@ end
 -- Marty2Base, use a correct Time Stmap for Filenames
 function InitControls_PlaceFile_AddTimeStamp(sFilenNme)
 	
-	
 		local y,m,d,h,min,sec,ms = 0,0,0,0,0,0,0
 		y,m,d,h,min,sec,ms = game.get_game_time():get(y,m,d,h,min,sec,ms)
 	
@@ -88,12 +87,37 @@ function InitControls_PlaceFile_AddTimeStamp(sFilenNme)
 		date_time = AddTimeDigit(date_time, h)
 		date_time = date_time .. "Uhr"
 		date_time = AddTimeDigit(date_time, min)	
-		return sFilenNme .. date_time
-		
-		
+		return sFilenNme .. date_time		
 end
 
+function InitControls_PlaceFile_to_Box()
+	-- Marty2Base, Level Name, Interner Level und Zeit wird gleich beim aktiveren des Save Manager gesetzt.
+	-- use_intlv true = Show the internal level too, For modders!
+	local use_intlv = true
+	local translate = game.translate_string
+	local save_file = translate(level.name())
+	
+	if ( use_intlv == true) then
+		
+		save_file = save_file.. " - " ..level.name()
+		
+		if (TB3D_Services.is_collector() == false) then
+			save_file = save_file.. " - "
+		end	
+	end
+	
+	if (TB3D_Services.is_collector() == true) then
+		save_file = save_file.. " - Collector" 
+	end
+	
+	if ( string.find(save_file, "\"") ) then
+	    save_file = string.gsub(save_file, "\"", "")
+	end	
+	save_file = InitControls_PlaceFile_AddTimeStamp(save_file)
+	return save_file
+end
 function save_dialog:InitControls()
+
 	self:Init(0,0,winx,winy)
 	self:SetAutoDelete(true)		--109975
 	self.list_file_font = GetFontMedium()
@@ -121,20 +145,9 @@ function save_dialog:InitControls()
 	self.message_box = CUIMessageBoxEx()
 	self:Register(self.message_box,"message_box")
 	self.mbox_mode	= 0	
-	
-	-- Marty2Base, Level Name, Interner Level und Zeit wird gleich beim aktiveren des Save Manager gesetzt.
-	-- use_intlv true = Show the internal level too, For modders!
-	local use_intlv = false
-	local edit_box	= self:GetEditBox("edit_filename")
-	local translate = game.translate_string
-	local save_file = translate(level.name())
-	if ( use_intlv == true) then
-		save_file = translate(level.name()).. " - " ..level.name().. " - "
-	end
-	if (TB3D_Services.is_collector() == true) then
-		save_file = save_file.. " - Collector" 
-	end
-	edit_box:SetText(InitControls_PlaceFile_AddTimeStamp(save_file))
+	-- Marty2Base Changed to add Level name insertt to Box 
+	local edit_box	= self:GetEditBox("edit_filename")	
+	edit_box:SetText(InitControls_PlaceFile_to_Box())
 
 end
 

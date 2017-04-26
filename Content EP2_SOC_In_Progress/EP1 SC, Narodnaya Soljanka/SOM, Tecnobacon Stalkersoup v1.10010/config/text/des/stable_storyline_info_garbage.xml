@@ -18,7 +18,7 @@
 	<text>Soldaten bei der Brücke</text>
 </string>
 <string id="sl_pass_on_text">
-	<text>\n \n \n \n \n \nIch habe jetzt eine Vereinbarung mit den Soldaten. Sicherer Durchgang im Austausch für eine Flasche Wodka. Dann auch nur während der eine Kommandant Wache schiebt. Na toll. Ein Flasche rein .. eine Fasche wenn ich raus will\n \nIch suche nach einen Weg Sie zu umgehen, zumal Wodka hier verdammt knapp ist. Ich muss auf die Schienen aufpassen.</text>
+	<text>\n \n \n \n \n \nIch habe jetzt eine Vereinbarung mit den Soldaten. Sicherer Durchgang im Austausch für eine Flasche Wodka. Dann auch nur während der eine Kommandant Wache schiebt. Na toll. Ein Flasche rein .. eine Fasche wenn ich raus will\n \nIch muss mir was einfallen lassen wenn ich an Sie vorbei will und der Wodka knapp ist. Bei dem Tunnel und den Schienen muss ich höllisch aufpassen.</text>
 </string>
 <string id="sl_first_deep_raid">
 	<text>Der erste tiefe Raubzug</text>
@@ -54,7 +54,7 @@
 	<text>Das Treffen mit "Seriy"</text>
 </string>
 <string id="sl_seryi_meet_text">
-	<text>\n \n \n \n \n \n Meine Hoffnungen etwas über "Strelok" zu erfahren muss ich wohl noch eine Weile verschieben: "Seriy" beauftragte mich, einen Stalker namens "Maulwurf" (Mole) zu treffen, der scheinbar den Weg zu "Strelok"s Versteck kennt... ist zwar nicht viel, aber wenn's stimmt, habe ich zumindest eine Spur. Wer weiß, vielleicht kann ich dort etwas herausfinden.</text>
+	<text>\n \n \n \n \n \nMeine Hoffnungen etwas über "Strelok" zu erfahren muss ich wohl noch eine Weile verschieben: "Seriy" beauftragte mich, einen Stalker namens "Maulwurf" (Mole) zu treffen, der scheinbar den Weg zu "Strelok"s Versteck kennt... ist zwar nicht viel, aber wenn's stimmt, habe ich zumindest eine Spur. Wer weiß, vielleicht kann ich dort etwas herausfinden.</text>
 </string>
 <string id="sl_usefull_info">
 	<text>Die nützlichen Informationen des Händlers</text>
@@ -71,4 +71,4 @@
 <string id="storyline_seriy_flash_info">
 	<text>\n \n \n \n \n \n%c[221,255,193,255]"Schläger" schreibt an "Seriy":\n%c[default]"Maulwurf" und seine Kollegen haben die Lage von "Strelok"s Versteck im Institut herausgefunden. Finde heraus, was da vor sich geht.\n \n%c[221,255,193,255]"Seriy" an "Schläger":\n%c[default]Sie gehen später sowieso in die Bar, also warte ich einfach auf sie bei der Müllhalde. </text>
 </string>
-<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 17.04.2017 08:24:45 -->
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 23.04.2017 19:22:57 -->

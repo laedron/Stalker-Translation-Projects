@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ************ TB3D 1.0.9.9.7.0 *************** -->
+
+<!-- **************************************************** -->
+<!-- *  Temp Fix -for the Damaged Bolt/Grenade Progress * -->
+<!-- *                                                  * -->
+<!-- *  No Idea what is changed. I soent a few hours    * -->
+<!-- *  for search the problem with long Y stretched    * -->
+<!-- *  (See max 30px) Progress Texture                 * -->
+<!-- *  ui_hud_grenadetarget_e. This is a NoGo!!!!!!    * -->
+<!-- *  I decided to add the original GFX seperat       * -->
+<!-- **************************************************** -->
+<w>
+<progress x="467" y="338" width="91" height="91" sector_count="30" clockwise="0">
+		<front x="0" y="0" width="91" height="92">
+			<texture x="0" y="0" width="91" height="92" >ui\ModernMenu\form_hud_grenade_charge_org</texture>			
+		</front>
+		<back x="0" y="0" width="91" height="92">
+			<texture x="0" y="0" width="91" height="92" >ui\ModernMenu\form_hud_grenade_static_org</texture>			
+		</back>
+	</progress>
+</w>

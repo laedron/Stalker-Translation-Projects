@@ -32,21 +32,32 @@ gibt.
 - stable_dialogs_aes
 - stable_dialogs_agroprom
 - stable_dialogs_amk
+- stable_dialogs_bar
+- stable_dialogs_darkvalley
+- stable_dialogs_deadcity
 - stable_dialogs_garbage
+
 
 - stable_storyline_info_aes
 - stable_storyline_info_agroprom
+- stable_storyline_info_bar-rostok
+- stable_storyline_info_bar
+- stable_storyline_info_darkvalley
 - stable_storyline_info_garbage
 
 - string_table_general
 
 - string_table_mapspots_aes
 - string_table_mapspots_agroprom
+- string_table_mapspots_bar
+- string_table_mapspots_darkvalley
 - string_table_mapspots_escape
 - string_table_mapspots_garbage
 
 - string_table_tasks_aes
 - string_table_tasks_agroprom
+- string_table_tasks_bar
+- string_table_tasks_darkvalley
 - string_table_tasks_deadcity
 - string_table_tasks_escape
 - string_table_tasks_garbage
@@ -55,6 +66,8 @@ gibt.
 
 - string_table_tips
 - string_table_tips_agroprom
+- string_table_tips_bar-rostok
+- string_table_tips_darkvalley
 - string_table_tips_escape
 - string_table_tips_garbage
 
@@ -62,6 +75,7 @@ gibt.
 
 - ui_st_inventory
 - ui_st_keybinding
+- ui_news_messages
 
 **
 - Für welches Zielfernohr Genau (Welche Stärke?)
@@ -74,8 +88,7 @@ Bei der Flut an Waffen und Zusätzen fehlt die Genauigkeit.
 
 		XML Dateien, Fast Fertig oder in Arbeit:
 		- sak_strings_treasure.xml (Aktuell)
-		- stable_dialogs_agroprom (~10)
-		- stable_treasure_manager (~30%)
+		- stable_treasure_manager (~80%)
 		- aem_strings
 		- stable_dialogs_escape
 		- string_table_enc_ald_weapons (1%)
@@ -198,6 +211,13 @@ Bei der Flut an Waffen und Zusätzen fehlt die Genauigkeit.
 		Level Name sowie die Stunde eingefügt. Bei dem eigentlichen "klick und Speichern"
 		werden keine nummern mehr voran geschrieben was dazu führte das man nach etlichen
 		Saves z.b "8_8_8_8_8_8_0_xyzxyzxyz.sav" einen undeutlichen Dateinamen hat
+		
+		// Indikator Granat/Schraube 		
+		//=================================================================================//		
+		Ich habe den Indikator für daswerfen "gefixed". In der Originalen Versuion der
+		Stalkersoup kann man nur max 30px von dem Progress sehen und dieser wird zusätzlich
+		noch gestreckt. Ob das gewollt weiß ich nicht. Ich finde es von der Optik unschön
+		und sieht irgendwie "gedamaged" aus. 16:9 Version wird unterstützt
 //=============================================================================================//
 
 [URL="https://github.com/MartyShepard/Stalker-Translation-Projects"]Update bei Github[/URL]

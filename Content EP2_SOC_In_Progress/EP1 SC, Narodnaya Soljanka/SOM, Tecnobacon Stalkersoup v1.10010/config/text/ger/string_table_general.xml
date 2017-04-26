@@ -498,7 +498,7 @@
 			<text>AKW-Steuerungsbunker</text>
 		</string>
 		<string id="enc_saharov_about_klik_text">
-			<text>\n \n \n \n \n \n Sakharov weißt nicht viel über "Fangs's" Tod und empfiehlt mit Voronin zu sprechen.</text>
+			<text>\n \n \n \n \n \nSakharov weißt nicht viel über "Fangs's" Tod und empfiehlt mir mit Voronin zu sprechen.</text>
 		</string>
 		<string id="saharov_begin">
 			<text>Sakharov: Die Untersuchung hat begonnen.</text>
@@ -507,7 +507,7 @@
 			<text>Nachforschung</text>
 		</string>
 		<string id="enc_voronin_about_klik_text">
-			<text>\n \n \n \n \n \n Voronin meint - "Fang" hatte wohl irgendwelche Beziehungen mit Söldnern. Sein Rat: den Informabten besuchen. Er soll auch mit Söldnern Geschäfte machen. Vielleicht kann ich von ihm mehr erfahren...</text>
+			<text>\n \n \n \n \n \nVoronin meint - "Fang" hatte wohl irgendwelche Beziehungen mit Söldnern. Sein Rat: den Informanten zu besuchen. DIeser soll auch mit Söldnern Geschäfte machen. Vielleicht kann ich von ihm mehr erfahren...</text>
 		</string>
 		<string id="sms_new_dan2">
 			<text>Textnachrichten</text>

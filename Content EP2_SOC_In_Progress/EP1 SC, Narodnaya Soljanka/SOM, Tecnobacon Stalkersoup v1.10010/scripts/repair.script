@@ -212,6 +212,16 @@ function load_menu(item)
 	--create_kit(item)
 end
 
+-- ===========================================================================================================
+ -- Marty2Base Close Inventory
+function close_inventory()
+	local self = level.main_input_receiver()
+	if self then
+		self:GetHolder():start_stop_menu(self,true)
+	end	
+end	
+
+
 class "repair_ui" (CUIScriptWnd)
 
 function repair_ui:__init(owner) super()
@@ -219,6 +229,7 @@ function repair_ui:__init(owner) super()
 	self:init_variables()
 	self:InitControls()
 	self:InitCallBacks()
+	close_inventory()
 end
 
 function repair_ui:__finalize() end
@@ -230,9 +241,10 @@ function check_weapons()
 	return one,two,three
 end
 
+
 function repair_ui:InitControls()
 	self.main_button = {}
-	self:Init((1024-400)/2,(768-610)/2,400,610) -- Marty2Base CenteronScreen
+	self:Init((1024-436)/2,(768-646)/2,436,646) -- Marty2Base CenteronScreen
 	local xml = CScriptXmlInit()
 	local text = nil
 	

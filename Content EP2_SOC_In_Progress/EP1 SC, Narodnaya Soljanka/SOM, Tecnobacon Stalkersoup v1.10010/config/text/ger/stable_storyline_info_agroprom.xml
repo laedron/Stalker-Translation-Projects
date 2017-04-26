@@ -3,16 +3,16 @@
 <!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 07 Oct 16 -->
 <!-- Corrected many generic punctuation, in-game and US/UK spelling errors - Sword2012 - 12 Dec 16 -->
 		<string id="agr_find_ghost_descr">
-			<text>\n \n \n \n \n \n Habe herausgefunden, dass einer von Streloks Leuten "Ghost" genannt wird. Wenigstens ein kleiner Hinweis. Wenn ich "Ghost" finden kann, finde ich auch Strelok.</text>
+			<text>\n \n \n \n \n \nHabe herausgefunden, dass einer von Streloks Leuten "Ghost" genannt wird. Wenigstens ein kleiner Hinweis. Wenn ich "Ghost" finden kann, finde ich auch Strelok.</text>
 		</string>
 		<string id="agr_journal_cache">
-			<text>\n \n \n \n \n \n Es scheint, als hätte mir das Versteck eine neue Richtung gewiesen. Ich habe ein Speicherstick gefunden, auf dem etwas gespeichert ist, das wie ein Tagebuch aussieht, das von Streloks Gruppe genutzt wurde. Es gab nur wenige Einträge, doch ich habe herausgefunden, dass die Gruppe noch zwei Mitglieder hat: "Ghost" und "Fang". Im Tagebuch wurde auch ein "gemeinsamer Freund" erwähnt, aber ich weiß nicht, ob er zur Gruppe gehörte. Er hat ihnen auf jeden Fall geholfen, so viel ist sicher. Im Eintrag von "Ghost" steht, dass "Fang" starb, als sie in einen Hinterhalt gerieten. Endlich habe ich den Namen von jemandem, der Strelok kennt: "Ghost". Strelok selbst könnte sich im Norden der Zone aufhalten.</text>
+			<text>\n \n \n \n \n \nEs scheint, als hätte mir das Versteck eine neue Richtung gewiesen. Ich habe ein Speicherstick gefunden, auf dem etwas gespeichert ist, das wie ein Tagebuch aussieht, das von Streloks Gruppe genutzt wurde. Es gab nur wenige Einträge, doch ich habe herausgefunden, dass die Gruppe noch zwei Mitglieder hat: "Ghost" und "Fang". Im Tagebuch wurde auch ein "gemeinsamer Freund" erwähnt, aber ich weiß nicht, ob er zur Gruppe gehörte. Er hat ihnen auf jeden Fall geholfen, so viel ist sicher. Im Eintrag von "Ghost" steht, dass "Fang" starb, als sie in einen Hinterhalt gerieten. Endlich habe ich den Namen von jemandem, der Strelok kennt: "Ghost". Strelok selbst könnte sich im Norden der Zone aufhalten.</text>
 		</string>
 		<string id="agr_journal_krot">
-			<text>\n \n \n \n \n \n Das Treffen mit dem "Maulwurf" Mole hat sich bezahlt gemacht. Die Gruppe scheint es tatsächlich zu geben, ihr Versteck soll sich in den Katakomben unter dem Institut befinden. Ich muss dorthin. Ich weiß nicht, was ich dort finden werde, aber ich hoffe, dass mir das Versteck dabei hilft, mein Geheimnis zu lüften ...</text>
+			<text>\n \n \n \n \n \nDas Treffen mit dem "Maulwurf" Mole hat sich bezahlt gemacht. Die Gruppe scheint es tatsächlich zu geben, ihr Versteck soll sich in den Katakomben unter dem Institut befinden. Ich muss dorthin. Ich weiß nicht, was ich dort finden werde, aber ich hoffe, dass mir das Versteck dabei hilft, mein Geheimnis zu lüften ...</text>
 		</string>
 		<string id="agr_krot_secret_info">
-			<text>\n \n \n \n \n \n Mole:... Folge der Wendeltreppe nach unten in den Raum mit den Säulen. Geh durch den Raum auf den Ausgang zu und betritt den großen Raum mit den Rohren an der Decke. Geh zum zweiten Ausgang, betritt den Tunnel und halt dich links. Am Ende ist eine Biegung nach rechts. Begib dich direkt zum Ausgang des kleinen Raums und bieg rechts ab. Sieh nach einem Loch in der linken Wand, direkt neben den Worten: 'Nicht betreten - Lebensgefahr". Das ist der Eingang zu Streloks Versteck.</text>
+			<text>\n \n \n \n \n \nMole:... Folge der Wendeltreppe nach unten in den Raum mit den Säulen. Geh durch den Raum auf den Ausgang zu und betritt den großen Raum mit den Rohren an der Decke. Geh zum zweiten Ausgang, betritt den Tunnel und halt dich links. Am Ende ist eine Biegung nach rechts. Begib dich direkt zum Ausgang des kleinen Raums und bieg rechts ab. Sieh nach einem Loch in der linken Wand, direkt neben den Worten: 'Nicht betreten - Lebensgefahr". Das ist der Eingang zu Streloks Versteck.</text>
 		</string>
 		<string id="agr_krot_secret_info_name">
 			<text>Streloks Versteck</text>
@@ -24,16 +24,16 @@
 			<text>Untersuchungsbericht</text>
 		</string>
 		<string id="agr_nii_security_plan">
-			<text>\n \n \n \n \n \n In dieser Übersicht befinden sich alle Patrouillen, Wachposten und Wachtürme. Das Hauptquartier ist im dritten Stock des Instituts. Dort werden die Dokumente aufbewahrt. Tagsüber wimmelt das Gebiet von Patrouillen. Nachts ist weniger los und um 23:00 Uhr haben die Wachen Feierabend. Zu dieser Zeit sind nur wenige Leute im Gebäude. Wenn du in die Basis eindringen willst, solltest du durch die Katakomben gehen, das Tor ist keine Option.</text>
+			<text>\n \n \n \n \n \nIn dieser Übersicht befinden sich alle Patrouillen, Wachposten und Wachtürme. Das Hauptquartier ist im dritten Stock des Instituts. Dort werden die Dokumente aufbewahrt. Tagsüber wimmelt das Gebiet von Patrouillen. Nachts ist weniger los und um 23:00 Uhr haben die Wachen Feierabend. Zu dieser Zeit sind nur wenige Leute im Gebäude. Wenn du in die Basis eindringen willst, solltest du durch die Katakomben gehen, das Tor ist keine Option.</text>
 		</string>
 		<string id="agr_nii_security_plan_name">
 			<text>Wachaufstellung des Agroprom-Forschungsinstituts</text>
 		</string>
 		<string id="agr_rats_n_soldiers_text">
-			<text>\n \n \n \n \n \n Die Soldaten sind angewidert von den Ratten, die aus den Abwasser-Sammlern klettern. Zur Strafe werden Soldaten in die Sammler geschickt.</text>
+			<text>\n \n \n \n \n \nDie Soldaten sind angewidert von den Ratten, die aus den Abwasser-Sammlern klettern. Zur Strafe werden Soldaten in die Sammler geschickt.</text>
 		</string>
 		<string id="agr_task_case">
-			<text>\n \n \n \n \n \n Händler: "Bring die Aktentasche aus dem Institut direkt zum Wirt, sobald du sie hast. Er betreibt das "100 Rad", die Stalker-Bar. Du findest sie auf dem Gelände der ehemaligen Fabrik in Rostok."</text>
+			<text>\n \n \n \n \n \nHändler: "Bring die Aktentasche aus dem Institut direkt zum Wirt, sobald du sie hast. Er betreibt das "100 Rad", die Stalker-Bar. Du findest sie auf dem Gelände der ehemaligen Fabrik in Rostok."</text>
 		</string>
 		<string id="article_agr_krot_sos">
 			<text>SOS, die Armee tötet Stalker! Leute, wenn ihr mich hören könnt, ich brauch Hilfe!</text>
