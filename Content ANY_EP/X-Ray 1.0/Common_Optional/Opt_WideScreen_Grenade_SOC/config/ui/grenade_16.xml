@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- ************ TB3D 1.0.9.9.7.0 *************** -->
-
 <!-- *************************************Marty2Base***** -->
 <!-- *                                                  * -->
 <!-- *  Temp Fix -for the Damaged Bolt/Grenade Progress * -->
@@ -13,22 +11,6 @@
 <!-- *                                                  * -->
 <!-- **************************************************** -->
 <!-- <w>
-
-<!-- *************************************Marty2Base***** -->
-<!-- *                                                  * -->
-<!-- *  Modified Version                                * -->
-<!-- *                                                  * -->
-<!-- **************************************************** -->
-<!--
-<progress x="436" y="308" width="152" height="151" sector_count="43" clockwise="0">
-		<front x="0" y="0" width="152" height="151">
-			<texture x="0" y="0" width="256" height="256" >ui\ModernMenu\form_hud_grenade_charge</texture>			
-		</front>
-		<back x="14" y="-7" width="125" height="166" stretch="1" >
-			<texture x="0" y="0" width="256" height="256" >ui\ModernMenu\form_hud_grenade_static</texture>			
-		</back>
-	</progress>
-</w> -->
 
 <!-- *************************************Marty2Base***** -->
 <!-- *                                                  * -->

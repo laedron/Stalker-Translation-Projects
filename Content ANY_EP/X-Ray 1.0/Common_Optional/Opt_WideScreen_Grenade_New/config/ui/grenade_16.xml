@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- *************************************Marty2Base***** -->
+<!-- *                                                  * -->
+<!-- *  Temp Fix -for the Damaged Bolt/Grenade Progress * -->
+<!-- *                                                  * -->
+<!-- *  No Idea what is changed. I soent a few hours    * -->
+<!-- *  for search the problem with long Y stretched    * -->
+<!-- *  (See max 30px) Progress Texture                 * -->
+<!-- *  ui_hud_grenadetarget_e. This is a NoGo!!!!!!    * -->
+<!-- *  I decided to add the original GFX seperat       * -->
+<!-- *                                                  * -->
+<!-- **************************************************** -->
+<!-- <w>
+
+<!-- *************************************Marty2Base***** -->
+<!-- *                                                  * -->
+<!-- *  Modified Version                                * -->
+<!-- *                                                  * -->
+<!-- **************************************************** -->
+<w>
+	<progress x="436" y="308" width="152" height="151" sector_count="43" clockwise="0">
+		<front x="0" y="0" width="152" height="151">
+			<texture x="0" y="0" width="256" height="256" >ui\ModernMenu\form_hud_grenade_charge</texture>			
+		</front>
+		<back x="14" y="-7" width="125" height="166" stretch="1" >
+			<texture x="0" y="0" width="256" height="256" >ui\ModernMenu\form_hud_grenade_static</texture>			
+		</back>
+	</progress>
+</w>
+
+<!-- *************************************Marty2Base***** -->
+<!-- *                                                  * -->
+<!-- *  Original Version                                * -->
+<!-- *                                                  * -->
+<!-- **************************************************** -->
+<!-- <w>
+<progress x="467" y="338" width="91" height="92" sector_count="30" clockwise="0">
+		<front x="0" y="0" width="91" height="92">
+			<texture x="0" y="0" width="91" height="92" >ui\ModernMenu\form_hud_grenade_charge_org</texture>			
+		</front>
+		<back x="0" y="-14" width="91" height="121" stretch="1">
+			<texture x="0" y="0" width="91" height="92">ui\ModernMenu\form_hud_grenade_static_org</texture>			
+		</back>
+	</progress>
+</w> -->
