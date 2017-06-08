@@ -1,15 +1,26 @@
 @ECHO OFF
 CLS
 
-SET sDBNAME=gamedata
-SET sDB_NUM=dbz900
+SET sDBNAME =gamedata
+SET sDB_NUMAA=dbz900
+SET sDB_NUMAB=dbz900
+
 SET sSRCEDR=%cd%
 SET sDESTDR=%sSRCEDR%\Content UserSource\Stalker_Vanilla\
 SET sDESTTP=%sSRCEDR%\Content UserSource\Stalker_Vanilla\gamedata\
+
 SET XRAYGAC=%sSRCEDR%\Content Interna\xCompile_Tool\converter.exe
 SET XRAYVER=2947ww
 
-SET sDIR_A_=%sSRCEDR%\Content ANY_EP\X-Ray 1.0\Original_HQ_Soundtrack_Addon\
+REM =============================================================================== Level Sound
+SET sDIR_A_=%sSRCEDR%\Content ANY_EP\X-Ray 1.0\Common_Level_Sound\
+REM =============================================================================== Deutsche Dialoge
+SET sDIR_B_=%sSRCEDR%\Content ANY_EP\X-Ray 1.0\German_Dialog_Voices\
+REM =============================================================================== NPC States
+SET sDIR_C_=%sSRCEDR%\Content ANY_EP\X-Ray 1.0\Common_Dialog_States\
+REM =============================================================================== Texturen, High Quality
+SET sDIR_D_=%sSRCEDR%\Content ANY_EP\X-Ray 1.0\Common_HQ_Textures\
+
 
 SET ADD_HQMS=false
 SET ADDSTATE=false
@@ -102,7 +113,8 @@ IF %ERRORLEVEL%==2 goto EXIT
 :GDEL
 	DEL /S /Q "%sDESTTP%"
 	RD /S /Q "%sDESTTP%"	
-	IF EXIST "%sDESTDR%%sDBNAME%.%sDB_NUM%" (DEL "%sDESTDR%%sDBNAME%.%sDB_NUM%")	
+	IF EXIST "%sDESTDR%%sDBNAME%.%sDB_NUMA%" (DEL "%sDESTDR%%sDBNAME%.%sDB_NUMA%")
+	IF EXIST "%sDESTDR%%sDBNAME%.%sDB_NUMB%" (DEL "%sDESTDR%%sDBNAME%.%sDB_NUMB%")		
 	GOTO :EXTD
 	
 :EXIT
@@ -114,15 +126,31 @@ IF %ERRORLEVEL%==2 goto EXIT
 	IF NOT EXIST "%sDESTTP%" (MD "%sDESTTP%") ELSE GOTO ERRB
 	GOTO EXTD_A 
 	
-:EXTD_A	
-	REM MUSIC ADDON =====================================
-	CD /D "%sDIR_A_%"
+:EXTD_A
+	REM WORKING ================================================== Deutsche Dialoge
+	CD /D "%sDIR_B_%"
 		XCOPY *.* "%sDESTTP%" /V /S /-Y
-
 		
-	REM CREATE GAMEDATA ARCHIV ==========================	
+	REM WORKING ================================================== NPC States	
+	CD /D "%sDIR_C_%"
+		XCOPY *.* "%sDESTTP%" /V /S /-Y	
+		
+	REM WORKING ================================================== Texturen, High Quality	
+	CD /D "%sDIR_D_%"
+		XCOPY *.* "%sDESTTP%" /V /S /-Y			
+	
+	REM ======================= CREATE GAMEDATA ARCHIV ===================================
 	CD /D "%sDESTTP%"
-	"%XRAYGAC%" -pack -%XRAYVER% .\ -out "%sDESTDR%%sDBNAME%.%sDB_NUM%"	
+	"%XRAYGAC%" -pack -%XRAYVER% .\ -out "%sDESTDR%%sDBNAME%.%sDB_NUMA%"	
+
+	
+	REM WORKING = AND CREATE GAMEDATA ARCHIV ================================== Level Sound
+	CD /D "%sDIR_A_%"
+	XCOPY *.* "%sDESTTP%" /V /S /-Y	
+	"%XRAYGAC%" -pack -%XRAYVER% .\ -out "%sDESTDR%%sDBNAME%.%sDB_NUMB%"	
+	
+	
+	
 	EXPLORER.EXE "%sDESTDR%"
 	GOTO :ENDSHOW	
 
@@ -144,7 +172,7 @@ IF %ERRORLEVEL%==2 goto EXIT
 	ECHO =                                                                          =
 	ECHO 2                                                                          =	
 	ECHO =     oder Du kopierst NUR das Gamedata Archiv                             =	
-	ECHO =     %sDBNAME%.%sDB_NUM%                                                  =
+	ECHO =     %sDBNAME%.%sDB_NUMA%                                                  =
 	ECHO =     in dein Stalker verzeichnis.                                         =
 	ECHO ============================================================================
 	ECHO .
