@@ -1,0 +1,5 @@
+<article id="aes_soldier_info" name="aes_military_task_head" group="aes_military_task" article_type="journal">
+	<texture x="-64" y="0" width="512" height="512">ui\ui_docs\doc_aes_soldier_info</texture>
+	<text>aes_soldier_info</text>
+</article>
+
