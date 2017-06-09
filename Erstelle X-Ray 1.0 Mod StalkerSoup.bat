@@ -283,6 +283,10 @@ IF %ERRORLEVEL%==2 goto EXIT
 	ECHO =     %sDBNAME%.%sDB_NUMB%                                                      =	
 	ECHO =                                                                          =	
 	ECHO =     in dein Stalker verzeichnis.                                         =
+	ECHO =     Beachte: Das Gamedata Verzeichnis muss dem Zustand entsprechen, wie  =
+	ECHO =     nach einer frischen Installation. Sonts greifen die Daten in den DB  =
+	ECHO =     Archiven nicht und es werden weiterhin die alten dateien im Gamedata =
+	ECHO =     Verzeichnis benutzt. Viel Spass                                      =
 	ECHO ============================================================================
 	ECHO .
 	ECHO ..
