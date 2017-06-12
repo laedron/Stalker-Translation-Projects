@@ -4,10 +4,10 @@
 	<text>Aktenkoffer</text>
 </string>
 <string id="esc_fox">
-	<text>Fox</text>
+	<text>Verwundeter "Fox"</text>
 </string>
 <string id="esc_mill">
-	<text>Verlassene Mühle</text>
+	<text>Verlassene Mühle.</text>
 </string>
 <string id="escape_trader">
 	<text>Händler</text>
@@ -22,7 +22,7 @@
 	<text>Anführer des Ausbildungslagers</text>
 </string>
 <string id="soldiers_bridge">
-	<text>Militärposten an der zerstörten Brücke. Die Soldaten sind bekannt dafür, bestechlich zu sein und Leute passieren zu lassen.</text>
+	<text>\n \n \n \n \n \nMilitärposten an der zerstörten Brücke. Die Soldaten sind bekannt dafür, bestechlich zu sein und Leute passieren zu lassen.</text>
 </string>
 <string id="tutorial_artefact">
 	<text>Artefakt</text>
@@ -37,7 +37,7 @@
 	<text>Versteck des toten Stalker</text>
 </string>
 <string id="tutorial_secret_shustryi">
-	<text>Nimble's Versteck</text>
+	<text>Nimble's Geheim Versteck. Wo das Artefakt zu finden ist.</text>
 </string>
 <string id="tutorial_wounded">
 	<text>Nimble</text>
@@ -48,4 +48,4 @@
 <string id="wolfs_rangers">
 	<text>"Wolfs" Späher.</text>
 </string>
-<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 30.03.2017 02:53:47 -->
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 12.06.2017 03:27:14 -->

@@ -633,10 +633,10 @@
 			<text>\n \n \n \n \n \nTolik möchtet fünf Hundeschwänze haben. Er braucht diese für seine Artefakt-Modifikationen.</text>
 		</string>
 		<string id="artmod_111_dialog_0">
-			<text>Was gibt's denn noch? Willst du mich was fragen?</text>
+			<text>Ist irgendwas? Willst du mir was erzahlen?</text>
 		</string>
 		<string id="artmod_111_dialog_1">
-			<text>Ich traf vor kurzem einen erfahrenen Stalker, als wir zusammen ein getrunken haben, erzählte er mir über die Möglichkeit das Artefakt "Fleischklumpen" aus zwei anderen - zu bekommen. Dafür braucht man noch ein Hundeschwanz. Ich wollte ja welche besorgen - aber du siehst ja. Ich bin grade so am Leben geblieben. Wenn du mir so um 5 Stück von den Schwänzen bringst, erzähl ich dir wie das geht...</text>
+			<text>Also.. Ich traf vor kurzen einen erfahrenen Stalker, als wir zusammen ein getrunken haben, erzählte er mir über die Möglichkeit das Artefakt "Fleischklumpen" aus zwei anderen - zu bekommen. Dafür braucht man noch ein Hundeschwanz. Ich wollte welche besorgen - aber du siehst ja. Ich bin grade so am Leben geblieben. Wenn du mir so .. 5 von den besorgen kannst, erzähl ich dir wie das funktioniert...</text>
 		</string>
 		<string id="artmod_111_dialog_2">
 			<text>Gut, dann werd ich mal die blinden Biester ein bisschen rumscheuchen...</text>
@@ -648,7 +648,7 @@
 			<text>Hallo. Ich bring dir die Hundeschwänze...</text>
 		</string>
 		<string id="artmod_112_dialog_1">
-			<text>Danke, Gezeichneter. Ich kann dir nicht genug danken!</text>
+			<text>Danke, Gezeichneter.</text>
 		</string>
 		<string id="artmod_112_dialog_2">
 			<text>Pack ein, solange sie noch nicht stinken...</text>
@@ -660,10 +660,10 @@
 			<text>Wie kann ich dir helfen?</text>
 		</string>
 		<string id="artmod_121_dialog_1">
-			<text>Ich und die Jungs versuchen diesen Teil von Kordon zu kontrollieren und debei es von den Banditen und Mutanten zu beschützen. Dafür helfen Wolf und andere erfahrene Stalker uns mit Lebensmitel, Infos und anderen Sachen aus. Nur leider nicht was unsere Ausrüstung und Waffen angeht, das ist nicht gerade das beste Zeug. Auch wenn man hier nicht viel Munition verbrät. \n \nWenn du eine Möglichkeit siehst, kannst du mir ein "TOZ-34" Jagdgewehr besorgen? Für unsere Aktion hier ist es die passende Waffe... Und ich erzähl dir dafür, wie man aus einem billigen Artefakt - ein höherwertiges bekommt...</text>
+			<text>Ich und die Jungs versuchen diesen Teil von Kordon zu kontrollieren und zeitgleich es von Banditen und Mutanten zu beschützen. Dafür helfen mir Wolf und andere erfahrene Stalker mit Lebensmittel aus sowie mit Infos und anderen Sachen. Nur leider nicht was unsere Ausrüstung und Waffen angeht, das ist nicht gerade das beste Zeug. Auch wenn man hier nicht viel Munition verbrät. \n \nWenn du eine Möglichkeit siehst, kannst du mir ein "TOZ-34" Jagdgewehr besorgen? Für unsere Aktion hier ist es die passende Waffe... Und als Gegenleistung erzähl ich dir dafür, wie man aus einem billigen Artefakt - ein höherwertiges bekommt...</text>
 		</string>
 		<string id="artmod_121_dialog_2">
-			<text>Alles klar - mache ich. Sidorowitsch wird was auf Lager haben.</text>
+			<text>Alles klar - mache ich. Schatze.. Sidorowitsch wird was auf Lager haben.</text>
 		</string>
 		<string id="artmod_121_dialog_3">
 			<text>Beweg dein Arsch selbst. Bin doch nicht dein Lakei...</text>

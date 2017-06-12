@@ -657,6 +657,10 @@ string_table_general.xml-> item_sniper_flash_name Das Item muss überprüft werd
 stable_dialogs_bar.xml	-> bar_arena_man_monster_1 (Ist der Sinn richttig)
 
 dialog_amk_11_recipt	-> stable_dialogs_amk.xml, Stimmt der Verkauf 30.000 Rubel
+
+stable_dialogs_escape.xml-> escape_trader_jobs_outfit_yes_1 (Military Uazik = Soviet Army 4x4)
+stable_dialogs_escape.xml-> escape_trader_jobs_outfit_not_1 (Perfect Beryl-5M)
+
 ==========================================================================================================
 
 

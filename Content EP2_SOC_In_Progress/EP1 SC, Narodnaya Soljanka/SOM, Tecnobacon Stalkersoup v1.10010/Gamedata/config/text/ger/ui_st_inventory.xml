@@ -265,4 +265,34 @@
 		<string id="ui_st_err_sb_master_server_conn_fail">
 			<text>Keine Verbindung zum Master-Server</text>
 		</string>
+		<string id="ui_st_ttle_nightvision">
+			<text>Lampe/Nacht</text>
+		</string>
+		<string id="ui_st_ttle_helmet">
+			<text>Schutzhelm</text>
+		</string>	
+		<string id="ui_st_ttle_google">
+			<text>Fernglas</text>
+		</string>
+		<string id="ui_st_ttle_knife">
+			<text>Messer</text>
+		</string>
+		<string id="ui_st_ttle_bolt">
+			<text>Schraube</text>
+		</string>	
+		<string id="ui_st_ttle_slotpistol">
+			<text>Hand Waffen</text>
+		</string>
+		<string id="ui_st_ttle_slotrifle">
+			<text>Automatik</text>
+		</string>	
+		<string id="ui_st_ttle_rubel">
+			<text>Geld</text>
+		</string>
+		<string id="ui_st_ttle_belt">
+			<text>Gurtel</text>
+		</string>	
+		<string id="ui_st_dlg_hint">
+			<text>Fenster schlieﬂen ($$ACTION_USE$$)</text>
+		</string>		
 <!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 20.03.2017 21:56:03 -->
