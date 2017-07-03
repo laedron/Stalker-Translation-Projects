@@ -337,7 +337,7 @@
 			<text>Schwer zu sagen. Es gibt so viele Gefahren und Überraschungen, wobei ich sicher nicht mal alle kenne. Einige habe ich schon am eigenen Leib erfahren. Mir wurde ein Zeh abgebissen, wegen der Strahlung fallen mir die Haare aus und mein halbes Bein wurde in einem Brenner gebraten ... Hier ist alles richtig übel. Ein anderes Mal stand ich von Angesicht zu Angesicht vor einem Blutsauger - diese Begegnung würde ich gerne wieder vergessen. Ich rate dir, wenn du ein triffst sei auf der Hut und behalte die Umgebung im Auge und die Waffe im Anschlag. Nun, wir können den ganzen Tag darüber reden, so viel wir wollen, aber solange du es nicht selbst erlebt hast, kannst du es dir nicht wirklich vorstellen. Der einzige Rat, den ich dir geben kann, ist Acht zu geben. Immer und überall und hast du dich einmal mit einen von ihnen angelegt, der wird dich so schnell nicht vergessen.</text>
 		</string>
 		<string id="escape_lager_volk_info_3">
-			<text>Hast du mal von einem Typen, den man "Strelok" nennt, gehört?</text>
+			<text>Hast du von einem Typen, namen's "Strelok" schon mal gehört?</text>
 		</string>
 		<string id="escape_lager_volk_info_31">
 			<text>Ich meine mich zu erinnern, da klingelt was... getroffen hab ich ihn aber nie. Aber so wirklich kann ich dir nichts sagen. Der soll wohl ins Zentrum der Zone vorgedrungen sein. Ist eben nichts mehr für mich. Ich bin schon froh wenn ich im Lager überlebe und hoffe das nicht das Militär uns hier angreift. Ich habe Glück, dass ich die ganzen Angriffe überlebt habe! Wenn du mehr über diesen - "Strelok"? - wissen willst dann frag die Jungs die sich tiefer in der Zone aufhalten. Vielleicht erfährst du dann mehr.</text>
@@ -346,7 +346,7 @@
 			<text>Was weißt du über diese "Totenlaster"?</text>
 		</string>
 		<string id="escape_lager_volk_info_41">
-			<text>Darüber weiß ich auch nichts genaues, und das ist auch ganz gut so! Soviel ich weiß werden damit Tote aus dem Zentrum der Zone Transportiert. Es werden mitunter aber auch zu viele Mythen und Geschichten und Gerüchte darum geschaffen. Wenn man hier einen Monat in der Gegend verbracht hat, dann kann man gar nicht anders als für den Rest seines Lebens wahnsinnig abergläubisch zu werden oder man hat den Kopf dafür und hält es durch.\n \n ich verstehe schon deine Situation. Aber .. Tote auf der Ladefläche, Tote hinter dem Lenkrad, Tote die wieder aufstehen, Tote die umher wandern und Tote die dir an die Wäsche wollen ...\n \nWas treibt diese Ungeheuer nur an und wieso sind die nicht normal Tot? Man wundert sich ja das du noch am Leben bist. Wieso und warum man dir keine Kugel verpasst hatte ist mir schleierhaft. Kannst dich glücklich schätzen - denke ich. Hätte ich dich da zappeln sehen, hätte ich nicht gezögert - aber nun gibt es ja anscheinend ein paar die was auf von dir halten. Wiso ach immer. Ich sag dir.. Das meiste Tote Fleisch kommt aus dem Norden der Zone und .. Yantar. Fürchterliche Gegend. Nur Zombie Scheiße..</text>
+			<text>Darüber weiß ich auch nichts genaues, und das ist auch ganz gut so! Soviel ich weiß werden damit Tote aus dem Zentrum der Zone Transportiert. Es werden mitunter aber auch zu viele Mythen und Geschichten und Gerüchte darum geschaffen. Wenn man hier einen Monat in der Gegend verbracht hat, dann kann man gar nicht anders, als für den Rest seines Lebens wahnsinnig abergläubisch zu werden oder man hat eben den Kopf dafür und hält es durch.\n \nich verstehe schon deine Situation. Aber .. Tote auf der Ladefläche, Tote hinter dem Lenkrad, Tote die wieder aufstehen, Tote die umher wandern und Tote die dir an die Wäsche wollen ...\n \nWas treibt diese Ungeheuer nur an und wieso sind die nicht normal Tot? Man wundert sich ja das du noch am Leben bist. Wieso und warum man dir keine Kugel verpasst hatte ist mir schleierhaft. Kannst dich glücklich schätzen - denke ich. Hätte ich dich da zappeln sehen, hätte ich nicht gezögert dir eine zu verpassen - aber nun gibt es ja anscheinend ein paar die was von dir halten. Wiso auch immer. Ich sag' dir.. Das meiste Tote Fleisch kommt aus dem Norden der Zone und .. Yantar. Fürchterlicher Ort. Nur Zombie Scheiße..</text>
 		</string>
 		<string id="escape_lager_volk_talk_11">
 			<text>Ok! Was kann ich für dich tun?</text>
@@ -1212,268 +1212,269 @@
 			<text>Ok, trink ein.. Ich weiß bescheid. Danke.</text>
 		</string>
 		<string id="kostya_bar_taynik_0">
-			<text>The Barkeep told me that you were looking for me...</text>
+			<text>Der Wirt erzählte mir das du nach mir gesucht hättest?</text>
 		</string>
 		<string id="kostya_bar_taynik_1">
-			<text>It took some time, but I was able to decipher those PDA's</text>
+			<text>Ja, Es geht um die PDA's. Es hat ein wenig gedauert, aber ich konnte dennoch die PDA's entschlüsseln und den Inhalt Lesbar machen.</text>
 		</string>
 		<string id="kostya_bar_taynik_2">
-			<text>What did you find out?!</text>
+			<text>Was hast du rausgefunden?</text>
 		</string>
 		<string id="kostya_bar_taynik_3">
-			<text>The first PDA, the one belonging to the Bandit, has nothing particularly interesting. Just some info about an expedition to a hiding place at the Dump .. the one you already found .. The second PDA is much more interesting. It contains information on a group of Scientists who developed, and tested a brand new Device. This Device, judging by the description, is an amazing break through in transportation technology. Apparently, this Device enables the user to Teleport to any point within the Zone. The info in this PDA asserts that the Device Prototype is stored in a Laboratory located somewhere in the vicinity of the Radar. But, to get one's hands on it is no easy task!! First off, there's the Brain Scorcher. Secondly: the Code for the lock on the door, behind which lies the Device, has been divided up into separate components, and placed in different locations. In order to get the Code, it is necessary to find all of these components. It says there are five components located in five separate locations throughout the Zone... Are you at all interested in helping me locate these stashes?!</text>
+			<text>Also.. Den ersten PDA, den du ja aus dem Versteck des Banditen hast, da ist nichts wildes drauf. Da sind hauptsächlich Notizen über ein Versteck welches zur Müllhalde führt. Das hast du ja schon gefunden.\n \nAber der zweite und das ist Interessant. Den Informationen ist zu entnehmen das eine Gruppe von Wissenschaftlern eine Gerät entwickelt und getestet hatten die sich mit einer Art von Transport Technologie beschäftigten. Weiter steht hier das sie erfolgreich eine Prototyp  Entwickelt hätten. Diese Technologie ermöglicht es den Anwender sich innerhalb der Zone von einem Ort zum anderen in Sekundenschnelle zu reisen... Hmm. Dieser Prototyp... warte.. Dieser soll sich in einem Labor befinden das irgendwo in der Nähe des "Radar" liegt. Gezeichneter? Das wird nicht leicht. Das erste Problem ist der "Gehirn Schmelzer".. weiter steht hier, das sich das Gerät in einem Sicheren Raum befindet. Dafür wird ein Code benötigt.\n \nHmm.. Die letzten Wissenschaftler haben den Code in Fünf Teile zerpflückt. Gab wohl Probleme mit einer Organisation.. Gab wohl auch ein paar Tote. Sie schreiben das sie sich aufgeteilt hätten und dementsprechend getrennte Wege gegangen sind. Insgesamt ergeben die Fünf teile zusammen den Code für Tür... und? Hast du bock dich auf die Suche zu machen?\n \nBist du überhaupt an so einer Story Interessiert?    </text>
 		</string>
 		<string id="kostya_bar_taynik_4">
-			<text>Hell yeah!! If such a device exists, we've got to get our hands on it!!</text>
+			<text>Auf jeden! Wenn solch ein Gerät existiert sollten wir es in unsere Hände bekommen!</text>
 		</string>
 		<string id="kostya_bar_taynik_5">
-			<text>Then listen, as I have told you already .. there are 5 hiding places. In each location there is a part of the 'Code'. It is absolutely essential that you find all five pieces of the Code!!. The precise co-ordinates are not available, so I can only give you an approximate location of where to search. The first location indicated is: The Dark Valley .. inside Laboratory X-18. Look for it there!! Once you have it .. if you find it, that is ... then report back to me as soon as possible!!</text>
+			<text>Alles klar! Dann hör zu:\n \nWie ich dir schon gesagt habe gibt es fünf teile. Dazu musst du eben die fünf Orte abgrasen. Wo und was du finden musst, hat der Wissenschaftler nicht beschrieben.. Typisch. Es gibt nur ein paar ungefähre Anhaltspunkte wo die Sachen sein können. Fang erstmal mit dem X-18 Labor an. Durchsuche dort alles. Das ist mühselig, aber das wird sich schon lohnen. Sobald du es hast.. komme zu mir zurück.  </text>
 		</string>
 		<string id="kostya_bar_taynik_6">
-			<text>This won't be easy, I dont even know where to start looking once inside the Laboratory...</text>
+			<text>Labor? Das wird nicht einfach werden. Labore ist immer so ein ding. Ausserdem wüsste ich nicht mal nach was ich ausschau halten sollte?</text>
 		</string>
 		<string id="kostya_bar_taynik_7">
-			<text>This device is priceless .. it simply must be found!!</text>
+			<text>Hmm.. Versuch nach verstaubten PDA's, ausschau zu halten. So würde ich das machen. Denk dran.. Dieses Teleport Gerät ist unbezahlbar.. es muss gefunden werden! </text>
 		</string>
 		<string id="kostya_bar_taynik_8">
-			<text>I found the first hiding place .. Here'sthe PDA...</text>
+			<text>Hast recht gehabt. Hier ist der PDA.. </text>
 		</string>
 		<string id="kostya_bar_taynik_9">
-			<text>This is excellent!! The next hiding place is on the Agroprom .. Go there .. and look carefully!!</text>
+			<text>Wahnsinn! Hattest du Probleme..? Schlaf dich erstmal aus und mach dich Frisch. Denn der nächste Hinweis führt dich nach Agroprom.</text>
 		</string>
 		<string id="kostya_bar_taynik_10">
-			<text>I'll do my best!!</text>
+			<text>Agroprom. Ach du scheisse.. Ok mach ich. Müsste eh noch meine Ausrüstung auffüllen.\n \nBis denn..</text>
 		</string>
 		<string id="kostya_agroprom_taynik_0">
-			<text>I found the hiding place at Agroprom .. it wasn't easy!!!</text>
+			<text>Hier. Ein weiterer PDA. Das war nicht einfach. Der war gut versteckt.</text>
 		</string>
 		<string id="kostya_agroprom_taynik_1">
-			<text>Well I don't know. As the saying goes: Anything worth doing, is never easy!!</text>
+			<text>Du hast es ja geschafft. Wie sagt man:\n \nWenn du einmal Erfolg hast, kann es Zufall sein. Wenn du zweimal Erfolg hast, kann es Glück sein. Wenn du dreimal Erfolg hast, so ist es Fleiß und Tüchtigkeit.</text>
 		</string>
 		<string id="kostya_agroprom_taynik_2">
-			<text>Where do I search for the next part of the Code?</text>
+			<text>Ach komm.. Also, ich bin noch warm. Wo soll ich als nächstes Suchen?</text>
 		</string>
 		<string id="kostya_agroprom_taynik_3">
-			<text>The next hiding place is in Yantar. Supposedly located somewhere inside the Factory ...</text>
+			<text>In Jantar. Irgendwo im Fabrik Komplex soll sich der Nächste teil des Code's befinden...</text>
 		</string>
 		<string id="kostya_agroprom_taynik_4">
-			<text>Does it say where abouts inside the Factory!?</text>
+			<text>Wo genau hat man nicht geschrieben oder? Ich mein.. den Komplex zu durchsuchen.. - Hui. </text>
 		</string>
 		<string id="kostya_agroprom_taynik_5">
-			<text>Sorry, it doesn't actually say!!</text>
+			<text>Darüber ist nichts zu finden. Eben nur der Hinweis mit dem Fabrik Komplex. Ich weiß, das wird nicht einfach mit den ganzen Zombie's.. </text>
 		</string>
 		<string id="kostya_agroprom_taynik_6">
-			<text>I'll see what I can do .. Here, take the PDA from Agroprom...</text>
+			<text>Wir werden sehen. Ich seh'zu das ich nicht auch als Zombie ende. Sonst liefere ich einigen Jungs im Lager, doch noch eine Bestätigung dafür das man Leute aus einem "Totenlaster" gleich erschießen sollte..\n \nBis später.</text>
 		</string>
 		<string id="kostya_yantar_taynik_0">
-			<text>I found it!!</text>
+			<text>Alles gut. Hier ist er.</text>
 		</string>
 		<string id="kostya_yantar_taynik_1">
-			<text>Your becoming quite the skilled Treasure Hunter, Marked One!!</text>
+			<text>Man, man.. Gezeichneter! Echt super! Du wirst noch zu einem Indiana Jones der Zone!</text>
 		</string>
 		<string id="kostya_yantar_taynik_2">
-			<text>Next stop .. The Temple of Doom!! .. lol!</text>
+			<text>Ach echt! Lass mich raten. Als nächtes beim "Labor des Schicksals"..  </text>
 		</string>
 		<string id="kostya_yantar_taynik_3">
-			<text>Well, anything is possible. The next piece of the puzzle is apparently located at the Army Warehouses..</text>
+			<text>Nicht ganz. Als nächstes geht es zu den "Armee-Lagerhäuser'n". Das wird ein bisschen Schwieriger. Wegen dem Militär.</text>
 		</string>
 		<string id="kostya_yantar_taynik_4">
-			<text>This isn't getting any easier, is it?! Here, take the PDA from Yantar</text>
+			<text>Militär? Fuck.. Da waren mir die Zombies irgendwie lieber. Die sind nicht so - koordiniert..\n \nOk, Bin dann weg.. </text>
 		</string>
 		<string id="kostya_as_taynik_0">
-			<text>I have found the piece of Code at the Army Warehouses!</text>
+			<text>War tatsächlich bei den "Armee-Lagerhäuser'n"...</text>
 		</string>
 		<string id="kostya_as_taynik_1">
-			<text>We're almost there!! Once we find the last hiding place, we will have all the pieces of the Code .. The last segment is located right there at the Radar itself!!</text>
+			<text>Sehr gut! Du hast es bald geschafft. So, einmal musst du nochmal los und sobald du fündig wirst können wir den Code zusammensetzen. Dazu musst du nach "Radar" gehen.</text>
 		</string>
 		<string id="kostya_as_taynik_2">
-			<text>at the bloody radar?! .. You've got to be kidding me, right!?</text>
+			<text>"Radar"? Na gut.. Das wird sicher kein Problem.</text>
 		</string>
 		<string id="kostya_as_taynik_3">
-			<text>Cool down Brother! This is the last piece of the Code .. Don't give up now!!</text>
+			<text>Denke ich auch, Bruder. Ich vertrau dir da voll und ganz das du das packst.</text>
 		</string>
 		<string id="kostya_as_taynik_4">
-			<text>Im not giving up, just getting a little frustrated with all this running around .. Here's the PDA from the Warehouses..</text>
+			<text>Aufgeben werde ich sicher nicht. Bin nur ein wenig fertig wegen dem ganzen herum gelaufe'. Hier ist der PDA aus den Lagerhäusern..</text>
 		</string>
 		<string id="kostya_radar_taynik_0">
-			<text>Here you are, Kostya. The last piece of the puzzle has been found!!!</text>
+			<text>Kostya! Ich hab' ihn gefunden. Hier ist das letzte PDA.</text>
 		</string>
 		<string id="kostya_radar_taynik_1">
-			<text>Excellent work! Now we have all the components that make up the Code .. But, ...</text>
+			<text>Hammer! Gute Arbeit. Nun haben wir alle Teile beisammen.. Ah.. Ok.., nun.. hmmm.. Aber, ..</text>
 		</string>
 		<string id="kostya_radar_taynik_2">
-			<text>What do you mean BUT!?...</text>
+			<text>Was meinst du mit.. aber..?</text>
 		</string>
 		<string id="kostya_radar_taynik_3">
-			<text>These are the parts of the Code. we have NO idea what the code actually is... I had hoped that it would be located within the last PDA, but it's not... It only points out that the answer can be found inside the Laboratory. So it is there that you must go .. Here are the numbers which have been deciphered from all the PDA's you brought me: 9, 7, 2, 54, 61 .. By the way, since switching-off the Brain Scorcher, I'm told that now Bloodsuckers run rampant in the area surrounding the Radar .. So, be extremely careful. I believe that they are coming from inside the Lab itself!! So before you go there, you had better stock up on grenades, and ammuntion...</text>
+			<text>Naja, Irgendwie macht das kein Sinn. Ich hatte ja gehofft.. da wir nun den letzten PDA besitzen, das sich dort auch Informationen drauf befinden wie der Code zu lesen ist. Das wirst du wohl im Laboratorium X-10 selbst ausprobieren müssen. Hier sind die Code Zahlen:\n \n9, 7, 2, 54, 61 \n \nAch ja, seit dem Abschalten des "Schmelzer's". Erzählt man sich, das nun verstärkt Blutsauger sich um und in "Radar" befinden. Die sollen sich verhalten als wären die total außer Kontrolle.. Sei also extrem Vorsichtig. Ich könnte mir vorstellen das die aus dem Labor kommen.\n \nRuhe dich erstmal aus und besorg' dir Granaten wenn du keine Hast. Fülle deine Munition bestände auf und prüfe deine Ausrüstung.</text>
 		</string>
 		<string id="kostya_radar_taynik_4">
-			<text>Thanks for the warning .. I guess I had better prepare for the worst!!</text>
+			<text>Ist das so? Danke für die Warnung.. Ich denke, ich werde mich auf das Schlimmste vorbereiten!\n \nBis später.</text>
 		</string>
 		<string id="kostya_radar_taynik_5">
-			<text>Good luck, my Friend!!</text>
+			<text>Viel Glück, mein Freund!</text>
 		</string>
 		<string id="kostya_x10_taynik_0">
-			<text>I managed to assemble the Code, and to open the Door!!</text>
+			<text>Hallo Kostya. Ich habe es geschafft. Der Code war ein bischen Tricky aber die Tür habe ich aufbekommen.</text>
 		</string>
 		<string id="kostya_x10_taynik_1">
-			<text>I knew you were the right man for the job!! .. Did you find anything!!? .. C'mon .. out with it man!!</text>
+			<text>Genial! Ich wusste das du es schaffst. Wie siehst's aus? Hast du das Gerät gefunden?.. Komm schon.. Spann mich nicht auf die Folter!</text>
 		</string>
 		<string id="kostya_x10_taynik_2">
-			<text>I most certainly did!! The info was correct!! It is a Prototye Hand Teleport but it works just fine .. except for one small, yet significant detail .. you have no idea where it is you will end up when using it!!!</text>
+			<text>Ja! Ich habe das Gerät. Es ist wie im PDA vom Wissenschaftler beschrieben, ein Prototyp eines Portablen Hand Teleporter's. Die Funktionsweise ist irgendwie... Naja. Er scheint wohl zu funktionieren.. Dennoch existiert im PDA vom Wissenschaftler auch ein Handbuch wie man das Gerät benutzt. Wie Konfiguriert man denn das Ziel wo man hin möchte? </text>
 		</string>
 		<string id="kostya_x10_taynik_3">
-			<text>Well, as it is still a Prototype Unit, it will certainly need to be adjusted...</text>
+			<text>Hmm.. Nun, da es noch ein Prototyp ist und es nur spärliche Informationen gibt, muss das sicherlich irgendwie eingestellt werden.. Den einzigen zuverlässigen Wissenschaftler den wir hier in der Zone kennen ist Sakharov. Möglicherweise könnte er weiterhelfen..</text>
 		</string>
 		<string id="kostya_x10_taynik_4">
-			<text>I will take it to Sakharov, perhaps he can help...</text>
+			<text>Na sicher doch.. Sakharov!?. Danke für den Tip. </text>
 		</string>
 		<string id="kostya_x10_taynik_5">
-			<text>Good idea!! he should be able to do it!!. I have another request for you...</text>
+			<text>Ja, er könnte dir damit weiterhelfen. Aber warte.. ich habe da noch was für dich..</text>
 		</string>
 		<string id="kostya_x10_taynik_6">
-			<text>Yes, what is it?</text>
+			<text>So? Was denn?</text>
 		</string>
 		<string id="kostya_x10_taynik_7">
-			<text>Well..., for a long time now, I've been searching for a particular Artefact. They say, with it on your belt, you become almost Invincable .. I have determined that more information about it can be found in Pripyat. There are three hiding places, in one of them is a PDA with the information I require. In two other hiding places, you should find some valuable equipment. Keep the equipment for yourself, and bring me the PDA. Will you do this for me marked One!?</text>
+			<text>Also.. Seit langen suche ich nach einem bestimmten Artefakt. Mit diesem solle man so gut wie... .. lach nicht.. - Unbesiegbar.. sein. Meinen Recherchen zufolge führt eine Spur nach Pripyat. Es gibt insgesamt drei Geheime verstecke. In einem soll sich ein PDA befinden. Dort sind Informationen drauf die ich wirklich brauche. In den anderen beiden gibt es nur Ausrüstung.. Sehr - wertvolle - Ausrüstung. Besorg' mir bitte den PDA. Den anderen Kram kannst du behalten.\n \nDeal?</text>
 		</string>
 		<string id="kostya_x10_taynik_8">
-			<text>I haven't come this far along to start saying NO ... Give me the coordinates...</text>
+			<text>Interessant. Wertvoll sagst du? Da sage ich nicht Nein! Gib her die Koordinaten.</text>
 		</string>
 		<string id="kostya_x10_taynik_9">
-			<text>I can only give you an approximate location...</text>
+			<text>Die genaue Position in Pripyat kann ich dir leider nicht geben, nur eine ungefähre Lage..</text>
 		</string>
 		<string id="kostya_x10_taynik_10">
-			<text>Surprise .. Surprise ...</text>
+			<text>War ja klar. Na gut. Bis Später.  </text>
 		</string>
 		<string id="kostya_pripyat_taynik_0">
-			<text>Here you go Kostya .. the PDA you've been wanting so badly!!</text>
+			<text>Hey Kostya! Hier ist dein PDA. Sieht aber nicht mehr ganz gut aus.</text>
 		</string>
 		<string id="kostya_pripyat_taynik_1">
-			<text>Thank you Brother!!!</text>
+			<text>Viele dank, Bruder. Ach.. Mal sehen..</text>
 		</string>
 		<string id="kostya_pripyat_taynik_2">
 			<text>No problem .. I appreciate the work you have given me...</text>
 		</string>
 		<string id="kostya_pripyat_taynik_3">
-			<text>Come, we will chat .. Whatever information I can find on stashes .. I will gladly share with you!!</text>
+			<text>Komme später vorbei. Auf was für Informationen ich auch Stoße. Es wird mir eine Freude sein diese mit dir zu teilen.</text>
 		</string>
 		<string id="kostya_pripyat_taynik_4">
-			<text>Sounds good Brother .. I'll be in touch!!</text>
+			<text>Das hört sich gut an. Wir bleiben in Kontakt.\n \nBis später.</text>
 		</string>
 		<string id="kostya_sacharov_0">
-			<text>Good afternoon Professor .. I've brought you something quite interesting!!</text>
+			<text>Guten Tag Professor. Ich habe hier etwas ganz Interessantes gefunden!</text>
 		</string>
 		<string id="kostya_sacharov_1">
-			<text>I'm listening young man... go on...</text>
+			<text>Moment.. Ich höre junger Mann.. Also was ist so Interessant?</text>
 		</string>
 		<string id="kostya_sacharov_2">
-			<text>I have found a 'Prototypical Hand Teleport' .. don't ask where it came from .. that's not important .. You see, the thing is .. that it needs to be adjusted .. As it stands now .. when used, it transports you to any given location at all .. you have absolutely no control over it's destination point. I need you to adjust it .. tune it .. do whatever it is you need to do in order to get it working properly ... Can you do this .. can you make this thing work properly?! I have some documentation that I found with it .. if they will help at all...</text>
+			<text>Schauen sie Professor. Diesen Prototyp eines "Hand Teleporters" habe ich gefunden. Fragen sie nicht wo ich ihn gefunden habe. Haben sie von dem Gerät schonmal gehört?  Es gibt nur sehr wenig Informationen wie er funktioniert. Diese Information hab ich mit falls sie die brauchen.. Irgendwie muss das Ziel eingestellt werden. Bin da aber etwas überfragt. Vielleicht können sie mal ein Blick drauf werfen?</text>
 		</string>
 		<string id="kostya_sacharov_3">
-			<text>Well, Marked One, this is interesting. Let me take a look at those documents. I will have to look into the matter carefully before I can say whether or not it can be adjusted, and therefore made to work 'properly'...</text>
+			<text>Ich glaub'.. ich werd' verrückt Gezeichneter! Zeig mal her die Dokumentation.. Hmm - stimmt da fehlt einiges. Interessant, ja das muss ich mir genauer anschauen. Ich werde das Gerät einer Überprüfung unterziehen und die Unterlagen dafür soweit vervollständigen damit du das Gerät benutzen kannst.</text>
 		</string>
 		<string id="kostya_sacharov_4">
-			<text>Thank you, Professor ... Here it is .. and the documents as well...</text>
+			<text>Scheint ihnen wohl bekannt vorzukommen? Wie dem auch sei. Viele Dank Professor.</text>
 		</string>
 		<string id="kostya_sacharov_5">
-			<text>Yes Marked One, while I study these documents, could you do something for me as well?!</text>
+			<text>Keine Ursache Gezeichneter. Während ich daran arbeite könntest du mir einen Gefallen tun?</text>
 		</string>
 		<string id="kostya_sacharov_6">
-			<text>What do you need, Professor?</text>
+			<text>Was benötigen Sie, Professor?</text>
 		</string>
 		<string id="kostya_sacharov_7">
-			<text>For my research I require certain data that Vasiliev had stored in his PDA .. Now, he did not return from Lab X-16 when he went in to assist Ghost .. so, his PDA must still be in there as well .. I need the information off of that PDA .. Will you get it for me? .. Bring me Vasiliev's PDA whilst I study these documents, and this here Teleportation Device that you have brought for me to look at .. I would be ever so grateful!!</text>
+			<text>Für eine meiner Forschungen benötige ich gewisse Daten und Informationen. Damit ich da mal weiterkommen. Vasiliev hatte diese Informationen in seinem PDA gespeichert. Um "Ghost" zu unterstützen ging er in Laboratorium X-16. In manchen Kreisen wird es auch als "Brain-Lab" bezeichnet.\n \nEr kehrte jedoch nie wieder zurück. Bitte sieh dich mal da um, ob sein PDA dort ist. Sollte er sich dort befinden, bringe ihm mir bitte. Du würdest mir damit mit ein Großen Gefallen tun. In der zwischen Zeit arbeite ich die Dokumente wegen dem Teleporter auf.
+</text>
 		</string>
 		<string id="kostya_sacharov_8">
-			<text>I will go and find the PDA while you study the documentation...</text>
+			<text>Kein Problem, Professor. Ich schau mich da mal um.\n \nBis später.</text>
 		</string>
 		<string id="kostya_sacharov_9">
-			<text>Thank you Marked One!!</text>
+			<text>Danke, Gezeichnter! Dann bis später.</text>
 		</string>
 		<string id="kostya_sacharov_pda_0">
-			<text>Well Professor, any success?</text>
+			<text>Hallo Professor. Sind sie vorangekommen?</text>
 		</string>
 		<string id="kostya_sacharov_pda_1">
-			<text>This is simply remarkable. Having looked at the principle functionality of this Teleport, I cannot adjust it perfectly, but with the correct parts, I can certainly make it work .. now then .. did you find the PDA?!</text>
+			<text>Oh.. Hallo Gezeichneter. Es ist schon bemerkenswert wie weit man kam. Dennoch, es müssten en paar Bauteile ersetzt werden um das Gerät wieder funktionstüchtig zu machen. In dem desolaten Zustand ist das Gerät nicht zu gebrauchen.\n \nAch.. Hast du den PDA gefunden?</text>
 		</string>
 		<string id="kostya_sacharov_pda_2">
-			<text>Yes, here it is .. now, what parts do you require?!</text>
+			<text>Ja, hier.\n \nSo Schlimm? Ich weiß schon worauf das hinausführt. Also.. was brauchen Sie?</text>
 		</string>
 		<string id="kostya_sacharov_pda_3">
-			<text>Excellent, thank you!! .. I hope that I can extract the necessary information from it ..\nNow concerning the Teleport .. I'm going to need a Battery artefact in order to adjust this thing properly .. Bring one to me, and I will make the necessary adjustments. Other materials will be required as well .. I already have them here in the Lab, but you will have to pay me for them. I think a hundred thousand roubles should just about cover it .. agreed?</text>
+			<text>Sehr schön. Vielen Dank. Mal sehen.. Ja. das wird mich weiterbringen.. Nun gut, zurück zum Teleporter.\n \nJa wenn du ihn nutzen willst wirst du dafür los. Priorität hat erstmal nur eine Sache. Wir benötigen das Artefakt "Batterie". Mit dem Artefakt kann ich die Anpassungen in dem Gerät vornehmen und die Justierung konfigurieren. Die anderen Bauteile habe ich hier. Allerdings habe ich von den Bauteilen nur sehr wenige Exemplare hier im Lager. Ich könnte sie die für 100.000 Rubel verkaufen?\n \nEinverstanden?</text>
 		</string>
 		<string id="kostya_sacharov_pda_4">
-			<text>Okay, Professor, I will bring you the Battery artefact and the money...</text>
+			<text>Das ist... Einverstanden und sorry Professor. Aber Sie sind schon ein Schlitzohr. Nagut. Das Geld und das Artefakt besorg' ich ihnen.</text>
 		</string>
 		<string id="kostya_sacharov_teleport_0">
-			<text>I've brought you the Battery artefact and the 100,000 rubles...</text>
+			<text>So.. Hier ist das "Batterie" Artefakt und .. oh-man.. 100.000  Rubel.</text>
 		</string>
 		<string id="kostya_sacharov_teleport_1">
-			<text>Now I will make the necessary adjustments to the Device .. Where would you like it to transport you to?..</text>
+			<text>Es ist immer schön mit dir Geschäfte zu machen, mein Sohn. Gut.. dann kann ich meine Lager wieder auffrischen und die fehlenden Teile besorgen.\n \nNun zu dem Teleporter. Anhand von ein paar Unterlagen konnte ich  Das Gerät soweit funktionstüchtig machen. ... Nun noch das Artefakt Sensibilisieren und .. fertig.\n \nAlso Gezeichneter, wohin soll es denn gehen?</text>
 		</string>
 		<string id="kostya_sacharov_teleport_2">
-			<text>To the Bar area..</text>
+			<text>.. Zur Bar</text>
 		</string>
 		<string id="kostya_sacharov_teleport_3">
-			<text>To the Cordon..</text>
+			<text>.. nach Kordon</text>
 		</string>
 		<string id="kostya_sacharov_teleport_4">
-			<text>To Yantar..</text>
+			<text>.. zum Jantar See</text>
 		</string>
 		<string id="kostya_sacharov_teleport_5">
-			<text>Here, take the device, it has been adjusted to meet your specifications. But, I must remind you that a Moonlight artefact is required in order to make use of it .. The destination can fluctuate .. You will teleport to the desired location, but it is not exact. So use it accordingly, with caution, and only under extreme circumstances. Unfortunately, after being used only once, it shuts down...</text>
+			<text>Gut.. Die Einstellungen habe ich vorgenommen. Eins noch. Für die Aktivierung benötigt es die Energie vom "Mondlicht" Artefakt. Da die Energie vom Artefakt "Mondlicht" durch das Gerät entzogen wird und wegen der Teleportation die Energie sich im Gerät entlädt, benötigst du für das Teleportieren immer ein neues "Mondlicht" Artefakt. Bei diesem Prototyp funktionieren die Zielkoordinaten nicht Hundertprozentig. Die Zielmarkierung schwankt so um Siebzehnprozent. Du wirst an den Ort Teleportiert.. dennoch.. benutze das Gerät mit äußerster Vorsicht, da die Genauigkeit in meinen Augen doch sehr schwankt.\n \nEs existiert in dem Gerät keine Batterie für das Bios. Nachdem entladen "vergisst" das Gerät also auch die Einstellungen die man gemacht hatte.</text>
 		</string>
 		<string id="kostya_sacharov_teleport_6">
-			<text>Thanks a lot!! I will put it to good use... One more question before I go: can it be re-activated?!</text>
+			<text>Alles klar. Danke für die Info. Sagen sie? Wie stelle ich den die Einstellungen wieder her?</text>
 		</string>
 		<string id="kostya_sacharov_teleport_7">
-			<text>Certainly I can .. Bring me another 'Battery' artefact, and another 100,000 rubles, and I will adjust it for you .. I will also make another Prototype of the same design if you are interested ...</text>
+			<text>Ja, das ist echt ein Dilemma. Komme zu mir und ich Repariere das Gerät. Dafür benötige ich neue Bauteile, also 100.000 Rubel und ein neues "Batterie" Artefakt. Der Entladung's Prozess in dem Gerät macht die meisten Bauteile kaputt. Ich bin allerdings dabei ein neuen Prototyp zu entwickeln. Dabei versuche ich die Energie Prozesse zu verbessern und zu Optimieren. Die Bauteile bleiben bis auf ein paar identisch.\n \nWenn du interessiert  bist?</text>
 		</string>
 		<string id="kostya_sacharov_teleport_8">
-			<text>This is simply remarkable. What would you require?!</text>
+			<text>Das ist bemerkenswert Professor. Da bin ich dabei. Was brauchen sie?</text>
 		</string>
 		<string id="kostya_sacharov_teleport_9">
-			<text>The same as before .. a Battery artefact, and a hundred thousand rubles .. Science is expensive you know...</text>
+			<text>Danke für deine Unterstützung. Ich brauche dasselbe wie vorher. 100.000 Rubel, also Forschungsgelder und ein "Batterie" Artefakt. Wissenschaft ist Teuer.</text>
 		</string>
 		<string id="kostya_sacharov_teleport_10">
-			<text>So I've noticed... Thanks for your help!!</text>
+			<text>Forschungsgelder... aha.. Hab ich notiert. Das Artefakt vergesse ich auch nicht\n \nBis Später, Professor.</text>
 		</string>
 		<string id="kostya_teleport_0">
-			<text>I need another Teleport. Can you make one for me?</text>
+			<text>Hallo Kostya. Kannst du mir die das Ziel für die Teleportation einstellen.?</text>
 		</string>
 		<string id="kostya_teleport_1">
-			<text>Certainly, for what destination?</text>
+			<text>Na Sicher. Wo willst du hin?</text>
 		</string>
 		<string id="kostya_teleport_2">
-			<text>To the the Bar..</text>
+			<text>.. Zur Bar</text>
 		</string>
 		<string id="kostya_teleport_3">
-			<text>To the the Cordon..</text>
+			<text>.. Kordon</text>
 		</string>
 		<string id="kostya_teleport_4">
-			<text>To Yantar..</text>
+			<text>.. Zum Jantar See</text>
 		</string>
 		<string id="kostya_teleport_5">
-			<text>Do your magic, Professor!!</text>
+			<text>Dann mal los.. </text>
 		</string>
 		<string id="kostya_teleport_6">
-			<text>It's all set to go .. here you are...</text>
+			<text>Alles klar. Hab' das Teil Konfiguriert. Du kannst loslegen.</text>
 		</string>
 		<string id="svalka_yurik_0">
-			<text>They are all dead now...</text>
+			<text>Die sind fertig mit der Welt... alle Tot.</text>
 		</string>
 		<string id="svalka_yurik_1">
-			<text>Thank you! If not for you, this would have ended badly for me...</text>
+			<text>Man alter, vielen Dank. Das wäre ganz schön beschissen für mich ausgegangen...</text>
 		</string>
 		<string id="svalka_yurik_2">
-			<text>Always glad to help out a fellow Stalker - Can you tell me where I can start looking for some artefacts? I'm going to need some for ammo...</text>
+			<text>Ist immer toll einen Bruder aus der Scheiße zu helfen.\n \nSag mal, kannst du mir sagen wo man nach guten Artefakten suchen kann. Munition und Ausrüstung wäre auch nicht verkehrt....</text>
 		</string>
 		<string id="svalka_yurik_3">
-			<text>I overheard one of them say that he has stashed an Artefact nearby the Rookie Village .. somewhere where there are a lot of anomalies .. Not exact information, but it's the best I can do .. Thanks again, Friend..</text>
+			<text>Hm... Ich denke gehört zu haben das die was von einem Versteck sappelten. Irgendwo in der nähe des Anfänger Lagers. Ich Kann dir nicht genau sagen wo, aber dort soll es viele Anomalien geben.. Das ist ales was ich dir sagen kann.\n \nHey und danke nochmal..</text>
 		</string>
 		<string id="svalka_yurik_4">
-			<text>Thanks for the tip, I will take a look around...</text>
+			<text>Super. Danke für den Tip! Ich werde mich da mal umschauen.</text>
 		</string>
 	</string_table>
-<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 29.06.2017 04:09:33 -->
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 03.07.2017 21:35:53 -->

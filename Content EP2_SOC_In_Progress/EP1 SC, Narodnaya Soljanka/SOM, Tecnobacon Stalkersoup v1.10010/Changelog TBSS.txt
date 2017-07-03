@@ -35,6 +35,7 @@ gibt.
 - stable_dialogs_bar
 - stable_dialogs_darkvalley
 - stable_dialogs_deadcity
+- stable_dialogs_escape
 - stable_dialogs_garbage
 
 
@@ -90,7 +91,6 @@ Bei der Flut an Waffen und Zusätzen fehlt die Genauigkeit.
 		- sak_strings_treasure.xml (Aktuell)
 		- stable_treasure_manager (~80%)
 		- aem_strings
-		- stable_dialogs_escape
 		- string_table_enc_ald_weapons (1%)
 		- kontroller_diaries (~30%)
 		- tb3d_dialogs_arhara_start (5%)
