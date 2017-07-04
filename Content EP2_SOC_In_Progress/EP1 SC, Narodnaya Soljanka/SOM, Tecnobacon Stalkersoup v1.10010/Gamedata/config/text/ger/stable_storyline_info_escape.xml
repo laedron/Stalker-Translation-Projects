@@ -2,22 +2,22 @@
 <!-- TB3D 1.1.0.0.0.4 dialog improvements -->
 <!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 21 Jan 16 -->
 		<string id="about_enciclopedia">
-			<text>\n \n \n \n \n \nDies ist die Enzyklopädie. Während des weiteren Spielverlaufs werden hier stets neue Informationen über die Welt, nach Themen sortiert, hinzugefügt.</text>
+			<text>\n \n \n \n \n \nDies ist die Enzyklopädie. Während des weiteren Spielverlaufs werden hier stets neue Informationen über die Welt, nach Themen sortiert, hinzugefügt und angezeigt.</text>
 		</string>
 		<string id="about_pda">
 			<text>Über die Enzyklopädie</text>
 		</string>
 		<string id="Bandit's flash">
-			<text>PDA des Banditen</text>
+			<text>PDA des Banditen von der Alten Autowerkstat</text>
 		</string>
 		<string id="blokpost_case_text">
-			<text>Händler: Geh in den Armeeposten und klau die Tasche mit dem Bericht der Militärexpedition in den Norden der Zone.</text>
+			<text>Händler: Geh zum Armeeposten und klau' die Tasche mit dem Bericht der Militärexpedition, die über Norden der Zone handelt.</text>
 		</string>
 		<string id="Dead novice's flash">
 			<text>PDA des Toten Anfängers</text>
 		</string>
 		<string id="defend_lager_text">
-			<text>Fanatic: Hilf uns, die Söldner abzuwehren, die alle Anfänger aus dem Lager geschickt haben. Der Plan geht so: Alle verstecken sich, dann sieht das Lager leer aus. Wir lassen die Söldner rein und greifen auf Befehl des Hauptmanns an.</text>
+			<text>Fanatic: Hilf uns, die Söldner abzuwehren, die alle Anfänger aus dem Lager vertreiben wolen. Das ist der Plan: Alle verstecken sich, dann sieht das Lager leer aus. Wir lassen die Söldner rein und greifen auf Befehl des Hauptmanns an.</text>
 		</string>
 		<string id="doctor_meet">
 			<text>PDA von "Wegeführer"</text>
@@ -26,49 +26,49 @@
 			<text>Treffen mit dem Doktor</text>
 		</string>
 		<string id="doctor_meet_quest_text">
-			<text>Doktor: Ich warte auf einen Mann, der von "Strelok" zum Versteck kommt, das "Strelok" und seine Männer benutzen. Wenn er unser Mann ist, kennt er den Ort.</text>
+			<text>Doktor: Ich warte auf einen Mann, der von "Strelok" zum Versteck kommt, das "Strelok" und seine Männer benutzten. Wenn er unser Mann ist, kennt er den Ort.</text>
 		</string>
 		<string id="doctor_meet_text">
-			<text>Okay, ich treffe mich mit Ghosts Mann. Ich werde in Streloks Versteck auf ihn warten. Wenn er einer von uns ist, weiß er, wo er mich suchen muss. Doktor.</text>
+			<text>\n \n \n \n \n \nOkay, ich treffe mich mit einem von "Ghost's" Männern. Ich werde in "Strelok's" Versteck auf ihn warten. Wenn er einer von uns ist, weiß er, wo er mich suchen muss. Doktor.</text>
 		</string>
 		<string id="esc_flash_task_descr">
-			<text>\n \n \n \n \n \nEinige Leute, die für Sidorovich arbeiteten, hatten ein Job im Dunklen Tal zu erledigen. Sie kamen nach Kordon\n \nEiner von Ihnen, ein gewisser "Nimble" besitz ein USB Stick mit Informationen. Diesen benötigt Sidorovich. Koste was es wolle... was für ein Typ...Jedenfalls sind sie noch am Bahndamm bei dem Armee Posten vorbeigekommen.\n \nDann hat sich de Spur verloren.. Ich unterhalte mich mit dem Anführer "Wolf". Er könnte was darüber wissen.</text>
+			<text>\n \n \n \n \n \nEinige Leute, die für Sidorovich arbeiteten, hatten ein Job im Dunklen Tal zu erledigen. Sie kamen nach Kordon\n \nEiner von Ihnen, ein gewisser "Nimble" besitz ein USB Stick mit Informationen. Diesen benötigt Sidorovich. Koste was es wolle... was für ein Typ...Jedenfalls sind sie noch am Bahndamm bei dem Armee Posten vorbeigekommen.\n \nDann hat sich die Spur verloren.. Ich unterhalte mich mit dem Anführer "Wolf". Er könnte was darüber wissen.</text>
 		</string>
 		<string id="esc_fox_info">
-			<text>\n \n \n \n \n \n"Seriy" an "Fox": Ein Freund will, dass ich ein paar Stalkern helfe, die Streloks Versteck gefunden haben. Ich geh mit meinen Jungs zum Hangar bei der Müllhalde. Dort kannst du mich finden. </text>
+			<text>\n \n \n \n \n \n"Seriy" an "Fox": Ein Freund will, dass ich ein paar Stalker'n helfe, die Strelok's Versteck gefunden haben. Ich geh mit meinen Jungs zum Hangar bei der Eisebahn Abfertigungs Halle, bei der Müllhalde. Dort kannst du mich finden. </text>
 		</string>
 		<string id="esc_kolyan_lost">
 			<text>\n \n \n \n \n \nGestern wollte ein Bruder die verlassene Mühle erkunden und wir haben seitdem nichts mehr von ihm gehört. Wir müssen dorthin und herausfinden, wohin er verschwunden ist.</text>
 		</string>
 		<string id="factory_dynamit_text">
-			<text>Wolf: Hol das Dynamit, das die Banditen bei der Fabrik gestohlen haben. Zu deiner Unterstützung sind Späher unter der Brücke. Begib dich dorthin und sag "Grüße aus der Unterwelt" - das ist das Passwort. Führe sie in den Kampf.</text>
+			<text>Wolf: Hol' das Dynamit, das die Banditen bei der Fabrik gestohlen haben. Zu deiner Unterstützung sind Späher unter der Brücke. Begib dich dorthin und sag ihnen "Grüße aus der Unterwelt" - das ist dein Erkennung's Spruch. Führe sie in den Kampf mit Stolz.</text>
 		</string>
 		<string id="factory_trader_text">
-			<text>"Wolf": Heb die Banditen bei der Werkstatt mit der Unterstützung meiner Späher hinter der Brücke aus, dann komm zurück und erstatte Bericht.</text>
+			<text>"Wolf": Heb' die Banditen bei der Werkstatt mit der Unterstützung meiner Späher hinter der Brücke aus, dann komm zurück und erstatte Bericht.</text>
 		</string>
 		<string id="Flash dead stalker">
 			<text>PDA des toten Stalker</text>
 		</string>
 		<string id="gunslinger_clan_cache">
-			<text>\n \n \n \n \n \n... bin in die Bude von so einem Kerl gekommen. Ich kann mich an nichts erinnern. Ich habe nur einen PDA hier, auf dem ein Foto eines anderen Kerls ist. Es ist nur eine Nachricht auf dem PDA: Töte Strelok.</text>
+			<text>\n \n \n \n \n \n... bin in die Bude von so einem Kerl gekommen. Ich kann mich an nichts erinnern. Ich habe nur einen PDA hier, auf dem ein Foto ein anderer Kerl ist. Es ist nur eine Nachricht auf dem PDA: Töte Strelok.</text>
 		</string>
 		<string id="help_to_fox">
-			<text>\n \n \n \n \n \nSidorovich hat gerade eine Nachricht geschickt! Anscheinend ist ein Stalker namens "Fox" von einem Überfall aus dem Norden zurückgekehrt, hat aber ernste Schwierigkeiten.\nSidorovich weiß nicht genau, was Fox's Problem ist, aber er schrie etwas von  bösartigen Mutanten.\nIch muss schnell zum verbrannten Haus, Nördlich des Bahndamm's, gegenüber der alten Farm. Er könnte etwas über diesen "Strelok" wissen ...</text>
+			<text>\n \n \n \n \n \nSidorovich hat gerade eine Nachricht geschickt! Anscheinend ist ein Stalker namens "Fox" von einem Überfall aus dem Norden zurückgekehrt, hat aber ernste Schwierigkeiten.\nSidorovich weiß nicht genau, was Fox's Problem ist, aber er schrie etwas von bösartigen Mutanten.\nIch muss schnell zum verbrannten Haus, Nördlich des Bahndamm's, gegenüber der alten Farm. Er könnte etwas über diesen "Strelok" wissen ...</text>
 		</string>
 		<string id="meet_seryi_text">
-			<text>\n \n \n \n \n \nFox will das ich mich mit seinem Bruder "Seriy" treffe. Dieser befindet sich zurzeit bei der Müllhade im grossen Hangar. Der alten Eisenbahn abfertigungs Halle. Seriy weiß mehr über Strelok, glaubt Fox. Ich muss zu ihm hin, solange er noch da ist</text>
+			<text>\n \n \n \n \n \nFox will das ich mich mit seinem Bruder "Seriy" treffe. Dieser befindet sich zurzeit bei der Müllhalde im Großen Hangar. Der alten Eisenbahn Abfertigung's Halle. "Seriy"  weiß mehr über "Strelok". Das meinst jedenfalls "Fox". Ich muss zu ihm hin, solange ich noch den Aufenthalts Ort kenne und er dort ist.</text>
 		</string>
 		<string id="military_case_text">
-			<text>Sidorovich wants us to travel north towards the Garbage, and follow the road west towards the Agroprom Research Institute.\nThere's a Military encampment in this area, and rumours say that there's a case full of important documents that hasn't yet been looted.\nGet to the Agroprom vicinity as fast as possible, and find a way inside the Military HQ to locate the documents.\nAs soon as you have the case, take it to the Barkeep who runs the 100 Rads Bar in the former Rostok area</text>
+			<text>\n \n \n \n \n \nSidorovich will das ich nach Norden zur Müllhalde gehe und dann soll ich mich Westlich halten und der Straße, zum ehemaligen Wissenschaftliches Institut in Agroprom,  folgen.\n \nDort existiert eine eingerichtete Militär Basis. Dort sollen sich Unterlagen befinden die sehr brisant sind da sie Berichte über eine Geheime Expedition enthalten. Ich muss eine Weg in diese Basis finden um an diese Unterlagen zu kommen.\n \nSobald ich sie habe soll ich mich mit dem Wirt von der Bar "100 RAD" in Verbindung setzen.</text>
 		</string>
 		<string id="Seryi flash">
 			<text>Fox's PDA</text>
 		</string>
 		<string id="storyline_fox_flash_info">
-			<text>Tolik's Diary: The trader sent us to spy on the Military in the Agroprom Research Institute. When we got there we took no chances and killed everyone, Bandits and Military alike. We spent some time there and dug out some interesting stuff. I'm encoding the rest...\n(There follows a page of gibberish that may be a code of some sort...)</text>
+			<text>\n \n \n \n \n \nTolik's Tagebuch.:\n"..der Händler beauftragte uns, die dämlichen Stiernacken am Agroprom-Forschungsinstitut auszuspionieren. Wir waren dort und gerieten dabei in einen  Schusswechsel mit einer Streife. Wir haben alle Soldaten  erschossen.\n \nHoffentlich fällt das mit der Streife nicht auf "Mole dem Maulwurf" und seine Gruppe zurück.\n \nWir haben in der Nähe vom Institut ein paar interessante Dinge gefunden. Ich verschlüssele besser den Rest.."</text>
 		</string>
 		<string id="storyline_seryi_info">
-			<text>Seriy to Fox: A guy asked me to meet a group of Stalkers who've sniffed out Strelok's hiding place. I'll be at the Garbage for a while, so come over if you want...</text>
+			<text>\n \n \n \n \n \n"Seriy" an "Fox": Ein Bekannter von mir will sich mit den Stalkern treffen, die "Strelok"s Versteck gesucht haben. Ich warte der "Müllhalde" auf dich. Komm vorbei, wenn du willst.</text>
 		</string>
 		<string id="Tolik flash">
 			<text>Tolik's PDA</text>
@@ -82,4 +82,4 @@
 		<string id="tutorial_secret_place">
 			<text>\n \n \n \n \n \nIch habe einen kleinen Vorrat im Versteck hinter dem Bahndamm hinterlassen. Er enthält etwas Nahrung und Munition. Im Moment bin ich viel zu schwach, um ihn zu tragen. Ich bin mir nicht sicher, ob ich es bis zum Lager der Brüder schaffe.</text>
 		</string>
-<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 12.06.2017 03:24:50 -->
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 03.07.2017 22:43:19 -->
