@@ -39,6 +39,7 @@ gibt.
 - stable_dialogs_garbage
 - stable_dialogs_labx18
 - stable_dialogs_military
+- stable_dialogs_pripyat
 
 
 - stable_storyline_info_aes
@@ -49,6 +50,7 @@ gibt.
 - stable_storyline_info_escape
 - stable_storyline_info_garbage
 - stable_storyline_info_military
+- stable_storyline_info_pripyat
 
 - string_table_general
 
@@ -59,6 +61,7 @@ gibt.
 - string_table_mapspots_escape
 - string_table_mapspots_garbage
 - string_table_mapspots_military
+- string_table_mapspots_pripyat
 
 - string_table_tasks_aes
 - string_table_tasks_agroprom
