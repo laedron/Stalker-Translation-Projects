@@ -2,16 +2,16 @@
 <!-- Translated and corrected by Steve90k for fluency and ease of reading. Edited and proofed by Sword2012 for clarity, brevity, and consistency. 07 Oct 16 -->
 <!-- Corrected many generic punctuation, in-game and US/UK spelling errors - Sword2012 - 12 Dec 16 -->
 <string id="escape_meceniy_start_0">
-	<text>Grüße Sie. Was machen sie hier?</text>
+	<text>Grüße Sie. Was machen sie hier in der Dunklen Ecke?</text>
 </string>
 <string id="escape_meceniy_start_1">
-	<text>Grüße dich. Kannst mich Duzen. Ich war beim Militär. Lass das mal mit "sie". Ich treib ein wenig Handel hier aber mein "Produkt" ist sehr speziell sowie die anderen Sachen die sehr selten und nützliche sind. Ich habe hier einiges was in der Zone wirklich einzigartig ist. Zum Beispiel Psi-Gegenmittel und Impfstoffe.\n \nMarty2Base Item Vergleich Händler <=> was er sagt.</text>
+	<text>Grüße dich. Kannst mich Duzen. Ich war beim Militär also lass das mal mit "Sie". Ich treib' ein wenig Handel hier. Hier in der Ecke ist ein sicherer Platz um nicht gleich über den Haufen geschossen zu werden wenn sich die Leute bekriegen. Gut..  Willst du was kaufen? Mein "Produkte" sind meist sehr speziell und Unique, sowie die anderen Sachen die sehr selten und nützliche sind. Ich habe hier einiges was in der Zone wirklich einzigartig ist. Zum Beispiel Psi-Gegenmittel und Heilmittel aber auch seltene Waffen oder Anzüge. Nicht den Kram den du hier überall findest.</text>
 </string>
 <string id="escape_meceniy_start_2">
-	<text>Nun, ich kann schon verstehen, warum du dich entschieden hast aus der Armee auszutreten. Als Händler macht man hier viel gewinn, wenn man in der Zone sich auf Geschäfte Spezialisiert. Wie ist dein Name? .. Mich nennt einfach "Marked One" .. Ich bin sicher du weißt warum...</text>
+	<text>Beim Militär? Nun, ich kann schon verstehen, warum du dich entschieden hast aus der Armee auszutreten. Als Händler macht man hier viel Gewinn, wenn man in der Zone sich auf Geschäfte Spezialisiert. Wie ist dein Name? .. Mich nennt einfach "Gezeichneter".</text>
 </string>
 <string id="escape_meceniy_start_3">
-	<text>Mein Name ist Akim .. Schön dich zu treffen .. Ja, es war ein verdammt scheiß hartes Leben beim Militär, und die Rente ist nicht viel. Da wird man später richtig über'n Tisch gezogen. Jetzt Kaufe und Verkaufe ich. Manchmal tausche ich auch. Ich schätze die Sachen ein und berechne anhand des Wertes was ich glaube das dieser den Wert hat. Also fang nicht an mit mir zu feilschen. Ich versuch lediglich das benötigte Geld aufzutreiben um aus dieser Hölle zu entkommen.\n \nStalker verkaufen manchmal Artefakte in Form einer Muschel. Diese können Anomalien aktivieren. Schau mal in deinem PDA, da sind bereits ein paar Infos von mir. Ach ja.., ich habe einen Kollegen beim Nördlichen Komplex des Agroprom Forschungsinstitut. Schau mal bei ihm vorbei, er besitzt öfters nützliche Informationen und ist auch ein Händler wie ich. Und.. wenn du ein Job suchst.. such mal den Kerl im "Toten Wald". Der hat sich beim Helikopter niedergelassen.</text>
+	<text>Gezeichneter.. ungewöhnlich... Mein Name ist Akim .. Schön dich zu treffen .. Ja, es war ein verdammt scheiß hartes Leben beim Militär, die Rente ist nicht viel da wird man vom Staat richtig abgezockt.. Da wird man später im hohen Alter richtig über'n Tisch gezogen. Jetzt Kaufe und Verkaufe ich. Manchmal tausche ich auch. Ich schätze und bewerte die Sachen. Ich Berechne die Sachen anhand des Wiederverkaufswert, was ich glaube das dieser den Wert hat und versuche so mit den Leuten eben zu handeln. Ich versuch lediglich das benötigte Geld aufzutreiben um aus dieser Hölle zu entkommen.\n \nVielleicht... ja warum nicht.. Ich sag' dir was. Stalker verkaufen ja manchmal Artefakte in Form einer "Muschel". Diese können Anomalien aktivieren. Schau mal in deinem PDA, da sind bereits ein paar Infos von mir. Ach ja.., ich hab' einen Kollegen beim Nördlichen Komplex des Agroprom Forschungsinstitut. Schau mal bei ihm vorbei, er besitzt öfters nützliche Informationen und ist auch ein Händler wie ich. Und.. wenn du ein Job suchst.. such doch mal den Kerl im "Toten Wald" auf. Der hat sich beim Helikopter niedergelassen.</text>
 </string>
 <string id="arhara_halat_nayti_0">
 	<text>Akim? Hör zu.. Ich habe von einem sehr einzigartigen Anzug gehört der einen Quasi unsichtbar macht während man ihn trägt .. Du Hast doch sicherlich von so einem schon mal gehört?! .. wenn ja, dann erzähl mir bitte mehr darüber!</text>
@@ -44,7 +44,7 @@
 	<text>Grüße dich. Ich bin bekannt als "Adrenalin", der örtliche Händler hier. Ich spezialisiere mich auf einzigartige Gegenstände wie Kapseln, die Anomalien erzeugen. Ich verkaufe auch seltene Seren und Gegenmittel für Psi-bedingte Krankheiten</text>
 </string>
 <string id="escape_adrenalin_start_2">
-	<text>Ah! Ok! Akim in Kordon erzähle mir was über dich. Schöne grüsse von ihm. Wie sind den deine Preise so?</text>
+	<text>Ah! Ok! Akim in Kordon erzähle mir was über dich. Schöne grüße von ihm. Wie sind den deine Preise so?</text>
 </string>
 <string id="escape_adrenalin_start_3">
 	<text>So, so. Akim hat seinen alten Freund nicht vergessen! Meine Preise sind fair, und du wirst auch bemerken, dass die Sachen sehr selten und speziell sind.</text>
@@ -65,7 +65,7 @@
 	<text>Hmm.. was meinst du?</text>
 </string>
 <string id="atp_5">
-	<text>Ich brauche jemanden der den Wissenschaftler in Jantar ein besuch abstattet. Sacharow ist sein Nachname. Erwähne den Militärkommandanten, der mit ihm Geschäfte macht. Ich habe eine Bestellung für eine Minigun die abgeholt werden muss. Schwere Waffe aber ein einfacher Job. Was meinst du?</text>
+	<text>Ich brauche jemanden der den Wissenschaftler in Jantar ein Besuch abstattet. Sacharow ist sein Nachname. Erwähne den Militärkommandanten, der mit ihm Geschäfte macht. Ich habe eine Bestellung für eine Minigun die abgeholt werden muss. Schwere Waffe aber ein einfacher Job. Was meinst du?</text>
 </string>
 <string id="atp_6">
 	<text>Das ist doch ein Wort.. Ich könnte ein gutes Scharfschützengewehr sehr gut gebrauchen. Alles klar. Ich bin dein Mann und ein paar Kilos weniger täten mir auch gut.</text>
@@ -89,13 +89,13 @@
 	<text>Ich bräuchte was zu tun. Hast du irgendwelche Jobs?</text>
 </string>
 <string id="trader_toha_1">
-	<text>Das ist ja mal was.. Ich habe eine Menge Arbeit zu vergeben. Da bist du an die richtige Person geraten. Lass erstmal sehen was du für ein Typ bist? Bring mir 10 Intakte Zombie Hände.</text>
+	<text>Arbeit.. Das ist ja mal was.. Ich habe eine Menge Arbeit zu vergeben. Da bist du an die richtige Person geraten. Lass erstmal sehen aus was für ein Holz du geschnitzt bist? Bring mir 10 intakte Zombie Hände.\n \nAlles klar?</text>
 </string>
 <string id="trader_toha_2">
-	<text>Zombie Hände ... echt jetzt? Damit hab ich nun nicht gerechnet. Dachte mehr an was anderen.</text>
+	<text>Zombie Hände.. echt jetzt? Damit hab ich nun gar nicht gerechnet. Dachte mehr an was anderen.</text>
 </string>
 <string id="trader_toha_3">
-	<text>Tja Stalker! Merkwürdige Welt .. merkwürdige Jobs und du siehst so aus als könntest du das Geld gebrauchen.</text>
+	<text>Stalker! So ist das nun mal. Sieh' es so - Merkwürdige Welt.. merkwürdige Jobs und du siehst so aus als könntest du das Geld gebrauchen.</text>
 </string>
 <string id="trader_toha_4">
 	<text>Sicher ist es eine seltsame Welt, noch merkwürdiger ist, wenn man sich nicht einmal daran erinnern kann, wer man ist ...</text>

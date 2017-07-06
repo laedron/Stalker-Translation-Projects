@@ -684,10 +684,10 @@
 			<text>\n \n \n \n \n \nPetruha benötigt mehr Feuerkraft bei wenig Muntion. Er bat mich um ein "TOZ-34" Jagdgewehr, welches ihm bei der Verteidigung gegen die Banditen und Mutanten, bei der Autowerkstatt, von Nutzen wäre...</text>
 		</string>
 		<string id="artmod_131_dialog_0">
-			<text>Hast du irgendwelche Informationen über - sogenannte Artefakt-Modifikation?</text>
+			<text>Artefakt-Modifikation. Sagt dir das was?</text>
 		</string>
 		<string id="artmod_131_dialog_1">
-			<text>Oh ja - Hatte einen besoffenen Banditen belauscht, wie er rumprallte, das er bald reich wäre... Das man aus einer "Qualle" ein "cooleres" Artefakt machen kann.\n \nWollen wir es versuchen? Wenn du eine "Qualle" besorgst, erzähl ich dir wie es geht...</text>
+			<text>Artefakt-Modifikation? Oh ja - Hatte mal einen besoffenen Banditen belauscht, wie er damit rumprallte, das er bald reich wäre... Der faselte was davon das man aus dem Artefakt "Qualle" ein besseres Artefakt machen kann.\n \nEin paar Einzelheiten dazu hab' ich noch aufgeschnappt.  Wenn du eine "Qualle" besorgst, erzähl' ich dir wie das funktionieren soll...\n \nOkay?</text>
 		</string>
 		<string id="artmod_131_dialog_2">
 			<text>Interessant, lass uns das versuchen...</text>
@@ -771,13 +771,13 @@
 			<text>Hast du gesagt "Danke?" Tut mir leid - ich habe dich nicht gehört. Wie oft habe ich dich von den Toten zurückgebracht?</text>
 		</string>
 		<string id="artmod_211_dialog_1">
-			<text>Schau mich doch an... Ich bin ganz neu hier. Keiner beachtet mich. Und mit einer modifiziertern Waffe wäre ich schon jemand... \n \nGute Munition ist hier kaum aufzutreiben, aber Patronen für PM-Pistolen gibt es wie Sand am Meer. Man erzählt, das ein Waffenmeister aus der Zone die MP5-Maschinenpistolen für solche Patronen umbaut... Ich weiß genau, das ein Stalker, der so eine Maschinenpistole hatte, vor kurzem verreckt ist. Im Eisenbahntunnel, der von der Müllhalde zum Agroprom führt... Kannst du sie mir besorgen?\n \nIch begleiche meine Schuld bestimmt und werde dir über erzählen, wie man z.b ein Artefakt modifiziert.</text>
+			<text>Ich weiß... Aber schau mich doch an... Ich bin noch neu hier. Keiner beachtet mich. Und mit einer modifizierten Waffe wäre ich schon jemand... \n \nGute Munition ist hier kaum aufzutreiben, aber Patronen für PM-Pistolen gibt es wie Sand am Meer. Man erzählt, das ein Waffenmeister aus der Zone die MP5-Maschinenpistolen für solche Patronen umbaut... Ich weiß genau, das ein Stalker, der so eine Maschinenpistole hatte, vor kurzem verreckt ist. Im Eisenbahntunnel, der von der Müllhalde zum Agroprom führt... Kannst du sie mir besorgen?\n \nIch begleiche meine Schulden immer. Ich werde dir erzählen, wie man zum Beispiel ein Artefakt modifiziert.\n \nWie ware das?</text>
 		</string>
 		<string id="artmod_211_dialog_2">
-			<text>Im Tunnel also... Na gut, liegt eh auf meinem Weg.</text>
+			<text>Im Tunnel also... Na gut, Das werde ich mir später ansehen.</text>
 		</string>
 		<string id="artmod_211_dialog_3">
-			<text>Ich verspreche nichts. Wenns klappt, dann klappt...</text>
+			<text>Ich verspreche nichts. Wenn's klappt, dann klappt...</text>
 		</string>
 		<string id="artmod_212_dialog_0">
 			<text>Rate mal, wo ich gewesen bin ...</text>

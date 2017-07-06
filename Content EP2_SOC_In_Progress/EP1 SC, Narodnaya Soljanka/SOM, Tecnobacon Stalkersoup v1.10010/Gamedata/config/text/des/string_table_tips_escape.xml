@@ -16,7 +16,7 @@
 	<text>Gezeichneter, jetzt, wo der Händler allen das "OK" wegen dir gegeben hat, können wir Geschäfte machen. Komm her und lass uns reden.</text>
 </string>
 <string id="escape_fox_quest">
-	<text>Noch ein Wort zu Strelok, Gezeichneter. Ein Stalker ist gerade von einer langen Tour zurück. Er heißt Fuchs. Anscheinend ist es übel gelaufen und er braucht Hilfe. Ein paar komische Viecher haben ihn die ganze Zeit verfolgt, er sagt, er hält nicht mehr lange durch. Der Typ weiß wohl über Strelok Bescheid. Seine Koordinaten schicke ich auf dein PDA. Du beeilst dich besser.</text>
+	<text>\nSidorovich: Also Gezeichneter, wegen Strelok. Ein Stalker namens Fox kommt\nvon einem Überfall zurück. Sieht so aus als hätte er echt ein schwere Zeit\ngehabt und bräuchte Hilfe.\nEr hat irgendwelches Viehzeug am ganzen Körper\nsagt' er.. er wird's nicht lange machen. Er könnte etwas\nüber Strelok wissen.\nDu musst ihn sofort sehen. Her sind die Koordinaten.</text>
 </string>
 <string id="escape_stalker_death">
 	<text>Schwach, Gezeichneter. Die Jungs sind tot, obwohl das nicht an dir liegt aber einige unschuldige Anfänger sind dort gerade überlst in den Toto gegangen. Das passiert in der Zone. Jedenfalls, nach dem du beim Händler warst komm zu mir zurück und dann reden wir übers Geschäft.</text>
@@ -31,7 +31,7 @@
 	<text>Gezeichneter, das Militär hat beim Agroprom-Forschungsinstitut ein paar interessante Sachen ausgegraben. Die möchte ich haben und du wahrscheinlich auch. Hol die Info und geh damit zum Wirt in der 100 Rad's Bar. Die liegt in Rostok be der der alten Fabrik im Norden. Und beeil dich!</text>
 </string>
 <string id="tips_esc_trader_about_anomalies">
-	<text>Vorsicht! Du bist in der nähe einer Anomalie. Benutze deine Bolzen, um ihre Form und Position zu bestimmen. Diese verdammt kleinen Schrauben werden dir icher in Zukunft noch öfter dein Leben retten. </text>
+	<text>\nSidorovich: Denk drüber nach mann. Beim nächsten mal könntest du das sein.. he he. Wie\nauch immer, sei extreme vorsichtig in der nähe von Anomalien. Sobald der Detektor Alarm\nschlägt schnapp' dir die Schraube und wirf sie vor dich hin. Alles klar. Wir sprechen uns noch.</text>
 </string>
 <string id="tips_esc_trader_about_pda">
 	<text>Öffne dein PDA und drücke "Kontakte" oder drücke ($$ACTION_CONTACTS$$). Leute im Umkreis von 250 Metern mit aktivem PDA werden unter Kontakte und auf der Minikarte deines Visors sichtbar. Sie sehen auch deren Gesinnung Ihnen gegenüber, können also auf potentielle Feinde achten. Banditen und Mutanten haben aber in der Regel keinen aktiven PDA (hehe), also Vorsicht!</text>

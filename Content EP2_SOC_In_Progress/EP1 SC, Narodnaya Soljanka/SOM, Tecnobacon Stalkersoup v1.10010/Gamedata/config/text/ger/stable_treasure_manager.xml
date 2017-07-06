@@ -273,7 +273,7 @@
 			<text>Safe unter dem Busch</text>
 		</string>
 		<string id="agr_secret_0019_descr">
-			<text>Sie haben die Truhe unter der Strebe gefunden. Jemand hat sie den ganzen Weg vom Forschungsinstitut hergeschleift. Warten wir, und schnappen wir uns den Glückstreffer.</text>
+			<text>Sie haben die Truhe aus dem Keller des Forschungsinstitut. Jemand hat sie den ganzen Weg vom Forschungsinstitut dorthin unter dem Strommast geschleift. Warten wir, und schnappen wir uns den Fund bei Nacht. Später können wir nachsehen was drin ist.</text>
 		</string>
 		<string id="agr_secret_0019_name">
 			<text>Archivkiste</text>
@@ -459,7 +459,7 @@
 			<text>Geheimversteck</text>
 		</string>
 		<string id="bar_secret_0017_description">
-			<text>Die Truhe mit den Strahlenschutzmitteln ist in einem Rohr in der Arena.</text>
+			<text>Die Truhe mit den Strahlenschutzmitteln habe Ich ein einem Rohr versteckt, das gegenüber beim Eingang der 100Rad Bar liegt.</text>
 		</string>
 		<string id="bar_secret_0017_name">
 			<text>Kleine Truhe</text>
@@ -495,16 +495,16 @@
 			<text>Das Kreuz im Banditenlager</text>
 		</string>
 		<string id="esc_secret_0003_descr">
-			<text>Die Truhe, die von den Banditen geklaut wurde, ist im Keller des zentralen Gebäudes. Mit einer Ablenkung kommen wir dran.</text>
+			<text>Die Truhe, die von den Banditen geklaut wurde, befindet sich im zentralen Gebäudes oben auf dem Dachboden. Mit einer Ablenkung könnten wir rankommen.</text>
 		</string>
 		<string id="esc_secret_0003_name">
 			<text>Lagerhaus der Banditen</text>
 		</string>
 		<string id="esc_secret_0004_descr">
-			<text>Meine Kumpel und ich hatten mit diesen Mistviechern in Uniform zu tun, und ich habe Zeug unter der Brücke vergraben. Da kann es erst mal bleiben.</text>
+			<text>Meine Kumpel und ich hatten es mit diesen Militär Säcken zu tun, und ich habe das Zeug erstmal beim Toten versteckt. Da kann es erst mal bleiben.</text>
 		</string>
 		<string id="esc_secret_0004_name">
-			<text>Unter dem Kreuz</text>
+			<text>Beim Kreuz</text>
 		</string>
 		<string id="esc_secret_0005_descr">
 			<text>Der Rucksack steckt im Keller. Ich komme später wieder - geht gerade nicht.</text>
@@ -525,7 +525,7 @@
 			<text>Behälter im Eisenbahnwaggon</text>
 		</string>
 		<string id="esc_secret_0008_descr">
-			<text>Das Zeug ist gleich unter dem Dach am kleinen Haus an der Brücke versteckt.</text>
+			<text>Das Zeug ist in der Dachspitze versteck. Beim Bauernhof der sich bei der Eisenbahnbrücke befindet.</text>
 		</string>
 		<string id="esc_secret_0008_name">
 			<text>Besitz des Typen</text>
@@ -537,10 +537,10 @@
 			<text>Zeug an der Brücke</text>
 		</string>
 		<string id="esc_secret_0010_descr">
-			<text>Am Lager der Neuen hat es einen Stalker erwischt. Mal sehen, was der dabei hatte.</text>
+			<text>Aus dem Lager der Neuen hat es einen Stalker erwischt. Mal sehen, was der dabei hatte.</text>
 		</string>
 		<string id="esc_secret_0010_name">
-			<text>Der Rucksack ist beim Dorf</text>
+			<text>Rucksack vom Toten Stalker</text>
 		</string>
 		<string id="esc_secret_0011_descr">
 			<text>Lihoi sagt, das geheime Versteck ist im Keller. Er hat zu viel erzählt, also haben wir ihn endgültig zum Schweigen gebracht.</text>
@@ -549,13 +549,13 @@
 			<text>Keller im Dorf</text>
 		</string>
 		<string id="esc_secret_0012_descr">
-			<text>Im Keller ist ein tolles Versteck. Sagte man mir. Ich warte noch ein bisschen dann hol ich mir die Beute und Verstecke den Krempel woanders. Ich trau dem nicht.</text>
+			<text>Aha! Die Beute befindet sich in einem Werkzeugkasten beim im Lager. Die Ruine dort ist schon ein tolles Versteck. Ich warte noch ein wenig bis die Luft rein ist. Dann hol ich mir die Sachen.</text>
 		</string>
 		<string id="esc_secret_0012_name">
 			<text>Ein guter Platz</text>
 		</string>
 		<string id="esc_secret_0013_descr">
-			<text>Worpal sagt, im Keller gibt es ein Geheimversteck. Unsere Männer waren in der Nähe auf Erkundung. Gehen wir nachsehen.</text>
+			<text>Worpal sagt, im Dachboden liegt ein Rucksack mit Beute. Sobald die Typen im Lager Nachts Wache schieben gehen wir nachsehen.</text>
 		</string>
 		<string id="esc_secret_0013_name">
 			<text>Worpals Geheimversteck</text>
@@ -579,7 +579,7 @@
 			<text>Der Räuberkeller</text>
 		</string>
 		<string id="esc_secret_0017_descr">
-			<text>Hab das Inventar im Rohr gefunden, nicht weit von der Farm. Sobald ich meine Zeit abgesessen habe, komme ich bestimmt wieder.</text>
+			<text>Ich habe das Zeug erstmal im Rohr versteckt, nicht weit von der Farm. Sobald ich meine Zeit abgesessen habe, hole ich mir den Kram wieder.</text>
 		</string>
 		<string id="esc_secret_0017_name">
 			<text>Gasrohr</text>
@@ -669,7 +669,7 @@
 			<text>Lagerraum der Strelok-Fraktion</text>
 		</string>
 		<string id="gar_secret_0012_descr">
-			<text>Im Wagen versteckt. Der Lange hat gesagt, da ist ein guter Platz.</text>
+			<text>Der Lange sagte, ein guter Ort für ein Versteck wäre im Wagen.</text>
 		</string>
 		<string id="gar_secret_0012_name">
 			<text>Geheimversteck im Wagen.</text>
@@ -699,7 +699,7 @@
 			<text>Lager im Altmetall</text>
 		</string>
 		<string id="gar_secret_0017_descr">
-			<text>Der Funkchef hat das hier durchgegeben: Rückzug. Hab eine Truhe gefunden, das ganze Extrazeug reingepackt, und bin mit leeren Händen zurück.</text>
+			<text>Hab den Funkchef beim Kampf belauscht und er hatte das hier durchgegeben: Rückzug Leute!. Lass es Dimi.. Die Truhe bleibt erstmal hier. Das ganze Extrazeug holen wir später.. wir müssen hier erstmal weg...</text>
 		</string>
 		<string id="gar_secret_0017_name">
 			<text>Vorräte in der Truhe</text>
@@ -723,7 +723,7 @@
 			<text>Truhe beim schwer bewachten militärischen Posten</text>
 		</string>
 		<string id="gar_secret_0021_descr">
-			<text>Der Schwächling hat angeblich bei der Müllhalde ins Gras gebissen - wir müssen das Zeug finden. Sonst kommen zu viele Leute mit Interesse daran.</text>
+			<text>Der Schwächling hat angeblich bei der Müllhalde ins Gras gebissen - wir müssen das Zeug finden. Bevor die anderen davon Wind bekommen und neugierig werden.</text>
 		</string>
 		<string id="gar_secret_0021_name">
 			<text>Rucksack des Schwächlings</text>
@@ -1221,7 +1221,7 @@
 			<text>Rucksack des Stalkers</text>
 		</string>
 		<string id="val_secret_0012_description">
-			<text>Hab meinen Kram in ein Rohr gestopft. Ich hol ihn später wieder ab.</text>
+			<text>Hab meinen Kram erstmal in ein Rohr gestopft. Ich hole die Sachen später.</text>
 		</string>
 		<string id="val_secret_0012_name">
 			<text>Geheimversteck</text>
@@ -1257,10 +1257,10 @@
 			<text>Geheimversteck hinter dem Rohr</text>
 		</string>
 		<string id="val_secret_0018_description">
-			<text>Hab ein paar Magazine im Stromraum gefunden.</text>
+			<text>Hab ein paar Magazine für schlechte Zeiten im Raum mit den Fräßmaschinen verstaut.</text>
 		</string>
 		<string id="val_secret_0018_name">
-			<text>Geheimversteck im Stromraum</text>
+			<text>Fräßmaschinen Raum</text>
 		</string>
 		<string id="val_secret_0019_description">
 			<text>Wir haben alles, was wir in der Truhe gefunden haben, da gelassen. Wir holen es ab, wenn wir zurückkommen.</text>
@@ -1455,7 +1455,7 @@
 			<text>Box with good</text>
 		</string>
 		<string id="st_found_new_treasure">
-			<text>Informationen über das Versteck</text>
+			<text>PDA Daten von einem Versteck erhalten</text>
 		</string>
 		<string id="marsh_secret_0000_name">
 			<text>Hiding place on bogs</text>
@@ -1735,4 +1735,4 @@
 			<text>Went to a Limansk. To pass then could not, but which that on road sends, have hidden in the same place in red wood</text>
 		</string>
 	</string_table>
-<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 24.04.2017 04:37:54 -->
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 27.05.2017 02:08:51 -->

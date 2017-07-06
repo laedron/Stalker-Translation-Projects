@@ -270,7 +270,7 @@
 			<text>Taktische Weste</text>
 		</string>
 		<string id="enc_item_razgruzka">
-			<text>\n \n%c[255,220,220,100]Bequemlichkeit   : %c[255,1,255,1]\n%c[255,220,220,100]Festigkeitsklasse: %c[255,1,255,1]\n%c[default]\n \nRobuste "Weste" für viele Einsatz Möglichkeiten. Neben der Armee wird diese Weste sehr gern von Söldnern und Stalkern getragen. Alle Außenstehenden Taschen besitzen ein Klettverschluss und sind groß genug für Munition und Medizinische Utensilien. Geeignet für Expeditionen tief in die Zone.</text>
+			<text>\n \n%c[255,220,220,100]Bequemlichkeit®®®: %c[255,1,255,1]n/a \n%c[255,220,220,100]Festigkeitsklasse: %c[255,1,255,1]n/a\n%c[default]\n \nRobuste "Weste" für viele Einsatz Möglichkeiten. Neben der Armee wird diese Weste sehr gern von Söldnern und Stalkern getragen. Alle Außenstehenden Taschen besitzen ein Klettverschluss und sind groß genug für Munition und Medizinische Utensilien. Geeignet für Expeditionen tief in die Zone.</text>
 		</string>
 		<string id="timer">
 			<text>Digitale Armband Uhr</text>

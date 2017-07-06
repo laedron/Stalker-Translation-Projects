@@ -54,31 +54,31 @@
 	<text>Ich frage mich, was der verrückte Typ am Sumpf überhaupt wissen soll, aber ich werde es herausfinden. Ich muss nur auf diese alten Minen aufpassen, die sind so verrostet, dass bestimmt schon das Gewicht einer Schraube ausreicht, um sie auszulösen.</text>
 </string>
 <string id="esc_kostya_taynik1">
-	<text>Versteck in Kordon. Im Holz suchen, in der Nähe der verlassenen Fabrik\n \n \n \n \n \n(*) </text>
+	<text>\n \n \n \n \n \nVersteck in Kordon:\n \nWestlich hinter der Alten Fabrik in einem Dickicht aus Holz und Blätter.</text>
 </string>
 <string id="esc_kostya_taynik2">
-	<text>\n \n \n \n \n \nVersteck in Kordon:\n \nSüd-Östlich von den  Gleisen bei dem Kreuz. Unter einem Tannebaum.</text>
+	<text>\n \n \n \n \n \nVersteck in Kordon:\n \nSüd-Östlich steht eine Tanne von den Gleisen, bei einem Grab mit einem Kreuz.</text>
 </string>
 <string id="esc_kostya_taynik3">
-	<text>Versteck in Kordon. Östlich des Anfänger-Lagers unter einem Haufen Steine\n \n \n \n \n \n(*) </text>
+	<text>\n \n \n \n \n \nVersteck in Kordon:\n \nÖstlich von dem Anfänger-Lager unter einem Haufen Steine, gegenüber einem gflecht aus Metall. </text>
 </string>
 <string id="kostya_kordon_art">
-	<text>Bringe Kostya das "Goldfisch" Artefakt aus der Verlassenen Fabrik.</text>
+	<text>\n \n \n \n \n \nKostya möchte ein "Goldfisch" Artefakt. Er hatte eins in Kordon, bei der Verlassenen Fabrik hinter der eingestürzten Eisenbahnbrücke gesehen.</text>
 </string>
 <string id="kostya_svalka_taynik1">
-	<text>Versteck bei der Müllhalde. Schau neben dem Holz, in der Nähe des  Moores, unter einigen baumelnden Beinen.(*)</text>
+	<text>\n \n \n \n \n \nVersteck bei der Müllhalde:\n \nSuche Östlich beim Wald im Tal, hinter dem Moor unter Baumelnden Beinen.</text>
 </string>
 <string id="kostya_svalka_taynik2">
-	<text>Versteck bei der Müllhalde. Schau bei den Wald in West, hinter dem Parkplatz jenseits des Maschinenfriedhofs.\n \n \n \n \n \n(*) </text>
+	<text>\n \n \n \n \n \nVersteck bei der Müllhalde:\n \nWestlich,  jenseits vom Maschinenfriedhof im Kleinen Wald mit den paar Tannen und Büschen. Hinter den Banditen.</text>
 </string>
 <string id="kostya_svalka_taynik3">
-	<text>Versteck bei der Müllhalde. beim Kran in einer Box, auf einem radioaktiven Haufen in der nähe des Maschinenfriedhofs.\n \n \n \n \n \n(*) </text>
+	<text>\n \n \n \n \n \nVersteck bei der Müllhalde:\n \nNördlich, nahe des Maschinenfriedhofs in einem Kranführerhaus auf dem Radiokativen Berg aus Müll.</text>
 </string>
 <string id="kostya_svalka_taynik4">
-	<text>Versteck bei der Müllhalde. Schau bei einem radioaktiven Haufen Müll, nahe dem Wald, hinten beim. Schau einfach nicht auf den Boden ...(*)</text>
+	<text>\n \n \n \n \n \nVersteck bei der Müllhalde:\n \nNördlich vom Moor durch die abgestorbenen Bäume. Irgendwo auf dem Östlichen Radioaktiven Müllberg. Siehe nicht auf dem Boden.</text>
 </string>
 <string id="kostya_svalka_taynik5">
-	<text>Versteck bei der Müllhalde. Bei einem radioaktive Haufen Müll, in der Nähe des Wächer Posten.\n \n \n \n \n \n(*) </text>
+	<text>\n \n \n \n \n \nVersteck bei der Müllhalde:\n \nIrgendwo auf dem Radioaktiven Müllberg. Südlich dem Wächterposten, gegenüber der zwei grossen Gebäude.</text>
 </string>
 <string id="kostya_x18_taynik1">
 	<text>Versteck beim Labor X-18. Halte nach einem alten Safe ausschau.(*)</text>
@@ -182,4 +182,4 @@
 <string id="sacharov_teleport">
 	<text>Sakharov benötigt das Artefakt "Batterie" um den Teleporter zu Konfigurieren.</text>
 </string>
-<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 04.07.2017 07:03:12 -->
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 06.07.2017 04:58:49 -->

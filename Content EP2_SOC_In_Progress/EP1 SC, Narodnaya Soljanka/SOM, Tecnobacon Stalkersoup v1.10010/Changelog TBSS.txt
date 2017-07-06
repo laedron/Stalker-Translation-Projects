@@ -48,6 +48,7 @@ gibt.
 - stable_storyline_info_darkvalley
 - stable_storyline_info_escape
 - stable_storyline_info_garbage
+- stable_storyline_info_military
 
 - string_table_general
 
@@ -57,6 +58,7 @@ gibt.
 - string_table_mapspots_darkvalley
 - string_table_mapspots_escape
 - string_table_mapspots_garbage
+- string_table_mapspots_military
 
 - string_table_tasks_aes
 - string_table_tasks_agroprom
@@ -65,6 +67,7 @@ gibt.
 - string_table_tasks_deadcity
 - string_table_tasks_escape
 - string_table_tasks_garbage
+- string_table_tasks_military
 
 - string_table_timer
 
@@ -74,6 +77,7 @@ gibt.
 - string_table_tips_darkvalley
 - string_table_tips_escape
 - string_table_tips_garbage
+- string_table_tips_military
 
 - string_table_tutorial
 
@@ -118,6 +122,9 @@ Bei der Flut an Waffen und Zusätzen fehlt die Genauigkeit.
 			config\weapons\dmx_mod\w_gaussspas12.ltx
 			Recoil Geschwindigkeit verringert, (sieht unmögllich aus), Position/Zoom angepasst
 
+			config\weapons\dmx_mod\w_ump45.ltx
+			Removed Scope, this is a not normal "permanent" stupid scope.
+			
 		* Minimale Details "die dre rede nicht wert sind" für die geänderten Waffen finden
 		sich in den Configs selber
 		

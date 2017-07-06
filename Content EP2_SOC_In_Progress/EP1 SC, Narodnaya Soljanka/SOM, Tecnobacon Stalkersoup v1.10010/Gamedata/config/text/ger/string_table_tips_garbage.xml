@@ -13,7 +13,7 @@
 	<text>Lass sie näher heran, dann entkommt keiner. Ich schieße zuerst, dann du.</text>
 </string>
 <string id="gar_dolg_blokpost_warning">
-	<text>Stalker, du betrittst ein Gebiet, das von den "Wächtern" kontrolliert wird. Jeder Versuch unsere Leute anzugreifen wird mit dem Tod bestraft.</text>
+	<text>\nWächter: Stalker, du bist im Territorium der Wächter.\nJeder versuch unsere Leute anzugreifen wird schwer bestraft.</text>
 </string>
 <string id="gar_dolg_monster_rush">
 	<text>Achtung!! Hier ist der Wächterposten. Eine Horde Mutanten bewegt sich vom Dunklen Tal in Richtung Bar. Wer uns hilft, die Monster aufzuhalten, wird es nicht bereuen.</text>
@@ -22,9 +22,9 @@
 	<text>Du bist auf Wächter-Gebiet, Stalker. Wenn du Scheiße baust, lutschst du für den Rest deines Lebens am Strohhalm.</text>
 </string>
 <string id="gar_hellcar_victory">
-	<text>Gut gemacht, meine Herren, alle erwischt. Jungs, macht mal Pause. Und du, Stalker, komm mal her. Reden wir.</text>
+	<text>Gute Arbeit Jung's, wir haben sie ausgelöscht. Ruht euch etwas aus und du Stalker. Komm' mit mir. Wir sollten uns unterhalten.</text>
 </string>
 <string id="tips_gar_hellcar_alarm">
-	<text>Leute, hier spricht der Kommandant einer neutralen Fraktion. Wir haben die Banditen aus dem verlassenen Fuhrpark vertrieben, aber sie werden zurückschlagen wollen. Wir sind wenige, wenn ihr also helfen wollt, ist bei uns genug Platz.</text>
+	<text>\nBes: Leute, hier spricht der Kommandant der neutralen Truppe. Wir haben die Banditen\nvon dem Schrottplatz mit den anderen Maschinen vertrieben. Ein Gegenangriff ist\nWahrscheinlich. Wir könnten noch ein paar Männer gebrauchen. Jede Hilfe wird\ndankend angenommen.</text>
 </string>
 <!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 17.04.2017 08:12:41 -->

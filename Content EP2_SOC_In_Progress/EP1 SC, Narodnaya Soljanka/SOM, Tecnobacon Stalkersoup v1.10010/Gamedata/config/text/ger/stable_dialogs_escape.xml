@@ -25,7 +25,7 @@
 			<text>Im Moment hab ich gar nichts flüssiges bei mir...</text>
 		</string>
 		<string id="esc_bridge_soldiers_start_25">
-			<text>Tja! .. Dann, dreh um. Wenn du was hast, kannst ja wiederkommen. Und versuch es erst gar nicht, dich an uns vorbei zu schleichen. Denn, dann sind wir gezwungen auf dich zu schie?en. Absprachen hin oder her.</text>
+			<text>Tja! .. Dann, dreh um. Wenn du was hast, kannst ja wiederkommen. Und versuch es erst gar nicht, dich an uns vorbei zu schleichen. Denn, dann sind wir gezwungen auf dich zu schießen. Absprachen hin oder her.</text>
 		</string>
 		<string id="esc_lager_no_talk_11">
 			<text>Verschwinde von hier, Penner. Sonst helfen wir nach.</text>
@@ -61,7 +61,7 @@
 			<text>Ja, schon. Kriegst du aber nicht. Brauche ich noch selber.</text>
 		</string>
 		<string id="esc_provodnik_start_26">
-			<text>Danke dir! Eine tolle Waffe. Hor gut zu...\n \nDer Doktor ist in "Strelok"s Versteck. Wenn du der bist, wer du zu sein vorgibst, dann solltest du wissen, wo das ist.\n \nEs gibt hier einen direkten Weg nach Agroprom - geh über die Strasse, an der Farm und dem Tunnel vorbei, da siehst du 2 Felsen. Dazwischen gibts einen Pfad, der fuhrt dich direkt zu den Katakomben. Viel Gluck.</text>
+			<text>Danke dir! Eine tolle Waffe. Hör gut zu...\n \nDer Doktor ist in "Strelok"s Versteck. Wenn du der bist, wer du zu sein scheinst, dann solltest du wissen, wo das ist.\n \nEs gibt hier einen direkten Weg nach Agroprom - geh über die Strasse, an der Farm und den Tunnel vorbei, da siehst du 2 Felsen. Dazwischen gibts einen Pfad, der fuhrt dich direkt zu den Katakomben. Viel Glück.</text>
 		</string>
 		<string id="esc_provodnik_start_27">
 			<text>Dann. Geh und treff dich mit dem Doktor.</text>
@@ -181,10 +181,10 @@
 			<text>Ich habe es mir anders überlegt. Danke.</text>
 		</string>
 		<string id="escape_fox_hello_dialog_3">
-			<text>Danke.. So - du hast meine Aufmerksamkeit. Also Was gibts?</text>
+			<text>Mann, vielen dank. Lange hätte ich es nicht mehr gemacht. Vor allem wegen den Hunden dort hinten in der Nähe. War nur eine Frage der Zeit bis die mich gewittert hätten.</text>
 		</string>
 		<string id="escape_fox_hello_dialog_31">
-			<text>Also eigentlich weiß ich nicht, wie ich heiße. In Moment nennt man mich "Gezeichneter". Der Händler im Dorf hat mir gesagt, dass du vielleicht etwas über "Strelok" weißt. Wenn es so ist, so wäre es nett, wenn du mir etwas über ihn erzählst.</text>
+			<text>Kein Problem. Sidorovich hatte mir Bescheid gesagt. Er hatte deine Koordinaten empfangen und gab sie an mich weiter. Er meinte du wüsstest was wegen einem gewissen Kerl namens "Strelok"</text>
 		</string>
 		<string id="escape_fox_hello_dialog_311">
 			<text>Warum interessiert sich in letzter Zeit jeder so sehr für ihn? Gut, ich kann nicht behaupten, dass ich ihn persönlich kenne. Wir haben jedoch "kommuniziert" - meine Jungs haben mal ein paar Blicke auf ihn werfen können. Niemand wurde verletzt - es war klar, dass seine Gruppe auf jemand anderes gewartet hatte, daher gingen wir in Frieden auseinander, verfluchten uns gegenseitig über eine Schlucht hinweg und gingen unsere eigenen Wege. \n \n"Seriy", mein Bruder, treibt sich jetzt im Dunklen Tal rum - ich geb dir seine Koordinaten, damit ihr zwei mal plauschen könnt. Er weiß mehr über "Strelok". \n \nSei auf dem Weg dahin vorsichtig - eine kleine Bande hat sich in nördlich von hier angesiedelt. Und außerdem verfolgen mich ein paar Monster, und sie scheinen noch nicht aufgegeben zu haben. Würde es dir was ausmachen, mir mit denen behilflich zu sein? Ein Kinderspiel, ehrlich.</text>
@@ -385,7 +385,7 @@
 			<text>Und, wie läuft's?</text>
 		</string>
 		<string id="escape_lager_volk_talk_211">
-			<text>Deine Jungs und ich haben die Situation in der Autowerkstatt im Griff. Nimble wurde befreit..</text>
+			<text>Deine Jungs und ich haben die Situation bei der Autowerkstatt im Griff. Nimble wurde befreit..</text>
 		</string>
 		<string id="escape_lager_volk_talk_2111">
 			<text>Schon erstaunlich!\n \nMir wurde schon mitgeteilt das ihr die Situation gemeistert habt. Du gehörst anscheinend nicht gerade zu den durchschnittlichen Anfängern und hast was auf den Kasten.. Hier, nimm - das ist meine persönliche Belohnung für dich..\n \nWenn du dir was in Zukunft verdienen willst, komme zu mir. Ich habe vielleicht den einen oder anderen Job für dich.</text>
@@ -522,7 +522,7 @@
 			<text>Hör zu, Gezeichneter. Ich hab nachgedacht. Das ist mein Angebot: Ganz allgemein gesprochen, musst du vor allem "Strelok" finden, stimmt's?</text>
 		</string>
 		<string id="escape_trader_jobs_61">
-			<text>Gehen wir einfach davon aus, dass es so ist.</text>
+			<text>Stimmt und gehen wir einfach mal davon aus, dass es so ist. Hast du was über ihn?</text>
 		</string>
 		<string id="escape_trader_jobs_611">
 			<text>Das gibt's über Strelok zu sagen.\n \nEs gibt einen Stalker dieses Namens. Man sagt, er hätte einen Weg in die nördlichen Bereiche der Zone gefunden. Das ist jungfräuliches Gebiet, eine wahre Goldgrube voller Artefakte. Ja ... Wie dem auch sei, ich kann dir helfen, ihn zu finden. Aber du kannst dir sicher vorstellen, dass das nicht umsonst ist.\n \nDu wirst es abarbeiten müssen. Aber auf lange Sicht profitieren wir beide davon: Du entsorgst diesen Strelok-Typen und findest heraus, was mit dir passiert ist und ich ... Nun ja, ich bekomme meinen Teil unseres gemeinsamen Profits ... He he ... Also, was sagst du? Deal?</text>
@@ -531,10 +531,10 @@
 			<text>Erzähle weiter.</text>
 		</string>
 		<string id="escape_trader_jobs_61111">
-			<text>Also gut.. In Ordnung, hör zu. Du bist auf Geschäfte aus, das kann ich sehen. Und ich... ich meine, wir brauchen Typen wie dich. Wir versuchen uns grad mit anderen Händlern zusammen an einer Untersuchung.\n \nWir wollen eine Route in den Norden eröffnen, direkt ins Zentrum der Zone. Aber irgendjemand - oder etwas - in der Nähe des Zentrum's versucht uns aufzuhalten. Ich hab keine Ahnung, wie zum Teufel dieser "Strelok" es geschafft hat, da durch zu schleichen.\n \nEs gibt da dieses Gebiet, in dem dein Hirn zu kochen anfängt. Echt unheimlich da.. Na ja, um die Sache kurz zu machen - Ein paar Jungs haben diese Stiernacken für mich ausspioniert, nicht weit von hier. Anscheinend haben sie drüben in dem Agroprom-Forschungsinstitut etwas herausgefunden.\n \nEtwas großes! Ich bin mir sicher, dass es mit dem Zentrum der Zone zu tun hat. Aber egal, was auch immer sie herausgefunden haben. Es wird irgendwo im zweiten Stock des Instituts unter Verschluss gehalten. Und wir brauchen das Zeug wirklich dringend. Verstehen wir uns?</text>
+			<text>In Ordnung, hör zu. Du bist auf Geschäfte aus, das kann ich sehen. Und ich... ich meine, wir brauchen Typen wie dich. Wir versuchen uns grad mit anderen Händlern zusammen an einer Untersuchung.\n \nWir wollen eine Route in den Norden eröffnen, direkt ins Zentrum der Zone. Aber irgendjemand - oder etwas - in der Nähe des Zentrum's versucht uns aufzuhalten. Ich hab keine Ahnung, wie zum Teufel dieser "Strelok" es geschafft hat, da durch zu schleichen.\n \nEs gibt da dieses Gebiet, in dem dein Hirn zu kochen anfängt. Echt unheimlich da.. Na ja, um die Sache kurz zu machen - Ein paar Jungs haben diese Stiernacken für mich ausspioniert, nicht weit von hier. Anscheinend haben sie drüben in dem Agroprom-Forschungsinstitut etwas herausgefunden.\n \nEtwas großes! Ich bin mir sicher, dass es mit dem Zentrum der Zone zu tun hat. Aber egal, was auch immer sie herausgefunden haben. Es wird irgendwo im zweiten Stock des Instituts unter Verschluss gehalten. Und wir brauchen das Zeug wirklich dringend. Verstehen wir uns?</text>
 		</string>
 		<string id="escape_trader_jobs_611111">
-			<text>Soweit alles gut. Wenn das ein Militär Komplex ist? Wie sieht es mit der bewachung aus. Dort wird doch bestimmt alles strengstens bewacht..</text>
+			<text>Sicher. Soweit alles klar. Das Militär? Was die wohl herausgefunden haben? Das wird nicht einfach. Die Akte..</text>
 		</string>
 		<string id="escape_trader_jobs_6111111">
 			<text>Wenn du die Aktenmappe hast, bring sie ja nicht hierher. Bring sie direkt zum Wirt. Er betreibt die Stalker-Bar, das "100 Rad". Ich lade dir die Koordinaten auf deinen PDA. Alles klar?</text>
@@ -543,7 +543,7 @@
 			<text>Ok. Eins noch.. Was ist der schnellste weg.</text>
 		</string>
 		<string id="escape_trader_jobs_611111111">
-			<text>Du musst nach Norden gehen, über die Müllhalde und danach in Richtung Westen. Nach ein paar Kilometern kommst du zum Agroprom-Forschungsinstitut.\n \nSei vorsichtig, das Strahlenniveau auf der Müllhalde ist wahnsinnig hoch. Du solltest also irgendwas zum Dekontaminieren schlucken. Oder wenigstens ein bisschen Wodka... He He.. Viel Glück.</text>
+			<text>Du musst nach Norden gehen, über die Müllhalde und danach in Richtung Westen. Nach ein paar Kilometern kommst du zum Agroprom-Forschungsinstitut.\n \nSei vorsichtig, das Strahlenniveau ist auf der Müllhalde ist wahnsinnig hoch. Du solltest also irgendwas zum Dekontaminieren schlucken. Oder wenigstens ein bisschen Wodka... He He.. Viel Glück.</text>
 		</string>
 		<string id="escape_trader_start_dialog_111">
 			<text>Ich hab einen Job für dich, Gezeichneter: Ich will, dass du einen Stalker namens Nimble findest. Er hatte einige äußerst wichtige Informationen bei sich. In der Nähe der Brücke ist er verschwunden. Finde ihn, ob tot oder lebendig ist mir vollkommen egal. Ich brauche den Datenträger mit der Info! Geh zu Wolf im örtlichen Lager und frag ihn. Er weiß mit Sicherheit, wo der Typ sein kann.</text>
@@ -651,10 +651,10 @@
 			<text>Was für ein Gefallen?</text>
 		</string>
 		<string id="escape_trader_start_dialog_52">
-			<text>Ich habe "Nimble"'s USB Stick für dich..</text>
+			<text>Ja, Nimble ist frei. Wurde von den Banditen entführt.</text>
 		</string>
 		<string id="escape_trader_start_dialog_52111">
-			<text>Wo ist der Speicherstick mit den Informationen?</text>
+			<text>Und.. wo ist der Speicherstick mit den Informationen?</text>
 		</string>
 		<string id="escape_trader_start_dialog_521111">
 			<text>Hier.</text>
@@ -888,7 +888,7 @@
 			<text>Du lachst, Mann.. Ich bin den Rucksack los..</text>
 		</string>
 		<string id="escape_shustryi_story_0">
-			<text>Was machst du? Kannst du mir erzählen?</text>
+			<text>Was machst du so? Erzähl doch mal?</text>
 		</string>
 		<string id="escape_shustryi_story_1">
 			<text>Ich? Ich erledige für Sidorovich die Drecksarbeit und kümmere mich halt um "belange" hier in der Zone. Nun.. Sofern das möglich ist.  Hier und da trifft man auch den ein oder anderen.\n \nBist du schon mal einem Telepathen über den Weg gelaufen? Ich hatte mal von einem gehört, das wirst du nicht glauben. Pass auf:\n \nIn den Wäldern,  die die PSI Emitter umgeben, gab es einen Telepathen. Der war  anders als die anderen Telepathen. Die Stalker berichteten, das der Telepath immer die Flucht ergriff, wenn auf ihn geschossen wurde. Wiederum hatte er sich aber auch Verteidigt. Die Mentale Kraft soll enorm stark gewesen sein und besaß eine viel grössere Reichweite als andere Telepathen.\n \nALs man ihn beobachtete, stellte sich immer mehr raus das dieser Controller eher.. gutmütig war und.. irgendwie in Ruhe gelassen werden wollte. Erweckte jedenfalls den anschein.. Es gab da mal eine "Säuberungs Aktion", die vom Militär aus ging. Es hatten sich einfach zu viele Mutierte Hunde und andere Mutanten dort entwickelt. Bevor es übergriffe von seiner grossen  Mutanten Population gebe, durchkämmte das Militär den Wald und die  Killten jeden Mutanten den sie trafen. Den Gerüchten zufolge soll wohl ein Blindenhund-Welpe überlebt haben.. - Das diese Viecher nachkommen haben können, das grenzt schon ein wenig an Grausamkeit. Wie dem auch sei.. Man erzählt sich das der Controller das Massaker überlebt hatte und anscheinend diesen Welpen fand. Denn, man hatte beobachtet das der Mutierte Blindenhund immer an der Seite des Telepathen nun war. Teilte mit ihm das Futter. Zog ihn auf..  Kannst du dir das vorstellen? Ein gutmütiger Telepath?</text>
@@ -1083,13 +1083,13 @@
 			<text>Ich habe es geschafft, mehr oder weniger mit der Hilfe von Wolf's Leuten, eine Gruppe von Banditen in der alten Autowerkstatt zu killen. Nur Glück, wirklich.. Ich brauche unbedingt eine bessere  Ausrüstung... So schnell wie möglich!!</text>
 		</string>
 		<string id="escape_kostya_taynik1_9">
-			<text>Lass dich von Sidorovich nicht verarschen.. Er ist nicht der einzige der Jobs zu vergeben hat. Kannst auch bessere Ausrüstung und Rubel bei den anderen Jungs machen.\n \nApropo Banditen.. Ich habe da Informationen über ein Versteck. Das einem Banditen gehört.  Wenn du Bock hast.. diese Versteck zu finden und mir den Kram bringst machen wir Fifty-Fifty.\n \nNa? Wie klingt das für dich Bruder!?</text>
+			<text>Lass dich von Sidorovich nicht verarschen.. Er ist nicht der einzige der Jobs zu vergeben hat. Kannst auch bessere Ausrüstung und Rubel bei den anderen Jungs machen.\n \nApropo Banditen.. Ich habe da Informationen über ein Versteck. Das einem Banditen gehört.  Wenn du Bock hast.. dieses Versteck zu finden und mir den Kram bringst machen wir Fifty-Fifty.\n \nNa? Wie klingt das für dich Bruder!?</text>
 		</string>
 		<string id="escape_kostya_taynik1_10">
 			<text>Sicher, wo ist dieses Versteck?!</text>
 		</string>
 		<string id="escape_kostya_taynik1_11">
-			<text>Ich schieb dir die Koordinaten auf dein PDA. Ich muss einige Leute  bei der Müllhalde treffen. Also wenn du alles hast komm dorthin. Ich bin dann noch eine Weile dort...</text>
+			<text>Es ist nicht mehr als ein Hinweis. Diesen übertrage ich auf dein PDA. Den Hinweis findest du bei deinen Aufgaben. Ich muss einige Leute bei der Müllhalde treffen. Also wenn du alles hast komm' dorthin. Ich bin noch eine Weile dort...</text>
 		</string>
 		<string id="escape_kostya_taynik1_12">
 			<text>Alles klar, das hört sich gut an.. Danke!</text>
@@ -1101,10 +1101,10 @@
 			<text>Wovon zum Geier Sprichst du?  Was ist passiert!?</text>
 		</string>
 		<string id="escape_trader_sidor_2">
-			<text>Du schickst mich um Nimble zu retten. Ok mit einer Handvoll Jungs von Fox aber mit so einer Billigen Makarov und bisschen Mun.. Die Autowerkstatt war voll von den Mitkerlen und die hatten allemal mehr Feuerkraft. </text>
+			<text>Du schickst mich um Nimble zu retten. Ok.. mit einer Handvoll Jungs von Wolf aber mit so beschissenen Billigen Makarov und bisschen Mun.. Die Autowerkstatt war voll von den Mitkerlen und die hatten allemal mehr Feuerkraft. </text>
 		</string>
 		<string id="escape_trader_sidor_3">
-			<text>Hör zu Gezeichneter.. und höre verdammt gut zu.\n \nHier gibt es keine leichten Jobs. Du willst Arbeit.. ich gebe dir Arbeit. Die ist nicht einfach und wenn du dich eben wie ein Volltrottel benimmst dann stirbst du hier. Du bist hier mit nichts als deinen Klamotten aufgewacht und wir machten ein Deal den DU akzeptierst hast.. vergiss das bloß nicht.\n \Es sei du willst zu dem Scheiß Todeslaster zurück. Keine Sorge das kann ich veranlassen. Es gibt hier eine Menge Typen dir die so ganz und gar nicht vertrauen. Die wollen dich immer noch Tot sehen weil die in ihrem Wahn denken das du so ein verschissener Zombie wärst. Also piss mir nicht ans Bein.. und seh' zu das du deine Aufträge erledigst.</text>
+			<text>Hör zu Gezeichneter.. und höre verdammt gut zu.\n \nHier gibt es keine leichten Jobs. Du willst Arbeit.. ich gebe dir Arbeit. Die ist nicht einfach und wenn du dich eben wie ein Volltrottel benimmst dann stirbst du hier. Du bist hier mit nichts als deinen Klamotten aufgewacht und wir machten ein Deal den DU akzeptierst hast.. vergiss das bloß nicht.\n \nEs sei du willst zu dem Scheiß Todeslaster zurück. Keine Sorge das kann ich veranlassen. Es gibt hier eine Menge Typen dir die so ganz und gar nicht vertrauen. Die wollen dich immer noch Tot sehen weil die in ihrem Wahn denken das du so ein verschissener Zombie wärst. Also piss mir nicht ans Bein.. und seh' zu das du deine Aufträge erledigst.</text>
 		</string>
 		<string id="escape_trader_sidor_4">
 			<text>Na gut.. Du könntest mir dennoch eine bessere Waffe geben?</text>
@@ -1116,7 +1116,7 @@
 			<text>Dann muss ich mir eben bessere Waffen suchen. Mich beschleicht schon das Gefühl das du mich mit den billigen Waffen irgendwie um die Ecke bringen willst.</text>
 		</string>
 		<string id="escape_trader_sidor_7">
-			<text>Quatsch... Aber das ist deine Sache wir du darüber denkst. Es kommt eben darauf an wie du dich gegenüber der Waffe verhältst. Gezeichneter! Halte die Makarov richtig, behalte die Munition im Auge und gewinne an Erfahrung sowie an Praxis. Dann wird das schon.</text>
+			<text>Quatsch... Aber das ist dein ding wie du darüber denkst. Es kommt eben darauf an wie du dich gegenüber der Waffe verhältst. Gezeichneter! Halte die Makarov richtig, behalte die Munition im Auge und gewinne an Erfahrung sowie an Praxis. Dann wird das schon.</text>
 		</string>
 		<string id="escape_trader_sidor_8">
 			<text>Ok Sidorovich, lassen wir das. Anderes Thema.</text>
@@ -1143,19 +1143,19 @@
 			<text>Auf jeden Fall gute Beute.. Der PDA scheint dir wichtig zu sein?</text>
 		</string>
 		<string id="kostya_taynik_7">
-			<text>Sicher..Sicher! Warte mal? Ich habe da noch ein anderen Job für dich. Ich benötige ein Spezielles "Goldfisch" Artefakt. Interesse?</text>
+			<text>Sicher..Sicher! Warte mal? Ich habe da noch ein anderen Job für dich. Ich benötige ein "Goldfisch" Artefakt. Interesse?</text>
 		</string>
 		<string id="kostya_taynik_8">
 			<text>Sicher, warum nicht. Sobald ich ein's gefunden habe bringe ich es dir. Ok?</text>
 		</string>
 		<string id="kostya_taynik_9">
-			<text>Da musst du nicht lange suchen. Ich weiß wo eins zu finden ist. Komme aber gerade nicht selbst dorthin. Es liegt in Kordon, bei der Verlassen Autowerkstatt.\n \n \n \n \n \n(*)</text>
+			<text>Ach, da musst du nicht lange suchen. Ich weiß wo eins zu finden ist. Komme aber gerade nicht selbst dorthin. Ich weiß, eins hatte ich gesehen. Es liegt in Kordon, Bei der Verlassenen Fabrik hinter der eingestürzten Eisenbahnbrücke.</text>
 		</string>
 		<string id="kostya_taynik_10">
-			<text>Noch besser. Ok Kostya bis denn...</text>
+			<text>Noch besser. Dann muss ich nicht lange suchen.\n \nOk, Kostya bis denn..</text>
 		</string>
 		<string id="kostya_taynik_11">
-			<text>Hier ist das Spezielle "Goldfisch" Artefakt was du haben willst.</text>
+			<text>Hier ist das "Goldfisch" Artefakt was du haben willst.</text>
 		</string>
 		<string id="kostya_taynik_12">
 			<text>Gut gemacht! Vielen Dank!!</text>
@@ -1176,7 +1176,7 @@
 			<text>Im Prinzip nicht. So ein bisschen Radioaktivität.. geht schon.</text>
 		</string>
 		<string id="kostya_svalka_taynik_5">
-			<text>OK, ich übertrage dir die Koordinaten. Ist nicht dringend. Wenn du Zeit hast schau mal dort vorbei. Dennoch. laß dir nicht Zuviel Zeit.</text>
+			<text>OK, ich übertrage dir die Hinweise. Ist nicht dringend. Wenn du Zeit hast schau mal dort vorbei. Dennoch. laß dir nicht Zuviel Zeit.</text>
 		</string>
 		<string id="kostya_svalka_taynik_6">
 			<text>Was es auch ist. Bin bald wieder da...</text>
@@ -1462,7 +1462,7 @@
 			<text>Alles klar. Hab' das Teil Konfiguriert. Du kannst loslegen.</text>
 		</string>
 		<string id="svalka_yurik_0">
-			<text>Die sind fertig mit der Welt... alle Tot.</text>
+			<text>Da hast du nochmal Glück gehabt das ich vorbeigekommen bin. Die sind fertig mit der Welt... alle Tot.</text>
 		</string>
 		<string id="svalka_yurik_1">
 			<text>Man alter, vielen Dank. Das wäre ganz schön beschissen für mich ausgegangen...</text>
@@ -1471,7 +1471,7 @@
 			<text>Ist immer toll einen Bruder aus der Scheiße zu helfen.\n \nSag mal, kannst du mir sagen wo man nach guten Artefakten suchen kann. Munition und Ausrüstung wäre auch nicht verkehrt....</text>
 		</string>
 		<string id="svalka_yurik_3">
-			<text>Hm... Ich denke gehört zu haben das die was von einem Versteck sappelten. Irgendwo in der nähe des Anfänger Lagers. Ich Kann dir nicht genau sagen wo, aber dort soll es viele Anomalien geben.. Das ist ales was ich dir sagen kann.\n \nHey und danke nochmal..</text>
+			<text>Hm... Ich denke gehört zu haben das die was von einem Versteck sappelten. Irgendwo in der nähe des Anfänger Lagers. Ich Kann dir nicht genau sagen wo, aber dort soll es viele Anomalien geben.. Das ist alles was ich dir sagen kann.\n \nHey und danke nochmal..</text>
 		</string>
 		<string id="svalka_yurik_4">
 			<text>Super. Danke für den Tip! Ich werde mich da mal umschauen.</text>
