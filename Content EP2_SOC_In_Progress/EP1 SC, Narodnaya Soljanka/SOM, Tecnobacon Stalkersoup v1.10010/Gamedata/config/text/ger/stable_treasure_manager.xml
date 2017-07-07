@@ -324,7 +324,7 @@
 			<text>Gute Truhe für kleine Dinge. In so einer Truhe hatte ich zu Hause mein Werkzeug für Metallarbeiten.</text>
 		</string>
 		<string id="agr_secret_0027_name">
-			<text>Metallarbeiteninventar</text>
+			<text>Metallarbeiterinventar</text>
 		</string>
 		<string id="agr_u_secret_0000_descr">
 			<text>Die Banditen verstecken etwas unter dem Rohr. Ich will wissen, was. Soweit ich das beim Reden mitbekommen habe, sind da ihre Vorräte.</text>
@@ -489,10 +489,10 @@
 			<text>Sachen aus dem Besitz des Anomalie-Opfers</text>
 		</string>
 		<string id="esc_secret_0002_descr">
-			<text>Für die Bestechung ist alles unter dem Kreuz versteckt.</text>
+			<text>Die Beute ist unter dem Kreuz versteckt.</text>
 		</string>
 		<string id="esc_secret_0002_name">
-			<text>Das Kreuz im Banditenlager</text>
+			<text>Das Kreuz nahe dem Banditenlager</text>
 		</string>
 		<string id="esc_secret_0003_descr">
 			<text>Die Truhe, die von den Banditen geklaut wurde, befindet sich im zentralen Gebäudes oben auf dem Dachboden. Mit einer Ablenkung könnten wir rankommen.</text>
