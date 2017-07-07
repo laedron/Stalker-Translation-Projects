@@ -72,6 +72,7 @@ gibt.
 - string_table_tasks_garbage
 - string_table_tasks_military
 
+- string_table_gameplay_tasks_titles (*)
 - string_table_timer
 
 - string_table_tips
@@ -105,6 +106,7 @@ Bei der Flut an Waffen und Zusätzen fehlt die Genauigkeit.
 		- kontroller_diaries (~30%)
 		- tb3d_dialogs_arhara_start (5%)
 		- ui_st_pda (50%)
+		- stable_dialogs_new (5%)
 
 		//=================================================================================//
 		Sonstige Änderungen

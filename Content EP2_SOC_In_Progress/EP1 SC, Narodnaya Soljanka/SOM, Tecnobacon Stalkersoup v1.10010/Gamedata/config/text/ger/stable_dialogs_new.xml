@@ -73,10 +73,10 @@
 		<text>Hmm. Okay. Ich werde den PDA besorgen. Wer ist diese Person?</text>
 	</string>
 	<string id="informator_pda_tiran_5">
-		<text>Pass auf: In den Sümpfen gibt es ein neuen Laden besitzer. Meine Quellen berichteten mir das er irgendwie in dem Zusammenhang steht ud auch noch andere "Geschäfte" tätigt. Er besitzt auch diesen PDA.</text>
+		<text>Pass auf: In den Sümpfen gibt es ein neuen Laden besitzer. Meine Quellen berichteten mir das er irgendwie in dem Zusammenhang steht und auch noch andere "Geschäfte" tätigt. Er besitzt auch diesen PDA.</text>
 	</string>
 	<string id="informator_pda_tiran_6">
-		<text>Dan soll es sein? Gut, ich werde Dan besuchen. Wenn du mich aber verscheißerst, so wird es dir leid tun.</text>
+		<text>Moment.. Dan? Er soll es sein? Ich werde Dan besuchen. Wenn du mich aber verscheißerst, so wird es dir leid tun.</text>
 	</string>
 	<string id="informator_pda_bring_0">
 		<text>Sag mal Willst du mich verarschen. Ich habe den PDA aber wie kommt es das die Söldner genau wussten wo und wann ich dort sein werde.
@@ -92,91 +92,92 @@
 		<text>Leise! Schrei nicht so, als ob du im Zaun feststeckst! Das ist ein gefährlicher Kerl... Er hat Beziehungen zur Außenwelt. Die meisten Waffen und Ausrüstung bekommt die "Freiheit" über ihn. Die waschen ihm die Füsse und trinken danach das Wasser.\n \nUnterschät das nicht. LeHavre selbst ist auch ein starker Kämpfer. Mit Drohungen oder Gewalt wirst du bei ihm nicht weit kommen. Viel Glück!\n \nÜbrigens, hier - nimm dieses Artefakt. Die meisten hier in der Bar halten mich für einen Aufschneider und so soll es auch beliben. </text>
 	</string>
 	<string id="informator_pda_give_0">
-		<text>Hey, Dan! Ich bin hier, um mit dir ein wichtiges Geschäft zu regeln. Eine ernste Sache, die uns beide betrifft. Ich weiß genau, das du ein bestimmten PDA hast, welchen ich unbedingt brauche. Gibst du ihn mir - dann gehen wir im Frieden unsere Wege. Wenn nicht... ist deine Entscheidung und lass deine Spielchen.</text>
+		<text>Hey, Dan! Es geht um eine verdammt ernste Sache, die uns beide betrifft. Ich weiß genau, das du ein bestimmten PDA hast, welchen ich unbedingt brauche. Mir kam zu Ohren das du auch noch in andere Geschäfte sehr Fleißig bist. Gib ihn mir - dann gehen wir in Frieden unsere Wege. Wenn nicht... ist deine Entscheidung.</text>
 	</string>
 	<string id="informator_pda_give_1">
-		<text>Ist ja gut, "Gezeichneter", reg dich ab, ich kenn dich ja. Ich weiß, das du mich leicht fertig machen kannst, und da wird auch mein Exo nicht helfen.\n \nHier, nimm das Ding. Hat mir ein Kerl da gelassen, damit ich es aufbewahre. Ich war ihm ein Gefallen schuldig, und konnte nicht "Nein" sagen.</text>
+		<text>Ist ja gut, "Gezeichneter", reg dich ab, ich kenn dich. Ich weiß, das du mich leicht fertig machen kannst, und da wird auch mein Exo nicht helfen.\n \nHier, nimm das Ding. Hat mir ein Kerl da gelassen, damit ich es aufbewahre. Ich war ihm ein Gefallen schuldig, und konnte nicht "Nein" sagen.</text>
 	</string>
 	<string id="informator_pda_give_2">
-		<text>Drohst du mir etwa?! Ich bring dir gleich "who is who" bei. Mit einer Ladung Blei!</text>
+		<text>INFORMATOR_PDA_GIVE_2 WIRD NICHT BENUTZT</text>
 	</string>
 	<string id="informator_pda_give_3">
-		<text>Believe me Dan, I didn't want you to kill, but this is very serious business</text>
+		<text>Mann, was für eine Erleichterung! Glaub mir, ich hatte gar nicht vor dich zu töten, aber ich brauche diesen PDA wirklich. Danke dir, Bruder, ich werde meine Schuld irgendwann doppelt begleichen.</text>
 	</string>
 	<string id="informator_pda_give_4">
-		<text>It's okay Marked One, good luck to you...</text>
+		<text>Gut, "Gezeichneter", das merke ich mir.</text>
 	</string>
 	<string id="gavr_take_first_0">
-		<text>Are you LeHavre? the informant has sent me</text>
+		<text>Bist du LeHavre? Der Informant schickt mich.</text>
 	</string>
 	<string id="gavr_take_first_1">
-		<text>The Marked One has come! The informant has told me that you search for the murderer of Fang. I can help but it's necessary for you to do some jobs for us, which I will pay you for. Then I will tell you what you want to know</text>
+		<text>Oh! Der "Gezeichnete" ist da... Der Informant hat dich schon angekündigt, das du den oder die Mörder von "Fang" suchst. Ich kann dir dabei helfen, aber nicht umsonst. Du mußt für uns ein paar Aufträge erledigen, die nicht grade sauber sind, aber gut bezahlt werden. Eine Hand wäscht die andere und ich kenne deine Qualitäten.</text>
 	</string>
 	<string id="gavr_take_first_2">
-		<text>Seems I'm making a deal with the devil, what evil deeds do you have in mind?</text>
+		<text>Qualitäten? Du meinst Töten.. Das musste irgendwann ja so kommen. Sieht wohl so aus als würde ich ein Geschäft mit dem Teufel eingehen. Welche Finsteren Aufträge gehen dir denn in deinem verkorksten Schädel so rum. An was hast du gedacht?</text>
 	</string>
 	<string id="gavr_take_first_3">
-		<text>Stalker, try to understand, if you want to learn the secrets of the dead you will do what I ask. You brought a PDA to the informant. And from the data recovered we have discovered that in our well-disposed ranks is a rat. But not so simple, it's one of our leaders. Enough direct evidence is not present, so I cannot kill him myself. That would lead to reprisals and a possible clan war. And you, as the tramp extraneous, killing this person would avoid all possible consequences. Bolt is the rat, and he is nearby at the end of the road that leads to this base. If you extract his personal PDA, I will have proof of his participation in the theft of Tirana's PDA. You agree? A good reward awaits you</text>
+		<text>Daran habe ich nicht gedacht. Vielleicht komme ich aber darauf zurück. Kommen wir zur Sache. Du hast dem Informant den PDA gebracht. Aus den gespeicherten Dateien geht hervor, das in unseren Reihen sich eine Ratte befindet. Und diese Ratte kein einfaches Mitglied ist, sondern ein Anführer. Direkte Beweise dafür gibt es natürlich nicht, deswegen kann ich noch nicht meine Jungs schicken um die Sache zu "klären". Es würden nur Schuldzuweisungen, gegenseitige Verdächtigungen und Krieg in der Gruppe dabei herauskommen.\n \nDu, als außenstehende Person, kommst da sehr gelegen. "Bolt" - so heißt die Ratte - er ist grad in der Nähe, mm Ende der Strasse die zur Basis führt. Du musst sein PDA besorgen, dann haben wir klare Beweise für sein Verrat. Einverstanden? Eine gute Belohnung ist selbstverständlich.</text>
 	</string>
 	<string id="gavr_take_first_4">
-		<text>Aright I will bring you the PDA, what choice do I have</text>
+		<text>OK, wie dem auch sei. Ich werd dir den PDA schon bringen.</text>
 	</string>
 	<string id="gavr_bring_pda_0">
-		<text>You jackass, you could have given me an idea of what I was walking into! Snipers and RPGs!, here take it!</text>
+		<text>Hör mal, du Hühnerstall-Adler! Wo schickst du mich denn einfach so rein? Da gab's ja mehr Scharfschützen als Zombies in Jantar. Du hättest mich warnen könnnen. Hier hast du, was du wolltest.</text>
 	</string>
 	<string id="gavr_bring_pda_1">
-		<text>It is insulting to me, listening to your vulgar mouth. I'm a person with a vulnerable soul and a thin constitution. Anyway, you know that the Zone is full of unexpectedness and troubles. Alright, here's a five-copeck coin for vodka</text>
+		<text>Deine Worte verletzen mich sehr... Ich bin nämlich ein sehr feinsinniger Mensch, weißt du. Du weißt doch selbst, das die Zone voller Ärger und Überraschungen ist. Egal, du hast die Sache erledigt, hier hast du was, um dir Vodka zu leisten. Geh, wohin du willst...</text>
 	</string>
 	<string id="freeman_help_one_0">
-		<text>Wow! Is it Gordon Freeman? How did you get here? I heard you'd been killed, or at least that you had a price on your head...</text>
+		<text>Mich laust der Affe.. Mensch?! Gordon Freeman, höchstpersönlich! Hat man dich aus City 17 verjagt? Ich hab da mal ein Gerücht gehört, das du nach einem Angriff und den Tod eines Wssenschaftler verschwunden bist. Warte.. Bist du noch bei Evlav und Black Mesa angestellt oder hat man dich aufgegeben?</text>
 	</string>
 	<string id="freeman_help_one_1">
-		<text>Yes, I needed to disappear before someone organized it for me, so I made my way into the Zone. In the Cordon I hired a guide from a man named Sidorovich. He took me through a valley, past a lake, and into a factory complex before he started to mumble. I saw that something was wrong with his focusing, and I tried to talk to him, but he didn't respond. His eyes looked glazed and empty, and I feared he was turning into a zombie.\nThen I heard the roar of a monster and was scared for our lives. I saw a tunnel full of Electro anomalies close by, but I'm more scared of mutants so I worked my way to the end of it and found a quiet place to sleep. My head was hurting badly, but if you're tired enough you can sleep through anything...\nI don't know how long I was there - A week? A month? I don't remember. I was woken up by a screech more terrible than I've ever heard before. It was a huge mutant with two heads! It was stood in the middle of an Electro and seemed to be charging up in it...\nI tried to move around quietly, but it sensed me and began to growl. Without bolts, without a detector, I just ran and didn't stop until I found refuge here.\nI left all my gear in that tunnel, including my Desert Eagle chambered for the more common 9x39 cartridge. It's a powerful weapon, and I've used it to kill a pair of bloodsuckers with one clip. Truth is, though, I'm afraid to go back there. If you're in that area would you search for this gun? Return my weapons to me and I'll happily give you one of them...</text>
+		<text>...\n \n \n \nFragen über Fragen! Evlav? Dieser Geldstinkende Verein. Die haben die Zusammenarbeit aufgeben. Nach dem Desaster mit dem Combine Advisor wollte ich verschwinden. Dann wurde aber alles Schwarz um mich. Ich hörte Alex noch, aber ihre Stimme wurde immer leiser. Nach einiger Zeit bin ich, was du als den Kordon kennst, aufgewacht. Dort traf ich ein Paar Männer. Die brachten mich zu einem Mann den man Sidorovich nennt.\n \nDieser hat mir ein Führer besorgt. Er führte mich durch ein Tal, vorbei an einem See und an einem Fabrikkomplex. Wir hatten uns zwischendurch auch ein paar Feuergefechte mit den Söldner geführt. Erinnerte mich an den Kampf in Black Mesa. Er wollte mich zu einem Mann namens Sahkarov bringen aber.. In der Luft herrschte eine seltsame stille. Die wurde aber von einem Leisen brummen überlagert. Der Stalker der mich führte fing irgendwann an zu stammeln und zu murmeln. Ich versuchte ihn anzusprechen aber sein blick fühlte sich an als würde dieser durch mich durchgehen. Mich durchfuhr sofort eine Erinnerung an die Ravenholm Geschehnisse. Die Augen waren Glasig und schal und seine Haut fing an bleich zu werden.\n \nPlötzlich hörte ich das Gebrüll, aus einer Entfernung, auf mich zukommen. Ich Flüchtete in einen Tunnel mit Haufenweise Blitze. Ich kämpfte mich bis zum Eingestürzten Ende des Tunnels durch. Dort blieb ich erstmal eine Weile und ruhte mich aus. Das Gebrüll verstummte dann irgendwann.\n \nKopfschmerzen hatte ich die ganze Zeit über, verdammte Kopfschmerzen. Irgendwann bin ich dann wohl eingeschlafen vor Erschöpfung. Ich weiß gar nicht. Wie lange ich mich dort aufhielt. Gefühlt.. eine Woche, Ein Monat aber in Wirklich waren es wohl  nur Stunden. Letzten Endes wurde ich von einem Geschrei geweckt. Ein Monster mit Zwei Köpfen hat es in den Tunnel geschafft. Es war riesig und massiv. Diese Blitze machten dem Vieh nichts aus. Es kam mir so vor als ob es sich darin badete und gleichzeitig sich auflud.\n \nZum glück hatte es mich nicht bemerkt. Ich Schlich mich an dem Ungetüm vorbei und auch an den Blitzen. Durch die Kettenreaktion des Monsters konnte ich nun alles bestens erkennen. Dann lief ich. Habe aber meine Ausrüstung darin liegengelassen. Ich kam nicht mehr dran. Wenn du mal dort in der Nähe bist, dann schau doch mal ob du mir die nicht besorgen könntest. Darunter war auch eine Modifizierte Desert Eagle.</text>
 	</string>
 	<string id="freeman_help_one_2">
-		<text>Don't worry, Freeman. I'm going that way, and I'll find your gun...</text>
+		<text>Keine Sorge, Ruhe dich erstmal aus. Ich werde deine sachen Finden.</text>
 	</string>
 	<string id="freeman_bring_one_0">
-		<text>Hey, Gordon! Here's your Desert Eagle...</text>
+		<text>Hey, Gordon! Na, gehts dir wieder besser? Hier ist deine Kanone. Gefällt mir, ein richtiger Elefanten-Killer aber ein Brecheisen war nicht dabei.</text>
 	</string>
 	<string id="freeman_bring_one_1">
-		<text>Marked One, I am happy to call you my friend. Here, please accept this artefact I promised...</text>
+		<text>"Gezeichneter"! Schön dich zu sehen. Ja, geht schon. Mich plagen derzeit noch Träume von dem G-Man aber mit Vodka geht das schon. Hier - dein Finder lohn. Ich habe ein Artefakt für dich...</text>
 	</string>
 	<string id="freeman_case_help_0">
-		<text>Thank you. Are you enjoying the Barman's company? He's quite a character...</text>
+		<text>Ich sehe, du hast dich schon eingelebt. Gefällt es dir hier beim Wirt? Pass aber auf und trink nicht zu viel auf Bruderschaft mit den Wächter da. Erzähl bloß nicht soviel von Black Mesa. Die könnten vielleicht auf komische Ideen kommen.</text>
 	</string>
 	<string id="freeman_case_help_1">
-		<text>Yes, he's good company and can drink like a fish. Marked One, I've got more serious business I need your help with. When travelling with my guide and reaching the Wild Territory, I met a man. His name is DeJames, who claimed to be from America also. He offered me a lot of vodka, then persuaded me to give him my document case for safekeeping. There are some important documents inside that I could really use here. I need that case, but I fear the guy is a conman. He's currently staying in a small carriage in the Wild Territory. Are you able to visit him and  collect it on my behalf?</text>
+		<text>Ich pass schon auf. Jedenfalls sehr gute Truppe hier, sehr gastfreundlich. Aber könntest du mir noch ein Gefallen tun?\n \nAls ich mit dem Stalker unterwegs war der mich führte trafen wir außer Söldner auch auf einen Typen namens "DeJames". Ihm hatte ich ein paar unterlagen vorübergehend gegeben. Wir wurden dann irgendwann im Kampf getrennt. Nun habe ich aber hier von anderer Seite gehört das der Typ anscheinend ein Schwindler und Hehler ist und auch mit Infos Dealt.\n \nIch fürchte das er mich an die Söldner oder dem Militär verkaufen will. In der Akte befinden sich ein paar sehr brisante Unterlagen zu "Evlav" und ihrem Geschäft Modell "Maets". Dabei geht es um Online Kontrolle, Statistiken und Abhängigkeit sowie weiteren Illegalen Geschäft Methoden. Aber auch die Stilllegung um Aperture Science.\n \nDer Typ Soll sich irgendwo im "Wild Gebiet" aufhalten und wohnt wohl in so einem Mobilen Pappkarton.</text>
 	</string>
 	<string id="freeman_case_help_2">
-		<text>Yes, sure. What was his name, DeJames? Not a local man, that's for sure. I'll go carefully...</text>
+		<text>Sicher, dafür bin ich der Mann hier in der Zone. "DeJames"? Noch nie von dem Typen gehört.\n \nBis später.</text>
 	</string>
 	<string id="freeman_james_speak_0">
-		<text>DeJames, Freeman asks if he may have his case back...</text>
+		<text>Hey, du bist doch "DeJames"?</text>
 	</string>
 	<string id="freeman_james_speak_1">
-		<text>His case? No, he gave it to me. Now fuck off before my boys take offence...</text>
+		<text>Bond... James Bond...</text>
 	</string>
 	<string id="freeman_james_speak_2">
-		<text>I didn't come here for trouble. But I'm not leaving without the case...</text>
+		<text>Echt jetzt?\n \nMann.. Wer kommt als nächstes Erich Kästner?. Hör mal du besitzt was von Gordon Freeman - Ich dreh ab.. egal, rück raus die Akten.</text>
 	</string>
 	<string id="freeman_james_speak_3">
-		<text>Fuck you!</text>
+		<text>Mach die Flatter du Pisser. Ich lass mir doch nicht wegen so einem Dummbeutel wie dir, ein so guten Deal platzen. Jungs! Wir haben hier ein nicht willkommenen Gast. Begrüßn wir ihn auf unsere Art und Weise..</text>
 	</string>
 	<string id="freeman_case_bring_0">
-		<text>Freeman, you were right. Your friend DeJames conned you...</text>
+		<text>Hey Gordon! Hier sind deine Unterlagen. Sei bloß vorsichtig mit wem du hier abhängst. Das ist nicht wie in City-17 wo man für eine Sache einsteht. Hier verfolgen die meisten ihre ganz eigenen  Kranken Ziele. Es gibt ein Parr Leute den man wirklich vertrauen kann. Die kann man aber einer Hand abzählen.</text>
 	</string>
 	<string id="freeman_case_bring_1">
-		<text>Why? What happened?</text>
+		<text>Ja das habe ich mittlerweile auch begriffen. Was ist passiert?</text>
 	</string>
 	<string id="freeman_case_bring_2">
-		<text>He was a mercenary. He recognized you, and wanted your case all along. He and his gang attacked me. But they won't be conning anyone else. Here's your case...</text>
+		<text>Der Hatte dich verarscht. Er ist ein Söldner. Wie du schon gut befürchtest hattest. Der wollte dich aufliegen lassen. Dann hatte er noch ein paar Stinktiere bei sich. Die Lutschen nun an Blei-Bonbons in der Hölle. Hier ist dein Koffer.
+</text>
 	</string>
 	<string id="freeman_case_bring_3">
-		<text>I'm sorry, Marked One. I didn't think he was that bad. Here take this, I hope it compensates you for any injury you've suffered</text>
+		<text>Mann, so ein Scheiß. Vielen Dank. Hier ... warte, das habe ich für dich. </text>
 	</string>
 	<string id="gavr_doc_radar_0">
-		<text>Well LeHavre, what's next?</text>
+		<text>Nun LeHavre, was kommt als nächstes?</text>
 	</string>
 	<string id="gavr_doc_radar_1">
 		<text>Marked One, onto the next order of business. One of the Monolithians was supposed to extract documents and deliver them to us. However communication with him has broken down, he doesn't answer his PDA. The last message we received from him came from the Radar. During an emission we think he took cover in Lab X-10. Your problem - to find him and to take the documents. We know that you have received a helmet which protects you from Psi-radiation from the scientists</text>
@@ -2915,4 +2916,4 @@
 		<text>No... Denis is a trusted friend. So who has visited us that could have known? Alright, have a rest but not too long. The Astrologer has sent an SMS for you to meet him in the Cordon at the rookie village. I communicated with the Doctor and told him to let the Astrologer know I'm alive. I'm not sure what this guy is up to but we need to be careful with him, he's a smooth operator. I want you to deliver this copy of my map to him</text>
 	</string>
 </string_table>
-<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 06.07.2017 20:27:22 -->
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 07.07.2017 01:11:18 -->
