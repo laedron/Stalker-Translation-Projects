@@ -9,7 +9,7 @@
 		<text>Hallo Gezeichneter. Sicher. Warum nicht. Du kommst doch gut rum in der Zone und triffst wahrscheinlich auf jede Menge Viehzeug. Ich brauche immer wieder solche Mutanten Sachen. Ich beliefere einige Kunden die daraus Medizin erstellen wollen. Ich bräuchte:\n3x Schwänze von Mutierten Hund oder \n6x Wildscheinhufen.\n \nWenn du mir die Sachen bringst mach' ich dir ein guten Preis.</text>
 	</string>
 	<string id="prinesi_hvost_2">
-		<text>Hallo Dan, Hier. Wildschweinhufe. Die wolltest du doch? </text>
+		<text>Hallo Dan, Hier. Wildschweinehufe. Die wolltest du doch? </text>
 	</string>
 	<string id="prinesi_hvost_3">
 		<text>Hallo Dan. Ich habe hier ein paar Hunde Schwänze für dich.</text>
@@ -27,10 +27,10 @@
 		<text>Hallo Fox, wie geht es dir?</text>
 	</string>
 	<string id="fox_bring_1">
-		<text>Wie soll's mir denn gehen? Die verdammten Hunde lassen mich nicht in Ruhe. Vielleicht hab ich ein besonderes Geruch an mir, vielleicht sind die läufig - was weiß ich...\n \nÜbrigens, "Gezeichneter" - du könntest mir ein Gefallen tun. Bei dem Wächter-Blockposten auf der Müllhalde wurde für mich ein Packet hinterlassen. Ein sehr gute Waffe.\n \nSei so gut, bring sie mir, ok? Damit hab ich mehr Schutz gegen diese Köter, und bei der Menge Stiernacken die sich hier in der Nähe aufhalten ist die Waffe mehr als sinnvoll. Ich würd ja selbst gehen, wenn ich wieder zu Kräften gekommen bin. Aber ich muss hier auf den Doc warten und bei ihm erstmal bleiben\n \nFrag' den Feldwebel bei dem Blockposten, er sollte Bescheid wissen.</text>
+		<text>Wie soll's mir denn gehen? Die verdammten Hunde lassen mich nicht in Ruhe. Vielleicht hab ich ein besonderen Geruch an mir, vielleicht sind die läufig - was weiß ich...\n \nÜbrigens, Gezeichneter - du könntest mir ein Gefallen tun. Bei dem Wächter-Blockposten auf der Müllhalde wurde für mich ein Paket hinterlassen. Ein sehr gute Waffe.\n \nSei so gut, bring sie mir, ok? Damit hab ich mehr Schutz gegen diese Köter, und bei der Menge der Stiernacken, die sich hier in der Nähe aufhalten ist die Waffe mehr als sinnvoll. Ich würd ja selbst gehen, wenn ich wieder zu Kräften gekommen bin. Aber ich muss hier auf den Doktor warten und dann bei ihm erstmal bleiben\n \nFrag' den Feldwebel bei dem Blockposten, er sollte Bescheid wissen.</text>
 	</string>
 	<string id="fox_bring_2">
-		<text>Kein problem Fox. Ich werde den Feldwebel dort aufsuchen.\n \nBin dann bald zurück.</text>
+		<text>Kein Problem Fox. Ich werde den Feldwebel dort aufsuchen.\n \nBin dann bald zurück.</text>
 	</string>
 	<string id="fox_bring_3">
 		<text>Fox. Würde ich gerne machen. Aber dafür habe ich echt keine Zeit.</text>
@@ -48,13 +48,13 @@
 		<text>Ja klar... Bin ich hier die Poststelle? Einfach so geht gar das nun nicht. Bring mir ein paar Blutsauger-Tentakeln, dann reden wir. Als Lagerungsgebühr, sozusagen.</text>
 	</string>
 	<string id="prapor_bring_jaw_2">
-		<text>Nicht grade anständig von dir, aber was soll's. Werd ich besorgen. Ich hab' Fox mein Versprechen gegeben, und ein Mann hält, was er versprochen hat. Gerade unter uns Stalkern.</text>
+		<text>Nicht grade anständig von dir, aber was soll's. Werde ich besorgen. Ich hab' Fox mein Wort gegeben, und ein Mann hält, was er versprochen hat. Gerade unter uns Stalkern ist das wichtig.</text>
 	</string>
 	<string id="prapor_give_jaw_0">
 		<text>Tag auch. Sparen wir die Fragen nach Gesundheit, ok? Hier sind dein Tentakeln. Dann schieb' mal rüber das Paket.</text>
 	</string>
 	<string id="prapor_give_jaw_1">
-		<text>Danke, "Gezeichneter". Sei nicht so sauer. Ich brauche diese Tentakeln, ich mache nämlich ein heilendes Likör daraus. Das erhält die Manneskraft auch bei hiesigen Strahlungslevel. Das Likör geht mir schon zu Neige, und ich bin ja nicht mehr der Jungste. Wir waren uns aber auch nicht sicher ob du es schaffen würdest. Jdenfalls hab' ich fünf Flaschen Vodka bei der Wette verloren.</text>
+		<text>Danke, "Gezeichneter". Sei nicht so sauer. Ich brauche diese Tentakeln, ich mache nämlich ein heilendes Likör daraus. Das erhält die Manneskraft auch bei hiesigen Strahlungslevel. Das Likör geht mir schon zu Neige, und ich bin ja nicht mehr der Jungste. Wir waren uns aber auch nicht sicher ob du es schaffen würdest. Jedenfalls hab' ich fünf Flaschen Vodka bei der Wette verloren.</text>
 	</string>
 	<string id="informator_pda_tiran_0">
 		<text>Sag' mal. So unter uns. Hast du ein paar Informationen für mich?</text>
@@ -63,39 +63,37 @@
 		<text>Sicher das du mir reden willst?</text>
 	</string>
 	<string id="informator_pda_tiran_2">
-		<text>Hör zu. Keine Spielchen. General Voronin schickt mich. Erzähl mir einfach wer "Fang" getötet hat und wiso eingetlich. Ok?
-</text>
+		<text>Hör zu. Keine Spielchen. General Voronin schickt mich. Erzähl mir einfach wer "Fang" getötet hat und wiso eigentlich. Ok?</text>
 	</string>
 	<string id="informator_pda_tiran_3">
-		<text>"Gezeichneter", du bist ein bekannter Mann in der Zone, aber denkst du wirklich, das du deswegen einfach so, kostenlos, Infos von mir bekommen kannst? So läuft das nicht... Wenn du Infos willst - bezahle.\n \nIch sag dir was. In der letzten Zeit geht ein Gerücht um: jemand soll den PDA von "Tirana", dem Söldner-Anführer, gestohlen haben. Ob er noch lebte, oder schon tot war - keine Ahnung. Du verstehst, bestimmt, wieviele Daten drauf gespeichert sind und was diese Wert sind? Nach diesem PDA läuft in Moment eine richtige Hetz Jagd. Freiheit, Wächter, Banditen - alle wollen ihn in die Finger bekommen.\n \nIch weiß wo und wer diesen PDA hat! Wenn du ein Spaziergang machst und mir den PDA bringst, dann mache ich für dich ein Treffen aus. Mit einem wichtigen Mann, der wird dir alles erzählen, was er weiß. Und er weiß viel.\n \nNa, was ist?</text>
+		<text>"Gezeichneter", du bist ein bekannter Mann in der Zone, aber denkst du wirklich, das du deswegen einfach so, kostenlos, Infos von mir bekommen kannst? So läuft das nicht... Wenn du Infos willst - bezahle.\n \nIch sag dir was. In der letzten Zeit geht ein Gerücht um: jemand soll den PDA von "Tirana", dem Söldner-Anführer, gestohlen haben. Ob er noch lebte, oder schon tot war - keine Ahnung. Du verstehst, bestimmt, wie viele Daten drauf gespeichert sind und was diese Wert sind? Nach diesem PDA läuft in Moment eine richtige Hetz Jagd. Freiheit, Wächter, Banditen - alle wollen ihn in die Finger bekommen.\n \nIch weiß wo und wer diesen PDA hat! Wenn du ein Spaziergang machst und mir den PDA bringst, dann mache ich für dich ein Treffen aus. Mit einem wichtigen Mann, der wird dir alles erzählen, was er weiß. Und er weiß viel.\n \nNa, was ist?</text>
 	</string>
 	<string id="informator_pda_tiran_4">
 		<text>Hmm. Okay. Ich werde den PDA besorgen. Wer ist diese Person?</text>
 	</string>
 	<string id="informator_pda_tiran_5">
-		<text>Pass auf: In den Sümpfen gibt es ein neuen Laden besitzer. Meine Quellen berichteten mir das er irgendwie in dem Zusammenhang steht und auch noch andere "Geschäfte" tätigt. Er besitzt auch diesen PDA.</text>
+		<text>Pass auf: In den Sümpfen gibt es ein neuen Laden Besitzer. Meine Quellen berichteten mir das er irgendwie in dem Zusammenhang steht und auch noch andere "Geschäfte" tätigt. Er besitzt auch diesen PDA.</text>
 	</string>
 	<string id="informator_pda_tiran_6">
 		<text>Moment.. Dan? Er soll es sein? Ich werde Dan besuchen. Wenn du mich aber verscheißerst, so wird es dir leid tun.</text>
 	</string>
 	<string id="informator_pda_bring_0">
-		<text>Sag mal Willst du mich verarschen. Ich habe den PDA aber wie kommt es das die Söldner genau wussten wo und wann ich dort sein werde.
-\n \nKomm, schon rede.</text>
+		<text>Sag mal Willst du mich verarschen. Ich habe den PDA aber wie kommt es das die Söldner genau wussten wo und wann ich dort sein werde.\n \nKomm, schon rede.</text>
 	</string>
 	<string id="informator_pda_bring_1">
-		<text>Du hat ihn also bekommen? Respekt. Du hälst dein Wort. Nun beruihige dich. Überleg doch mal. Wiso sollte ich deine Position verpfeifen. Es gibt noch andere Gruppen und Einrichtungen die diesen PDA haben wollen. Ich denke dases ein paar Leute gibt die die Kastanien nicht gern selbst aus dem Feuer ziehen. Heuern stattdessen Söldner für solche Aufträge an. So sieht es aus, Bruder..\n \nNun hör mir aufmerksam zu. In der Freiheits-Basis in den Armeelagerhäusern triffst du dich mit LeHavre. Er wird in einer der Kasernen sein. Er wird dir alles über "Fang" erzählen.</text>
+		<text>Du hat ihn also bekommen? Respekt. Du hälst dein Wort. Nun beruhige dich. Überleg doch mal. Wiso sollte ich deine Position verpfeifen. Es gibt noch andere Gruppen und Einrichtungen die diesen PDA haben wollen. Ich denke das es ein paar Leute gibt die die Kastanien nicht gern selbst aus dem Feuer ziehen. Heuern stattdessen Söldner für solche Aufträge an. So sieht es aus, Bruder..\n \nNun hör mir aufmerksam zu. In der Freiheits-Basis in den Armeelagerhäusern triffst du dich mit LeHavre. Er wird in einer der Kasernen sein. Er wird dir alles über "Fang" erzählen.</text>
 	</string>
 	<string id="informator_pda_bring_2">
 		<text>Was zum Teufel?!... Ein Söldner in der Freiheitsbasis? Wird die Welt jetzt vollkommen verrückt? Oder hab ich was verpasst?</text>
 	</string>
 	<string id="informator_pda_bring_3">
-		<text>Leise! Schrei nicht so, als ob du im Zaun feststeckst! Das ist ein gefährlicher Kerl... Er hat Beziehungen zur Außenwelt. Die meisten Waffen und Ausrüstung bekommt die "Freiheit" über ihn. Die waschen ihm die Füsse und trinken danach das Wasser.\n \nUnterschät das nicht. LeHavre selbst ist auch ein starker Kämpfer. Mit Drohungen oder Gewalt wirst du bei ihm nicht weit kommen. Viel Glück!\n \nÜbrigens, hier - nimm dieses Artefakt. Die meisten hier in der Bar halten mich für einen Aufschneider und so soll es auch beliben. </text>
+		<text>Leise! Schrei nicht so, als ob du im Zaun feststeckst! Das ist ein gefährlicher Kerl... Er hat Beziehungen zur Außenwelt. Die meisten Waffen und Ausrüstung bekommt die "Freiheit" über ihn. Die waschen ihm die Füsse und trinken danach das Wasser.\n \nUnterschät das nicht. LeHavre selbst ist auch ein starker Kämpfer. Mit Drohungen oder Gewalt wirst du bei ihm nicht weit kommen. Viel Glück!\n \nÜbrigens, hier - nimm dieses Artefakt. Die meisten hier in der Bar halten mich für einen Aufschneider und so soll es auch bleiben... Erstmal. </text>
 	</string>
 	<string id="informator_pda_give_0">
 		<text>Hey, Dan! Es geht um eine verdammt ernste Sache, die uns beide betrifft. Ich weiß genau, das du ein bestimmten PDA hast, welchen ich unbedingt brauche. Mir kam zu Ohren das du auch noch in andere Geschäfte sehr Fleißig bist. Gib ihn mir - dann gehen wir in Frieden unsere Wege. Wenn nicht... ist deine Entscheidung.</text>
 	</string>
 	<string id="informator_pda_give_1">
-		<text>Ist ja gut, "Gezeichneter", reg dich ab, ich kenn dich. Ich weiß, das du mich leicht fertig machen kannst, und da wird auch mein Exo nicht helfen.\n \nHier, nimm das Ding. Hat mir ein Kerl da gelassen, damit ich es aufbewahre. Ich war ihm ein Gefallen schuldig, und konnte nicht "Nein" sagen.</text>
+		<text>Ist ja gut, "Gezeichneter", reg dich ab, ich kenn' dich. Ich weiß, das du mich leicht fertig machen kannst, und da wird auch mein Exo nicht helfen.\n \nHier, nimm das Ding. Hat mir ein Kerl da gelassen, damit ich es aufbewahre. Ich war ihm ein Gefallen schuldig, und konnte nicht "Nein" sagen.</text>
 	</string>
 	<string id="informator_pda_give_2">
 		<text>INFORMATOR_PDA_GIVE_2 WIRD NICHT BENUTZT</text>
@@ -113,10 +111,10 @@
 		<text>Oh! Der "Gezeichnete" ist da... Der Informant hat dich schon angekündigt, das du den oder die Mörder von "Fang" suchst. Ich kann dir dabei helfen, aber nicht umsonst. Du mußt für uns ein paar Aufträge erledigen, die nicht grade sauber sind, aber gut bezahlt werden. Eine Hand wäscht die andere und ich kenne deine Qualitäten.</text>
 	</string>
 	<string id="gavr_take_first_2">
-		<text>Qualitäten? Du meinst Töten.. Das musste irgendwann ja so kommen. Sieht wohl so aus als würde ich ein Geschäft mit dem Teufel eingehen. Welche Finsteren Aufträge gehen dir denn in deinem verkorksten Schädel so rum. An was hast du gedacht?</text>
+		<text>Qualitäten? Du meinst Töten.. Das musste irgendwann ja so kommen. Sieht wohl so aus als würde ich ein Geschäft mit dem Teufel eingehen. Welche Finsteren Aufträge spuken dir in deinem verkorksten Schädel so rum. An was hast du gedacht?</text>
 	</string>
 	<string id="gavr_take_first_3">
-		<text>Daran habe ich nicht gedacht. Vielleicht komme ich aber darauf zurück. Kommen wir zur Sache. Du hast dem Informant den PDA gebracht. Aus den gespeicherten Dateien geht hervor, das in unseren Reihen sich eine Ratte befindet. Und diese Ratte kein einfaches Mitglied ist, sondern ein Anführer. Direkte Beweise dafür gibt es natürlich nicht, deswegen kann ich noch nicht meine Jungs schicken um die Sache zu "klären". Es würden nur Schuldzuweisungen, gegenseitige Verdächtigungen und Krieg in der Gruppe dabei herauskommen.\n \nDu, als außenstehende Person, kommst da sehr gelegen. "Bolt" - so heißt die Ratte - er ist grad in der Nähe, mm Ende der Strasse die zur Basis führt. Du musst sein PDA besorgen, dann haben wir klare Beweise für sein Verrat. Einverstanden? Eine gute Belohnung ist selbstverständlich.</text>
+		<text>Daran habe ich nicht gedacht. Vielleicht komme ich aber darauf zurück. Kommen wir zur Sache. Du hast dem Informant den PDA gebracht. Aus den gespeicherten Dateien geht hervor, das in unseren Reihen sich eine Ratte befindet. Und diese Ratte kein einfaches Mitglied ist, sondern ein Anführer. Direkte Beweise dafür gibt es natürlich nicht, deswegen kann ich noch nicht meine Jungs schicken um die Sache zu "klären". Es würden nur Schuldzuweisungen, gegenseitige Verdächtigungen und Krieg in der Gruppe dabei herauskommen.\n \nDu, als außenstehende Person, kommst da sehr gelegen. "Bolt" - so heißt die Ratte - er ist grad in der Nähe, mm Ende der Stra?e die zur Basis führt. Du musst sein PDA besorgen, dann haben wir klare Beweise für sein Verrat. Einverstanden? Eine gute Belohnung ist selbstverständlich.</text>
 	</string>
 	<string id="gavr_take_first_4">
 		<text>OK, wie dem auch sei. Ich werd dir den PDA schon bringen.</text>
@@ -128,13 +126,13 @@
 		<text>Deine Worte verletzen mich sehr... Ich bin nämlich ein sehr feinsinniger Mensch, weißt du. Du weißt doch selbst, das die Zone voller Ärger und Überraschungen ist. Egal, du hast die Sache erledigt, hier hast du was, um dir Vodka zu leisten. Geh, wohin du willst...</text>
 	</string>
 	<string id="freeman_help_one_0">
-		<text>Mich laust der Affe.. Mensch?! Gordon Freeman, höchstpersönlich! Hat man dich aus City 17 verjagt? Ich hab da mal ein Gerücht gehört, das du nach einem Angriff und den Tod eines Wssenschaftler verschwunden bist. Warte.. Bist du noch bei Evlav und Black Mesa angestellt oder hat man dich aufgegeben?</text>
+		<text>Mich laust der Affe.. Mensch?! Gordon Freeman, höchstpersönlich! Hat man dich aus City 17 verjagt? Ich hab da mal ein Gerücht gehört, das du nach einem Angriff und den Tod eines Wissenschaftler verschwunden bist. Warte.. Bist du noch bei Evlav und Black Mesa angestellt oder hat man dich aufgegeben?</text>
 	</string>
 	<string id="freeman_help_one_1">
 		<text>...\n \n \n \nFragen über Fragen! Evlav? Dieser Geldstinkende Verein. Die haben die Zusammenarbeit aufgeben. Nach dem Desaster mit dem Combine Advisor wollte ich verschwinden. Dann wurde aber alles Schwarz um mich. Ich hörte Alex noch, aber ihre Stimme wurde immer leiser. Nach einiger Zeit bin ich, was du als den Kordon kennst, aufgewacht. Dort traf ich ein Paar Männer. Die brachten mich zu einem Mann den man Sidorovich nennt.\n \nDieser hat mir ein Führer besorgt. Er führte mich durch ein Tal, vorbei an einem See und an einem Fabrikkomplex. Wir hatten uns zwischendurch auch ein paar Feuergefechte mit den Söldner geführt. Erinnerte mich an den Kampf in Black Mesa. Er wollte mich zu einem Mann namens Sahkarov bringen aber.. In der Luft herrschte eine seltsame stille. Die wurde aber von einem Leisen brummen überlagert. Der Stalker der mich führte fing irgendwann an zu stammeln und zu murmeln. Ich versuchte ihn anzusprechen aber sein blick fühlte sich an als würde dieser durch mich durchgehen. Mich durchfuhr sofort eine Erinnerung an die Ravenholm Geschehnisse. Die Augen waren Glasig und schal und seine Haut fing an bleich zu werden.\n \nPlötzlich hörte ich das Gebrüll, aus einer Entfernung, auf mich zukommen. Ich Flüchtete in einen Tunnel mit Haufenweise Blitze. Ich kämpfte mich bis zum Eingestürzten Ende des Tunnels durch. Dort blieb ich erstmal eine Weile und ruhte mich aus. Das Gebrüll verstummte dann irgendwann.\n \nKopfschmerzen hatte ich die ganze Zeit über, verdammte Kopfschmerzen. Irgendwann bin ich dann wohl eingeschlafen vor Erschöpfung. Ich weiß gar nicht. Wie lange ich mich dort aufhielt. Gefühlt.. eine Woche, Ein Monat aber in Wirklich waren es wohl  nur Stunden. Letzten Endes wurde ich von einem Geschrei geweckt. Ein Monster mit Zwei Köpfen hat es in den Tunnel geschafft. Es war riesig und massiv. Diese Blitze machten dem Vieh nichts aus. Es kam mir so vor als ob es sich darin badete und gleichzeitig sich auflud.\n \nZum glück hatte es mich nicht bemerkt. Ich Schlich mich an dem Ungetüm vorbei und auch an den Blitzen. Durch die Kettenreaktion des Monsters konnte ich nun alles bestens erkennen. Dann lief ich. Habe aber meine Ausrüstung darin liegengelassen. Ich kam nicht mehr dran. Wenn du mal dort in der Nähe bist, dann schau doch mal ob du mir die nicht besorgen könntest. Darunter war auch eine Modifizierte Desert Eagle.</text>
 	</string>
 	<string id="freeman_help_one_2">
-		<text>Keine Sorge, Ruhe dich erstmal aus. Ich werde deine sachen Finden.</text>
+		<text>Keine Sorge, Ruhe dich erstmal aus. Ich werde deine Sachen finden.</text>
 	</string>
 	<string id="freeman_bring_one_0">
 		<text>Hey, Gordon! Na, gehts dir wieder besser? Hier ist deine Kanone. Gefällt mir, ein richtiger Elefanten-Killer aber ein Brecheisen war nicht dabei.</text>
@@ -146,7 +144,7 @@
 		<text>Ich sehe, du hast dich schon eingelebt. Gefällt es dir hier beim Wirt? Pass aber auf und trink nicht zu viel auf Bruderschaft mit den Wächter da. Erzähl bloß nicht soviel von Black Mesa. Die könnten vielleicht auf komische Ideen kommen.</text>
 	</string>
 	<string id="freeman_case_help_1">
-		<text>Ich pass schon auf. Jedenfalls sehr gute Truppe hier, sehr gastfreundlich. Aber könntest du mir noch ein Gefallen tun?\n \nAls ich mit dem Stalker unterwegs war der mich führte trafen wir außer Söldner auch auf einen Typen namens "DeJames". Ihm hatte ich ein paar unterlagen vorübergehend gegeben. Wir wurden dann irgendwann im Kampf getrennt. Nun habe ich aber hier von anderer Seite gehört das der Typ anscheinend ein Schwindler und Hehler ist und auch mit Infos Dealt.\n \nIch fürchte das er mich an die Söldner oder dem Militär verkaufen will. In der Akte befinden sich ein paar sehr brisante Unterlagen zu "Evlav" und ihrem Geschäft Modell "Maets". Dabei geht es um Online Kontrolle, Statistiken und Abhängigkeit sowie weiteren Illegalen Geschäft Methoden. Aber auch die Stilllegung um Aperture Science.\n \nDer Typ Soll sich irgendwo im "Wild Gebiet" aufhalten und wohnt wohl in so einem Mobilen Pappkarton.</text>
+		<text>Ich pass' schon auf. Jedenfalls sehr gute Truppe hier, sehr gastfreundlich. Aber könntest du mir noch ein Gefallen tun?\n \nAls ich mit dem Stalker unterwegs war der mich führte trafen wir außer Söldner auch auf einen Typen namens "DeJames". Ihm hatte ich ein paar unterlagen vorübergehend gegeben. Wir wurden dann irgendwann im Kampf getrennt. Nun habe ich aber hier von anderer Seite gehört das der Typ anscheinend ein Schwindler und Hehler ist und auch mit Infos Dealt.\n \nIch fürchte das er mich an die Söldner oder dem Militär verkaufen will. In der Akte befinden sich ein paar sehr brisante Unterlagen zu "Evlav" und ihrem Geschäft Modell "Maets". Dabei geht es um Online Kontrolle, Statistiken und Abhängigkeit sowie weiteren Illegalen Geschäft Methoden. Aber auch die Stilllegung um Aperture Science.\n \nDer Typ Soll sich irgendwo im "Wild Gebiet" aufhalten und wohnt wohl in so einem Mobilen Pappkarton.</text>
 	</string>
 	<string id="freeman_case_help_2">
 		<text>Sicher, dafür bin ich der Mann hier in der Zone. "DeJames"? Noch nie von dem Typen gehört.\n \nBis später.</text>
@@ -170,89 +168,89 @@
 		<text>Ja das habe ich mittlerweile auch begriffen. Was ist passiert?</text>
 	</string>
 	<string id="freeman_case_bring_2">
-		<text>Der Hatte dich verarscht. Er ist ein Söldner. Wie du schon gut befürchtest hattest. Der wollte dich aufliegen lassen. Dann hatte er noch ein paar Stinktiere bei sich. Die Lutschen nun an Blei-Bonbons in der Hölle. Hier ist dein Koffer.
-</text>
+		<text>Der Hatte dich verarscht. Er ist ein Söldner. Wie du schon gut befürchtest hattest. Der wollte dich aufliegen lassen. Dann hatte er noch ein paar Stinktiere bei sich. Die Lutschen nun an Blei-Bonbons in der Hölle. Hier ist dein Koffer.</text>
 	</string>
 	<string id="freeman_case_bring_3">
-		<text>Mann, so ein Scheiß. Vielen Dank. Hier ... warte, das habe ich für dich. </text>
+		<text>Mann, so ein Scheiß. Vielen Dank. Hier.. warte, das habe ich für dich. </text>
 	</string>
 	<string id="gavr_doc_radar_0">
 		<text>Nun LeHavre, was kommt als nächstes?</text>
 	</string>
 	<string id="gavr_doc_radar_1">
-		<text>Marked One, onto the next order of business. One of the Monolithians was supposed to extract documents and deliver them to us. However communication with him has broken down, he doesn't answer his PDA. The last message we received from him came from the Radar. During an emission we think he took cover in Lab X-10. Your problem - to find him and to take the documents. We know that you have received a helmet which protects you from Psi-radiation from the scientists</text>
+		<text>Weiter geht es folgendermaßen, "Gezeichneter": ein "Monolither" sollte für uns wichtige Dokumente besorgen. Wir haben aber vor kurzem den Kontakt zu ihm verloren. Keine Verbindung mit seinem PDA mehr.\n \nDie letzte Nachricht kam an, als er am Hirnschmelzer war. Dann kam die Eruption, und ich denke, das er sich im Labor X-10 versteckte. Deine Aufgabe:\n \nFinden ihn und bringe die Dokumente hierher. Alles klar? Wir wissen ja, das du ein PSI-Helm von den Wissenschaftlern bekommen hast, der dich schützen kann.</text>
 	</string>
 	<string id="gavr_doc_radar_2">
-		<text>I Doubt an emission has the same effect on a Monolithian. Alright LeHavre, I will look for the guy</text>
+		<text>Ok. Ich glaube zwar nicht, das eine Eruption für ein "Monolither" gefährlich wäre... aber ich werde euch die Dokumente bringen.</text>
 	</string>
 	<string id="gavr_doc_radar_bring_0">
-		<text>I found your Monolithian. Only he is dead, and not just the Monolithian, also a lab full of mutants. Here take your documents</text>
+		<text>Ich hab eueren "Monolither" gefunden. Nur war er schon tot und, außerdem noch eine horde Mutanten.. Hier sind deine Dokumente.</text>
 	</string>
 	<string id="gavr_doc_radar_bring_1">
-		<text>So, the Marked One performs under pressure. A real professional! Well here, take a well-deserved reward</text>
+		<text>Mensch Gezeichneter! Hätte nicht gedacht das du es schaffst. Respekt. Da die Monolither ja alles sehr streng absichern. Lass mal sehen.. Ja.. die Dokumente sind es. Also, hier dein verdienter Lohn.</text>
 	</string>
 	<string id="bland_flash_talk_0">
-		<text>Freeman, we need to talk</text>
+		<text>Freeman, wir sollten uns unterhalten.</text>
 	</string>
 	<string id="bland_flash_talk_1">
-		<text>Marked One, what about?</text>
+		<text>Gezeichneter? Was gibt's?</text>
 	</string>
 	<string id="bland_flash_talk_2">
-		<text>As soon as I started this investigation into the death of my friend, Fang, at once Mercenaries began to appear. At first LeHavre, then Bolt, then Foreign Mercenaries have tried to kill me. I have extracted the document from LeHavre, also made a copy. Anything you can understand from it? I in general suspect that it was not sent to you</text>
+		<text>Seit dem ich die Umstände des Todes vom "Fang" untersuche, tauchen auf meinem Weg immer mehr Söldner auf. Erst "LeHavre", dann "Bolt", dann haben ausländische Söldner versucht mich umzubringen.\n \n Sag, du weißt nicht zufällig, woher sie kommen und was hier vor sich geht oder? Ich habe für "LeHavre" ein Dokument besorgt und hatte mir eine Sicherheitskopie gezogen. Schau mal rein, vielleicht verstehst du mehr als ich, was da drin steht.\n \nObwohl ich so ein Verdacht habe, das du hier auch nicht einfach so rumhängst.</text>
 	</string>
 	<string id="bland_flash_talk_3">
-		<text>Marked One, I am on the task. So... Interesting... All! I, apparently, have understood, who and what for Fang was killed. But I do not have enough information. Listen, Marked One, such business, in papers that you have brought in my case, there were for some documents of DeJames. And so in them it is told about a super confidential meeting of leaders of the Mercenaries. The meeting as I have understood, should occur somewhere in the Dark Valley. And so, at this meeting there will be a certain Bland. He should have an important flash card, you need to descend there and to take away this flash card. Also hurry, Marked One, soon other leaders will arrive and there will be no place there to spit at for protection</text>
+		<text>Gezeichneter, Ich hab hier meine eigenen Aufgaben. So... Interessant... Ich glaube ich fang an zu verstehen. Die Daten sind dennoch unvollständig.\n \nHör zu, "Gezeichneter". In dem Koffer, den du mir gebracht hast, waren auch Papiere und Dokumente von "DeJames". Es geht hervor, das bald ein supergeheimes Treffen der Söldner-Anführer ansteht. Es soll irgendwo im "Dunklen Tal" stattfinden. Auch ein gewisser "Blend" kommt zu diesem Treffen. Er hat wohl die fehlenden wichtigen Daten auf seinem Speicherstick. Die Söldner machen es oft so, sie splitten die Dokumente und teilen diese zwischen den Anführern auf, damit ihre Geheimnisse besser geschützt sind.\n \nWir brauchen diesem Stick, um weiter zu kommen. Und beeil dich, bald kommen da auch die anderen Anführer an, dann wird die Bewachung zu stark sein.</text>
 	</string>
 	<string id="bland_flash_talk_4">
-		<text>I will find this Bland and get the Card... I have great hopes that this will finally solve my friends murder!</text>
+		<text>Ok, ich werde diesen "Blend" finden und den Speicherstick besorgen. Es wird uns hoffentlich helfen, endlich den Mörder zu finden.
+</text>
 	</string>
 	<string id="bland_flash_bring_0">
-		<text>Here is the Flash Card of Bland, take it</text>
+		<text>Ich hab' Blend's Speicherstick. Hier.</text>
 	</string>
 	<string id="bland_flash_bring_1">
-		<text>Give it here and I will examine it. Well here... as I thought. In general, Marked One, business such. One of the gangs of Mercenaries which basically consists of foreigners, has decided to grasp the Monolith. For what I do not know, but hardly for something good. Fang was employed to work alone. Simply it was one of those not many who made campaigns in the Zone center. Such person was necessary to Mercenaries and consequently they have suggested it to work on them, having told that orders arrive from various scientific research institutes. And you know that Fang was clever with electronics and helped the scientists in Yantar. But in due course Fang has scented wrong and has started to dig. They have discovered it and have ordered the hit. Who do you think gave the order?... LeHavre! He must be the main co-ordinator of this organization in the Zone. Without these documents nobody solves anything. By the way here to you a gift from me</text>
+		<text>Ok, lass mal sehen. Ach.. Sieh dir das an: Eine Söldnergruppe bestehend aus Ausländern hatte beschlossen den "Monolith" in ihre Gewalt zu bringen. Wofür.. Kann ich dir nicht sagen aber das verheißt sicher nichts Gutes.\n \nWeiter steht.. Dass sie ein Stalker namens "Fang" unter falschen Vorwand benutzt hätten um an seine Kenntnisse, was die Elektronik angeht, ranzukommen die sie wohl dringen benötigen. In seinem Profil was hier angelegt wurde steht, das er einer der wenigen ist, die es überhaupt ins Zentrum der Zone geschafft hätten .. und .. wieder rauskamen. Genauso ein Mann suchten sie. Da er sich eben sehr gut mit Elektronik auskannte wie auch mit Wissenschaftliche Arbeiten. Er soll mit einem Experten in einem.. Mobilen Labor in Jantar zusammengearbeitet haben.\n \nOh-ha, das wird dich interessieren. Hier gibt es eine Text Message zwischen einem Typen und "LeHavre". Demnach soll "Fang" wohl Verdacht geschöpft haben und als er versuchte hatte bei in ein paar Angelegenheiten Tiefer zu graben flog er auf. Daraufhin wurde er. . Eliminiert. Von einem Scharfschüztzen. Angeordnet wurde es wohl von "LeHavre". Er ist wohl auch der Kopf dieser Geschichte.\n \nGezeichneter? Das ist echt heißes Zeug. Das mit "Fang" tut mir leid. Schien wohl ein netter Kerl gewesen zu sein. Ach ja.. Hier das ist noch für dich.</text>
 	</string>
 	<string id="bland_flash_bring_2">
-		<text>Thanks, Freeman, I suspected that LeHavre of a bough, but now I am assured of it. All right. I will go, good riddance to that bum!</text>
+		<text>Danke, Gordon. Irgnedwie habe ich schon vermutet das da was im Busch ist. Eins kann ich dir flüstern, der Typ ist fertig mit der Welt.\n \nBis später.</text>
 	</string>
 	<string id="bland_flash_bring_3">
-		<text>Good luck, Marked One. Be more careful</text>
+		<text>Viel Glück, Gezeichneter. Sei vorsichtig.</text>
 	</string>
 	<string id="freeman_braad_one_0">
-		<text>How's life treating you these days... Freeman?</text>
+		<text>Hey Gordon, wie sieht's aus?</text>
 	</string>
 	<string id="freeman_braad_one_1">
-		<text>Same as usual... here now, there later... you know how it is</text>
+		<text>Wie eh' und jeh'. </text>
 	</string>
 	<string id="freeman_braad_one_2">
-		<text>Life can be a little warped now and then, can't it... well... hope you're around for awhile, eh!</text>
+		<text>Ja, mitunter kann das Leben echt übel sein, kümmern wir uns aber erstmal um diese Blutsuager da draußen(*).</text>
 	</string>
 	<string id="gavr_final_dialog_0">
-		<text>Well, the Chap, has learnt me? You know, what for I have come?</text>
+		<text>LeHavre? Weißt du zufällig warum ich hier bin?</text>
 	</string>
 	<string id="gavr_final_dialog_1">
-		<text>Slow down man... let us have a drink... I have some nice Cognac here... Our base in the Dark Valley recently - was that your work?</text>
+		<text>Warte! Laß' uns erstmal reden! Trinken wir einen, ich hab hier noch eine Flasche echten Cognac liegen. Ist die Sache mit userer Basis im Dunklen Tal dein Werk?</text>
 	</string>
 	<string id="gavr_final_dialog_2">
-		<text>Yes I have no place to hurry up especially, give. Yes base - my work. And your six of Bland I too enjoy. But now I have exact proof of your fault. For who has killed my friend Fang?</text>
+		<text>Gieß ein. Ich hab jetzt alle Zeit der Welt. Du bist ja derjenige, der nicht mehr lange zu leben hat. Und ja, ich war das. Und ich gab' auch deinem Mitläufer, "Blend", die letzte Ölung. Ich hab jetzt alle Beweiße die ich brauche.\n \nAlso.. Auf "Fang" - Prost.</text>
 	</string>
 	<string id="gavr_final_dialog_3">
-		<text>It worked any time for us in dark, thinking that works on scientists. We to it well paid, to begin with even gave it tasks on more harmless, type bring an artefact, remove gauging. Though an overall objective always was - the Monolith. We searched for possible ways of pass to the Monolith, and you, that is Streloks, and Fang - one of the few who there happened and knew as there to get. But, probably, he began to suspect us, has started to dig, and has then tried to disappear. We were afraid that it, can merge the information on us to somebody and consequently I have personally made the decision on Fang liquidation. The sniper waited for it in village of bloodsuckers. Further you know</text>
+		<text>Ach ja.. "Fang"..  "Fang"... "Fang".....\n \nWir hatten mit ihm zusammengearbeitet ohne das er überhaupt eine Ahnung hatte. Wir ließen ihn im Glauben, das er Aufträge für die Wissenschaftler  erledigt. Wurde gut bezahlt und gaben ihm anfangs harmlose Aufgaben - Messungen, Artefakte sammeln, Anomalien Untersuchen.\n \nDas Hauptziel war aber immer der "Monolith". Wir suchten Wege, um zum "Monolithen" zu gelangen. Und du, sowie "Fang" gehören zu den wenigen, die dort waren und um die Möglichkeiten wussten, um dahin zu kommen. Er hatte irgendwann aber Verdacht geschöpft, hat rumgeschnüffelt wie ein Hund und wollte verschwinden. Tja.. und wie das nun mal ist, musste was getan werden.\n \nWillst du noch ein Schluck.. Moment.. Wie du dann sicherlich weißt habe ich ein Scharfschützen auf "Fang" gesetzt. Im Blutsauger Dorf bekam er dann ein Kopfschuss. Den Rest kennst du ja selbst. Du siehst echt nicht gut aus alle Ok? Irgendwie Bleich um die Nase...</text>
 	</string>
 	<string id="gavr_final_dialog_4">
-		<text>Lines that that is stuffy. I have found the murderer, it is time to the Miner... About what it I? Ah you of a bough... You... You have poisoned me. Vile selling death, well...</text>
+		<text>Was..? Scheiße ist mir heiß.. Du verdam..mtes.. A-rschloch. Du hast.. Pis..</text>
 	</string>
 	<string id="gavr_final_dialog_5">
-		<text>Have a rest my friend</text>
+		<text>Du blöder Fixer.. Kuck mich an wenn ich mit dir Rede.. Los schau mir in die Augen. Du verfickter Stalker . Meinst du, du kannst hier reinspazieren und mich "LeHavre" killen. Ja seh' ich etwa so bescheuert aus. Da musst du schon früher aufstehen. Du solltest nie mit jemanden Trinken den du killen willst. Matchbirne.\n \nSchöne Träume du Arsch..</text>
 	</string>
 	<string id="gavr_finalend_dialog_0">
-		<text>Aaa... My head. I should go to the Miner... Where it I? And, I see, well you and... What it, what it was?</text>
+		<text>Aaa... So ein Arsch. Mein Kopf. Fuck.. Hört das den gar nicht auf. Man sind das Hammer Kopfschmerzen. Ich sollte zu dem Höhlenbewohner "Miner" gehen.</text>
 	</string>
 	<string id="gavr_finalend_dialog_1">
-		<text>It only soporific, do not worry you while to me live it is necessary, well has had a rest? Yes spit you on Fang, about itself see to it better</text>
+		<text>Mann, Entspann dich, das war nur ein Schlafmittel. Ich brauch dich ja noch lebend. Hast du dich ausgeruht? Vergiss "Fang", mach dir lieber Sorgen um dein eigenes Leben.</text>
 	</string>
 	<string id="gavr_finalend_dialog_2">
-		<text>Spit you speak? Here so to take and forget that was? Say 'Fang, you certainly the guy good, we with you have together worried so much, but now I and about myself should see to it'. So you offer? And so know - Strelok does not betray</text>
+		<text>Wag es nicht noch mal sein Namen auszusprechen. Du hat ein Angebot, dann raus damit. Aber damit du es weißt. Du bist sowas von Tot.</text>
 	</string>
 	<string id="dan_priremont_dialog_0">
 		<text>Can we do some trading? Parts of mutants for cartridges and artefacts</text>
@@ -2916,4 +2914,4 @@
 		<text>No... Denis is a trusted friend. So who has visited us that could have known? Alright, have a rest but not too long. The Astrologer has sent an SMS for you to meet him in the Cordon at the rookie village. I communicated with the Doctor and told him to let the Astrologer know I'm alive. I'm not sure what this guy is up to but we need to be careful with him, he's a smooth operator. I want you to deliver this copy of my map to him</text>
 	</string>
 </string_table>
-<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 07.07.2017 01:11:18 -->
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 08.07.2017 05:30:37 -->
