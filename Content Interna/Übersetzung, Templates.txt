@@ -661,6 +661,9 @@ dialog_amk_11_recipt	-> stable_dialogs_amk.xml, Stimmt der Verkauf 30.000 Rubel
 stable_dialogs_escape.xml-> escape_trader_jobs_outfit_yes_1 (Military Uazik = Soviet Army 4x4)
 stable_dialogs_escape.xml-> escape_trader_jobs_outfit_not_1 (Perfect Beryl-5M)
 stable_dialogs_escape.xml-> kostya_taynik_9 (Artefakt? Positions Angabe)
+
+stable_dialogs_new.xml	-> dan_trade_buck_1 (Händler Liste )
+stable_dialogs_new.xml	-> yakut_help_4 "Notebook" Tatsche?
 ==========================================================================================================
 
 

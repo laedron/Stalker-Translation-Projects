@@ -201,8 +201,7 @@
 		<text>Gezeichneter, Ich hab hier meine eigenen Aufgaben. So... Interessant... Ich glaube ich fang an zu verstehen. Die Daten sind dennoch unvollständig.\n \nHör zu, "Gezeichneter". In dem Koffer, den du mir gebracht hast, waren auch Papiere und Dokumente von "DeJames". Es geht hervor, das bald ein supergeheimes Treffen der Söldner-Anführer ansteht. Es soll irgendwo im "Dunklen Tal" stattfinden. Auch ein gewisser "Blend" kommt zu diesem Treffen. Er hat wohl die fehlenden wichtigen Daten auf seinem Speicherstick. Die Söldner machen es oft so, sie splitten die Dokumente und teilen diese zwischen den Anführern auf, damit ihre Geheimnisse besser geschützt sind.\n \nWir brauchen diesem Stick, um weiter zu kommen. Und beeil dich, bald kommen da auch die anderen Anführer an, dann wird die Bewachung zu stark sein.</text>
 	</string>
 	<string id="bland_flash_talk_4">
-		<text>Ok, ich werde diesen "Blend" finden und den Speicherstick besorgen. Es wird uns hoffentlich helfen, endlich den Mörder zu finden.
-</text>
+		<text>Ok, ich werde diesen "Blend" finden und den Speicherstick besorgen. Es wird uns hoffentlich helfen, endlich den Mörder zu finden.</text>
 	</string>
 	<string id="bland_flash_bring_0">
 		<text>Ich hab' Blend's Speicherstick. Hier.</text>
@@ -253,181 +252,181 @@
 		<text>Wag es nicht noch mal sein Namen auszusprechen. Du hat ein Angebot, dann raus damit. Aber damit du es weißt. Du bist sowas von Tot.</text>
 	</string>
 	<string id="dan_priremont_dialog_0">
-		<text>Can we do some trading? Parts of mutants for cartridges and artefacts</text>
+		<text>Hey Dan! Ich habe ein paar Mutanten-teile. Kannst du die umstauschen in Muntion oder Artefakte?</text>
 	</string>
 	<string id="dan_priremont_dialog_1">
-		<text>Basically, I can. First, you need to bring to me 40 PDAs then we will talk</text>
+		<text>Im grunde schon.\n \nBesorg mir aber erstmal Vierzig PDA's. Dann sehen wir weiter.</text>
 	</string>
 	<string id="dan_priremont_dialog_2">
-		<text>Alright I will go and search for the PDAs. Mutant parts for ammo and artefacts sounds like a good deal</text>
+		<text>Wah? Willst du ein Elektronik Laden aufmachen? Na gut. Ich treib'  die teile auf. Sachen gibt's..</text>
 	</string>
 	<string id="dan_repair_0">
-		<text>Dan, I have some work for you, I need something repaired</text>
+		<text>Dan, ich hab hier Arbeit für dich, du mußt mal was reparieren.</text>
 	</string>
 	<string id="dan_repair_1">
-		<text>Lets take a look at what you have there</text>
+		<text>Dann lass mal sehen, was du da hast.</text>
 	</string>
 	<string id="dan_repair_2">
-		<text>Repair the first weapon</text>
+		<text>.. Die Waffe im Pistolen Slot</text>
 	</string>
 	<string id="dan_repair_3">
-		<text>Repair the second weapon</text>
+		<text>.. Die Waffe im Gewehr Slot</text>
 	</string>
 	<string id="dan_repair_4">
-		<text>Repair the armor</text>
+		<text>Repariere den Anzug.</text>
 	</string>
 	<string id="dan_repair_5">
-		<text>YO eat, well at you and the price to be stunned! Yes well this repair in a bath so I resemble!</text>
+		<text>Mann, das sind ja Preise, da dreht man ja ab! Nein, lass mal...</text>
 	</string>
 	<string id="dan_repair_6">
-		<text>Hold, all works as it is necessary!</text>
+		<text>Hier, alles wieder in Ordnung!</text>
 	</string>
 	<string id="dan_repair_7">
-		<text>Catch. All that is necessary, is made!</text>
+		<text>Alles erledigt. Nimm mit.</text>
 	</string>
 	<string id="dan_repair_8">
-		<text>You certainly know your way around such things. It's perfect!!</text>
+		<text>Hmmm. Na gut. Aber wehe du vergißt mich...</text>
 	</string>
 	<string id="dan_repair_9">
-		<text>Yes, you do good work ... well worth the money!!</text>
+		<text>Nicht schlecht, du weißt wie man sowas macht.</text>
 	</string>
 	<string id="dan_repair_10">
-		<text>Can you repair something else?</text>
+		<text>Kannst du noch etwas anderes reparieren?</text>
 	</string>
 	<string id="dan_repair_11">
-		<text>Certainly I can, at me clients while it is small.\n \nthe List of possible repairs:</text>
+		<text>Sicher. Ich hab ja hier kaum Kunden...\n \nMeine Liste:\n</text>
 	</string>
 	<string id="dan_bring_pda_0">
-		<text>Well Dan, I had a hard time stuffing all these PDAs into my backpack. But here they are</text>
+		<text>So Dan! Ich habe hier ein Rucksack voller PDA's. Warte... Da.</text>
 	</string>
 	<string id="dan_bring_pda_1">
-		<text>Nice work Marked One. Now its possible for you to trade a larger variety of mutant parts</text>
+		<text>Warte.. kippe nicht alles den Tisch.. - mann.\n \nNagut, wenn du Mutaneile hast, kommen wir ins Geschäft. Jetz muss ich erstmal die ganzen PDA's wegräumen.</text>
 	</string>
 	<string id="dan_trade_buck_0">
-		<text>Dan, what will you take in trade?</text>
+		<text>Ok Dan? Was hast du so im Angebot?</text>
 	</string>
 	<string id="dan_trade_buck_1">
-		<text>Nobody in the Zone trades mutant parts on the level I do. These hands, feet, tails, eyes and are necessary to nobody for nothing, neither Sidorovich, nor to local stalkers! The nearest place where you can get something for them is in the Garbage, to the stalker by name of Raven, and that's just tails. But if your just looking for cash the scientist in the bunker, on lake Yantar, researches parts of bodies of mutants from all corners of the Zone. He pays a decent price, we do a lot of business with him. Still I would advise to check with Raven and see what he has to offer...Now, Marked One, here's what I offer: For 3 big eyes of fleshes - I will give 3 packs of armour-piercing cartridges 9x19. For 5 heads of Tushkanos - 3 packs of armour-piercing cartridges 11.43x23. If you bring 2 hands of the Controller - you will receive 5 packs of armour-piercing 5.45 mm</text>
+		<text>Warte.. Dazu muss ich sagen das keiner in der Zone mit Mutanten Teile so handelt wie ich. Dazu zählen Hände, Füße, Schwänze, Augen, Krallen und so'n Zeug. Ich verhökere die Sachen nicht einfach so oder biete es Gratis an. Selbst nicht mal den Stalkern hier Vorort oder dem arroganten Sidorovich.\n \nDer nächste Händler, der damit Geschäfte macht ist "Raven" bei der Müllhalde. Aber selbst er macht nur in Mutanten Schwänze von Wirbeltieren.\n \nWenn du deine gejagtes gegen Geld eintauschen willst dann solltest du nach Jantar. Der Wissenschaftler im Forschungs bunker zahlt gut für Mutanten Sachen aus der Zone, da er diese für seine Forschung benötigt. Kannst es aber trotzdem bei "Raven" probieren um zu sehen was er so anbietet.\n \nAlso Gezeichneter, bei mir gibt es nur Munition und das kann ich dir anbieten\n2 Packungen 9x19mm PB1s-Muniton für 3 Augen vom "Fleisch"\n3 Packungen 45ACP Hydro-Shock Munition gegen 10 Köpfe von diesen Tuskano Ratten\n5 Packungen 5.45x39mm Panzerbrechende Munition für 4 Hände vom Telepathen. OK.. Plus ein Flasche Vodka.</text>
 	</string>
 	<string id="dan_trade_buck_2">
-		<text>Greetings, Dan, here's the eyes!</text>
+		<text>Ich hab' Augen vom Mutanten "Fleisch". Gib mir die 9x19mm PB1s-Muniton.</text>
 	</string>
 	<string id="dan_trade_buck_3">
-		<text>Greetings, Dan. I have those Tushkano heads you wanted...</text>
+		<text>Ich hab' Köpfe von "Tuskano's". Gib mir die 45ACP Hydro-Shock Munition.</text>
 	</string>
 	<string id="dan_trade_buck_4">
-		<text>Mmat, till now noise in a head from this creature! It would be advisable to fill up cartridges, and, Dan?!</text>
+		<text>Ich hab' Hände vom "Telepathen". Gib mir die 5.45x39mm PB Munition.</text>
 	</string>
 	<string id="dan_trade_buck_5">
-		<text>Hold cartridges, you can not recalculate - all precisely</text>
+		<text>Hier ist deine Muniton. Nachzählen musst du selbst.</text>
 	</string>
 	<string id="dan_trade_buck_6">
-		<text>About, has brought, the good fellow, just the client on them is available for me</text>
+		<text>Das wird dem Kunden gefallen. Ich habe da gerade einen der sowas benötigt.</text>
 	</string>
 	<string id="dan_trade_buck_7">
-		<text>Is not present, the brother, itself you understand, cartridges now in the price, especially armour-piercing! Except me, here only fighters trade in them, so take how many agreed, well and here to you, the gift - to steam of small bottles darling - to sit, relax, while trousers will dry, brains a little to clean</text>
+		<text>Bruder, verstehe mich auch, Munition ist hier eine gefragte Währung. Panzerbrechende Munition. Und außer mir hat die nur Sidorovich im Angebot, also kriegst du nur die abgesprochene Anzahl.\n \nImmerhin kann ich noch eine Flasche Vodka drauf packen.</text>
 	</string>
 	<string id="dan_trade_buck_8">
-		<text>Well it is fine, Dan, I will go, I send on errands creatures, ammunition is painfully necessary</text>
+		<text>Alles gut Dan! Ich werde dise Muntanten Teile gegen deine Munition eintauschen, sobald ich sie benötige.</text>
 	</string>
 	<string id="dan_grab_helmet_0">
-		<text>Dan, what's on your mind?</text>
+		<text>Dan, wo bist du mit deinen Gedanken?</text>
 	</string>
 	<string id="dan_grab_helmet_1">
-		<text>Marked One, listen, I have received precise information that at this very moment, on the Agroprom military base, scientists have brought something unusual. Its not precisely known what it is, but its a complex top secret project. With your obvious skills and dislike of the military, I thought you might want to participate in this operation</text>
+		<text>Hör zu, Gezeichneter. Ich bekam Informationen darüber, das in Kürze auf der Militärbasis im Agroprom irgendeine ungewöhnliche Ladung eintreffen soll. Was das genau ist? Keine Ahnung, aber die Basis wird nun stark bewacht. Ich kenne dich und du bist auf das Militär nicht gerade gut zu sprechen.\n \nIch schlage dir vor, uns bei dem Überfall auf die Basis zu helfen?</text>
 	</string>
 	<string id="dan_grab_helmet_2">
-		<text>Dan, you better not be setting me up. If you deceive me, I will tear your head off</text>
+		<text>Dan! Wenn das stimmt? Bei sowas sollten wir vorsichtig sein?</text>
 	</string>
 	<string id="dan_grab_helmet_3">
-		<text>Marked One, you're not being fair! This information is reliable and a group of fighters are waiting to join you for the assault. When you arrive on the Agroprom, you will meet with Arhara and his men. A solid group of veterans, with lots of experience in the Zone. Arhara was once a member of 'Freedom', but then had some disagreements with Lukash. He left and took his men to form a group of 'independents'</text>
+		<text>Gezeichneter, für wen hälst du mich denn? Die Info ist sicher, Jungs würden nur noch auf dich warten, ansonsten ist schon alles vorbereitet. Wenn du nach Agroprom gehst, wird da auf dich "Arhara" mit seinem Team warten. Alles erfahrene Leute.\n \n"Arhara" selbst war mal bei der Freiheit. Bekam sich aber mit Lukash irgendwann in die Wolle. Darauhin startete er seine eigene kleine Indie Fraktion..</text>
 	</string>
 	<string id="dan_grab_helmet_4">
-		<text>Alright Dan I will go and meet Arhara. I will judge what kind of a man he is for myself</text>
+		<text>OK, ich werde mich mit Arhara treffen. Dann sehen wir weiter.\n \nBis später.</text>
 	</string>
 	<string id="yakut_agro_helmet_0">
-		<text>Are you Arhara?</text>
+		<text>Bist du "Arhara"?</text>
 	</string>
 	<string id="yakut_agro_helmet_1">
-		<text>Yes, and you must be Marked One? Greetings, we have been waiting for you. Let me tell you our plan, we go through the southern gate and put down resistance in the compound. While you will be engaged in the main complex and will take away from the scientists a parcel. There Ivaschenko, the head scientist, will be with the parcel likely on his person</text>
+		<text>Ja und musst du der Gezeichnete sein?!. Moin. Etwas länger.. und wir hätten die Aktion ohne dich gemacht. Da du jetzt hier bist, erzähl ich dir wie das abläuft. Machen wir es kurz.\n \nWir gehen durch das Süd-Tor rein und beseitigen den Widerstand. Du gehst vorne durch den Hauptkomplex und nimmst den Wissenschaftler das Paket ab. Der Chef bei denen ist ein gewisser "Iwashenko". Wir vermuten das er dieses Packet bei sich.</text>
 	</string>
 	<string id="yakut_agro_helmet_2">
-		<text>The plan sounds good, lets go. Its nice to meet some fighters willing to share the risk</text>
+		<text>Hört sich gut an. Das wird einfach. Dann laß uns mal loslegen.</text>
 	</string>
 	<string id="dan_bring_helmet_0">
-		<text>Dan, it was there. Here I brought this helmet</text>
+		<text>Dan, hier. Um diesen "Helm" ging es.</text>
 	</string>
 	<string id="dan_bring_helmet_1">
-		<text>This is interesting, your a fine fellow Marked One. Here's your reward. I will examine this for awhile and we will speak later. Yes, Arhara asked if you would come and see him about some business</text>
+		<text>Mensch, das ist.. interessant. Bin froh das du auf unsereer Seite bist Gezeichneter. Hier. Für dich. Ach.. "Arhara" fragte nach dir. schau bei ihm vorbei und ich sehe mir das hier mal an. Komme später vorbei. Ok.</text>
 	</string>
 	<string id="yakut_help_0">
-		<text>Hello Arhara, Dan said you wanted to talk to me?</text>
+		<text>Hallo, "Arhara"! Dan hat mich gebeten bei dir vorbeizuschauen. Ist was passiert?</text>
 	</string>
 	<string id="yakut_help_1">
-		<text>One of my men went into the Agroprom underground two days ago and has not returned. You know from experience that the place is full of evil spirits, bandits, mutants, and even soldiers. He had a notebook of mine that I wouldn't want to fall into the wrong hands. Will you find him and bring back the notebook?</text>
+		<text>Es sieht so aus, "Gezeichneter": Einer meiner Leute ging in die Agroprom-Katakomben... Schon vor zwei Tagen, und ist immer noch nicht zurück. Du kennst es ja selber, da kriechen Mutanten rum, und Banditen sind da unten auch anzutreffen. Wahrscheinlich weilt er nicht mehr unter uns. \n \nLeider hatte er ein Laptop mit wichtigen Infos dabei, welche nicht in fremde Hände gelangen dürfen. Kannst du ihn dort rausholen?</text>
 	</string>
 	<string id="yakut_help_2">
-		<text>Why don't you send one of your own fighters?</text>
+		<text>Im grunde schon aber warum geht ihr nicht selbst? Schick doch einen von deinen Leuten...</text>
 	</string>
 	<string id="yakut_help_3">
-		<text>There are only a few of us left now, so I can't take the risk. Bandits and mutants grow in numbers, every man with a weapon is important. You, as I saw for myself, are a master. You know the catacombs better than any Stalker. The men have donated cartridges to give to you</text>
+		<text>So viele Jungs hab ich auch nicht mehr zu Verfügung, die Banditen und Mutanten sind in letzter Zeit so ziehmlich aktiv, da zählt jede Patrone und Waffe.\n \nVersteh' doch, ich darf meine Leute keinem Risiko aussetzen. Nicht jetzt. Auserdem du kennst dich besser mit den Katakomen aus als andere Stalker.\n \nHilf mir und ich werde dich dafür mit Munition bezahlen. Wir haben da einen kleinen Vorrat von den Soldaten. Den haben die mit uns geteilt.</text>
 	</string>
 	<string id="yakut_help_4">
-		<text>I will find your notebook, cartridges I always need</text>
+		<text>Ich finde den "Laptop", muss nicht sein aber Munition ist nicht verkehrt.</text>
 	</string>
 	<string id="yakut_help_bring_0">
-		<text>How's the situation now?</text>
+		<text>So, ich bin zurück. Wie ist die Situation?</text>
 	</string>
 	<string id="yakut_help_bring_1">
-		<text>My fighters are under too much pressure holding this complex. We may need to leave here. Do you have the notebook?</text>
+		<text>Wir stehen hier mächtig unter Druck um diesen Komplex zu halten. Hast du den "Laptop" gefunden?</text>
 	</string>
 	<string id="yakut_help_bring_2">
-		<text>Yes, here you are. Your man is dead, I believe he ran into an Electro anomaly while trying to escape the Controllers</text>
+		<text>Ja, hab ich. Hier... Du hattest Recht, dein Mann ist tot, tappte wohl selbst in eine "Elektro Anomalie" als er, vor den Telepathen die da unten Hausen, flüchten wollte.</text>
 	</string>
 	<string id="yakut_help_bring_3">
-		<text>Thanks Marked One, we are lucky to have you as a friend. Controllers you say? then it really is necessary to change location</text>
+		<text>Großartig, Danke Gezeichneter, du hast uns echt geholfen. Hier ist die versprochene Munition. Telepathen, sagst du? Shit, dann müssen wir unsere Position neu umdenken und eine Strategie einfallen lassen.. Danke für die Warnung.\n \nBis später.</text>
 	</string>
 	<string id="yakut_need_do_0">
-		<text>Arhara, is there anything else?</text>
+		<text>"Arhara"? Du siehst nachdenklich aus?</text>
 	</string>
 	<string id="yakut_need_do_1">
-		<text>Marked One, there is another task on the Radar. In the red wood, near a helicopter, lies a backpack and nearby a foot locker. Take away anything you find there as an award. The most important thing at the crash site is my laptop, it contains important data! I need you to find it and bring to my brother Yakut</text>
+		<text>Ich überlege grade was... Ich hab im Roten Wald, beim Radar, ein Rucksack-Versteck. Neben dem Hubschrauber, da ist noch so eine Metall-Box in der Nähe. In dem Versteck liegen verschiedene Kleinigkeiten, die könntest du als Bezahlung behalten. Aber das wichtigste - da liegt mein Notebook drin. Viele Dinge sind da drauf gespeichert und ich brauche ihn dringend.\n \nKönntest du den für mich holen? Oder warte mal, noch besser wäre es, wenn du das Laptop  bei meinen Bruder, "Yakut", ablieferst.</text>
 	</string>
 	<string id="yakut_need_do_2">
-		<text>Arhara, the Psi-radiation will kill me before I even get close to the crash site. Also, where would I find your brother Yakut?</text>
+		<text>"Arhara", weßt du, was du da redest? Wie soll ich denn da durchkommen? Die PSI-Einwirkungen machen doch mein Hirn zu Brei. Und was für ein Bruder, wo sollte ich ihn, zum Teufel, suchen?</text>
 	</string>
 	<string id="yakut_need_do_3">
-		<text>Marked One, remember the helmet you took to Dan? It will help you, with it you can pass through Psi-radiation</text>
+		<text>Geh doch mal zum Dan. Weßt du noch, wir haben im Agroprom diesen Koffer mit dem Helm erbeutet. Der wäre ganz nutzlich. Damit kannst du dich vor der PSI-Strahlung schützen.</text>
 	</string>
 	<string id="yakut_need_do_4">
-		<text>Alright, I will go speak to Dan, but I have my doubts about this helmet...</text>
+		<text>Stimmt.. Gut, ich treffe mich mit Dan. Mal sehen wie der Helm funktioniert?</text>
 	</string>
 	<string id="yakut_need_do_5">
-		<text>don't worry brother, I speak the truth. You will find Yakut in the Army Warehouses. He is camped with a group of stalkers, their leader is called Wolf</text>
+		<text>Mach dir keine Sorgen, Bruder... Vertrau mir. Mein Bruder "Yakut"  findest du bei den Armee Lagerhäusern, er hängt in letzter Zeit in dem Stalker-Camp rum. Der Jetzige anführer ist "Wolf".\n \nBis Später.</text>
 	</string>
 	<string id="yakut_done_notebook_0">
-		<text>Are you Yakut? I have brought you the laptop</text>
+		<text>Bist du "Yakut"? Ich hab hier den Laptop deines Bruders...</text>
 	</string>
 	<string id="yakut_done_notebook_1">
-		<text>Marked One! Long live your mother! My brother will be happy you found the laptop and that you returned safely. Arhara praised you, says your a professional</text>
+		<text>Gezeichneter! Du bist am Leben, verdammt! Ich hab schon fast die Hoffnung verloren... Und den Laptop hast'e auch dabei! Mein Bruder wird sich echt freuen das zu hören. Du hast uns echt geholfen, "Arhara" hat dich zurecht gelobt.</text>
 	</string>
 	<string id="yakut_done_notebook_2">
-		<text>I'm glad its over, too many Anomalies and doggies...</text>
+		<text>Danke.. Du kannst aber einem echt Honig um den bart schmieren, Alter.</text>
 	</string>
 	<string id="dan_nauch_flash_0">
-		<text>Dan, have you learned anything about the helmet?</text>
+		<text>Hallo Dan! Jetzt wäre der Zeitpunkt gekommen den Schutz Helm zu testen. Hast du was darüber in Erfahrung gebracht?</text>
 	</string>
 	<string id="dan_nauch_flash_1">
-		<text>Yes, its almost adjusted, but I'm missing some information. Listen, have you gathered info from laboratory X-18? There's some data in this laboratory about the influence of Psi-waves on the human brain. For certain they have more detailed information on this phenomenon. Bring to me the information from there or a flash card with the data. With this info I could adjust it quickly</text>
+		<text>Junge, du hast ein Prototyp des PSI-Schutz-Helmes erbeutet! Er war zwar nicht auf die richtig eingestellt, aber ich hab ihn fast fertig justiert. Nur mir fehlen noch ein paar Informationen...\n \nHör' mal, du hast doch vor in das X-18 Labor zu gehen? Es gibt Berichte, das man in diesem Labor die Wirkung der PSI-Strahlung auf das menschliches Gehirn erforscht. Da gibt es bestimmt noch Daten darüber.\n \nWenn du im Labor irgendwelche Speichersticks oder Infos findest - bring diese mir bitte. Dann kann ich den Helm in Handumdrehen justieren.</text>
 	</string>
 	<string id="dan_nauch_flash_2">
-		<text>I will go to the lab and look for the flash card for you. I can't go to the Radar without a working helmet</text>
+		<text>Dann gehe ich erstmal ins X-18 Labor. Ich muß dringend zum Radar, und ohne Schutzhelm kommt man da nicht durch.\n \nIch schau' was ich an Infos finde.</text>
 	</string>
 	<string id="dan_nauch_flash_bring_0">
-		<text>Greetings Dan, here's the flash card</text>
+		<text>Grüß dich, Dan! Ich hab ein Speicherstick im Labor gefunden.</text>
 	</string>
 	<string id="dan_nauch_flash_bring_1">
-		<text>Well, let me take a look. Aha... So... that's what's necessary. Marked One, Wait while I adjust the helmet and I will give it to you... The helmet is adjusted and should protect you from Psi-radiation. Here you are, good luck Marked One</text>
+		<text>Lass mal sehen.. Aha.. So.... Genau! Das ist es, was wir brauchen. Warte, ich Konfiguriere noch die Einstellung am Schutz Helm zu enden.\n \nHier, fertig! Jetzt sollte er dich vor der PSI-Strahlung schützen. Aber da wir ihn nicht getestet haben, kann ich dir natürlich nichts garantieren...\n \nIch hoffe, es klappt. Viel Glück, "Gezeichneter"!</text>
 	</string>
 	<string id="uceh_about_prizrak_0">
 		<text>What's on your mind?</text>
@@ -2914,4 +2913,4 @@
 		<text>No... Denis is a trusted friend. So who has visited us that could have known? Alright, have a rest but not too long. The Astrologer has sent an SMS for you to meet him in the Cordon at the rookie village. I communicated with the Doctor and told him to let the Astrologer know I'm alive. I'm not sure what this guy is up to but we need to be careful with him, he's a smooth operator. I want you to deliver this copy of my map to him</text>
 	</string>
 </string_table>
-<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 08.07.2017 05:30:37 -->
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 10.07.2017 00:43:39 -->
